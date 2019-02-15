@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה שנרצה</title>
+        <singer classification="male singer">עידו לדרמן</singer>
+        <writer>מאיר גולדברג</writer>
+        <composer>עידו לדרמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה שנרצה</head>
+        <lg number="1" type="stanza">
+          <l>זמן הסערה</l>
+          <l>מתקרב אל המקום שלנו </l>
+          <l>חומר בעֵירה</l>
+          <l>מתחכך בשעונים</l>
+          <l>ומה שלא יהיה, מאוחר מדי להתלונן</l>
+          <l>על כמה שקשה הדרך הזאת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה שלא יקרה</l>
+          <l>לא יהיה לנו מקום אחר </l>
+          <l>וגם אם הכוחות ייגמרו </l>
+          <l>עדיין יש אמת שלא תוותר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כי מה שנרצה</l>
+          <l>זה מה שיקרה</l>
+          <l>האש בקצה</l>
+          <l>זה מה שנהיה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מכונת הזמן </l>
+          <l>לא תיקח אותנו חזרה</l>
+          <l>להמשיך מכאן</l>
+          <l>מה יותר נכון מזה</l>
+          <l>שמש אפורה לא תצליח להרפות</l>
+          <l>את הרוח הזאת, הרוח הזאת</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מה שלא יקרה...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי מה שנרצה</l>
+          <l>זה מה שיקרה</l>
+          <l>האש בקצה</l>
+          <l>זה מה שנהיה</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>מה שנרצה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עיר בצרה</title>
+        <singer classification="unknown">חיליק צדוק</singer>
+        <writer>דן אלמגור</writer>
+        <composer>נועם שריף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עיר בצרה</head>
+        <lg number="1" type="stanza">
+          <l>עיר אשר צרים עליה, אנשים בורחים ממנה</l>
+          <l>ראשונים יוצאים ממנה, ישישים, נשים ונוער</l>
+          <l>אנשים בורחים ממנה, אך לא כן בירושלים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הנשים אמרו אנחנו, במקום שהגברים שם</l>
+          <l>הילדים אמרו גם אנו, כאן אנחנו וגמרנו</l>
+          <l>הזקנים אמרו לא באנו, כדי לצאת מירושלים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לה לה לה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא ברכנו שהחיינו</l>
+          <l>כדי לצאת מירושלים.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עיר אשר צרים עליה, אנשים בורחים ממנה</l>
+          <l>נמלטים בלאט בחושך, אך סופם חרפה וקלס</l>
+          <l>נמלטים בלאט בחושך, אך לא כן בירושלים.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כי תושבי ירושלים, נשארו בין חומותיה</l>
+          <l>נשארו בין חומותיה, מול מצור, צבא וקטל</l>
+          <l>אור גבורה להם זורח, הם חמדת ירושלים.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>לה לה לה...</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>אור גבורה להם זורח</l>
+          <l>הם חמדת ירושלים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

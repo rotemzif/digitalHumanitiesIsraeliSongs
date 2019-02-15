@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ולך מה זה עושה</title>
+        <singer classification="male singer">דודו טסה</singer>
+        <writer>דודו טסה</writer>
+        <composer>דודו טסה</composer>
+        <album>מתוך בחירה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ולך מה זה עושה</head>
+        <lg number="1" type="stanza">
+          <l>כולנו נפתחים,</l>
+          <l>מנגנים צלילים ערביים,</l>
+          <l>שרים שירים מוזרים,</l>
+          <l>משתטים וזה לא עשה לך כלום.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ערמות של מפוטרים,</l>
+          <l>אין אוכל לילדים,</l>
+          <l>סביבנו כולם משתגעים וגם אני -</l>
+          <l>וזה לא עושה לך כלום.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ולך מה זה עושה?</l>
+          <l>ולך מה זה עושה?</l>
+          <l>ולך מה זה עושה?</l>
+          <l>זה לא עושה לך כלום.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כולנו נפתחים,</l>
+          <l>פותחים ת'לבבות לאחרים,</l>
+          <l>מדברים על הילדות,</l>
+          <l>נזכרים ובוכים..</l>
+          <l>וזה לא עושה לך כלום.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ערמות של מפוטרים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

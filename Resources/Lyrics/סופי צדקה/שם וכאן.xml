@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שם וכאן</title>
+        <singer classification="unknown">סופי צדקה</singer>
+        <writer>סופי צדקה</writer>
+        <composer>פריד אל אטרש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שם וכאן</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>כשאני לא שם, אתה לא כאן</l>
+          <l>מה שהבטחנו רחוק כל כך</l>
+          <l>כשאני לא שם אתה לא כאן</l>
+          <l>והלילה לא מאחר עלי</l>
+          <l>כמו שקט של אהבה זרה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה אתן לך אם תישאר</l>
+          <l>הלב סוער הזמן סוגר</l>
+          <l>מה אתן לך אם תישאר</l>
+          <l>הלב סוער הזמן סוגר</l>
+          <l>בכל מובן אך לא תבין</l>
+          <l>אעצום את עיני מעיניך</l>
+          <l>איך לרגע נדמה ונגמר לי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>השמחה פה כמו העצבות</l>
+          <l>בעיניים יותר צללים מאור</l>
+          <l>השמחה יפה כמו העצבות </l>
+          <l>בעיניים יותר צללים מאור</l>
+          <l>כל הלילה לא שוכב הלב</l>
+          <l>איך אתה קרוב וזר</l>
+          <l>כל הגלוי הוא סוד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם תישאר מה אציע</l>
+          <l>אם תישאר מה אומר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כשאני לא שם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

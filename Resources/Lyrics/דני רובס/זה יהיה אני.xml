@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה יהיה אני</title>
+        <singer classification="male singer">דני רובס</singer>
+        <writer>איגור דרוביצקי</writer>
+        <composer>דני רובס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה יהיה אני</head>
+        <lg number="1" type="stanza">
+          <l>חתול שחור שוכב על עדן החלון</l>
+          <l>האמונה שלי ברורה ויומימית</l>
+          <l>והיא חוזרת באותה שיער שיבה לבן</l>
+          <l>אני לא חי אבל נשאר כאן לתמיד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מעבר לחלון עוברת מלחמה</l>
+          <l>אבל אותנו זה אף פעם לא מפחיד</l>
+          <l>אני שוכב על גב שמתנועע ברכות</l>
+          <l>אני ואת ביחד הוא לבד תמיד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ומחר שוב השמש את העולם</l>
+          <l>תחמם כמו כל יום בשלל גוונים</l>
+          <l>שיבוא שוב הלילה יידלק כוכב</l>
+          <l>וזה יהיה אני, זה יהיה אני</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הנשמה שלי עלתה אל השחקים</l>
+          <l>אני לבד יושב ליד המדורה</l>
+          <l>ואין אפילו צל תקווה באופק</l>
+          <l>אין ענן ורק אהבתנו רק היא נשארה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ומחר שוב השמש...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לא רציתי לעזוב כל כך צעיר</l>
+          <l>ומי שמנסה לברוח רק מפסיד</l>
+          <l>אז אל תבכי אחרי, לא אל תבכי </l>
+          <l>אל תבכי - כי לא רציתי אך הלכתי לתמיד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סטייל מיוחד</title>
+        <singer classification="unknown">שרית אביטן</singer>
+        <writer>אופיר כהן</writer>
+        <composer>אופיר כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סטייל מיוחד</head>
+        <lg number="1" type="stanza">
+          <l>אני אוהבת כך לחיות לבלות ולהנות </l>
+          <l>לצאת לרקוד לי בלילות במועדון עם חברות</l>
+          <l>להשתגע על הבר מבלי לחשוב על המחר</l>
+          <l>אבל בסוף כל בילוי לילי חוזרת לנסיך שלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ויש לי סטייל מיוחד אני לא יוצאת עם כל אחד</l>
+          <l>אני לא נותנת את הלב לכל מי שמתקרב</l>
+          <l>ויש לי סטייל מיוחד אני לא יוצאת עם כל אחד</l>
+          <l>רוצה אותך מבין כולם כי אין עליך בעולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אמרו עלי הרבה דברים היא משחקת בגברים</l>
+          <l>אני ילדה של אהבה ויש לי נשמה טובה</l>
+          <l>לא מתפשרת בקלות אני דוגלת באיכות </l>
+          <l>מצאתי אהבה יפה וחיה לי כמו נסיכה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ויש לי סטייל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

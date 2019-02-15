@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחר בעזרת השם</title>
+        <singer classification="male singer">שלומי שבן</singer>
+        <writer>שלומי שבן</writer>
+        <composer>שלומי שבן</composer>
+        <album>שלומי שבן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחר בעזרת השם</head>
+        <lg number="1" type="stanza">
+          <l>איך שהזמן עובר כאילו כלום</l>
+          <l>לא אמרנו</l>
+          <l>מחר למחר חובר, והנה אפלה</l>
+          <l>בקול, בצעד הבוחר שלא לדעת</l>
+          <l>אימרי במה שאזכר כדי לראות</l>
+          <l>איך קרה, איך שקרה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מחר בעזרת השם</l>
+          <l>נפתח לנו דף חדש</l>
+          <l>וכל מה שמתנשם</l>
+          <l>יסחוף אותי, יקח אותך</l>
+          <l>ואין לנו אלא שם</l>
+          <l>לקרוא בו את מה שנתרגש</l>
+          <l>אהבתנו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>טל עוזב את התריסים,</l>
+          <l>מבט ועיניים מתפייסים</l>
+          <l>דמעה במורדות ריסים, והנה אפלה</l>
+          <l>בקול, בצעד הבוחר שלא לדעת</l>
+          <l>אימרי במה ואזכר כדי לראות</l>
+          <l>איך קרה, איך שקרה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מחר בעזרת השם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

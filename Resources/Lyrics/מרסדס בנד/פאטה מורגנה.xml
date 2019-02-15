@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פאטה מורגנה</title>
+        <singer classification="band">מרסדס בנד</singer>
+        <writer>גל תורן</writer>
+        <composer>גל תורן</composer>
+        <album>זהות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פאטה מורגנה</head>
+        <lg number="1" type="stanza">
+          <l>היא שוב ניצבת מול מדבר </l>
+          <l>מרוב החום מתפוצצות שפתיים </l>
+          <l>בבארות שלה יבשו המים </l>
+          <l>היא שוב ניצבת מול מדבר </l>
+          <l>מרחוק הוא מתקרב </l>
+          <l>לעברו היא מושיטה ידיים </l>
+          <l>זה לא חייב להיות כואב </l>
+          <l>מרחוק הוא מתקרב </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פאטה מורגנה </l>
+          <l>כשהוא נוגע בה </l>
+          <l>נווה מדבר בבדידותה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא מתפתלת על החול </l>
+          <l>הוא תולש ממנה מכנסיים </l>
+          <l>החול נעים מתחת לברכיים </l>
+          <l>היא מתמסרת על החול </l>
+          <l>הוא נותן לה את הכל </l>
+          <l>היא לוקחת עוד ועוד ועוד </l>
+          <l>התיאבון כל כך גדול </l>
+          <l>היא לוקחת את הכל </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פאטה מורגנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

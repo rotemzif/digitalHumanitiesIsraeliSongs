@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את שלי 8</title>
+        <singer classification="unknown">מאור אדרי</singer>
+        <writer>מאור אדרי</writer>
+        <composer>מאור אדרי</composer>
+        <album>הגבר שכבש</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את שלי</head>
+        <lg number="1" type="stanza">
+          <l>גם כשלפעמים נראה שקצת קשה</l>
+          <l>אל תשכחי מבטיח שזה עוד ישתנה</l>
+          <l>יש לי עוד מילים לומר מתוך הלב</l>
+          <l>לספר להתקרה להתאהב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את שלי הלילה את שלי</l>
+          <l>הסתכלי למעלה ותראי</l>
+          <l>המזל מאיר דרכינו</l>
+          <l>מלמעלה חיברו בין שנינו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>באתי אלייך בדרך ארוכה</l>
+          <l>כי בעומקי אהבתנו יש ברכה</l>
+          <l>אלוקים חיבר את שנינו לאהבה</l>
+          <l>ורוצה בך שתהיי לי לאישה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את שלי הלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

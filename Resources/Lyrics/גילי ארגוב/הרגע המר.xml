@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הרגע המר</title>
+        <singer classification="male singer">גילי ארגוב</singer>
+        <writer>אברהם לוי</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הרגע המר</head>
+        <lg number="1" type="stanza">
+          <l>הוא קרא לה ילדונת וכבש את ליבה</l>
+          <l>הוא נתן לה מזכרת והצית להבה</l>
+          <l>ארמונות לה הבטיח וסיפר אגדות</l>
+          <l>דמיונה אז הרקיע ורקמה חלומות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אך הרגע המר לא חושש לא איחר</l>
+          <l>הוא הלך ומיהר לאחרת</l>
+          <l>לא הבינה על מה כה חשוך עולמה</l>
+          <l>ועיניה דומעות בעצב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא איני מבקשת רחמים וסבלה</l>
+          <l>עוד תפילה לא לוחשת לא שולחת מילה</l>
+          <l>רק את זאת היא זוכרת ולא תבין לעולם</l>
+          <l>איך קרא לה ילדונת גם הבטיח עולם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אך הרגע המר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלום יפה</title>
+        <singer classification="unknown">שי אוחיון</singer>
+        <writer>יוני רועה</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלום יפה</head>
+        <lg number="1" type="stanza">
+          <l>בחיי זורחת שמש </l>
+          <l>שמאירה בי כל יום שמתחדש</l>
+          <l>בשיריי יוצא הרגש </l>
+          <l>וכנראה שהכל זה בגללך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>החיים איתך הם סרט</l>
+          <l>חלום יפה שמתגשם</l>
+          <l>ורק איתך אני יודע </l>
+          <l>אוהב אותך וזה הרבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק תדעי שבלעדייך </l>
+          <l>היום הוא יום שלא עובר</l>
+          <l>שמבטיי במבטייך </l>
+          <l>זה הזמן שעליו לא אוותר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אהבתי לך כמו דרך </l>
+          <l>וזה חזק מימני וממך</l>
+          <l>ואני מרגיש כהלך </l>
+          <l>ביום בלילה ובליל</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>החיים איתך הם סרט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

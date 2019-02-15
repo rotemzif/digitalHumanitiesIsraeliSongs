@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אילת 3</title>
+        <singer classification="unknown">חבורת שהם</singer>
+        <writer>חיים גורי</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אילת</head>
+        <lg number="1" type="stanza">
+          <l>בין הרים צורי האופל נערמו</l>
+          <l>ובתולה הדרך פתלתלה.</l>
+          <l>מצוקי הגרניט המתרסקים הימה</l>
+          <l>ראינוך אילת, אילת!</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מהר חרמון הרם</l>
+          <l>עד חוף אילת -</l>
+          <l>כולך שלי</l>
+          <l>באש, בחוזק יד.</l>
+          <l>שמש, שמש אור</l>
+          <l>על ראשנו</l>
+          <l>ומשב סופה עובר על פני ההר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חברים, היום נישא את עינינו -</l>
+          <l>ניצבות שורות הלוחמים.</l>
+          <l>באשר נאחזנו יחד בידינו</l>
+          <l>לא ניטוש לעולמים!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מהר חרמון הרם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

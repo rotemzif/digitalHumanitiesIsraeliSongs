@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני הולך לבית שאן</title>
+        <singer classification="male singer">גרי אקשטיין</singer>
+        <writer>גרי אקשטיין</writer>
+        <composer>גרי אקשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני הולך לבית שאן</head>
+        <lg number="1" type="stanza">
+          <l>אין חשמל ואין אפילו מים</l>
+          <l>ואין גם אף אחד שמתקן לי ת'גרביים, אבל</l>
+          <l>יש מקום אחר והוא הרבה יותר יפה</l>
+          <l>האויר נקי וזה ממש שווה זהב, אהה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אין פה להשיג שום סיגריה במכולת</l>
+          <l>ואין כאן אף אחת שתסבן לי את הגב, אגב</l>
+          <l>יש פינה למטה בכיכר</l>
+          <l>ואלף בחורות כבר מחכות לי שם עכשיו, אהה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני הולך, אני הולך</l>
+          <l>אני הולך לבית שאן</l>
+          <l>אני הולך, אני הולך</l>
+          <l>לבית שאן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוד רפורט חטפתי בקולנוע</l>
+          <l>וגם קיבלתי הזמנה לבית משפט בשבת</l>
+          <l>לא נשאר לי כח, יצא לי כל המיץ</l>
+          <l>המצב קשה ויש לי חשק להרביץ, אהה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני הולך, אני הולך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

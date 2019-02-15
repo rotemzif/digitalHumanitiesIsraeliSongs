@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מוכרת לי מפעם</title>
+        <singer classification="female singer">דין דין אביב</singer>
+        <writer>חמוטל בן זאב</writer>
+        <composer>עידן רייכל</composer>
+        <album>סודותי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מוכרת לי מפעם</head>
+        <lg number="1" type="stanza">
+          <l>רגע לפני שקיעה </l>
+          <l>אני מחבק אותך</l>
+          <l>וכדור של אש כמו ליבי</l>
+          <l>צולל ונופל איתך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אחר כך בא החושך </l>
+          <l>הקסם נעלם</l>
+          <l>רק עומק מבטייך</l>
+          <l>וצער העולם</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את מוכרת לי מפעם</l>
+          <l>אולי מגלגול אחר..</l>
+          <l>חלום שהשאיר בי טעם</l>
+          <l>של זיכרון בוער</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ולפני שאני נוגע</l>
+          <l>בטרם זריחה</l>
+          <l>תבואי ותגידי</l>
+          <l>אני כולי שלך </l>
+          <l>אני כל כולי שלך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יש אחת בדמיוני </l>
+          <l>טובה ומתוקה</l>
+          <l>ואני מכוון אליה</l>
+          <l>מתוך ענן שתיקה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אולי משם הגעת לי</l>
+          <l>ואם את אמיתית</l>
+          <l>קחי אותי אלייך</l>
+          <l>זו השגחה פרטית</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>את מוכרת לי מפעם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלילה ארבתי</title>
+        <singer classification="male singer">שלמה ארצי</singer>
+        <writer>חיים נחמן ביאליק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלילה ארבתי</head>
+        <lg number="1" type="stanza">
+          <l>הלילה ארבתי על חדרך</l>
+          <l>ואראך שוממה החרשת;</l>
+          <l>בעינייך הנבוכות בחלון</l>
+          <l>נישמתך האובדה ביקשת -</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ביקשת את גמול חסד נעורייך -</l>
+          <l>ואת לא ראית, אהובתי,</l>
+          <l>כי כיונה חרדה בחלונך</l>
+          <l>התחבטה, התלבטה נישמתי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

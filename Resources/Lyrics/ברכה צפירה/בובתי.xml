@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בובתי</title>
+        <singer classification="female singer">ברכה צפירה</singer>
+        <writer>חיים נחמן ביאליק</writer>
+        <composer>נחום נרדי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בובתי</head>
+        <lg number="1" type="stanza">
+          <l>בי, ביתי, בובתי,</l>
+          <l>אל תבכי, חמדתי,</l>
+          <l>בי, שבי בעגלתי,</l>
+          <l>שבי דומם, אל תיבכי,</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את אימך נא חיבקי,</l>
+          <l>חיבקיה, נשקיה,</l>
+          <l>ואם תזכי אביאה</l>
+          <l>לך גם סוכריה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

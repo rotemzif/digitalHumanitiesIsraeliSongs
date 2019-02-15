@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אומץ 2</title>
+        <singer classification="male singer">דודי לוי</singer>
+        <writer>דודי לוי</writer>
+        <composer>דודי לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אומץ</head>
+        <lg number="1" type="stanza">
+          <l>הכל תלוי באומץ להיות שייך </l>
+          <l>למשהו</l>
+          <l>למישהו</l>
+          <l>אליה</l>
+          <l>אל דבר מסוים שהוא לא אתה</l>
+          <l>שלא יוצא ממך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אחרת זה סוגר</l>
+          <l>הכל עוצר</l>
+          <l>נועל את כל השערים</l>
+          <l>לא נכנס ולא יוצא</l>
+          <l>בדידות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הכל תלוי באומץ להתמסר</l>
+          <l>להשאיר את הלב בידיה</l>
+          <l>לא לפחד שתשתמש</l>
+          <l>לדעת שהיא תקבל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אחרת זה סוגר</l>
+          <l>הכל עוצר</l>
+          <l>נועל את כל השערים</l>
+          <l>לא נכנס ולא יוצא</l>
+          <l>בדידות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

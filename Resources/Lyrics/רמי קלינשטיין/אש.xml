@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אש 112</title>
+        <singer classification="male singer">רמי קלינשטיין</singer>
+        <writer>חנה גולדברג</writer>
+        <composer>רמי קלינשטיין</composer>
+        <album>ביום של הפצצה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אש</head>
+        <lg number="1" type="stanza">
+          <l>אש באה בשקט</l>
+          <l>שמעתי אותה צוחקת</l>
+          <l>אני רואה אותה, היא באה לבקר בתוכי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אש באה לוחשת</l>
+          <l>אמרה שהיא כבר נוטשת</l>
+          <l>אמרה לי: תשרוף,</l>
+          <l>שרוף את עצמך בשבילי.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כמו אש, אש על הפנים</l>
+          <l>זה בא וגונב אותי מבפנים</l>
+          <l>זה כמו אש על הפנים</l>
+          <l>כמו אש, אש על הפנים</l>
+          <l>זה בא ושורף אותי מבפנים</l>
+          <l>זה כמו אש על הפנים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יושב במרפסת</l>
+          <l>פתאום היא אותי אונסת</l>
+          <l>פתאום זה תופס, ואני בוער מבפנים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עוזב את הבית</l>
+          <l>שום דבר לא ברור עדיין</l>
+          <l>מוצא את עצמי על המדרכה</l>
+          <l>על הפנים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כמו אש, אש על הפנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

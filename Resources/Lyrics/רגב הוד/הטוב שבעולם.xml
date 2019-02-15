@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הטוב שבעולם</title>
+        <singer classification="male singer">רגב הוד</singer>
+        <writer>דודו אהרון</writer>
+        <composer>דודו אהרון</composer>
+        <album>נשבענו</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הטוב שבעולם</head>
+        <lg number="1" type="stanza">
+          <l>את מתוקה ואת שלי אני יודע</l>
+          <l>שאין אחרת מלבדך עוד בעולם</l>
+          <l>אני ואת זה החיבור המנצח</l>
+          <l>בשבילי את כל האושר הקיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את כל הטוב שבעולם</l>
+          <l>אני אביא לך </l>
+          <l>כי אין אחרת מיוחדת </l>
+          <l>כמו שאת</l>
+          <l>את המזל שבחיי </l>
+          <l>פתאום הופיע</l>
+          <l>את האישה שלה </l>
+          <l>חיכיתי כל ימי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מאז שאת איתי אני כל כך שמח</l>
+          <l>ולא מפסיק איתך לרגע לחייך</l>
+          <l>את הסיבה שבגללה אני פורח</l>
+          <l>אני אדם שרק אוהב מכל הלב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את כל הטוב שבעולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

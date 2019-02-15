@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואי נברח 3</title>
+        <singer classification="male singer">ירמי קפלן</singer>
+        <writer>ירמי קפלן</writer>
+        <composer>ירמי קפלן</composer>
+        <album>חשק</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואי נברח</head>
+        <lg number="1" type="stanza">
+          <l>הייתי לך בית והיית לי עניים</l>
+          <l>שמחה גדולה</l>
+          <l>הייתי לך יין ושתינו בשניים</l>
+          <l>עד לשכורה</l>
+          <l>עד אובדן שליטה</l>
+          <l>איפה את עכשיו?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם יש אהבה יש על מה להילחם</l>
+          <l>אם אין בואי נשכח</l>
+          <l>אם את מוכנה לרוץ איתי עד הקצה</l>
+          <l>אם כן בואי עכשיו</l>
+          <l>אם יש אהבה</l>
+          <l>אם כן בואי נברח</l>
+          <l>בואי נברח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהיה לך כמו מים</l>
+          <l>אהיה לך גם ים</l>
+          <l>אשטוף אותך</l>
+          <l>סוחף רוגש כמו גל בים של אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם יש אהבה יש על מה להילחם</l>
+          <l>אם אין בואי נשכח</l>
+          <l>אם את מוכנה לרוץ איתי עד הקצה</l>
+          <l>אם כן בואי עכשיו</l>
+          <l>אם יש אהבה</l>
+          <l>אם כן בואי נברח</l>
+          <l>בואי נברח</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איפה שתהיי</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>איתי זילברשטין</writer>
+        <composer>ירון כהן</composer>
+        <album>כתוב בשמים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איפה שתהיי</head>
+        <lg number="1" type="stanza">
+          <l>את היופי שלך מלאכים מציירים</l>
+          <l>בעיניים שלך כל חיי משתקפים</l>
+          <l>ואת זורמת לי בדם</l>
+          <l>מלטפת כמו הים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גם אם תלכי עד קצה עולם אני אגיע</l>
+          <l>ואת כל הזמן לצידך אני אנציח</l>
+          <l>כי את יפתי את הכוח שלי</l>
+          <l>איפה שתהיי שם אני... שם אני</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מחזקת אותי בלילות לצידי</l>
+          <l>מרגיעה את כולי </l>
+          <l>ממלא את ליבי</l>
+          <l>ואת זורמת לי בדם</l>
+          <l>מלטפת כמו הים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

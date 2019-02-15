@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הזמר</title>
+        <singer classification="male singer">עמוס ברזל</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הזמר</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>הזמר עולה מכל הלבבות,</l>
+          <l>הזמר פורץ את כל הגבולות</l>
+          <l>ביחד לא נפסיק עד עולם,</l>
+          <l>הוא שלוח מלב כולם.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לכל אדם יש זמר אהבה משלו,</l>
+          <l>על עצב ושמחה שבו.</l>
+          <l>כל אדם נושא, נושא בליבו</l>
+          <l>את הזמר שלו.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לכל אדם יש זמר עם חלום משלו,</l>
+          <l>על יופי ותקוה שבו.</l>
+          <l>הזמר מעודד, אותנו מלווה</l>
+          <l>כמו הזמר הזה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הזמר עולה מכל הלבבות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

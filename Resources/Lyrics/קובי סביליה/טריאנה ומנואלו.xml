@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טריאנה ומנואלו</title>
+        <singer classification="unknown">קובי סביליה</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי ספרדי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טריאנה ומנואלו</head>
+        <lg number="1" type="stanza">
+          <l>זה סיפור אותו עדיין יספרו בכל הכפר</l>
+          <l>על טריאנה שהכזיבה והשאירה לב נשבר</l>
+          <l>כי אמרו למנואלו שבגדה בו עם כולם</l>
+          <l>ונשבע אז מנואלו שיבוא יום-הנקם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>טריאנה ומנואלו.</l>
+          <l>זה סיפור על מנואלו וטריאנה היפה.</l>
+          <l>טריאנה ומנואלו,</l>
+          <l>זאת אגדה שעוברת מאב לבן</l>
+          <l>איך שטריאנה בגדה במנואלו הזקן.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עם חרבו יצא לדרך וכולו אומר-נקם</l>
+          <l>כי לימדו את מנואלו שכבוד נגאל בדם.</l>
+          <l>כשנמצאה טריאנה הוא נעץ בה את חרבו</l>
+          <l>ונפל שם על החרב שפילחה גם את לבו.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>טריאנה ומנואלו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

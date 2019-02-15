@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ברחובות העיר 2</title>
+        <singer classification="male singer">חיים משה</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ברחובות העיר</head>
+        <lg number="1" type="stanza">
+          <l>ברחובות העיר סתם מסתובב</l>
+          <l>בבתי קפה שעות יושב</l>
+          <l>פוגש ת'חבר'ה קצת ומנסה</l>
+          <l>לברוח אל עולם אחר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ושר אני שירים מתוך הלב</l>
+          <l>שלפעמים מאוד כואב</l>
+          <l>בפנים מאוד כואב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו ציפור בדרך אל האור</l>
+          <l>מחפש אני עוד קרן אור</l>
+          <l>נושא לאל עיני ומבקש</l>
+          <l>שמור לי על מה שיש.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ושר אני שירים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

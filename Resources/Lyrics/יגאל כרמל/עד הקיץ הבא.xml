@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד הקיץ הבא</title>
+        <singer classification="male singer">יגאל כרמל</singer>
+        <writer>יגאל כרמל</writer>
+        <composer>יגאל כרמל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד הקיץ הבא</head>
+        <lg number="1" type="stanza">
+          <l>שמש כזאת לא באה סתם </l>
+          <l>סוף העולם לא מפחיד אותך </l>
+          <l>שיר ישן של דויד אבידן </l>
+          <l>את מכניסה אותו בכיס הקטן </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך לא ידענו לבכות עד עכשיו </l>
+          <l>אם לא נמות לא נדע לעולם </l>
+          <l>תחזיקי חזק תחזיקי חזק </l>
+          <l>עד הקיץ הבא </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוזבים הכל ויורדים לים </l>
+          <l>הצל שלי עם הצל שלך </l>
+          <l>חזה אל חזה ונשימה </l>
+          <l>לא רציתי לדעת הייתי מוכרח </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך לא ידענו לבכות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

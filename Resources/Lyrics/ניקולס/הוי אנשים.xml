@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הוי אנשים</title>
+        <singer classification="male singer">ניקולס</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הוי אנשים</head>
+        <lg number="1" type="stanza">
+          <l>הוי אנשים אימרו לי מה לעשות</l>
+          <l>ליבי נשרף בלהבות</l>
+          <l>רופא בדק אותי בכה עם דמעות</l>
+          <l>לפצע שכזה</l>
+          <l>אמר אין לי תרופות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשאני יוצא לרחוב</l>
+          <l>ואני רואה אותם</l>
+          <l>את והוא שלובי זרועות</l>
+          <l>ואני כה מקופח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חלפו הימים</l>
+          <l>ואותי שכחת</l>
+          <l>ואני לעולם</l>
+          <l>לא אשכח אותך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

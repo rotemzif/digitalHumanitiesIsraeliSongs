@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האחד 3</title>
+        <singer classification="unknown">גיא יעקובי</singer>
+        <writer>ראם כהן</writer>
+        <composer>הדר סירי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האחד</head>
+        <lg number="1" type="stanza">
+          <l>מנסה להחזיר את ליל אמש </l>
+          <l>בו היום הוא המחר </l>
+          <l>שיחזור אלי הרגש </l>
+          <l>צריך רק לשאוף מאהבתך שוב</l>
+          <l>כי שוב דבר אחר לא חשוב </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שתדעי שרציתי יותר מהכל </l>
+          <l>להיות האחד שאת האחת שלו </l>
+          <l>להיות שלך...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את הכנסת לחיי את הערך </l>
+          <l>את היום את המחר </l>
+          <l>רק איתך עברתי דרך</l>
+          <l>עכשיו שאת כאן אין ממני מאושר </l>
+          <l>לכן היום אני לך שר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שתדעי שרציתי יותר מהכל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

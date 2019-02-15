@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לבדי 10</title>
+        <singer classification="unknown">עומר אדם</singer>
+        <writer>אבי אוחיון</writer>
+        <composer>אסף צרויה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לבדי</head>
+        <lg number="1" type="stanza">
+          <l>לילה שוב מקיץ והעולם כולו שותק</l>
+          <l>הדממה חובקת מנסה להשתלט</l>
+          <l>רק ליבי עוד ער קורא צועק אל העולם</l>
+          <l>מה לך אהובה מתי תשובי לחיי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אין ספור כוכבים זורחים צפים בים שחור</l>
+          <l>שוב הם מזכירים לי איך נותרתי מאחור</l>
+          <l>לבנה כמעט ומנחמת באור גנוז</l>
+          <l>איך דווקא עכשיו ענן אפור החליט לזוז</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לבדי וליבי עוד קורא לך</l>
+          <l>מה אם אולי את עדיין אוהבת</l>
+          <l>את בוודאי קצת כמוני כואבת</l>
+          <l>את בוודאי לבדך גם יושבת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לילה לא נרדם ועלטה בכל העיר</l>
+          <l>עצב ובדידות שקצת קשה לי להסביר</l>
+          <l>בליבי עדיין מתגוררת לה תקווה</l>
+          <l>שחר יעלה ואת תשובי חזרה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לבדי וליבי עוד קורא לך</l>
+          <l>מה אם אולי את עדיין אוהבת</l>
+          <l>את בוודאי קצת כמוני כואבת</l>
+          <l>את בוודאי לבדך גם יושבת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

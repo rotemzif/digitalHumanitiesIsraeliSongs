@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צלילה חופשית</title>
+        <singer classification="unknown">גילו כהן</singer>
+        <writer>גילו כהן</writer>
+        <composer>גילו כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צלילה חופשית</head>
+        <lg number="1" type="stanza">
+          <l>בשבילה אתה עף רחוק</l>
+          <l>בשבילה אתה שורט כדיי לכאוב</l>
+          <l>בשבילה אתה חונק את המחשבות</l>
+          <l>בשבילה אתה צמא כדיי לשתות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמה שטוב להיות עכשיו איתה</l>
+          <l>כמה עמוק אתה מוכן לצלול את הנהר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בשבילך אתה רחוק</l>
+          <l>בשבילך אתה שורף הכול</l>
+          <l>בשבילך אתה שותה כדיי לרוות</l>
+          <l>בשבילך זה יהיה סיום מתוק</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמה שטוב להיות עכשיו איתה</l>
+          <l>כמה עמוק אתה מוכן לצלול את הנהר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

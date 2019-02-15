@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני המלאך</title>
+        <singer classification="unknown">ראובן המלאך</singer>
+        <writer>צדי אור</writer>
+        <composer>צדי אור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני המלאך</head>
+        <lg number="1" type="stanza">
+          <l>אפרוש כנף ואקח אותך איתי לעד</l>
+          <l>אל מקום שקט</l>
+          <l>את הלב לתת</l>
+          <l>רק אני ואת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואת מלכה ואני מלאך</l>
+          <l>ויהיה לנו ילד קטן</l>
+          <l>ארמון קסום במקום שלו</l>
+          <l>מעבר לים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני המלאך שאוהב רק אותך וליבי שלך</l>
+          <l>ואת המלכה שלי מחכה עד השניה</l>
+          <l>אני המלאך לעולם לא אשכח אותך</l>
+          <l>ואת הילדה כמו באגדה שבשבילי נולדה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אפרוש כנף ונעוף אל עולם יפה ומוגן</l>
+          <l>אל מקום נפלא שלכבודך נברא את פרח בר בגן</l>
+          <l>ואת כה יפה ואני שלך</l>
+          <l>חלום נרקם</l>
+          <l>ובסוף נשוט בסירה קטנה אל לב הים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני המלאך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

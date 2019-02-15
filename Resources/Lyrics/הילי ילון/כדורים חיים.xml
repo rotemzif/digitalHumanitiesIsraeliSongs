@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כדורים חיים</title>
+        <singer classification="unknown">הילי ילון</singer>
+        <writer>עופר קורן</writer>
+        <composer>הילי ילון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כדורים חיים</head>
+        <lg number="1" type="stanza">
+          <l>אין מקום להתחבא כבר מאוחר</l>
+          <l>אולי אני אלך לישון אקום מחר </l>
+          <l>אולי הכל עוד ישתנה אני אראה</l>
+          <l>בינתיים יש בי כדורים זה יתאחה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כדורים חיים כדורים חיים</l>
+          <l>לא מבינה שאלה כדורים חיים</l>
+          <l>כדורים חיים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שקט בוא אלי עכשיו אני זקוקה</l>
+          <l>לעוד טיפה של תקווה קליפה סדוקה </l>
+          <l>אולי עכשיו אלך לישון אקום מחר </l>
+          <l>בינתיים יש בי כדורים ומאוחר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כדורים חיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

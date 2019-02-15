@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שבוי 10</title>
+        <singer classification="band">סטלה מאריס</singer>
+        <writer>פבלו רוזנברג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שבוי</head>
+        <lg number="1" type="stanza">
+          <l>באת עם סכין שלופה ביד,</l>
+          <l>דם לא נוזל מן הדקירות.</l>
+          <l>אני כמו חיב אל מול צייד,</l>
+          <l>כבול מטפס על הקירות.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שוב שבוי שלך,</l>
+          <l>בלי שום כושר החלטה.</l>
+          <l>מסתנוור עיוור כמו עטלף,</l>
+          <l>שוב שבוי שלך,</l>
+          <l>בתוך לב העלטה,</l>
+          <l>מסתנוור עיוור כמו עטלף.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>באת עם אקדח טעון וחם,</l>
+          <l>נדחף ונצמד אל תוך הקיר.</l>
+          <l>שפוי כבר מזמן היה נלחם,</l>
+          <l>אני את עצמי כבר לא מכיר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שוב שבוי שלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

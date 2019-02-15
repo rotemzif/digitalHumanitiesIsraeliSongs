@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תני לי את היין</title>
+        <singer classification="male singer">שאול צירלין</singer>
+        <writer>שאול צירלין</writer>
+        <composer>שאול צירלין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תני לי את היין</head>
+        <lg number="1" type="stanza">
+          <l>תני לי את היין, טיפה עוד לא שתיתי מאתמול </l>
+          <l>עד לתוך עינייך, המוצפות באור, אני אצלול </l>
+          <l>תני לי את מתנייך, ויחד הבה נצא במחול </l>
+          <l>להבות שפתחייך נוגעות בי ושורפות בי את הכל </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תני לי את ידך, אני אלך איתך </l>
+          <l>למקום ששם האהבה </l>
+          <l>תני לי את כולך ונשמתי תשמח </l>
+          <l>אל יום אביב שבא. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תני לי את היין, אדום, צלול, עתיק, מן המרתף </l>
+          <l>עוד כוסית או שתיים וכל הטוב שבנו יצטרף </l>
+          <l>תני את חום ידייך, המסי את לבי במבטך </l>
+          <l>בא אני אלייך כי אין מלים יפות מחיוכך </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תני לי את ידך, אני אלך איתך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

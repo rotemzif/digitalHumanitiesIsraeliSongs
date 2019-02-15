@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>העצלן</title>
+        <singer classification="unknown">ג קי מקייטן</singer>
+        <writer>שלמה כישור</writer>
+        <composer>ג'קי מקייטן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>העצלן</head>
+        <lg number="1" type="stanza">
+          <l>טיפת מזל בכל דבר, עוזרת לפעמים</l>
+          <l>אך לא צריך לשכב מתחת לסדינים.</l>
+          <l>עם קצת רצון ומאמץ אפשר להפוך עולם,</l>
+          <l>אבל עצלן ממשיך לרבוץ-לו שם נרדם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את הראש שם בכר, מפהק פיהוק רחב.</l>
+          <l>את עיניו כבר סגר, מחכה הוא למזל</l>
+          <l>שיבוא במהרה, שייתן לו עזרה בכל דבר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז בא מזל, ראה עצלן, הביט בו והלך.</l>
+          <l>אין זמן לכל בטלן שלמיטה נמשך</l>
+          <l>והעצלן רגליו מתח, המשיך לישון-לו שם.</l>
+          <l>הוא רק שינה מצב, הוא לא כזה שקם.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את הראש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

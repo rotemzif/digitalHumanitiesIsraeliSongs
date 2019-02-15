@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד מתי 14</title>
+        <singer classification="unknown">הבליינים</singer>
+        <writer>מאור כהן</writer>
+        <composer>אורן לוטנברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד מתי</head>
+        <lg number="1" type="stanza">
+          <l>היא אתמול ישבה אצלי בחדר</l>
+          <l>וסיפרה לי על דא והא</l>
+          <l>ואיך הם רבו אצלה בראש בחדר</l>
+          <l>הקטן שבמגירה</l>
+          <l>לא ניצלתי את דמותי אבל בצלם</l>
+          <l>היא נכנסה איתה</l>
+          <l>למיטה שהיתה גם אז בחדר</l>
+          <l>הו, איך צחקנו איתה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עד מתי לבד, עד מתי לבד</l>
+          <l>לא חושב עליו, אז עד מתי לבד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>למיטה שהייתה גם אז בחדר</l>
+          <l>היא נכנסה איתי</l>
+          <l>לא ניצלתי את דמותי אבל בצלם</l>
+          <l>הקטן שבמגירה</l>
+          <l>ואיך הם רבו אצלה בראש בחדר</l>
+          <l>הו, איך צחקנו איתה</l>
+          <l>לא ניצלתי את דמותי אבל בצלם</l>
+          <l>היא אתמול ישבה אצלי בחדר</l>
+          <l>וסיפרה לי על דא והא</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עד מתי לבד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

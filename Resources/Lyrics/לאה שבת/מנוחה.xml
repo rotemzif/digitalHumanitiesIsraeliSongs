@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מנוחה</title>
+        <singer classification="female singer">לאה שבת</singer>
+        <writer>אהוד מנור</writer>
+        <composer>לאה שבת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מנוחה</head>
+        <lg number="1" type="stanza">
+          <l>את חיי עד הנה משתדלת לזכור</l>
+          <l>כי אותם אצליח להבין רק לאחור</l>
+          <l>כן זה חוק הטבע מימים ימימה</l>
+          <l>מבינים רק לאחור אבל חיים קדימה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בחיי עד הנה לא למדתי הרבה</l>
+          <l>אור נדלק בבוקר ובערב הוא כבה</l>
+          <l>זה מה שהצלחתי להבין בדרך</l>
+          <l>ואוכל זאת לסכם בשתי מילים בערך...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אוי איך החיים הלאה ממשיכים</l>
+          <l>איך הם מבטיחים</l>
+          <l>איך הם שוכחים.</l>
+          <l>אוי איך החיים, איך שהם עוברים</l>
+          <l>איך הם מבטיחים</l>
+          <l>איך הם שוכחים.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אין תרופה למוות ואין גם ללידה</l>
+          <l>על כל מה שבאמצע אין מספיק מידע</l>
+          <l>על הלך ועל מלך מתנדנד החבל</l>
+          <l>אבל צריך לבחור בין שעמום לסבל...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אוי איך החיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

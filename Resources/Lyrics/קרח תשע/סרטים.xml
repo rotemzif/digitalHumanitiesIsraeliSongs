@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סרטים 3</title>
+        <singer classification="unknown">קרח תשע</singer>
+        <writer>נעם רותם</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סרטים</head>
+        <lg number="1" type="stanza">
+          <l>כואב לדעת את הכל ברגעים של יחד</l>
+          <l>אולי יותר פשוט לזחול להסתתר</l>
+          <l>מתחת משפטים של אחרים</l>
+          <l>של שחקנים בסרט</l>
+          <l>סרטים פשוטים מהחיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קם ולוקח סם אותך בתוך תיבה</l>
+          <l>שלוליות של אהבה</l>
+          <l>גם אם רצית להיות יותר מסרט זול</l>
+          <l>בשבילי תהיי הכל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בכל רגע של כנות</l>
+          <l>חיים שלמים בשקר</l>
+          <l>ניפגש בהוליווד ואת תהיי כוכבת של סרטים</l>
+          <l>שמתחבאים</l>
+          <l>מאנשים נורמלים ופשוטים</l>
+          <l>בלי עיוותים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קם ולוקח סם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

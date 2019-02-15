@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צועקת אליך</title>
+        <singer classification="female singer">מרגלית צנעני</singer>
+        <writer>אסף לביא צנעני</writer>
+        <composer>אסף לביא צנעני</composer>
+        <album>דווקא היום</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צועקת אליך</head>
+        <lg number="1" type="stanza">
+          <l>זוכרת את פניך</l>
+          <l>ואת מבט עיניך</l>
+          <l>והימים חולפים בלעדיך</l>
+          <l>למי תמיד הקשבת</l>
+          <l>על מה תמיד חשבת</l>
+          <l>אני אזכור כמה שאהבת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>צועקת אליך בקול ואתה לא עונה לי</l>
+          <l>רוצה רק אליך אז למה אתה לא עונה לי</l>
+          <l>ראיתי אותך בשמים, לוחש לי עם המלאכים</l>
+          <l>תבטיחי לי, תבטיחי שתחייכי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וכל מה שעשית</l>
+          <l>תיקנתי כשטעית</l>
+          <l>כל החיים היו לפניך</l>
+          <l>וכל מה שהשארת</l>
+          <l>בדרך שעברת</l>
+          <l>אני אשמור בליבי לנצח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>צועקת אליך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יום חדש 10</title>
+        <singer classification="female singer">ריטה</singer>
+        <writer>ריטה</writer>
+        <composer>missing</composer>
+        <album>חמצן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יום חדש</head>
+        <lg number="1" type="stanza">
+          <l>היום לא אשפוט, לא אשפוט דבר</l>
+          <l>אצחק לפחות פעם אחת כשבטני מטלטלת</l>
+          <l>ארקוד ללא סיבה, אשחרר ואחבק</l>
+          <l>ואתן לאחר את מה שאני רוצה לקבל</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היום לא אשפוט, לא אשפוט אף אדם</l>
+          <l>אצחק מלוא בטני ואחבק את עצמי</l>
+          <l>לא נחות מאיש, לא נעלה על שום אדם</l>
+          <l>הנתינה תחולל קבלה, כל מה שהולך גם שב ובא</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>היום אולי אסלח לך, אסלח גם לעצמי</l>
+          <l>על כל מה שהכאבנו אחד לשני</l>
+          <l>היום אולי אוהב אותך, אוהב גם אותי</l>
+          <l>בלי סוף ובלי חשש, היום יום חדש</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היום לא אשפוט, לא אשפוט דבר</l>
+          <l>אצעק מראש ההר ולא אפחד משום אתגר</l>
+          <l>עכשיו הזמן החשוב, טעם של לחם, וצבע של תות</l>
+          <l>היום אהיה חופשיה אנשום הכי עמוק שאני, שאני יכולה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>היום אולי אסלח לך...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>היום אני לא אהיה קיצונית בשום דבר</l>
+          <l>אפנק את עצמי אתמתח ואשתטה</l>
+          <l>היום אשתה הרבה הרבה מים</l>
+          <l>ואני רוצה היום לעשות ככה</l>
+          <l>וככה וככה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

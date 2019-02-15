@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בסוף מוצאים אהבה</title>
+        <singer classification="female singer">רונית רולנד</singer>
+        <writer>מילי בן חייל</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בסוף מוצאים אהבה</head>
+        <lg number="1" type="stanza">
+          <l>לפעמים אני נוסעת רק בשביל להתגעגע</l>
+          <l>לפעמים אני שואלת </l>
+          <l>ולא רוצה תשובה</l>
+          <l>לפעמים אני מתקרבת ולא נוגעת </l>
+          <l>אבל, קראתי אתמול בספר שבסוף מוצאים אהבה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לפעמים אני יורה ולא פוגעת </l>
+          <l>לפעמים אני נשארת ברמת המחשבה</l>
+          <l>לפעמים אני שוחה לעומק וטובעת </l>
+          <l>אבל, קראתי אתמול בספר שבסוף מוצאים אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בסוף אשוב אליך או אלי, </l>
+          <l>לאט לאט לאט</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לפעמים אני נמתחת ולא גובהת</l>
+          <l>לפעמים אני נרדמת לנגינת "התקווה"</l>
+          <l>לפעמים אני נכלמת ולא יודעת</l>
+          <l>אבל, קראתי אתמול בספר שבסוף מוצאים אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בסוף אשוב אליך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חיוך קטן</title>
+        <singer classification="male singer">רם אוריון</singer>
+        <writer>רם אוריון</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חיוך קטן</head>
+        <lg number="1" type="stanza">
+          <l>שם ת'תחת הקטן</l>
+          <l>על מזוודה גדולה</l>
+          <l>ונוסע עם הרבה שטרות</l>
+          <l>את יודעת</l>
+          <l>שאני לא נמצא</l>
+          <l>הרדיו מצפצף חדשות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם אמרת את מה</l>
+          <l>שהיה לך להגיד,</l>
+          <l>מה שצריך לקרות קרה</l>
+          <l>ואם לא,</l>
+          <l>אל תחשבי על זה,</l>
+          <l>שנת אלפיים נגמרה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מקלל את האבק, מוריד דמעות</l>
+          <l>הדרך לא קלה להגיע</l>
+          <l>את יודעת שטעיתי, לי אין תלונות</l>
+          <l>רק תחייכי חיוך קטן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את היית רוצה</l>
+          <l>לקשור לי את הידיים</l>
+          <l>ולצעוק פו-קאקי-קוקי</l>
+          <l>(פו קאקי קוקי!)</l>
+          <l>את יודעת</l>
+          <l>שאני לא נמצא</l>
+          <l>הרדיו מצפצף חדשות</l>
+          <l>(שוב שעה חמש!)</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מקלל את האבק...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>השטרות מתעופפים לי מהיד</l>
+          <l>האי הזה רחוק ממך כל כך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

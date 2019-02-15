@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני בא אלייך 3</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>אסף לביא צנעני</writer>
+        <composer>אסף לביא צנעני</composer>
+        <album>כמה אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני בא אלייך</head>
+        <lg number="1" type="stanza">
+          <l>איתך אני אלך לאן שלא תלכי</l>
+          <l>אותך אני רוצה את זה אל תשכחי</l>
+          <l>ואם את אוהבת אז חכי לי אהובה</l>
+          <l>ואם את נעצמת תני חיוך כי אני בא</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני בא אלייך כי אני מטורף עלייך</l>
+          <l>אני חיי בשבילך ילדה שלי</l>
+          <l>אני בא אלייך כי אני מטורף עלייך</l>
+          <l>רק להיות לצידך ילדה שלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל רגע לצידך הוא אושר אמיתי</l>
+          <l>ואת אהבתך אקח תמיד איתי</l>
+          <l>ואם את נשברת כשאני לא בסביבה</l>
+          <l>ואם את בי נזכרת תני חיוך כי אני בא</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני בא אלייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

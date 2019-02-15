@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Once Agian</title>
+        <singer classification="female singer">רוני אלטר</singer>
+        <writer>רוני אלטר</writer>
+        <composer>רוני אלטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Once Agian</head>
+        <lg number="1" type="stanza">
+          <l>Once again i bumped my head</l>
+          <l>on the corner of the bed</l>
+          <l>what you gonna do?</l>
+          <l>what you gonna do?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Once again i bumped my head</l>
+          <l>once again I'm playing dead</l>
+          <l>what you gonna do?</l>
+          <l>what you gonna do?</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>Leave me here</l>
+          <l>don't come near</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>Once again i bumped my head</l>
+          <l>once again you say it's sad</l>
+          <l>what you gonna do?</l>
+          <l>what you gonna do?</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>Once again i lost my head</l>
+          <l>put my heart up there instead</l>
+          <l>what you gonna do?</l>
+          <l>what you gonna do?</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>Leave me here</l>
+          <l>don't come near</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

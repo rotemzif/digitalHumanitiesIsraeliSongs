@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני כאן בשבילך</title>
+        <singer classification="female singer">רינת בר</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>רינת בר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני כאן בשבילך</head>
+        <lg number="1" type="stanza">
+          <l>הרגשתי את זה מהיום הראשון</l>
+          <l>אתה משדר לי הרבה ביטחון</l>
+          <l>בלילה הזה דיברנו הרבה</l>
+          <l>הרגשנו חיבור אמיתי שכזה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>האמנתי בך ואני בטוחה</l>
+          <l>הלב לא טועה</l>
+          <l>הוא רוצה רק אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו הים הגדול</l>
+          <l>אני שטה איתך</l>
+          <l>רק אתה ואני</l>
+          <l>וזה בא לי איתך</l>
+          <l>עולמי הקטן מקודש רק לך</l>
+          <l>ותמיד מהלב אני כאן בשבילך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רק ביחד נלך</l>
+          <l>וביחד נחזור</l>
+          <l>אהבה אמיתית מי יוכל לעצור?</l>
+          <l>נעבור בגדול</l>
+          <l>כל מכשול אמיתי</l>
+          <l>זה כמו למות כשאתה לא איתי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>האמנתי בך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

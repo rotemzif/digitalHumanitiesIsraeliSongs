@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מקימי</title>
+        <singer classification="unknown">יוסף קרדונר</singer>
+        <writer>מתוך תהילים</writer>
+        <composer>יוסף קרדונר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מקימי</head>
+        <lg number="1" type="stanza">
+          <l>מקימי מעפר דל מאשפות ירים אביון</l>
+          <l>להושיבי עם נדיבים</l>
+          <l>עם נדיבי עמו</l>
+          <l>מי כה' א-לקינו המגביהי</l>
+          <l>לשבת המשפילי לראות בשמיים ובארץ</l>
+          <l>אוי מקימי מעפר דל</l>
+          <l>מאשפות ירים אביון </l>
+          <l>אוי להושיבי</l>
+          <l>עם נדיבים, עם נדיבי עמו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ני ני ני ני ני </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מי כה' א-לוקינו המגביהי</l>
+          <l>לשבת המשפילי לראות אוי בשמיים ובארץ</l>
+          <l>אוי מקימי מעפר דל מאשפות</l>
+          <l>ירים אביון אוי להושיבי עם נדיבים עם נדיבי עמו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ני ני ני ני ני ני </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אוי מקימי....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

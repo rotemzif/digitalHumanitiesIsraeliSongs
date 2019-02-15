@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עכברים רצים</title>
+        <singer classification="unknown">ירוב</singer>
+        <writer>ברק זוהר</writer>
+        <composer>ברק זוהר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עכברים רצים</head>
+        <lg number="1" type="stanza">
+          <l>זה כאילו כאן</l>
+          <l>נוגע ובורח</l>
+          <l>מתקרב לאט</l>
+          <l>אף פעם לא פוגע</l>
+          <l>זה נראה הסוף</l>
+          <l>ואולי הוא לא יודע</l>
+          <l>שטוב לי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבל בלילה, בלילה כשפחדים נעלמים</l>
+          <l>בלילה, בלילה הרחובות מתרוקנים</l>
+          <l>ואנחנו כמו פעם מתקרבים ומתרחקים</l>
+          <l>אבל בסוף תמיד נופלים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתעורר מוקדם </l>
+          <l>ותמיד את חסרה לי</l>
+          <l>זה לא פשוט </l>
+          <l>בעולם של וירטואלי</l>
+          <l>עכברים רצים </l>
+          <l>בשמות בדויים </l>
+          <l>וטוב לי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבל בלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

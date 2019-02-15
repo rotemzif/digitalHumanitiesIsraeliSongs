@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר סיום 6</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>נעמי שמר</writer>
+        <composer>missing</composer>
+        <album>פגישה לאין קץ</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר סיום</head>
+        <lg number="1" type="stanza">
+          <l>הצרצרים בקיץ שרים להם</l>
+          <l>ימים קצרים בקיץ עוברים להם</l>
+          <l>והנמלה תשיר בקול עצוב מאוד,</l>
+          <l>כנר יקר - זמרת כבר - עכשיו אולי תרקוד!</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לי לא איכפת, לי דווקא די נעים</l>
+          <l>לשיר באוזניכם</l>
+          <l>את השירים הכי פרועים</l>
+          <l>ולהתייצב בפני האלוהים</l>
+          <l>עם שתי גומות של חן</l>
+          <l>ועם שישה מיתרים קרועים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עונים הסקספונים - האח, האח</l>
+          <l>החלילים הערב צלולים כל כך</l>
+          <l>תופי הדוד מכים, שרים הכינורות</l>
+          <l>רק הנמלה האומללה תמיד רואה שחורות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לי לא איכפת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היו שלום בינתיים, אחים שלי</l>
+          <l>מחר יאיר השחר לכם ולי</l>
+          <l>עכשיו קטיפה שחורה נפרשת על העיר</l>
+          <l>עכשיו אפשר "שלום" לומר ולהיפרד בשיר.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לי לא איכפת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

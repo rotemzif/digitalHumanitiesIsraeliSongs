@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלדה למלך</title>
+        <singer classification="unknown">עופרה חזה</singer>
+        <writer>בצלאל אלוני</writer>
+        <composer>missing</composer>
+        <album>חי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלדה למלך</head>
+        <lg number="1" type="stanza">
+          <l>באגדות אי שם בהרים </l>
+          <l>ישב דוד ורעה עדרים </l>
+          <l>בלי שרים, בלי מלוכה </l>
+          <l>רק שיר קטן לילדה, ילדה בוכה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ועוד שיר קטן ותפילה לאל </l>
+          <l>שישמור על כל עם ישראל </l>
+          <l>ועוד שיר קטן ותפילה לאל </l>
+          <l>שישמור על ישראל </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בנווה דשאים אי שם בהרים </l>
+          <l>מלך דוד וכבר בא בימים </l>
+          <l>נותר בודד בלי עיר, בלי משפחה </l>
+          <l>רק מלך סב וילדה, ילדה בוכה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ועוד שיר קטן ותפילה לאל </l>
+          <l>שיסלח לכל עם ישראל </l>
+          <l>ועוד שיר קטן ותפילה לאל </l>
+          <l>שיסלח לישראל </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>באין מלכים, באין אגדה </l>
+          <l>תוגת השיר היא האהבה </l>
+          <l>מה נותר למשורר </l>
+          <l>שיר קטן אם לא יותר </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ועוד שיר קטן ותפילה לאל </l>
+          <l>שישמור על כל עם ישראל </l>
+          <l>ועוד שיר קטן ותפילה לאל </l>
+          <l>שישמור על ישראל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

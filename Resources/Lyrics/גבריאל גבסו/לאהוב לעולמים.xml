@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לאהוב לעולמים</title>
+        <singer classification="unknown">גבריאל גבסו</singer>
+        <writer>גבריאל גבסו</writer>
+        <composer>אסף לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לאהוב לעולמים</head>
+        <lg number="1" type="stanza">
+          <l>השמש כבר ירדה האירו כוכבים</l>
+          <l>אני ואת בים בין המזרח לגלים</l>
+          <l>את כמו מלאך לבן לידך הכל מושלם</l>
+          <l>מאירה את עולמי את הנסיכה שלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ולך אני נשבע לאהוב לעולמים</l>
+          <l>אזכור את השבועה בים מול הגלים</l>
+          <l>לצדך אני אחיה לנצח</l>
+          <l>רק איתך אני יכול לנצח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מביט אל השמים מודה לאלוקים</l>
+          <l>שנתן לי אותך את האור בעולמי</l>
+          <l>גם כשכואב אותי את מעודדת </l>
+          <l>ובשתיקה את אותי כובשת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ולך אני נשבע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

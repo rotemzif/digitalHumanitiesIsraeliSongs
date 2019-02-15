@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ארץ אש וארץ ים</title>
+        <singer classification="female singer">דלית גלעדי</singer>
+        <writer>רחל שפירא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ארץ אש וארץ ים</head>
+        <lg number="1" type="stanza">
+          <l>את אבי ראיתי בחלום</l>
+          <l>ועל כתפו ציפור קטנה מצאה מקום</l>
+          <l>שם נוצה קטנה בתוך ליבי</l>
+          <l>קחי אותה ממני ואל נא תפחדי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ארץ אש וארץ ים</l>
+          <l>אולי קרוב קרוב תראי אותם</l>
+          <l>אם עיניך נפקחות</l>
+          <l>אל תחפשי בתי כל כך רחוק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואותך ראיתי בשנתי</l>
+          <l>ומבטך חיפש חיפש את מבטי</l>
+          <l>עפה עפה מליבי נוצה</l>
+          <l>נחה לרגליך, איך אותה תמצא? </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ארץ אש וארץ ים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

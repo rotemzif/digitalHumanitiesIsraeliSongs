@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אסיר שלך</title>
+        <singer classification="male singer">עידו לדרמן</singer>
+        <writer>עידו לדרמן</writer>
+        <composer>עידו לדרמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אסיר שלך</head>
+        <lg number="1" type="stanza">
+          <l>מנסה כל החיים רק להיות</l>
+          <l>מה שמצפים ממך</l>
+          <l>כבר נמאס לך מכל האכזבות</l>
+          <l>ומכל הכישלונות שלך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תחפש רחוק</l>
+          <l>אל תנסה לברוח</l>
+          <l>גם בסוף העולם תדע שאתה...</l>
+          <l>אסיר שלך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מסתובב כל השנים במסכה</l>
+          <l>כזו שמסתירה אותך</l>
+          <l>כי אין דבר יותר מפחיד ומשחרר</l>
+          <l>מלהראות את עצמך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תחפש רחוק...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נגמר הכח</l>
+          <l>אין לאן לברוח </l>
+          <l>אתה צריך קצת מנוחה</l>
+          <l>רק אתה יכול לפתוח את השער, לחופש שלך...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אל תחפש רחוק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

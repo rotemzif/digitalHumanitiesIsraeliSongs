@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קשה בלעדיך 3</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קשה בלעדיך</head>
+        <lg number="1" type="stanza">
+          <l>חיפשתי סיבה לצלצל - אליך</l>
+          <l>רציתי לך לספר - מה בליבי</l>
+          <l>מיום שהכרתי אותך - אז נשבעתי</l>
+          <l>נשבעתי, נשבעתי, נשבעתי לגנוב את ליבך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קשה איתך וקשה בלעדיך</l>
+          <l>אז בחייך כבר תתעורר</l>
+          <l>אני מלכה בין זרועותייך</l>
+          <l>אתה האיש ולא אחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רציתי איתך כל רגע - רציתי</l>
+          <l>רוצה להרגיש מקרוב - את הטוב</l>
+          <l>עוד כמה דקות והשמש - תזרח לה</l>
+          <l>נשבעתי, נשבעתי, נשבעתי לגנוב את ליבך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קשה איתך וקשה בלעדיך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

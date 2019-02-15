@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילה טוב אירופה</title>
+        <singer classification="female singer">דנה אינטרנשיונל</singer>
+        <writer>יואב גינאי</writer>
+        <composer>missing</composer>
+        <album>אומפטמפה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילה טוב אירופה</head>
+        <lg number="1" type="stanza">
+          <l>העולם אף פעם לא נירדם</l>
+          <l>רגליו רוקעות כל לילה</l>
+          <l>אפריקה וגם אמריקה</l>
+          <l>רוקדות מים אל ים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לילה טוב אירופה</l>
+          <l>רקדי עם כל כדור הארץ</l>
+          <l>יחד בקצב העולם</l>
+          <l>כמו תפילה לרוח האדם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מגיעה אוסטרליה לשעה</l>
+          <l>כמו אישה נחשקת</l>
+          <l>מהחול  בצעדי מחול</l>
+          <l>מולה אסיה עולה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לילה טוב אירופה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

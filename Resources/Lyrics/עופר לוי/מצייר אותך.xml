@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מצייר אותך</title>
+        <singer classification="male singer">עופר לוי</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>מאיר עמר</composer>
+        <album>מצייר אותך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מצייר אותך</head>
+        <lg number="1" type="stanza">
+          <l>תני לי עוד דקה אולי עוד נגיעה</l>
+          <l>כזו שתעצור שוב את הזמן</l>
+          <l>קחי אותי איתך הלב עוד לא שכח</l>
+          <l>ואם תרצי לכל אני מוכן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תני לי לאהוב אותך כמו אז</l>
+          <l>לחבק אותך אותך שוב כמו פעם</l>
+          <l>גם אם את רחוקה עכשיו מכאן</l>
+          <l>לא אניח לך עד שאמצא אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מצייר אותך ואת יפה כל כך</l>
+          <l>והכאב דוחק את הדמעות</l>
+          <l>מביט בך ושותק רוצה רק לנשק</l>
+          <l>עוד פעם את שפתייך הרכות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תני לי לאהוב אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

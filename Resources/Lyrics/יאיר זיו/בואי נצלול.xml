@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואי נצלול</title>
+        <singer classification="male singer">יאיר זיו</singer>
+        <writer>יאיר זיו</writer>
+        <composer>שמוליק נויפלד</composer>
+        <album>זמן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואי נצלול</head>
+        <lg number="1" type="stanza">
+          <l>אל תנסי לחזור אלי גם לך ברור שזה נגמר,</l>
+          <l>עברנו קיץ וקצת סתיו והקסם לא נשאר.</l>
+          <l>ספינות מותחות מפרש עייף,</l>
+          <l>יוצאות לאופק הכחול, בין שנינו.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יכול להיות שאת צודקת, התמכרת לאשליה</l>
+          <l>והמילים הכי דפוקות, מוכרות סיפור שלא היה.</l>
+          <l>יכול להיות שזה נכון </l>
+          <l>והאשם תמיד יפול עלינו.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כל הלבבות השבורים ממתינים למחר,</l>
+          <l>לא מנסה להסתיר את כל מה שעבר.</l>
+          <l>אז בואי נצלול לסוף הגדול שלנו.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל תנסי שוב לאהוב, זה רק יכאב הרבה יותר.</l>
+          <l>שום אושר אי אפשר לגנוב,</l>
+          <l>אפשר לגנוב כשלא נשאר יותר. </l>
+          <l>אל תנסי לשבור אותי </l>
+          <l>גם לך ברור שזה עבר עלינו.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ספינות מותחות מפרש עייף,</l>
+          <l>יוצאות לאופק החולף בין שנינו.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כל הלבבות השבורים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חללית האם</title>
+        <singer classification="male singer">דניאל סלומון</singer>
+        <writer>דניאל סלומון</writer>
+        <composer>דניאל סלומון</composer>
+        <album>חיפה 87</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חללית האם</head>
+        <lg number="1" type="stanza">
+          <l>יצור בודד כמוך</l>
+          <l>הוךל על הכוכב הזה</l>
+          <l>וכולם רואים עליך</l>
+          <l>שאתה פשוט כזה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יצור שביר כמוך</l>
+          <l>אין באף מקום אחר</l>
+          <l>את זה היא לא תדע עליך</l>
+          <l>אז היא תדע להיזהר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אין עב"מ שמרחף בשמיים</l>
+          <l>והחייזר היחיד כאן הוא אני</l>
+          <l>מנסה לעוף בלי כנפיים</l>
+          <l>איפשהו ודאי יש עוד כמותי</l>
+          <l>חללית האם נטשה אותי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הם ישאלו לאן הגעת</l>
+          <l>אתה תגיד לאן תלך</l>
+          <l>וגם אם זה תמיד למטה</l>
+          <l>רק אל תשכח איך לחייך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יצור שביר כמוך</l>
+          <l>לא נרתע משום דבר</l>
+          <l>גם אם הם צועקים עליך</l>
+          <l>אם לא יראו אותך נשבר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אין עב"מ שמרחף בשמיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סימונה 5</title>
+        <singer classification="male singer">נתי לוי</singer>
+        <writer>משה נגר</writer>
+        <composer>משה נגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סימונה</head>
+        <lg number="1" type="stanza">
+          <l>החברים סיפרו לי </l>
+          <l>על סימונה היפה</l>
+          <l>לא תמצא כמוה</l>
+          <l>עוד מיליון שנה</l>
+          <l>מעבר להרים</l>
+          <l>בנתה לה עולמות</l>
+          <l>חיה לבדה </l>
+          <l>כמו באגדות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סימונה, סימונה, סימונה</l>
+          <l>אדמונית יפת עיניים</l>
+          <l>סימונה, סימונה, סימונה</l>
+          <l>אשא אותך בידיים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איזו מרוקאית</l>
+          <l>נסיכה יפה</l>
+          <l>באתי אל קסמיה</l>
+          <l>והיא אותי שבתה</l>
+          <l>שרתי לה שירים</l>
+          <l>על אלף אהבות</l>
+          <l>החברים צדקו</l>
+          <l>אין עוד אחת כזאת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סימונה, סימונה, סימונה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

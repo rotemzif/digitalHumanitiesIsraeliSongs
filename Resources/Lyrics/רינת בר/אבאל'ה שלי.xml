@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבאל ה שלי</title>
+        <singer classification="female singer">רינת בר</singer>
+        <writer>רינת בר</writer>
+        <composer>רינת בר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבאל'ה שלי</head>
+        <lg number="1" type="stanza">
+          <l>איך עברו הימים בלי דמותך לראות</l>
+          <l>אבאל'ה שלי מחכה עוד ועוד</l>
+          <l>בתפילה שתחזור ועלי שוב תשמור</l>
+          <l>מחכה לראותך מחכה לשובך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק אותך אוהבת ותמיד חושבת עד מתי לחכות</l>
+          <l>בליבי אוהבת אבא אני שואל מתי תחזור...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זכרונות כה טובים אבאל'ה שלי</l>
+          <l>בימים בהירים משחקים נהנים</l>
+          <l>רוצה אותך לראות ואיתך לבלות</l>
+          <l>מחכה לראותך מחכה לשובך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק אותך אוהבת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

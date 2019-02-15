@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הרי את מקודשת 3</title>
+        <singer classification="male singer">שלומי שבת</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>missing</composer>
+        <album>זמן אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הרי את מקודשת</head>
+        <lg number="1" type="stanza">
+          <l>הרי את מקודשת לי</l>
+          <l>כך אני אומר כשאת תלבשי</l>
+          <l>שמלת כלולות</l>
+          <l>את הנשמה המתוקה שלי</l>
+          <l>ישיר לך הזמר</l>
+          <l>אני אסכים איתו בשני קולות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הו כלה יפהפיה</l>
+          <l>בשם האהבה אני נשבע</l>
+          <l>הו כלה יפהפיה</l>
+          <l>אבקש ידך גם בעולם הבא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תני חיבוק ונעצום עיניים</l>
+          <l>ונישאר לנצח שני פרחים</l>
+          <l>אני ואת זוג מהשמיים</l>
+          <l>אז בואי נעשה חופה כזאת</l>
+          <l>עם כל האוהבים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הרי את מקודשת לי</l>
+          <l>כך אני אלחש</l>
+          <l>אקח אותך לריקוד ברחבה</l>
+          <l>כשתיגמר המסיבה יפה שלי</l>
+          <l>ניסע לירח דבש</l>
+          <l>וננצור לנצח את האהבה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הו כלה יפהפיה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

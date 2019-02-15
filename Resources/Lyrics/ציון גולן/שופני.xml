@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שופני</title>
+        <singer classification="male singer">ציון גולן</singer>
+        <writer>עממי</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שופני</head>
+        <lg number="1" type="stanza">
+          <l>חביבי חובני, ורחם דמועי</l>
+          <l>אהובי, אהוב אותי ורחם דמעותיי</l>
+          <l>אלי חובק, סלב עקלי ורוחי</l>
+          <l>מפני שאהבתך שבתה שכלי ורוחי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שופני בעיינק, חביבי</l>
+          <l>ראה אותי בעינך, אהובי</l>
+          <l>ורחם דמועי, חביבי</l>
+          <l>ורחם דמעותיי, אהובי </l>
+          <l>וכאם לי אראעי, ועל אללה</l>
+          <l>וכמה לך אחכה, אבטח באלוהים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חביבי חובני, ורחם לקאלבי</l>
+          <l>אהובי, אהוב אותי ורחם על לבי</l>
+          <l>אנא חובק, חלפתי לאק ברבי</l>
+          <l>אני אוהב אותך, נשבעתי באלוהי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שופני...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>חביבי חובני, וסמע כאלאמי</l>
+          <l>אהובי, אהוב אותי ושמע דברי</l>
+          <l>אנא מא אפארקך דאים זאמאני</l>
+          <l>לא אפרד ממך כל ימי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שופני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

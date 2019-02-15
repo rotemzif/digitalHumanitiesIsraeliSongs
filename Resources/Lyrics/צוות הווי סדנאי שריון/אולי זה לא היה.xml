@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אולי זה לא היה</title>
+        <singer classification="unknown">צוות הווי סדנאי שריון</singer>
+        <writer>תלמה אליגון רוז</writer>
+        <composer>דמיס רוטוס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אולי זה לא היה</head>
+        <lg number="1" type="stanza">
+          <l>בדרכים במבט קפוא </l>
+          <l>שעות, שעות של מרחקים </l>
+          <l>בת קולך ושלום חפוז </l>
+          <l>הבטחת שתחכי. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אולי זה לא היה </l>
+          <l>אולי זה לא קיים </l>
+          <l>אולי אתה עננה </l>
+          <l>שריחפה בלי משים. </l>
+          <l>אולי זאת אהבה </l>
+          <l>היית כל כך קרובה </l>
+          <l>ומתוקה היית </l>
+          <l>מריח פרדסים. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד מחלף שעובר מיד </l>
+          <l>הים סוער מתמיד </l>
+          <l>עוד חלום שהשיר עליו </l>
+          <l>הבטחת, הגם תקיימי? </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אולי זה לא היה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

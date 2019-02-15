@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שעת הזאבים</title>
+        <singer classification="band">הקליק</singer>
+        <writer>דני דותן</writer>
+        <composer>אלי אברמוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שעת הזאבים</head>
+        <lg number="1" type="stanza">
+          <l>זו שעתם של השוטים לוותר על מלכותם</l>
+          <l>זו שעתם של השומרים לנטוש את משמרתם</l>
+          <l>זו שעתם של בני אדם לברוח מעולם נרדם</l>
+          <l>זו שעתם של הזאבים - לטרוף</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זו שעתן של ממשלות לשקוע וליפול</l>
+          <l>זו שעתן של להבות לפרוץ מן השאול</l>
+          <l>זו שעתם של בני אדם לברוח מעולם נרדם</l>
+          <l>זו שעתם של הזאבים - לטרוף</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

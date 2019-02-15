@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שתבוא 2</title>
+        <singer classification="unknown">ניב חביב</singer>
+        <writer>ניב חביב</writer>
+        <composer>ניב חביב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שתבוא</head>
+        <lg number="1" type="stanza">
+          <l>מהלך לי לבדי במדבר החם</l>
+          <l>מחפש מעיין שאוכל לשתות</l>
+          <l>כפות רגלי הן יחפות, מחוסר כל הגנה</l>
+          <l>שתבוא תיקח אותי, שתבוא...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בעבודה קשה אעבור את כל הדרך</l>
+          <l>גם אם עורב לי יארוב אלחם</l>
+          <l>לפעמים נופל מאבד כל ערך</l>
+          <l>עד שההגנה תבוא, שתבוא...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ומתוך הסערה את ידי אושיט אל האור</l>
+          <l>גם השרב הכי כבד לא יצליח אותי לשבור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רק זיכרון קטן משאיר אותי שפוי</l>
+          <l>לא אפול, לא אברח, לא אהיה תלוי</l>
+          <l>והלילות קשים לא משאירים מנוח</l>
+          <l>איך יום יפה כזה אני יכול לשכוח?</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ומתוך הסערה את ידי אושיט אל האור</l>
+          <l>גם השרב הכי כבד לא יצליח אותי לשבור</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

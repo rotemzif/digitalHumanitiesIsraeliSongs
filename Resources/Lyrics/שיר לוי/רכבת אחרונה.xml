@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רכבת אחרונה</title>
+        <singer classification="male singer">שיר לוי</singer>
+        <writer>רונן ירקוני</writer>
+        <composer>יוסי חן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רכבת אחרונה</head>
+        <lg number="1" type="stanza">
+          <l>רכבת אחרונה תצא לקראת חצות </l>
+          <l>יושב בתחנה לא יכול כבר לחכות </l>
+          <l>ירח מקשט את כל גגות העיר </l>
+          <l>וגשם של ברכה שוטף את האוויר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמה שירים כתבתי ואת לא אמרת דבר</l>
+          <l>כמה שאותך אהבתי בלילות של חורף קר</l>
+          <l>כמה כאב עצרתי איך הלב כמעט נשבר</l>
+          <l>אבל בתוך תוכי כלום לא נגמר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מחר אני חוזר שוב להיות קרוב </l>
+          <l>אל המקום שבו אותך התחלתי לאהוב.</l>
+          <l>חושב על המקום אליו עפות המחשבות</l>
+          <l>עכשיו על השעון דקה לפני חצות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמה שירים כתבתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

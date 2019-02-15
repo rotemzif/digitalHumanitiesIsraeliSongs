@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בחלון דומע</title>
+        <singer classification="male singer">יאיר זיו</singer>
+        <writer>רחלי שביט</writer>
+        <composer>יאיר זיו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בחלון דומע</head>
+        <lg number="1" type="stanza">
+          <l>עַכְשַׁיו הַכֹּל טִיפּוֹת</l>
+          <l>מְלוּחוֹת</l>
+          <l>אוֹר בָּהִיר בַּחֶדֶר</l>
+          <l>חוֹר שָׁחוֹר בָּאַהֲבָה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עַכְשַׁיו הַכֹּל חָשׂוּף לָרוּחַ</l>
+          <l>הַכֹּל שָׁקוּף </l>
+          <l>וְרַק אַתָּה</l>
+          <l>עָטוּף אוּלַי יוֹתֵר מִדַּי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>גֶּשֶׁם בַּחַלּוֹן דּוֹמֵעַ </l>
+          <l>אִישׁ אוֹתָנוּ לֹא שׁוֹמֵעַ </l>
+          <l>הַמֶּרְחָק הַזֶּה מַבְהִיל</l>
+          <l>אִישׁ אוֹתָנוּ לֹא מַצִּיל...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עַכְשַׁיו הַמַּחְשָׁבוֹת</l>
+          <l>כְּמוֹ גַּן חַיּוֹת טוֹרְפוֹת</l>
+          <l>וְאֵין מִילִים שֶׁיְּכוֹלוֹת </l>
+          <l>גַּם הַמִּילִים הַיּוֹם חוֹלוֹת</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>גֶּשֶׁם בַּחַלּוֹן דּוֹמֵעַ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

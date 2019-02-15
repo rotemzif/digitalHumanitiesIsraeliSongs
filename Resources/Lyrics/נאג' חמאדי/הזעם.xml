@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הזעם</title>
+        <singer classification="unknown">נאג חמאדי</singer>
+        <writer>דרור פוייר</writer>
+        <composer>דן תורן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הזעם</head>
+        <lg number="1" type="stanza">
+          <l>הזמן עובר, מחליק בין הידיים </l>
+          <l>כמו חתיכת סבון </l>
+          <l>במקלחת של בית מלון. </l>
+          <l>כמו זית על צלחת, </l>
+          <l>הוא בורח לצדדים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>המחר של האתמול הוא האתמול של המחר </l>
+          <l>העתיד והעבר הם בדיוק אותו דבר </l>
+          <l>מה שנשאר זה רק העכשיו </l>
+          <l>רק העכשיו - ואין בלעדיו </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כל מה שאמרו לי - שקר </l>
+          <l>כל מה שהבטיחו - כלום </l>
+          <l>אני שובר את המסגרת </l>
+          <l>אני בורח מהכלוב </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הזמן עובר, נגוז כהרף עין </l>
+          <l>כמו קשת בענן </l>
+          <l>של שמיים לא מכאן. </l>
+          <l>כמו דלת שנפתחת, </l>
+          <l>הוא בורח לצדדים </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כל מה שגדל - נובל, כל מה שנזרע - נקצר </l>
+          <l>כל מה שנולד גווע, כל מה שמתחיל נגמר </l>
+          <l>מה שנשאר זה רק העכשיו </l>
+          <l>רק העכשיו - ואין בלעדיו </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כל מה שאמרו לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

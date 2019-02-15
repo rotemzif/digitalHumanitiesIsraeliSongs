@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה הלב</title>
+        <singer classification="male singer">ליאור פרחי</singer>
+        <writer>רמי לב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה הלב</head>
+        <lg number="1" type="stanza">
+          <l>כל מה שהשארת לי </l>
+          <l>זה קירות חשופים </l>
+          <l>וכאב שצועק אלי </l>
+          <l>כל מה שהשארת לי </l>
+          <l>לילות לבנים </l>
+          <l>ותמונות בשתי עיני</l>
+          <l>הפחד הזה, מעצמי בעיקר </l>
+          <l>הגשם בחוץ ודמעה על הכר </l>
+          <l>את בחלון מסתכלת אלי </l>
+          <l>יפה וזרה בעיני </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה הלב, זה הלב שרוצה אלייך </l>
+          <l>להרגיש את מגע ידייך </l>
+          <l>מחכה שתבואי אלי </l>
+          <l>זה הלב, זה הלב שר אלייך </l>
+          <l>חיי לא שווים בלעדייך </l>
+          <l>מבקש שתחזרי אל חיי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל מה שהשארת לי </l>
+          <l>אותה נשיקה, </l>
+          <l>עם טעם מתוק על שפתי</l>
+          <l>כל מה שהשארת לי, </l>
+          <l>ריקנות ארוכה, </l>
+          <l>דממה בשמחה של חיי </l>
+          <l>הרגש הזה, מטשטש את הכל </l>
+          <l>הגשם בחוץ לא מפסיק מאתמול </l>
+          <l>ואת בחלון מסתכלת אלי</l>
+          <l>יפה וזרה בעיני </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה הלב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

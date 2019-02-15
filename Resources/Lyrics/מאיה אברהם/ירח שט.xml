@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ירח שט</title>
+        <singer classification="female singer">מאיה אברהם</singer>
+        <writer>יהודה מסס</writer>
+        <composer>יהודה מסס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ירח שט</head>
+        <lg number="1" type="stanza">
+          <l>ירח שט מעל הים אל אופק מתפזר</l>
+          <l>גלים שקטים עושים דרכם לאור הכוכבים</l>
+          <l>בחוף עוגנות ספינות כאילו ישנות</l>
+          <l>ורק הרוח הקרירה עוד נשארה ערה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואת הבוקר מי יאיר ספר לי אהובי</l>
+          <l>כל לילה כשאינך איתי נודדת לה שנתי</l>
+          <l>ירח שט וכוכבים באור של לילה קר</l>
+          <l>כל ערב יחזרו לכאן לשאול אם שבת כבר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וכך עוברים להם לילות בהם אני תוהה</l>
+          <l>האם תשוב אולי רכוב על ספינה תועה</l>
+          <l>גאות אותך תפלוט לחוף שבו אגור</l>
+          <l>והתקווה לא תיגמר נדרתי פה אדור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואת הבוקר מי יאיר ספר לי אהובי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

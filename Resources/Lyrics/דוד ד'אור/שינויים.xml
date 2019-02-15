@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שינויים 2</title>
+        <singer classification="unknown">דוד ד אור</singer>
+        <writer>דוד ד'אור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שינויים</head>
+        <lg number="1" type="stanza">
+          <l>הגידי למה זה מסתבך</l>
+          <l>הגידי לאן אני הולך</l>
+          <l>עדיין עבד לגאווה</l>
+          <l>עדיין צמא לאהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שינויים עוברים עלינו עם הרוח</l>
+          <l>שמושכת למקומות לא מוכרים</l>
+          <l>כל מה שהיה נכון כבר לא בטוח</l>
+          <l>לא יודע אם הולכים קדימה או אולי חוזרים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מעיין האושר התגלה</l>
+          <l>בינינו הריק לא מתמלא</l>
+          <l>שפתייך שותקות מילים הרבה</l>
+          <l>הביטי השחר שוב עולה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שינויים עוברים עלינו עם הרוח</l>
+          <l>שמושכת למקומות לא מוכרים</l>
+          <l>כל מה שהיה נכון כבר לא בטוח</l>
+          <l>לא יודע אם הולכים קדימה או אולי חוזרים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

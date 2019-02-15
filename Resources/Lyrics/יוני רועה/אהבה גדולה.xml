@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה גדולה 5</title>
+        <singer classification="male singer">יוני רועה</singer>
+        <writer>יוני רועה</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה גדולה</head>
+        <lg number="1" type="stanza">
+          <l>הולך אלייך ולא יכול</l>
+          <l>אין לי מקום</l>
+          <l>רוצה אלייך ואת הכל</l>
+          <l>קשה לי פתאום</l>
+          <l>ואת המתוקה שלי</l>
+          <l>כל כך טובה אלי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הולך אלייך וכמו האור</l>
+          <l>את שוטפת בחום</l>
+          <l>ואת המתוקה שלי</l>
+          <l>כל כך טובה אלי.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אהבה גדולה</l>
+          <l>הולכת אל הפחדים</l>
+          <l>שכל זה יגמר</l>
+          <l>אהבה גדולה</l>
+          <l>נרקמת בתוכי</l>
+          <l>שכל זה ישאר</l>
+          <l>ועכשיו הסתיו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הולך אלייך משום מקום</l>
+          <l>אין לי סיבות</l>
+          <l>רוצה אלייך אל ההיגיון</l>
+          <l>אבל אין בי כוחות</l>
+          <l>ואת המתוקה שלי</l>
+          <l>כל כך טובה אלי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אהבה גדולה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

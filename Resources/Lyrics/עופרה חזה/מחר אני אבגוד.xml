@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחר אני אבגוד</title>
+        <singer classification="unknown">עופרה חזה</singer>
+        <writer>מריאן כהן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחר אני אבגוד</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>מחר אני אבגוד, </l>
+          <l>מחר, לא היום </l>
+          <l>דרוש לי לילה להחליט, </l>
+          <l>לילה, לא פחות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כדי להתכחש לידידי, </l>
+          <l>כדי לפנות עורף, </l>
+          <l>כדי לבגוד. </l>
+          <l>היום אין לי מה לומר</l>
+          <l>אבגוד מחר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מחר אני אבגוד...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כדי לפנות עורף </l>
+          <l>ללחם וליין, </l>
+          <l>כדי לבגוד בחיים, </l>
+          <l>כדי למות. </l>
+          <l>היום אין לי מה לומר</l>
+          <l>אבגוד מחר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מחר אני אבגוד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

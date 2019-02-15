@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הקשב לי ילד</title>
+        <singer classification="unknown">יוסי עדן</singer>
+        <writer>יוסי עדן</writer>
+        <composer>יוסי עדן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הקשב לי ילד</head>
+        <lg number="1" type="stanza">
+          <l>מתחרט מודה טעיתי</l>
+          <l>אני את אמא לא רציתי</l>
+          <l>בלילות לא הסתדרנו</l>
+          <l>לידך תמיד רק רבנו</l>
+          <l>רק האל יודע כמה בכיתי בגללך</l>
+          <l>לוותר עלייך קשה קשה כל כך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מבקש ממך ילד אל תבכה עכשיו</l>
+          <l>אני אבוא לבקר אותך בכל שבת</l>
+          <l>אבא מבקש ממך תשמור על עצמך</l>
+          <l>אל תפגע בעצמך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אולי אתה זאת לא מבין</l>
+          <l>אני ואמא לא אויבים</l>
+          <l>פתרנו את המריבות</l>
+          <l>כי כבר נמאס מהדמעות</l>
+          <l>אני זוכר כשהלכתי איך בכית נשמה</l>
+          <l>בדמעות אותי עטפת אבא אוהב אותך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מבקש ממך ילד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

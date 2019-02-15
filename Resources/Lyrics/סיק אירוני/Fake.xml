@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fake</title>
+        <singer classification="unknown">סיק אירוני</singer>
+        <writer>כפיר גוב</writer>
+        <composer>יואב וולנסקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Fake</head>
+        <lg number="1" type="stanza">
+          <l>Hey now Mr. Rockstar </l>
+          <l>Who do you think you are?! </l>
+          <l>Driving down the street in daddy's jaguar </l>
+          <l>Cut the act, take off the mask </l>
+          <l>What are you waiting for?! </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>Fed up, Fed up </l>
+          <l>Can't trust anyone </l>
+          <l>You know you can't trust anyone </l>
+          <l>Fed up, Fed up </l>
+          <l>Don't tell me what i need </l>
+          <l>Don't you ever lie to me </l>
+          <l>Don't tell me what i wanna hear you say... (hear you say...) </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Money is your god and your whole image is a lie </l>
+          <l>Can't make it on your own </l>
+          <l>Too busy stealing other people's pride </l>
+          <l>Take off that "fancy" suit </l>
+          <l>You're just a spoiled child </l>
+          <l>Bow down before the power that has always owned your life </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>Fed up, Fed up... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>Don't you ever lie to me </l>
+          <l>Don't tell me what i wanna hear you say... (hear you say...)</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

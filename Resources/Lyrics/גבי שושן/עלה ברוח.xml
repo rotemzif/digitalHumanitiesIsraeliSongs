@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עלה ברוח</title>
+        <singer classification="male singer">גבי שושן</singer>
+        <writer>דודו ברק</writer>
+        <composer>המרמלדס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עלה ברוח</head>
+        <lg number="1" type="stanza">
+          <l>השמש, הסהר, החושך</l>
+          <l>ראי הם לחיי.</l>
+          <l>נראים בתוך עיניי.</l>
+          <l>העצב,  הבכי, האושר</l>
+          <l>איתם אני עוד חי,</l>
+          <l>שוכנים בחדרי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל הצער, שוב בשער.</l>
+          <l>הוא איתי כל הדרך.</l>
+          <l>והבכי, על הלחי,</l>
+          <l>מי אני? אין לי ערך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הנני, אינני,</l>
+          <l>לא טוב לי,</l>
+          <l>לא רע לי,</l>
+          <l>מה אני? אני עלה ברוח.</l>
+          <l>ענני, אלוה,</l>
+          <l>אלוה, חנני. </l>
+          <l>הו אל עליון,</l>
+          <l>אני עלה ברוח.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל הצער, שוב בשער...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>העצב, הבכי, האושר,</l>
+          <l>איתם אני עוד חי,</l>
+          <l>איתם אני עוד חי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

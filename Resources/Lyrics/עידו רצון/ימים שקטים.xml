@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ימים שקטים</title>
+        <singer classification="unknown">עידו רצון</singer>
+        <writer>עידו רצון</writer>
+        <composer>עידו רצון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ימים שקטים</head>
+        <lg number="1" type="stanza">
+          <l>אני מבקש לי </l>
+          <l>את כל הטוב שבעולם </l>
+          <l>ולפעמים מנות קטנות של עצב </l>
+          <l>שבים וחוזרים בי </l>
+          <l>עוד מקומות של נחמה </l>
+          <l>מתוך תחושה שתכף זה נגמר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ימים שקטים בולעים גלים של עצב </l>
+          <l>גלים גדולים בולעים דמעות של אהבה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ניסים מהתלים בי </l>
+          <l>כמו אל תוך הלא נודע </l>
+          <l>ומלטפים ברגעים של חסד </l>
+          <l>כמו מים רבים שלא יכבו האהבה </l>
+          <l>ונהרות יציפו את עיני</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ימים שקטים בולעים גלים של עצב </l>
+          <l>גלים גדולים בולעים דמעות של אהבה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חומר נפץ</title>
+        <singer classification="male singer">מאיר בנאי</singer>
+        <writer>מאיר בנאי</writer>
+        <composer>מאיר בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חומר נפץ</head>
+        <lg number="1" type="stanza">
+          <l>חומר נפץ</l>
+          <l>זה מתפוצץ</l>
+          <l>כאן בתוך ביתי</l>
+          <l>זה בוער סביבי</l>
+          <l>פחד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>והבלבול</l>
+          <l>והתיסכול</l>
+          <l>כבר בכל מקום</l>
+          <l>איך אפשר לישון</l>
+          <l>ככה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כאן כל זה קורה</l>
+          <l>יש עשן כהה על הדרך</l>
+          <l>וכמו בערפל</l>
+          <l>פחד מזדחל אל הדלת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חומר נפץ</l>
+          <l>זה מסתבך</l>
+          <l>וזה מתמשך</l>
+          <l>לא יודעים כבר איך</l>
+          <l>הלאה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>איך זה ייגמר</l>
+          <l>איך זה ייפתר</l>
+          <l>למה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כאן כל זה קורה</l>
+          <l>יש עשן כהה על הדרך</l>
+          <l>וכמו בערפל</l>
+          <l>פחד מזדחל אל הדלת</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>חומר נפץ</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

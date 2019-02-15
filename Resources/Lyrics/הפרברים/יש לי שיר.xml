@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לי שיר</title>
+        <singer classification="band">הפרברים</singer>
+        <writer>יובב כץ</writer>
+        <composer>מוני אמריליו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לי שיר</head>
+        <lg number="1" type="stanza">
+          <l>יש לי שיר עם קולות הבאים מן הכפר,</l>
+          <l>עם מראות בצבעים ירוקים:</l>
+          <l>עם גגות אדומים ודשאים בכיכר,</l>
+          <l>וילדים, ילדים צוחקים.</l>
+          <l>שיר של טרקטור דוהר, אדמה שדשנה,</l>
+          <l>שיר ניחוח זבלים וחציר</l>
+          <l>ומטע מתגנדר בפריחה לבנה</l>
+          <l>ושדה בין חריש לקציר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש לי שיר אהבה לגלבוע</l>
+          <l>ולעמק אשר לרגליו,</l>
+          <l>יש לי שיר אהבה לביתי הירוק</l>
+          <l>הדבק אל הר וסלעיו.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש לי שיר על מרחב פרדסים משכר</l>
+          <l>בפיריו, בצליליו וצלליו,</l>
+          <l>על תפילה לגשמים, מעיין מפכה,</l>
+          <l>על העמק וכל סודותיו.</l>
+          <l>יש לי שיר על אדם, אדמה וחזון</l>
+          <l>שהפך למציאות ירוקה;</l>
+          <l>בביתי האהוב, בביתי הקטון,</l>
+          <l>מתגשמת תפילה עתיקה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש לי שיר אהבה לגלבוע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

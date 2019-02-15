@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ירושתי</title>
+        <singer classification="unknown">ג וני שועלי</singer>
+        <writer>ג'וני שועלי</writer>
+        <composer>ג'וני שועלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ירושתי</head>
+        <lg number="1" type="stanza">
+          <l>את ודאי תגלי מה יפה ירושתי</l>
+          <l>איך הכל מתבהר מצאת חבר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מכל מקום כשזה קורה אני קורא לה שתראה</l>
+          <l>והיא לא לידי היא מחכה לי לשובי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך הכל מתבהר עוד מעט ויסנוור</l>
+          <l>תגלי בעצמך מה יפה ירושתך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מכל מקום כשזה קורה אני קורא לה שתראה</l>
+          <l>והיא לא לידי היא מחכה לי לשובי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

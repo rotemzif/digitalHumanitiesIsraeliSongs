@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זמני 4</title>
+        <singer classification="unknown">לימור דרור</singer>
+        <writer>לימור דרור</writer>
+        <composer>חן מצגר אדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זמני</head>
+        <lg number="1" type="stanza">
+          <l>סתם בזבזתי יום מהחיים על כלום</l>
+          <l>או שזה רק אני</l>
+          <l>הופכת מחפשת את הלא קיים</l>
+          <l>וזה שטותי</l>
+          <l>בכל מקום שכבר ביקרתי בעבר</l>
+          <l>תמיד זוכרים אותי</l>
+          <l>אז איך זה שהסטיגמה של להיות לבד</l>
+          <l>תקועה איתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הנה זה מגיע ודופק חזק</l>
+          <l>בתוך הראש שלי וזה כואב</l>
+          <l>כל הגוף סחרחורת פועם עכשיו</l>
+          <l>וזה זמני</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שולפת מין מבט, שלא אומר דבר</l>
+          <l>עכשיו אני יפה</l>
+          <l>בלגאן חושים שכבר איבדו כיוון</l>
+          <l>הצגה</l>
+          <l>קמה, מתיישבת, קמה ותוהה</l>
+          <l>לאן מכאן עכשיו</l>
+          <l>לגשת שיכורה ולבקש חשבון</l>
+        </lg>
+        <lg number="4" type="stanza" />
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הנה זה מגיע ודופק חזק</l>
+          <l>בתוך הראש שלי וזה כואב</l>
+          <l>כל הגוף סחרחורת פועם עכשיו</l>
+          <l>וזה זמני</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

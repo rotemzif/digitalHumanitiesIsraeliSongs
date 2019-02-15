@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חסרה לי 4</title>
+        <singer classification="unknown">ראובן המלאך</singer>
+        <writer>ראובן המלאך</writer>
+        <composer>ראובן המלאך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חסרה לי</head>
+        <lg number="1" type="stanza">
+          <l>מול ביתך ממתין אני לך שעות</l>
+          <l>יושב וחושב ומביט בתמונות</l>
+          <l>האם יעברו כאביי כשאראה אותך</l>
+          <l>היכן את היכן את דואג אני לך</l>
+          <l>היכן את היכן את דואג אני לך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בלילות את חסרה לי</l>
+          <l>לא מבין מה קורה לי</l>
+          <l>לא יכול עוד לחיות בלעדייך</l>
+          <l>בלילות את חסרה לי</l>
+          <l>לא מבין מה קורה לי</l>
+          <l>רוצה להיות קרוב אלייך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את היופי שלך ילדה אני לא אשכח</l>
+          <l>אף גבר אותך ממני לא יקח</l>
+          <l>את שלי ילדה לעולמי עולמים</l>
+          <l>לך אתן את עצמי וגם את החיים</l>
+          <l>לך אתן את עצמי וגם את החיים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בלילות את חסרה לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

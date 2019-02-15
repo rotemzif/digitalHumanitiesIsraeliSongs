@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גן עדן של אהבה</title>
+        <singer classification="male singer">משה פרץ</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>מביט אל המרומים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גן עדן של אהבה</head>
+        <lg number="1" type="stanza">
+          <l>העולם נברא לשתיים - לאדם ולחווה</l>
+          <l>בליבו של גן העדן נולדה אהבה</l>
+          <l>גם אני רוצה כל כך מעץ הדעת</l>
+          <l>לקטוף לשנינו פרי אסור</l>
+          <l>בסודות הכי כמוסים לגעת</l>
+          <l>אך הגן מזמן כבר סגור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>למענך אבנה אהובתי</l>
+          <l>גן עדן של אהבה</l>
+          <l>ושם אני אוהב אותך</l>
+          <l>בגן עדן שלי ושלך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כן אני אבנה לך בית ונחיה כל השנים</l>
+          <l>עוד תפרח אהבתינו בגן של שושנים</l>
+          <l>זה לזאת כמו זוג יונים בקן שלנו</l>
+          <l>נאהב לנצח לעולם</l>
+          <l>אלוקים מעל ישמור אותנו ונהיה חווה ואדם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>למענך אבנה אהובתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

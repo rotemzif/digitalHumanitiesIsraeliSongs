@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mistake</title>
+        <singer classification="female singer">יעל קראוס</singer>
+        <writer>יעל קראוס</writer>
+        <composer>בן הנדלר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Mistake</head>
+        <lg number="1" type="stanza">
+          <l>He loves me </l>
+          <l>How can I tell him the truth </l>
+          <l>He trusts me </l>
+          <l>How can i break him the news </l>
+          <l>Devotion, don't make me look into your eyes </l>
+          <l>Don't make me look </l>
+          <l>He knows me </l>
+          <l>My silence will shout out the guilt </l>
+          <l>He hugs me </l>
+          <l>It's aching how perfect we fit </l>
+          <l>Forgiveness, open your door, let me in </l>
+          <l>Compassion, Open your door </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>Lost myself and made a mistake </l>
+          <l>If you'll stay I promise to learn </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>He loves me </l>
+          <l>How can I tell him the truth </l>
+          <l>He trusts me </l>
+          <l>How can i break him the news </l>
+          <l>Forgiveness, open your door, let me in </l>
+          <l>Compassion, open your door </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>Lost myself and made a mistake </l>
+          <l>If you'll stay I promise to learn </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>He loves me </l>
+          <l>He loves me </l>
+          <l>He loves me</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

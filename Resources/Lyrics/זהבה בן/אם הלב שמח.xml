@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם הלב שמח</title>
+        <singer classification="female singer">זהבה בן</singer>
+        <writer>יוני רועה</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם הלב שמח</head>
+        <lg number="1" type="stanza">
+          <l>אם הלב שמח והזמן בורח</l>
+          <l>בואו ונשיר כולם עם כל מה שאיתנו</l>
+          <l>אם הלב שמח והשיר קולח</l>
+          <l>בואו ונרקוד כולם עם כל מה שאיתנו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לקחת בקלות יותר בסבלנות</l>
+          <l>ותמיד תזכור חבר אין לאן לברוח</l>
+          <l>לחיות את המציאות באושר ובתמימות</l>
+          <l>ותמיד תזכור חבר אין לאן לברוח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם הלב שמח ואתה שוכח </l>
+          <l>בוא כנס למעגל עם כל מה שאיתנו</l>
+          <l>אם הלב שמח כבר אתה יודע</l>
+          <l>עזוב הכל וזה הזמן אם עד לכאן הגענו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לקחת בקלות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

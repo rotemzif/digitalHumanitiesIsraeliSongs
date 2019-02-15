@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הנצח שלנו</title>
+        <singer classification="male singer">נתי לוי</singer>
+        <writer>דנה מוברמן</writer>
+        <composer>סגיב כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הנצח שלנו</head>
+        <lg number="1" type="stanza">
+          <l>בין הצללים נולד רגש אחר</l>
+          <l>כמעט בלי מילים כל כאב השתחרר</l>
+          <l>עלינו מעבר לפחד ביחד מצאנו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את האושר שלנו</l>
+          <l>בין זוג עיניים רכות</l>
+          <l>בנגיעות אהבה</l>
+          <l>שלא יכלו לחכות</l>
+          <l>איך כל מי שאנחנו</l>
+          <l>נחרט בקצות אצבעות</l>
+          <l>בנגיעות אהבה</l>
+          <l>שלא יוכלו להרפות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וכל יום סוחף</l>
+          <l>גם אותי גם אותך</l>
+          <l>הלב הבוער</l>
+          <l>כבר עולה על גדותיו</l>
+          <l>עלינו מעבר לפחד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה הנצח שלנו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילות אפריל</title>
+        <singer classification="male singer">פבלו רוזנברג</singer>
+        <writer>פבלו רוזנברג</writer>
+        <composer>פבלו רוזנברג</composer>
+        <album>בין ערביים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילות אפריל</head>
+        <lg number="1" type="stanza">
+          <l>לפעמים אני משתגע, יוצא אליך מדעתי</l>
+          <l>איך שלא מסתכלים על זה, השמיים - רחוקים מדי</l>
+          <l>אני לא מתבייש לבשר לך גם אם זה קצת לרעתי</l>
+          <l>לוקח מטוס עכשיו לחתום אצלך את נדודי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לילות אפריל -</l>
+          <l>הגשם מתוק יותר</l>
+          <l>לילות אפריל -</l>
+          <l>הגשם מתוק יותר</l>
+          <l>איתך, הו, איתך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היום אני יכול לגלות לך מה הסתרתי בארון</l>
+          <l>גנבתי חולצה שלך ונשמתי אותה אל ראותיי</l>
+          <l>גם אם זה עזר לי לא פעם, נראה בזמן האחרון -</l>
+          <l>הלב מדמם געגוע ומכתים לי את שמך על שתי ידי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לילות אפריל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

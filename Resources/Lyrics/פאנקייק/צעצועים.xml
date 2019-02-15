@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צעצועים</title>
+        <singer classification="band">פאנקייק</singer>
+        <writer>יונתן גת</writer>
+        <composer>רועי דותן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צעצועים</head>
+        <lg number="1" type="stanza">
+          <l>צעצועים רבים היו לי שהייתי קטן</l>
+          <l>אבל כולם כבר נעלמו מזמן</l>
+          <l>צעצועים רבים היו לי שהייתי קטן</l>
+          <l>אבל כולם כבר נעלמו מזמן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היה לי חייל והיה לי לגו</l>
+          <l>היה לי בובה לא היה לי אגו</l>
+          <l>הייתה לי סוכריה שגנבתי מסימה</l>
+          <l>צעצוע רוטט במגרה של אמא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>צעצועים רבים היו לי שהייתי קטן</l>
+          <l>אבל כולם כבר נעלמו מזמן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היה לי חייל והיה לי לגו</l>
+          <l>היה לי בובה לא היה לי אגו</l>
+          <l>הייתה לי סוכריה שגנבתי מסימה</l>
+          <l>צעצוע רוטט במגרה של אמא</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

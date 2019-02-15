@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סיפור חיים</title>
+        <singer classification="female singer">חוה אלברשטיין</singer>
+        <writer>דן מינסטר</writer>
+        <composer>חוה אלברשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סיפור חיים</head>
+        <lg number="1" type="stanza">
+          <l>לא כדאי לך לאהוב אותי, אמרה</l>
+          <l>כי אני לא אוהבת אותך.</l>
+          <l>לא כדאי לך לאהוב אותי, אמרה</l>
+          <l>כי אני לא אוהבת אותך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אבל אני אוהב אותך,</l>
+          <l>ואיני יכול לחדול.</l>
+          <l>אבל אני אוהב אותך,</l>
+          <l>ואיני יכול לחדול.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אתה תסבול,</l>
+          <l>אתה תסבול.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אולי, אמרתי,</l>
+          <l>אבל יבוא עוד יום,</l>
+          <l>ואעזוב אותך.</l>
+          <l>האור מזויף,</l>
+          <l>העיר הזאת זרה בשבילי</l>
+          <l>ומלבד אהבתי הקצרה,</l>
+          <l>הכל שקר.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אתה תסבול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כותב ושר</title>
+        <singer classification="unknown">שרון זריהן</singer>
+        <writer>שגיא חיים</writer>
+        <composer>שגיא חיים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כותב ושר</head>
+        <lg number="1" type="stanza">
+          <l>ברחובות של עיר קטנה מתנגנת מנגינה</l>
+          <l>עצובה כזאת נכתבה עלי ועלייך</l>
+          <l>זה סיפור של אהבה שנגמר באכזבה</l>
+          <l>ואני עודי שבוי שבוי בקסמייך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>למה הלכת בלי לומר לי שלום</l>
+          <l>אותך אחפש כל הלילה</l>
+          <l>את בליבי את תמיד כמו חלום</l>
+          <l>יושב לבדי כותב ושר לך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שוב עולים בי זכרונות על אותם שעות יפות</l>
+          <l>איך ישבנו אז ונדרנו נדרינו</l>
+          <l>ופתאום ביום בהיר מלאכים שרו שיר </l>
+          <l>שיר עם מנגינה עצובה מנגינתנו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>למה הלכת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

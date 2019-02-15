@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוברט 2</title>
+        <singer classification="unknown">מוסקבה</singer>
+        <writer>זאב נחמה</writer>
+        <composer>זאב נחמה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוברט</head>
+        <lg number="1" type="stanza">
+          <l>רוברט, אתה נוסע לחוץ לארץ ולא יודע</l>
+          <l>שבאירופה יש הפצצה ואין מוצא</l>
+          <l>רוברט, הו עתידך נגמר ברגע שבו הגעת</l>
+          <l>לאירופה בלי המלצה ובלי מוצא</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תהיה יותר סימפטי ונבון,</l>
+          <l>יקחו אותך לקרב האחרון</l>
+          <l>תפרוש בגיל שישים עם אות גבורה,</l>
+          <l>תכתוב שלא נתנו לך ברירה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רוברט, זאת לא הדרך, גם לא בערך</l>
+          <l>אתה לא ילד ולא גאון, לא לא</l>
+          <l>עם נסיון, לא לא</l>
+          <l>או פיתרון</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רוברט, זוכר הוזמנת ולא אמרת שלא ידעת</l>
+          <l>שבאירופה יש הפצצה ואין מוצא</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תהיה יותר סימפטי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

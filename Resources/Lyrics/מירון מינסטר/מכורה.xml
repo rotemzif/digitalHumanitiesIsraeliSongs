@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מכורה</title>
+        <singer classification="male singer">מירון מינסטר</singer>
+        <writer>דני רובס</writer>
+        <composer>מירון מינסטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מכורה</head>
+        <lg number="1" type="stanza">
+          <l>ילדה מאופרת, קווים בשחור</l>
+          <l>תמונה במסגרת ושם מאחור.</l>
+          <l>שכונה מסודרת, הורים ודירה</l>
+          <l>ילדה משוחררת, אישה מכורה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בוכה וצוחקת, טועה כמו כולם</l>
+          <l>לבד נאבקת, לבד בעולם.</l>
+          <l>ילדה שבודקת כל מה שאסור</l>
+          <l>אשה משחקת, מזרק וכדור.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כולה רועדת</l>
+          <l>עד שהרעל שוב יחדור אל תוך גופה</l>
+          <l>לא, היא לא רוצה יותר</l>
+          <l>נשבעת שהיא לא רוצה יותר</l>
+          <l>להתנפץ לחוף כמו ספינה טרופה.</l>
+          <l>סביב היא רצה</l>
+          <l>וחוזרת שוב תמיד להתחלה</l>
+          <l>היא תוותר והיא תשכח</l>
+          <l>או מישהו יאהב אותה כל כך</l>
+          <l>עד שתצא מהחלום הרע שלה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תמיד כשזה סרט זוכה הגיבור</l>
+          <l>ילדה מתפוררת, קווים בשחור.</l>
+          <l>מסע היא עוברת מתוק ונורא</l>
+          <l>ילדה מפוחדת - אישה מכורה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כולה רועדת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

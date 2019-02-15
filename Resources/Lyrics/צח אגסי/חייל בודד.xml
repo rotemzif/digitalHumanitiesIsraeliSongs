@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חייל בודד 2</title>
+        <singer classification="unknown">צח אגסי</singer>
+        <writer>צח אגסי</writer>
+        <composer>צח אגסי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חייל בודד</head>
+        <lg number="1" type="stanza">
+          <l>שולח מכתבים שמחים בדואר לעצמו </l>
+          <l>כל כך הרבה ימים והוא עוד שם </l>
+          <l>בשעות הערב מוזיקה בוקעת מחדרו </l>
+          <l>חשוב לו שידעו שהוא קיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חייל בודד בקרב מול העולם המשתגע</l>
+          <l>ואין לו איש שיברר אם הוא מרגיש לבד</l>
+          <l>הוא לא עוצר לחשוב ובעצמו הוא שוב פוגע</l>
+          <l>אחרי כל כך הרבה שנים - עדיין לא למד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שמחה של אנשים זרים כבר לא עושה לו טוב</l>
+          <l>יוצא כל בוקר לא ברור לאן</l>
+          <l>הבטיח לעצמו שיום אחד הוא עוד יכתוב</l>
+          <l>חשוב לו שידעו שהוא עוד כאן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חייל בודד בקרב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מותש מלנסות להשתלב במציאות </l>
+          <l>לחיות כמו זאב לבד הרבה יותר פשוט</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

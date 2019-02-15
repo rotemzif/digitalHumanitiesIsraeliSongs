@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הטוב שבטוב</title>
+        <singer classification="band">גאיה</singer>
+        <writer>יענקל'ה רוטבליט</writer>
+        <composer>גילי ליבר</composer>
+        <album>חופשי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הטוב שבטוב</head>
+        <lg number="1" type="stanza">
+          <l>מן העץ נשר תפוח</l>
+          <l>ואני הולך ושר</l>
+          <l>קל כמו הרוח</l>
+          <l>רך ופתוח</l>
+          <l>והלב מלא אהבה חדשה</l>
+          <l>כן, הלב מלא אהבה חדשה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמו ציפור שם בשמיים</l>
+          <l>עף חופשי ומאושר</l>
+          <l>צלול עיניים</l>
+          <l>וקל רגלים</l>
+          <l>כך אני הולך לי בדרך ושר</l>
+          <l>והלב מלא אהבה חדשה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מה טוב, מה טוב יותר מטוב</l>
+          <l>לאהוב זהו הטוב שבטוב</l>
+          <l>אין טוב, טוב מן הטוב שבטוב</l>
+          <l>לאהוב הטוב שבטוב לאהוב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמה טוב, לי טוב ללכת</l>
+          <l>שוב בדרך הישר</l>
+          <l>תרמיל על שכם מים ולחם</l>
+          <l>כך אני הולך לי אליך ושר</l>
+          <l>כי הלב מלא אהבה חדשה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מה טוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

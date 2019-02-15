@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קחי אותי 21</title>
+        <singer classification="unknown">פליקס אביטל</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>אריה ברקוביץ'</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קחי אותי</head>
+        <lg number="1" type="stanza">
+          <l>זה הלילה מבשר לי</l>
+          <l>כי הזמן קרב עכשיו</l>
+          <l>החיוך שלך אומר לי</l>
+          <l>שליבך בי מאוהב</l>
+          <l>מנגינה יפה קולחת</l>
+          <l>בי רוקדת ושמחה</l>
+          <l>כף ידך כעת לוקחת</l>
+          <l>את ידי אל המחר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קחי אותי אל דרך העתיד</l>
+          <l>וימי יגעו בלילותייך</l>
+          <l>קחי אותי לנצח, לתמיד</l>
+          <l>את חיי הכניסי אל חייך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מחייכים לי השמיים</l>
+          <l>עוד כוכב עלי זוהר</l>
+          <l>מבטך נשפך כיין</l>
+          <l>איך היופי משכר</l>
+          <l>כוכבי אי שם נוגע</l>
+          <l>בין האושר והצחוק</l>
+          <l>בתוכי אני יודע</l>
+          <l>שהאופק לא רחוק.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קחי אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

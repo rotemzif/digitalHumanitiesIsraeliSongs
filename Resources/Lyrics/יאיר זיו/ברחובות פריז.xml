@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ברחובות פריז</title>
+        <singer classification="male singer">יאיר זיו</singer>
+        <writer>יאיר זיו</writer>
+        <composer>שמוליק נויפלד</composer>
+        <album>זמן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ברחובות פריז</head>
+        <lg number="1" type="stanza">
+          <l>במדרכות פריז</l>
+          <l>לבד וקר לי כל כך </l>
+          <l>העיר הגדולה נראית בתוך סרט</l>
+          <l>עצוב ומסובך</l>
+          <l>ואת לא פה אז בטח</l>
+          <l>העיר לקחה אותך</l>
+          <l>אם את לא פה אני כבר</l>
+          <l>כבר לא שלך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תתרחקי עכשיו, כאילו שאני איזה זר</l>
+          <l>ואל תפני את מבטך ממני, ותלכי למקום אחר, לא</l>
+          <l>אל תתרחקי עכשיו, כאילו שאני איזה זר</l>
+          <l>אם כלום כבר לא נשאר עכשיו בינינו</l>
+          <l>אני חוזר לתל אביב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ברחובות פריז</l>
+          <l>אבוד בתוך ענן</l>
+          <l>אני לא עוזב, זאת את מתרחקת</l>
+          <l>רק אלוהים יודע לאן</l>
+          <l>העיר תחכה עד הנצח</l>
+          <l>בוערת בשתיקה</l>
+          <l>ומה יהיה איתנו, תגידי, </l>
+          <l>תגידי מה? </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תתרחקי עכשיו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

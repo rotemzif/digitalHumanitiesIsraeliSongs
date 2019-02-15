@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סטקאטו ולגאטו</title>
+        <singer classification="unknown">דורין כהן</singer>
+        <writer>אורלי בינדר</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סטקאטו ולגאטו</head>
+        <lg number="1" type="stanza">
+          <l>סטקאטו הקפצן </l>
+          <l>קופץ לו כל הזמן</l>
+          <l>קפיץ וקפוץ בגיל, </l>
+          <l>קופץ לו כך כל צליל.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>סטקאטו, סטקאטו, </l>
+          <l>כך מקפץ סטקאטו.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לגאטו, מהלך לאט ממש זורם</l>
+          <l>צלילים מחוברים ממש ובהתאם.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לגאטו, לגאטו, </l>
+          <l>כך מתנגן לגאטו.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלום שהתגשם</title>
+        <singer classification="unknown">נאור כהן</singer>
+        <writer>עציון מוסאי</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלום שהתגשם</head>
+        <lg number="1" type="stanza">
+          <l>את יודעת רק אותך כל חיי אני רציתי</l>
+          <l>כשליבך אליי נפתח כבר ידעתי שזכיתי</l>
+          <l>ואם את עכשיו שומעת אם את רק רוצה לדעת את חלום שהתגשם לי בחיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פזמון</l>
+          <l>תראו איך היא רוקדת</l>
+          <l>את כולם היא מסובבת</l>
+          <l>בליבי, אני נשבע</l>
+          <l>חץ של אהבה פגע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בחיוך שלך נזכר זה נותן לי את הכוח</l>
+          <l>להמשיך אל המחר וכמו שמש שוב לזרוח</l>
+          <l>ואם את אותי שומעת אם את רק רוצה לדעת</l>
+          <l>את חלום שהתגשם לי בחיים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תראו איך היא רוקדת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

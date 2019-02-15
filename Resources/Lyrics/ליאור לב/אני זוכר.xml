@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני זוכר 8</title>
+        <singer classification="unknown">ליאור לב 3</singer>
+        <writer>ליאור לב</writer>
+        <composer>ליאור לב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני זוכר</head>
+        <lg number="1" type="stanza">
+          <l>אני זוכר את השתיקות </l>
+          <l>המשחקים והדמעות </l>
+          <l>אני זוכר איך כעסנו </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני זוכר את הלילות עם דכאונות וחרדות </l>
+          <l>אני זוכר, איך נפרדנו. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בין כל השירים ובין כל המילים </l>
+          <l>אני אוהב אותך, אוהב כל כך </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואיך חזרנו מחייכים כמו זוג יונים </l>
+          <l>וזר פרחים, אני זוכר איך חזרנו </l>
+          <l>ואיך רקדנו יחפים ועייפים </l>
+          <l>ומתוקים, אני זוכר איך רקדנו. </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בין כל השירים ובין כל המילים </l>
+          <l>אני אוהב אותך, אוהב כל כך </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>תמיד היינו אוהבים </l>
+          <l>אני אוהב אותך אוהב כל כך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

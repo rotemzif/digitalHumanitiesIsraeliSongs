@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק בישראל 3</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>שרית חדד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק בישראל</head>
+        <lg number="1" type="stanza">
+          <l>כל היום אני בבית, הסיבה פשוטה</l>
+          <l>כל המדינה בבית, אין פה עבודה</l>
+          <l>יש מדוזות על החוף ופיצוץ בשכם</l>
+          <l>עוד רוצים אותי שפוי איך זה ייתכן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק בארץ, רק בארץ, רק בישראל</l>
+          <l>התמימות הזאת עובדת רק בישראל</l>
+          <l>מה קורה פה לא ידוע גם לממשלה</l>
+          <l>ובטוח על בטוח אנחנו עם נפלא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש לי מכונית קטנה, אין לי חניה</l>
+          <l>כל טיול קטן בעיר, יש דוח על השמשה</l>
+          <l>אם הסינים כבר עושים לי, עבודה עברית</l>
+          <l>כל הסימנים מראים על אי שפיות זמנית</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק בארץ, רק בארץ, רק בישראל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

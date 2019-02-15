@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הבית הישן 2</title>
+        <singer classification="male singer">רונן עניא</singer>
+        <writer>חנה גולדברג</writer>
+        <composer>רונן עניא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הבית הישן</head>
+        <lg number="1" type="stanza">
+          <l>הייתי עייף</l>
+          <l>ורציתי לבכות</l>
+          <l>להניח את הראש</l>
+          <l>לכמה דקות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הייתי רשע</l>
+          <l>ולא מתחשב</l>
+          <l>והכאבתי למי</l>
+          <l>שאני הכי אוהב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז אמרתי שלום</l>
+          <l>והתחלתי לנוע</l>
+          <l>הבטחתי לחזור</l>
+          <l>יותר רגוע</l>
+          <l>עם אש בבטן</l>
+          <l>וראש מלא עשן</l>
+          <l>מצאתי את עצמי בבית הישן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שער עץ מתקלף</l>
+          <l>מתנדנד וחורק</l>
+          <l>מה רציתי למצוא</l>
+          <l>בבית הריק?</l>
+          <l>מי בוכה בפינה? מי זה שר? מי צוחק?</l>
+          <l>מי אומר? מי שומע? מי צועק? מי שותק?</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אז אמרתי שלום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

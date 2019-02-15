@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחת לעניין</title>
+        <singer classification="unknown">רמי פז</singer>
+        <writer>רמי פז</writer>
+        <composer>רמי פז</composer>
+        <album>המלאך השומר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחת לעניין</head>
+        <lg number="1" type="stanza">
+          <l>אלוקים שלח לי, מהמרומים</l>
+          <l>בחורה יפיפייה, כמו בסיפורים</l>
+          <l>אני אוהב אותה, חבל על הזמן</l>
+          <l>בחורה כמוה, אין עוד בעולם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פגשתי בחורה, אחת לעניין</l>
+          <l>אני אוהב אותה, חבל על הזמן</l>
+          <l>פגשתי בחורה, אחת לעניין</l>
+          <l>אני אוהב אותה, חבל על הזמן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל חיי חיכיתי, לנערה הזאת</l>
+          <l>אחכה רק לה, עד שתחזור</l>
+          <l>לא אוותר, עליה אלחם</l>
+          <l>באש ובמים, כל עוד אני נושם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פגשתי בחורה, אחת לעניין...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

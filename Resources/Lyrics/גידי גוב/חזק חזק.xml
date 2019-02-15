@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חזק חזק</title>
+        <singer classification="male singer">גידי גוב</singer>
+        <writer>נדב הררי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חזק חזק</head>
+        <lg number="1" type="stanza">
+          <l>אני אוהב אותך חזק גם כשאת עייפה</l>
+          <l>אני אוהב אותך גם כשאת מדוכדכת</l>
+          <l>אני אוהב אותך חזק גם כשאת עצבנית</l>
+          <l>אוהב אותך חזק גם כשאת פרועה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני אוהב אותך חזק, אפילו כשאת לא לובשת</l>
+          <l>את השמלה הכי יפה, הכי יפה שלך</l>
+          <l>אפילו, כשלא צבעת את העיניים בשחור</l>
+          <l>אפילו שלא התבשמת או עשית את תסרוקתך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני אוהב אותך חזק, חזק חזק חזק</l>
+          <l>ולא יעזור לך אם את עייפה או מדוכדכת</l>
+          <l>אני אוהב אותך חזק, חזק חזק חזק</l>
+          <l>ולא יעזור לך אם את עצבנית, פרועה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני אוהב אותך, לא יעזור לך כלום</l>
+          <l>לא תצליחי להעביר את אהבתי</l>
+          <l>אני אוהב אותך חזק, חזק חזק חזק</l>
+          <l>אפילו כשלא לבשת את השמלה הכי יפה שלך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני אוהב אותך חזק, חזק חזק חזק</l>
+          <l>ולא יעזור לך אם את עייפה או מדוכדכת</l>
+          <l>אני אוהב אותך חזק, חזק חזק חזק</l>
+          <l>ולא יעזור לך אם את עצבנית, פרועה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אני אוהב אותך חזק, חזק חזק חזק</l>
+          <l>ולא יעזור לך אם את עצבנית, פרועה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

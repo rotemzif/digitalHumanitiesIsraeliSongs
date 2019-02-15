@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אישה חרסינה</title>
+        <singer classification="female singer">מירי מסיקה</singer>
+        <writer>נועם חורב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אישה חרסינה</head>
+        <lg number="1" type="stanza">
+          <l>המציאות השבורה לקחה אותה רחוק </l>
+          <l>הרבה ימים של בכי, מעט ימים של צחוק </l>
+          <l>תמונות ילדות של קיץ תלויות לה על הקיר </l>
+          <l>מדהים כמה חיוך יכול להסתיר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והיא הבטיחה לעצמה: גם אלוהים לא יעזור </l>
+          <l>כלום כבר לא ישבור אותי, כלום כבר לא ישבור </l>
+          <l>ואישה אחת אמרה לה, אבל היא לא הבינה </l>
+          <l>את לא אישה פלדה, את אישה חרסינה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>והיה לה מן מבט עם כוח לא מוסבר </l>
+          <l>היא פיזרה הרבה שקרים אבל לא את השיער </l>
+          <l>עם צרידות כזאת כהה גם בצחוק הכי בהיר </l>
+          <l>מדהים איך שכוח יכול להיות שביר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והיא הבטיחה לעצמה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ושנים היא לא חשפה בפניו את הקלפים </l>
+          <l>רק בחושך הסודות שלה הפכו להיות שקופים </l>
+          <l>והוא ראה אותה עמוק גם בלי לדבר </l>
+          <l>מדהים כמה שתיקה יכולה לספר </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>והיא הבטיחה לעצמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תני לי מקום 2</title>
+        <singer classification="unknown">דור ברין</singer>
+        <writer>דור ברין</writer>
+        <composer>דור ברין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תני לי מקום</head>
+        <lg number="1" type="stanza">
+          <l>אל תמהרי לברוח קחי את הזמן שלך </l>
+          <l>יש עוד סיבות לשמוח לא אל תלכי עכשיו </l>
+          <l>תיראי הכל פורח הכל זורח איתך</l>
+          <l>ואיך הזמן שלי נוסע אני לא יודע לאן </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז תני לי מקום תני לי חיוך </l>
+          <l>תני לי להרגיש אותך קרוב</l>
+          <l>תיראי זיכרון רק מתגבר</l>
+          <l>הרגש גובר לא מוותר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זוכרת שלחשת לי רק אותך אוהב תמיד</l>
+          <l>לרגע לא ידעתי האם נכון או אמיתי </l>
+          <l>בין החלומות רגעים של אהבה</l>
+          <l>המחשבות שבראשי כבר נשפכו על הרצפה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז תני לי מקום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

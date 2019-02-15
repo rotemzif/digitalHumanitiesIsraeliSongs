@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טברנה</title>
+        <singer classification="male singer">טל שגב</singer>
+        <writer>טל שגב</writer>
+        <composer>טל שגב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טברנה</head>
+        <lg number="1" type="stanza">
+          <l>תראה איך העיר שלנו נראית</l>
+          <l>איך אנשים ברחוב נראים</l>
+          <l>איך לכולם בעיניים</l>
+          <l>יש אותה הבעה דאגתית</l>
+          <l>אלף אנטנות בכל מקום</l>
+          <l>הכל מסרטן ומפחיד אותי</l>
+          <l>כך לבדי בחושך</l>
+          <l>כשבחוץ אור יום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לשם או לשם</l>
+          <l>אני רוצה לברוח מכאן</l>
+          <l>למקום שלא אפחד עוד</l>
+          <l>להתקיים עם כולם</l>
+          <l>לשם או לשם</l>
+          <l>אני רוצה לברוח מכאן</l>
+          <l>למקום שמאמינים בו</l>
+          <l>באלוהים כולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תראה איך הסופר שלנו נראה</l>
+          <l>איך הכל פה מוצרים</l>
+          <l>כל העולם פרסומת ואני מזקין</l>
+          <l>הלוואי והעולם היה נשאר קטן</l>
+          <l>שוקו בשקית ולחמניה</l>
+          <l>כמו שהיינו פעם</l>
+          <l>עם ערוץ אחת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לשם או לשם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

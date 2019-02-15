@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קצב ברגליים</title>
+        <singer classification="unknown">בועז בנאי</singer>
+        <writer>בועז בנאי</writer>
+        <composer>בועז בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קצב ברגליים</head>
+        <lg number="1" type="stanza">
+          <l>הכי טוב בשבילי עכשיו,</l>
+          <l>להישאר בתוך המים,</l>
+          <l>שלא תראי אותי יחף.</l>
+          <l>הכי טוב בשבילי עכשיו,</l>
+          <l>זה לנסוע על אופניים</l>
+          <l>ולהגיד שאני הולך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עם כל הכבוד, יש לי אישה בבית,</l>
+          <l>אני לא מסתובב ברחוב.</l>
+          <l>בחורה, עם אופי וקצב ברגליים,</l>
+          <l>אני לא יכול לתת לה לחכות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הכי נמוך זה מתחת לגשר צר,</l>
+          <l>לראות את הדרך ההפוכה.</l>
+          <l>ברכבות, אני תמיד מרגיש מדי מוזר,</l>
+          <l>היא לא עוצרת בתחנה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עם כל הכבוד, יש לי אישה בבית...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

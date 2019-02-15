@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עולם אפור</title>
+        <singer classification="male singer">שלומי סרנגה</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>קיריאקוס פפדופולוס</composer>
+        <album>מונו</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עולם אפור</head>
+        <lg number="1" type="stanza">
+          <l>נוסע רחוק לא איכפת לי לאן</l>
+          <l>עד שממך לא יישאר לי סימן</l>
+          <l>את שהיית לי פעם כל החיים</l>
+          <l>מאז שאת עזבת אני רואה את העולם ללא צבעים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קולך עדיין מהדהד כמו מנגינה</l>
+          <l>דמותך שורפת את עיני מכל פינה</l>
+          <l>בחלומות את כמו נוגעת בידי</l>
+          <l>אבל במציאות נשארתי לבדי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עולם אפור ואת האור</l>
+          <l>שהיה בינינו ועכשיו איננו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בואי ניפרד זה קל להגיד</l>
+          <l>אך לעשות את זה הרבה יותר מפחיד</l>
+          <l>לא מנצח את עצמי במלחמה</l>
+          <l>אני רוצה אבל קשה לי להוציא אותך מהנשמה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עולם אפור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

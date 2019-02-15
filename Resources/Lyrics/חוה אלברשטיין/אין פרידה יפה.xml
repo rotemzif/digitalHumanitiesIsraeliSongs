@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין פרידה יפה</title>
+        <singer classification="female singer">חוה אלברשטיין</singer>
+        <writer>חוה אלברשטיין</writer>
+        <composer>חוה אלברשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין פרידה יפה</head>
+        <lg number="1" type="stanza">
+          <l>אין פרידה יפה אל תאמין </l>
+          <l>בלי האהבה אנשים משתנים </l>
+          <l>בלי האהבה יש הצתות </l>
+          <l>האיבה היא אש שמבלה יערות </l>
+          <l>ואין מראה עצוב יותר </l>
+          <l>יער שבוער </l>
+          <l>לא תצליח לכבות </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גזע בן מאה </l>
+          <l>שיח בן שנה </l>
+          <l>נשרפים בלהבה </l>
+          <l>חלומות יפים </l>
+          <l>כל מה שהיה </l>
+          <l>לא נשאר סימן לאהבה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין פרידה יפה משהו מר </l>
+          <l>ממלא את החלל שנשאר </l>
+          <l>אין פרידה יפה משהו מר </l>
+          <l>ממלא את החלל שנשאר </l>
+          <l>כשהסתלקה האהבה </l>
+          <l>מה שהתהווה </l>
+          <l>הוא בעצם עוד מדבר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גזע בן מאה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>משהו נחתך איש עוד לא שכח </l>
+          <l>מה קרה בסוף האהבה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

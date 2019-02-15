@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בריחה</title>
+        <singer classification="male singer">דני רובס</singer>
+        <writer>דני רובס</writer>
+        <composer>דני רובס</composer>
+        <album>משהו חדש מתחיל</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בריחה</head>
+        <lg number="1" type="stanza">
+          <l>עכשיו כשכל המסיכות נפלו</l>
+          <l>והדברים הכי קשים עלו</l>
+          <l>במקום לשלוח יד ולרכך</l>
+          <l>את בורחת שוב מעצמך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זה לא פשוט כשמישהו חודר</l>
+          <l>את כל ההגנות, את הגדר</l>
+          <l>אני מוכן לכל, קורא בשמך</l>
+          <l>את בורחת שוב מעצמך.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>חבל, הסתיו הביא איתו ניחוח</l>
+          <l>חבל, אין שום מקום ראוי לברוח</l>
+          <l>אני רוצה אותך לאט</l>
+          <l>בדיוק כמו שאת.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם תברחי הכל ישקע איתך</l>
+          <l>שוב ייסגר כל מה שכבר נפתח</l>
+          <l>עוטף אותך כשאת אומרת "לך..."</l>
+          <l>ובורחת שוב מעצמך.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>חבל, הסתיו הביא איתו ניחוח...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>זה לא יכול להיות שכאן בלב</l>
+          <l>תשאירי לי רק זיכרון צורב</l>
+          <l>כי האמת, היא לא תרפה ממך</l>
+          <l>גם אם תברחי מעצמך.</l>
+          <l>מה שנתתי לך כבר בתוכך -</l>
+          <l>גם אם תברחי מעצמך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

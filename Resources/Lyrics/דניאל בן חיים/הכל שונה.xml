@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכל שונה</title>
+        <singer classification="unknown">דניאל בן חיים</singer>
+        <writer>ליאור מיארה</writer>
+        <composer>ליאור מיארה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכל שונה</head>
+        <lg number="1" type="stanza">
+          <l>איך כל דקה שחולפת לה</l>
+          <l>אני לא מפסיק לחשוב עלייך</l>
+          <l>בכל הלילות ובחלומות</l>
+          <l>אני שוב פעם מנשק את רוך שפתייך</l>
+          <l>זה לא אמיתי אבל כל כך מציאותי</l>
+          <l>תוהה מתי תשובי אל חיי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך בלעדייך הכל שונה</l>
+          <l>היכן טעינו ומה היה קורה</l>
+          <l>אם החיים היו עלינו מאירים</l>
+          <l>אולי היינו עד עכשיו מאוהבים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זוכר את הימים שהיינו מאוהבים</l>
+          <l>הבטחת שנישאר תמיד ביחד</l>
+          <l>גם כשהיה קשה אמרנו שנהיה</l>
+          <l>ברגעים הכי קשים בלי פחד</l>
+          <l>זה לא אמיתי אבל כל כך מציאותי</l>
+          <l>תוהה מתי תשובי אל חיי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך בלעדייך הכל שונה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

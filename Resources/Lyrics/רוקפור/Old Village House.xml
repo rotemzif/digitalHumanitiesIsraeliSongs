@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Old Village House</title>
+        <singer classification="band">רוקפור</singer>
+        <writer>מרק לזר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Old Village House</head>
+        <lg number="1" type="stanza">
+          <l>out and about </l>
+          <l>wearing my polo shirt tight </l>
+          <l>think it looks nice asking around </l>
+          <l>chasing the world </l>
+          <l>driving a stock motorbike </l>
+          <l>it's just right for now I used to know why </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>old village house I see the plants have grown so high </l>
+          <l>old village house I need to catch the morning flight </l>
+          <l>old village house I'll be back, won't neglect you </l>
+          <l>bye for now </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>off for a while </l>
+          <l>my feet in the lukewarm swimming pool </l>
+          <l>buying some time - so good at that </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>old village house I see the plants have grown so high...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

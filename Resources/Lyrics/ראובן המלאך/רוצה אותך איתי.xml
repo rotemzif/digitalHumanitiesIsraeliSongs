@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוצה אותך איתי</title>
+        <singer classification="unknown">ראובן המלאך</singer>
+        <writer>אלי קשת</writer>
+        <composer>אלי קשת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוצה אותך איתי</head>
+        <lg number="1" type="stanza">
+          <l>אם רק תגידי שאיתי תהיה לנצח</l>
+          <l>אם רק תבטיחי לי שכל חיי נאהב</l>
+          <l>אתן לך נשיקה קטנה קטנה במצח</l>
+          <l>תאמיני לי זה לא יכאב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רוצה אותך איתי רוצה אותך עכשיו</l>
+          <l>רוצה אותך תמיד רוצה בכל מצב</l>
+          <l>רוצה שתאמיני שאת לי החלום</l>
+          <l>אותך רוצה לנצח תמיד בכל מקום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני מסכים שאת צודקת וגם שאת פוגעת</l>
+          <l>אני איתך אני שלך בכל אשר תירצי</l>
+          <l>כשאת לצידי אני יוצא מדעת</l>
+          <l>את אחראית למחשבות שלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רוצה אותך איתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

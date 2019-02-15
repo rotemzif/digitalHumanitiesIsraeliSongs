@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רמזים</title>
+        <singer classification="female singer">ריטה</singer>
+        <writer>יהודה אור כשדים</writer>
+        <composer>missing</composer>
+        <album>רמזים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רמזים</head>
+        <lg number="1" type="stanza">
+          <l>ראיתי רמזים בעלים</l>
+          <l>רמזים מתוקים בעלים הקורנים</l>
+          <l>שאולי אתה פה, שעוד רגע תבוא</l>
+          <l>רק עכשיו אתה לא איתי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זה בצחוק ציפורים, בקריצות רמזים</l>
+          <l>רמזים בעלים, רמזים מתוקים</l>
+          <l>שאולי אתה פה, שעוד רגע תבוא</l>
+          <l>רק עכשיו אתה לא איתי. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני יחפה, הולכת על רוח</l>
+          <l>גופי בין ידיה כמו עץ של תפוח</l>
+          <l>אני ריס שואל שנפל ללחייה</l>
+          <l>בוא קח ותנבע משאלה משפתיה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שלחתי את הרוח לכל קצוותיה</l>
+          <l>דיברתי איתה לבלוש אחריך</l>
+          <l>שתביא לי לפה את הידיים שלך</l>
+          <l>ותשים אותך כאן לידי. </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני יחפה, הולכת על רוח...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>הרוח הזאת, אכפת לה עלינו</l>
+          <l>כולה הבטחות, כולה רמזים</l>
+          <l>שהנה אוטוטו, שעוד רגע תבוא</l>
+          <l>שרק עכשיו אתה לא איתי. </l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

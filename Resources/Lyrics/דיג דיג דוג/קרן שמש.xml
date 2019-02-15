@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קרן שמש 2</title>
+        <singer classification="unknown">דיג דיג דוג</singer>
+        <writer>מיכל חזון</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קרן שמש</head>
+        <lg number="1" type="stanza">
+          <l>השמש מתעוררת</l>
+          <l>ומתמתחת</l>
+          <l>וקרן נהדרת</l>
+          <l>לגן שולחת:</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קרניים קרניים</l>
+          <l>קרניים חמימות</l>
+          <l>קרניים קרניים</l>
+          <l>קרניים מאירות</l>
+          <l>קרניים קרניים</l>
+          <l>ליטוף של העולם</l>
+          <l>בשעת בין ערביים</l>
+          <l>נלך לישון בים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>השמש מפהקת</l>
+          <l>ומתאדמת</l>
+          <l>בים היא כבר נרדמת</l>
+          <l>ונעלמת.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קרניים קרניים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

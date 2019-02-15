@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משבת לשבת 2</title>
+        <singer classification="unknown">מאור פיניה</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משבת לשבת</head>
+        <lg number="1" type="stanza">
+          <l>אם תגידי שאת, נשארת שבת, אלך לבדי לבית קפה</l>
+          <l>אזמין בחיוך פעמיים הפוך, אשתה גם את שלך</l>
+          <l>אקנה זוג כרטיסים לסרט ואחבק את הכיסא הריק</l>
+          <l>ואז תפנה אלי גברת ותשאל עם מי אני צוחק</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני מקנא בצבא, שיש לו אותך </l>
+          <l>בלי געגועים אלייך</l>
+          <l>למה הזמן משטה בי לאט</l>
+          <l>אני חי משבת לשבת </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם תגידי שאת, יוצאת לשבת, לך כל השבוע אחכה</l>
+          <l>אצייר לי בטוש, קוביות של ייאוש, כל יום אמחק אחד</l>
+          <l>אולי אלך לישון בשקט, אבל לפני, אניח לראשי</l>
+          <l>את כל השעונים בבית ואכוון אותם ליום שישי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני מקנא בצבא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

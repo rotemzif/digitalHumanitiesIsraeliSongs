@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא יודעת 7</title>
+        <singer classification="unknown">תומר יראי</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>תומר עג'ם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא יודעת</head>
+        <lg number="1" type="stanza">
+          <l>מפתה אותי עכשיו ללכת אחריך</l>
+          <l>כשהבוקר בא ואת כאן לצידי</l>
+          <l>מחבק אותך, נושם אותך</l>
+          <l>הלב שלי רוצה רק בך</l>
+          <l>והרגש משחק בי כי מתאים לי בחיים להיות איתך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את לא יודעת מה קורה לי כשאני לבד</l>
+          <l>וגורמת לי לחשוב עלייך כל הזמן</l>
+          <l>את לא יודעת מה קורה לי, לא יודעת כלום</l>
+          <l>מה הרגשתי, התרגשתי, במבוי סתום </l>
+          <l>ואת לא יודעת, לא יודעת כלום...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק בגלל האהבה אני חוזר אלייך</l>
+          <l>להרגיש הכל שאת נוגעת בי</l>
+          <l>והגוף בוער, הלב סוער, אני בכלל לא ממהר</l>
+          <l>והנפש את יודעת, זה הרגש שעליו לא אוותר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את לא יודעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

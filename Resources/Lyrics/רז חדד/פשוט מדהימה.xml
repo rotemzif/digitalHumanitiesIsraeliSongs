@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פשוט מדהימה</title>
+        <singer classification="unknown">רז חדד</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פשוט מדהימה</head>
+        <lg number="1" type="stanza">
+          <l>מה שתגידי אני השתניתי</l>
+          <l>פשוט הרגשתי שבך התאהבתי</l>
+          <l>הקשבתי ראיתי לאט אך הבנתי</l>
+          <l>שאין מלבדך רק איתך כך נשבעתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את פשוט מדהימה שעושה את זה</l>
+          <l>האדמה בלכתך לך יוקדת</l>
+          <l>בלילות כל כוכב נדלק ממך</l>
+          <l>את אחת יחידה אין אחרת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שאת מתרגשת או סתם מחייכת</l>
+          <l>מודה ליקום שאותך לי ברא</l>
+          <l>שאת מלטפת דממה ורק שקט</l>
+          <l>איך ליבי יוצא רוצה רק אליה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את פשוט מדהימה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מרחוק האור</title>
+        <singer classification="male singer">רגב הוד</singer>
+        <writer>יאיר תותחני</writer>
+        <composer>עופר לב</composer>
+        <album>בעקבותייך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מרחוק האור</head>
+        <lg number="1" type="stanza">
+          <l>מרחוק האור, הוא מסנוור</l>
+          <l>את הולכת, לא נראית</l>
+          <l>תמונות שבות, כבר יש אחר</l>
+          <l>את איתו, את השתנת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ימים עוברים, ימים באים</l>
+          <l>פתאום מרגיש שוב געגוע</l>
+          <l>חולפות שנים, לילות קרים</l>
+          <l>בלב עצבות, בפנים פגוע</l>
+          <l>לא מדברים, לא מתארים</l>
+          <l>ומה מחר אינו ידוע</l>
+          <l>חולפות שנים, געגועים</l>
+          <l>מחשבות, רק בך שקוע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בן כוכב טועה שמסתתר</l>
+          <l>עולה לה שם דמותך</l>
+          <l>אני יושב לבד, מרגיש חסר</l>
+          <l>רוצה קרוב עד לליבך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ימים עוברים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

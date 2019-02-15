@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה את יפה 4</title>
+        <singer classification="unknown">דודו אהרון</singer>
+        <writer>דודו אהרון</writer>
+        <composer>דודו אהרון</composer>
+        <album>הכל זה מלמעלה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה את יפה</head>
+        <lg number="1" type="stanza">
+          <l>יש בך הכל פשוט מדהימה, </l>
+          <l>את לי השלמות כל כך מתוקה, </l>
+          <l>לאן שתלכי אלך רק איתך,</l>
+          <l>אתן את כולי, ליבי לך שייך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כשאת צוחקת אז טוב לי בלב,</l>
+          <l>כשאת שמחה אז אני הכי אוהב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה את יפה יפה</l>
+          <l>כמו נסיכה מאגדה</l>
+          <l>כל מה שיש לי בעולם אתן רק לך </l>
+          <l>את האור שבליבי אני שלך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את המתוק שיש בעולם, </l>
+          <l>איתך זה פשוט יותר ממושלם, </l>
+          <l>כל רגע איתך מאושר בשבילי </l>
+          <l>איתך אני חי את האושר שלי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כשאת צוחקת אז טוב לי בלב,</l>
+          <l>כשאת שמחה אז אני הכי אוהב.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כמה את יפה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

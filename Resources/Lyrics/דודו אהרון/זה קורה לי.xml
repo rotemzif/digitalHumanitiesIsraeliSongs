@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה קורה לי 2</title>
+        <singer classification="unknown">דודו אהרון</singer>
+        <writer>דודו אהרון</writer>
+        <composer>דודו אהרון</composer>
+        <album>הכל זה מלמעלה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה קורה לי</head>
+        <lg number="1" type="stanza">
+          <l>זה המבט בעינייך שגורם איתך להתבלבל </l>
+          <l>ובשנייה להתמכר לך </l>
+          <l>זה החיוך בשפתייך שגורם לי להסמיק מעט </l>
+          <l>שאני בדיוק בוהה בך </l>
+          <l>את החלום שמתגשם ובו אני נוגע </l>
+          <l>את כמו שקיעה כל כך יפה שבך אני שוקע </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וזה קורה לי רק איתך </l>
+          <l>שאת איתי הלב נפתח </l>
+          <l>אני אוהב אותך </l>
+          <l>אני אוהב אותך כל כך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה הטירוף בחייך שאיתו אני נסחף כל כך </l>
+          <l>זה לא עוזב אותי לרגע </l>
+          <l>זה התמימות בפנייך </l>
+          <l>את עושה לי חשק לאהוב </l>
+          <l>ורק איתך אני זורח </l>
+          <l>את כמו חלום שמתגשם ובו אני נוגע </l>
+          <l>את כמו שקיעה כל כך יפה שבך אני שוקע </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וזה קורה לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה 168</title>
+        <singer classification="male singer">עמיר בניון</singer>
+        <writer>עמיר בניון</writer>
+        <composer>עמיר בניון</composer>
+        <album>שלכת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה</head>
+        <lg number="1" type="stanza">
+          <l>בדרכי הייתי ואין לאן</l>
+          <l>לא היה שום מקום לא היה אז דבר רק הזמן</l>
+          <l>גאוותי הייתה רק בך האכזבה שלך רחפה לה,</l>
+          <l>מעל העולם כולו, מעל העולם כולו.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני יודע שעדיין את גן העדן לא רואים</l>
+          <l>יבוא היום ודאי אותי את תגלי</l>
+          <l>אני יודע שעדיין אין סרנדות אהבה</l>
+          <l>אך את היום כואבת פחות בגללי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בדרכי הייתי ואין לאן</l>
+          <l>איפה את לא ידעתי לא היה לי אותך כאן מזמן</l>
+          <l>יתרון יחיד יש הוא נמצא רק איתך אם הייאוש הזה</l>
+          <l>שבא לך מהעולם כולו, מהעולם כולו.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני יודע שעדיין את גן העדן לא רואים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

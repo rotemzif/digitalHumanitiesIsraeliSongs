@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פריז 8</title>
+        <singer classification="male singer">עמיר לב</singer>
+        <writer>עמיר לב</writer>
+        <composer>עמיר לב</composer>
+        <album>לפעמים אני מאושר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פריז</head>
+        <lg number="1" type="stanza">
+          <l>רציתי למצוא את עצמי במקום אחר</l>
+          <l>נסיעה קצרה דיוטי פרי מרלבורו לייט</l>
+          <l>מדרכות ארוכות ללכת לחפש</l>
+          <l>להנות מהאש</l>
+          <l>ללמוד מהשקט</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שמיים כחולים בפריז</l>
+          <l>במלון ברחוב בבאר ששתית</l>
+          <l>מה שנשאר ממך זה אני</l>
+          <l>מחאו לי כפיים כשקמת איתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שטיח ורוד וגשם ורצינו עוד</l>
+          <l>עמדנו באור והלכת לעבוד</l>
+          <l>מאות יונים בכיכר חנויות נפתחות</l>
+          <l>גשר ארוך נהר עם סירות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שמיים כחולים בפריז</l>
+          <l>במלון ברחוב בבאר ששתית</l>
+          <l>מה שנשאר ממך זה אני</l>
+          <l>מחאו לי כפיים כשקמת איתי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

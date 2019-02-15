@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סלחי לי 3</title>
+        <singer classification="male singer">חיים משה</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>יוסי בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סלחי לי</head>
+        <lg number="1" type="stanza">
+          <l>כל היום חושב עלייך,</l>
+          <l>איך הכל כך השתנה</l>
+          <l>רוצה לראות שוב את פנייך</l>
+          <l>איך חלפת בסערה</l>
+          <l>כל הזמן נזכר ברגעים הכי יפים שלנו</l>
+          <l>והיום עוד לא מוצא את התשובה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סלחי לי ילדה, סלחי לי</l>
+          <l>אני לא יכול יותר</l>
+          <l>באש אהבתי ליבי בוער</l>
+          <l>סלחי לי ילדה סלחי לי</l>
+          <l>אני לא יכול יותר,</l>
+          <l>באש אהבתך ליבי בוער</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>העולם נברא לשנינו,</l>
+          <l>האהבה לנו נולדה.</l>
+          <l>האל תמיד ישמור עלינו לא ליפול בעת צרה.</l>
+          <l>כל הזמן נזכר ברגעים הכי יפים שלנו,</l>
+          <l>והיום עוד לא מוצא את התשובה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סלחי לי ילדה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כל היום חושב עלייך,</l>
+          <l>איך הכל כך השתנה,</l>
+          <l>רוצה לראות שוב את פנייך</l>
+          <l>איך הלכת בסערה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

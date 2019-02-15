@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הגידו לי</title>
+        <singer classification="unknown">חבורת שהם</singer>
+        <writer>יצחק לבני</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הגידו לי</head>
+        <lg number="1" type="stanza">
+          <l>הגידו לי איכה אשיר </l>
+          <l>בעת אשר שירה תמר לי </l>
+          <l>עת שיממון יעיק ליבי </l>
+          <l>והעולם כולו יצר לי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הגידו לי, הגידו לי... </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ויום יבוא בשנת עפר </l>
+          <l>כל יגוני לעד ידומו </l>
+          <l>ולשאלת "הגידו לי?" </l>
+          <l>אני אדום כאשר תידומו </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הגידו לי, הגידו לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

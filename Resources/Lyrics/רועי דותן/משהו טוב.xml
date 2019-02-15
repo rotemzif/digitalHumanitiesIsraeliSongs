@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משהו טוב 11</title>
+        <singer classification="unknown">רועי דותן</singer>
+        <writer>רועי דותן</writer>
+        <composer>רועי דותן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משהו טוב</head>
+        <lg number="1" type="stanza">
+          <l>כשצבעי הסתיו בורחים</l>
+          <l>אין מקום למרובעים</l>
+          <l>אז תעגל את הפינות</l>
+          <l>ותצטרף לצועדים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הכסאות המתקפלים</l>
+          <l>ריח שתן חתולים</l>
+          <l>לבנים על מרפסות</l>
+          <l>אנשים שלא עושים כלום ב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עיר חמה </l>
+          <l>עיר חמה</l>
+          <l>עשתה אותי קצת משוגע</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שוחים בשמש צהובה</l>
+          <l>עם הראש באדמה</l>
+          <l>נושמים עוד סם פיצוציה</l>
+          <l>אנשים שלא עושים כלום ב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עיר חמה </l>
+          <l>עיר חמה</l>
+          <l>עשתה אותי קצת משוגע</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

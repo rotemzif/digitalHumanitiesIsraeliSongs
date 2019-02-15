@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בעצמי 2</title>
+        <singer classification="female singer">זהבה בן</singer>
+        <writer>אלכס זיו</writer>
+        <composer>אלכס זיו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בעצמי</head>
+        <lg number="1" type="stanza">
+          <l>בין האסור והנכון</l>
+          <l>בין הצלחה לכשלון</l>
+          <l>אמצא את הדרך</l>
+          <l>בין האחר והמוכר</l>
+          <l>בין הנגלה והנסתר</l>
+          <l>אדע את הערך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מעולם לא היה לי דבר</l>
+          <l>דבר מעולם</l>
+          <l>מלבד מה שהשגתי בעצמי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתוך יאוש תצמח תקווה</l>
+          <l>מתוך רחוק תבוא קרבה</l>
+          <l>יהיה סוף לסבל</l>
+          <l>יש סוף לסבל</l>
+          <l>כשתתנקה המחשבה</l>
+          <l>ומשמחה תצא דמעה</l>
+          <l>יגע בי החסד</l>
+          <l>אדע את החסד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מעולם לא היה לי דבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

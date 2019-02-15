@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מולדת אהובה</title>
+        <singer classification="unknown">להקת חיל האויר</singer>
+        <writer>אבי שטיינר</writer>
+        <composer>תומר גיל אור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מולדת אהובה</head>
+        <lg number="1" type="stanza">
+          <l>אל תבכי מולדת אהובה </l>
+          <l>רוח מזרחית חמה מכה במשעולייך </l>
+          <l>איך בוערת פה האדמה </l>
+          <l>כל גפרור קטן - מצית את השלווה. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עוד יבוא שלום עוד יבוא היום </l>
+          <l>וזאב יגור עם כבש וישבו אל מול שקיעה </l>
+          <l>בעיניים מוותרות יבכו תפילה </l>
+          <l>השמיים ייענו לבקשה </l>
+          <l>ומתוך הדמדומים תבוא יונה. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך חיים בך ארץ כה קדושה </l>
+          <l>מתי כבר תגלי רחמים על ילדייך </l>
+          <l>בשבילנו את היחידה </l>
+          <l>למרות הבערה לא אבדה עוד התקווה. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עוד יבוא שלום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

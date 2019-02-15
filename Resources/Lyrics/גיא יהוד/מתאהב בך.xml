@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתאהב בך</title>
+        <singer classification="unknown">גיא יהוד</singer>
+        <writer>גיא יהוד</writer>
+        <composer>אדם רצון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתאהב בך</head>
+        <lg number="1" type="stanza">
+          <l>לצידך אני מרגיש שהכל זורם לי</l>
+          <l>וכמה טוב לי, טוב לי לצידך.</l>
+          <l>ורק איתך אני מרגיש איך הלב פועם בי</l>
+          <l>ואיתך נדמה לי שזה אמיתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש לך את היופי והחן</l>
+          <l>אני רואה בך</l>
+          <l>כל דקה אני רוצה להתאהב בך</l>
+          <l>לא יכול להתאפק</l>
+          <l>אני חושק בך רוצה בך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לצידך אני מרגיש שהכול זורם לי</l>
+          <l>ככה טוב לי טוב לי בגללך</l>
+          <l>ורק הלב שלי יעיד כמה טוב זה עושה לי</l>
+          <l>שזה לא נדמה לי כשאת איתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש לך את היופי והחן...</l>
+        </lg>
+        <lg number="5" type="stanza" />
+      </lg>
+    </body>
+  </text>
+</TEI>

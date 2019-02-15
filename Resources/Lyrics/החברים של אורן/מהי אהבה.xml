@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מהי אהבה</title>
+        <singer classification="unknown">החברים של אורן</singer>
+        <writer>אורן הופמן</writer>
+        <composer>אורן הופמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מהי אהבה</head>
+        <lg number="1" type="stanza">
+          <l>ישנה חידה בלתי פתורה, בשם אהבה</l>
+          <l>ישבו החכמים, ניסו להגדירה.</l>
+          <l>אומרים היא סוג של רגש, היא אור בחשיכה</l>
+          <l>ביום שבו נפגשנו, ידעתי אהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהבה היא אור בלב, היא חום לנשמה</l>
+          <l>אהבה היא שיר יפה, היא אושר ושמחה.</l>
+          <l>אהבה היא אור בלב, היא חום לנשמה</l>
+          <l>אהבה היא שיר עולה, היא אושר ושמחה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שנים רבות חלפו עברו, מאז אותו היום</l>
+          <l>היופי נעלם , נשאר רק זכרון.</l>
+          <l>איתך פה לצידי, הפרפרים חוזרים</l>
+          <l>ושוב אני אוהבת, חוזרת לחיים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהבה היא אור בלב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

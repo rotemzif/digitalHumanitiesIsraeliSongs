@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בקשה 2</title>
+        <singer classification="unknown">עופרה חזה</singer>
+        <writer>בצלאל אלוני</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בקשה</head>
+        <lg number="1" type="stanza">
+          <l>רגע של שכחה ביקשתי</l>
+          <l>רגע של שמחה ביקשתי</l>
+          <l>רגע של אמת אחת בפשטות</l>
+          <l>רגע בו תהיה מופיע</l>
+          <l>כמו גל בים רוגע</l>
+          <l>מסתער ומלטף ברכות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רגע בו אהיה שוכחת</l>
+          <l>ימים ריקים, ימים של פחד</l>
+          <l>רגע בו אמצא אותך לידי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק אתמול עיני נשקת</l>
+          <l>מבטי איתך לקחת</l>
+          <l>למשמרת ולמגן</l>
+          <l>עד הסף אותך ליוויתי</l>
+          <l>כעל כף אותך נשאתי</l>
+          <l>לרגע בו תאמר, תאמר כן, כן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רגע בו אהיה שוכחת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

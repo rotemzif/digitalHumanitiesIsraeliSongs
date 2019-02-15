@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה מהשמיים</title>
+        <singer classification="unknown">יניב כהן</singer>
+        <writer>יניב כהן</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה מהשמיים</head>
+        <lg number="1" type="stanza">
+          <l>מחכה לך בכל לילה מול חלון ביתך,</l>
+          <l>מקווה אולי תבואי שאשמע קולך,</l>
+          <l>התאהבתי בך בין לילה את חלום חיי,</l>
+          <l>לא יודע מה קורה לי. אני מאוהב...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זו אהבה מהשמיים</l>
+          <l>זו אהבה אנחנו שניים</l>
+          <l>זו אהבת אמת לנצח, רק אני ואת...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך שאת לי מחייכת העולם נדם,</l>
+          <l>מסתובבת מאושרת וליבי נפעם,</l>
+          <l>תני לי יד נרקוד הלילה את הריקוד שלך,</l>
+          <l>בואי נשבע ביחד נשמה אהובה...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זו אהבה מהשמיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

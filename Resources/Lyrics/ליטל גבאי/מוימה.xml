@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מוימה</title>
+        <singer classification="unknown">ליטל גבאי</singer>
+        <writer>ליטל גבאי</writer>
+        <composer>ליטל גבאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מוימה</head>
+        <lg number="1" type="stanza">
+          <l>אחפש אוצרות מן הימים, לקשט את ביתך</l>
+          <l>כשהשמש שלך מעלינו, ללא תנאי תלטף</l>
+          <l>את תראי יום אחד עוד אחזיר לך מפרי אהבתי</l>
+          <l>מאחורייך שנים של עבדות</l>
+          <l>את תנוחי ,את חלקך תאספי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מויימה...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>למסעותיי את היית לי עיניים,צופה מרחוק</l>
+          <l>את כאבת כאבי כשנפלתי, רצית לאסוף</l>
+          <l>וכשטעיתי חזרתי אליך, אל חייקך העוטף</l>
+          <l>ועתה שלחי סודותייך</l>
+          <l>קול שמחה, כל תקווה בליבך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מויימה....</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>مامان من دوست دارم تونور منى</l>
+          <l>مامان من دوست دارم تو جشم منى</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לב שלם</title>
+        <singer classification="male singer">ברי סחרוף</singer>
+        <writer>ברי סחרוף</writer>
+        <composer>missing</composer>
+        <album>נגיעות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לב שלם</head>
+        <lg number="1" type="stanza">
+          <l>כשאת לידי אני הולך צולל</l>
+          <l>כשאת רחוקה אני מתחיל לרוץ</l>
+          <l>את רואה לתוכי אני רואה דרכך</l>
+          <l>את רוצה נקודות אני רוצה רצוף</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וכשאני מתפרק</l>
+          <l>את יותר שלמה</l>
+          <l>גלים גלים בא הכאב</l>
+          <l>לב שבור הוא לב שלם</l>
+          <l>לב שבור הוא לב שלם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לפעמים את אצלי ואני אצל כולם</l>
+          <l>לפעמים אני כאן אבל את כבר לא</l>
+          <l>את רוצה לחכות אני רוצה מיד</l>
+          <l>את רוצה קצת אוויר אני רוצה לנשום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וכשאני מתפרק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

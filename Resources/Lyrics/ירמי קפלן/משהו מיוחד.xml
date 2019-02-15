@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משהו מיוחד</title>
+        <singer classification="male singer">ירמי קפלן</singer>
+        <writer>ירמי קפלן</writer>
+        <composer>ירמי קפלן</composer>
+        <album>הזמן אבוד</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משהו מיוחד</head>
+        <lg number="1" type="stanza">
+          <l>תן לי מטוס סילון</l>
+          <l>תן לי גלולה של הנאה</l>
+          <l>תן לי אחת שתיתן לי</l>
+          <l>עכשיו אני מסודר</l>
+          <l>עכשיו אני מסודר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>צריך דרך כשאתה נגמר</l>
+          <l>צריך אופק כשאתה נסגר</l>
+          <l>ואתה לבד נשאר</l>
+          <l>צריך משהו מיוחד</l>
+          <l>אני אומר לעצמי כל יום שלא אשכח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קרינה בכל שנייה</l>
+          <l>משדרת חוף אל חוף</l>
+          <l>שלא נפסיד את הפצצה</l>
+          <l>רק תן לראות ת'סוף</l>
+          <l>עכשיו אני מסודר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עטוף בחליפת החרדה שלי,</l>
+          <l>שט בחללית</l>
+          <l>ככאן בקצה האלף,</l>
+          <l>הכל כבר אפשרי</l>
+          <l>אני מכור למכשיר</l>
+          <l>שדופק את התבונה</l>
+          <l>כבה את המסך כבר</l>
+          <l>בחוץ יש יום נפלא</l>
+          <l>כל הכוכבים נשארו מאחור</l>
+          <l>רק את נצמדת כשאני</l>
+          <l>נוסע במהירות האור</l>
+          <l>עם מגלה רדארים חדשני</l>
+          <l>אני גובר על המשטרה</l>
+          <l>חומק לרשויות</l>
+          <l>אם נועדנו להיות יחד</l>
+          <l>אז יש סיבה לחיות</l>
+          <l>לחיות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>צריך דרך כשאתה נגמר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

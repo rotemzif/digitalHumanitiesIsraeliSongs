@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ציפור משונה</title>
+        <singer classification="unknown">עלמה זהר</singer>
+        <writer>עלמה זהר</writer>
+        <composer>עלמה זהר</composer>
+        <album>שלושים ושלוש</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ציפור משונה</head>
+        <lg number="1" type="stanza">
+          <l>כל הזמן הזה את חיה</l>
+          <l>בתחושה בלתי ברורה</l>
+          <l>כאילו שאיבדת את דרכך פתאום</l>
+          <l>באמצע עיר זרה</l>
+          <l>אנשים עומדים בפתח</l>
+          <l>להיכנס אל תוך חייך</l>
+          <l>והדלת סגורה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את אוהבת לפעמים לשבת</l>
+          <l>על ענף העץ שבגינה</l>
+          <l>שם הרוח מנשבת</l>
+          <l>התחלה של מנגינה</l>
+          <l>אנשים עוברים למטה</l>
+          <l>הם וודאי חושבים שאת</l>
+          <l>ציפור משונה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>המציאות היא רק השתקפות קרני השמש</l>
+          <l>על רשתית העין הפקוחה</l>
+          <l>הכל נראה רחוק </l>
+          <l>אבל אולי</l>
+          <l>רק המשקפת הפוכה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מסתכלת בזכוכית מגדלת </l>
+          <l>על התמונה המשתנה</l>
+          <l>אבל ככל שאת שואלת</l>
+          <l>את תמיד לא מבינה</l>
+          <l>אנשים רוצים לדעת</l>
+          <l>על מה את חושבת</l>
+          <l>ואת לא עונה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>המציאות היא רק השתקפות קרני השמש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

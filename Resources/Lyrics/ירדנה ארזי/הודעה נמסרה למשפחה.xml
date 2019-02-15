@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הודעה נמסרה למשפחה</title>
+        <singer classification="female singer">ירדנה ארזי</singer>
+        <writer>יואב גינאי</writer>
+        <composer>missing</composer>
+        <album>בושם על עורי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הודעה נמסרה למשפחה</head>
+        <lg number="1" type="stanza">
+          <l>כוכב חיוור טבע ונעלם</l>
+          <l>הלילה רגע עוד מעט נרדם</l>
+          <l>עיתון הבוקר נחבט אל הרצפה</l>
+          <l>והודעה נמסרה למשפחה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>העץ שבשדרה את פירותיו מניח</l>
+          <l>כותב סימן או רמז על המדרכה</l>
+          <l>ואוטובוס ראשון לתחנה מגיע</l>
+          <l>והודעה נמסרה למשפחה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תופי הבס מכים ממכונית חולפת</l>
+          <l>מהקפה ממול בוקעת אנחה</l>
+          <l>האם את תינוקה בעגלה דוחפת</l>
+          <l>והודעה נמסרה למשפחה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הבוקר השקוף מכה בעפעפיים</l>
+          <l>זמזום שעון ארוך שוב מטלטל מחר</l>
+          <l>צלילי שמועה נוגעים בחול על קו המים</l>
+          <l>והודעה נמסרה למשפחה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תופי הבס מכים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

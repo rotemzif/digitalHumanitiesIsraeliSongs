@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בחדרי ליבי</title>
+        <singer classification="male singer">רון שובל</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בחדרי ליבי</head>
+        <lg number="1" type="stanza">
+          <l>נסי עוד פעם</l>
+          <l>סלחי הפעם</l>
+          <l>אין דבר יותר יקר לי בעולם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>דמעתך שורפת</l>
+          <l>שתיקתך הורגת</l>
+          <l>ואני לא מבין על מה עזבת את חיי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אל תגידי שאת עוזבת</l>
+          <l>אל תקחי איתך את הכל</l>
+          <l>בצעדים קטנים את הולכת</l>
+          <l>להרגיש בודד לא יכול</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בחדרי ליבי את אוחזת</l>
+          <l>ברגעים שליבי לך נשבר</l>
+          <l>את בשבילי פשוט עולם</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>איך היית נסערת</l>
+          <l>כמו תמונה מסרט</l>
+          <l>אליי נגשת וביקשת לעזוב</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>למה כך נשברתי?</l>
+          <l>את כל מה שיש לי</l>
+          <l>ואני לא מבין על מה עזבת את חיי</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אל תגידי שאת עוזבת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תלוי רק בך 2</title>
+        <singer classification="male singer">תמיר גל</singer>
+        <writer>מרטין גל</writer>
+        <composer>מרטין גל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תלוי רק בך</head>
+        <lg number="1" type="stanza">
+          <l>את אמרת תן לי זמן לסדר ת'מחשבות</l>
+          <l>כל הלילה רק דיברת על פרידה ורגשות</l>
+          <l>ואני בין המילים, הלכתי לאיבוד</l>
+          <l>קול צרוד לחשתי לך כמו תקליט שרוט</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם תרצי אני שלך כי הכל תלוי רק בך</l>
+          <l>תקוותי כל עולמי, שמחת חיי וגם אני</l>
+          <l>כן הכל תלוי רק בך אם תרצי אני שלך</l>
+          <l>לתמיד לעולמים לכמה זמן שתרצי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שהלכת נפלה דממה נגמרו כל המילים</l>
+          <l>בשבילך זה פסק זמן בשבילי חיים שלמים</l>
+          <l>אני צמא למגע למנגינה שבגופך </l>
+          <l>לו היית פה כדי לראות מה קורה לי בגללך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם תרצי אני שלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

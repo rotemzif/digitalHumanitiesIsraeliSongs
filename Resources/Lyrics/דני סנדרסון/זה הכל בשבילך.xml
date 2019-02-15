@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה הכל בשבילך</title>
+        <singer classification="male singer">דני סנדרסון</singer>
+        <writer>דני סנדרסון</writer>
+        <composer>דני סנדרסון</composer>
+        <album>קופץ לשניה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה הכל בשבילך</head>
+        <lg number="1" type="stanza">
+          <l>זה הכל בשבילך,</l>
+          <l>הביטי לשקיעה,</l>
+          <l>עדיין לא עבר זמנה.</l>
+          <l>הכוכבים זורחים</l>
+          <l>חינם כל השנה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לאן הברווזים</l>
+          <l>עפים כשהאגם קפוא?</l>
+          <l>כל יום קורים ניסים</l>
+          <l>גם לנו עוד יקרו</l>
+          <l>והכל בשבילך...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הו דון קישוט</l>
+          <l>אל תהיה כל כך תמים,</l>
+          <l>בעולם ילד</l>
+          <l>אין מקום לסתם חולמים.</l>
+          <l>הו דון קישוט</l>
+          <l>תתעורר למעני,</l>
+          <l>כך או כך תישאר</l>
+          <l>האביר שלי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אמצא לי עבודה,</l>
+          <l>אלך לעבוד בבית מלון.</l>
+          <l>עם כסף שאחסוך</l>
+          <l>אבנה לנו ארמון,</l>
+          <l>זה הכל בשבילך...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הו דון קישוט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכל זמני 3</title>
+        <singer classification="male singer">רן דנקר</singer>
+        <writer>רן דנקר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכל זמני</head>
+        <lg number="1" type="stanza">
+          <l>הכל זמני, הכל זמני</l>
+          <l>גם החיים שלך איתי</l>
+          <l>הרגשות הנשימות </l>
+          <l>והפחדים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>דפים נופלים מהקירות</l>
+          <l>האכזבות לא נגמרות</l>
+          <l>כולם נופלים, כולם זוכרים</l>
+          <l>כולם יודעים שהכל זמני</l>
+          <l>הכל זמני...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ושתדעי זה לא פשוט</l>
+          <l>לאהוב אותך</l>
+          <l>נחיה נחיה, נמות נמות</l>
+          <l>רק להיות איתך</l>
+          <l>רק להיות איתך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הכל זמני, אהובתי</l>
+          <l>צל גדול מסתיר אותי</l>
+          <l>לא נוגע, לא רואה אותך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>והאמת גם היא תחלוף</l>
+          <l>בלי לדעת את הסוף</l>
+          <l>הולך ומחפש אותך אותך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ושתדעי זה לא פשוט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

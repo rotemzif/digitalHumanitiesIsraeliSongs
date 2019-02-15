@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ליל ערפל</title>
+        <singer classification="female singer">שרון חזיז</singer>
+        <writer>מאיר גולדברג</writer>
+        <composer>פבלו רוזנברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ליל ערפל</head>
+        <lg number="1" type="stanza">
+          <l>ליל ערפל, עורב כחול ממריא לשמיים</l>
+          <l>הירח מסתתר בין כנפיו</l>
+          <l>שלג יורד, עוברות הנזירות על אופניים</l>
+          <l>רק אני לא נזהרת עכשיו.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תפוס אותי הלילה משחק</l>
+          <l>תפוס אותי לפני שאתרחק</l>
+          <l>אם אפול, אז אפול</l>
+          <l>על ענן קטיפה כחול</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פרח אפל לוקח לעצמו את רוב הגשם</l>
+          <l>המשקה טוב, החול טובעני</l>
+          <l>האפר נופל, עלה כחול נופל על פני הקרח</l>
+          <l>בקרוב שם אפול גם אני.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תפוס אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

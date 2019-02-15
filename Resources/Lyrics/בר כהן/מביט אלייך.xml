@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מביט אלייך</title>
+        <singer classification="male singer">בר כהן</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מביט אלייך</head>
+        <lg number="1" type="stanza">
+          <l>אני מביט אלייך בחלומות שוקע</l>
+          <l>הדבש שבענייך מתוק ומשגע</l>
+          <l>כמוך עוד לא פגשתי אין יפה מימך</l>
+          <l>כל מה שבקשתי מצאתי אצלך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני רואה אותך ילדה ומתבלבל</l>
+          <l>אך אם יש רעש לא צריך להיבהל</l>
+          <l>זה רק הלב שלי הניחי את ידך</l>
+          <l>הוא משתולל בפנים וזה רק בגללך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני מביט אלייך ולא יכול לשכוח</l>
+          <l>את החיוך על פנייך שנותן לי כוח</l>
+          <l>תמיד את מחייכת מדליקה אותי</l>
+          <l>וכשאת הולכת יוצא מדעתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני רואה אותך ילדה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עף אלייך</title>
+        <singer classification="male singer">טל סונדק</singer>
+        <writer>טל שגב</writer>
+        <composer>טל שגב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עף אלייך</head>
+        <lg number="1" type="stanza">
+          <l>בסוף הדרך יש עולם קסום</l>
+          <l>שמספר לי מי אני</l>
+          <l>מעל השמש יש חדש כל יום</l>
+          <l>הכל רגוע אין זמנים </l>
+          <l>הכל רגוע אין זמנים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני עף אלייך כמו ציפור פצועה</l>
+          <l>לבשר לך את הזכרונות</l>
+          <l>אני עף אלייך כי הכל תקווה</l>
+          <l>שנבין שיש לנו סיבה לנשום</l>
+          <l>סיבה לחיות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בסוף הדרך נקבל תשובה</l>
+          <l>הכל ברור שקוף נעים</l>
+          <l>היופי לא חשוב ואין פנים</l>
+          <l>הכל מובן מהתחלה</l>
+          <l>הכל מוצף באהבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני עף אלייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

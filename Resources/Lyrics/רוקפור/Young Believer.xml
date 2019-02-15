@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Young Believer</title>
+        <singer classification="band">רוקפור</singer>
+        <writer>מרק לזר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Young Believer</head>
+        <lg number="1" type="stanza">
+          <l>Come on young believer where the magic is alive </l>
+          <l>Word is out and finally the monster's done </l>
+          <l>Unlock the pressured drivers to unfold a softer ride </l>
+          <l>Whistle some songs that use the words of love </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>In June I'll be tired so I'll take longer coffee breaks </l>
+          <l>Sweets keep 'em smiling when their love is sugarless </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>The scent of reminiscence has been sprayed into the open air </l>
+          <l>Hold your breath, close your eyes and don't look back </l>
+          <l>Bells striking madly they can lead things to a better spot </l>
+          <l>Whistle some songs that abuse the words of love </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>In June I'll be tired so I'll take longer coffee breaks </l>
+          <l>Sweets keep 'em smiling when their love is sugarless</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

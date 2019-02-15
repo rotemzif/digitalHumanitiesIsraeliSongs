@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זמן לאהבה</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>שי ראובני</composer>
+        <album>אין הגיון באהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זמן לאהבה</head>
+        <lg number="1" type="stanza">
+          <l>שוב אני זורק לך מילה</l>
+          <l>והחיוך שלך עוצר נשימה</l>
+          <l>תראי אותי איך שאני מאוהב</l>
+          <l>מנסה לתפוס את ליבך</l>
+          <l>לא מוותר שהעולם יתהפך</l>
+          <l>אני שלך ואת שלי לעולם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חכי עוד רגע, תני זמן לאהבה</l>
+          <l>היא משגעת לי ולך ת'נשמה</l>
+          <l>חכי עוד רגע, תני זמן לאהבה</l>
+          <l>היא משגעת לי ולך ת'נשמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>המזל שלי שוב נפתח</l>
+          <l>ביום שבו אני פגשתי אותך</l>
+          <l>וכמו חלום אני פתאום רק שלך</l>
+          <l>תסתכלי אלי ותראי</l>
+          <l>איך שאני אוהב וזה אמיתי</l>
+          <l>ליבי חשוף רוצה לעוף רק איתך </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חכי עוד רגע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

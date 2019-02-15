@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כלבים 3</title>
+        <singer classification="male singer">שיר דויטש</singer>
+        <writer>שיר דויטש</writer>
+        <composer>שיר דויטש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כלבים</head>
+        <lg number="1" type="stanza">
+          <l>כלבים מייבבים, </l>
+          <l>כשאתה סוגר את הדלת </l>
+          <l>וצוהלים כשאתה שב. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כלבים מביטים בך </l>
+          <l>באותם פני כלב </l>
+          <l>ושורטים את רגליך </l>
+          <l>מרוב שמחה. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כלבים לא זוכרים </l>
+          <l>אם בטעות בעטת בהם </l>
+          <l>כיצד יגיבו </l>
+          <l>אם לעולם אינך שב? </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כלבים מביטים בך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האחרת 2</title>
+        <singer classification="unknown">יוסי מוסטקי</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>יוסי מוסטקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האחרת</head>
+        <lg number="1" type="stanza">
+          <l>את ידי תנשק ותלך הן אנחנו ידענו מכבר</l>
+          <l>שהכול יגמר כמו שירה יפסק וימס כזמר</l>
+          <l>רק עשן הערביים ישמור זיכרונות וריחות אהבה </l>
+          <l>רק ניחוח שפתך ינבע  בשמלה ומטפחת הצמר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק אתה שהיית מציאות רק אתה שהייתה חלום</l>
+          <l>תתרחק תעבור תחלוף בלי יגון ומזכרת</l>
+          <l>וימצא מבטי את לבך ששכח את ברכת את ברכת השלום</l>
+          <l>מלבלב מזמר ונרמס לרגלי האחרת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בימי בימי אדפדף כבתוגת עמודי הספרים</l>
+          <l>לידי אענוד טבעות של רגעי נשיקה ורטט</l>
+          <l>ואת כל המילים המילים שעוד לא נצטרפו לשירים</l>
+          <l>אנחש במעוף מנגינה שאיננה נקלטת.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק אתה שהיית...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

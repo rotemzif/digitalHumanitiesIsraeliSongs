@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד רגע משתגע</title>
+        <singer classification="male singer">תמיר גל</singer>
+        <writer>רוני אחיאל</writer>
+        <composer>רוני אחיאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד רגע משתגע</head>
+        <lg number="1" type="stanza">
+          <l>כל כך מוזר כאן ושונה וקר הלילה</l>
+          <l>קשה לי להתרגל שאת רחוקה</l>
+          <l>איך תדעי מה אני מרגיש ומי יאמר לך?</l>
+          <l>את יודעת אהובתי את חסרה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני עוד רגע משתגע</l>
+          <l>אני כל כך מתגעגע</l>
+          <l>אני רוצה אותך אלי בחזרה</l>
+          <l>והדמעות כיסו עיני</l>
+          <l>והחיים כאן בלעדייך מותירים בי עצב בנשמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אמרת: "תזרום עם החיים"</l>
+          <l>ונעלמת לך...</l>
+          <l>החיים מתאכזרים</l>
+          <l>אני נסער</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני מביט חסר אונים אל אור ירח</l>
+          <l>מבקש בשאר כוחי שלא אפחד</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני עוד רגע משתגע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פיץ העכבר</title>
+        <singer classification="male singer">ששי קשת</singer>
+        <writer>גידי קורן</writer>
+        <composer>גידי קורן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פיץ העכבר</head>
+        <lg number="1" type="stanza">
+          <l>מתחת לביתי גר</l>
+          <l>בין היסודות</l>
+          <l>מן ידיד שהוא עכבר</l>
+          <l>בסודי סודות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קם ראשון בבוקר</l>
+          <l>עליז ומאושר,</l>
+          <l>ואני שומע</l>
+          <l>שהוא רוקד ושר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>קוראים לי פיץ פיץ</l>
+          <l>ואני כמו קפיץ קפיץ</l>
+          <l>מיום עד ערב</l>
+          <l>רוקד בלי הרף</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יום אחד בקש אותי</l>
+          <l>פיץ העכבר</l>
+          <l>שאלמדנו אם אפשר</l>
+          <l>לנגן גיטר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>חפשתי חדשים</l>
+          <l>בשוק הפשפשים</l>
+          <l>עד אשר מצאתי</l>
+          <l>כלים משומשים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>קוראים לי פיץ פיץ...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אם תעבור ליד ביתי</l>
+          <l>בכפר אזר</l>
+          <l>תוכל לשמוע מן דבר</l>
+          <l>כזה מוזר</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>קוראים לי פיץ פיץ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

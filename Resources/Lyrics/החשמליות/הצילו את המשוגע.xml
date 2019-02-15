@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הצילו את המשוגע</title>
+        <singer classification="band">החשמליות</singer>
+        <writer>עמירם לוי</writer>
+        <composer>עמירם לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הצילו את המשוגע</head>
+        <lg number="1" type="stanza">
+          <l>קחי אותי למיטה</l>
+          <l>לטפי לי את הראש</l>
+          <l>אני לבד, לבד, לבד, לבד,</l>
+          <l>אפילו שאת כאן לידי</l>
+          <l>זה לא ממש משנה</l>
+          <l>כי הכאב הזה אינו מרפה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ועכשיו הזמן להיזכר</l>
+          <l>בסיפור מבית הספר היסודי</l>
+          <l>הילדים עומדים סביבי</l>
+          <l>מרימים ידיים, צועקים</l>
+          <l>הצילו, הצילו את המשוגע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קחי אותי למיטה</l>
+          <l>בסך הכל לישון</l>
+          <l>אני עייף ולא יכול להירדם</l>
+          <l>אפילו שאת כאן לידי</l>
+          <l>זה לא ממש עוזר</l>
+          <l>כי המחסום הזה כבד מדי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ועכשיו הזמן להיזכר</l>
+          <l>בסיפור מבית הספר היסודי</l>
+          <l>הילדים עומדים סביבי</l>
+          <l>מרימים ידיים, צועקים</l>
+          <l>הצילו, הצילו את המשוגע</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

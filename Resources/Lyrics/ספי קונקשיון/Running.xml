@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Running</title>
+        <singer classification="unknown">ספי קונקשיון</singer>
+        <writer>מישל ביטון</writer>
+        <composer>מישל ביטון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Running</head>
+        <lg number="1" type="stanza">
+          <l>Runing again and again </l>
+          <l>In the middle of nowhere inside me </l>
+          <l>I've been searching for something to pray </l>
+          <l>I've been looking for someone behind me </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Runing again and again </l>
+          <l>In the middle of nowhere inside me </l>
+          <l>I've been waiting for only one day </l>
+          <l>I've been dreaming and dreaming about you</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

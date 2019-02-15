@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הגשם בעינייך</title>
+        <singer classification="male singer">יואב יצחק</singer>
+        <writer>אופיר שמחי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הגשם בעינייך</head>
+        <lg number="1" type="stanza">
+          <l>יצאתי אל הגשם בעינייך</l>
+          <l>יחף עירום עייף מהמסע</l>
+          <l>כך הזיכרונות מאחורייך</l>
+          <l>קבלי אותי אם יש קצת אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שומע את כל מה שאת אומרת</l>
+          <l>אני יודע עוד לא מאוחר</l>
+          <l>ימים יפים יהיו אם את חוזרת</l>
+          <l>על ההר מחכה לך גם מחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חמקתי כמו שיכור מבין ידייך</l>
+          <l>הייתי כבר בארץ רחוקה</l>
+          <l>הרבה פרחים כקטפתי עד אלייך</l>
+          <l>אך בליבי הפרח לך שייך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שומע את כל מה שאת אומרת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

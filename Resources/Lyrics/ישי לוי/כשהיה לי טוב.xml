@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשהיה לי טוב</title>
+        <singer classification="male singer">ישי לוי</singer>
+        <writer>אברהם לוי</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשהיה לי טוב</head>
+        <lg number="1" type="stanza">
+          <l>כן, אתה נשבעת לצידי להיות</l>
+          <l>ברגע ושעה קשה בכל עת של חולשה</l>
+          <l>מכרתני, איכזבתני</l>
+          <l>למה אין בך בושה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כשהיה לי טוב</l>
+          <l>היית קרוב</l>
+          <l>כשהמזל נשחק</l>
+          <l>תפסת מרחק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך אוכל שוב להאמין </l>
+          <l>וגם להבין</l>
+          <l>כל ימי חיפשתי רק חבר</l>
+          <l>לרגעי משבר</l>
+          <l>לא מצאתי, כבר עייפתי</l>
+          <l>למה זה קורה רק לי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כשהיה לי טוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את איתי 2</title>
+        <singer classification="male singer">דורון מזר</singer>
+        <writer>מרק טיילור</writer>
+        <composer>מרק טיילור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את איתי</head>
+        <lg number="1" type="stanza">
+          <l>ענוג הלילה.</l>
+          <l>משי וקטיפה ומלמלה.</l>
+          <l>ענוג הלילה.</l>
+          <l>ואת עולה מתוך האפלה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מאבד את חושי.</l>
+          <l>חם הדם בעורקי.</l>
+          <l>לנו הלילה הזה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את איתי.</l>
+          <l>איך הגעת אלי הלילה, נשמתי?</l>
+          <l>נהדרת, מפוארת, את איתי.</l>
+          <l>איך נגעת בי כאן הלילה, נשמתי?</l>
+          <l>מסנוורת. מעוררת את, אותי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עדין הלילה.</l>
+          <l>בושם לימונים וציפורנים.</l>
+          <l>עדין הלילה.</l>
+          <l>ועור פנייך רך כשושנים.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בוערות שתי עיני.</l>
+          <l>התשוקה בשפתי.</l>
+          <l>לנו הלילה הזה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>את איתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

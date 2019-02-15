@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכל עומד במקום</title>
+        <singer classification="female singer">גלי עטרי</singer>
+        <writer>יעקב גלעד</writer>
+        <composer>missing</composer>
+        <album>אוסף להיטים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכל עומד במקום</head>
+        <lg number="1" type="stanza">
+          <l>הלילה, מצאו רסיסי כוכב נופל</l>
+          <l>איך אתה לא מסתכל, מעבר לצד האפל</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הלילה, עטף את עיניך צל שחור</l>
+          <l>פתי, ביישן וטהור, רצית לעוף כמו ציפור</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הכל עומד במקום</l>
+          <l>הזמן ממשיך ללכת</l>
+          <l>היית כאן ופתאום</l>
+          <l>הכל נטרף כמו חלום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הכל עומד במקום</l>
+          <l>הזמן ממשיך ללכת</l>
+          <l>הכל נטרף כמו חלום</l>
+          <l>אל פי התהום, כמו חלום</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הלילה, יפלו בגללך מילים ריקות</l>
+          <l>אחר כך יבואו שתיקות, בדידות ושנים ארוכות</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>הלילה, העצב הוא רק מקום אחר</l>
+          <l>חדר, כסא ופסנתר, פרח ליד הגדר</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>הכל עומד במקום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

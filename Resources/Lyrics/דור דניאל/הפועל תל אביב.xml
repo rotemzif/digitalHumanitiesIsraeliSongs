@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הפועל תל אביב 2</title>
+        <singer classification="unknown">דור דניאל</singer>
+        <writer>דור דניאל</writer>
+        <composer>שגיא וייץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הפועל תל אביב</head>
+        <lg number="1" type="stanza">
+          <l>שנים חיכיתי לך, רציתי שתדעי </l>
+          <l>אני בחרתי בך ואת בחרת אותי </l>
+          <l>לאן שלא תלכי, איתך תמיד אלך </l>
+          <l>האהבה שלי, הכל למענך </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ועכשיו, תל אביב היא אדומה </l>
+          <l>אני לך שר מהנשמה </l>
+          <l>את הקבוצה שלי לעד </l>
+          <l>היחידה איתה אצעד </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הפועל תל אביב</l>
+          <l>מאז אדום עולה, עולה על המגרש </l>
+          <l>כמו ילד מתרגש כל פעם מחדש </l>
+          <l>נתת גביע והבאת לי אליפות </l>
+          <l>אז יאללה מלחמה, הפועל או למות!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ועכשיו, תל אביב היא אדומה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

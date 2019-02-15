@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יער ישראלי</title>
+        <singer classification="male singer">רמי פורטיס</singer>
+        <writer>רמי פורטיס</writer>
+        <composer>רמי פורטיס</composer>
+        <album>פורטיס משולש</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יער ישראלי</head>
+        <lg number="1" type="stanza">
+          <l>במרכז שרב שמים חלודים</l>
+          <l>דואג וממוזג טמון בחדרים</l>
+          <l>כשהדמעות זולגות עובר לערוצים</l>
+          <l>בגרון ניחר כוכב ההימנונים שר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יהיה טוב יהיה בסדר</l>
+          <l>יהיה רע יהיה בסדר</l>
+          <l>יהיה חם דביק ועצבני</l>
+          <l>אי שם יער ישראלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>באמצע המוסף הדפים ריקים</l>
+          <l>כשהפצצות שותקות עצוב לעיתונים</l>
+          <l>מאחורי הגב סופרים וציידים</l>
+          <l>חבול ומאושר בארץ לא שומעים שר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יהיה טוב יהיה בסדר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

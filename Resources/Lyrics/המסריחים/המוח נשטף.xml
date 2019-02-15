@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המוח נשטף</title>
+        <singer classification="band">המסריחים</singer>
+        <writer>רן שריג</writer>
+        <composer>רן שריג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המוח נשטף</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>המוח נשטף</l>
+          <l>מאז שאתה טף.</l>
+          <l>המוח נשטף</l>
+          <l>מאז שאתה טף.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נשטף לילדים,</l>
+          <l>נשטף לטף.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>המוח נשטף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

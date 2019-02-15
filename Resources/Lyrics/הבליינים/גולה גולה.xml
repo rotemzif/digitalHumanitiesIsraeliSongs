@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גולה גולה 2</title>
+        <singer classification="unknown">הבליינים</singer>
+        <writer>מאור כהן</writer>
+        <composer>אורן לוטנברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גולה גולה</head>
+        <lg number="1" type="stanza">
+          <l>אל תיגע בים</l>
+          <l>הוא יחטוף אותך לשם</l>
+          <l>אל תשקע בנוף</l>
+          <l>הוא מראה את הסוף</l>
+          <l>עוד כחול עובר</l>
+          <l>המחוג ממהר</l>
+          <l>כשתראה ת'אור</l>
+          <l>תתהפך לאחור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גולה גולה גולה גולה</l>
+          <l>או או או...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ממהר הלילה</l>
+          <l>לחכות לא כדאי לה</l>
+          <l>לא צועק הצילו</l>
+          <l>השמיים האפילו</l>
+          <l>מכוון לאופק</l>
+          <l>לעצור את הדופק</l>
+          <l>רק אדם שקרן</l>
+          <l>יחזיר אותך מכאן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גולה גולה גולה גולה</l>
+          <l>או או או...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

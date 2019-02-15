@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נדנדי</title>
+        <singer classification="male singer">שלומי שבת</singer>
+        <writer>מיכה שטרית</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>להיטי זהב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נדנדי</head>
+        <lg number="1" type="stanza">
+          <l>במרכז המעגל היא רוקדת לבדה</l>
+          <l>שהגברים מחאו כפיים את חושיה היא איבדה</l>
+          <l>בושם מפרחי יסמין מזיעתה נוטף</l>
+          <l>מטח כבד של מבטים את גופה שוטף</l>
+          <l>את גופה שוטף</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נדנדי נדנדי ללפנים ולאחור</l>
+          <l>נדנדי נדנדי את גופך השחור</l>
+          <l>נדנדי נדנדי ללפנים ולאחור</l>
+          <l>נדנדי נדנדי את יופייך השחור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>משתלט עליה שד </l>
+          <l>היא פראית חסרת שליטה</l>
+          <l>שורטת את האוויר</l>
+          <l>ואת שדיה מבליטה</l>
+          <l>הגברים עומדים בתור </l>
+          <l>דם ניגר מזיעתם </l>
+          <l>הם חולמים איך היא הלילה </l>
+          <l>תבלה במיטתם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נדנדי נדנדי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היא מביטה בעינהם ורואה שבשבילה </l>
+          <l>נעוריה הם עברו שלפני סוף העולם</l>
+          <l>לאט לאט חלומותיה מתנפצים כמו גל</l>
+          <l>היא מאבדת עלומיה במרכז המעגל</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>נדנדי נדנדי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר התמרון</title>
+        <singer classification="band">להקת גייסות השריון</singer>
+        <writer>יוסי גמזו</writer>
+        <composer>רפי בן משה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר התמרון</head>
+        <lg number="1" type="stanza">
+          <l>העם פה לקריאות אלחוט הריעו </l>
+          <l>וכל המשקפות כבר מורמות </l>
+          <l>הנספחים הצבאיים הגיעו </l>
+          <l>והקהל תופס את המקומות </l>
+          <l>ואו-טו-טו בעוד כמה שניות </l>
+          <l>הכל יתחיל לפי התוכניות </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כאן לא זירת המרוצים באסקוט </l>
+          <l>ולא האיצטדיון ברמת-גן </l>
+          <l>כאן רק לפי פקודה הכל תוסס פה </l>
+          <l>כי כאן הבלגן הוא מאורגן </l>
+          <l>ושב ושב הרגע הנכון </l>
+          <l>עוד מישהו מפריע לתמרון! </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שריון ללא תמרון זה כמו תמרון ללא שריון </l>
+          <l>כמו גולש בלי פלפל וכמו רומנטיקה בלי חושך </l>
+          <l>לכן מרגיש כל שרמן בין איקס וצנטוריון </l>
+          <l>את כושר התמרון ואת תמרון הכושר </l>
+          <l>כי יש לשים אליה כוח ותנופה </l>
+          <l>אם אין כל הירידה בהתקפה </l>
+          <l>וכמו תרופה לרוב על גדוד שריון חמוש </l>
+          <l>יש לנער טוב-טוב לפני השמוש </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כאן לא זירת המרוצים באסקוט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

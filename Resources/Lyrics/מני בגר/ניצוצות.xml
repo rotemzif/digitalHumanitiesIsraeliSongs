@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ניצוצות 2</title>
+        <singer classification="male singer">מני בגר</singer>
+        <writer>מני בגר</writer>
+        <composer>מני בגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ניצוצות</head>
+        <lg number="1" type="stanza">
+          <l>יושב לי לבד</l>
+          <l>וממול הניצוצות שבגלים</l>
+          <l>דולקים השמיים</l>
+          <l>דלוקה כל העיר</l>
+          <l>מאור פנסים</l>
+          <l>מיליון כוכבים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חיפשתי ספסל</l>
+          <l>כי ללכת עכשיו זה מאוחר</l>
+          <l>זה די מסוכן</l>
+          <l>ביפו בלילות</l>
+          <l>אולי אלך עכשיו</l>
+          <l>הביתה לישון</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני עכשיו לבד בעיר גדולה</l>
+          <l>רק תגיד באיזה צד אתה נמצא</l>
+          <l>בוכה, צועק, בפנים אולי תשמע</l>
+          <l>קח אותי איתך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יושב לי לבד</l>
+          <l>נעלמו הניצוצות שעל הים</l>
+          <l>כבר יש סימן של השחר העולה</l>
+          <l>והוא לוקח את הלילה שדועך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני עכשיו לבד...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ישבתי לבדי אל מול הים</l>
+          <l>כשדלקו השמיים דלקה כל העיר</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אני עכשיו לבד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גורלי</title>
+        <singer classification="female singer">רינת בר</singer>
+        <writer>אבי ביטר</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גורלי</head>
+        <lg number="1" type="stanza">
+          <l>זה כואב זה כואב אף אחד לא חושב</l>
+          <l>מה יהיה מה יהיה עם הסבל הזה</l>
+          <l>הדמעות הדמעות את פני מרטיבות</l>
+          <l>עצובה ובוכה בודדה בלילות</l>
+          <l>לבדי, לבדי, לבדי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גורלי, גורלי, איך שיקר כך אותי</l>
+          <l>מה חטאתי אלי שכזה הוא גורלי</l>
+          <l>גורלי, גורלי, איך שיקר כך אותי</l>
+          <l>מה חטאתי אלי שכזה הוא גורלי.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לבדי, לבדי, לא יודעת מי אני</l>
+          <l>בליבי, בליבי, הכאב שבור איתי</l>
+          <l>לא האיר מזלי לא מוצאת את עצמי</l>
+          <l>מבקשת אלי טיפה של אור בעולמי</l>
+          <l>גורלי, גורלי, גורלי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גורלי, גורלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

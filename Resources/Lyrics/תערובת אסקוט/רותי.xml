@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רותי 12</title>
+        <singer classification="band">תערובת אסקוט</singer>
+        <writer>אסף אמדורסקי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רותי</head>
+        <lg number="1" type="stanza">
+          <l>לרוץ, לרוץ, לרוץ,</l>
+          <l>ולא להתעייף</l>
+          <l>את אומרת לי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>"רותי", אני אומר,</l>
+          <l>"כמה זמן עוד חשבת שאמשיך כך לזמר לך?"</l>
+          <l>"רותי, רותי, רותי" - אני אומר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לעוף איתך ולא ליפול עכשיו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רותי.</l>
+          <l>כמו סוכריה מתוקה</l>
+          <l>עטופה בצלופן</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אהההה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חוצפנית</title>
+        <singer classification="unknown">יניב כהן</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חוצפנית</head>
+        <lg number="1" type="stanza">
+          <l>המתוק שבעינייך והאש במילותייך </l>
+          <l>מביאים אותי אלייך להיות איתך </l>
+          <l>לעולם לא מתביישת </l>
+          <l>החוצפה שלך כובשת </l>
+          <l>ואני נופל לרשת אני שלך </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חוצפנית אבל כובשת </l>
+          <l>עדינה אבל דוקרת </l>
+          <l>עם הדבש ועם העוקץ </l>
+          <l>את ראשי את מסחררת </l>
+          <l>חוצפנית אבל כובשת </l>
+          <l>עדינה אבל דוקרת </l>
+          <l>אלוהים מה את עושה לי </l>
+          <l>חוצפנית קטנה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את יודעת לשגע אך הלב שלי יודע </l>
+          <l>יש לך נשמה אוהבת ויפה </l>
+          <l>כמה פעמים נפרדנו והזמן הוכיח לנו </l>
+          <l>שאני ואת נועדנו לאהבה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חוצפנית אבל כובשת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

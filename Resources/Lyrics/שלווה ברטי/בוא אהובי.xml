@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוא אהובי 2</title>
+        <singer classification="female singer">שלווה ברטי</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>אלי משה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוא אהובי</head>
+        <lg number="1" type="stanza">
+          <l>כל השנים הארוכות</l>
+          <l>היה שווה לי לחכות</l>
+          <l>עכשיו כל רגע שעובר</l>
+          <l>אותך אוהבת עוד יותר.</l>
+          <l>רוצה תמיד אליך, רק לא בלעדיך</l>
+          <l>במסלול חייך לעולם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בוא אהובי גע בלבבי</l>
+          <l>שמע שוב את פעימותיו</l>
+          <l>בוא אהובי אולי תבין</l>
+          <l>כמה שהוא מאוהב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>החיבוק והליטוף</l>
+          <l>מתוך הנפש והגוף</l>
+          <l>עוברים אצלי בנשמה</l>
+          <l>כמו רעידת האדמה.</l>
+          <l>רוצה תמיד אליך, רק לא בלעדיך</l>
+          <l>במסלול חייך לעולם.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בוא אהובי גע בלבבי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

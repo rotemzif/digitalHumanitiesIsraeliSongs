@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שכונה 4</title>
+        <singer classification="male singer">שלום מור</singer>
+        <writer>דודו ויזר</writer>
+        <composer>שלום מור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שכונה</head>
+        <lg number="1" type="stanza">
+          <l>פסי הרכבת נראו רחוקים מתמיד </l>
+          <l>הילד הצליף בי בשוט והפצע הגליד </l>
+          <l>אמא צועקת תגיע האוכל מוכן </l>
+          <l>מתוך איזה בית זורקים בקבוק אדולן </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זיכרון חוזר וחולף מהר </l>
+          <l>ילדותי שהייתה באותה השכונה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אמא תגידי תגידי לי מה הם עושים </l>
+          <l>תפילות בית הכנסת נוצרים קולות מואזין </l>
+          <l>אני והחברה בורחים מבית ספר לגן </l>
+          <l>אבא פוחד אתה תצא עבריין </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זיכרון חוזר וחולף מהר </l>
+          <l>ילדותי שהייתה באותה השכונה </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מתרחק הזמן מתקרב הזמן </l>
+          <l>הנהר זורם ואני מחפש את עולמי הישן </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זיכרון חוזר וחולף מהר </l>
+          <l>ילדותי שהייתה באותה השכונה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

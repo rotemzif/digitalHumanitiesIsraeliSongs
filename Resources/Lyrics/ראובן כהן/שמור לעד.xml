@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמור לעד</title>
+        <singer classification="unknown">ראובן כהן</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>דניאל בן יוסף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמור לעד</head>
+        <lg number="1" type="stanza">
+          <l>שמור נא אלי על הקיים </l>
+          <l>ועל הטוב שבעולם שישאר לעולמים</l>
+          <l>שמור על השחר שמאיר ועל יופיו של יום בהיר</l>
+          <l>כי הם האור של החיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלוקים שמור עלינו לעד שנמשיך ולא נמעד</l>
+          <l>ונשמח בכל יום שנולד</l>
+          <l>אלוקים תן שלווה שמור בלב על התקווה</l>
+          <l>שתגע בעמקי המחשבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שמור רוח ים שמלטף </l>
+          <l>ורגעים קטנים של כיף</l>
+          <l>שעוד עושים לי טוב בלב</l>
+          <l>שמור אור כוכב שמתגנב </l>
+          <l>לסוד ליבם של זוג אוהב</l>
+          <l>שמתקרב ומלבלב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלוקים שמור עלינו לעד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

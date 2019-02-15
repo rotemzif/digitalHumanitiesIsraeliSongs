@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תישארי 3</title>
+        <singer classification="unknown">שלומי חן</singer>
+        <writer>שלומי חן</writer>
+        <composer>שלומי חן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תישארי</head>
+        <lg number="1" type="stanza">
+          <l>אני, עוזב הכל עכשיו,</l>
+          <l>גם מה שהשארתי מאחור זה קצת מוזר,</l>
+          <l>אהבה הלכה, נשאר הרגל</l>
+          <l>תישארי לוקח את עצמי למקום אחר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תישארי, תישארי </l>
+          <l>אני הולך עכשיו</l>
+          <l>אל תשאלי זה לא פשוט וזה לא קל בכלל</l>
+          <l>אל תחכי אני הולך למצוא לי נחמה</l>
+          <l>אולי מול הזריחה </l>
+          <l>אמצא את התשובה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני עוזב הכל עכשיו</l>
+          <l>לוקח תיק עם זיכרונות מין העבר</l>
+          <l>את אישה יפה נתת הכל</l>
+          <l>אבל האהבה כבתה ואין מה לעשות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תישארי, תישארי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

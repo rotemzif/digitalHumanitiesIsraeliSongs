@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר המדורה</title>
+        <singer classification="unknown">תומר בן אפרים</singer>
+        <writer>תומר בן אפרים</writer>
+        <composer>תומר בן אפרים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר המדורה</head>
+        <lg number="1" type="stanza">
+          <l>עכשיו שהסער יהום מסביב, </l>
+          <l>בלילות השחורים של יאוש, </l>
+          <l>הן בכל דור יקום הגיבור </l>
+          <l>איש של עוצמה וכיבוש. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לי לה לללי </l>
+          <l>הרוח נושבת קרירה. </l>
+          <l>לי לה לללי </l>
+          <l>נוספה עוד תקוה למדורה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו מלט נדביק ת'גופות ללבנים, </l>
+          <l>חומה לתפארת נקים. </l>
+          <l>על חומותיך הפקדנו שומרים, </l>
+          <l>שם נביט לאחור להולכים. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לי לה לללי... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כל זה איננו משל לא חלום, </l>
+          <l>עוד נזכה לזריחת יום בהיר. </l>
+          <l>לא נורא נתגבר עוד הכל יסתדר, </l>
+          <l>עד אז לא נפסיק פה לשיר. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לי לה לללי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שביל האושר</title>
+        <singer classification="male singer">תמיר גל</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שביל האושר</head>
+        <lg number="1" type="stanza">
+          <l>שביל האושר ללב האדם</l>
+          <l>לא תמיד בא בקלות</l>
+          <l>תקופה יפה לא מבטיחה</l>
+          <l>שלעולם תהיה יפה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שביל האושר אמונת האדם</l>
+          <l>בכסף לא יקנה אותם</l>
+          <l>ידיד אמת ויד חמה</l>
+          <l>בחיים יתנו את השלווה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אדם אדם לתוך עיני הבט</l>
+          <l>החיוך שאתה רואה הוא לא אמת</l>
+          <l>לא כל הנוצץ זהב תמיד</l>
+          <l>על כאב ליבי הזמן יעיד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ארוכה הדרך ארוך השביל</l>
+          <l>כל הדברים לא מסתדרים</l>
+          <l>הזמן עובר ואני חושב</l>
+          <l>האם אמצא פינה ללב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ארוכה הדרך ארוך השביל</l>
+          <l>מחפש יד שאותי תוביל</l>
+          <l>פינה חמה או נחמה</l>
+          <l>למצוא על פני האדמה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אדם אדם לתוך עיני הבט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

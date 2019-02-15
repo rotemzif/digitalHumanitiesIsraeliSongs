@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיפוט מהיר</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>דורי בן זאב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיפוט מהיר</head>
+        <lg number="1" type="stanza">
+          <l>אני חיילת שמי אניטה</l>
+          <l>הבוס לקח אותי לחניתה</l>
+          <l>נסעתי די מהר</l>
+          <l>מבלי להיזהר</l>
+          <l>הרסתי דה-שבו ואחד סוסיתא</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שופט אני לא יודעת למה</l>
+          <l>על מה קיבלתי מחבוש</l>
+          <l>בסך הכל רציתי</l>
+          <l>לחזור הביתה בשלוש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני חיילת שמי רחל</l>
+          <l>מאוד אוהבת לרכל</l>
+          <l>לקחתי חברה</l>
+          <l>עברתי עברה</l>
+          <l>מזל שבעלי עובד במשטרה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שופט אני לא יודעת למה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שמי עדינה</l>
+          <l>לקח אותי בקבינה</l>
+          <l>ניסה, אמרתי: די</l>
+          <l>תראה זה לא כדאי</l>
+          <l>חבר שלי שופט והוא יכעס עלי...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שופט אני לא יודעת למה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

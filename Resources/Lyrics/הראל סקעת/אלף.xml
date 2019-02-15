@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלף 14</title>
+        <singer classification="male singer">הראל סקעת</singer>
+        <writer>עפר בשן</writer>
+        <composer>עפר בשן</composer>
+        <album>דמויות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלף</head>
+        <lg number="1" type="stanza">
+          <l>ככה, ככה התבלבלת, ככה </l>
+          <l>ככה לא הבנת, ככה </l>
+          <l>וזמן שוב לקחת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ושוב לקחת </l>
+          <l>ועל הסף פרידה מונחת </l>
+          <l>תמה עוד תקופה </l>
+          <l>הפחד שיחד לא ככה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>באלף קולות, ואלף שירים</l>
+          <l>באלף מראות, ואלף צלילים</l>
+          <l>באלף צורות, אגיד את המילים</l>
+          <l>עדיין אוהב.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הבוקר, שבתי אל ביתי </l>
+          <l>וחושך, נפל אל תוך חדרי</l>
+          <l>האושר, לא בא לי כמו אמש </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ושוב כמו אמש</l>
+          <l>כל מה שהיה</l>
+          <l>הנפש שומרת לעצמה </l>
+          <l>בשקט, בשקט, לוחשת</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>באלף קולות, ואלף שירים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

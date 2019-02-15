@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני שלך 2</title>
+        <singer classification="female singer">מירי מסיקה</singer>
+        <writer>מרים בניון</writer>
+        <composer>missing</composer>
+        <album>סימנים על החול</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני שלך</head>
+        <lg number="1" type="stanza">
+          <l>את צוחקת, את מתרגשת </l>
+          <l>שולחת יד לוחשת </l>
+          <l>ופנייך שלווה, על רכבת ההרים הזו </l>
+          <l>את השקט </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואני עולה ויורדת, מרחפת </l>
+          <l>ומתרסקת </l>
+          <l>בלי אויר </l>
+          <l>את מחיה אותי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני שלך, תמיד </l>
+          <l>כל מה שידעתי לפניך </l>
+          <l>אני שוקלת מחדש, שאהיה בדיוק </l>
+          <l>כל מה שביקשתי בשבילך </l>
+          <l>ואם לא יהיו לי תשובות, </l>
+          <l>לא יהיו לי מלים לכסות </l>
+          <l>את מגלה אותי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את צוחקת, את מתרגשת </l>
+          <l>שולחת יד, הופכת </l>
+          <l>בעינייך אהבה, בניגון המתגבר הזה </l>
+          <l>את השקט </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואני עולה ויורדת, מרחפת </l>
+          <l>ומתרסקת </l>
+          <l>בלי אויר </l>
+          <l>את מחיה אותי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

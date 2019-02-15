@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קו חמש</title>
+        <singer classification="male singer">גבי שושן</singer>
+        <writer>חנה גולדברג</writer>
+        <composer>זיו גולנד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קו חמש</head>
+        <lg number="1" type="stanza">
+          <l>עלית לאוטובוס</l>
+          <l>באמצע תל אביב</l>
+          <l>תחנה אחת אחרי</l>
+          <l>בפנים היה דחוס</l>
+          <l>ואת באה</l>
+          <l>באה ישר אלי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ירכיך נעות</l>
+          <l>תחת שמלתך</l>
+          <l>בקצב פעימות לבי</l>
+          <l>אני מציץ</l>
+          <l>לתוך עיניך</l>
+          <l>לראות אם את איתי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>קו חמש לוקח אותך ישר לזרועותי </l>
+          <l>אולי בסוף נרד ביחד</l>
+          <l>אולי נלך אלי</l>
+          <l>קו חמש לוקח אותך ישר לתוך לבי</l>
+          <l>פני לוהטות </l>
+          <l>ואת נמסה</l>
+          <l>נמסה ביחד איתי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עצירת פתאום</l>
+          <l>ואת גולשת </l>
+          <l>נופלת ישר עלי</l>
+          <l>מרגישה את החום</l>
+          <l>שזורם אליך</l>
+          <l>מתוך עיני?</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>קו חמש לוקח אותך ישר לזרועותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חצי אוטומטי</title>
+        <singer classification="male singer">רמי פורטיס</singer>
+        <writer>רמי פורטיס</writer>
+        <composer>אייל אבן צור</composer>
+        <album>חצי אוטומטי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חצי אוטומטי</head>
+        <lg number="1" type="stanza">
+          <l>הנה אני,</l>
+          <l>שקרן כמו שקט, חבר של קפקא</l>
+          <l>שוטה בחסד, שפוי בלי סיבה</l>
+          <l>זהו אני</l>
+          <l>סליחה ששכחתי, קוצים על הכתר.</l>
+          <l>לא שליח או נביא משוגע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הנה אני</l>
+          <l>מודה שהייתי שובר ומזיק כמו ילד</l>
+          <l>וזוהי לא סטייה זמנית,</l>
+          <l>תמיד עוד אפשר לנבוח.</l>
+          <l>הנה אני</l>
+          <l>חצי אוטומטי, ממשיך אבל לא שוכח</l>
+          <l>וזוהי לא סטייה זמנית</l>
+          <l>תמיד יש על מי לנבוח.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הנה אני</l>
+          <l>הליצן שבחדר, אחד מהעדר</l>
+          <l>השכן שמתחת שעוד לא נרגע.</l>
+          <l>הנה אני</l>
+          <l>זה כתוב על המצח</l>
+          <l>רק שר</l>
+          <l>איש מגומי שאין לו תרופה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הנה אני</l>
+          <l>מודה שהייתי שובר ומזיק כמו ילד</l>
+          <l>וזוהי לא סטייה זמנית,</l>
+          <l>תמיד עוד אפשר לנבוח.</l>
+          <l>הנה אני</l>
+          <l>חצי אוטומטי, ממשיך אבל לא שוכח</l>
+          <l>וזוהי לא סטייה זמנית</l>
+          <l>תמיד יש על מי לנבוח.</l>
+        </lg>
+        <lg number="5" type="stanza" />
+      </lg>
+    </body>
+  </text>
+</TEI>

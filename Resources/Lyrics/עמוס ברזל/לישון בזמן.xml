@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לישון בזמן</title>
+        <singer classification="male singer">עמוס ברזל</singer>
+        <writer>אורלי בינדר</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לישון בזמן</head>
+        <lg number="1" type="stanza">
+          <l>אוף, אני לא רוצה ללכת לישון,</l>
+          <l>יש עוד סרט מצויר ומשחקים המון.</l>
+          <l>אני רוצה עוד לשחק בלגו במחשב,</l>
+          <l>אומרים לי לך לישון, את זאת איני אוהב...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז מה אם מאוחר צריך לקום מחר</l>
+          <l>עוד לא הספקתי שום דבר.</l>
+          <l>ממני מה רוצים, יש עוד המון דברים</l>
+          <l>כמו ספרים ומשחקים.</l>
+          <l>אבל אומרים לי לך לישון, כל המבוגרים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אוף, אני לא רוצה ללכת לישון</l>
+          <l>לא ביום שבת ולא ביום ראשון.</l>
+          <l>אני רוצה עוד לשחק, שמח לי וכיף,</l>
+          <l>אבל פתאום אני נרדם, אני כל כך עייף... </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז מה אם מאוחר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

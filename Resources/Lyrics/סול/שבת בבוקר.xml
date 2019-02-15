@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שבת בבוקר 3</title>
+        <singer classification="unknown">סול 8</singer>
+        <writer>סול</writer>
+        <composer>סול</composer>
+        <album>מגיעה משם</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שבת בבוקר</head>
+        <lg number="1" type="stanza">
+          <l>החול כמו מחול</l>
+          <l>מסתובב מטורף</l>
+          <l>עוד יום שנושם בכבדות</l>
+          <l>לאט נחטף</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>השמים כמו מים</l>
+          <l>הלילה נשטף</l>
+          <l>זיכרון אחרון מהדרך</l>
+          <l>נפקח ועף</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בשבת בבוקר </l>
+          <l>אני שבה ממני אליך</l>
+          <l>כמו פרח בר</l>
+          <l>בשבת בבוקר</l>
+          <l>כך אני באתי אליך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הקרוב כה רחוק</l>
+          <l>כנחל אכזב</l>
+          <l>בפתחי אשפתות אחפש</l>
+          <l>כחתול נעזב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם תביט לאחור</l>
+          <l>זה סגור ושחור</l>
+          <l>אך אם תביט קדימה </l>
+          <l>תראה אתי את האור</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בשבת בבוקר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

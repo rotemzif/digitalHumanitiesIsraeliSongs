@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוקר נהדר</title>
+        <singer classification="male singer">נתי לוי</singer>
+        <writer>שמרית אור</writer>
+        <composer>מיקי מדר</composer>
+        <album>שלום נערתי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוקר נהדר</head>
+        <lg number="1" type="stanza">
+          <l>נה נה נה נה...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קמתי בבוקר אל יום זורח</l>
+          <l>הזמן לאט חולף</l>
+          <l>אני מרגיש אך לא יודע</l>
+          <l>מן התרגשות קטנה בלב</l>
+          <l>יש משו שונה כאן באויר</l>
+          <l>אני פותח דלת</l>
+          <l>אל תוך הבית מתפרץ לו האביב</l>
+          <l>שמש צהובה מתוך התכלת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איזה בוקר נהדר,</l>
+          <l>איזה בוקר נהדר..</l>
+          <l>יש לפעמים ימים כאלה</l>
+          <l>ימים כאלה, הולך ושר</l>
+          <l>יש לפעמים ימים כאלה</l>
+          <l>מרגיש כמו מלך, כה מאושר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נה נה נה נה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כמה טוב לי בתוך הנשמה</l>
+          <l>מה כבר צריך בסך הכל הבן אדם</l>
+          <l>שמש מעלי, לרגלי האדמה</l>
+          <l>שיישאר כך לעולם</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>איזה בוקר נהדר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

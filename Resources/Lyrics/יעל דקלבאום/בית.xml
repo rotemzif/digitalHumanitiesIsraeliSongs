@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בית 37</title>
+        <singer classification="female singer">יעל דקלבאום</singer>
+        <writer>יעל דקלבאום</writer>
+        <composer>יעל דקלבאום</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בית</head>
+        <lg number="1" type="stanza">
+          <l>מעכשיו אולי יהיה לי בית </l>
+          <l>מעכשיו אולי יהיה לי טוב </l>
+          <l>על השביל הדק </l>
+          <l>בין חופש לבין חוף </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לחבק אותך עם רדת ליל </l>
+          <l>לא לחשוש כל רגע מהסוף </l>
+          <l>מעכשיו אולי יהיה יותר קל לאהוב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

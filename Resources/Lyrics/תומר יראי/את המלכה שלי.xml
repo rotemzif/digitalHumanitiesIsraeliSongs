@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את המלכה שלי</title>
+        <singer classification="unknown">תומר יראי</singer>
+        <writer>תומר עג'ם</writer>
+        <composer>תומר עג'ם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את המלכה שלי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>את המלכה שלי, היחידה שלי</l>
+          <l>וכל מה שאני אוהב</l>
+          <l>איתך זו אהבה גדולה עד השמיים</l>
+          <l>אל תדאגי את עוד תראי</l>
+          <l>אלוקים העד שלי הלילה</l>
+          <l>שנינו יחד זה גורל בך מאוהב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל יום איתך זאת מתנה שלא נגמרת </l>
+          <l>איתך לומד איך להנות מהחיים</l>
+          <l>הלב שלי החליט איתך זה לתמיד</l>
+          <l>איתך זו מציאות שעולה זה העתיד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את המלכה שלי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תמיד שרע לי וקשה את מחזקת</l>
+          <l>צובעת לי ת'חלומות באור זוהר</l>
+          <l>שוכח מהכול רק את בכל מקום</l>
+          <l>רק מפחד עכשיו שאת חלום</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את המלכה שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

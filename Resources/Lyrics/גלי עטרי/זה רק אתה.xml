@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה רק אתה</title>
+        <singer classification="female singer">גלי עטרי</singer>
+        <writer>יוסי פרץ</writer>
+        <composer>יוסי פרץ</composer>
+        <album>חבק אותי לאט</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה רק אתה</head>
+        <lg number="1" type="stanza">
+          <l>לא צריכה שתבקר אותי</l>
+          <l>אני לא רוצה שתתעצבן</l>
+          <l>לא רוצה שתשתף אותי</l>
+          <l>במלחמות שאתה מתכנן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא צריכה שתתחנן אלי</l>
+          <l>אני לא רוצה שתשקר</l>
+          <l>אני לא רוצה שתחבר אותי</l>
+          <l>לפחדים שאתה מתמכר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כי אני חזקה</l>
+          <l>כמו שרק אשה אוהבת</l>
+          <l>אני חזקה</l>
+          <l>כמו השמש הטובה</l>
+          <l>אני חזקה</l>
+          <l>ויכולה תמיד ללכת</l>
+          <l>זה רק אתה שמפחד</l>
+          <l>זה רק אתה שמפחד</l>
+          <l>זה רק אתה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא צריכה שתלווה אותי</l>
+          <l>אני לא רוצה שתתחייב</l>
+          <l>לא רוצה שתבלבל אותי</l>
+          <l>בשאלות שאתה לא עוזב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא צריכה שתלמד אותי</l>
+          <l>אני לא רוצה להתנצל</l>
+          <l>לא רוצה שתפתה אותי</l>
+          <l>עם המילים שאתה ממלמל</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי אני חזקה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חכי לי 6</title>
+        <singer classification="male singer">עידן יניב</singer>
+        <writer>דוד ד'אור</writer>
+        <composer>דוד ד'אור</composer>
+        <album>חכי לי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חכי לי</head>
+        <lg number="1" type="stanza">
+          <l>כמו כולם כך גם אנחנו מחפשים מקום בטוח</l>
+          <l>לא תמיד מוצאים כיוון נסחפים אחרי הרוח</l>
+          <l>אל תוותרי, אל תוותרי</l>
+          <l>אל תישברי, הישארי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חכי לי, אני בדרך מתקרב, חכי לי</l>
+          <l>חכי לי, אני זה שכל כך אוהב אותך</l>
+          <l>חכי לי, גם כשהימים יותר קשים</l>
+          <l>תראי שעוד נצליח להגשים</l>
+          <l>את כל מה שאנחנו מרגישים בלי פחד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא תמיד אני יודע לענות כשאת שואלת</l>
+          <l>מנסה לתת תשובות, אבל הדרך מתפתלת</l>
+          <l>אל תוותרי, אל תוותרי</l>
+          <l>אל תישברי, הישארי איתי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חכי לי, אני בדרך מתקרב...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רק אל תוותרי, הישארי איתי</l>
+          <l>חכי לי, אני בדרך מתקרב, חכי לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

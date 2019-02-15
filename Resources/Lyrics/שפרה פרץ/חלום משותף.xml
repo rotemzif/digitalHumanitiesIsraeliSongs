@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלום משותף</title>
+        <singer classification="unknown">שפרה פרץ</singer>
+        <writer>שפרה פרץ</writer>
+        <composer>שפרה פרץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלום משותף</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אור ולא מלחמה</l>
+          <l>שלום מלא אהבה</l>
+          <l>חלום משותף שיש בו, יש בו תקווה</l>
+          <l>מגן שיעטוף אותנו במהרה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בין חלום למציאות</l>
+          <l>בין ים למדבר</l>
+          <l>בין בריאת הבורא</l>
+          <l>לקטנות האדם</l>
+          <l>גמלים פוסעים מהר להר</l>
+          <l>רגלי יחפות</l>
+          <l>בחולות סמאר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אור ולא מלחמה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ההרים זועקים לאחוות השכנים</l>
+          <l>ערבים ויהודים מתמזגים בלי פחדים</l>
+          <l>יעלים במדבר זמן מנוחה</l>
+          <l>בין בכי לצחוק בין חיים לדממה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

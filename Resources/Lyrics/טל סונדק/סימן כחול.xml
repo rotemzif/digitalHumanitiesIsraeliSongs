@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סימן כחול</title>
+        <singer classification="male singer">טל סונדק</singer>
+        <writer>עדית פאנק</writer>
+        <composer>לאה שבת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סימן כחול</head>
+        <lg number="1" type="stanza">
+          <l>סימנת אותי כמו עוד כאב כחול</l>
+          <l>מן כתם של שמחה שיש בה צער</l>
+          <l>דמעה אחת ושוב אני יכול לזכור</l>
+          <l>איך בתוכי נסגר השער</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואת נשארת לראות איך זה קורה</l>
+          <l>איך הגלים עושים לים שמחה ונחת</l>
+          <l>ואיך הכל קורה לא במקרה</l>
+          <l>מה שאפשר לתת מותר לקחת</l>
+          <l>כמו סימן כחול שים עושה לשמש</l>
+          <l>כמו סימן כחול מאהבה של אמש</l>
+          <l>סימן כחול שיעבור מחר</l>
+          <l>כי אין בינינו שום דבר שמאוחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>סימנת אותי כמו רגע של מחול</l>
+          <l>כמו רוח סתיו חולפת ונושקת</l>
+          <l>כמו ים אבוד שמתרפק על חול</l>
+          <l>ורק כשהוא נסוג מתחיל השקט</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואת נשארת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

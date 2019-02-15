@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמא קטנה</title>
+        <singer classification="unknown">הילד</singer>
+        <writer>אלון חסון</writer>
+        <composer>אלון חסון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמא קטנה</head>
+        <lg number="1" type="stanza">
+          <l>אמא קטנה אמא שלי</l>
+          <l>תמיד דואגת מה בליבי</l>
+          <l>את יקרה את רק שלי</l>
+          <l>שטוב לי או רע את לידי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את נשמה אמא שלי תמיד רק לי דואגת</l>
+          <l>את נשמה אמא טובה תמיד אותי אוהבת</l>
+          <l>את נשמה שלי כואב תמיד איתי כואבת</l>
+          <l>אמא קטנה בנשמה תמיד אותי חובקת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את נתת לי את עולמי</l>
+          <l>גם אם כשלתי את לצידי</l>
+          <l>הביטי בי אמא אלי חייכי</l>
+          <l>את כל חיי את עולמי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את נשמה אמא שלי תמיד רק לי דואגת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

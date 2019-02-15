@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איפה הימים</title>
+        <singer classification="unknown">הפרוייקט של רביבו</singer>
+        <writer>הפרוייקט של רביבו</writer>
+        <composer>הפרוייקט של רביבו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איפה הימים</head>
+        <lg number="1" type="stanza">
+          <l>איפה הם הימים, בהם אנשים</l>
+          <l>קרובים ורחוקים, קטנים וגדולים</l>
+          <l>חיפשו רק נתיב, אשר יוביל לאושר בחיים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עוד מימי ילדותי, היו רגעים</l>
+          <l>מתמודד לבדי, מרים את עצמי</l>
+          <l>תמיד האמנתי שהכל עובר בחיים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תנו בידיים, תנו בכפיים</l>
+          <l>נשמח כולם יחדיו הלילה</l>
+          <l>נרים כוס יין, נשתה לחיים</l>
+          <l>בואו, ונרקוד הלילה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אמרו עליך הכל-יצאת גדול</l>
+          <l>יכול לא יכול, עובר כל מכשול</l>
+          <l>אתה לא תיפול</l>
+          <l>בוא ושמח איתי - נשיר בקול</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תנו בידיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

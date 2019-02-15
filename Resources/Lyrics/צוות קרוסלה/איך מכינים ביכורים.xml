@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך מכינים ביכורים</title>
+        <singer classification="unknown">צוות קרוסלה</singer>
+        <writer>לאה נאור</writer>
+        <composer>קובי אושרת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך מכינים ביכורים</head>
+        <lg number="1" type="stanza">
+          <l>עשה לך גינה </l>
+          <l>עבוד כל השנה. </l>
+          <l>זרע זרעים ושתול שתילים, </l>
+          <l>חכה עד שיהיו גדולים. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואז לא תצטרך לשאול, </l>
+          <l>ואז יהיה לך הכל, לביכורים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וקח גם סלסלה </l>
+          <l>- קטנה?</l>
+          <l>- רצוי גדולה.</l>
+          <l>קשט אותה בפרי גן</l>
+          <l>וזהו טנא מצויין. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואז לא תצטרך לשאול...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עשה לך גם זר, </l>
+          <l>טוב אם אתה אומר, </l>
+          <l>ואל תשכח לשיר שירים</l>
+          <l>שמתאימים לביכורים. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואז לא תצטרך לשאול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

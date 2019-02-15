@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הטעם לחיי 2</title>
+        <singer classification="male singer">לירן טל</singer>
+        <writer>מיכאל וקנין</writer>
+        <composer>שמעון בוסקילה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הטעם לחיי</head>
+        <lg number="1" type="stanza">
+          <l>רק אותך רציתי עוד לפני שבך פגשתי</l>
+          <l>בחיים שלמים חלמתי שתבואי ותביני</l>
+          <l>כאן קיוויתי וידעתי שהאות שלך יאיר לי </l>
+          <l>ונעצרתי ונשמרתי וחיכיתי שתגיעי</l>
+          <l>עד אלי, מול עיני, על שפתי</l>
+          <l>את הטעם לחיי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמה תקווה את מגשימה לי</l>
+          <l>כמה שלווה את מביאה לי</l>
+          <l>כמה אמת את מבטיחה לי</l>
+          <l>כמה בדיוק את מתאימה לי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל הזמן חיכיתי ולרגע לא חששתי</l>
+          <l>ובשקט האמנתי שבסוף את עוד תבואי</l>
+          <l>וביום שבו נפגשנו את הוכחת לי שצדקתי</l>
+          <l>שנזהרתי ונשמרתי וחיכיתי שתגיעי</l>
+          <l>עד אלי, מול עיני, על שפתי</l>
+          <l>את הטעם לחיי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמה תקווה את מגשימה לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

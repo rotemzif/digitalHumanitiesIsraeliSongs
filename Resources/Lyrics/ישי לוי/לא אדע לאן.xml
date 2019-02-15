@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא אדע לאן</title>
+        <singer classification="male singer">ישי לוי</singer>
+        <writer>רמי לב</writer>
+        <composer>עדי לאון</composer>
+        <album>ריקוד רומנטי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא אדע לאן</head>
+        <lg number="1" type="stanza">
+          <l>בדקות שרע לי, ואת חסרה לי</l>
+          <l>והלב מפר את כל השקט</l>
+          <l>ורואה אותך עוזבת את חיי</l>
+          <l>אל תוך הערפל את נעלמת</l>
+          <l>וחלפו כל הימים</l>
+          <l>ורק הדימדומים</l>
+          <l>מעלים כאב שלא נגמר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא אדע לאן, לאן</l>
+          <l>אם הלכת לי לעולם</l>
+          <l>ואולי, אולי את עוד אוהבת</l>
+          <l>לא אדע לאן, לאן, אחפש אותך</l>
+          <l>בלעדייך, בלעדייך, אין לי עולם...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וחולף עוד קיץ, ונטוש הבית</l>
+          <l>ואני נלחם אותך לשכוח</l>
+          <l>הפרחים נבלו, הלב עודו כואב</l>
+          <l>בים הזכרונות מכה בכוח</l>
+          <l>וחלפו כל הימים</l>
+          <l>ורק הדימדומים</l>
+          <l>מעלים כאב שלא נגמר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא אדע לאן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

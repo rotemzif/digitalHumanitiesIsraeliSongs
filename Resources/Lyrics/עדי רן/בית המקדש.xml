@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בית המקדש</title>
+        <singer classification="male singer">עדי רן</singer>
+        <writer>עדי רן</writer>
+        <composer>עדי רן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בית המקדש</head>
+        <lg number="1" type="stanza">
+          <l>כן יבנה בית המקדש שיבנה בית המקדש</l>
+          <l>כל עמך ישראל ירננו ויגידו בך</l>
+          <l>שיבנה בית המקדש, שיבנה בית המקדש</l>
+          <l>כל עמך ישראל ירננו ויגידו בך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ותחזינה עינינו בשובך לציון</l>
+          <l>זה לא חלום, זו מציאות לא דמיון,</l>
+          <l>בשובך לציון זה לא חלום זו מציאות לא דמיון.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שיבנה בית המקדש, שיבנה בית המקדש</l>
+          <l>כל עמך ישראל ירננו ויגידו בך</l>
+          <l>שיבנה בית המקדש, שיבנה בית המקדש</l>
+          <l>כל עמך ישראל ירננו ויגידו בך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ותחזינה עינינו בשובך לציון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

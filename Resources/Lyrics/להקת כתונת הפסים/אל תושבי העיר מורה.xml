@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תושבי העיר מורה</title>
+        <singer classification="unknown">להקת כתונת הפסים</singer>
+        <writer>עממי</writer>
+        <composer>ציונה לירון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תושבי העיר מורה</head>
+        <lg number="1" type="stanza">
+          <l>הקנקן ריקן בלי יין,</l>
+          <l>והגבינה גנובה בלי זין,</l>
+          <l>והגברת עיוורת בלי עין -</l>
+          <l>חיגרת ונישברת צעדה עלי עין.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תושבי העיר מורה</l>
+          <l>אל תושבי העיר מורה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואנשי המקום אחי קין</l>
+          <l>ומותר האדם אשר אין בו אין.</l>
+          <l>אם אין אני דר שם -</l>
+          <l>אשים בראשה העין.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תושבי העיר מורה</l>
+          <l>אל תושבי העיר מורה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

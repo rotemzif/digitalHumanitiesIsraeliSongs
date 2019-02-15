@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יפה עיניים</title>
+        <singer classification="female singer">שלווה ברטי</singer>
+        <writer>שלווה ברטי</writer>
+        <composer>יוסף הדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יפה עיניים</head>
+        <lg number="1" type="stanza">
+          <l>בוא אלי יפה עיניים </l>
+          <l>בוא אלי נפשי תפרח</l>
+          <l>בוא הושט לי שתי ידיים</l>
+          <l>תן לי שמש ואצחק.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא לא לא לא, אל תאמר לי לא</l>
+          <l>אל תחשוב פעמיים </l>
+          <l>לא לא לא לא, אל תאמר לי לא</l>
+          <l>אל תחשוב הליל</l>
+          <l>לא לא לא לא, אל תאמר לי לא</l>
+          <l>בוא יפה עיניים. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בוא נרקוד אנחנו שניים</l>
+          <l>נשתולל עד בוא האור</l>
+          <l>בוא חבקני קל רגליים</l>
+          <l>תן חיוך עשה לי טוב.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא לא לא לא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

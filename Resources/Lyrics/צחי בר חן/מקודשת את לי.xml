@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מקודשת את לי</title>
+        <singer classification="unknown">צחי בר חן</singer>
+        <writer>צחי בר חן</writer>
+        <composer>צחי בר חן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מקודשת את לי</head>
+        <lg number="1" type="stanza">
+          <l>יושב אני לבדי מביט אל המרומים </l>
+          <l>אומר תודה לאלוקי ששלח אותך אלי </l>
+          <l>כי את מתנה משמיים ואני רק חצי בלעדייך </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואז כמו חלום בבוא הלילה </l>
+          <l>עומד ונרגש דמעה בעיני </l>
+          <l>מקודשת את לי מאירה עולמי </l>
+          <l>האישה של חיי עומדת מולי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בקשי התחנני למענך למעני </l>
+          <l>את האור שלי את ברכת האלוקים </l>
+          <l>שערים נפתחים בשמיים לקולות של שירת מלאכים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואז כמו חלום בבוא הלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

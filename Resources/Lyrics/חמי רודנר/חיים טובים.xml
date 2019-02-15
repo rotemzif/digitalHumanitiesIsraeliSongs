@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חיים טובים</title>
+        <singer classification="male singer">חמי רודנר</singer>
+        <writer>חמי רודנר</writer>
+        <composer>חמי רודנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חיים טובים</head>
+        <lg number="1" type="stanza">
+          <l>חיים טובים חיים טובים</l>
+          <l>לילדים לילדים</l>
+          <l>לאמהות חיים טובים</l>
+          <l>חיים טובים גם לאבות</l>
+          <l>לחיילים לחיילות</l>
+          <l>לסוסים ולפרות</l>
+          <l>חיים טובים חיים טובים</l>
+          <l>לנשמות האומללות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וכשנלך מי יתפלל על נשמותינו</l>
+          <l>מי יזכר אז בשירנו, מי אז ירים כוסית לזכרנו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חיים טובים, חיים טובים</l>
+          <l>לידידים ולאויבים</l>
+          <l>חיים טובים חיים טובים</l>
+          <l>לפצצות ולרובים</l>
+          <l>לקברנים ולמתים</l>
+          <l>לפרחים לתולעים</l>
+          <l>חיים טובים לעזאזל</l>
+          <l>וכולם let's go to hell</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וכשנלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

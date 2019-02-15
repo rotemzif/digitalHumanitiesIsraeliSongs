@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תן שלום</title>
+        <singer classification="male singer">חיים ישראל</singer>
+        <writer>תמר אסנפי</writer>
+        <composer>חיים ישראל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תן שלום</head>
+        <lg number="1" type="stanza">
+          <l>את חום הלהבה נגביר בכל עת</l>
+          <l>את תום האהבה נשמור לבל ייתם</l>
+          <l>נשאף למושלם בכל העולם</l>
+          <l>נשיר לשלום ביחד כולם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תן שלום יד ביד נצעד לשלום,</l>
+          <l>הבנה תגשים עוד חלום</l>
+          <l>כנף יונה ישק במרום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קרן התקוה תאיר לכל פינה,</l>
+          <l>נפש עיפה תחבוק לאמונה</l>
+          <l>סוד הקיים בארץ, בים,</l>
+          <l>הוא רק השלום שיחד כולם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תן שלום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

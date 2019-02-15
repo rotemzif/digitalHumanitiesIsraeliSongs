@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ציפור קטנה 2</title>
+        <singer classification="male singer">עופר לוי</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>סטליוס קזנג'ידיס</composer>
+        <album>ציפור השמש</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ציפור קטנה</head>
+        <lg number="1" type="stanza">
+          <l>אי שם בין ארץ לשמיים,</l>
+          <l>אני ואת ביחד שניים,</l>
+          <l>ושנינו יחד זה אחד,</l>
+          <l>אוהב את מה שאת אוהבת,</l>
+          <l>כואב איתך כשאת כואבת,</l>
+          <l>לנצח לא תיהי לבד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ציפור קטנה בים של חושך</l>
+          <l>יבטיחו לך הרים ואושר</l>
+          <l>אל תשכחי זאת יפתי</l>
+          <l>ואם תטעי בסבך היער</l>
+          <l>יציעו לך פרחים ושער</l>
+          <l>ציפור קטנה אל תתפתי</l>
+          <l>ציפור קטנה על כנף הרוח</l>
+          <l>אשא אותך אל חוף בטוח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אי שם בין ארץ לשמיים,</l>
+          <l>אני ואת הולכים עדיין,</l>
+          <l>כל יום חדש הוא עוד תקווה,</l>
+          <l>איזה עולם שם מחכה לך,</l>
+          <l>על מחר מה יראה לך,</l>
+          <l>האם כאב או אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ציפור קטנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

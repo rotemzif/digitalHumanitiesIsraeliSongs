@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בחיפוש נואש</title>
+        <singer classification="male singer">דני גלבוע</singer>
+        <writer>דני גלבוע</writer>
+        <composer>דני גלבוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בחיפוש נואש</head>
+        <lg number="1" type="stanza">
+          <l>בחיפוש נואש אחרי אורגזמה מתמשכת</l>
+          <l>של יותר משניה ועשרים מאיות,</l>
+          <l>הבנתי פתאום שאיבדתי כל</l>
+          <l>התחלה של רצון להמשיך ולחיות.</l>
+          <l>ואין בניין מספיק גבוה</l>
+          <l>בשבילי כדי לקפוץ,</l>
+          <l>ואין סכין מספיק ארוכה בשבילי כדי לנעוץ.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש לי במגירה סטוק של שלושים עיתונים מלאים בנשים עירומות,</l>
+          <l>עם פרצוף מחייך של חיה מטומטמת ושפתיים שמנות וקרות.</l>
+          <l>ויש לי עשרים חברים שלא יודעים לתת עיצה טובה כשצריך,</l>
+          <l>ואני יודע שאני אסיים עם הכל-רק לא סגרתי עוד על תאריך.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בחיפוש נואש!!!...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

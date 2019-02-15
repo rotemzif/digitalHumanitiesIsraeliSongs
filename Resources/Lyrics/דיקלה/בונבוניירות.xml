@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בונבוניירות</title>
+        <singer classification="female singer">דיקלה</singer>
+        <writer>ארז ברזוליק</writer>
+        <composer>דיקלה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בונבוניירות</head>
+        <lg number="1" type="stanza">
+          <l>כל הזמן כותבת שירי אהבה</l>
+          <l>אבל אין לי בעצם בכלל</l>
+          <l>כאילו כולם לקחו את שירי</l>
+          <l>כאילו קצת חבל.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל הזמן אומרים בפעם הבאה</l>
+          <l>אבל היא אף פעם לא באה</l>
+          <l>כאילו העולם שכח את עצמו</l>
+          <l>אבל אני עדיין שמה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בונבוניירות שוקולד</l>
+          <l>איך נשארתי כאן לבד</l>
+          <l>מביטה, לא רואה, על מה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל הזמן בין אגדות</l>
+          <l>רוקמת פיסות שמיים</l>
+          <l>עברתי במקרה חיפשתי אותך</l>
+          <l>לא מצאתי דבר ובינתיים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בונבוניירות שוקולד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

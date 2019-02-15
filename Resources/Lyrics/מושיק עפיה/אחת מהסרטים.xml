@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחת מהסרטים</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>יוני רועה</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחת מהסרטים</head>
+        <lg number="1" type="stanza">
+          <l>בקולנוע לפני שנה</l>
+          <l>כשנפתח המסך</l>
+          <l>שם בסרט עמדה התמונה</l>
+          <l>וראיתי אותך</l>
+          <l>כך לפתע בין התמונות</l>
+          <l>את נכנסת לי ללב</l>
+          <l>והבנתי מהר מאוד</l>
+          <l>שאני מתאהב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את יוצאת מהסרטים ונכנסת ללב</l>
+          <l>את שמפתה אותי רק עלייך חושב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את הדרך בין כוכבים</l>
+          <l>מכוונת אלי</l>
+          <l>מכולם את בוחרת בי</l>
+          <l>מביטה לעיני</l>
+          <l>את זורקת קצה של חוט</l>
+          <l>ונותנת סיבה</l>
+          <l>לחכות לך בסבלנות</l>
+          <l>עד הסרט הבא</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את יוצאת מהסרטים ונכנסת ללב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

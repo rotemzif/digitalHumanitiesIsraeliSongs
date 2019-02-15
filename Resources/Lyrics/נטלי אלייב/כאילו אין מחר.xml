@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כאילו אין מחר 3</title>
+        <singer classification="unknown">נטלי אלייב</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כאילו אין מחר</head>
+        <lg number="1" type="stanza">
+          <l>להביט בעיניך ולשקוע עמוק </l>
+          <l>בעולמות שלא ידעתי</l>
+          <l>אתה שנוגע ברכות מרחוק</l>
+          <l>טווה כורים של אהבה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמו על מים מתהלכת אתה לעולם לא תבין</l>
+          <l>עד כמה אני נמשכת אליך אהובי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רוצה לחיות אותך כל דקה כל נשימה</l>
+          <l>כאילו אין עוד שמיים</l>
+          <l>רוצה לחיות אותך עוד עכשיו עוד נשימה</l>
+          <l>לאהוב אותך כאילו אין מחר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איתך זה הקסם בין שקיעה לזריחה </l>
+          <l>איתך היום הופך לרגע</l>
+          <l>אני מרחפת בשמיים שלך</l>
+          <l>ולא רוצה לנחות לעד</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רוצה לחיות אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

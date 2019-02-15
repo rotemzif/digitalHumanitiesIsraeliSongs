@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>על ענפי שיטה</title>
+        <singer classification="female singer">רונית אופיר</singer>
+        <writer>נתן יונתן</writer>
+        <composer>עממי רוסי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>על ענפי שיטה</head>
+        <lg number="1" type="stanza">
+          <l>על ענפי שיטה רדה עלטה</l>
+          <l>על עליה רוח עלעל,</l>
+          <l>ובעלטה, שם ישבה כיתה</l>
+          <l>וזמרה לך שיר, יעל:</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בין סבכי שיטה נחה עלטה</l>
+          <l>השועל נוגות מילל.</l>
+          <l>ובעלטה נרדמה כיתה</l>
+          <l>רק שירך עוד מסלסל</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>נצפה ונייחל, זיו עינייך, יעל</l>
+          <l>הוא רחוק רחוק עוד יהל</l>
+          <l>עם השחר הצוהל.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מענפי שיטה גזה עלטה</l>
+          <l>על עליה בוקר טלטל</l>
+          <l>אל מרחב שדות צעדה כיתה</l>
+          <l>וזמרה את שמך יעל</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>נצפה ונייחל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

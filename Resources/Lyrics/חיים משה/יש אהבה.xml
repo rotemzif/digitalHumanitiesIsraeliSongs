@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש אהבה 2</title>
+        <singer classification="male singer">חיים משה</singer>
+        <writer>סגיב כהן</writer>
+        <composer>סגיב כהן</composer>
+        <album>איך שבאת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש אהבה</head>
+        <lg number="1" type="stanza">
+          <l>איזו תמימות יש בך אישה</l>
+          <l>אם רק תספרי מה מרגישה</l>
+          <l>שוב בלילות עולים בי זכרונות</l>
+          <l>על אותה ילדה יפיפיה</l>
+          <l>שוב בלילות עולים בי זכרונות</l>
+          <l>מתגעגע לאישה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש אהבה בליבי, שרוצה לתת לך </l>
+          <l>אם רק אליי תחייכי, נשמתי אתן לך</l>
+          <l>אלף ימים יעברו, וגופי חושק רק בך</l>
+          <l>אוהב אותך</l>
+          <l>יש אהבה בליבי, שרוצה לתת לך </l>
+          <l>אם רק אלי תחייכי, נשמתי אתן רק לך באהבה</l>
+          <l>אני שלך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לעולם ידעתי בתוכי </l>
+          <l>שאשא אותך לעד איתי</l>
+          <l>גם אם אלך ליבי כאן בשבילך </l>
+          <l>אקבל אותך לזרועותיי </l>
+          <l>גם אם אלך ליבי כאן בשבילך </l>
+          <l>את האישה של חיי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש אהבה בליבי, שרוצה לתת לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

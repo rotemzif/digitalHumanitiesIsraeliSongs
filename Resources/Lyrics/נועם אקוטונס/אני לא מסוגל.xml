@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני לא מסוגל</title>
+        <singer classification="male singer">נועם אקוטונס</singer>
+        <writer>נועם אקוטונס</writer>
+        <composer>נועם אקוטונס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני לא מסוגל</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אני לא מסוגל</l>
+          <l>לצייר לי זריחה</l>
+          <l>בלי ש ים עננים גבוה</l>
+          <l>יסתיר ממני אותה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני לא מסוגל</l>
+          <l>להעניק אהבה</l>
+          <l>בלי שכל הפחדים יגידו</l>
+          <l>אינך בנוי בשבילה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אסדר לי בית</l>
+          <l>ונחיה כמו זוג</l>
+          <l>נפקח את העיניים</l>
+          <l>כל סוף חלום רטוב</l>
+          <l>נדליק גם את הקטורת</l>
+          <l>וזה ידליק אותי</l>
+          <l>לאור נרות נשכב</l>
+          <l>זה החלום שלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני לא מסוגל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

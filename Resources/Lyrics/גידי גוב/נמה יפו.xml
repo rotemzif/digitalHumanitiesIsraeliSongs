@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נמה יפו</title>
+        <singer classification="male singer">גידי גוב</singer>
+        <writer>יעקב שרת</writer>
+        <composer>missing</composer>
+        <album>שירים שהתפזרו - אוסף</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נמה יפו</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>נמה יפו, נמה</l>
+          <l>שקט בחוצות</l>
+          <l>אורחת גמלים אי שמה</l>
+          <l>צועדת בחצות.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הלילה רד, לפתע נם</l>
+          <l>רובצת עיר לעייפה</l>
+          <l>כמו מתה ‟</l>
+          <l>אך מה הם הקולות...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>נמה יפו, נמה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עמלה העיר ודי לה,</l>
+          <l>יצלצלו ביום</l>
+          <l>ולא בלילה ‟</l>
+          <l>פעמונים, עד כלות.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>נמה יפו, נמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

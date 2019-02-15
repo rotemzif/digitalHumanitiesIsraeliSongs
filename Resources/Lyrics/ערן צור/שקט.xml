@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שקט 26</title>
+        <singer classification="male singer">ערן צור</singer>
+        <writer>יונה וולך</writer>
+        <composer>missing</composer>
+        <album>אתה חברה שלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שקט</head>
+        <lg number="1" type="stanza">
+          <l>שלח לי שקט טוב מוגן</l>
+          <l>שלח לי שקט מענן</l>
+          <l>שלח לי שקט ממוכן</l>
+          <l>לשמוע שקט לא מכאן</l>
+          <l>תשלח לי שקט בקופסא, מארץ רחוקה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שלח לי שקט מאורגן</l>
+          <l>שלח לי שקט מעודכן</l>
+          <l>שלח לי שקט מפואר</l>
+          <l>תשלח לי שקט מהכפר</l>
+          <l>תשלח לי שקט בקופסא, מארץ רחוקה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שקט, שקט, שקט, שקט מופתי</l>
+          <l>מיום הולדתי עד יום מותי</l>
+          <l>שקט עד יום מותי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שלח לי שקט מהודר</l>
+          <l>שלח לי שקט מאולתר</l>
+          <l>שלח לי שקט ירחי</l>
+          <l>תשלח לי שקט בין כוכבים</l>
+          <l>תשלח לי שקט בקופסא מארץ רחוקה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שקט, שקט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

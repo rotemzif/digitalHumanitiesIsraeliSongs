@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מישהו אחר 5</title>
+        <singer classification="male singer">עמיר בניון</singer>
+        <writer>עמיר בניון</writer>
+        <composer>עמיר בניון</composer>
+        <album>שלכת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מישהו אחר</head>
+        <lg number="1" type="stanza">
+          <l>מרעיל את הנפש מול ראי</l>
+          <l>מאוכזב ממך אך עוד יותר ממני</l>
+          <l>לא רוצה שתראי איך אני לא יודע להמשיך</l>
+          <l>את ההתמודדות שלי</l>
+          <l>אני משליך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פוחד עד מוות לא להיות איתך</l>
+          <l>פוחד כפליים שתהיי שלי, תהיי שלי</l>
+          <l>ואני אהיה מישהו אחר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מורגל להרוס מה שנבנה</l>
+          <l>לבטוח בכולם זה לא מעט ממני</l>
+          <l>לא רוצה שתראי איך אני מתקשה</l>
+          <l>להאמין את כל החיילים שלי, אני מזמין.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פוחד עד מוות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה חדש</title>
+        <singer classification="unknown">זכי נהרי</singer>
+        <writer>זכי נהרי</writer>
+        <composer>זכי נהרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה חדש</head>
+        <lg number="1" type="stanza">
+          <l>ביום מן הימים</l>
+          <l>אחרי הצהריים</l>
+          <l>ישבנו לדבר</l>
+          <l>הייתה שעת הערביים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ביום מן הימים</l>
+          <l>שבוע או שבועיים</l>
+          <l>נפגשנו שוב ושוב</l>
+          <l>אולי גם שבעתיים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>פזמון </l>
+          <l>תגידי לי תגידי מה חדש</l>
+          <l>כל היום אני מוסר לך ד"ש </l>
+          <l>אוהב אותך מכל הנשמה שלי ...</l>
+          <l>תגידי לי תגידי מה חדש</l>
+          <l>כל היום אני מוסר לך ד"ש </l>
+          <l>תגידי לי אותך  אותך אקח</l>
+          <l>שוב ושוב אני רוצה אותך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אוהב אותך מכל הנשמה שלי ....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

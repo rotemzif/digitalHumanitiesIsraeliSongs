@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלגיה 2</title>
+        <singer classification="unknown">חני ליבנה</singer>
+        <writer>נתן יונתן</writer>
+        <composer>נחצ'ה היימן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלגיה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>בשולי מפרש רועדת קרן שמש עגומה</l>
+          <l>על חופים אדוות הלילה מפכות בקול דממה</l>
+          <l>בנגינה אחת נשכחת מתייפח לו מלח:</l>
+          <l>"עם הרוח הצולחת, לדרום נפליגה אח!"</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נכאים בבוא השמש דכי גלים, קינת אדם</l>
+          <l>רוח ערב לח נוגע במיתרי מפרש נרדם</l>
+          <l>לבבות בוכים עם ערב</l>
+          <l>ארובות עשן כבות</l>
+          <l>כשספינות הולכות הימה הן אינן שבות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בשולי מפרש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

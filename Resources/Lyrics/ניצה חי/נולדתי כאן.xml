@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נולדתי כאן 2</title>
+        <singer classification="unknown">ניצה חי</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נולדתי כאן</head>
+        <lg number="1" type="stanza">
+          <l>שורשי שלי בין סלע לדרדר,</l>
+          <l>יצמח מהאדמה אל הגבהים.</l>
+          <l>השמש שלי בין ים לבין מדבר,</l>
+          <l>תאיר את עיניהם של התועים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נולדתי כאן, כמו פרח בגן,</l>
+          <l>ידיים לא תוכלנה לעקור.</l>
+          <l>נולדתי כאן, כמו צמח קטן,</l>
+          <l>לשמש, ליופי ולאור.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הנחל שלי בין יובש לשרב</l>
+          <l>ינבע ממעייני אמונתי,</l>
+          <l>השקט שלי בין סער לבין קרב</l>
+          <l>יסלול את נתיבי אהבתי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נולדתי כאן...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הלילה שלי בין חושך לחלום,</l>
+          <l>ירגיע את שנתם של הנודדים.</l>
+          <l>האושר שלי בין דמע לקלון</l>
+          <l>יסחוף אותנו שוב כילדים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>נולדתי כאן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דרך העולם</title>
+        <singer classification="unknown">ענבר ישראל</singer>
+        <writer>ענבר ישראל</writer>
+        <composer>תומר עג'ם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דרך העולם</head>
+        <lg number="1" type="stanza">
+          <l>אבא תחזיק מעמד אתה לא נמצא לבד</l>
+          <l>אתה עובר תקופה קשה אבל אני תמיד איתך</l>
+          <l>בחיים יש צער ויש גם שמחות</l>
+          <l>ולא תמיד בוחרים מתי לבכות מתי לצחוק</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אוהבת אותך אבא מכל דבר שבעולם</l>
+          <l>לפעמים קורים דבריםשלא ניתן לשנות אותם</l>
+          <l>זו דרך העולם חייבים להתמודד</l>
+          <l>גם אם אתה מכה חזק בלב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יקרה לך מכל והכאב כה גדול</l>
+          <l>אבל אתה בשבילי תמיד גיבור גדול</l>
+          <l>אתה חשוב לנו לא ניתן לך לסבול</l>
+          <l>אלוהים יעזור לנו כי הוא הכל יכול</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אוהבת אותך אבא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

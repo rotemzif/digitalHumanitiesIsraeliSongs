@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הו חברי</title>
+        <singer classification="male singer">תמיר גל</singer>
+        <writer>סוזי סרנגה</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הו חברי</head>
+        <lg number="1" type="stanza">
+          <l>הו חברי מה יקר הוא, </l>
+          <l>בסבל והשתיקה, </l>
+          <l>שנה תמימה ללא דופי, </l>
+          <l>אותך מהחיים ניתק, </l>
+          <l>הבית קר בלעדיך, </l>
+          <l>כל צד מזכיר את דמותך, </l>
+          <l>עוד שיר נוגן לו ברקע, </l>
+          <l>שוב לא ניבחן מבטך </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ונספר אודות חברים כל הזמן </l>
+          <l>היית לנו תכלת השמיים, </l>
+          <l>קבל את יסורינו גם אם מר לך, </l>
+          <l>ישנה פינה בליבנו והכאב בנפשינו </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל עוד נמשיך את חיינו, </l>
+          <l>נזכיר שימך וקולך, </l>
+          <l>השיר גמר לנגן אך בלב הוא ינגן לעד, </l>
+          <l>נגנו עוד שיר לחברי הטוב כי השירה היא כל חייו, </l>
+          <l>אותך נחוש תמיד קרוב קרוב, </l>
+          <l>הינך כחלק לא נפרד </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ונספר אודות חברים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

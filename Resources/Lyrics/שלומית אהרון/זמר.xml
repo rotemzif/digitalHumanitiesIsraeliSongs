@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זמר 88</title>
+        <singer classification="female singer">שלומית אהרון</singer>
+        <writer>רחל</writer>
+        <composer>נעמי שמר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זמר</head>
+        <lg number="1" type="stanza">
+          <l>בוקר וערב לך ועליך</l>
+          <l>לך ועליך שרו שירי</l>
+          <l>סער ודומי צהל ובכי</l>
+          <l>פצע וצורי נחת ודווי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש לא הבחנתי בקול מענך</l>
+          <l>יש ונתקה השרשרת כמעט</l>
+          <l>רגע ושבו ושרו עליך</l>
+          <l>אהב ושאט</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לך ועליך, לך ועליך</l>
+          <l>זמר יחיד הוא לאלף כינור</l>
+          <l>סער ודומי צהל ובכי</l>
+          <l>פצע וצורי אופל ואור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש לא הבחנתי בקול מענך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

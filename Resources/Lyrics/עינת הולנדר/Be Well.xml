@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Be Well</title>
+        <singer classification="unknown">עינת הולנדר</singer>
+        <writer>עינת הולנדר</writer>
+        <composer>עינת הולנדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Be Well</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>I don't say I love you no more, </l>
+          <l>You'll always be my man. </l>
+          <l>I only say that sometimes it's scary </l>
+          <l>Being with you alone. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>That's why I'm leaving you now, </l>
+          <l>I'm never coming back. </l>
+          <l>It's the only way, </l>
+          <l>so please don't be angry </l>
+          <l>Be well, that's all I can say </l>
+          <l>Be well, that's all I can say </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>I don't say I love you no more...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

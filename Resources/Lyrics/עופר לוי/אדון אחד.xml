@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אדון אחד</title>
+        <singer classification="male singer">עופר לוי</singer>
+        <writer>עממי טורקי</writer>
+        <composer>עממי טורקי</composer>
+        <album>שמע בני מוסר אביך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אדון אחד</head>
+        <lg number="1" type="stanza">
+          <l>אדון אחד ושמו אחד</l>
+          <l>נתן לנו עולם נפלא</l>
+          <l>אדון אחד כה מיוחד</l>
+          <l>חשתי, איני בדד</l>
+          <l>רק הוא לבד נותן לי יד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>השוכן במרומים, הנותן רחמים</l>
+          <l>מחכה לעולמים לבנים אהובים</l>
+          <l>לשוכן במרומים נחזור בדמים</l>
+          <l>נזר העמים, בנים אהובים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ידענו, אב, ממך הטוב</l>
+          <l>תמיד אותנו לא תעזוב</l>
+          <l>ראה בנים שמתקרבים</l>
+          <l>אומרים "שמע באהבה"</l>
+          <l>להם תקשיב, גואל תחיש</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>השוכן במרומים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מתקרבים ושווים</l>
+          <l>לאלוקים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>השוכן במרומים, הנותן רחמים</l>
+          <l>מחכה לעולמים שישובו הבנים</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>השוכן במרומים, נותן רחמים</l>
+          <l>מחכה לעולמים שישובו הבנים</l>
+          <l>לשוכן במרומים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

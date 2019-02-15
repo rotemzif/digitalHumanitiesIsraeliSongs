@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Follow You Up</title>
+        <singer classification="unknown">המושב 2</singer>
+        <writer>דוד סוירסקי</writer>
+        <composer>יהודה סולומון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Follow You Up</head>
+        <lg number="1" type="stanza">
+          <l>Angels surround you wherever you go. </l>
+          <l>They followed you down here; they’ll follow you back up. </l>
+          <l>Today you stand between the walls, one side pulls while the other one stalls, </l>
+          <l>One day you’ll leave your skin behind. </l>
+          <l>Stare right into your Makers eyes. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Try not to think about these things for now. </l>
+          <l>All of these dreams are just a distraction; they’ll only break you down. </l>
+          <l>Today I faced the enemy’s eyes; I was so surprised; they looked just like mine. </l>
+          <l>I could have been you in another lifetime, with another name, in another town. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>Angels surround you wherever you go. </l>
+          <l>They followed you down here; they’ll follow you back up. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>Angels surround you wherever you go. </l>
+          <l>They followed you down here; they’ll follow you back up.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

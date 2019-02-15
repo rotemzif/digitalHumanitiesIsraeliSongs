@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ענבלים</title>
+        <singer classification="female singer">עליזה קאשי</singer>
+        <writer>שרה לוי תנאי</writer>
+        <composer>שרה לוי תנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ענבלים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>רונו רונו חלילים </l>
+          <l>לי לי לי</l>
+          <l>ציל צלצלו ענבלים </l>
+          <l>ציל ציל צליל</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ערב בא מן ההרים </l>
+          <l>עת השקות העדרים </l>
+          <l>יום הלך אל תוהו ליל</l>
+          <l>רוח סהר פה יהל הו</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רונו רונו...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יעל שמש מן ההר</l>
+          <l>יום חדש יבוא מחר </l>
+          <l>גיל יגילו השבילים </l>
+          <l>עם צלצול הענבלים </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רונו רונו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

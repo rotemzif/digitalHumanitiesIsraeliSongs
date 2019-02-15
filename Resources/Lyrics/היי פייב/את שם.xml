@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את שם</title>
+        <singer classification="unknown">היי פייב</singer>
+        <writer>אייל דסאו</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את שם</head>
+        <lg number="1" type="stanza">
+          <l>תמיד רציתי</l>
+          <l>מישהי כמוך</l>
+          <l>זורמת וחכמה</l>
+          <l>שאוכל ללמוד</l>
+          <l>שתרצה להקשיב</l>
+          <l>לספר לך הכל</l>
+          <l>בלי לפחד להראות רגשות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ולדעת שאת שם</l>
+          <l>תמיד שם בשבילי</l>
+          <l>את שם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גם אם נראה</l>
+          <l>שאין לאן להתקדם</l>
+          <l>שגילינו כבר הכל ביחד</l>
+          <l>כל יום שעובר</l>
+          <l>זה הולך ומתגבר</l>
+          <l>אנחנו חיים מחדש ביחד</l>
+          <l>חיים מחדש ביחד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רוקדים בלילה עומדים</l>
+          <l>על המרפסת</l>
+          <l>מביטים בכוכבים</l>
+          <l>כמה את חשובה</l>
+          <l>זה לא מובן מאליו</l>
+          <l>שמח שהתעקשתי</l>
+          <l>מה הייתי עושה בלעדייך בעולם</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ולדעת שאת שם</l>
+          <l>תמיד שם בשבילי</l>
+          <l>את שם</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>גם אם נראה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

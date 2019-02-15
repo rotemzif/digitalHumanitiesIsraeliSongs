@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Here Comes The Tune</title>
+        <singer classification="male singer">גבע אלון</singer>
+        <writer>גבע אלון</writer>
+        <composer>גבע אלון</composer>
+        <album>Get Closer</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Here Comes The Tune</head>
+        <lg number="1" type="stanza">
+          <l>Well here comes the tune in this curing full moon </l>
+          <l>Drawing fields of pasture before our eyes </l>
+          <l>And as the empty night comes</l>
+          <l>You can lean on me love ’til the dawn </l>
+          <l>For here comes the tune </l>
+          <l>Looking back I can see how the light is guiding me </l>
+          <l>Now that I have you here by my side </l>
+          <l>And as the empty night comes</l>
+          <l>We’ll be carried away to the sound </l>
+          <l>Of a beautiful tune</l>
+          <l>That’s rocking our minds </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>And I’m wishing to God you will see</l>
+          <l>All the innocence that once lived in me </l>
+          <l>But it was lost and forgotten my name</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

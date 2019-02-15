@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מטאדור</title>
+        <singer classification="male singer">דקלון</singer>
+        <writer>אורי ברזילי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מטאדור</head>
+        <lg number="1" type="stanza">
+          <l>על כוס יין חמוץ ומקטרת</l>
+          <l>נמסרות אגדות דור ודור,</l>
+          <l>איך מול שור בזירה הסוערת</l>
+          <l>שושנים אז זרק מטאדור.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אז נידמה כי צמחו לו לפתע כנפיים</l>
+          <l>אל שמיי אנדלוסיה יעוף,</l>
+          <l>אז סביליה כרעה לו על ארץ אפיים</l>
+          <l>סניור זה חלף ללא שוב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מטאדור, </l>
+          <l>אל שמי אנדלוסיה יעוף,</l>
+          <l>מטאדור,</l>
+          <l>סניור זה חלף ללא שוב.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>על כוס יין חמוץ ומקטרת</l>
+          <l>עוד נושרת דמעה סוררה</l>
+          <l>איך פתאום בזירה הסוערת</l>
+          <l>מטאדור מסביליה כרע.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כן סניור כמו תמיד זה בגלל סניוריטה</l>
+          <l>שצדה לרגע עינו</l>
+          <l>וכמו אז גם עכשיו בזירה כשאביטה</l>
+          <l>אראה בעפר את דמו.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מטאדור... מטאדור... מטאדור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

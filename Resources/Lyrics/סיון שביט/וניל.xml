@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>וניל</title>
+        <singer classification="female singer">סיון שביט</singer>
+        <writer>אמיר צורף</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>וניל</head>
+        <lg number="1" type="stanza">
+          <l>מודדות בגדים בחדר השינה</l>
+          <l>את את שלי ואני את שלך</l>
+          <l>כל אחת בתורה מדברת על אחרת</l>
+          <l>כשהיא בעצם מדברת על עצמה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יוצאות לקנות גלידה</l>
+          <l>מרחפות מעל המדרכה</l>
+          <l>רמזורים ירוקים מתחלפים לאדומים</l>
+          <l>באמצע מעבר החצייה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני אוהבת אותך ואת אוהבת אותי</l>
+          <l>אבל אף פעם לא אמרתי לך את זה</l>
+          <l>ואת לא אמרת לי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יושבות לנוח על הספסל הציבורי</l>
+          <l>הזמן עוצר לנשום</l>
+          <l>צוחקות מדברים שקרו פעם</l>
+          <l>לוחשות דברים שקורים היום</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כמו זוג ילדות מחזיקות ידיים</l>
+          <l>בחושך המבהיל</l>
+          <l>ונפרדות בריפרוף שפתיים</l>
+          <l>בטעם וניל</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני אוהבת אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

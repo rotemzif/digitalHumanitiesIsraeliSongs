@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הצד השחור</title>
+        <singer classification="male singer">סער בדישי</singer>
+        <writer>סער בדישי</writer>
+        <composer>סער בדישי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הצד השחור</head>
+        <lg number="1" type="stanza">
+          <l>אחרי הטוב הוא מגיע, האחרון</l>
+          <l>עד עכשיו לא מצאתי את הפיתרון</l>
+          <l>של הצד השחור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וכמו האופל (אוווו אוווו)</l>
+          <l>ואני לא יכול לסגת אין לי מסתור</l>
+          <l>אמונה שנהרגת הצד השחור</l>
+          <l>וכמו האופל (אוווו אוווו)</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ככה התחלתי להתרגל</l>
+          <l>במקום חשוב על הטוב לחשוב על האפל</l>
+          <l>של הצד השחור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וכמו האופל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

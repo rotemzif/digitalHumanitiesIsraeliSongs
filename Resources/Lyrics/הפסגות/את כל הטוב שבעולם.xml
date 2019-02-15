@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את כל הטוב שבעולם</title>
+        <singer classification="band">הפסגות</singer>
+        <writer>איציק זמיר</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את כל הטוב שבעולם</head>
+        <lg number="1" type="stanza">
+          <l>רגע את אומרת את עוזבת לארץ רחוקה </l>
+          <l>רגע את נשארת מחבקת אוהבת רק אותך </l>
+          <l>רגע את נשברת מהרהרת במבט עצוב </l>
+          <l>רגע את צוחקת מרקדת לקול ניגון עצוב </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את כל הטוב שבעולם אני אתן לך </l>
+          <l>החלומות הם רק סימן שלא נגמר לנו הזמן </l>
+          <l>הקשיבי לי אני עוד אהיה לך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה זה נעים שאת נוגעת עמוק עמוק בלב </l>
+          <l>כמה פעמים שאת יודעת למחוק את הכאב </l>
+          <l>יש מן רגעים ואת צובעת ורוד את העתיד </l>
+          <l>יש שלפעמים ואת יודעת אנחנו לתמיד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את כל הטוב שבעולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

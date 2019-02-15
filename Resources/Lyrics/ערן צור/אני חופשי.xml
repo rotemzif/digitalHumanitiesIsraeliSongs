@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני חופשי 2</title>
+        <singer classification="male singer">ערן צור</singer>
+        <writer>ערן צור</writer>
+        <composer>missing</composer>
+        <album>כל מה שאנושי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני חופשי</head>
+        <lg number="1" type="stanza">
+          <l>אתה לא תקבע לי מה זה הטוב </l>
+          <l>אתה לא תקבע לי על מה לחשוב </l>
+          <l>אתה לא תקבע לי את מי לאהוב </l>
+          <l>ואתה לא תקבע על מי לכתוב </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אתה לא תקבע לי את הגבולות </l>
+          <l>אתה לא תגביל את החרות </l>
+          <l>אתה לא תדע את המחשבות </l>
+          <l>ולא תשנה את מה שחרוט </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני חופשי, אני דם ובשר </l>
+          <l>אדם לאדם, אבק לאבק, עפר לעפר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אתה לא תקבע לי מה לעשות</l>
+          <l>אתה לא תחליט את מה שחשוב</l>
+          <l>אתה לא תשלוט על הרגשות</l>
+          <l>ולא תשנה את מה שאהוב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני חופשי, אני דם ובשר </l>
+          <l>אדם לאדם, אבק לאבק, עפר לעפר</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>יש מערכת חוקים, ממנה לא מתחמקים </l>
+          <l>אני חייב לקבל אותך, אני צריך להשלים איתך </l>
+          <l>יש גם דברים שלא מפרקים </l>
+          <l>אני צריך לשתף אותך, לדעת להיות איתך</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אני חופשי, אני דם ובשר </l>
+          <l>אדם לאדם, אבק לאבק, עפר לעפר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

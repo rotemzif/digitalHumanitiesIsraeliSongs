@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לך הממלכה</title>
+        <singer classification="female singer">גלי עטרי</singer>
+        <writer>תרצה אתר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לך הממלכה</head>
+        <lg number="1" type="stanza">
+          <l>הרבה הרבה שנים הבטחת לי מרצונך</l>
+          <l>אך עוד כולן שלך הן</l>
+          <l>כולן שלך</l>
+          <l>הרבה הרבה כוחות עברו אל תוך דמי מתוך דמך</l>
+          <l>אך עוד כולם שלך הם</l>
+          <l>כולם שלך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>דברים נעלמים עוברים אלי ממך בחשיכה</l>
+          <l>אך עוד כולם שלך הם</l>
+          <l>כולם שלך</l>
+          <l>סודות נהדרים שרים בתוך גופי את ניגונך</l>
+          <l>אך עוד כולם שלך הם</l>
+          <l>כולם שלך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אינך חייב לתת דבר בעצם</l>
+          <l>אינך חייב להישבע כמו באגדה</l>
+          <l>אך כתום השנים הסיפור יסופר</l>
+          <l>והנדר יושלם...</l>
+          <l>רציתי רק שתדע.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הרבה הרבה עלים השרת בשבילי מאילנך</l>
+          <l>אך עוד הרי שלך הם</l>
+          <l>כולם שלך</l>
+          <l>הרבה הרבה מילים דברת באזני מרצונך</l>
+          <l>אך עוד כולן שלך הן</l>
+          <l>כולן שלך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אינך חייב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

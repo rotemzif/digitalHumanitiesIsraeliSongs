@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עתיד מתוק</title>
+        <singer classification="band">מלכה באיה</singer>
+        <writer>יובל בנאי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עתיד מתוק</head>
+        <lg number="1" type="stanza">
+          <l>כולם כולם נוסעים רחוק</l>
+          <l>מחפשים עתיד מתוק</l>
+          <l>ורק אני בבוקר קם</l>
+          <l>בקו חמש נוסע אל הים</l>
+          <l>האוטובוס מלא עשן</l>
+          <l>שתי זקנות וכרטיסן</l>
+          <l>אחד כתב על קיר בטון</l>
+          <l>איפה המדינה ואיפה החזון</l>
+          <l>איפה המדינה ואיפה הבטון</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הציפורים שרות לי בוקר טוב</l>
+          <l>אולי אני יכול לעוף איתם רחוק רחוק</l>
+          <l>לעוף ולא ליפול.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כולם נוסעים רחוק נוסעים</l>
+          <l>מחפשים ומנסים</l>
+          <l>טוב אולי אני מגזים</l>
+          <l>פה פה שובפ.....</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הציפורים שרות לי בוקר טוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

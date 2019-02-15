@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בצל התאנה</title>
+        <singer classification="band">הגמלים</singer>
+        <writer>מעין אוחנה</writer>
+        <composer>דני גפני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בצל התאנה</head>
+        <lg number="1" type="stanza">
+          <l>יש לנו בגינה</l>
+          <l>עץ של תאנה</l>
+          <l>ומתחתיו פינה</l>
+          <l>מיוחדת במינה</l>
+          <l>הענפים אותה עוטפים</l>
+          <l>ועליה מצילים</l>
+          <l>על הגזע חרוטים</l>
+          <l>סיפורים רביי שנים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני אדם ואת חווה</l>
+          <l>בפינת האהבה</l>
+          <l>אני אדם ואת חווה</l>
+          <l>גן עדן של שלווה</l>
+          <l>אני אדם ואת חווה</l>
+          <l>במשחק האהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשהתאהבנו לראשונה</l>
+          <l>בצל התאנה</l>
+          <l>התמלאה לה הפינה</l>
+          <l>בכוחה של אהבה</l>
+          <l>עכשיו שמותינו חרוטים</l>
+          <l>על גזע רב שנים</l>
+          <l>וזה סימן של אהבה</l>
+          <l>ברגע של תקווה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני אדם ואת חווה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

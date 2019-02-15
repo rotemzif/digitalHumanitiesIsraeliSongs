@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שורות אדם</title>
+        <singer classification="male singer">יהודה פוליקר</singer>
+        <writer>יהודה פוליקר</writer>
+        <composer>missing</composer>
+        <album>כל דבר מזכיר לי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שורות אדם</head>
+        <lg number="1" type="stanza">
+          <l>שורות אדם פנים קפואות </l>
+          <l>קול היבבות הנחנקות </l>
+          <l>הרכבות לא מחכות, לא צופרות </l>
+          <l>בנסיעה הזאת הכל יכול לקרות </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חיי עוצרים פה מאחור </l>
+          <l>זמן לא ישכח ולא יזכור </l>
+          <l>קולי צועק בתוך תוכי אל תלכי </l>
+          <l>שקשוק קרונות </l>
+          <l>טריקת דלתות על הפתחים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה לא סיוט שיעבור </l>
+          <l>גם אם ידליקו את האור </l>
+          <l>אל תצפי אל תחכי שאחזור </l>
+          <l>כי כאן החושך המוחלט וכאן הכפור</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

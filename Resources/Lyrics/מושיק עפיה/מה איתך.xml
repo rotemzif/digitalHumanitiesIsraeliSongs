@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה איתך 5</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>עממי יווני</composer>
+        <album>בשבילי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה איתך</head>
+        <lg number="1" type="stanza">
+          <l>תגידי אולי גם לא הרגשתי</l>
+          <l>טעיתי לא ידעתי</l>
+          <l>רוצה אליך לחזור</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תדעי לך אני כבר השתנתי</l>
+          <l>אני אחר גדלתי</l>
+          <l>בואי לאהוב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מה איתך אולי ספרי גלי</l>
+          <l>שתיקתך כמו נצח בשבילי</l>
+          <l>מאז הלכת לקחת איתך הכל</l>
+          <l>ואני לא יכול</l>
+          <l>מה איתך אולי ספרי גלי</l>
+          <l>שתיקתך כמו נצח בשבילי</l>
+          <l>מאז הלכת הלך הכל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>באתי הלכתי וחזרתי</l>
+          <l>אליך התקרבתי ביקשת שאחזור</l>
+          <l>למה עולם יפה היה לי</l>
+          <l>איתך איך התרגשתי</l>
+          <l>היה לי טוב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מה איתך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

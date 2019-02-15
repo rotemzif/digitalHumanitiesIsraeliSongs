@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חד וחלק</title>
+        <singer classification="unknown">מאור דניאל</singer>
+        <writer>ברק לידני</writer>
+        <composer>אריק זנטי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חד וחלק</head>
+        <lg number="1" type="stanza">
+          <l>מיד הבנתי שאת אהבתי</l>
+          <l>עלייך רק חלמתי מיום הולדתי</l>
+          <l>את מנצחת במבט כובש</l>
+          <l>חולה מאהבה לא מתאושש</l>
+          <l>אני שבוי בקסם של יופייך</l>
+          <l>ולא שפוי שאת דקה אינך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חד וחלק אני אוהב אותך</l>
+          <l>חד וחלק הלב שלי שלך</l>
+          <l>הניחי יד הרגישי פעימותי</l>
+          <l>שיגלו לך שאת לי כל חיי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>באהבה אלייך אין מעצורים</l>
+          <l>נוסע במהרה ואין בי תמרורים</l>
+          <l>כל יום את מוסיפה גחל לאש</l>
+          <l>וזה גורם לי רק להתרגש</l>
+          <l>אני שבוי בקסם של יופייך</l>
+          <l>ולא שפוי שאת דקה אינך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חד וחלק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

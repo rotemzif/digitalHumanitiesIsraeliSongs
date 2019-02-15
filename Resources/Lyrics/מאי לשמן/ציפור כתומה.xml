@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ציפור כתומה</title>
+        <singer classification="unknown">מאי לשמן</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>אורי לשמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ציפור כתומה</head>
+        <lg number="1" type="stanza">
+          <l>עַל פְּנֵי אַחַת הַגְּבָעות </l>
+          <l>מִתְעופֶפֶת צִיפּור כְּתוּמָּה </l>
+          <l>שֶאֵינֶנִּי יודַעַת אֶת שְמָהּ. </l>
+          <l>אֲבָל עֲצֵי הַזַּיִת מַכִּירִים או͘תָהּ, </l>
+          <l>וְהָרוּחַ רודֵף אַחֲרֵיהָ וְשָר: </l>
+          <l>פֹּה בֵּיתֵךְ. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בְּעֵינֵי יַלְדָּה עַרְבִיָּה </l>
+          <l>בִּמְבואות הַכְּפָר הֶהָרוּס </l>
+          <l>מְרַחֶפֶת צִיפּור כְּתוּמָּה </l>
+          <l>שֶאֵינֶנִּי יודַעַת אֶת שְמָהּ.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

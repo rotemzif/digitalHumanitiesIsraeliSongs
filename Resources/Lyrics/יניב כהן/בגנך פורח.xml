@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בגנך פורח</title>
+        <singer classification="unknown">יניב כהן</singer>
+        <writer>אביחי מליחי</writer>
+        <composer>אביחי מליחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בגנך פורח</head>
+        <lg number="1" type="stanza">
+          <l>בגנך אני פורח</l>
+          <l>לצידך אני זורח</l>
+          <l>ולא איכפת לי דבר</l>
+          <l>את מראה איני שוכח</l>
+          <l>איך מגופך עולה ניחוח</l>
+          <l>ערפילים היו חושי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וידעת: איני אורח</l>
+          <l>אותך אהבתי כל חיי</l>
+          <l>יגונך תוכלי לשכוח</l>
+          <l>אקרא בשמך עד מתי?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לידך באור ירח</l>
+          <l>מבטי אלייך שולח</l>
+          <l>ולא איכפת לי דבר</l>
+          <l>יעידו חברי שעצוב לי </l>
+          <l>ולילי קודר כפליים</l>
+          <l>ילדתי היי שלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וידעת: איני אורח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

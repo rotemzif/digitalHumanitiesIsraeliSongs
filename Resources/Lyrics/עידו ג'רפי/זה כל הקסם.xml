@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה כל הקסם</title>
+        <singer classification="unknown">עידו ג רפי</singer>
+        <writer>נימרוד לב</writer>
+        <composer>נימרוד לב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה כל הקסם</head>
+        <lg number="1" type="stanza">
+          <l>מסתכלים עלי כל הזמן</l>
+          <l>מה הם רוצים</l>
+          <l>מה אכפת לי בעצם</l>
+          <l>אומרים לי שאני חצי בן אדם</l>
+          <l>והיא חצי משוגעת</l>
+          <l>אבל זה כל הקסם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כשאני רואה אותך</l>
+          <l>אני רואה את מה שבא לי לראות</l>
+          <l>אותך</l>
+          <l>כמו שאת כשאת פורשת כנפיים</l>
+          <l>אני צייר ואת זמרת בארים אדומה</l>
+          <l>אני מוכן ואת רוקדת בתוך הנשמה</l>
+          <l>ואין דבר יותר נכון מאותה הנשימה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה זמן אני חולמת בהקיץ</l>
+          <l>משתדלת להציץ אבל אין כלום בעיניים</l>
+          <l>גם מילים הן ריקות כמו האוויר שאני נושפת</l>
+          <l>כל הלילה נושמת ונושפת</l>
+          <l>מתאדה לשמים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כשאני רואה אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

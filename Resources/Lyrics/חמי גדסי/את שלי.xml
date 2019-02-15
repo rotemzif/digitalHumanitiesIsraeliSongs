@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את שלי 5</title>
+        <singer classification="unknown">חמי גדסי</singer>
+        <writer>חמי גדסי</writer>
+        <composer>חמי גדסי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את שלי</head>
+        <lg number="1" type="stanza">
+          <l>כל החיים חיכיתי</l>
+          <l>לאור מן האפלה</l>
+          <l>וכשהופעת בכיתי</l>
+          <l>דמעות של התחלה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אחזת בידך בכוח</l>
+          <l>את כובד החיים</l>
+          <l>ובמבט נינוח</l>
+          <l>קבעת את הכללים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את שלי ותהיי שלי לעד</l>
+          <l>את אתי ותהיי אתי לעד</l>
+          <l>את האור העולה בבוקר</l>
+          <l>את החיוך המביא לי אושר</l>
+          <l>את הלב הפועם, המפיח בי חיים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ביופייך המכניע</l>
+          <l>גם קסם, גם חוכמה</l>
+          <l>בקולך המרגיע</l>
+          <l>צלילים של אהבה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני כאן מתגעגע</l>
+          <l>לחיבוק או לִנשיקה</l>
+          <l>הולך ומשתגע</l>
+          <l>כשעוברת כל דקה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>את שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

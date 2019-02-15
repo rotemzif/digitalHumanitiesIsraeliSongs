@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוא אלי 12</title>
+        <singer classification="band">נורוק</singer>
+        <writer>אמיר גבריאל</writer>
+        <composer>אמיר גבריאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוא אלי</head>
+        <lg number="1" type="stanza">
+          <l>היה לך כל כך טוב מה עכשיו </l>
+          <l>פעם היית נמצא בכל מצב </l>
+          <l>כשאתה שותק אתה שותק בקול </l>
+          <l>ושוב מתחיל לשאול </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בוא אלי בוא אלי </l>
+          <l>הוא צועק </l>
+          <l>בוא אלי בוא אלי </l>
+          <l>אני צוחק </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>למה אתה מקשיב לאנשים? </l>
+          <l>בדיוק בזמן הלא מתאים </l>
+          <l>יוצא מהדלת ונעלם </l>
+          <l>אני מסתובב והוא לא שם </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בוא אלי בוא אלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

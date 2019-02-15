@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ההד</title>
+        <singer classification="band">קצת אחרת</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>שם טוב לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ההד</head>
+        <lg number="1" type="stanza">
+          <l>הנה בטבור השמיים עומד ההד</l>
+          <l>כענן כבד עקר ללא מטר.</l>
+          <l>עומד ואיננו חוזר אל קולי הבודד,</l>
+          <l>אל קולי האובד, המיותם, המיותר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אשא לשמיים קרים תפילה דלה,</l>
+          <l>אפיל תחנוני אימה מול הדממה:</l>
+          <l>שמיים בקשו רחמים על מילה שגמלה,</l>
+          <l>אל יהי השיר לשממה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

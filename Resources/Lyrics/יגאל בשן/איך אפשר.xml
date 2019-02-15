@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך אפשר 6</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>יגאל בשן</writer>
+        <composer>יגאל בשן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך אפשר</head>
+        <lg number="1" type="stanza">
+          <l>כמו רכבת שחוצה את המדבר</l>
+          <l>כמו גלים שמתנפצים אל חוף אכזר</l>
+          <l>כמו הלילה שמשכיח את היום</l>
+          <l>אני רוצה אלייך רוצה ולא יכול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך אפשר עוד לשחק את האדיש</l>
+          <l>איך אפשר להתאהב בלי להרגיש</l>
+          <l>לא פוגע</l>
+          <l>משתגע</l>
+          <l>את כוחותי אני מתיש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו מלחמה שמרחיקה את השלום</l>
+          <l>כמו הגשם אדמה רוצה לטעום</l>
+          <l>כמו שיר קטן שמבקש כל כך לגדול</l>
+          <l>אני רוצה אלייך רוצה ולא יכול</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך אפשר עוד לשחק...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כמו השמש מאירה לי את היום</l>
+          <l>כמו הלילה שצוחק לי בחלון</l>
+          <l>כמו אהבה שלא נותנת לי לנשום</l>
+          <l>אני רוצה אלייך רוצה ולא יכול</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

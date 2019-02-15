@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ציפור ביד</title>
+        <singer classification="unknown">דניאלה ספקטור</singer>
+        <writer>דניאלה ספקטור</writer>
+        <composer>דניאלה ספקטור</composer>
+        <album>דניאלה ספקטור</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ציפור ביד</head>
+        <lg number="1" type="stanza">
+          <l>ציפור ביד רוצה לצאת </l>
+          <l>אני לא נותנת ומחזיקה חזק </l>
+          <l>דופק מהיר מדגדג לי בעור </l>
+          <l>אני לא נותנת </l>
+          <l>אולי היא לא תחזור אלי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ציפור קטנה רוצה לשיר </l>
+          <l>אבל כל המילים שלי </l>
+          <l>חוסמות אותה </l>
+          <l>חזה קטן רוצה אוויר </l>
+          <l>אני נושמת </l>
+          <l>גם את האוויר שלה, שלה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תחבקי אותי </l>
+          <l>מתוך הפנים של כף ידי </l>
+          <l>מי אוחז במי </l>
+          <l>ומי אוחז במי </l>
+          <l>מי זאת ציפור </l>
+          <l>ומי זאת אני </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>פתחתי לה את כף היד </l>
+          <l>עכשיו תלכי ותעזבי אותי לבד </l>
+          <l>אבל היא לא רוצה </l>
+          <l>היא לא יוצאת </l>
+          <l>ציפור קטנה </l>
+          <l>את לא רוצה לדעת חופש באמת </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תחבקי אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

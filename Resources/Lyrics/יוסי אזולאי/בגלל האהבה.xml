@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בגלל האהבה</title>
+        <singer classification="male singer">יוסי אזולאי</singer>
+        <writer>רמי לב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בגלל האהבה</head>
+        <lg number="1" type="stanza">
+          <l>אל המגע שלך מתגעגע</l>
+          <l>לאן הלב שלי הולך איני יודע</l>
+          <l>תגידי אם זו אהבה</l>
+          <l>אנ'לא ישן ולא נרגע.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם אני סתם משוגע</l>
+          <l>זה בגלל האהבה</l>
+          <l>אין בי פחד בואי ביחד</l>
+          <l>נאבד שליטה.</l>
+          <l>אם אני סתם משוגע</l>
+          <l>זה בגלל האהבה</l>
+          <l>את יודעת את משגעת</l>
+          <l>בשפה פשוטה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואת אישה יפה שיש לה כוח</l>
+          <l>המחשבות ממך לא יכולות לברוח</l>
+          <l>את בראשי בכל תמונה</l>
+          <l>בכל מקום, בכל פינה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם אני סתם משוגע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

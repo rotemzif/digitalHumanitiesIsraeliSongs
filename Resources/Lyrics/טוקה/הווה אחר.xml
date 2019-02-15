@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הווה אחר</title>
+        <singer classification="unknown">טוקה</singer>
+        <writer>טוקה</writer>
+        <composer>טוקה</composer>
+        <album>הווה אחר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הווה אחר</head>
+        <lg number="1" type="stanza">
+          <l>לא סיפרת לי שאת לוקחת אותי להווה אחר</l>
+          <l>אל רגע שיש בו אהבה</l>
+          <l>לא חשבתי שאני במימד ארחף בין</l>
+          <l>השמש הירח והעולם הבא</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא דמיינתי, לא חשבתי, לא ציפיתי</l>
+          <l>שכך זה יהיה</l>
+          <l>מנסה לברוח מהזמן הרודף</l>
+          <l>הוא לא מרפה עד שאני...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא הכנת אותי לעתיד שכזה</l>
+          <l>רגע שיש בו אכזבה</l>
+          <l>לא חשבתי שאני בנהר אסחף </l>
+          <l>בלי סירת משוטים או גלגל הצלה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא דמיינתי, לא חשבתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

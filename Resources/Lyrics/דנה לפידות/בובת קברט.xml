@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בובת קברט</title>
+        <singer classification="female singer">דנה לפידות</singer>
+        <writer>דנה לפידות</writer>
+        <composer>חנה לפידות</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בובת קברט</head>
+        <lg number="1" type="stanza">
+          <l>חיפשת אותי כי רצית שם בפנים</l>
+          <l>בובת קברט מרקדת על חוטים</l>
+          <l>לשחק בכללים שנסחת מראש</l>
+          <l>או ללבוש פרצופים למקרה שתדרוש</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נזכרת פתאום כי הלכנו לאיבוד</l>
+          <l>אמרת אתמול שעדיף יותר לחוד</l>
+          <l>שמלה לא שלי מקשטת מקום בארון</l>
+          <l>סינר מצוייר בכתמים על סף החלון</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כשיפלו המים ברחובות</l>
+          <l>אעטוף אותך עמוק בין זרועותי</l>
+          <l>רק אם תפתח דלתות סגורות לפני</l>
+          <l>נשכח ימיי עצבות</l>
+          <l>אולי</l>
+          <l>אהיה שם בשבילך</l>
+          <l>אולי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שנאת אותי ממיסה את החוטים</l>
+          <l>לבד בעיר אחרת מוחקת תסריטים</l>
+          <l>בסוף היום מביטה בין שברי חלונות</l>
+          <l>חולם מנגן חיים ופוחד סתם לחיות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כשיפלו המים ברחובות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

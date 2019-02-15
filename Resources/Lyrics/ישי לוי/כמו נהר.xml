@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו נהר</title>
+        <singer classification="male singer">ישי לוי</singer>
+        <writer>אברהם לוי</writer>
+        <composer>יהודה בדיחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו נהר</head>
+        <lg number="1" type="stanza">
+          <l>כמו נהר הזורם אל הים</l>
+          <l>הלכתי שוב אלייך</l>
+          <l>רוח אז נשבה והלמה בנשמתי</l>
+          <l>את אספת את כולי ושתקת</l>
+          <l>עת ביקשתי בך מרגוע</l>
+          <l>וכל אשר ביקשתי להמתיק את מכאובי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לילה לילה כציפור מרחפת </l>
+          <l>בגני את חולפת</l>
+          <l>ואוספת לך את מה שבי נותר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא ידעתי סוד קסמך</l>
+          <l>אך שפתיי קראו בשמך</l>
+          <l>ולי נותר כל חסדך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כציפור נדודים היא נפשי</l>
+          <l>המבקשת לעוף אי שמה</l>
+          <l>אל ערבות נוגות ואל ניגון של צועני</l>
+          <l>וכמותה לו הייתי יכול את ביתי שם לבנות למעלה</l>
+          <l>אז הייתי שב ואוספך אל מעוני</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לילה לילה כציפור מרחפת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

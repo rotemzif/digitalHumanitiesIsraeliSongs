@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חבקי אותי 7</title>
+        <singer classification="unknown">ראובן המלאך</singer>
+        <writer>ישי ויסמן</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חבקי אותי</head>
+        <lg number="1" type="stanza">
+          <l>רגע לפני, סוף הערב </l>
+          <l>רגע לפני, שנשבעים </l>
+          <l>כוכב מאיר לו מעלינו </l>
+          <l>כי אנחנו אוהבים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חבקי אותי הלילה, נשמתי </l>
+          <l>וקחי אותי אלייך, יפתי</l>
+          <l>להיות שלך לנצח, לעולם </l>
+          <l>כמו השמש והים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך שאת יפה הערב </l>
+          <l>עינייך, כמו שני כוכבים </l>
+          <l>ואין עוד, עצב בליבינו</l>
+          <l>כי לנו ברכת האלוהים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חבקי אותי הלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

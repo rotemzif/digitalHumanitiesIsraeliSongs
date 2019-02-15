@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שבת היום</title>
+        <singer classification="male singer">נתי לוי</singer>
+        <writer>נתי לוי</writer>
+        <composer>נתי לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שבת היום</head>
+        <lg number="1" type="stanza">
+          <l>מיום ראשון עד סוף השבוע</l>
+          <l>העולם כמטורף סובב בקצב משלו</l>
+          <l>מיום ראשון עד סוף השבוע</l>
+          <l>כל אדם עובד קשה ורק דואג למחייתו</l>
+          <l>בשבת ילך לנוח איש בביתו</l>
+          <l>ובשכונה הניגונים והזמירות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שירי שבת שנשמעים מכל חלון</l>
+          <l>וקול של אבא מברך לאל עליון</l>
+          <l>יש רוח מקודשת שלא בכל יום</l>
+          <l>זה הסימן זו הברכה שבת היום</l>
+          <l>הקול הומה ומברך שבת שלום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מיום ראשון עד סוף השבוע</l>
+          <l>אנשים יוצאים לדרך להביא פרנסתם</l>
+          <l>ביום החמישי הגעגוע</l>
+          <l>לאישה ולילדים שזה להם כל העולם</l>
+          <l>בשבת ילך לנוח איש בביתו</l>
+          <l>ובשכונה הניגונים והזמירות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שירי שבת שנשמעים מכל חלון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

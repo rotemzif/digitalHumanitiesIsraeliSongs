@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המת השמח</title>
+        <singer classification="male singer">מאור כהן</singer>
+        <writer>שארל בודלר</writer>
+        <composer>דורי מנור</composer>
+        <album>פרחי הרע</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המת השמח</head>
+        <lg number="1" type="stanza">
+          <l>באדמה דשנה, שורצת חלזונות,</l>
+          <l>אני רוצה לכרות לי בור עמוק, שוחה,</l>
+          <l>לפשוט שם את העצמות הנושנות,</l>
+          <l>וכמו כריש בים, לישון בשכחה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני שונא קברים! אני שונא צוים! </l>
+          <l>במקום להתחנן שהעולם ידמע,</l>
+          <l>אזמין עוד בחיי את להק העורבים</l>
+          <l>למצות ממפרקתי את זוהמת דמה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הו תולעים! רעים שחורים, עיוורים-חרשים,</l>
+          <l>הנה מגיע מת שמח וחפשי! </l>
+          <l>הו פילוסופים של עינוג ושל תסיסה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ללא מוסר כליות פלשו אל חורבתי!</l>
+          <l>אימרו: היש עינוג בו טרם התנסה</l>
+          <l>גוף זה שנפש אין בו, מת בין המתים?</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הו תולעים! רעים שחורים, עיוורים-חרשים,</l>
+          <l>הנה מגיע מת שמח וחפשי! </l>
+          <l>הו פילוסופים של עינוג ושל תסיסה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

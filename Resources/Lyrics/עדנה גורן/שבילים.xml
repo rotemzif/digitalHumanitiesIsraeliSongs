@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שבילים</title>
+        <singer classification="female singer">עדנה גורן</singer>
+        <writer>מני בגר</writer>
+        <composer>מני בגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שבילים</head>
+        <lg number="1" type="stanza">
+          <l>והשמש בשמיים</l>
+          <l>ים כחול ואין גלים</l>
+          <l>איך צפות על פני המים</l>
+          <l>דוגיות עם מפרשים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תל אביב שמנמנמת </l>
+          <l>את שנתה החמישים</l>
+          <l>מסדרונות אבק ופיח</l>
+          <l>כימיקלים ושפכים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואני על הטיילת </l>
+          <l>במקום שבו היה ביתי</l>
+          <l>חצר קטנה</l>
+          <l>עם החולות של פעם</l>
+          <l>והשבילים של ילדותי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מכולה שמתפוררת</l>
+          <l>רחוב קטן עם פנסים</l>
+          <l>אזוב ישן פחים וזפת</l>
+          <l>מכסים את הרציף</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואני על הטיילת</l>
+          <l>במקום שבו היה ביתי</l>
+          <l>חצר קטנה</l>
+          <l>עם החולות של פעם</l>
+          <l>והשבילים של ילדותי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

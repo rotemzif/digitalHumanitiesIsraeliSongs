@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לחזור הביתה 3</title>
+        <singer classification="male singer">רמי דנוך</singer>
+        <writer>אהוד מנור</writer>
+        <composer>ברק רוני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לחזור הביתה</head>
+        <lg number="1" type="stanza">
+          <l>ושוב מהתחלה המנגינה שלי עולה</l>
+          <l>היא הסתתרה כל כך הרבה שנים</l>
+          <l>כאן עמוק בפנים</l>
+          <l>עכשיו היא מתעוררת כמו המיית יונים</l>
+          <l>עכשיו היא שוב בוערת</l>
+          <l>אני חוזר למחוזות הישנים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש דרך לחזור הביתה</l>
+          <l>דרך זכרונות נשכחים</l>
+          <l>יש דרך לחזור הביתה</l>
+          <l>שוב חדרי הלב נפתחים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הקשיבי לצלילים זו מנגינה ללא מילים</l>
+          <l>היא מנסה לומר שיש תקווה לשנה טובה</l>
+          <l>שזה לא סוף הדרך יש תקווה קרובה</l>
+          <l>שלחיים יש ערך שעוד אפשר להאמין באהבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש דרך לחזור הביתה</l>
+          <l>דרך זכרונות נשכחים</l>
+          <l>יש דרך לחזור הביתה</l>
+          <l>שוב חדרי הלב נפתחים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

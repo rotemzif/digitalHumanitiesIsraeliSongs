@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הסולטן הטורקי</title>
+        <singer classification="female singer">רבקה זוהר</singer>
+        <writer>איציק מאנגר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הסולטן הטורקי</head>
+        <lg number="1" type="stanza">
+          <l>והגר אז נושאת את עיניה,</l>
+          <l>שיירה ואני מחכים.</l>
+          <l>שם בראש בגלימה נהדרת,</l>
+          <l>מתקדם הסולטן הטורקי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הוא אלי מתקרב מתקרב הוא,</l>
+          <l>ובקולו החזק המרשים,</l>
+          <l>הוא שואל:...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואזי לרגלי כאן נופל הוא...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הגר נבוכה וחושבת</l>
+          <l>המקרה הוא מופלא ומוזר,</l>
+          <l>ומכסיף חרמשו של הסהר,</l>
+          <l>ונוצץ בשערה של הגר.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

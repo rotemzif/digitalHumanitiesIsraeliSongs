@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני מנגן</title>
+        <singer classification="female singer">דרורה חבקין</singer>
+        <writer>עממי</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני מנגן</head>
+        <lg number="1" type="stanza">
+          <l>אני מנגן, מה אתה מנגן</l>
+          <l>אני מנגן מנגן באקורדיון</l>
+          <l>קורדי קורדי קורדיון, מנגן באקורדיון</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני מנגן, מה אתה מנגן</l>
+          <l>אני מנגן מנגן בסקסופון.</l>
+          <l>סקסו סקסו סקסופון מנגן בסקסופון.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני מנגן, מה אתה מנגן</l>
+          <l>אני מנגן בחצוצרה</l>
+          <l>חצו חצו חצוצרה מנגן בחצוצרה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

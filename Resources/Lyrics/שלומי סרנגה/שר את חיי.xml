@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שר את חיי</title>
+        <singer classification="male singer">שלומי סרנגה</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עממי טורקי</composer>
+        <album>מונו</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שר את חיי</head>
+        <lg number="1" type="stanza">
+          <l>צחוק ועצב ידעתי, אך את הכאב הסתרתי </l>
+          <l>בתוך סוד אחד גדול, עמוק, בתהומות הנפש</l>
+          <l>את העצב סגרתי, רק מילים שמחות לך שרתי</l>
+          <l>כמו בתיאטרון, הלב מוצא מסכות לרגש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חי ושר את חיי למענך </l>
+          <l>ואת יודעת שלעולם בתוכך</l>
+          <l>לא תדעי, אם צוחק אני או בוכה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני שר בחושך והלב פורש כנפיים</l>
+          <l>אני שר את הכאב וצוחק עד השמיים</l>
+          <l>נע בין שקר לאמת, בשניהם נוגע</l>
+          <l>ואם טוב לי, או רע לי, רק אני יודע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חי ושר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

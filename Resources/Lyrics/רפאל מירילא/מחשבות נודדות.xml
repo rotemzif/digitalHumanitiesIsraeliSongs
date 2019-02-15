@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחשבות נודדות</title>
+        <singer classification="male singer">רפאל מירילא</singer>
+        <writer>רפאל מירילא</writer>
+        <composer>רפאל מירילא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחשבות נודדות</head>
+        <lg number="1" type="stanza">
+          <l>מחשבות נודדות רק אליכם</l>
+          <l>להתמסר, להתמכר, להיות שלכם</l>
+          <l>והנה זה מגיע, כמו מים פחד מחלחל</l>
+          <l>משתדל, נעלם לרגע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מחשבות נודדות מבלי להתכוון</l>
+          <l>אורות דולקים וים צבעים עוטפים אותי</l>
+          <l>והנה זה מגיע וכמה שאני רוצה</l>
+          <l>משתדל, ובכל זאת בי נוגע</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הנה אני, כמה אמיתי</l>
+          <l>לחלום זה אפשרי</l>
+          <l>הנה אני, מציאותי</l>
+          <l>לנסות, זה אפשרי</l>
+          <l>הנה אני כמה אמיתי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מחשבות נודדות רק אליכם</l>
+          <l>להתמסר, להתמכר, להיות שלכם</l>
+          <l>והנה זה מגיע, ואיך בלי שאני מרגיש</l>
+          <l>אני לבד מנעים את כל הרקע</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לחלום זה אפשרי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

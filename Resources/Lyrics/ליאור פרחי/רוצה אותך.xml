@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוצה אותך 5</title>
+        <singer classification="male singer">ליאור פרחי</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוצה אותך</head>
+        <lg number="1" type="stanza">
+          <l>אני רוצה אותך יפה שלי אז תני לי רק חיבוק</l>
+          <l>תראי אני יוצא מדעתי נכנס בי מן דיבוק</l>
+          <l>כל רגע כל שעה כל יום עלייך כאן דלוק</l>
+          <l>אני צריך ממך עכשיו עוד קצת חיזוק</l>
+          <l>ואת עוד שם שומרת על ריחוק</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני רוצה אותך ואת שותקת</l>
+          <l>או שאת צוחקת ובסוף מוחקת</l>
+          <l>אני רוצה אותך לא יום יומיים</l>
+          <l>לא שנה שנתיים רוצה אותך</l>
+          <l>רק עד הסוף בשניים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני יודע שרק את נודעת לי בלי שום פיקפוק</l>
+          <l>ובלעדייך לא אף פעם שקט וסיפוק</l>
+          <l>שעון הזמן ממשיך לרוץ לא תשמעי את התיקתוק</l>
+          <l>אז בואי כבר אלי בחיאת אבוק</l>
+          <l>את מה שהרופא רשם לי בדיוק</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני רוצה אותך ואת שותקת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תשקר</title>
+        <singer classification="unknown">נאוה מדינה</singer>
+        <writer>רחל שפירא</writer>
+        <composer>ניקוס קרוולאס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תשקר</head>
+        <lg number="1" type="stanza">
+          <l>אל תשקר לי בפנים</l>
+          <l>זה כמו רעל ביננו</l>
+          <l>אל תאשים את השכנים</l>
+          <l>כי זה קורה אצלנו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תסתכל לי בעיניים</l>
+          <l>לפחות דקה או שתיים</l>
+          <l>תגלה הפעם הגינות פשוטה</l>
+          <l>תסתכל לי בעיניים</l>
+          <l>וטיפת אמת או שתיים</l>
+          <l>יחשפו לרגע מי ומה אתה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תתייצב עם שושנים</l>
+          <l>מה שאין לא מבטיחים</l>
+          <l>זה לא עניין לשחקנים</l>
+          <l>אני שונאת שמרמים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תסתכל לי בעיניים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

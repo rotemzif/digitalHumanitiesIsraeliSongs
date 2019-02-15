@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ענני 11</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>אופיר כהן</writer>
+        <composer>אופיר כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ענני</head>
+        <lg number="1" type="stanza">
+          <l>על כל מה שלי נתת, בשירי אומר לך תודה</l>
+          <l>על בית חם, על ילדים ועבודה </l>
+          <l>ומה שלא אדע.</l>
+          <l>במחוזות יגון ודמע, רחקה נפשי בתהומות.</l>
+          <l>פקח את עיני כדי שאוכל לראות, את כל הנפלאות. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ענני הו אלוקיי אנא ענני, ביום צרה אל תעזבני</l>
+          <l>אשא עיניי אל ההרים מתוך הנשמה.</l>
+          <l>לך קראתי , אנא תסלח גם אם חטאתי.</l>
+          <l>אל דרכך אני חזרתי, אלך בה עד יכלה כוחי</l>
+          <l>לך נצח בך אבטח. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ממעמקים קראתיך, שים שלום על כל חלקה טובה</l>
+          <l>תשלח לי יד שמחבקת וטובה, תיתן בי אהבה.</l>
+          <l>גם אם אלך בגיא צלמוות, לך אפחד אתה תמיד איתי.</l>
+          <l>תשמור על אהוביי לך תשוקתי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ענני, הו אלוקיי אנא ענני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

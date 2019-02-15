@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פרח באביב</title>
+        <singer classification="male singer">סגיב כהן</singer>
+        <writer>סגיב כהן</writer>
+        <composer>סגיב כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פרח באביב</head>
+        <lg number="1" type="stanza">
+          <l>קר לה באביב והיא דואגת </l>
+          <l>בין החברים היא לבדה </l>
+          <l>כמה פעמים היא מתקשרת </l>
+          <l>הוא לא עונה, זה שונה, הוא בצבא </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רעש מסוקים, קצין ברדיו </l>
+          <l>כשכולם שומעים היא מקשיבה </l>
+          <l>העולם כמנהגו נוהג לו </l>
+          <l>ואמא שוב את נשמתה שובה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא, אל תדאגי, אני חוזר </l>
+          <l>סוף שבוע, חודש, לא יותר </l>
+          <l>פרח באביב, ישוב לפרוח בגנך </l>
+          <l>שעליו הלילה מרחוק שומר </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בתיקרה בוהה ולא נרדמת </l>
+          <l>כל גופה רועד ולא מקור </l>
+          <l>אולי לפתע תפתח הדלת </l>
+          <l>והביתה יחזור האור! </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא, אל תדאגי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

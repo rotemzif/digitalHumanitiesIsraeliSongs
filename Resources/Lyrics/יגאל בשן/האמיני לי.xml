@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האמיני לי</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>יגאל בשן</writer>
+        <composer>יגאל בשן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האמיני לי</head>
+        <lg number="1" type="stanza">
+          <l>יושבים על הספסל בגן מקשיבים ללילה</l>
+          <l>זורקת בי מבט קטן, חונק את הדמעות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רוצה לשקוע באמת שלך</l>
+          <l>רוצה לשמוע את הצד שלך, רק שלך</l>
+          <l>האמיני לי, האמיני.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מחפשים את המילים, מחזיקים ידיים</l>
+          <l>החושים שנטרפים, לוקחים אותך איתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רוצה לשקוע באמת שלך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הבוקר שעלה פתאום הצית בך את השמש</l>
+          <l>אולי זה שוב אותו חלום שאת חלמת איתי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רוצה לשקוע באמת שלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משחקי אהבה</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>נחום מוכיח</writer>
+        <composer>יוסי בן דוד</composer>
+        <album>איך שבא לי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משחקי אהבה</head>
+        <lg number="1" type="stanza">
+          <l>היא מכשפת אותו</l>
+          <l>מסחררת את ראשו</l>
+          <l>גופה לוהט לקראתו</l>
+          <l>אני שלך לוחשת לו</l>
+          <l>כולה פיתוי בערכה</l>
+          <l>מוכנה לאהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבל היא לא תתקרב אליו</l>
+          <l>רק תשחק בריגשותיו</l>
+          <l>בתוך תוכה היא מכורה</l>
+          <l>למשחקי האהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הרבה גברים איכזבה</l>
+          <l>כשהדליקה וכיבתה</l>
+          <l>גם הוא כמותם התפתה</l>
+          <l>רוצה אותה לעצמו</l>
+          <l>שתהיה היא רק שלו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבל היא לא תתקרב אליו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

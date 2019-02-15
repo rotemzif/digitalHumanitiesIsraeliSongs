@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איטיות</title>
+        <singer classification="female singer">תמר גלעדי</singer>
+        <writer>רחל שפירא</writer>
+        <composer>חוה אלברשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איטיות</head>
+        <lg number="1" type="stanza">
+          <l>אם לא תפורים קרעי המציאות</l>
+          <l>ויש איים של חוסר ודאות</l>
+          <l>ואת כל כך חוששת מטעות</l>
+          <l>אפשר למצוא מוצא באיטיות.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואם את מהססת ונבוכה</l>
+          <l>ואם את בתוכך לא בטוחה</l>
+          <l>ואת לא משתלבת בשיחה</l>
+          <l>כי את צריכה עוד רבע הוכחה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לאט לאט עשי הכל לאט</l>
+          <l>כאילו רק לרגע זה נשבעת</l>
+          <l>כל פרט דק דק איטי ומדוייק</l>
+          <l>כולם ישתכנעו אפילו את</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מילה שקולה תנועה ועוד תנועה</l>
+          <l>עכשיו את מרוכזת ורגועה</l>
+          <l>ויש לך זמן להבעת דיעה</l>
+          <l>נכון, באיטיות יש הנאה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לאט לאט כמעט בטבעיות</l>
+          <l>עוד יתברר של מי האחריות</l>
+          <l>לאט לאט כמו לחש או פיוט</l>
+          <l>נכון, יש הנאה באיטיות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לאט לאט עשי הכל לאט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

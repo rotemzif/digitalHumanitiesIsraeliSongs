@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ירח דבש</title>
+        <singer classification="male singer">דקלון</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ירח דבש</head>
+        <lg number="1" type="stanza">
+          <l>במרום ירח אדמוני, לילה מאושר</l>
+          <l>ואני מביט מחלוני מחייך ושר</l>
+          <l>כוכבי זורח מעלי, אור מהשחקים</l>
+          <l>המבט שלך צוחק אלי, שב ממרחקים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואי נאהב כמו בירח הדבש</l>
+          <l>את הלילה נתחיל מחדש</l>
+          <l>ניסחף עד אור הבוקר</l>
+          <l>אל תוך האושר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו חלום אלי עולה קסם אמיתי</l>
+          <l>שבה את מדרך אפילה אל מפתן ביתי</l>
+          <l>כוכבי זורח מעלי שט ומרחף</l>
+          <l>המבט שלך צוחק אלי חם ומלטף.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בואי נאהב כמו בירח הדבש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

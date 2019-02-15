@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני בשבילי</title>
+        <singer classification="female singer">שרון חזיז</singer>
+        <writer>שרון חזיז</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני בשבילי</head>
+        <lg number="1" type="stanza">
+          <l>לא משנה בכלל</l>
+          <l>מה אני יודעת על העולם הזה</l>
+          <l>וכמה שיהיה לי קל</l>
+          <l>לך יהיה יותר קשה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני לא לבד כי יש לי אותי</l>
+          <l>אולי בסוף תלמד</l>
+          <l>אני לא לבד, אני בשבילי</l>
+          <l>תמיד מחזיקה מעמד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שקט נוגע כמו שרוח</l>
+          <l>עוטפת אותי</l>
+          <l>רגע שבו אתה יודע</l>
+          <l>לגעת בי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא משנה בכלל</l>
+          <l>מה אתה יודע על העולם הזה</l>
+          <l>וכמה שכואב עכשיו</l>
+          <l>אני מחר אצא מזה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני לא לבד כי יש לי אותי</l>
+          <l>אולי בסוף תלמד</l>
+          <l>אני לא לבד, אני בשבילי</l>
+          <l>תמיד מחזיקה מעמד</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>שקט נוגע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

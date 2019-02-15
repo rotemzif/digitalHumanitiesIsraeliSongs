@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מבין הפוך</title>
+        <singer classification="unknown">תומר מתנה</singer>
+        <writer>אביעד פניו</writer>
+        <composer>תומר מתנה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מבין הפוך</head>
+        <lg number="1" type="stanza">
+          <l>אל תשירי לי</l>
+          <l>שירים שיעשו אותי עצוב</l>
+          <l>כל תו במנגינה שלך</l>
+          <l>רוצה לבוא ולכווץ אותי</l>
+          <l>האם את פה, לטובתי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל תשירי לי</l>
+          <l>שירים שיהפכו אותי כאוב</l>
+          <l>כל צליל שאת נושאת איתך</l>
+          <l>מציק כל כך </l>
+          <l>חודר אל הנבכים שבתוכי</l>
+          <l>אל תוך הבכי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואולי אני מבין הכל הפוך</l>
+          <l>והלוואי שזו טעות</l>
+          <l>כי אולי זו השמחה שבחי</l>
+          <l>פתאום עולה על כל גדותי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל תשאירי לי מקום להתעקש</l>
+          <l>ולנחש מה את רוצה או לא רוצה</l>
+          <l>אני אמצא גם כשאני דועך</l>
+          <l>איך לחייך הראי לי איך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואולי אני מבין הכל הפוך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כפיים 5</title>
+        <singer classification="male singer">רמי דנוך</singer>
+        <writer>גיורגוס מיצאקיס</writer>
+        <composer>גיורגוס מיצאקיס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כפיים</head>
+        <lg number="1" type="stanza">
+          <l>לילה לילה היא רוקדת</l>
+          <l>לצלילי הבגלמה</l>
+          <l>הגברים נותנים לה קצב</l>
+          <l>היא רוקדת לעצמה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בכפיים, בכפיים</l>
+          <l>תנו לה קצב בידיים</l>
+          <l>תנו לה קצב ברגליים</l>
+          <l>בעקב הנעליים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לילה לילה במרפסת</l>
+          <l>היא רוקדת רק לבד</l>
+          <l>הגברים שוברים צלחת</l>
+          <l>רץ בקבוק מיד אל יד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בכפיים, בכפיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

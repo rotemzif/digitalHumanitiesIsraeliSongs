@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמרי אותי</title>
+        <singer classification="unknown">שחר ישי</singer>
+        <writer>מישה קירקילן</writer>
+        <composer>מישה קירקילן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמרי אותי</head>
+        <lg number="1" type="stanza">
+          <l>שמרי אותי מרוח שגוברת, </l>
+          <l>אני לא מסוגל להישאר עמיד לקור. </l>
+          <l>שמרי אותי מכל פגיעה או סבל </l>
+          <l>אל תוך תהום נזרוק את כל הרע שלא יחזור. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שמרי אותי הסערה בדרך, </l>
+          <l>הכל את כבר מזמן הקרבת למעני. </l>
+          <l>שמרי אותי מכל פגיעה או סבל, </l>
+          <l>הישארי לנצח לצידי. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שמרי אותי מהחלטה כושלת, </l>
+          <l>את כל הזמן אמרת שאני אף פעם לא מקשיב. </l>
+          <l>שמרי אותי גם כשטיפה נשברת, </l>
+          <l>אל תוותרי על אש שמתחוללת שם בפנים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שמרי אותי הסערה בדרך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

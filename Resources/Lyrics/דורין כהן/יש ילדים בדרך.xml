@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש ילדים בדרך</title>
+        <singer classification="unknown">דורין כהן</singer>
+        <writer>עמוס ברזל</writer>
+        <composer>אורלי בינדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש ילדים בדרך</head>
+        <lg number="1" type="stanza">
+          <l>נהג הבט תמרור, </l>
+          <l>"יש ילדים בדרך".</l>
+          <l>זאת מראה תמרור, </l>
+          <l>בדיוק ולא בערך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נהג הזהר, </l>
+          <l>כי לחיים הרי יש ערך,</l>
+          <l>נהג הזהר, </l>
+          <l>"יש ילדים בדרך".</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

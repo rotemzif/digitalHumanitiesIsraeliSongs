@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>העולם 6</title>
+        <singer classification="band">גאיה</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>גילי ליבר</composer>
+        <album>חופשי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>העולם</head>
+        <lg number="1" type="stanza">
+          <l>השמש שוקע בסוף העולם</l>
+          <l>כדור האש נופל אל הים</l>
+          <l>בין יום ולילה השמש ידעך</l>
+          <l>ושוב יופיע מקצה המזרח</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמו נס משמים תינוק נולד</l>
+          <l>בדרך הטבע לומד לבד</l>
+          <l>כי יש חיי נצח לנשמה</l>
+          <l>רק האדם שב אל האדמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>והגלגל סובב ונוסע</l>
+          <l>אנה אפנה איש לא יודע</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

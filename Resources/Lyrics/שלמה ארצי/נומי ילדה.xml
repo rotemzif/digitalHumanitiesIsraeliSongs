@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נומי ילדה 2</title>
+        <singer classification="male singer">שלמה ארצי</singer>
+        <writer>אריאנה הרן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נומי ילדה</head>
+        <lg number="1" type="stanza">
+          <l>נומי, נומי ילדה </l>
+          <l>הכל נרגע </l>
+          <l>גם הבובה שוכבת במיטה </l>
+          <l>המנגינה באמצע נפסקה </l>
+          <l>הדוד ממול את נירותיו כיבה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נומי ילדה </l>
+          <l>נומי נים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נומי, נומי ילדה </l>
+          <l>הכל נרגע </l>
+          <l>על הכיסא נרדמת השמלה </l>
+          <l>גם היא הלכה איתך </l>
+          <l>כמו צילך והתעייפה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נומי ילדה </l>
+          <l>נומי נים </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נומי, נומי ילדה </l>
+          <l>אם הוא לא בא ודאי יבוא מחר </l>
+          <l>ואז הכל יהיה יפה </l>
+          <l>יהיה יפה כשהיה </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>נומי ילדה </l>
+          <l>נומי נים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

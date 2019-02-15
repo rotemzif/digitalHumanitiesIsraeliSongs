@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק תישארי לי</title>
+        <singer classification="unknown">בן ישראלי</singer>
+        <writer>דורון גל</writer>
+        <composer>דורון גל</composer>
+        <album>לעוף איתך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק תישארי לי</head>
+        <lg number="1" type="stanza">
+          <l>תני לי משהו קטן</l>
+          <l>כדי שלא אלך מכאן</l>
+          <l>אל תלכי לי עכשיו לאיבוד</l>
+          <l>לא יכול עוד משם לשוב</l>
+          <l>רק תישארי לי</l>
+          <l>אל תלכי עכשיו רחוק מדי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תמיד כשאני אוהב</l>
+          <l>נכנס הפחד אל הלב</l>
+          <l>ומדבר ומדבר על איך שאת עוזבת אותי</l>
+          <l>תמיד כשאני פוחד את מנתקת את הלב</l>
+          <l>שמפחד להיפגע </l>
+          <l>ואיך שאת את לא מרגישה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תני לי עוד אהבה</l>
+          <l>שתהיה קלה כמו נוצה</l>
+          <l>אל תתחילי לחפש הסברים</l>
+          <l>כשמרגישים טוב</l>
+          <l>לא צריך מילים</l>
+          <l>רק תישארי לי </l>
+          <l>אל תלכי עכשיו רחוק מדי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תמיד כשאני אוהב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

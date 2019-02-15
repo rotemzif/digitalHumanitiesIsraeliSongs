@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הורה חדשה</title>
+        <singer classification="unknown">להקת פיקוד צפון</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הורה חדשה</head>
+        <lg number="1" type="stanza">
+          <l>אנה פנו השירים שזימרנו ליד האש </l>
+          <l>למה נדם שיר בוקע שמיים עם ליל </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עוד השיבולת ברוח </l>
+          <l>עוד היא כורעת מעומס גרעינים </l>
+          <l>שמש הרים מלהטת כתמול </l>
+          <l>טל נוצץ בעמק. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שיבולת בשדה כורעה ברוח </l>
+          <l>מעומס גרענים כי רב </l>
+          <l>ובמרחב הרים יום כבר יפוח </l>
+          <l>השמש כתם וזהב </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עוד השיבולת ברוח... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הבו לנו יין יין </l>
+          <l>לא שתינו עוד עדיין </l>
+          <l>הבו לנו יין ותירוש </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עוד השיבולת ברוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

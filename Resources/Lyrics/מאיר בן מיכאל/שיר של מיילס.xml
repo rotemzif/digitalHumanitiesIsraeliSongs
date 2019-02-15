@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר של מיילס</title>
+        <singer classification="unknown">מאיר בן מיכאל</singer>
+        <writer>ברוך פרידלנד</writer>
+        <composer>מאיר בן מיכאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר של מיילס</head>
+        <lg number="1" type="stanza">
+          <l>אני</l>
+          <l>נוטה ללחוש לך "תני לי</l>
+          <l>לרצות אותך כל כך</l>
+          <l>עד שנצרח"</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גם את</l>
+          <l>רוצה אותי כמעט</l>
+          <l>לוחשת באוזני:</l>
+          <l>"לאט"</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כמו עלה אני נושר בך</l>
+          <l>את השיר שלי מוסר לך</l>
+          <l>את לוחשת לי שזה לא בשבילך</l>
+          <l>אני שם תקליט של מיילס</l>
+          <l>את עוצמת את עינייך</l>
+          <l>אך לא מקשיבה</l>
+          <l>מחליקה אל תוך עצמך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>גלי לי</l>
+          <l>אולי כבר תציירי לי</l>
+          <l>מהם הגוונים</l>
+          <l>בנשמתך?</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עכשיו</l>
+          <l>מפנה לי את הגב</l>
+          <l>והכל נראה</l>
+          <l>לשווא</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כמו עלה אני נושר בך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

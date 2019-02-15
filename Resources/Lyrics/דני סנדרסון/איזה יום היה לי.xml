@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איזה יום היה לי</title>
+        <singer classification="male singer">דני סנדרסון</singer>
+        <writer>דני סנדרסון</writer>
+        <composer>דני סנדרסון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איזה יום היה לי</head>
+        <lg number="1" type="stanza">
+          <l>איש אחד הלך ברחוב</l>
+          <l>בחדשות הוא גמר לא טוב</l>
+          <l>איש אחר הלך ושר</l>
+          <l>כל אחד בסוף היום יאמר</l>
+          <l>יא איזה יום היה לי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הנה גברת שותה קפה</l>
+          <l>החיים שלה זורמים יפה</l>
+          <l>מלצרית מוחה דמעה</l>
+          <l>מול ראי בליל תאמר לעצמה</l>
+          <l>יא איזה יום היה לי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זוג זקנים אם תשושה</l>
+          <l>בעיתון תמונה מאוד קשה</l>
+          <l>איש בודד זוג אוהב</l>
+          <l>עם שקיעה אני לעצמי חושב</l>
+          <l>יא איזה יום היה לי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי שהייתי</title>
+        <singer classification="male singer">יהודה פוליקר</singer>
+        <writer>יהודה פוליקר</writer>
+        <composer>missing</composer>
+        <album>כל דבר מזכיר לי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי שהייתי</head>
+        <lg number="1" type="stanza">
+          <l>מי שהייתי </l>
+          <l>מה שהנני </l>
+          <l>מה שהשארת בי </l>
+          <l>כשאת לא אתי </l>
+          <l>את שאבד לי </l>
+          <l>מי שעודני </l>
+          <l>אין לי שקט, אין שלווה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם הגורל שלי </l>
+          <l>הפוך ממני </l>
+          <l>זאת לא אשמתי </l>
+          <l>ולא אשמתך </l>
+          <l>את שאהבת אותי </l>
+          <l>כשלא ידעתי </l>
+          <l>רק מבקש ממך </l>
+          <l>שעה של קרבה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מכל הנשים </l>
+          <l>שכבר שכחתי </l>
+          <l>רק את היית שם </l>
+          <l>אתי, בשבילי </l>
+          <l>תני לי לשכוח </l>
+          <l>את מה שפספסתי </l>
+          <l>האם יש בך ניצוץ שלא כבה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם הגורל שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

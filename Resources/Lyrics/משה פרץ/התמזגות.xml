@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>התמזגות</title>
+        <singer classification="male singer">משה פרץ</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>יוסי גיספן</composer>
+        <album>מביט אל המרומים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>התמזגות</head>
+        <lg number="1" type="stanza">
+          <l>שני עולמות נפגשים</l>
+          <l>ובשמיים אור ניצת</l>
+          <l>שני לבבות נקשרים</l>
+          <l>הופכים לנשמה אחת</l>
+          <l>ושוב חוזר לו מעשה בראשית</l>
+          <l>נולדת עוד התחלה</l>
+          <l>מתעוררים למעלה כל הקדושים</l>
+          <l>ומתנגנת תפילה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נה... נה... נה...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הרגעים הקסומים</l>
+          <l>הם כמו חלום שלא נגמר</l>
+          <l>החלומות מתגשמים</l>
+          <l>ומתמזגים אל המחר</l>
+          <l>ושוב חוזר לו מעשה בראשית</l>
+          <l>נולדת עוד התחלה</l>
+          <l>מתעוררים למעלה כל הקדושים</l>
+          <l>ומתנגנת תפילה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

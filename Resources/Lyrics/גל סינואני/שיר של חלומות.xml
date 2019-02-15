@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר של חלומות</title>
+        <singer classification="male singer">גל סינואני</singer>
+        <writer>דודו מתנה</writer>
+        <composer>דודו מתנה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר של חלומות</head>
+        <lg number="1" type="stanza">
+          <l>מגופך אני משתגע מבטך עלינו זורח </l>
+          <l>עם ריקוד שהקצב בו נוגע וחודר לנשמה </l>
+          <l>עם חיוך שלכולם שולח סימנים של אהבה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רקדי בלילה רקדי ביום </l>
+          <l>אני אשיר לך שיר של חלומות </l>
+          <l>רקדי בלילה רקדי ביום </l>
+          <l>אני אגשים לך, אגשים את החלום... </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את ידה היא לידי שולחת </l>
+          <l>ובלב מכה בי הפחד </l>
+          <l>עם חיוך נוגעת ופוגעת בחדרי הנשמה </l>
+          <l>עוד ריקוד ובך עובר הקצב לצלילי המנגינה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רקדי בלילה רקדי ביום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

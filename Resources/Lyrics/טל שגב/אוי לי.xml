@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אוי לי</title>
+        <singer classification="male singer">טל שגב</singer>
+        <writer>טל שגב</writer>
+        <composer>טל שגב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אוי לי</head>
+        <lg number="1" type="stanza">
+          <l>אולי אני משקר אני בעצם לא זוכר</l>
+          <l>ויש לי אפס דוגמאות איך לנסות לחזור לחייך</l>
+          <l>אולי אני לא אומר אני פוחד להיגמר</l>
+          <l>אני אוהבת אותך יותר ועוד יותר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אולי אני משקר אני בעצם לא זוכר</l>
+          <l>ויש לי אפס דוגמאות איך לנסות לחזור לחיות</l>
+          <l>בוחר להתמסר לאיזה צער ממכר</l>
+          <l>כמה ימים כמה לילות שהוא חסר שהוא חסר שהוא חסר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אוי לי שחשבתי</l>
+          <l>שתהיי לי בבואתי</l>
+          <l>אוי לי שחשב מי</l>
+          <l>שיהיה פה קל לחיות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לוקח משכך ושוב הולך להתהלך</l>
+          <l>ברחובות מפוקפקים שלא אכיר את הפרצופים</l>
+          <l>מחפש לי בנרות איזו פיסה של נעורים</l>
+          <l>עם שני דברים שמטרידים ושיקיפו ילדים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אוי לי שחשבתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

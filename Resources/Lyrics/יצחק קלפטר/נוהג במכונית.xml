@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נוהג במכונית</title>
+        <singer classification="male singer">יצחק קלפטר</singer>
+        <writer>יצחק קלפטר</writer>
+        <composer>יצחק קלפטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נוהג במכונית</head>
+        <lg number="1" type="stanza">
+          <l>אני נוהג במכונית</l>
+          <l>הרחובות ריקים, העיר שקטה</l>
+          <l>עכשיו כבר מאוחר</l>
+          <l>אני עוד ער, אני חושב עליה</l>
+          <l>ועל עצמי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל התריסים כבר מוגפים</l>
+          <l>מעל גגות הכוכבים יפים</l>
+          <l>פנס רחוב חיוור</l>
+          <l>כאילו הוא אומר:</l>
+          <l>"חבוב, אתה סתם משוגע"</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איתה תהיה אחרת, האהבה,</l>
+          <l>איתה תהיה אחרת, האהבה!</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ירח שט בדומיה</l>
+          <l>המסיבות כבר נגמרו מזמן</l>
+          <l>עכשיו כבר מאוחר</l>
+          <l>זו שעת הזאבים</l>
+          <l>עיתון נשכח על המדרכה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>איתה תהיה אחרת, האהבה,</l>
+          <l>איתה תהיה אחרת, האהבה!</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אני נוהג במכונית...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

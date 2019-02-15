@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רולטה 3</title>
+        <singer classification="female singer">תמר אייזנמן</singer>
+        <writer>דני סנדרסון</writer>
+        <composer>דני סנדרסון</composer>
+        <album>לא יפריד דבר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רולטה</head>
+        <lg number="1" type="stanza">
+          <l>הכספת נעולה </l>
+          <l>'תה לא יודע מה בראש שלה </l>
+          <l>הרולטה תסתובב </l>
+          <l>לך תדע מתי תשבור לך ת'לב </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היא פואמה של רכות </l>
+          <l>אל נשמתך חודרת בקלות </l>
+          <l>אתה עיוור כבול כולך </l>
+          <l>מתעלם ממה שהיא עושה לך </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אין לה מושג ירוק </l>
+          <l>מה היא רוצה לעשות </l>
+          <l>היא תשבור אותך לנצח </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>צהריים חיוכיםן </l>
+          <l>מלבלבת כמו סידור פרחים </l>
+          <l>רדת ליל אבודה </l>
+          <l>זזה אל הדלת עם המזוודה </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אין לה מושג ירוק... </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אני דואגת רק לך </l>
+          <l>היא מסובבת את הראש שלך </l>
+          <l>אתה סולח מתקפל </l>
+          <l>עד ששוב תשלח אותך לעזאזל </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אין לה מושג ירוק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

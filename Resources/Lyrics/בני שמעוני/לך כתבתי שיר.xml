@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לך כתבתי שיר</title>
+        <singer classification="unknown">בני שמעוני</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>בני אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לך כתבתי שיר</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>לך כתבתי שיר </l>
+          <l>היפה בבנות העיר</l>
+          <l>רקדי הלילה צעיר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שיער גולש, עיני עם אש</l>
+          <l>בך מביט ומתרגש</l>
+          <l>כוס של בירה על הבר</l>
+          <l>אין כמוני מאושר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לך כתבתי שיר...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כוכב הלילה לך מאיר </l>
+          <l>כמו ריקוד משיר לשיר</l>
+          <l>יד קטנה הושטת לי</l>
+          <l>כשרקדת ממולי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לך כתבתי שיר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

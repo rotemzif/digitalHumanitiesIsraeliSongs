@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נדרתי נדר</title>
+        <singer classification="unknown">משה כהן</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נדרתי נדר</head>
+        <lg number="1" type="stanza">
+          <l>יהיה טוב תמיד אומרים</l>
+          <l>כל האנשים שנפגשים</l>
+          <l>בכל פינה בכל רחוב</l>
+          <l>לחיי עוד לא מצאתי טוב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יהיה טוב מתי יהיה</l>
+          <l>מחפש אותו ולא רואה</l>
+          <l>האם אליי בסוף יגיע</l>
+          <l>קצת הטוב שלי מגיע</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>נדרתי נדר אלוהיי</l>
+          <l>לך נשבעתי בחיי</l>
+          <l>טעויות עשיתי אנא סלח</l>
+          <l>לחיי קצת טוב תשלח</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מחפש למצוא פינה שלווה</l>
+          <l>מחפש ולא מוצא תקווה</l>
+          <l>עבר אפל רודף אותי</l>
+          <l>מענה חיי ונשמתי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אין מזור ואין עוזר</l>
+          <l>על טעויות אני חוזר</l>
+          <l>חסר כח בלי חבר</l>
+          <l>אין מזור ואין עוזר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>נדרתי נדר אלוהיי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

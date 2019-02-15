@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא כל כך שייך</title>
+        <singer classification="unknown">ספארי</singer>
+        <writer>רונן פרי</writer>
+        <composer>איתי סיני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא כל כך שייך</head>
+        <lg number="1" type="stanza">
+          <l>דף חלק פתחתי בחיי</l>
+          <l>המשא היה כבד מדי</l>
+          <l>לא יכולתי לעמוד על רגלי</l>
+          <l>הפרק הקודם שבר את כל המוסכמות שלי</l>
+          <l>לא ידעתי מה קורה איתי</l>
+          <l>אף אחד לא שאל עלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ושואל איפה הצדק, איפה הגמול</l>
+          <l>באיזה חלק של הגלגול</l>
+          <l>אני נמצא</l>
+          <l>מתפלל, מראה לי השלט כיוון מהופך</l>
+          <l>יוצא מהדלת, מרגיש לא ממש,</l>
+          <l>לא כל כך שייך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דף לבן מלא כתמים שחורים</l>
+          <l>לא עומד בפיתויים </l>
+          <l>שמציבים לי החיים</l>
+          <l>בספר הקודם סיפרתי על המלחמות שלי</l>
+          <l>איך הארץ לא תומכת בי</l>
+          <l>המציאות בולעת את החלשים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ושואל איפה הצדק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בארמון המלך</title>
+        <singer classification="band">זקני צפת</singer>
+        <writer>מאור כהן</writer>
+        <composer>מאור כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בארמון המלך</head>
+        <lg number="1" type="stanza">
+          <l>בארמון המלך גר אדם</l>
+          <l>שסחב על עצמו המון דם</l>
+          <l>את כל אנשי העיר הוא תלה</l>
+          <l>איך אפשר אין בעיה</l>
+          <l>מה צריך זה רק אהבה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בתוך הים יש מקום רק עם דגים</l>
+          <l>שם שוחים כל היום ולא שומעים</l>
+          <l>ואפילו לא אומרים מילה</l>
+          <l>איך אפשר אין בעיה</l>
+          <l>מה צריך זה רק אהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אבל את ממשיכה לחפש</l>
+          <l>והכל בשבילך לא מספק</l>
+          <l>ואני רק מביט</l>
+          <l>איך את פשוט לא מוצאת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בגבעה ממול יש איש זקן</l>
+          <l>שבחיים שלו לא הלונן</l>
+          <l>ותמיד אמר לילדים</l>
+          <l>איך אפשר אין בעיה</l>
+          <l>מה צריך זה רק אישה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אבל את ממשיכה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

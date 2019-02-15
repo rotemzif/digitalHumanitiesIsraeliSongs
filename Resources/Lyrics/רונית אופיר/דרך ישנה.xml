@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דרך ישנה 3</title>
+        <singer classification="female singer">רונית אופיר</singer>
+        <writer>דודו ברק</writer>
+        <composer>שייקה פייקוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דרך ישנה</head>
+        <lg number="1" type="stanza">
+          <l>לילה ירד על העמק</l>
+          <l>וירח שט על הגליל.</l>
+          <l>זאת אנוכי הנדהמת</l>
+          <l>הלבנה עלי והתרמיל.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>דרך שיר ודרך ישנה</l>
+          <l>אעבור לאור הלבנה.</l>
+          <l>אלף שיר זימרתי בינתיים</l>
+          <l>לך עוד אשיר אלפיים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בתרמילי פת זורחת</l>
+          <l>וזכים המים בנחלי,</l>
+          <l>אמא שלי הנשכחת</l>
+          <l>כאן תלך עימי ועם צללי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>דרך שיר ודרך ישנה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זאת היא ארצי על ימיה</l>
+          <l>זה ביתי הרץ תחתי רגלי.</l>
+          <l>זאת היא אימי ובניה</l>
+          <l>עד בלותי ועד אחרון ימי.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>דרך שיר ודרך ישנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

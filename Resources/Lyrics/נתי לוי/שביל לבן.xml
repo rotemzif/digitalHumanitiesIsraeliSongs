@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שביל לבן</title>
+        <singer classification="male singer">נתי לוי</singer>
+        <writer>טלאור שרעבי</writer>
+        <composer>טלאור שרעבי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שביל לבן</head>
+        <lg number="1" type="stanza">
+          <l>השעות ארוכות בלעדייך </l>
+          <l>איך הזמן לא עובר </l>
+          <l>כשאת לא כאן, מדמיין את שפתייך </l>
+          <l>ואותך בליבי, השארת לי חותם.</l>
+          <l>ויש לי תחושה שהגיע הזמן לומר לך ולכל העולם </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה אני שרוצה בך</l>
+          <l>זה אני שמדמיין אותך בלילות בשמלת כלולות </l>
+          <l>זה אני שחולם רק בשביל לבן</l>
+          <l>לצעוד איתך אל תוך החיים לעולמים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מלאכים שומרים בשמיים </l>
+          <l>ומעל יד אלוקים </l>
+          <l>מכוונת אותי עד אלייך </l>
+          <l>ומכל הנשים בחרתי אותך.</l>
+          <l>אז יש בי תחושה לומר לך ולכל העולם </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה אני שרוצה בך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי את 5</title>
+        <singer classification="male singer">שמעון בוסקילה</singer>
+        <writer>מיכאל וקנין</writer>
+        <composer>שמעון בוסקילה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי את</head>
+        <lg number="1" type="stanza">
+          <l>החורף הקר לא נתן לי סימן</l>
+          <l>הולך ברחוב שורף את הזמן</l>
+          <l>הייתי רעב הייתי שיכור</l>
+          <l>ראיתי אותך ונדלק בי האור</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>על אותה מדרכה את חלפת לידי</l>
+          <l>נעלמת בכניסה לבניין משרדים</l>
+          <l>הייתי מוקסם הייתי נסער</l>
+          <l>נושם את הבושם הקל שנשאר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>וואלו, וואלו, וואלו, לכל אחד יש מי שנועדה לו</l>
+          <l>וואלו, וואלו, וואלו, זה הגורל זה מה שבא לו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הקיץ החם לא השאיר לי אוויר</l>
+          <l>עולה על מונית וחוצה את העיר</l>
+          <l>מביט מסביב ואז מקרוב ראיתי אותך</l>
+          <l>בפינת הרחוב</l>
+          <l>ואמרתי מיד לנהג לעצור</l>
+          <l>והתחלתי לרוץ חזרה לאחור</l>
+          <l>הייתי נחוש הייתי בוער</l>
+          <l>עלייך הפעם שוב לא אוותר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>וואלו, וואלו, וואלו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

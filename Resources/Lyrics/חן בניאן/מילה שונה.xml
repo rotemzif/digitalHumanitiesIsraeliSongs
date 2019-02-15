@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מילה שונה</title>
+        <singer classification="male singer">חן בניאן</singer>
+        <writer>אסתר הודיה</writer>
+        <composer>עמנואל קרטן</composer>
+        <album>תרמיל האהבה של אמיר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מילה שונה</head>
+        <lg number="1" type="stanza">
+          <l>איני מוצא ואם אשוב</l>
+          <l>מילים כדי לומר לך לומר מילות של קסם</l>
+          <l>כולן כבר מרוטות כולן כבר ידועות לך</l>
+          <l>מלחנים וזמר טפלות ודאי כל-כך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza" />
+        <lg number="3" type="stanza">
+          <l>אני שותק ואם אומר:</l>
+          <l>אבל ליבי משמיע "פשוט מתגעגע!"</l>
+          <l>אותן מילים פשוטות זו שוב אותה מילה</l>
+          <l>באין לי אחרות. אבל שונה הקול...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza" />
+        <lg number="5" type="stanza">
+          <l>פזמון פזמון ........</l>
+          <l>היש מילה שונה ומיוחדת</l>
+          <l>נוגעת אל ליבך?</l>
+          <l>אם רק אמצא עיניי הן מדברות מתוך ליבי</l>
+          <l>כי אז אפשר אולי את הכאב</l>
+          <l>שתחזרי אלי הקשיבי לו מעט</l>
+          <l>בלי הבטחות ודי – הוא מספר</l>
+          <l>שיר אהבה.</l>
+          <l>1. מילה אחת אבל שונה</l>
+          <l>2. מילה אחת ולא יותר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

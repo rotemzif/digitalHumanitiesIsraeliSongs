@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה לא פשוט להיות אמא</title>
+        <singer classification="unknown">שרה גולדמן</singer>
+        <writer>א. ב. דן</writer>
+        <composer>א. ב. דן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה לא פשוט להיות אמא</head>
+        <lg number="1" type="stanza">
+          <l>זה לא פשוט להיות אמא</l>
+          <l>אך זהו גם אושר בלתי נתפס</l>
+          <l>ילדים באים לעולם</l>
+          <l>כולם מחפשים את אושרם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אביב חולף </l>
+          <l>קיץ וחורף</l>
+          <l>גם אני מחפשת תשובה</l>
+          <l>אביב חולף</l>
+          <l>קיץ וחורף</l>
+          <l>כולם רוצים אהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה לא פשוט להיות אמא</l>
+          <l>אך זוהי הזכות הכי גדולה</l>
+          <l>ילדים באים לעולם</l>
+          <l>כולם מחפשים את אושרם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אביב חולף...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עוד שנה</l>
+          <l>ועוד שנה</l>
+          <l>והנה הסתיו בא</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

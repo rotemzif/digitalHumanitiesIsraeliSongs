@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>In a Boat</title>
+        <singer classification="unknown">עומר לשם</singer>
+        <writer>עומר לשם</writer>
+        <composer>רון זאייט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>In a Boat</head>
+        <lg number="1" type="stanza">
+          <l>Three of us, in a boat </l>
+          <l>Down streamin', what a float </l>
+          <l>With my rain and his mice </l>
+          <l>And the other guy's advice </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>“I still miss you today), I say </l>
+          <l>They let out a sigh and they die </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>One of us, in a boat </l>
+          <l>Up streamin', taking notes </l>
+          <l>With a blister on my finger </l>
+          <l>And lonely thoughts hung out to linger </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>“I still miss you tonight), I shout </l>
+          <l>Tomorrow I'll miss her, no doubt </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>And I'm not sure if it's true </l>
+          <l>What to do? </l>
+          <l>with my heart </l>
+          <l>For a start. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>“I still miss you tonight), I shout </l>
+          <l>Tomorrow I'll miss her, no doubt</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

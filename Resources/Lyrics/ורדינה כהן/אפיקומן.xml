@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אפיקומן</title>
+        <singer classification="female singer">ורדינה כהן</singer>
+        <writer>אורלי בינדר</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אפיקומן</head>
+        <lg number="1" type="stanza">
+          <l>זהו ליל הסדר כאן סביב השולחן,</l>
+          <l>קוראים בהגדה במטבח הכול מוכן.</l>
+          <l>אף ילד לא הרגיש שסבא כבר החביא</l>
+          <l>את האפיקומן מאחורי שולחן.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אפיקומן, אפיקומן, היכן אתה היכן,</l>
+          <l>איש אינו יודע סוד הוא כמובן.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יוצאים הילדים מחפשים בכל מקום,</l>
+          <l>אולי בחדר הסמוך יופיע שם פתאום,</l>
+          <l>מתחת לספה מחפשים גם במטבח,</l>
+          <l>נכנס הדוד אפרים וכמעט עליו דרך!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אפיקומן, אפיקומן...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>סבא כבר מצאתי דן הכריז בקול, </l>
+          <l>עמדו כל הילדים במעגל גדול.</l>
+          <l>מה תיתן לי סבא, איזו מתנה?</l>
+          <l>אז ענה לו סבא: הפתעה גדולה!</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אפיקומן, אפיקומן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

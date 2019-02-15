@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אתה בחלל</title>
+        <singer classification="male singer">מיקי גבריאלוב</singer>
+        <writer>מיקי גבריאלוב</writer>
+        <composer>מיקי גבריאלוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אתה בחלל</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אתה בחלל ואיפה אני בחלל</l>
+          <l>שנינו בחלל שטים</l>
+          <l>ובחושך בוכים בוכים בוכים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>צריך להיות חזק מאוד</l>
+          <l>בשביל למות בשביל לחיות</l>
+          <l>אם יש כאב הוא עוד יחלוף</l>
+          <l>אני לא פוחד זה לא הסוף</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אתה בחלל...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>דמעות קטנות דמעות גדולות</l>
+          <l>אל השמיים הן עולות</l>
+          <l>מתפללות ומבקשות</l>
+          <l>בשביל כולנו הן בוכות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אתה בחלל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

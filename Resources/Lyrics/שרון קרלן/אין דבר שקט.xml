@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין דבר שקט</title>
+        <singer classification="female singer">שרון קרלן</singer>
+        <writer>שרון קרלן</writer>
+        <composer>שרון קרלן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין דבר שקט</head>
+        <lg number="1" type="stanza">
+          <l>אין דבר שקט מעל ראשי</l>
+          <l>שוב אתה מזכיר לי את החורף</l>
+          <l>לא נוגעת בשמש לא רואה גם אותך</l>
+          <l>מנסה להסתיר את עצמי מעצמי וממך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אין דבר שקט כאן בתוכי</l>
+          <l>ואתה אפילו לא יודע</l>
+          <l>בכל פעם שוכחת להזמין את האור</l>
+          <l>אני לא יודעת תזכיר לי כשהבוקר יחזור</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואם ניפול לאן ניפול</l>
+          <l>סגורים בתוך עולם עגול</l>
+          <l>אולי ניפול ונאבד שליטה בסך הכל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אין דבר שקט כאן לידי</l>
+          <l>שוב כולם רצים בכל הכח</l>
+          <l>ואולי גם בך צורח בפנים</l>
+          <l>אז איך תוכל לשמוע גם אותי לפעמים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואם ניפול לאן ניפול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

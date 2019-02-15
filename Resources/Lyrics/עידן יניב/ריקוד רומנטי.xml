@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ריקוד רומנטי 4</title>
+        <singer classification="male singer">עידן יניב</singer>
+        <writer>ניסים מרי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ריקוד רומנטי</head>
+        <lg number="1" type="stanza">
+          <l>לא תבין איך התאהבתי בך, בחור </l>
+          <l>חץ אחד שלך פגע בי, זה ברור </l>
+          <l>ובן רגע התמכרתי, איך זה קרה, </l>
+          <l>איך חיי הפכו משקט לסערה? </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הוא משגע במבטו </l>
+          <l>אני כל כך רוצה לדעת מה בלבו </l>
+          <l>בוא תרקוד אתי הלילה </l>
+          <l>ריקוד רומנטי לאור ירח </l>
+          <l>אותי לוקח עד סוף העולם. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מביטה בו ולרגע הוא מתאהב </l>
+          <l>המגע שלו גורם לי להתלהב </l>
+          <l>בו כל כך רוצה לגעת, להתקרב </l>
+          <l>לריקוד הזה יש קצב מתוך הלב. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הוא משגע במבטו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

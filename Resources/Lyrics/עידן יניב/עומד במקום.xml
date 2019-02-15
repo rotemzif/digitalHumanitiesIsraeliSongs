@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עומד במקום 2</title>
+        <singer classification="male singer">עידן יניב</singer>
+        <writer>לי בירן</writer>
+        <composer>לי בירן</composer>
+        <album>מי אם לא עידן יניב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עומד במקום</head>
+        <lg number="1" type="stanza">
+          <l>עד כמה זה נראה לך נכון לאהוב אותי</l>
+          <l>עד כמה זה נראה לך נכון להיות איתי</l>
+          <l>בלי דיבורים, בלי אנשים אחרים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עד כמה זה נראה לך נכון לסלוח לי</l>
+          <l>בלי ויתורים, אל תוותרי כל כך בקלות </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>וכשהכוכבים נופלים מהשמים </l>
+          <l>הכל עומד במקום </l>
+          <l>עצוב לי בלעדייך</l>
+          <l>אפילו שהבטחתי לך הרים וגבעות</l>
+          <l>בלב אכזבות, תישארי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עד כמה זה נראה לך נכון לשמוע אות</l>
+          <l>עד כמה זה נראה לך נכון לעזוב אותי</l>
+          <l>בלי חרטות, בלי רגשות, לעזוב אותי </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>וכשהכוכבים נופלים מהשמים </l>
+          <l>הכל עומד במקום </l>
+          <l>עצוב לי בלעדייך</l>
+          <l>אפילו שהבטחתי לך הרים וגבעות</l>
+          <l>בלב אכזבות, תישארי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

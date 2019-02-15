@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה יעשה לך טוב</title>
+        <singer classification="unknown">להקת קאמלוט</singer>
+        <writer>עופר פריאון</writer>
+        <composer>עופר פריאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה יעשה לך טוב</head>
+        <lg number="1" type="stanza">
+          <l>חשבת שעשינו כבר הכל </l>
+          <l>אבל לא עישנתי, לא שכבתי, הו לא. </l>
+          <l>אנחנו לא נמכור את עצמנו בזול, לא, </l>
+          <l>כי בגללך נשארתי בבית, הפסדתי הכל. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מי יקח אותי מפה ויעשה הכל?! </l>
+          <l>אם אני לא יוצאת מפה זה יעשה לך טוב בסוף?! </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואני מרימה עלייך קול. </l>
+          <l>זמן נעורים, חזקה יותר מהכל. </l>
+          <l>ואני לא כתבתי שום שיר על בוץ </l>
+          <l>וחברים שלי חייבים לי עוד. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מי יקח אותי מפה... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ושם ומעבר רוצה לשבור את הקירות, </l>
+          <l>אמלט מכאן כי לא אשוב עוד פעם ותגיד לאמא: </l>
+          <l>"אני אחזור מחר".</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

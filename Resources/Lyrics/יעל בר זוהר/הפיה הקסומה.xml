@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הפיה הקסומה</title>
+        <singer classification="unknown">יעל בר זוהר</singer>
+        <writer>אילן ליבוביץ'</writer>
+        <composer>אילן ליבוביץ'</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הפיה הקסומה</head>
+        <lg number="1" type="stanza">
+          <l>על מטה הקסם בלילות לאור הכוכבים</l>
+          <l>היא רוכבת אמיתית מאגדות לסיפורים</l>
+          <l>ומגע ידה משי שמלתה קטיפה כחולה</l>
+          <l>ועיניה נוצצות ואור בורק בתוך ליבה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את פית אהבה קסומה</l>
+          <l>כל לילה קסם מעל המיטה</l>
+          <l>מפזרת אבקת מלאכים</l>
+          <l>ומאירה באור החיים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>במכחול קסמים צובעת שיערך הופך צהוב</l>
+          <l>את השקר את הפחד מגרשת למרחוק</l>
+          <l>היא נושפת אז מפיה שובל של רשפים</l>
+          <l>מרחיקה ומפחידה את הרוחות והשדים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את פית אהבה קסומה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הכל לילה געגוע לכל ילד וילדה</l>
+          <l>לא סיפור לא צעצוע רק מגע רך של פיה</l>
+          <l>בואי אמא ותראי איך זה קורה לי באמת</l>
+          <l>תעצמי את העיניים ויתחיל שוב לדגדג.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>את פית אהבה קסומה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

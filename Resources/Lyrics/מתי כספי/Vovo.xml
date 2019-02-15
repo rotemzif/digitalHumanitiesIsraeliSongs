@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vovo</title>
+        <singer classification="male singer">מתי כספי</singer>
+        <writer>מתי כספי</writer>
+        <composer>מתי כספי</composer>
+        <album>את האשה שלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Vovo</head>
+        <lg number="1" type="stanza">
+          <l>נע ונד היא שם </l>
+          <l>אחר כך </l>
+          <l>נע ונד היא פה </l>
+          <l>אחר כך </l>
+          <l>נע ונד היא כך </l>
+          <l>ללא תקווה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אמא אמא בואי </l>
+          <l>בואי </l>
+          <l>תני לי לחבק </l>
+          <l>אותך </l>
+          <l>כי את זקוקה לחום </l>
+          <l>ואהבה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כפר קטן נידח </l>
+          <l>היה ביתה </l>
+          <l>פשוטים היו חייה </l>
+          <l>והאדמה היתה שלה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>פתע אל העיר </l>
+          <l>נישאה </l>
+          <l>ותמימותה הפכה לנטל </l>
+          <l>והטבע - נוף מעברה </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נע ונד היא שם... </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אמא אמא בואי... </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>הגורל פיזר חייה </l>
+          <l>בליבם של ילדיה </l>
+          <l>המנוחה הפכה </l>
+          <l>משאת נפשה </l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>עייפה מתגעגעת </l>
+          <l>וחולמת על ביתה </l>
+          <l>ועל האדמה </l>
+          <l>שהיא שלה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

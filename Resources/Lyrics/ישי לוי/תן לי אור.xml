@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תן לי אור</title>
+        <singer classification="male singer">ישי לוי</singer>
+        <writer>ליאורה אושמי</writer>
+        <composer>ליאורה אושמי</composer>
+        <album>ריקוד רומנטי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תן לי אור</head>
+        <lg number="1" type="stanza">
+          <l>החיים כמי נהר זורמים</l>
+          <l>חלומות עוד לא הגשמתי</l>
+          <l>לא במזלות לא בכוכבים</l>
+          <l>רק בך האל בטחתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בפי תפילה אשא ברכה</l>
+          <l>שמור עלי מיסורי</l>
+          <l>רק תן לי אור ושלח מזור</l>
+          <l>האר לי את החשיכה</l>
+          <l>רק תן לי אות לעוד תקוות</l>
+          <l>שעוד אראה האור בקצה המנהרה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>החיים כמי נהר זורמים</l>
+          <l>חלומות עוד לא הגשמתי</l>
+          <l>זולגות עיניי כמפלים</l>
+          <l>בתפילה לך קראתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בפי תפילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

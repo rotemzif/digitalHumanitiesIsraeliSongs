@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>החברה הכי טובה</title>
+        <singer classification="unknown">יניב ניסני</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>החברה הכי טובה</head>
+        <lg number="1" type="stanza">
+          <l>אני רואה אותך בוכה</l>
+          <l>על אהבה שאסורה</l>
+          <l>אני מבין אותך ילדה</l>
+          <l>ואת כל מה שקרה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את ראית את אהובך</l>
+          <l>עם חברה שלך הולך</l>
+          <l>יד ביד מחובקים</l>
+          <l>מתנשקים מול הגלים</l>
+          <l>את ראית את אהובך</l>
+          <l>עם חברה שלך הולך</l>
+          <l>ידי ביד מחובקים </l>
+          <l>מתנשקים מול הגלים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>החברה הכי טובה </l>
+          <l>פגעה לך בנשמה </l>
+          <l>החברה הכי טובה </l>
+          <l>הרבה לך תאהבה</l>
+          <l>החברה הכי טובה</l>
+          <l>כבר לא חברה</l>
+          <l>כי עם אהובך היא עשתה</l>
+          <l>אהבה אסורה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את ראית את אהובך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את נתת לה את הלב</l>
+          <l>והיא החזירה לך כאב</l>
+          <l>את נתת לו אהבה</l>
+          <l>והוא החזיר לך אכזבה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>את ראית את אהובך...</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>החברה הכי טובה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

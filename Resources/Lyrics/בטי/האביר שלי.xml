@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האביר שלי</title>
+        <singer classification="unknown">בטי</singer>
+        <writer>בטי</writer>
+        <composer>בטי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האביר שלי</head>
+        <lg number="1" type="stanza">
+          <l>לא, הוא לא האביר שלי</l>
+          <l>שיציל אותי</l>
+          <l>הוא לא יבנה חומות ענק סביבי</l>
+          <l>מוטב, מוטב לחתוך עכשיו </l>
+          <l>לפני שזה יכאב יותר</l>
+          <l>ידקור כמו סכין בגב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ראשי אינו בעננים </l>
+          <l>יודעת איך ומה,</l>
+          <l>מתי זה לא מתאים.</l>
+          <l>אבל אם יבוא </l>
+          <l>ובאוזני סודות ילחש</l>
+          <l>אשקול את זה מחדש.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הוא לא נראה לי מאוהב</l>
+          <l>אני היא זאת שמתקשרת כל הזמן אליו</l>
+          <l>תמיד אחרי שהוא בא במפתיע </l>
+          <l>לוקח,</l>
+          <l>הוא מבטיח שישוב</l>
+          <l>אבל "חייב לרוץ עכשיו"</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ראשי אינו בעננים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נכון, אינני נסיכה</l>
+          <l>ובידי אין שרביט, </l>
+          <l>אין גם ממלכה.</l>
+          <l>אך יש לי לב גדול לאהבה</l>
+          <l>לאותו אחד שיישאר למענה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

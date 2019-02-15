@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תל אביב בחורף</title>
+        <singer classification="female singer">גלי עטרי</singer>
+        <writer>איילה אשרוב</writer>
+        <composer>איילה אשרוב</composer>
+        <album>חבק אותי לאט</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תל אביב בחורף</head>
+        <lg number="1" type="stanza">
+          <l>תל אביב בחורף בתוך שמיכה</l>
+          <l>אני לא אהיה שם לבכות איתה</l>
+          <l>והגשם יבוא והגשם ירד</l>
+          <l>ואני רחוקה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גשמים יציפו לה את הרחובות</l>
+          <l>חסר לי אותך תמיד בלילות</l>
+          <l>והרוח תישוב והגשם ירד</l>
+          <l>ואני רחוקה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כל כך רחוק</l>
+          <l>והלוואי והייתי ציפור עכשיו</l>
+          <l>כל כך רחוק</l>
+          <l>והלוואי והייתי מטוס עכשיו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אתה פותח עוד מכתב שלי</l>
+          <l>ושמש שוקעת בצד השני</l>
+          <l>ושוב כאן קר ומאוחר</l>
+          <l>ואני רחוקה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תל אביב בחורף זה ריח מוכר</l>
+          <l>נמאס לי לבכות ברחוב הזר</l>
+          <l>רק אל תשאל אז למה נסעת מכאן</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כל כך רחוק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

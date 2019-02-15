@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קורים דברים</title>
+        <singer classification="female singer">קורין אלאל</singer>
+        <writer>אגי משעול</writer>
+        <composer>missing</composer>
+        <album>פשוט כל כך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קורים דברים</head>
+        <lg number="1" type="stanza">
+          <l>זה לא שלא קורים</l>
+          <l>דברים</l>
+          <l>בבוקר טבע גמל שלמה</l>
+          <l>בפלמוליב</l>
+          <l>זה לא שלא קורים</l>
+          <l>דברים</l>
+          <l>שניים סינים עם טורייה</l>
+          <l>דפקו בדלת</l>
+          <l>חיפשו עבודה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קורים, קורים</l>
+          <l>דברים</l>
+          <l>וגם אני</l>
+          <l>קורה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה לא שלא קורים דברים</l>
+          <l>פעם שרתי כמו ציפור</l>
+          <l>עכשיו אני עוסק זעיר</l>
+          <l>פטור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קורים, קורים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מאזינה לטוקטה ופוגה</l>
+          <l>מהסלולרי</l>
+          <l>ועורב צועק עלי</l>
+          <l>סרק</l>
+          <l>שמברווז לי את העור</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>קורים, קורים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

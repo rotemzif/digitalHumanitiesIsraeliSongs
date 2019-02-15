@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תוכי באר</title>
+        <singer classification="male singer">מיקי גבריאלוב</singer>
+        <writer>מיכל גבריאלוב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תוכי באר</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>רפש אין אף נפש</l>
+          <l>שלושים וחמש מעלות</l>
+          <l>מתחת לאפס בחוצות העיר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שקט זבובים במרפסת</l>
+          <l>ושמש מכה במשקפי השמש</l>
+          <l>מגרד את האין זקן שלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז מה את עומדת בתוך בר מאיר?</l>
+          <l>ומה את אומרת לי?</l>
+          <l>שם בתוכי נמצא התוכי שלי</l>
+          <l>שרוצה לדקלם לך שיר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נשף יש רק רשף</l>
+          <l>שירים מהעבר הרחוק</l>
+          <l>מתנתקים פה נורים מהאקדח שלי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>קצף אין שום קצף</l>
+          <l>בין המלחמות בהגדרה עצמית</l>
+          <l>שכתובות על הקיר האחורי</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אז מה את...</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>רפש אין אף נפש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

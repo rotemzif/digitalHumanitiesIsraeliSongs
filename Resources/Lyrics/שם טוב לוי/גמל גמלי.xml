@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גמל גמלי</title>
+        <singer classification="male singer">שם טוב לוי</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גמל גמלי</head>
+        <lg number="1" type="stanza">
+          <l>גמל גמלי</l>
+          <l>זה רק אתה ואני</l>
+          <l>והמדבר הגדול</l>
+          <l>רחוק הים הכחול</l>
+          <l>אללי לי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גמל גמלי</l>
+          <l>אני כל כך לבדי</l>
+          <l>ושמש רוח וחול</l>
+          <l>רחוק הים הכחול</l>
+          <l>אללי לי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אומרים שמעבר להר</l>
+          <l>יש שם ארץ טובה</l>
+          <l>יש שם מים זכים</l>
+          <l>גם שדות ירוקים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כן מעבר להר</l>
+          <l>יש שם ארץ טובה</l>
+          <l>יש שם מים זכים</l>
+          <l>גם שדות ירוקים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רסיסי חום</title>
+        <singer classification="female singer">טל וייס</singer>
+        <writer>ניר חוטר ישי</writer>
+        <composer>טל וייס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רסיסי חום</head>
+        <lg number="1" type="stanza">
+          <l>שוב השקט</l>
+          <l>לא פתור</l>
+          <l>כמעט אף פעם</l>
+          <l>לא מתקדם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רסיסי חום</l>
+          <l>את מי אני שונאת היום?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכשיו הערפל אצלי בראש</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

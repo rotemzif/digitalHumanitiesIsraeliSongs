@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלך של ממש</title>
+        <singer classification="unknown">שגיא אייטלברג</singer>
+        <writer>אופיר שמחי</writer>
+        <composer>תומר מתנה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלך של ממש</head>
+        <lg number="1" type="stanza">
+          <l>זה בא לי מהלב טבע התערב</l>
+          <l>היום אני נוגע בשמיים</l>
+          <l>ברגע אמיתי את מקודשת לי</l>
+          <l>חיכיתי לך מרגע שנולדתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היכן היית חיפשתי כל חיי</l>
+          <l>חשבתי שראיתי כבר הכל היה לי די</l>
+          <l>את מגלה לי עוד עולם חדש</l>
+          <l>איתך אני מרגיש היום כמו מלך של ממש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רועד ומתרגש בוערת בי האש</l>
+          <l>נשבע לנצח מול עינייך</l>
+          <l>זה רגע שקורה רק פעם לא יותר</l>
+          <l>חיי הם מתמזגים בתוך חייך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היכן היית חיפשתי כל חיי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

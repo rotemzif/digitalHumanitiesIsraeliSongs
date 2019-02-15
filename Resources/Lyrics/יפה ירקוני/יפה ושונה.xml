@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יפה ושונה</title>
+        <singer classification="female singer">יפה ירקוני</singer>
+        <writer>דידי מנוסי</writer>
+        <composer>עוזי אסנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יפה ושונה</head>
+        <lg number="1" type="stanza">
+          <l>בסוף הים קיים החוף</l>
+          <l>בסוף החוף מתחיל הנוף</l>
+          <l>סוף מעשה במחשבה</l>
+          <l>וסוף האכזבה תקוה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בסוף הלילה בא היום</l>
+          <l>בסוף המלחמות שלום</l>
+          <l>בסוף המנהרה זיק אש</l>
+          <l>בסוף הדרך בית יש.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ארץ ארץ ישנה</l>
+          <l>ארץ של שבעת צבעי הקשת</l>
+          <l>כל עונה שבשנה</l>
+          <l>ארץ זו מתחדשת.</l>
+          <l>ארץ ארץ ישנה</l>
+          <l>ארץ של שבעת צבעי הקשת</l>
+          <l>כל עונה שבשנה</l>
+          <l>היא יפה ושונה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בסוף החורף בא אביב</l>
+          <l>מרבד של ירק מסביב</l>
+          <l>עולם פורח וחביב</l>
+          <l>צוחק הילד אל אביו.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ושלל ריחות נהדרים</l>
+          <l>של פרדסים והדרים</l>
+          <l>פורץ כל דרך חסומה</l>
+          <l>וטוב עושה על הנשמה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ארץ ארץ ישנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

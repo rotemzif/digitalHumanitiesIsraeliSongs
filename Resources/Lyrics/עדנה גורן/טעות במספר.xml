@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טעות במספר</title>
+        <singer classification="female singer">עדנה גורן</singer>
+        <writer>חיים חפר</writer>
+        <composer>יואל שר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טעות במספר</head>
+        <lg number="1" type="stanza">
+          <l>עוד כשהייתי בך מאוהבת</l>
+          <l>ולבבי מול פניך נשבר </l>
+          <l>כבר אז הרגשתי טעיתי בכתובת </l>
+          <l>כבר אז לחשתי טעות במספר </l>
+          <l>איזה מספר אז היית חביבי </l>
+          <l>אז שחזרת בבוקר הקר</l>
+          <l>בלי הגרביים אבל עם אליבי </l>
+          <l>וכתובת ליפסטיק על הצוואר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהה.. טעות במספר </l>
+          <l>אהה.. טעות במספר </l>
+          <l>מן השמיים עלי נגזר </l>
+          <l>תמיד לחיות עם טעות במספר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תמיד שוכחת מספר בבית </l>
+          <l>ולא זוכרת היכן אתה גר </l>
+          <l>אין לי מזל ולוטו או פיס </l>
+          <l>כי לי תמיד יש טעות במספר </l>
+          <l>ואם אני שוב אותך מחפשת </l>
+          <l>בטלפון הוא אינו מחובר </l>
+          <l>אך האחרת שם באפרכסת </l>
+          <l>אליי אומרת טעות במספר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהה.. טעות במספר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

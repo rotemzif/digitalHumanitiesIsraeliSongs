@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בת הלילה</title>
+        <singer classification="unknown">דורון מירן</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בת הלילה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>מאוהב בך עד למעלה</l>
+          <l>ורוצה אותך הלילה</l>
+          <l>כי אחרת אין לי מלבדך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מהבוקר איך שקמה</l>
+          <l>לא שואלת מה ולמה,</l>
+          <l>לא יודעת מה קורה לך</l>
+          <l>ולמה את נמצאת בעולמך.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מאוהב בך...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אך בערב מתעוררת</l>
+          <l>לחיים ומאושרת.</l>
+          <l>את יפה וזוהרת</l>
+          <l>כי הלילה בא.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מאוהב בך...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>בת-הלילה את וזהו שמך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

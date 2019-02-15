@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני לא יכול בלעדייך</title>
+        <singer classification="male singer">צביקה פיק</singer>
+        <writer>מקס גת מור</writer>
+        <composer>missing</composer>
+        <album>האוסף המשולש</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני לא יכול בלעדייך</head>
+        <lg number="1" type="stanza">
+          <l>את יכולה להגיד לי</l>
+          <l>שזה לא משנה</l>
+          <l>שהזמן לא עובר</l>
+          <l>שאני לא בוכה</l>
+          <l>אל תגידי שאת</l>
+          <l>לא אוהבת אותי,</l>
+          <l>את יכולה לבכות</l>
+          <l>להסתובב אל הכר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לגעת ברגע</l>
+          <l>בזמן שנשבר</l>
+          <l>אל תגידי שלא</l>
+          <l>נהיה פה מחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את יכולה להגיד לי</l>
+          <l>שהלילה נגמר</l>
+          <l>שצריך כבר ללכת</l>
+          <l>נהיה מאוחר</l>
+          <l>אל תגידי שאת</l>
+          <l>לא רוצה אותי</l>
+          <l>את יכולה לברוח</l>
+          <l>ללכת כשקר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לגעת ברגע</l>
+          <l>בזמן שנשבר</l>
+          <l>אל תגידי שלא</l>
+          <l>נהיה פה מחר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני לא</l>
+          <l>אני לא</l>
+          <l>אני לא</l>
+          <l>יכול בלעדייך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שעמום</title>
+        <singer classification="band">תיסלם</singer>
+        <writer>יאיר ניצני</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שעמום</head>
+        <lg number="1" type="stanza">
+          <l>שעמום שעמום לא עושה כלום</l>
+          <l>מוקף מכשירים, אין סימני חיים</l>
+          <l>מסכים מרצדים בחדות גבוהה</l>
+          <l>החושים עמומים, הראות נמוכה</l>
+          <l>רצף של קודים, אותיות ומספרים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אצבעות נרדמות, הרגליים קרות</l>
+          <l>שמש של אור שחור ועצוב</l>
+          <l>איך לבחור בלב שלם</l>
+          <l>ולרצות עוד משהו חשוב</l>
+          <l>לעוד רגע בזמן שיותר לא ישוב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כמה יפה, כמה מוזר</l>
+          <l>גם אמיתי וגם מצוייר</l>
+          <l>טס במרחב, כתם של אור</l>
+          <l>היא בלבן ואני הגיבור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שעמום שעמום לא עושה כלום</l>
+          <l>מנגן בלי השראה, לא מצליח לקום</l>
+          <l>איך את עוד רוצה אותי</l>
+          <l>אני בקושי מוצא את עצמי</l>
+          <l>מאבד שליטה מתנחם לבדי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כמה יפה, כמה מוזר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

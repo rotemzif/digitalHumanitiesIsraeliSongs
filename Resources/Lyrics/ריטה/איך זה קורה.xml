@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך זה קורה 3</title>
+        <singer classification="female singer">ריטה</singer>
+        <writer>ריטה</writer>
+        <composer>missing</composer>
+        <album>רמזים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך זה קורה</head>
+        <lg number="1" type="stanza">
+          <l>איך זה קורה?</l>
+          <l>בין שניים שונים כל כך</l>
+          <l>שבאים ממקומות רחוקים כל כך</l>
+          <l>איך זה קורה?</l>
+          <l>העולם שלי בשלך</l>
+          <l>השמחה שלך בשלי</l>
+          <l>איך זה קורה?</l>
+          <l>הנשימות, היאוש, התקוות. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין נקודה שממנה אתה מתחיל</l>
+          <l>אין נקודה שממנה אני נגמרת. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא יודעת, אם באה או הולכת או מובילה</l>
+          <l>מובלת, חולמת או ערה</l>
+          <l>אבודה או שמוצאת את שביקשתי כל חיי</l>
+          <l>את שביקשתי כל חיי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איך זה קורה?</l>
+          <l>בין שניים שונים כל כך</l>
+          <l>שבאים ממקומות רחוקים כל כך</l>
+          <l>איך זה קורה?</l>
+          <l>החלום שלך הוא שלי</l>
+          <l>המשאלות שלי הן שלך. </l>
+          <l>איך זה קורה?</l>
+          <l>התמונות, הילדות, הכאב.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אין נקודה שממנה אתה מתחיל</l>
+          <l>אין נקודה שממנה אני נגמרת.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לא יודעת, אם באה או הולכת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

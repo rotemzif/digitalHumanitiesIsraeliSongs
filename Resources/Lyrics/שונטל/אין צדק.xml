@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין צדק 3</title>
+        <singer classification="female singer">שונטל</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין צדק</head>
+        <lg number="1" type="stanza">
+          <l>אין צדק בחיים איזה מן עולם</l>
+          <l>קשה לי להבין איפה האמת</l>
+          <l>האושר לפעמים בא ונעלם</l>
+          <l>רק אלוהים יכול לקחת ולתת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ידעתי בחיים עצב ודמעות</l>
+          <l>איבדתי חבר והלב נשבר</l>
+          <l>הייתי עצובה בכיתי בלילות</l>
+          <l>ובתוכי נשאר הכאב המר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אוי אלוהים מה טוב שמע את תפילתי</l>
+          <l>תשמור למעלה את החבר שלי</l>
+          <l>אני נשארתי כאן בעולם לבד</l>
+          <l>אך בשמיים יש עוד מלאך אחד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נשארתי לבדי כאן עם הכאב</l>
+          <l>ניסיתי בלילות לא לבכות יותר</l>
+          <l>אבל הזכרונות נשארים בלב</l>
+          <l>והכאב המר בא ונופל</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אוי אלוהים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

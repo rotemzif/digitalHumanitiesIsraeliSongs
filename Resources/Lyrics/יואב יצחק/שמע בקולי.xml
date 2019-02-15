@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמע בקולי</title>
+        <singer classification="male singer">יואב יצחק</singer>
+        <writer>אבי אוחיון</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמע בקולי</head>
+        <lg number="1" type="stanza">
+          <l>שמע בקולי אך ליבי זועק אליך</l>
+          <l>שמע בקולי גם אם אלו הם חייך</l>
+          <l>מניסיוני למד לצעוד</l>
+          <l>משגיאותיי רחק מאוד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שמע בקולי ויהיו יפות שנותייך</l>
+          <l>שמע בקולי יתרחבו כל אופקייך</l>
+          <l>אשפוך ליבי אתן הכל</l>
+          <l>למענך שלא תיפול</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פזמון:</l>
+          <l>גם אם לא נראה טובתך תמיד ארצה</l>
+          <l>וגם כשאשתוק לא אברח רק מרחוק</l>
+          <l>אתבונן בך אשגיח מרחוק</l>
+        </lg>
+        <lg number="4" type="stanza" />
+        <lg number="5" type="stanza">
+          <l>שמע בקולי לא הכל אתה יודע</l>
+          <l>שמע בקולי כי בסוף אתה קובע</l>
+          <l>חסוך מכאוב הסר כאב</l>
+          <l>כי רק אותך ליבי אוהב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>פזמון:.....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

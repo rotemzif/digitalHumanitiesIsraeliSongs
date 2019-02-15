@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השיר של מימי</title>
+        <singer classification="band">הפרויקט של עידן רייכל</singer>
+        <writer>עידן רייכל</writer>
+        <composer>עידן רייכל</composer>
+        <album>הפרויקט של עידן רייכל</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השיר של מימי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אם בלילות אני לא נרדמת</l>
+          <l>אני על הספסל שבגן</l>
+          <l>יושבת וחושבת</l>
+          <l>מתי אני אנשום אותך</l>
+          <l>איך אני אהיה שמחה</l>
+          <l>כשאני אראה אותך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם בלילות אני לא נרדמת</l>
+          <l>אני על הספסל שבגן</l>
+          <l>יושבת וחושבת</l>
+          <l>איך הוא כותב לי מכתבים</l>
+          <l>אני והוא יש לנו סודות יפים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בכל בוקר מתעוררת שמה  פרח בחלון</l>
+          <l>שלא יהיה לבד</l>
+          <l>שיאיר היום</l>
+          <l>בכל בוקר מתעוררת שמה פרח בחלון</l>
+          <l>שיחכה לך</l>
+          <l>שתבוא היום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם בלילות אני לא נרדמת</l>
+          <l>אני על הספסל שבגן</l>
+          <l>יושבת וחושבת</l>
+          <l>מתי אני אנשום אותך</l>
+          <l>איך אני אהיה שמחה</l>
+          <l>כשאני אראה אותך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

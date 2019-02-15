@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שרוף את זה</title>
+        <singer classification="male singer">ירמי קפלן</singer>
+        <writer>ירמי קפלן</writer>
+        <composer>ירמי קפלן</composer>
+        <album>ירמי קפלן והפרחים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שרוף את זה</head>
+        <lg number="1" type="stanza">
+          <l>תצטופף בפירצה שבגדר</l>
+          <l>החומר נפץ הוטמן</l>
+          <l>נפוצץ ונתקדם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יושב השמן בצד</l>
+          <l>מסית ומחייך:</l>
+          <l>תשרוף את זה.</l>
+          <l>תשרוף את זה או תעזוב את זה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה תוהה איך להינצל</l>
+          <l>כשהפחד שולט</l>
+          <l>ההגיון לא מתפקד יותר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יושב השמן בצד</l>
+          <l>מסית ומחייך:</l>
+          <l>אז תשרוף את זה.</l>
+          <l>תשרוף את זה או תעזוב את זה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

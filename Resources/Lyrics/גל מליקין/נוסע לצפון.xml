@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נוסע לצפון</title>
+        <singer classification="unknown">גל מליקין</singer>
+        <writer>גל מליקין</writer>
+        <composer>גל מליקין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נוסע לצפון</head>
+        <lg number="1" type="stanza">
+          <l>נוסע לצפון מחפש מוצא, </l>
+          <l>אני מביט מעבר לחלון. </l>
+          <l>בניינים גבוהים סביבי </l>
+          <l>והעיר כולה, זוהרת מפנסי נאון. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מסתובב בחושך, לא רואה עוד את הסוף. </l>
+          <l>האורות בלילה מקשטים את הרחוב. </l>
+          <l>ואני נוסע, לא יודע רק לאן? </l>
+          <l>איש אינו יודע אם אני הייתי כאן. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואני ממשיך ישר דרך כביש החוף. </l>
+          <l>מחפש לי יעד בחיים. </l>
+          <l>וסביבי הרים גבוהים, מסתירים את הנוף. </l>
+          <l>אין כניסה מכל הכיוונים. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מסתובב בחושך, לא רואה עוד את הסוף. </l>
+          <l>האורות בלילה מקשטים את הרחוב. </l>
+          <l>ואני נוסע, לא יודע רק לאן? </l>
+          <l>איש אינו יודע אם אני הייתי כאן.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

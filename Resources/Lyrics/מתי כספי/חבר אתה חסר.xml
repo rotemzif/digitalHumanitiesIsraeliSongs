@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חבר אתה חסר</title>
+        <singer classification="male singer">מתי כספי</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חבר אתה חסר</head>
+        <lg number="1" type="stanza">
+          <l>הערפל לא מתפזר</l>
+          <l>בזמן שעובר בעברו מתאכזר</l>
+          <l>אנחנו מחכים אינך חוזר</l>
+          <l>חבר אתה חסר </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גלגל סובב ולא עוצר</l>
+          <l>ולא לא ניגש עוד חורש בקוצר</l>
+          <l>גם החולמים לא מחייכים עוד בחצר</l>
+          <l>חבר אתה חסר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הלב ממשיך להתייסר</l>
+          <l>והד היריה באוויר מנסר</l>
+          <l>מתי שוב נשמע את רגלי המבשר?</l>
+          <l>חבר אתה חסר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בסבלנות שוב מתאזר </l>
+          <l>אבל שום דבר לא עוזר לא עוזר</l>
+          <l>תמונה מהעיתון אני עכשיו גוזר </l>
+          <l>חבר אתה חסר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הלב ממשיך להתייסר...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אתה רואה אני עוד ער</l>
+          <l>ואני אוותר וגם לא אשבר</l>
+          <l>אני נשבע בדרכך להשאר</l>
+          <l>חבר אתה חסר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

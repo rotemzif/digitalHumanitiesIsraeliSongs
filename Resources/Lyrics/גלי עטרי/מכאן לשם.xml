@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מכאן לשם</title>
+        <singer classification="female singer">גלי עטרי</singer>
+        <writer>עמיר בניון</writer>
+        <composer>עמיר בניון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מכאן לשם</head>
+        <lg number="1" type="stanza">
+          <l>דשא ירוק מאוד מאוד </l>
+          <l>והוא לא של השכן שלי </l>
+          <l>עצב מתוק מאוד מאוד </l>
+          <l>והוא לא שייך לי לא שלי </l>
+          <l>פלא גדול מאוד </l>
+          <l>והוא לא לוקח איתו אותי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מכאן לשם משם לכאן </l>
+          <l>בזמן בזמן מזמן לזמן </l>
+          <l>מכאן לשם משם לכאן.... </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פיח שחור מאוד מאוד </l>
+          <l>לא השכן הבעיר את המדורה </l>
+          <l>רעש חזק מאוד מאוד </l>
+          <l>כולם הגיעו לכאן לראות מה קרה </l>
+          <l>שמש יצאה מנרתיקה </l>
+          <l>ואני עוד מחכה לו כאן </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מכאן לשם משם לכאן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

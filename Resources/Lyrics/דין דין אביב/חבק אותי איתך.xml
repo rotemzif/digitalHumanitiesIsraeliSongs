@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חבק אותי איתך</title>
+        <singer classification="female singer">דין דין אביב</singer>
+        <writer>תמר בן חור</writer>
+        <composer>אלון יופה</composer>
+        <album>חופשיה בין עולמות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חבק אותי איתך</head>
+        <lg number="1" type="stanza">
+          <l>לא יכולה להיות איתך עכשיו</l>
+          <l>כי חזרתי בזמן למקום כה ישן</l>
+          <l>מקום ללא אור ללא תגובה</l>
+          <l>מקום שמעלה כאב ובושה</l>
+          <l>שדה קוצים שמזמן</l>
+          <l>כבר צמח בו הדשא</l>
+          <l>אך זיכרון השריפה</l>
+          <l>עולה כמקודם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נותנת לזה לעבור דרכי</l>
+          <l>לא שופטת ולא נאחזת</l>
+          <l>רואה מה היה רואה תמונה</l>
+          <l>את השוד הנורא</l>
+          <l>יודעת היום מה קרה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>חבק אותי איתך...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>והכאב הפל לחומר בערה</l>
+          <l>שממנו אתנחם</l>
+          <l>וממנו אתרומם</l>
+          <l>עולה מתוכי העוצמה עכשיו...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>חבק אותי איתך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

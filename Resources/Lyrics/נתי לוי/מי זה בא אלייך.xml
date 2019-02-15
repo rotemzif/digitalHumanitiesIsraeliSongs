@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי זה בא אלייך</title>
+        <singer classification="male singer">נתי לוי</singer>
+        <writer>נתי לוי</writer>
+        <composer>נתי לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי זה בא אלייך</head>
+        <lg number="1" type="stanza">
+          <l>מי זה בא אלייך </l>
+          <l>בחצות הליל לביתך בגנבה </l>
+          <l>מי מזג לך יין </l>
+          <l>עד כהו עינייך מלראות </l>
+          <l>מה שאת עושה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך נתת לידיים של אחר לגעת בך </l>
+          <l>איך שיקרו לך חושייך </l>
+          <l>כמו ששיקרת לי במבט </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל הזמן ידעתי </l>
+          <l>בתוכי הרגשתי </l>
+          <l>שליבך לא תמיד איתי </l>
+          <l>אך אותך אהבתי ולכן סלחתי </l>
+          <l>כעיוור עבד לליבי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך נתת לידיים של אחר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

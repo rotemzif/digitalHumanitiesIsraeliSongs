@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גן סגור</title>
+        <singer classification="male singer">גידי גוב</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>missing</composer>
+        <album>תנו לגדול בשקט</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גן סגור</head>
+        <lg number="1" type="stanza">
+          <l>אתמול בחמש אחרי הצהריים</l>
+          <l>הלכנו עם אמא למכולת</l>
+          <l>ובדרך ראינו</l>
+          <l>שהגן שלנו סגור.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הנדנדות עומדות</l>
+          <l>בין העצים הגבוהים</l>
+          <l>והפרחים</l>
+          <l>כאלה נמוכים ובלי צבעים</l>
+          <l>כי הגן שלנו סגור.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>קוביות נרדמות מסודרות בסל</l>
+          <l>ואין שם אף ילד שיבנה מהן מגדל.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אין שם אף גננת שתגיד</l>
+          <l>מה מותר ומה אסור</l>
+          <l>וכל הספרים מסודרים על המדף</l>
+          <l>כי אין מי שישמע סיפור.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>קוביות נרדמות מסודרות בסל</l>
+          <l>ואין שם אף ילד שיבנה מהן מגדל.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>הנדנדות עומדות בין העצים הגבוהים</l>
+          <l>והפרחים כאלה נמוכים ובלי צבעים.</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אתמול בחמש אחר הצהרים הלכנו עם אמא למכולת</l>
+          <l>ובדרך ראינו שהגן שלנו סגור.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אולי בוודאי</title>
+        <singer classification="unknown">סול 8</singer>
+        <writer>סול</writer>
+        <composer>סול</composer>
+        <album>מגיעה משם</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אולי בוודאי</head>
+        <lg number="1" type="stanza">
+          <l>שיריי הפכו לאבן</l>
+          <l>וימיי לרוח המדבר</l>
+          <l>שילבו את צעדיך</l>
+          <l>ואת לבך, לבך העקר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לילותיי הפכו לקרח</l>
+          <l>ומימיי לאש צורבת</l>
+          <l>שתכבה בגופך</l>
+          <l>ובלבך, לבך העקר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם רק קולי יגיע עד אליך</l>
+          <l>אם רק תשמע את רחש האש</l>
+          <l>עבורך אלו רק מילים ממני</l>
+          <l>אך זה כל שאבקש</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בקרים קרים ביקרוני</l>
+          <l>עד שאתמכר לייאוש</l>
+          <l>לריח הזרות שתטווה בי</l>
+          <l>לחפש ולחפש</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם רק קולי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

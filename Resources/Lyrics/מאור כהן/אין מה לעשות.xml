@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין מה לעשות</title>
+        <singer classification="male singer">מאור כהן</singer>
+        <writer>מאור כהן</writer>
+        <composer>מאור כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין מה לעשות</head>
+        <lg number="1" type="stanza">
+          <l>רוצה ללמוד עוד פעם גיטרה </l>
+          <l>לקבל יבלות באצבעות </l>
+          <l>תן לשמוע לראשונה ת' ביטלס </l>
+          <l>בלי להבין את המשמעויות </l>
+          <l>רוצה לראות בראשונה את רמבו </l>
+          <l>ולשאול האם זה אמיתי </l>
+          <l>רק עוד פעם להתרגש מטעם </l>
+          <l>של חטיף מהדיוטי פרי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין מה לעשות </l>
+          <l>לשבת לחכות </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רוצה לרדת לאילת בטרמפים </l>
+          <l>לקרוא לזה חופש אמיתי </l>
+          <l>להאמין שכל מה שרציתי </l>
+          <l>קרה ממשאלת ליבי </l>
+          <l>את הפגישה הראשונה שלנו </l>
+          <l>להתרגש לשאול אותך לשמך </l>
+          <l>כי עכשיו פתאום הכל עולה לי </l>
+          <l>כשאני רואה אותך צוחק </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין מה לעשות </l>
+          <l>לשבת לחכות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

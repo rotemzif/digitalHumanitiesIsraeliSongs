@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלום אישה</title>
+        <singer classification="male singer">עמיר בניון</singer>
+        <writer>עמיר בניון</writer>
+        <composer>אסף אטדגי</composer>
+        <album>ניצחת איתי הכל</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלום אישה</head>
+        <lg number="1" type="stanza">
+          <l>שלום אישה,</l>
+          <l>זה אני שכותב לך,</l>
+          <l>מילים שלא אומרות</l>
+          <l>שלא חוצבות את החומה שנבנתה סביבי מכבר..</l>
+          <l>תוהה מה איתך ואיך את מסתדרת בלעדי</l>
+          <l>ואם יש עוד געגוע ואם את קצת חשבת עלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא מכתב של אהבה כותב,</l>
+          <l>הכל עכשיו הרבה פחות כואב</l>
+          <l>רק תמונה שלנו יחד מנציחה בי את הפחד</l>
+          <l>מעצמי... מעצמי...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שלום אישה,</l>
+          <l>זה אני שכותב לך,</l>
+          <l>כתמים של דמעות</l>
+          <l>שיבשו ככתמי יין על שמלת כלולותייך</l>
+          <l>רוצה שתדעי לא טעינו</l>
+          <l>גם אם נדמה שנכשלנו</l>
+          <l>שומר רק את הטוב והשאר נגזר עלינו...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא מכתב של אהבה כותב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

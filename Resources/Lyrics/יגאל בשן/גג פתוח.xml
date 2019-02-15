@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גג פתוח</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גג פתוח</head>
+        <lg number="1" type="stanza">
+          <l>עם השמש על השכם</l>
+          <l>מחפש לי גג ולחם</l>
+          <l>ומיטה עד הבוקר הבא</l>
+          <l>על אם הדרך</l>
+          <l>אין לי כתובת, אין לי יעד</l>
+          <l>רק הרוח צעד צעד</l>
+          <l>בדרכי לעולם נקבר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בלילות לפעמים אני עוד מוצא מקום</l>
+          <l>בלילות כהים כל חלון מואר</l>
+          <l>מושך אותי בחום, הלאה</l>
+          <l>לפעמים אני מוצא שלווה</l>
+          <l>שעה אחת קרובה</l>
+          <l>כמו אהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל הקיץ זה בטוח</l>
+          <l>השמיים גג פתוח</l>
+          <l>ואני משנה כיוונים עד אור הבוקר</l>
+          <l>שוב השמש בי נוגע</l>
+          <l>ואני עוד לא יודע</l>
+          <l>כמו אתמול כמו לפני שנים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בלילות לפעמים אני עוד מוצא מקום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

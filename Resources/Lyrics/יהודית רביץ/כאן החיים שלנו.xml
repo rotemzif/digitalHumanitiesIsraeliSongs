@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כאן החיים שלנו</title>
+        <singer classification="female singer">יהודית רביץ</singer>
+        <writer>צרויה להב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כאן החיים שלנו</head>
+        <lg number="1" type="stanza">
+          <l>עזוב את זה כבר מאוחר</l>
+          <l>כאן החיים שלנו</l>
+          <l>אם לא נעיר את השדים משלוותם</l>
+          <l>הם לא יציקו לנו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ורק חבק אותי</l>
+          <l>ואאסוף אותך אלי</l>
+          <l>עכשיו כל עוד הרגש חי</l>
+          <l>הנה הרגש חי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא התאפרתי לכבודך</l>
+          <l>להיות יפה הערב</l>
+          <l>ולמה אני פה ובשביל מה</l>
+          <l>אצה יודע כבר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ורק חבק אותי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואיך לחיות עם הריחוק</l>
+          <l>ואיך להתקרב בחזרה</l>
+          <l>אני לא בטוחה בך אף פעם</l>
+          <l>וזה מה שמשאיר אותי ערה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ורק חבק אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

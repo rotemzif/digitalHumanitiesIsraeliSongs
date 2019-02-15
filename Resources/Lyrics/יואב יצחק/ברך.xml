@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ברך 14</title>
+        <singer classification="male singer">יואב יצחק</singer>
+        <writer>עינת הולנדר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ברך</head>
+        <lg number="1" type="stanza">
+          <l>האיר עליך בוקר?</l>
+          <l>ברך על זה</l>
+          <l>נשאו אותך רגליך?</l>
+          <l>ברך על זה</l>
+          <l>החופש בידך?</l>
+          <l>ברך על זה</l>
+          <l>ידעת אהבה?</l>
+          <l>ברך על זה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ברך, ברך על כל הטוב</l>
+          <l>על מה שלא מובן מאליו</l>
+          <l>ברך, ברך בלי סוף</l>
+          <l>כי הכל בא מידיו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קורת גג מעליך?</l>
+          <l>ברך על זה</l>
+          <l>ולא ריקים כיסיך?</l>
+          <l>ברך על זה</l>
+          <l>ידיד יש לצדך?</l>
+          <l>ברך על זה</l>
+          <l>השם אוהב אותך</l>
+          <l>ברך על זה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ברך, ברך על כל הטוב</l>
+          <l>על מה שלא מובן מאליו</l>
+          <l>ברך, ברך בלי סוף</l>
+          <l>כי הכל בא מידיו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

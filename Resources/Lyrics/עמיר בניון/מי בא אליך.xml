@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי בא אליך</title>
+        <singer classification="male singer">עמיר בניון</singer>
+        <writer>עמיר בניון</writer>
+        <composer>עמיר בניון</composer>
+        <album>ניצחת איתי הכל</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי בא אליך</head>
+        <lg number="1" type="stanza">
+          <l>מי בא אליך</l>
+          <l>כשכבדות רגליך מלזוז</l>
+          <l>המוח עף ואין עוד גוף</l>
+          <l>נמצא איתך לאורך הטיסה</l>
+          <l>עד לקריסה..</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מי בא אליך</l>
+          <l>כשעייפו עיניך מלראות</l>
+          <l>כל כך הרבה צבעים ותחפושות</l>
+          <l>אתה צריך איזה עיקר,</l>
+          <l>לאט אתה נשבר..</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עד אליך כשגיחוך כתוב על הפנים</l>
+          <l>נמהל בחייך, חופרים בקברים ישנים</l>
+          <l>היכן שישנים, ומושך אותך לשם, לשם...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מי בא אליך,</l>
+          <l>כשקשה לך לנשום</l>
+          <l>כשאתה גם מציאות וגם חלום</l>
+          <l>לא מרשה להתעורר</l>
+          <l>נותן לך לישון...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עד אליך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

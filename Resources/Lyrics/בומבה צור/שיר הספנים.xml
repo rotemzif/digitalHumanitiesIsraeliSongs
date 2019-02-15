@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הספנים</title>
+        <singer classification="male singer">בומבה צור</singer>
+        <writer>נתן אלתרמן</writer>
+        <composer>יוסי גולנד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הספנים</head>
+        <lg number="1" type="stanza">
+          <l>באוניה קוראים לי דוב המים</l>
+          <l>הספנים זה חומר מיוחד</l>
+          <l>גם בלכתנו יחד שנים שנים</l>
+          <l>אנחנו בחורים אחד אחד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מסאן מלו, הונג קונג ויוקהמה</l>
+          <l>את המדים הצגנו - אדוני</l>
+          <l>על החזה מה מצוייר? - מריימה</l>
+          <l>ומעליה דגל ציוני</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואם עוד בין מריימה והדגל</l>
+          <l>אתה מוסיף ציור של חץ עם לב</l>
+          <l>זה כבר קבוע, זה נשאר בתקן</l>
+          <l>זה לא נמחק וגם לא מתקלף</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הספנים זה שבט ממולח</l>
+          <l>את הספן הרוח לא יקח</l>
+          <l>ולא יקחו אותו חזיז ורעם</l>
+          <l>הו.... שירי נא ורוני נא</l>
+          <l>הרמוניקה, הרמוניקה</l>
+          <l>והבי את הזמר עוד הפעם</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>התגלגלי אלי כמו תפוח</l>
+          <l>מדוע את עומדת מרחוק</l>
+          <l>אמנם על פני הים אני מלוח</l>
+          <l>אבל ביבשה אני מתוק</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ישנן מלים כמו נמל הבית</l>
+          <l>חופשת מולדת ועוד מילים שונות</l>
+          <l>וציונות אומרים זה שמן זית</l>
+          <l>לא, לא נכון, זה שמן מכונות</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>הספנים זה שבט ממולח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

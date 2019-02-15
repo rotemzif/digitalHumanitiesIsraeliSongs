@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר מתנה</title>
+        <singer classification="unknown">צוות בלי סודות</singer>
+        <writer>אילנה לופט</writer>
+        <composer>שלמה יידוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר מתנה</head>
+        <lg number="1" type="stanza">
+          <l>ישר מהלב מתנה</l>
+          <l>אבל אין לי היום יום הולדת</l>
+          <l>אז מה, הבאתי לך מתנה</l>
+          <l>ככה סתם בלי סיבה מיוחדת.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה אפשר להביא? כל דבר:</l>
+          <l>אבן, גלגל או עלה שנשר</l>
+          <l>שבלול, שרוך ישן, מקל שנשבר</l>
+          <l>בשבילי? תודה זה נהדר!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם יש לך תמונה, אתן לך מסגרת</l>
+          <l>אם יש לך עיפרון, אתן לך מחברת</l>
+          <l>ואם אתה רעב, אתן לך תפוח</l>
+          <l>ואם אתה עייף, הנה ספסל לנוח.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה אפשר להביא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

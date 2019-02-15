@@ -1,0 +1,37 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שם אל חי</title>
+        <singer classification="unknown">יששכר משה</singer>
+        <writer>רבי שלום שבזי</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שם אל חי</head>
+        <lg number="1" type="stanza">
+          <l>שם אל חי יהיה בעזרנו</l>
+          <l>ויקבץ את כל נדחנו</l>
+          <l>נקומה נעלה לארצנו</l>
+          <l>ויבנה מקדש בחיינו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא זוכרת איזה חורף</title>
+        <singer classification="female singer">לאה שבת</singer>
+        <writer>לאה שבת</writer>
+        <composer>לאה שבת</composer>
+        <album>כל השירים - אוסף</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא זוכרת איזה חורף</head>
+        <lg number="1" type="stanza">
+          <l>לא זוכרת איזה חורף</l>
+          <l>היה יותר קר</l>
+          <l>מה היה בקיץ שעבר</l>
+          <l>אני רואה את האור</l>
+          <l>הוא מחליף את עצמו</l>
+          <l>בטלפון הציבורי מחייגת</l>
+          <l>לא אליך</l>
+          <l>אפילו שאני בודדה</l>
+          <l>יש סדק בסימן השאלה</l>
+          <l>רגש בהקפאה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ריח עשן</l>
+          <l>בא מהאפלה</l>
+          <l>יש סדק וסימן שאלה</l>
+          <l>יש דאגה</l>
+          <l>אם זה ימשך יותר מדי</l>
+          <l>אם נאבד שיווי משקל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זמן ללכת לישון</l>
+          <l>כוכבים בשמיים</l>
+          <l>ברחובות אנשים עייפים</l>
+          <l>את החורף הזה אזכור</l>
+          <l>הגשם לא ישטוף את הכל לא לא...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ריח עשן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דבקה אוריה</title>
+        <singer classification="male singer">דקלון</singer>
+        <writer>נחמיה שרעבי</writer>
+        <composer>נחמיה שרעבי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דבקה אוריה</head>
+        <lg number="1" type="stanza">
+          <l>יפתי דלגי נא</l>
+          <l>כי בן חיל בא מנגד</l>
+          <l>לו כבוד הועידי</l>
+          <l>לאביר באבירים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>על גב סוס אדמון</l>
+          <l>זקוף איתן דוהר העלם -</l>
+          <l>את ידך הושיטי</l>
+          <l>עת אותך ישא ירים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הן יום דודים לך, יונתי קומי עורי</l>
+          <l>אליו תדבקי ופרחת כשושנה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

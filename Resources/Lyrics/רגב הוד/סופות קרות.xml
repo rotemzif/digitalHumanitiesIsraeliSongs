@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סופות קרות</title>
+        <singer classification="male singer">רגב הוד</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>עופר לב</composer>
+        <album>בעקבותייך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סופות קרות</head>
+        <lg number="1" type="stanza">
+          <l>עכשיו סופות קרות נושבות חזק בלי הפוגה</l>
+          <l>שתי לחייך להבות ליבך מלא תוגה</l>
+          <l>על צווארך צעיף לבן שפתייך לוחשות</l>
+          <l>את משאירה מכתב קטן והמילים קשות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תמהרי לעזוב את הבית</l>
+          <l>השמש עלי לא תזרח בלעדייך</l>
+          <l>את אהבתי והאור בעיניים</l>
+          <l>אל תמהרי לעזוב את הבית</l>
+          <l>את הבית</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכשיו הגשם לא פוסק פנס הרחוב כבה</l>
+          <l>מבט עינייך השותק צמא לאהבה</l>
+          <l>עצרי אשה את צעדך עוד רגע בשבילי</l>
+          <l>רוצה לחיות רק לצידך אהובתי שלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תמהרי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עכשיו סופות קרות נושבות חזק בלי הפוגה</l>
+          <l>שתי לחייך להבות ליבך מלא תוגה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

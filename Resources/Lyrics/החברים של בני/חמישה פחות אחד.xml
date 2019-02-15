@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חמישה פחות אחד</title>
+        <singer classification="band">החברים של בני</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חמישה פחות אחד</head>
+        <lg number="1" type="stanza">
+          <l>עוד מעט האור, האור </l>
+          <l>יפתיע לילה אין-סופי, שחור. </l>
+          <l>לאור הזה אנחנו מחכים - </l>
+          <l>לכן אנחנו כאן. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עוד מעט הזמן, הזמן </l>
+          <l>יתחיל ספירה שונה, ייתן סימן. </l>
+          <l>לזמן הזה אנחנו מחכים </l>
+          <l>לכן אנחנו כאן </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אנחנו חמישה פחות אחד </l>
+          <l>נתנו לב בלב ויד ביד. </l>
+          <l>היה לנו חבר שלא פחד - </l>
+          <l>אנחנו חמישה פחות אחד. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוד מעט השיר, השיר </l>
+          <l>יעוף מעל הים, מעל העיר. </l>
+          <l>לשיר הזה אנחנו מחכים </l>
+          <l>לכן אנחנו כאן </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אנחנו חמישה פחות אחד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

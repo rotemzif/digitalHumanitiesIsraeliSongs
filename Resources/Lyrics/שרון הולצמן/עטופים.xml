@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עטופים</title>
+        <singer classification="male singer">שרון הולצמן</singer>
+        <writer>שרון הולצמן</writer>
+        <composer>שרון הולצמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עטופים</head>
+        <lg number="1" type="stanza">
+          <l>היא שמה רגלים במים </l>
+          <l>ואני מתישב לצידה </l>
+          <l>צמרמורת נוגעת בעורף </l>
+          <l>עוברת את חוט השידרה </l>
+          <l>וממשיכה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עטופים בחיבת השמים </l>
+          <l>לא צריך לדבר על דבר מה </l>
+          <l>אם טוב לך בינתיים </l>
+          <l>למה את מוסיפה למצוא</l>
+          <l>את מה שלא נמצא </l>
+          <l>זה לא נמצא </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בתוך נוסחאות של קסם </l>
+          <l>יש חיים מלאי פשרה </l>
+          <l>זה שיאהב אותך פי שנים </l>
+          <l>אינו האחד שאת רוצה </l>
+          <l>שאת רוצה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עטופים בחיבת השמים... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היא שמה רגלים במים </l>
+          <l>ואני מתיישב לצידה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

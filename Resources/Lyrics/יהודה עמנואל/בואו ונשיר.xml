@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואו ונשיר</title>
+        <singer classification="unknown">יהודה עמנואל</singer>
+        <writer>לאה עמנואל</writer>
+        <composer>נמרוד טנא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואו ונשיר</head>
+        <lg number="1" type="stanza">
+          <l>שיר עתיק אשר ידענו מכבר</l>
+          <l>יעלה ושוב יושר</l>
+          <l>וטעמו מתוק מדבש</l>
+          <l>עתיק אבל כל יום חדש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואו ונשיר את השירים עד בלי די</l>
+          <l>כי רק לך ארצי מולדתי כל שירי</l>
+          <l>לא נותקה עוד השרשרת</l>
+          <l>השירה גוסרת והזמר שב אלי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בואו ונשיר כולנו יחדיו</l>
+          <l>כי הלב לזמר שר</l>
+          <l>והוא עולה ומתנגן</l>
+          <l>שלנו הוא כאז גם כן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בואו ונשיר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בואו נשלב רעים יד ביד</l>
+          <l>בן ובת יחדיו נצעד</l>
+          <l>נשלח השיר מעבר ים</l>
+          <l>אלי ילדי כל העולם</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בואו ונשיר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

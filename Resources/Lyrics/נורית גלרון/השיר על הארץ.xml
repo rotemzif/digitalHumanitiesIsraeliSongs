@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השיר על הארץ 2</title>
+        <singer classification="female singer">נורית גלרון</singer>
+        <writer>יהושע סובול</writer>
+        <composer>יוני רכטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השיר על הארץ</head>
+        <lg number="1" type="stanza">
+          <l>בואו נשיר את השיר המטורף של הארץ</l>
+          <l>בואו נשיר את השיר הצהוב של החול</l>
+          <l>יחפנים מתהלכים לאורכה ולרוחבה של הארץ</l>
+          <l>ועושים איתה אהבה, אנשים פורקי עול.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איפה הארץ ההיא, שקראו לה קטנטונת?</l>
+          <l>איפה אותה אהבה מגוללת בחול?</l>
+          <l>אנרכיסטים הולכים בדרכים, לעורם רק כותונת</l>
+          <l>ובוערת אש בראשם ששורפת הכל?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תנו לי לשוב אל אותה הפינה הנידחת</l>
+          <l>איפה אותם החיים עם שמחת הפשטות</l>
+          <l>תנו לי מילים עזובות, מנגינה נשכחת,</l>
+          <l>להוציא מבין הקוצים, קרעים של ילדות.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תנו לי לשיר את השיר החולה, הקודח</l>
+          <l>מאוהב וזרוק אמיתי בלי זהות וזכויות</l>
+          <l>תנו לי לחזור בדרכים החולות אהבה לירח</l>
+          <l>שוב לחזור ללכת יחף על שברי זכוכיות.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza" />
+        <lg Chorus="yes" number="6" type="stanza" />
+      </lg>
+    </body>
+  </text>
+</TEI>

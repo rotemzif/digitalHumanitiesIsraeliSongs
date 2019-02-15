@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מבקש שתשתני</title>
+        <singer classification="unknown">יוסי עדן</singer>
+        <writer>יוסי עדן</writer>
+        <composer>יוסי עדן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מבקש שתשתני</head>
+        <lg number="1" type="stanza">
+          <l>מבקש שתתשני ותהיי תמיד איתי</l>
+          <l>מראשי את לא יוצאת ילדה</l>
+          <l>כל היום אני חושב וגובר בי הכאב</l>
+          <l>את חייי אני אתן לך ילדה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אוהב אותך, חולם אותך, נושם אותך</l>
+          <l>אוהב אותך קרובה אליי,</l>
+          <l>אוהב אותך, חולם אותך, נושם אותך</l>
+          <l>אוהב אותך קרובה אליי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בלילות קשה לישון וחולפות המחשבות</l>
+          <l>רק אתמול היא שם ורגש ילדה</l>
+          <l>מסתובב ברחובות ורוצה אותך לראות</l>
+          <l>את יופייך קשה לשכוח ילדה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אוהב אותך, חולם אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

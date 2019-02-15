@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין שניה</title>
+        <singer classification="unknown">שרון זריהן</singer>
+        <writer>שרון זריהן</writer>
+        <composer>שרון זריהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין שניה</head>
+        <lg number="1" type="stanza">
+          <l>מה לחשוב שאם תלכי יקרה לי </l>
+          <l>לאן אלך עם כל הזכרונות </l>
+          <l>יודע שהייתי לא בסדר </l>
+          <l>ולפעמים פגעתי ברגשות </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל תוותרי אם גם טיפה קשה לך </l>
+          <l>בסוף קבלי את מה שרק חיפשת </l>
+          <l>תביני שאצלך נמצא הכח </l>
+          <l>וכל מה שיהיה תלוי רק בך </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואין שניה שלא מדמיין אותך איתי </l>
+          <l>שאת קרובה ואת שלי </l>
+          <l>כנראה שעוד ללב את חסרה </l>
+          <l>תגידי לי איך עוצרים את הדמעות </l>
+          <l>שיורדות מכל דבר שטותי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מי יבין אותי שאת תלכי לי </l>
+          <l>מול מי אני אמור עכשיו לבכות </l>
+          <l>כמה שבילים איבדו להם ת'דרך </l>
+          <l>בדידות כאב הרסו פה את הכל </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואין שניה שלא מדמיין אותך איתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

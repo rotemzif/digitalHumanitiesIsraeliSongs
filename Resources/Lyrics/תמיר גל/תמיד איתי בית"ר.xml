@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תמיד איתי בית ר</title>
+        <singer classification="male singer">תמיר גל</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תמיד איתי בית"ר</head>
+        <lg number="1" type="stanza">
+          <l>כשאוחנה על המגרש הקהל נרגש</l>
+          <l>כל שחקן הוא אגדה, קבוצה עם נשמה</l>
+          <l>איציק זוהר הגדול, הגדול מתכנן הכל</l>
+          <l>ואסמלם בא משמאל הנה בא עוד גול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תמיד איתי בית"ר, בית"ר את כמו אוצר</l>
+          <l>ירושלים של בית"ר דבר יקר</l>
+          <l>תמיד איתי בית"ר, בית"ר את כמו אוצר</l>
+          <l>ירושליים של בית"ר דבר יקר</l>
+          <l>בנישמתי בית"ר, בית"ר בנישמתי</l>
+          <l>בנישמתי בית"ר, בית"ר בנישמתי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>השדים הצהובים למגרש עולים</l>
+          <l>כל קבוצה הם מנצחים כי הם האלופים</l>
+          <l>רונן חרזי המהיר את הקהל מקפיץ</l>
+          <l>ושמוליק לוי הזריז, את השער הוא מפציץ.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תמיד איתי בית"ר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

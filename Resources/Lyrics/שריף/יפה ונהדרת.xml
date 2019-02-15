@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יפה ונהדרת</title>
+        <singer classification="male singer">שריף</singer>
+        <writer>יוש גרנות</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יפה ונהדרת</head>
+        <lg number="1" type="stanza">
+          <l>מהיום שאת איתי - החיים טובים</l>
+          <l>אין כמו אושר אמיתי - של זוג אוהבים</l>
+          <l>מהיום שבאת אלי - נערה יפה</l>
+          <l>את הבאת אל תוך חיי - אור ואהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את יפה ונהדרת</l>
+          <l>את ראשי את מסחררת</l>
+          <l>לא רוצה אישה אחרת</l>
+          <l>טוב לי טוב כל כך</l>
+          <l>טוב לי טוב איתך</l>
+          <l>טוב לי טוב כל כך</l>
+          <l>אני אוהב אותך</l>
+          <l>וכל חיי רק לך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את היופי והצחוק - את כל חלומי</l>
+          <l>את האושר המתוק - שבעולמי</l>
+          <l>מצחוקך היכן אני - ומבט עיני</l>
+          <l>את כבשת את לבבי - לכל החיים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את יפה ונהדרת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בזכותך 5</title>
+        <singer classification="male singer">ליאור פרחי</singer>
+        <writer>אברהם לוי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בזכותך</head>
+        <lg number="1" type="stanza">
+          <l>כמו תמיד הלכתי אל ביתך</l>
+          <l>ושוב ביקשתי את פניך</l>
+          <l>אור כוכב זוהר פותח את ליבך</l>
+          <l>חבקי אותי בשתי ידיך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אהבה זאת סיבה ניצחת</l>
+          <l>איתך את כל הדרך להמשיך</l>
+          <l>את יודעת בליבי אין פחד</l>
+          <l>איתך ענן שמיים לא יחשיך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בזכותך כל עולמי זורח</l>
+          <l>בזכותך לא אדע מכאוב</l>
+          <l>העולם איתך תמיד פורח</l>
+          <l>בואי בואי לאהוב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מילותי אספתי לכבודך</l>
+          <l>שירים הנחתי לפנייך</l>
+          <l>אלף מיתרים ינעימו חלומך</l>
+          <l>כצל הייתי אחרייך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אהבה זאת סיבה ניצחת...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בזכותך כל עולמי זורח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

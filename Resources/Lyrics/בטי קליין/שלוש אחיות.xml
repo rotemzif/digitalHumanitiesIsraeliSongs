@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלוש אחיות</title>
+        <singer classification="unknown">בטי קליין</singer>
+        <writer>עמנואל כץ</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלוש אחיות</head>
+        <lg number="1" type="stanza">
+          <l>שלוש הן בנות הפלא</l>
+          <l>לובן חלב ואודם שושן</l>
+          <l>שלוש הן בנות הפלא</l>
+          <l>מתקה אהבתן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אחת - מלך רצה בה</l>
+          <l>לובן חלב ואודם שושן</l>
+          <l>אחת - מלך רצה בה</l>
+          <l>טבעת לה נתן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אחת - שוע בחר בה</l>
+          <l>לובן חלב ואודם שושן</l>
+          <l>אחת - שוע בחר בה</l>
+          <l>ראה אותה בגן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אחת - זו תהיה לי</l>
+          <l>לובן חלב ואודם שושן</l>
+          <l>אחת - זו תהיה לי </l>
+          <l>אומללת מכולן.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

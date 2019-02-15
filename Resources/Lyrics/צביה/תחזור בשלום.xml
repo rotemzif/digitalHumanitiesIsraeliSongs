@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תחזור בשלום</title>
+        <singer classification="unknown">צביה 2</singer>
+        <writer>ישראל דיין</writer>
+        <composer>שמואל אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תחזור בשלום</head>
+        <lg number="1" type="stanza">
+          <l>נדנדה בחצר והעץ שמתמר מזכירים לי שאתה כבר גדול</l>
+          <l>הלכת לצבא  ואני מאהבה שעות ממתינה בחלון</l>
+          <l>הזמן שלי עוזב הכל הולך תמיד אתך</l>
+          <l>עתיד ורוד ארוז במזוודה ארוז למענך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שתחזור בשלום ותשמור על עצמך</l>
+          <l>גם אם הדרך ארוכה ומתישה</l>
+          <l>ותחשוב גם עלינו ילדי</l>
+          <l>כי תמיד הפרידה היא קשה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>התפילות שבלב נשלחות מכאב מחכה לדקה שתחזור</l>
+          <l>כל צלצול טלפון ומבט בשעון רוצה שהזמן יעבור</l>
+          <l>ואם אתה עכשיו בקרב רוצה להיות איתך</l>
+          <l>לכבוש בראש צבא גדול את היעד במקומך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שתחזור בשלום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

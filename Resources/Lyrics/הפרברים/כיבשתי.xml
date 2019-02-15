@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כיבשתי</title>
+        <singer classification="band">הפרברים</singer>
+        <writer>אברהם בר עוז</writer>
+        <composer>דניאל סמבורסקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כיבשתי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>הו! - הו כיבשתי </l>
+          <l>לך פתוח אוהלי</l>
+          <l>הו - הו, כיבשתי</l>
+          <l>בואי נומי לידי...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בחלילי אטה לך שירי</l>
+          <l>שיר חמודות על בת חלומי</l>
+          <l>על עין המים עם הרועים</l>
+          <l>התרפקי נא בחיקי...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הו - הו...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מתוך כדי רווי צמאונך</l>
+          <l>מים זכים כלובן צמרך</l>
+          <l>אחו ושוקת לך שוחרים</l>
+          <l>עת תמתיקי חלומך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הו - הו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

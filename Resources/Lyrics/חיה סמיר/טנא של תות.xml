@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טנא של תות</title>
+        <singer classification="female singer">חיה סמיר</singer>
+        <writer>תלמה אליגון רוז</writer>
+        <composer>תלמה אליגון רוז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טנא של תות</head>
+        <lg number="1" type="stanza">
+          <l>עם בוא הקיץ בערב קריר</l>
+          <l>צחוק ועצב נולד בי שיר</l>
+          <l>ומנגינה של סוף העונה</l>
+          <l>כמו פרח בשל מהלב התנגנה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>טנא של תות וטנא של שסק</l>
+          <l>טנא ירוק של תקוה</l>
+          <l>טנא ילדות נישא עלי שכם</l>
+          <l>טנא מפרי אהבה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני הולכת על טעם הפרי</l>
+          <l>על מתיקות אהבת נעורים</l>
+          <l>היה מן קסם אמין</l>
+          <l>התרגשות כשהוא הגיש לי מפרי עץ התות.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>טנא של תות...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עם בוא הקיץ באור אחרון</l>
+          <l>משמיע מרגוע צובט בגרון</l>
+          <l>וזה עצוב ויופי כפרי</l>
+          <l>על המרפסת נפל לו עוד פרי.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>טנא של תות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

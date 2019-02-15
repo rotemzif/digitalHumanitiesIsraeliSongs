@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל כך יפה 3</title>
+        <singer classification="male singer">ישי לוי</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>ציפי אסולין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל כך יפה</head>
+        <lg number="1" type="stanza">
+          <l>בכל יום את מסתובבת במחשוף</l>
+          <l>ומדליקה את כל החברה על החוף</l>
+          <l>יש לך גוף שמשגע את הנשמה</l>
+          <l>הוא קטלני והוא עושה בי מהומה</l>
+          <l>אם רק תגידי בוא הלילה לחדרי</l>
+          <l>את לא תפסידי טוב יהיה לך לצידי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יפה, בלעדייך לא יכול</l>
+          <l>הלב שלי, אני הולך ליפול</l>
+          <l>כל כך יפה, אתה עושה לי את היום</l>
+          <l>ותמיד את לי כמו חלום</l>
+          <l>כל כך יפה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לפעמים אני שומע סיפורים</l>
+          <l>שלצידך הופכים החברה לקטנים</l>
+          <l>גם אותי את מסובבת בלי בושה</l>
+          <l>כשהכפתור שלך פתוח בחולצה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם רק תגידי בוא הלילה לחדרי</l>
+          <l>את לא תפסידי טוב יהיה לך לצידי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יפה, בלעדייך לא יכול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

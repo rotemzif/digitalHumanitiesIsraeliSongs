@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילה שכזה</title>
+        <singer classification="unknown">תקווה אסולן</singer>
+        <writer>בובי פנחסי</writer>
+        <composer>שמואל אלון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילה שכזה</head>
+        <lg number="1" type="stanza">
+          <l>עיני צופות - לים - למרחקים הזוהרים,</l>
+          <l>לכוכבים הנוצצים וגם הבוערים,</l>
+          <l>אל מרחבי עולם - ישן בלילה השלו,</l>
+          <l>המקפץ בין אוהבים, לוחש מלב אל לב...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לילה שכזה - עטוף בניקודים</l>
+          <l>לילה שכזה - עצים - כורעים, נמים.</l>
+          <l>לילה שכזה בין שני העולמות</l>
+          <l>לילה שכזה חולמים בו אשליות...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עיני צופות אל על למרחקים הזוהרים</l>
+          <l>אני גולש בין עננים וטס בין ההרים,</l>
+          <l>אני קוטף כוכב קטן, ביד עולם שלם</l>
+          <l>אני ככול היצורים חלום יפה חולם </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לילה שכזה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

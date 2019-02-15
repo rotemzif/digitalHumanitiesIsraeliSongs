@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ימים טובים עלינו</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>יגאל בשן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ימים טובים עלינו</head>
+        <lg number="1" type="stanza">
+          <l>בתוך הרעש יש תקווה לשקט</l>
+          <l>בתוך השקט יש עוצמה של צעקה</l>
+          <l>וכשההיגיון שוב מתחלף ברגש</l>
+          <l>זו הדמעה שתקשט ת'התחלה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ימים טובים עליך</l>
+          <l>ימים טובים עלי</l>
+          <l>ימים טובים אלייך</l>
+          <l>ימים טובים אליי</l>
+          <l>ימים טובים עלינו</l>
+          <l>ימים טובים אולי</l>
+          <l>ימים טובים אלינו</l>
+          <l>ימים טובים מתי?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אפשר לדעת רק אם מסתכלים אחורה</l>
+          <l>אם זה היה שווה את גובה המחיר</l>
+          <l>כשהציפור תעוף ביחד עם ציפורה</l>
+          <l>וכשהמיית הלב תחזור שוב לסדיר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ימים טובים עליך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כשהעצבות עושה אותי פתאום שמח</l>
+          <l>והשמחה כבר לא יודעת את הגבול</l>
+          <l>לשם אני את הכאב שלי לוקח</l>
+          <l>לפני שיעצור אותי איזה מבול.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ימים טובים עליך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

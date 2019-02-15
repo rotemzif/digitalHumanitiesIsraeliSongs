@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בינת א נש</title>
+        <singer classification="male singer">שמעון בוסקילה</singer>
+        <writer>מיכאל וקנין</writer>
+        <composer>שמעון בוסקילה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בינת א נש</head>
+        <lg number="1" type="stanza">
+          <l>כשהיא יוצאת לשרוף את הכבישים</l>
+          <l>איפור עדין שמלה ועקבים</l>
+          <l>אנשים אומרים שזאת בושה</l>
+          <l>אבל אני יודע את נפשה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>צפו לה בילדות עתיד מזהיר</l>
+          <l>לפני שהיא קרעה את כל העיר</l>
+          <l>האנשים מוכים בתדהמה</l>
+          <l>אהל אני נשביתי בקיסמה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ויבנת אנש ובנת אנש</l>
+          <l>גולולי עלש כתמחן פיה</l>
+          <l>ויבנת אנש ויבנת אנש</l>
+          <l>גולולי עלש כתמחן פיה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שני ההורים אותה לא מבינים</l>
+          <l>איך היא שורפת לעצמה שנים</l>
+          <l>האנשים אומרים היא אבודה</l>
+          <l>אבל אצלי בלב היא אגדה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ויבנת אנש ובנת אנש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

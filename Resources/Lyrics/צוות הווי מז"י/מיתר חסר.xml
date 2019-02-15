@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מיתר חסר</title>
+        <singer classification="unknown">צוות הווי מז י</singer>
+        <writer>תמר פרימור</writer>
+        <composer>יאיר מילר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מיתר חסר</head>
+        <lg number="1" type="stanza">
+          <l>לכאורה, עולם כמנהגו נוהג</l>
+          <l>השמים,</l>
+          <l>הארץ,</l>
+          <l>הרוחות...</l>
+          <l>העונות מתחלפות</l>
+          <l>בצבעים וקולות</l>
+          <l>אהבות פורחות, לידות חדשות.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבל מיתר</l>
+          <l>אחד חסר - לא שר</l>
+          <l>ושיר עלי גיטאר</l>
+          <l>שיר שלא נגמר</l>
+          <l>שיר שרק נולד - נדם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לכאורה, עולם כמנהגו נוהג</l>
+          <l>השמש,</l>
+          <l>הירח,</l>
+          <l>הכוכבים...</l>
+          <l>הלילות הקרירים</l>
+          <l>הימים המאירים</l>
+          <l>מחוגי הזמן קוצבי החיים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבל מיתר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

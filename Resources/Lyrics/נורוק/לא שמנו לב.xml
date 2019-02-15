@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא שמנו לב</title>
+        <singer classification="band">נורוק</singer>
+        <writer>אמיר גבריאל</writer>
+        <composer>אמיר גבריאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא שמנו לב</head>
+        <lg number="1" type="stanza">
+          <l>בצורה שלא יוצאת מן הכלל </l>
+          <l>כשאני לא מוצא נהיה מבוהל </l>
+          <l>את לא נמצאת ולי זה איכפת </l>
+          <l>לך כל כך הרבה לי כל כך מעט </l>
+          <l>היה עוד יכול להיות לי טוב </l>
+          <l>כל שרציתי זה רגע לחשוב </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בין טוב לבין רע מסתובב לי הראש </l>
+          <l>אין לך יותר ממה לחשוש </l>
+          <l>הסוף כבר כאן איך לא שמנו לב </l>
+          <l>ואין כבר סיבה לחזור לתקן </l>
+          <l>מי הקורבן מי המסכן </l>
+          <l>מי התגבר מי עוד אוהב </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>משם עד לכאן עברנו דרך ארוכה </l>
+          <l>ואיך זה שאת עוד לא מרוצה </l>
+          <l>נפגעת התרחקת אפשר לחשוב </l>
+          <l>כל שרציתי זה רגע קרוב </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בין טוב לבין רע מסתובב לי הראש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

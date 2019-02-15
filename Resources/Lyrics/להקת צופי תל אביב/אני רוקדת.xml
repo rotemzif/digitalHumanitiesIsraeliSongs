@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני רוקדת</title>
+        <singer classification="band">להקת צופי תל אביב</singer>
+        <writer>איקה זוהר</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני רוקדת</head>
+        <lg number="1" type="stanza">
+          <l>הלילה הוא הלילה לו חיכינו</l>
+          <l>הכל עומד עכשיו להשתנות</l>
+          <l>את כל ההכנות הן כבר עשינו</l>
+          <l>וזה הזמן לגעת באורות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני חולמת נושמת ושרה כל הלילה </l>
+          <l>אני רועדת רוקדת נותנת את הכל</l>
+          <l>ורק הקצב כאן שומר על הכללים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני רוקדת אנ'לא פוחדת</l>
+          <l>החיים הם מסיבה ואני חוגגת</l>
+          <l>אני רוקדת אנ'לא לא פוחדת</l>
+          <l>זה היום היום היום היום היום שלנו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני לא רוצה לשכוח את הטעם </l>
+          <l>הזכרונות יחיו לעולמים</l>
+          <l>רוצה לשיר לכם אולי עוד פעם </l>
+          <l>מעבר לאורות ולצלילים</l>
+          <l>אני חולמת נושמת ושרה כל הלילה </l>
+          <l>אני רועדת רוקדת נותנת את הכל</l>
+          <l>ורק הקצב כאן שומר על הכללים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני רוקדת אנ'לא פוחדת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

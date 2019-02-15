@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כך אמר לי אבא</title>
+        <singer classification="male singer">חיים משה</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>אבשלום צוברה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כך אמר לי אבא</head>
+        <lg number="1" type="stanza">
+          <l>בשמיים ירח כבר מזמן נעלם </l>
+          <l>ואני עוד פוסע בלי לדעת לאן </l>
+          <l>ופתאום מהשקט קולו של אבא נשמע </l>
+          <l>תפילתו מהדהדת מעמקי הנשמה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>להמשיך לחיות, כך אמר לי אבא </l>
+          <l>להמשיך לחיות, וללכת הלאה </l>
+          <l>אך איני תופס מה קרה באמת </l>
+          <l>איך הטעם נעלם כך פתאום מהעולם </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>והלב לא שוכח הוא טבול בדמעות </l>
+          <l>מתפתל ובורח לאותם זיכרונות </l>
+          <l>חוויות מבית הכנסת, ותפילות ליל שבת </l>
+          <l>בנפשי הנרגשת תישאר נא לעד </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>להמשיך לחיות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

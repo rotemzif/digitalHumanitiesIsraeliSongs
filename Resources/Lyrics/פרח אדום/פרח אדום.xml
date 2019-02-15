@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פרח אדום</title>
+        <singer classification="unknown">פרח אדום</singer>
+        <writer>תומר כץ</writer>
+        <composer>תומר כץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פרח אדום</head>
+        <lg number="1" type="stanza">
+          <l>הדרך אליך כולה קוצים </l>
+          <l>פרח אדום פרח שלי </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל ימי כל לילותי </l>
+          <l>בשמחותי בכאבי </l>
+          <l>והכתמים והכתמים </l>
+          <l>פרח אדום פרח שלי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלכתי אליך למרות הפצעים </l>
+          <l>פרח אדום פרח שלי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל ימי כל לילותי </l>
+          <l>בשמחותי בכאבי </l>
+          <l>והכתמים והכתמים </l>
+          <l>פרח אדום פרח שלי </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כל ימי כל לילותי </l>
+          <l>בשמחותי בכאבי </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ואת כחי ואת חולשתי </l>
+          <l>פרח אדום פרח שלי </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>כל ימי כל לילותי </l>
+          <l>בשמחותי בכאבי </l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>את יודעת מה בליבי </l>
+          <l>פרח אדום פרח שלי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

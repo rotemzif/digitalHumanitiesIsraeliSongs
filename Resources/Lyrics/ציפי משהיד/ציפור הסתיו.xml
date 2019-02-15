@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ציפור הסתיו</title>
+        <singer classification="female singer">ציפי משהיד</singer>
+        <writer>רועי אלוני</writer>
+        <composer>רועי אלוני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ציפור הסתיו</head>
+        <lg number="1" type="stanza">
+          <l>אני כותבת עוד מכתב אחד</l>
+          <l>שואלת לשלומך</l>
+          <l>מקווה שעם הזמן מצאת</l>
+          <l>דרך לסליחה</l>
+          <l>אתה יודע המחר שלי</l>
+          <l>תמיד היה חידה</l>
+          <l>אם אשאל אותך עכשיו</l>
+          <l>אף פעם לא אדע </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך תאהב אותי</l>
+          <l>אני ציפור הסתיו</l>
+          <l>נודדת אל מקום שבו</l>
+          <l>יהיה לי טוב עכשיו</l>
+          <l>איך תאהב אותי</l>
+          <l>אני ציפור הסתיו</l>
+          <l>נודדת אל מקום שבו</l>
+          <l>אף פעם לא יכאב </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מאוחר עכשיו וקר בחוץ</l>
+          <l>הכתב נהיה קטן</l>
+          <l>המרחק גדול זה עוד תירוץ</l>
+          <l>לרצות חיבוק ישן</l>
+          <l>אתה יודע בדרכי שלי</l>
+          <l>אהבתי חזרה</l>
+          <l>אבל תמיד קול קורא</l>
+          <l>ואין לי כל ברירה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך תאהב אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

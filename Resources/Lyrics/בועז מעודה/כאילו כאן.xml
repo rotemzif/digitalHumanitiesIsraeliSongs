@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כאילו כאן</title>
+        <singer classification="unknown">בועז מעודה</singer>
+        <writer>דנה אינטרנשיונל</writer>
+        <composer>missing</composer>
+        <album>בועז מעודה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כאילו כאן</head>
+        <lg number="1" type="stanza">
+          <l>זה קשה, זה קשה</l>
+          <l>כשגעגוע מול ירח כאן לרגע ובורח</l>
+          <l>אחריו רודף הבכי</l>
+          <l>זה קשה, זה קשה</l>
+          <l>כשגעגוע מול ירח כאן לרגע ובורח</l>
+          <l>אחריו רודף הבכי</l>
+          <l>ואחרי הכל תמיד מגיע שיר</l>
+          <l>רגע טוב עכשיו אתה יותר קרוב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא אור כוכב</l>
+          <l>אתה עכשיו</l>
+          <l>איתי, איתי, כאילו אמיתי</l>
+          <l>כמו אז מזמן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>come along, come along</l>
+          <l>see the fire in your eyes</l>
+          <l>and you come with me, with me</l>
+          <l>לפעמים מביא הרוח ריח טוב, מוכר</l>
+          <l>מלטף, עכשיו שומע...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא אור כוכב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נפשי מייחלת לתפילת הלב החם</l>
+          <l>נפשי מייחלת לתפילת הלב החם</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לא אור כוכב</l>
+          <l>איתי, איתי, כאילו אמיתי</l>
+          <l>כמו אז מזמן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

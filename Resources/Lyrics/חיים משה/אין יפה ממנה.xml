@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין יפה ממנה</title>
+        <singer classification="male singer">חיים משה</singer>
+        <writer>שוש מולא</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין יפה ממנה</head>
+        <lg number="1" type="stanza">
+          <l>לא הבנתי שאותי היא אהבה</l>
+          <l>לא חשבתי שיופיה הוא בשבילי</l>
+          <l>כמו הקשת בשמיים היא עזבה</l>
+          <l>אין סימן, שהיא תהיה שלי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין יפה ממנה,</l>
+          <l>היא חושבת שלא </l>
+          <l>את הלב אתן לה</l>
+          <l>אם תרצה, או לא.  </l>
+          <l>אין יפה ממנה,</l>
+          <l>ואני רוצה עוד</l>
+          <l>אבל היא איננה</l>
+          <l>ולא איתי עוד.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא הרגשתי שאני אוהב אותה </l>
+          <l>לא הבנתי שהיתה לי קרן אור </l>
+          <l>אני מרים כוסית-לחיים, לכבודה </l>
+          <l>ומקווה שעוד אלי היא תחזור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין יפה ממנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

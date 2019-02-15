@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואי 144</title>
+        <singer classification="female singer">קרן הכט</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואי</head>
+        <lg number="1" type="stanza">
+          <l>נולדה לגמרי בטעות לשני הורים טיפשים </l>
+          <l>ילדה מועדת לאימוץ חיים לא מובנים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואי אף אחד לא אמר לך בואי </l>
+          <l>לא יודעת מה זה חום </l>
+          <l>ונחניאלי בחלון זייף לך שיר עצוב </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בגיל עשרים שכרה דירה </l>
+          <l>קירות בלי חלונות </l>
+          <l>בגיל שלושים שכרה חלקה בתוך בית הקברות </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בואי אף אחד לא אמר לך בואי </l>
+          <l>לא יודעת מה זה חום </l>
+          <l>ונחניאלי בחלון זייף לך שיר עצוב </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נולדה לגמרי בטעות לשני הורים טיפשים </l>
+          <l>ילדה מועדת לאימוץ חיים טיפה מתים </l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

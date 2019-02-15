@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איזה כוסית</title>
+        <singer classification="male singer">יובל פרי</singer>
+        <writer>שיקו חייק</writer>
+        <composer>שיקו חייק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איזה כוסית</head>
+        <lg number="1" type="stanza">
+          <l>מחפש אותך בלילה וביום</l>
+          <l>וכשאמצא אותך</l>
+          <l>אז נגשים יחדיו חלום</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זה חלום של נעורים</l>
+          <l>שהתחיל לפני שנים</l>
+          <l>את רצית עכשיו אפשר</l>
+          <l>כבר גדלת עכשיו מותר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איזה כוסית משגעת</l>
+          <l>את הגוף מנענעת</l>
+          <l>כשאני עלייך מסתכל</l>
+          <l>את הלב שלי אוכל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את שולחת מבטים</l>
+          <l>מטריפה לי ת'חושים</l>
+          <l>כשאת עלי מסתכלת</l>
+          <l>אותי את מתסכלת</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מה יהיה תגידי מה</l>
+          <l>מתי אפתור את החידה</l>
+          <l>אם תרצי אין זו אגדה</l>
+          <l>בואי אלי אל המיטה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>איזה כוסית משגעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

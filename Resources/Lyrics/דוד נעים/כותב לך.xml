@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כותב לך 2</title>
+        <singer classification="unknown">דוד נעים</singer>
+        <writer>דוד נעים</writer>
+        <composer>דוד נעים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כותב לך</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אני כותב לך נערה עם פנים יפות </l>
+          <l>זה היופי שרואים רק בחלומות </l>
+          <l>אני כותב לך שתדעי שהתאהבתי ואולי ארצה להיות </l>
+          <l>הגבר שיגשים לך משאלות </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אהיה אביר על סוס לבן </l>
+          <l>או מלך שמזמן , ויתר על כתר בלי אהבה </l>
+          <l>איש עני או איש עשיר שפשוט ישיר לך שיר </l>
+          <l>וירקום בחום את שברי ליבך .</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני כותב לך נערה עם פנים יפות </l>
+          <l>זה היופי שרואים רק בחלומות </l>
+          <l>אני כותב לך שתדעי שהתאהבתי ואולי ארצה להיות </l>
+          <l>הגבר שיגשים לך משאלות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

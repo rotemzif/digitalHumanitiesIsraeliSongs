@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ותלכי</title>
+        <singer classification="band">האנשים</singer>
+        <writer>דרור שוסטק</writer>
+        <composer>דרור שוסטק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ותלכי</head>
+        <lg number="1" type="stanza">
+          <l>את היופי שלך מי יתפוס, מי יתפוס את היופי</l>
+          <l>את הסכר שלך מי יפרוץ, מי יפרוץ את הסכר</l>
+          <l>את הקושי שלך מי יקח</l>
+          <l>מי יקח את הקושי</l>
+          <l>את הזרם שלך מי יצלח</l>
+          <l>מי יצלח</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ותלכי מכאן...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את השקט שלך מי ישמע</l>
+          <l>מי ישמע את השקט</l>
+          <l>את השער שלך מי יפתח מי יפתח את השער</l>
+          <l>את הקושי שלך מי יקח</l>
+          <l>מי יקח את הקושי</l>
+          <l>את הזרם שלך מי יצלח מי יצלח.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ותלכי מכאן...</l>
+          <l>הנשמה שלי קוראת לנשמה שלך</l>
+          <l>הנשמה שלי קוראת לנשמה שלך</l>
+          <l>הנשמה שלי יוצאת לנשמה שלך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הנשמה שלי הנשמה שלי לנשמה שלך</l>
+          <l>הנשמה שלי את נשמה שלי את נשמה שלי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

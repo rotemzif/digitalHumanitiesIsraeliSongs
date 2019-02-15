@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ארבעים 5</title>
+        <singer classification="unknown">עופרה חזה</singer>
+        <writer>עופרה חזה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ארבעים</head>
+        <lg number="1" type="stanza">
+          <l>בהרים השמש באה ועולה הטל</l>
+          <l>מסביב ימי חומה ימי מגדל</l>
+          <l>ארבעים שנה הלכנו יחד בעמל</l>
+          <l>כי תמיד כולנו לכולם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לבאים מקצות עולם אל ארץ</l>
+          <l>לבאים ממזרח ממערב</l>
+          <l>ארבעים שנות ארץ כמו פלא</l>
+          <l>ארבעים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מרץ יש גם כוח לנו עד כלות הנשימה</l>
+          <l>אם עייפנו לא כשלנו בשממה</l>
+          <l>ארבעים שנה הלכנו כאן מצאנו בית חם</l>
+          <l>כי תמיד כולנו לכולם.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לבאים מקצות...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את מדליקה בי את מאירה בי</l>
+          <l>רק בך עולים בי זיכרונות עבר</l>
+          <l>את מדליקה בי את מאירה בי</l>
+          <l>זיכרונות העבר עד בלי די</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לבאים מקצות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

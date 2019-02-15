@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הבטחה 6</title>
+        <singer classification="male singer">יזהר כהן</singer>
+        <writer>אהוד מנור</writer>
+        <composer>קובי אושרת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הבטחה</head>
+        <lg number="1" type="stanza">
+          <l>אתה בחיק ענן אפור שבשחקים</l>
+          <l>אתה צומח בפרחי חצב ושמה</l>
+          <l>אתה יורד עם הגשמים העמקים</l>
+          <l>אתה זורם במי הנחלים הימה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ניצת בכוכבים הרחק בליל</l>
+          <l>סובב בתוך גלגל השמש האדום</l>
+          <l>קורא אלי ורוח מילל</l>
+          <l>ובכנפי יונה עוד מנופף לי לשלום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה חוזר לכאן כל בוקר מעפר</l>
+          <l>בנוגה בראשית או בסופה רועשת</l>
+          <l>בגלגוליך הרבים מאין מספר</l>
+          <l>אתה תראה איך מענן תרד הקשת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ניצת בכוכבים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

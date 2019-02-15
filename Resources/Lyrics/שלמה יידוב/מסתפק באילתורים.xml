@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מסתפק באילתורים</title>
+        <singer classification="male singer">שלמה יידוב</singer>
+        <writer>אהוד מנור</writer>
+        <composer>שלמה יידוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מסתפק באילתורים</head>
+        <lg number="1" type="stanza">
+          <l>ואני תמיד חלמתי </l>
+          <l>על היום בוא נפגש</l>
+          <l>ובתוך ראשי רשמתי </l>
+          <l>בדיוק מה יתרחש </l>
+          <l>לעצמי כל יום שיננתי</l>
+          <l>משפטים ומבטים</l>
+          <l>את האושר כבר תכננתי </l>
+          <l>ככה בפרטי פרטים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עוד מעט יבוא החורף </l>
+          <l>זה בכלל לא מעודד</l>
+          <l>כנראה שגם הפעם </l>
+          <l>הוא ימצא אותי בודד</l>
+          <l>כל החלומות שמורים </l>
+          <l>כשאני הולך בדרך </l>
+          <l>מסתפק באלתורים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאותך פתאום ראיתי </l>
+          <l>האמנתי שסוף סוף</l>
+          <l>שהנה הנה גיליתי </l>
+          <l>את הבית על החוף</l>
+          <l>אבל את עכשיו שותקת </l>
+          <l>מתחמקת מעיני</l>
+          <l>ובלי אומר מנתקת </l>
+          <l>את חייך מחיי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עוד מעט יבוא החורף...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אבל את עכשיו שותקת </l>
+          <l>מתחמקת מעיני</l>
+          <l>ובלי אומר מנתקת </l>
+          <l>את חייך מחיי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

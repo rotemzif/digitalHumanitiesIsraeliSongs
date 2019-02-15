@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קום בן אדם</title>
+        <singer classification="male singer">חיים משה</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>אבי רן טוויג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קום בן אדם</head>
+        <lg number="1" type="stanza">
+          <l>עוד נראה את האופק בהיר</l>
+          <l>והלב ירונן וישיר</l>
+          <l>נמשיך ללכת, לא נעצור</l>
+          <l>אי שם בדרך יש קרן אור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קום, בן אדם, צא לעולם</l>
+          <l>לך מן החושך לאור</l>
+          <l>קום, בן אדם, תם ונשלם</l>
+          <l>יום המסע האפור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נאמין ועוד יום יעלה</l>
+          <l>סוף שלכת, אביב יתגלה</l>
+          <l>בסוף הדרך בשל הפרי</l>
+          <l>אם נאמין זה אפשרי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קום, בן אדם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עוד יבואו ימים לבנים</l>
+          <l>ונשב ונספר לנכדים</l>
+          <l>איך חלמנו על יום של אור</l>
+          <l>ונשבענו עליו לשמור</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>קום, בן אדם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

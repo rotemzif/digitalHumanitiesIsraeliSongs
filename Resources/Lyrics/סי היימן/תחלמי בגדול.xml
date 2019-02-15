@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תחלמי בגדול</title>
+        <singer classification="female singer">סי היימן</singer>
+        <writer>סי היימן</writer>
+        <composer>סי היימן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תחלמי בגדול</head>
+        <lg number="1" type="stanza">
+          <l>תחלמי בגדול תחלמי</l>
+          <l>תחלמי את הדרך לשם</l>
+          <l>אל תעצרי את הזמן</l>
+          <l>בתוך מעגל הקסמים את לא לבד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תחלמי בגדול תחלמי</l>
+          <l>תחלמי ותגיעי לשם</l>
+          <l>ובאופק הרך יחייכו</l>
+          <l>השנים הקשות שידעת בעולם ‟ בעולם</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הלוואי והדרך הזאת שעשית עד לכאן</l>
+          <l>לא תשאיר צלקות שלא ירדו עם הזמן</l>
+          <l>הלוואי והדרך הזאת שעשית עד לכאן</l>
+          <l>תפתח בפנייך דלתות שחיכו לך מזמן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תחלמי בגדול תחלמי</l>
+          <l>תצחקי כשתגיעי לשם</l>
+          <l>זה אולי הימים הקשים</l>
+          <l>שנותנים לך כוחות חדשים לעולם</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הלוואי והדרך הזאת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

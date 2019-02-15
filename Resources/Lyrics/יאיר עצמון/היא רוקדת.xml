@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היא רוקדת 3</title>
+        <singer classification="unknown">יאיר עצמון</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>יאיר עצמון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היא רוקדת</head>
+        <lg number="1" type="stanza">
+          <l>יש אחת, אנ'לא יודע</l>
+          <l>מהו שמה האמיתי.</l>
+          <l>יש לה יופי משגע.</l>
+          <l>מבטה מדליק אותי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך שהיא מנענעת </l>
+          <l>כמו נוגעת, לא נוגעת,</l>
+          <l>אך רואים בתוך עיניה</l>
+          <l>שעצוב לה בנשמה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא רוקדת</l>
+          <l>ולבי, לבי רוקד איתה.</l>
+          <l>אותי לוקחת לגן עדן</l>
+          <l>בקסמי אהבתה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איך שהיא עושה שמח,</l>
+          <l>זה הולך עם המשקה.</l>
+          <l>מי שבא עצוב - שוכח.</l>
+          <l>את הראש הוא מנקה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>איך שהיא מנענעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

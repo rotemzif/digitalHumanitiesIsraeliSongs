@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נושאת תפילה</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>טל שגב</writer>
+        <composer>שרית חדד</composer>
+        <album>זה ששומר עלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נושאת תפילה</head>
+        <lg number="1" type="stanza">
+          <l>גם אם פתאום הכל יחליט שאין לו כוח</l>
+          <l>אני אשאר פה עומדת ונושאת תפילה</l>
+          <l>ואם הטוב יחליט שכבר נמאס לו</l>
+          <l>אני אשאר פה עומדת מחכה לך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואנשים שמרגישים לבד</l>
+          <l>עזבו אותם מזמן</l>
+          <l>יתחילו לפרוח</l>
+          <l>והאורות שבביתי הקט</l>
+          <l>שלא תמיד דולקים</l>
+          <l>יאירו בכח</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כי את הכל אתה יודע</l>
+          <l>ואת ליבי תמיד שומע</l>
+          <l>ומוביל אותי, את דרכי</l>
+          <l>את המאורות הדלקת</l>
+          <l>ואת הנשמות בראת</l>
+          <l>כדי שלא נפסיק להרגיש, חיים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ומול חומה יפה כולם לך יגידו סודות</l>
+          <l>ובשקט יבקשו את עזרתך</l>
+          <l>ובין טיפות אפשר לראות עיניים שמחות</l>
+          <l>כי אנחנו צעקנו תפילות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואנשים שמרגישים לבד...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי את הכל אתה יודע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

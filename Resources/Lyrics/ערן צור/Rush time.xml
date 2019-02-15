@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Rush time</title>
+        <singer classification="male singer">ערן צור</singer>
+        <writer>ערן צור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Rush time</head>
+        <lg number="1" type="stanza">
+          <l>אחת שתיים שלוש</l>
+          <l>אני אחשוורוש</l>
+          <l>שתיים שלוש ארבע</l>
+          <l>את אסתר המלכה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>It's the rush time</l>
+          <l>בבית המרזח של הסבא ביאליק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קו ועוד קו ועוד קו</l>
+          <l>שווה צלב</l>
+          <l>או סתם הקווים מונחים</l>
+          <l>בלי שיטה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>It's the rush time</l>
+          <l>בבית המרזח של הסבא ביאליק</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>One two three one two three one</l>
+          <l>מה זה כאן?</l>
+          <l>One two three one two three oh</l>
+          <l>מה זה פה?</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>It's the rush time</l>
+          <l>בבית המרזח של הסבא ביאליק</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

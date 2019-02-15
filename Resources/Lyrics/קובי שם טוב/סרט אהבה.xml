@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סרט אהבה</title>
+        <singer classification="unknown">קובי שם טוב</singer>
+        <writer>שי אלמגור</writer>
+        <composer>אלירן אביטל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סרט אהבה</head>
+        <lg number="1" type="stanza">
+          <l>בתווים שכתבתי לך אני מוצא את היופי שבך</l>
+          <l>בשירים שלך שרתי אני רוצה לאהוב אותך</l>
+          <l>החיים לצידך הם מנגינה שלא נגמרת</l>
+          <l>מתמוגג כמו ילד כשלי אהובי את אומרת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את כמו שיר שאני מתרגש רק לשמוע</l>
+          <l>וכש-בי את נוגעת בליבי עושה געגוע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>החיים שלי איתך כמו סרט אהבה</l>
+          <l>בשבילי את אחת שאת ליבי גנבה</l>
+          <l>באהבה שלי אלייך את הכי חשובה</l>
+          <l>לעולם לא אתן לך להיות עצובה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>על גיטרה פורט את התווים שלך כתבתי</l>
+          <l>לאור הנרות מתיישבים זהו רגע רומנטי</l>
+          <l>אני לוחש לך מילים שמעולם לא למדתי</l>
+          <l>את מתרגשת מפרח אדום שאני לך קטפתי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את כמו שיר שאני מתרגש רק לשמוע</l>
+          <l>וכש-בי את נוגעת בליבי עושה געגוע</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

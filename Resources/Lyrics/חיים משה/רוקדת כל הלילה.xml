@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוקדת כל הלילה</title>
+        <singer classification="male singer">חיים משה</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>יורם חיימוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוקדת כל הלילה</head>
+        <lg number="1" type="stanza">
+          <l>היא רוקדת כל הלילה </l>
+          <l>משתוללת איך שבא לה </l>
+          <l>ידיה כבר למעלה בריקוד סוער </l>
+          <l>את עצמה שוכחת שגופה סובב </l>
+          <l>היא תמיד בורחת מעצב וכאב </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל חיוך שלה גם ללא מילה </l>
+          <l>בכולם מדליק לפתע להבה גדולה </l>
+          <l>אך בלב אף אחד לא יודע מה היא מסתירה </l>
+          <l>אחרי אותו ריקוד הופכת לזרה </l>
+          <l>עיניה השחורות סודות הן מסתירות </l>
+          <l>איך שהיא יוצאת לרקוד מול כל האורות </l>
+          <l>מתנועעת משגעת בריקוד סוער אחר כך נרגעת חוזרת לכאב </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא רוקדת כל הלילה כמו הים נסחפת הלאה </l>
+          <l>לא יודעת אם כדאי לה את ליבה לחשוף </l>
+          <l>היא פתאום צוחקת בלי לומר דבר </l>
+          <l>אך מיד שותקת ליבה לבד נשאר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל חיוך שלה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

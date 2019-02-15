@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם תלך 4</title>
+        <singer classification="band">הפרויקט של עידן רייכל</singer>
+        <writer>עידן רייכל</writer>
+        <composer>עידן רייכל</composer>
+        <album>הפרויקט של עידן רייכל</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם תלך</head>
+        <lg number="1" type="stanza">
+          <l>אם תלך מי יחבק אותי ככה</l>
+          <l>מי ישמע אותי בסוף היום</l>
+          <l>מי ינחם וירגיע</l>
+          <l>רק אתה יודע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואם תלך למי אחכה בחלון בשמלה של חג</l>
+          <l>שיגיע, יחבק אותי ככה, כמו שאתה מגיע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשתלך לשמש אצא, בשדה המוזהב, בוקר יום וערב,</l>
+          <l>ירח יאיר את פני שחולמות כל היום רק עליך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>וכשתבוא תישא אותי בשתי ידיך, משדה לנהר,</l>
+          <l>תרחוץ את פני ותגיד לי מילים</l>
+          <l>כמו שרק אתה יודע</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

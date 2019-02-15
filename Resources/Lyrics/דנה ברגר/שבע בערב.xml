@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שבע בערב</title>
+        <singer classification="female singer">דנה ברגר</singer>
+        <writer>ג'וני שועלי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שבע בערב</head>
+        <lg number="1" type="stanza">
+          <l>שקעתי ביאוש עמוק חשבתי שזה יעבור</l>
+          <l>מצאתי לי בקבוק הלכתי עד הסוף</l>
+          <l>בחדר הורוד יושבת ורואה כבלים</l>
+          <l>והכיור שלי מלא, מלא כלים מלוכלכים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז אם אתה שומע</l>
+          <l>זה לא כל כך נורא</l>
+          <l>לחיות לבד זה טוב עכשיו</l>
+          <l>למאת מהשגרה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שבע בערב אצלי</l>
+          <l>רק שבע בערב אולי</l>
+          <l>כדאי שתעוף מכאן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מצאתי בחצר חתול חתיך לקחתי בלי לשאול</l>
+          <l>במקום לצאת עם בחורים אני נותנת לא הכול</l>
+          <l>זוג עגילים נוצץ חדש מבריק קניתי לי בזול</l>
+          <l>אני יושבת על הגג ומחייכת בלי לסבול</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אז אם אתה שומע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

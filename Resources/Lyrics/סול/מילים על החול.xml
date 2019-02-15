@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מילים על החול</title>
+        <singer classification="unknown">סול 8</singer>
+        <writer>סול</writer>
+        <composer>סול</composer>
+        <album>מגיעה משם</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מילים על החול</head>
+        <lg number="1" type="stanza">
+          <l>לא נרגעת, לא יודעת</l>
+          <l>מלאכים בשמים שומרים רק עלייך</l>
+          <l>לא חולמת, גם לא מתעוררת</l>
+          <l>החיים בלעדייך, הם לא אותו דבר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ושוב את סופרת דפים מתוך ספר</l>
+          <l>היה היה פעם, אך גם זה נגמר</l>
+          <l>את אומרת, היה יכול להיות אחרת</l>
+          <l>סופרת שנים</l>
+          <l>את כותבת מילים על החול</l>
+          <l>כי ללא אהבה מי יכול?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא נוגעת, כבר לא שומעת</l>
+          <l>חשופה לרוחות כשהם עטופים</l>
+          <l>אם את נרדמת אל תוך הלילה</l>
+          <l>הבוקר יגיע בדיוק אותו דבר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ושוב את סופרת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עכשיו שוב חולמת אותך נאמרת</l>
+          <l>מה שהיה לא פעם, פאק אם ניגמר</l>
+          <l>עכשיו את בוחרת, עושה הכול אחרת</l>
+          <l>ערה ומחוברת</l>
+          <l>את כותבת שירים על החול</l>
+          <l>ללא אהבה מי יכול?</l>
+          <l>ללא אהבה מי יכול</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

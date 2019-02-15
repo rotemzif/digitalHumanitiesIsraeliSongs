@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צאו לי מהוריד</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>ביגי</writer>
+        <composer>ביגי</composer>
+        <album>יש לי אותך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צאו לי מהוריד</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>צאו לי מהוריד אין גלה על הסקלה</l>
+          <l>אני עושה חיים</l>
+          <l>לא מעניין אותי מה הלאה..</l>
+          <l>צאו מהנשמה זה לא מסע נקמה</l>
+          <l>אני מספיק עם עצמי במלחמה!</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא נותנים לי חופש מחליטים הם במקומי</l>
+          <l>החדר כבר עם עובש</l>
+          <l>דואגים הם לשלומי</l>
+          <l>אין דקה של שקט כל היום רק צעקות</l>
+          <l>מה כבר יכול להיות...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>צאו לי מהוריד...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש לי חור בראש כמו האוזון הוא רק גדל</l>
+          <l>מתי אני אפרוש כי אותי זה מתסכל</l>
+          <l>כל היום סרטים</l>
+          <l>אצלי בראש פתחו קולנוע</l>
+          <l>נמאס לי אתכם לשמוע...!</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>צאו לי מהוריד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

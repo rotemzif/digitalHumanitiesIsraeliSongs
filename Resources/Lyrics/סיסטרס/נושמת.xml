@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נושמת</title>
+        <singer classification="unknown">סיסטרס</singer>
+        <writer>שיר אעידן</writer>
+        <composer>שיר אעידן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נושמת</head>
+        <lg number="1" type="stanza">
+          <l>יש בי אהבה, תן לה לצאת, רוצה </l>
+          <l>בכל כוחי, את הנשמה לתת, יש בי </l>
+          <l>אהבה, אחת היא לא תברח, זה </l>
+          <l>כל כך אמיתי </l>
+          <l>עכשיו, אתה ואני, זה סיפור כל כך אמיתי, </l>
+          <l>אני יודעת, רק איתך </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פזמון: אז גם אם אמרתי, שיש </l>
+          <l>קצת ספק, תדע שניסיתי, לדעת באמת, שאתה לא יכול להמשיך </l>
+          <l>בלעדי, אני נושמת רק אותך בחיי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש בי נשמה, תן לה לצאת, נשכח </l>
+          <l>את העבר, היום תוכל לתת, לתת </l>
+          <l>אהבה, אחת היא לא תברח, זה כל </l>
+          <l>כך אמיתי עכשיו, אתה ואני, זה </l>
+          <l>ה סיפור כלכך אמיתי, אני יודעת רק איתך </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פזמון: אז גם אם אמרתי, שיש </l>
+          <l>קצת ספק, תדע שניסיתי, לדעת באמת, שאתה לא יכול להמשיך </l>
+          <l>בלעדי, אני נושמת רק אותך בחיי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

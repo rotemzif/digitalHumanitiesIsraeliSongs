@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פסגת החיים</title>
+        <singer classification="male singer">נתי לוי</singer>
+        <writer>נתי לוי</writer>
+        <composer>נתי לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פסגת החיים</head>
+        <lg number="1" type="stanza">
+          <l>אהובתי האם את יודעת </l>
+          <l>כמה אני אוהב אותך </l>
+          <l>ומה המשמעות לאהבה שלי איתך </l>
+          <l>אז אם את לא יודעת </l>
+          <l>או קצת לא בטוחה </l>
+          <l>תדעי שקניתי לך טבעת </l>
+          <l>ומאמין, שאת הצלחה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עכשיו אני ואת מתחברים לאלוקים </l>
+          <l>בצל חופה לבנה לפסגה של החיים </l>
+          <l>עד היום היינו שניים, אחת ועוד אחד </l>
+          <l>ובעוד רגע אתן לך טבעת </l>
+          <l>שתקשור אותנו לעולמי עד </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהובתי האם את יודעת </l>
+          <l>כמה אני אוהב אותך </l>
+          <l>ומה המשמעות לאהבה שלי איתך </l>
+          <l>שמיים לך יעידו, שאת לי אהובה </l>
+          <l>ושמכל אותך אשה, אותך בחרתי </l>
+          <l>ומאמין שאת האהבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עכשיו אני ואת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

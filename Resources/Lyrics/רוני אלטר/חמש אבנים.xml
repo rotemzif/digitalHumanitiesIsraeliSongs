@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חמש אבנים</title>
+        <singer classification="female singer">רוני אלטר</singer>
+        <writer>מירי פיגנבוים</writer>
+        <composer>קורין אלאל</composer>
+        <album>כיס אוויר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חמש אבנים</head>
+        <lg number="1" type="stanza">
+          <l>השמש עומדת בתוך מעגל </l>
+          <l>משאירה אור, לפעמים עלטה </l>
+          <l>סעודה אחרונה על גלגל המזל </l>
+          <l>לפני שנשבר אל קו ההתחלה   </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אתה ברבור גאה לא סתם אפרוח תמים </l>
+          <l>מלך של נשים בלתי מעורער </l>
+          <l>מניפת ערפל מכסה על פנים עירומים </l>
+          <l>שלא אכפת להם משום דבר   </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>חמש אבנים מחפשות את דרכן </l>
+          <l>ממשחק למשחק </l>
+          <l>שעון מתקלקל </l>
+          <l>תעתוע חולף מתנגש בשבר ענן </l>
+          <l>בגשם ראשון בים של משאלות </l>
+          <l>צולל   </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שמש עומדת בתוך מעגל </l>
+          <l>משאירה אור, לפעמים עלטה </l>
+          <l>סעודה אחרונה על גלגל המזל </l>
+          <l>לפני שנשבר אל קו ההתחלה   </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אתה אריה שואג לא סתם עכבר במנוסה </l>
+          <l>מלך היער עטור בנוצות </l>
+          <l>מניפת השקרים מכסה את פני התבוסה </l>
+          <l>כשהפצצות שלך מתפוצצות   </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>חמש אבנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא אתן 2</title>
+        <singer classification="unknown">שרון זריהן</singer>
+        <writer>אורלי צרפתי</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא אתן</head>
+        <lg number="1" type="stanza">
+          <l>את לא זוכרת כמה אהבנו</l>
+          <l>ומי ביקש את זה לא אנו</l>
+          <l>את לא זוכרת כמה נשקנו</l>
+          <l>מתברר כי רק נפגענו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא אתן להשתנות</l>
+          <l>אם להם הכוונות</l>
+          <l>כי את לי את ולא עוד</l>
+          <l>לא אני איתך אשרוד</l>
+          <l>לא אתן לך שוב למעוד</l>
+          <l>ואתמוך בך כל עוד</l>
+          <l>את עוד פה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את מצטערת שלא יכלנו לא להקשיב</l>
+          <l>כמו לא שמענו</l>
+          <l>את מצטערת שלא שמרנו על האהבה</l>
+          <l>שקטה ביננו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא אתן להשתנות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

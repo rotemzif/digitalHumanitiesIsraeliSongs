@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Somewhere 2</title>
+        <singer classification="male singer">גבע אלון</singer>
+        <writer>גבע אלון</writer>
+        <composer>גבע אלון</composer>
+        <album>The Wall Of Sound</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Somewhere</head>
+        <lg number="1" type="stanza">
+          <l>They were building a wall in the sand </l>
+          <l>Between city and sea and my head </l>
+          <l>They all know it's a sin But still the wall remains </l>
+          <l>Dirty and far beyond reason </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>I wonder what's the plan Somewhere </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>They were talking about us and our fates </l>
+          <l>In a closed room where noone can hear </l>
+          <l>But me I'm not one who puts his life in the hands </l>
+          <l>Of people who don't care for the danger </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>I wonder what's the plan Somewhere </l>
+          <l>They were building the wall in the sand </l>
+          <l>Between city and sea and my head </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>They all know it's a sin But still the wall remains </l>
+          <l>Dirty and far beyond reason </l>
+          <l>I wonder what's the plan Somewhere</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

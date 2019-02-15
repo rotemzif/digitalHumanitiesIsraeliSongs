@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שירה לי מיתר</title>
+        <singer classification="unknown">נאוה גפן</singer>
+        <writer>נאוה גפן</writer>
+        <composer>נאוה גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שירה לי מיתר</head>
+        <lg number="1" type="stanza">
+          <l>שירה לי מיתר על אביב שעבר</l>
+          <l>ועל סתו כה נוגה שאלי שוב חזר</l>
+          <l>כי מן הפריחה רק עלה עוד נותר</l>
+          <l>המלבין במורד הנהר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שירה על זריחה שעולה מן ההר</l>
+          <l>ועל שחר מוזר שחרמש בו מואר</l>
+          <l>שירה לי מיתר על חלום שנגמר</l>
+          <l>המקיץ אל השירים של המחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שירה לי מיתר על פרחים שבהר</l>
+          <l>ועל עמק קסום מעיין בו נסתר</l>
+          <l>כי שוב במדרון בו היער בער</l>
+          <l>מלבלב האילן שנותר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שירה על זריחה....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

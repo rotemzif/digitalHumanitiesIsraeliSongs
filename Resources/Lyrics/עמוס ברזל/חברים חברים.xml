@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חברים חברים</title>
+        <singer classification="male singer">עמוס ברזל</singer>
+        <writer>עמוס ברזל</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חברים חברים</head>
+        <lg number="1" type="stanza">
+          <l>כשרוצים להגיד שלום </l>
+          <l>את הידיים לוחצים. </l>
+          <l>כשבא המפקד פתאום </l>
+          <l>עומדים ומצדיעים </l>
+          <l>כשחבר הולך מנופפים לשלום </l>
+          <l>את הידיים מניחים על כתף של חברים. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חברים, חברים, חברים, </l>
+          <l>מצד אל צד מתנועעים. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>משעינים את הראש על כף היד, </l>
+          <l>סימן שאנחנו חושבים. </l>
+          <l>עם הידיים ת' לחיים מלטפים </l>
+          <l>סימן שאנחנו אוהבים. </l>
+          <l>כשחבר הולך מנופפים לשלום </l>
+          <l>כשחבר הולך מנופפים לשלום </l>
+          <l>את הידיים מניחים על כתף של חברים. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חברים, חברים, חברים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

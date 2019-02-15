@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המופע</title>
+        <singer classification="male singer">צביקה פיק</singer>
+        <writer>יואב גינאי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המופע</head>
+        <lg number="1" type="stanza">
+          <l>הבמה חשוכה האולם מלא</l>
+          <l>האורות מסביב כבים</l>
+          <l>עוד דקה עוד שניה</l>
+          <l>המסך יעלה וניגע בכוכבים</l>
+          <l>זה הרגע לחשוב</l>
+          <l>איך האהבה מתפרצת ברגע</l>
+          <l>בשבריר של שניה</l>
+          <l>נעלם פתאום כל הלבד.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זהו המופע הגדול מכולם</l>
+          <l>על הבמה של אלוהים</l>
+          <l>זהו המופע שישבור את הזמן</l>
+          <l>ההצגה של החיים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה אני זה אתם</l>
+          <l>זה אתם זה אני</l>
+          <l>מביטים בעיניים</l>
+          <l>זה אתם זה אני</l>
+          <l>זה אני זה אתם</l>
+          <l>ממריאים עד השמיים</l>
+          <l>זה הרגע לחשוב</l>
+          <l>איך האהבה מתפרצת ברגע</l>
+          <l>בשבריר של שנייה</l>
+          <l>נעלם פתאום כל הלבד.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זהו המופע הגדול מכולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

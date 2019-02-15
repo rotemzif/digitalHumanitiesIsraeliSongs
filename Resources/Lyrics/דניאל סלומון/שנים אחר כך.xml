@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שנים אחר כך</title>
+        <singer classification="male singer">דניאל סלומון</singer>
+        <writer>דניאל סלומון</writer>
+        <composer>דניאל סלומון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שנים אחר כך</head>
+        <lg number="1" type="stanza">
+          <l>כל מה שנשאר הוא רק הגעגוע מאז שאת כבר לא פה </l>
+          <l>אני מחפש כדי להיות בטוח, רואה אותך בכל מקום </l>
+          <l>איפה את נמצאת, אולי תצאי החוצה מהמחבוא </l>
+          <l>איך את לא רואה, אני עוד מחכה לך, כשתקראי לי אני אבוא </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שנים אחר כך ואני עוד שלך כמו פרפר שנמשך אל האור </l>
+          <l>שנים אחר כך, איך הרחקתי אותך, אלוהים תעשה שתחזור </l>
+          <l>תחזיר את הזמן לאחור </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל מה שנשאר הוא דחף לא ידוע להיות שלך ואת לא פה </l>
+          <l>איך את לא רואה, אני עלה ברוח, כשתקראי לי אני אבוא </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שנים אחר כך ואני עוד שלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

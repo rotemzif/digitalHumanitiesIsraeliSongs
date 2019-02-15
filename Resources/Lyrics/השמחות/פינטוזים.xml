@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פינטוזים</title>
+        <singer classification="band">השמחות</singer>
+        <writer>ישראל ברייט</writer>
+        <composer>ישראל ברייט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פינטוזים</head>
+        <lg number="1" type="stanza">
+          <l>בואי אלי ילדה בערב חג</l>
+          <l>תתלבשי יהיה נחמד</l>
+          <l>לא רבים הערבים האלה</l>
+          <l>של תפרחת דובדבן</l>
+          <l>שהכל נראה מובן</l>
+          <l>אפשרי אפילו בשבילנו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פינטוזים - מתאים לבן אדם כמוני</l>
+          <l>פינטוזים על פינטוזים</l>
+          <l>מפנטזים כל החיים</l>
+          <l>ועכשיו מלא פינטוזים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בואי נצא לבית קפה</l>
+          <l>זה פשוט וזה יפה</l>
+          <l>לפעמים באהבה שלנו</l>
+          <l>יש גם רגעים פשוטים</l>
+          <l>שהכל נראה מתאים</l>
+          <l>אפשרי אפילו בשבילנו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פינטוזים - מתאים לבן אדם כמוני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

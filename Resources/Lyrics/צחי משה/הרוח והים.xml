@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הרוח והים</title>
+        <singer classification="unknown">צחי משה</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הרוח והים</head>
+        <lg number="1" type="stanza">
+          <l>לפעמים בבוקר לפעמים בלילה </l>
+          <l>יש ימים שזה קורה בכל שעה</l>
+          <l>הגעגוע שלי אלייך</l>
+          <l>לא נותן לי רגע שקט נערה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רוצה שאת תבואי ואיתך הקסם שהופך אותי לים</l>
+          <l>תעשי גלים ותביני שבעצם..</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל היום שלי שלך תמיד זה אותך</l>
+          <l>ביקשתי אהבה קיבלתי מלאך</l>
+          <l>רוצה אותך קרוב אלי רוצה אותך עכשיו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם בים רגוע סערה עוברת</l>
+          <l>זה יכול להיות סימן של אהבה</l>
+          <l>הרוח באה כמו מחזרת</l>
+          <l>את הים היא מלטפת שובבה </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רוצה שאת תבואי ואיתך הקסם שהופך אותי לים</l>
+          <l>תעשי גלים ותביני שבעצם..</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כל היום שלי שלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

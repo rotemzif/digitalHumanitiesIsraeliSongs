@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה יהיה 15</title>
+        <singer classification="male singer">יובל בנאי</singer>
+        <writer>יובל בנאי</writer>
+        <composer>יובל בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה יהיה</head>
+        <lg number="1" type="stanza">
+          <l>מה יהיה? את בשבילי</l>
+          <l>מה יהיה? את בדרכי</l>
+          <l>כבר לא חושב לאן נברח</l>
+          <l>או נישאר בתוך הכרך</l>
+          <l>אין לך גבול ולי מחסום</l>
+          <l>מתרחקים, האופק אדום</l>
+          <l>לתשוקה, לאהבה</l>
+          <l>למרוץ, לאכזבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל הדרך לא הסתכלתי לאחור</l>
+          <l>כל הדרך, אותה אני חייב לחזור</l>
+          <l>מחכה לך בימים ובשתיקות</l>
+          <l>מחכה לך ארוכות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה יהיה? את בשלך</l>
+          <l>מה יהיה ומי יסלח?</l>
+          <l>כבר לא שואל לאן ניסע</l>
+          <l>אני ממשיך, זה המסע</l>
+          <l>ואין לך גבול ולי מחסום</l>
+          <l>מתרחקים האופק אדום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל הדרך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קח חלום</title>
+        <singer classification="unknown">הופה היי</singer>
+        <writer>לאה נאור</writer>
+        <composer>יורם צדוק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קח חלום</head>
+        <lg number="1" type="stanza">
+          <l>אם אתה יוצא לדרך</l>
+          <l>העולה אל ההרים</l>
+          <l>תיזהר שלא תקח איתך דברים מיותרים</l>
+          <l>יש נופים יפים בדרך</l>
+          <l>העולה אל ההרים</l>
+          <l>התרמיל מושך למטה</l>
+          <l>עוזרים רק השירים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קח חלום לא כבד מדי</l>
+          <l>ושמחה לא גדולה מדי</l>
+          <l>וגם שיר לא ארוך מדי</l>
+          <l>קח חלום שמחה ושיר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שב לנוח, זרוק לרוח</l>
+          <l>את כל מה שמיותר</l>
+          <l>ועכשיו בלב בטוח</l>
+          <l>קח את מה שנשאר</l>
+          <l>לא איכפת לי מה לקחת</l>
+          <l>ואת מה שאתה אוהב</l>
+          <l>מה שבאמת חשוב לי</l>
+          <l>מה שיש לך בלב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קח חלום לא כבד מדי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

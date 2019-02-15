@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שירית</title>
+        <singer classification="male singer">תומר ממיה</singer>
+        <writer>תומר ממיה</writer>
+        <composer>תומר ממיה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שירית</head>
+        <lg number="1" type="stanza">
+          <l>לפעמים בבגדים של שינה</l>
+          <l>כשהלילה זורק לה כוכב</l>
+          <l>היא יוצאת לה לבד רק כלבה לצידה</l>
+          <l>משהו בוער בה עכשיו</l>
+          <l>לפעמים היא תופסת מרחק</l>
+          <l>על כרית בפינה מביטה מהצד</l>
+          <l>ובין איבריה כלבה מנמנמת</l>
+          <l>היא אף פעם לא לבד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ועיניה תכשיט ממזרח אבן נדירה</l>
+          <l>ושפתיה נעות ברכות מתנגנת שירה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לפעמים במסך עשן</l>
+          <l>היא יונקת סיגריה עד תום</l>
+          <l>ואז שוב מתרחקת היא לא מתאפקת</l>
+          <l>למשוך את עצמה אל חלום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ועיניה תכשיט ממזרח אבן נדירה</l>
+          <l>ושפתיה נעות ברכות מתנגנת שירה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לפעמים אני מביט מהצד</l>
+          <l>ואפשר שאת אחרת אפשר שאת שונה</l>
+          <l>רק אצלי את הולכת בבגדים של שינה</l>
+          <l>עם כלבה לצידך </l>
+          <l>מחפשת פינה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

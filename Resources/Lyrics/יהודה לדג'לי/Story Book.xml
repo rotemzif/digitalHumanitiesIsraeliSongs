@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Story Book</title>
+        <singer classification="unknown">יהודה לדג לי</singer>
+        <writer>יהודה לדג'לי</writer>
+        <composer>יהודה לדג'לי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Story Book</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>Entertain me little girl in one of your storybooks </l>
+          <l>We'll ride a great white horse all day long </l>
+          <l>Lay in fields where 4-leaf clover and white poppies grow </l>
+          <l>And the moon will shine upon us all night long </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>See the phoenix and the dove soaring so high above </l>
+          <l>With just one wish we could be like them </l>
+          <l>It's true the things we yearn for seem so far away </l>
+          <l>We're all just dreamers who can't sleep </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>And don't you think sometimes </l>
+          <l>It would be oh so nice </l>
+          <l>If a shooting star fell from above </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>Entertain me little girl in one of your storybooks </l>
+          <l>We'll ride a great white horse all day long </l>
+          <l>Lay in fields where 4-leaf clover and white poppies grow </l>
+          <l>And the moon will shine upon us all night long </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>See the boy jump from his balcony for he had no wings </l>
+          <l>To take him sailing up to the stars </l>
+          <l>Don't let your cloudy mind fade into blackened skies</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

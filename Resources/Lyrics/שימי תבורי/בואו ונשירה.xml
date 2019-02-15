@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואו ונשירה</title>
+        <singer classification="male singer">שימי תבורי</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>לילה עם כוכב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואו ונשירה</head>
+        <lg number="1" type="stanza">
+          <l>אם המשכורת נשחקת והמשכנתא חונקת</l>
+          <l>החגורה מתהדקת ולא נשארו עוד חורים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם השיחה מתנתקת והאישה שוב צועקת</l>
+          <l>בין שתיים לארבע אין שקט, כאן כל החבר'ה שרים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בואו ונשירה, בואו נשתה עוד בירה</l>
+          <l>שיר שקולח בא ועושה שמח</l>
+          <l>מה לא עשינו מה לא ניסינו</l>
+          <l>שיר שיוצא מן הלב אל הלב הוא נכנס</l>
+          <l>ועושה לנו טוב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם החופשה מתקצרת העבודה לא נגמרת</l>
+          <l>אם אין תפילה שעוזרת, כאן כל החבר'ה שרים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בואו ונשירה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

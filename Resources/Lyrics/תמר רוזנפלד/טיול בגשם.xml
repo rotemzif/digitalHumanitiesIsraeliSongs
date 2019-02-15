@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טיול בגשם</title>
+        <singer classification="unknown">תמר רוזנפלד</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>אליעזר פארלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טיול בגשם</head>
+        <lg number="1" type="stanza">
+          <l>אני ברחוב והגשם חם -</l>
+          <l>הטו הגנים ראשיהם למטר</l>
+          <l>נגע בפני מבטך החכם</l>
+          <l>כיד הכנר במיתר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני ברחוב והגשם</l>
+          <l>הגשם זרוח</l>
+          <l>נעמוד, נסתכל, פנינו פנינו -</l>
+          <l>פני אח ואחות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הבוקר אתה, באמת, דומה לי</l>
+          <l>רק פכח יותר ובהיר</l>
+          <l>בזגוגית - כרישום - כה שקוף ופלי</l>
+          <l>אתה ואילן ועיר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אנו ברחוב והגשם...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואנו ברחוב והגשם זרוח</l>
+          <l>ועולם ממשל, ממשל משלים</l>
+          <l>צוארונך המורם ופניך ברוח</l>
+          <l>הולמים את הבוקר שלי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אנו ברחוב והגשם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שכינה</title>
+        <singer classification="band">שבע</singer>
+        <writer>עממי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שכינה</head>
+        <lg number="1" type="stanza">
+          <l>משכני אחריך</l>
+          <l>נרוצה</l>
+          <l>הביאני המלך חדריו</l>
+          <l>נגילה ונשמחה בך</l>
+          <l>אם לא תדעי לך היפה בנשים</l>
+          <l>צאי לך בעקבות הצאן</l>
+          <l>ורעי את גדיותיך</l>
+          <l>על משכנות הרועים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא איש בלא אישה</l>
+          <l>לא אישה בלא איש</l>
+          <l>ולא שניהם בלא שכינה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>באל גם איש וגם אישה</l>
+          <l>האב בעל החכמה</l>
+          <l>נהר העדנים</l>
+          <l>עץ החיים וגם האשה, היולדת</l>
+          <l>האם המניקה</l>
+          <l>הגן הנעול</l>
+          <l>וים החכמה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא איש בלא אישה</l>
+          <l>לא אישה בלא איש</l>
+          <l>ולא שניהם בלא שכינה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

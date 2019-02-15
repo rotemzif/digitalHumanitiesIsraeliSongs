@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בדרך היפה</title>
+        <singer classification="unknown">בני שמעוני</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בדרך היפה</head>
+        <lg number="1" type="stanza">
+          <l>רוח קרה לגופי חדרה</l>
+          <l>לאן הלכת איש לא ידע</l>
+          <l>ויתרת מהר אני מופתע</l>
+          <l>קשה לי להאמין שזה קרה</l>
+          <l>רוח קרה חלוני עברה</l>
+          <l>עפים עלים הדם קפא</l>
+          <l>זוכר אותך כל כך יפה</l>
+          <l>לאן הלכת איש לא ידע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בדרך היפה זרעת קוצים</l>
+          <l>במקום חום גופך חיי ריקים </l>
+          <l>בדרך היפה לי הייתה תקווה</l>
+          <l>לאן הלכת ילדה איש לא ידע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוצם עיניים לא נרדם</l>
+          <l>צליל קולך עוד לא נדם</l>
+          <l>עולה עוד יום כיום חדש</l>
+          <l>רואה שאת אינך כולי נרגש</l>
+          <l>רוצה אותך לראות ובך לגעת</l>
+          <l>חולם על נשיקה חולם בלהט</l>
+          <l>ויתרת מהר אני מופתע</l>
+          <l>קשה להאמין שזה קרה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בדרך היפה זרעת קוצים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

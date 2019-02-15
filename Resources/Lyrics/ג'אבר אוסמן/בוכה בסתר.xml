@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוכה בסתר</title>
+        <singer classification="unknown">ג אבר אוסמן</singer>
+        <writer>ג'אבר אוסמן</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוכה בסתר</head>
+        <lg number="1" type="stanza">
+          <l>חיי הלכו ונהרסו בלעדייך לא יכול</l>
+          <l>חבר יקר הכל נגמר איך יכולת לתת אמון.</l>
+          <l>איך כך אתה עזבת תמונה לנו רק השארת</l>
+          <l>איך כך אתה הלכת אישה ובת אתה השארת.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יושב כל יום ליד הקבר בוכה, זועק לי בסתר</l>
+          <l>מבקש מאלוקים שיוציא אותי מהסבל.</l>
+          <l>יושב כל יום ליד הקבר בוכה, זועק לי בסתר</l>
+          <l>מבקש מאלוקים שיוציא אותי מהסבל.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זוכר אני איך צחקנו כל הזמן רק בילינו</l>
+          <l>רוצה אני רק לומר שאותך לא שכחנו.</l>
+          <l>איך כך אתה עזבת תמונה לנו רק השארת</l>
+          <l>איך כך אתה הלכת אישה ובת אתה השארת.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יושב כל יום ליד הקבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

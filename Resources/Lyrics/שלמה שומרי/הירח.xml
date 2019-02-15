@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הירח 7</title>
+        <singer classification="male singer">שלמה שומרי</singer>
+        <writer>שלמה שומרי</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הירח</head>
+        <lg number="1" type="stanza">
+          <l>הירח הבהיר עושה סיבוב בכל העיר</l>
+          <l>בכל פיאנו בר כוסית שותה,</l>
+          <l>הוא כבר נראה כזה שתוי בגיל כל כך צעיר</l>
+          <l>האנשים אומרים זה לא יפה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זונות בקרן רחובות קורצות לו בחיוך</l>
+          <l>סיור זמני של משטרה עובר,</l>
+          <l>מזמין לו בקפה ממול עוד כוס אחת הפוך</l>
+          <l>הזמן קצר והוא לא ממהר.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יה, יה, יה, ירח, מציץ פה על כולם,</l>
+          <l>יה, יה, יה, ירח מאיר את העולם.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ברדיו משמיעים עכשיו שירים על שכמותו,</l>
+          <l>בטון עצוב בשקט מתנגן</l>
+          <l>נהג מונית מציע לו סיבוב על חשבונו,</l>
+          <l>עזוב אותי אני כמעט ישן.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עוד מעט הזמן שלו עומד להיגמר</l>
+          <l>משמרת אחרונה עכשיו שלו,</l>
+          <l>חשב בוא פעם לבקש עוד קצת להישאר</l>
+          <l>אבל זה לא מתאים כבר לגילו.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יה, יה, יה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

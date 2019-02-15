@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא נשאר לך</title>
+        <singer classification="band">בייב</singer>
+        <writer>אורי מור</writer>
+        <composer>קובי אוז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא נשאר לך</head>
+        <lg number="1" type="stanza">
+          <l>חיוך על הבוקר כשהתעוררת חשבת עלי</l>
+          <l>ניגבת שפתיים והחלפת לפרח את המים</l>
+          <l>התקשרת אלי ואמרתי שאני לא נמצא</l>
+          <l>התקשרת פעמיים והחלפת לפרח את המים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ולא נשאר לך כבוד עצמי</l>
+          <l>פתאום נהיה לך קר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חולצה שגזרת מונחת אצלי בארון</l>
+          <l>מכתב ששלחת אמרת שהוא האחרון</l>
+          <l>נגבת אותך ואכלת את הפרח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ולא נשאר לך כבוד עצמי</l>
+          <l>פתאום נהיה לך קר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה לא שהמים קרים לי</l>
+          <l>זה לא שאיבדתי עניין</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ולא נשאר לך כבוד עצמי</l>
+          <l>פתאום נהיה לך קר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

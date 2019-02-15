@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האור בחשיכה</title>
+        <singer classification="male singer">גבע אלון</singer>
+        <writer>גבע אלון</writer>
+        <composer>גבע אלון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האור בחשיכה</head>
+        <lg number="1" type="stanza">
+          <l>היינו שם רק שנינו</l>
+          <l>למרגלות כרמל ירוק</l>
+          <l>אמרת כל זה שלך ממני</l>
+          <l>שמעתי את הקול הטוב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אנחנו כאן יושבים בבית</l>
+          <l>צל אלונים סוכך עליך</l>
+          <l>בלילה בזהירות עוקבים אחר תנועה</l>
+          <l>האור בחשיכה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היום נפתח בשקט</l>
+          <l>נשאר שעות בגופיה</l>
+          <l>על הדברים שאת אומרת</l>
+          <l>מחזיר אולי מילה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אנחנו כאן יושבים בבית</l>
+          <l>צל אלונים סוכך עליך</l>
+          <l>מלמעלה הרחוב נחצה</l>
+          <l>באור בחשיכה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אנחנו כאן יושבים בבית</l>
+          <l>צל אלונים סוכך עליך</l>
+          <l>בלילה בזהירות עוקבים אחר תנועה</l>
+          <l>האור בחשיכה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אולי 29</title>
+        <singer classification="band">האחים פורטיס</singer>
+        <writer>רמי פורטיס</writer>
+        <composer>יובל שפריר</composer>
+        <album>איפה הסוסים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אולי</head>
+        <lg number="1" type="stanza">
+          <l>תסתכלי איך שאני נראה פתאום לא אמיתי</l>
+          <l>אותו האיש אבל זה לא אני</l>
+          <l>תתרכזי קצת בשבילי אולי גם תחבקי אותי</l>
+          <l>מעט ממך הרבה למעני</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אולי אולי תחזירי לי עכשיו את נעורי</l>
+          <l>אולי אולי תסירי את הקסם שהטלת עלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תסתכלי איך שהכל נראה כל כך לא הגיוני</l>
+          <l>אותו הגוף בפנים זה לא אני</l>
+          <l>בואי ותקחי אותי תשברי שוב את ליבי</l>
+          <l>עד שאני אצעק אהובתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אולי אולי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכל זה מלמעלה</title>
+        <singer classification="unknown">דודו אהרון</singer>
+        <writer>דודו אהרון</writer>
+        <composer>דודו אהרון</composer>
+        <album>הכל זה מלמעלה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכל זה מלמעלה</head>
+        <lg number="1" type="stanza">
+          <l>לפעמים אני נזכר איך היינו יחד שנינו</l>
+          <l>איך היינו זוג מושלם הגורל חיבר בינינו</l>
+          <l>עכשיו כל כך עצוב שאת לא לצידי</l>
+          <l>אני מבטיח עוד אחזור אהובתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הכל זה מלמעלה</l>
+          <l>אז אל תבכי הלילה</l>
+          <l>הכל זה לטובה</l>
+          <l>אז אל תבכי ילדה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בלילות יושב חושב מסתכל אל השמיים</l>
+          <l>מדבר לאלוהים שיחזיר אותי אלייך</l>
+          <l>הכל כתוב אם את תהיי תמיד שלי</l>
+          <l>מאמין שאלוהים ישמע לתפילתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הכל זה מלמעלה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

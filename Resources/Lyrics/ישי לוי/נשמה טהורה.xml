@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נשמה טהורה</title>
+        <singer classification="male singer">ישי לוי</singer>
+        <writer>מני קוממי</writer>
+        <composer>מני קוממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נשמה טהורה</head>
+        <lg number="1" type="stanza">
+          <l>את שעזבת אותי</l>
+          <l>למה עזבת</l>
+          <l>למה למה למה</l>
+          <l>כל כך התאכזרת</l>
+          <l>אחרי הכל, זה לא מגיע לי</l>
+          <l>הכאב שגרמת, שגרמת לי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נשמה טהורה</l>
+          <l>נשמה של מלאך</l>
+          <l>נשמה נשמה נשמה אבודה</l>
+          <l>היום אני אוהב אותך</l>
+          <l>היום אני רוצה אותך</l>
+          <l>לא מתבייש לומר לך</l>
+          <l>אני אוהב אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוצם את העיניים </l>
+          <l>חולם שאת איתי</l>
+          <l>אני הרי אוהב אותך</l>
+          <l>את בנשמתי</l>
+          <l>אחרי הכל, זה לא מגיע לי</l>
+          <l>הכאב שגרמת, שגרמת לי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נשמה טהורה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

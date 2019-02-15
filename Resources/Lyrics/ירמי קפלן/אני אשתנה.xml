@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני אשתנה</title>
+        <singer classification="male singer">ירמי קפלן</singer>
+        <writer>ירמי קפלן</writer>
+        <composer>missing</composer>
+        <album>הזמן אבוד</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני אשתנה</head>
+        <lg number="1" type="stanza">
+          <l>ממחר מבטיח לך אפסיק לעשן</l>
+          <l>ממחר תראי תראי אפסיק לשקר</l>
+          <l>רק עכשיו תתני לזרום עם הרגע הזה</l>
+          <l>ממחר תראי תראי אני אשתנה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כשנכנסת לי לחיים מה רצית אם לא אותי</l>
+          <l>לא אניח את הזיכרון בצד הדרך</l>
+          <l>הרגלים שאספתי לא תוכלי לקחת לי</l>
+          <l>לא אניח את הזיכרון בצד הדרך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ממחר אולי מחר אני אשתדל</l>
+          <l>ממחר מבטיח לך ביחד נראה</l>
+          <l>רק עכשיו תתני לזרום עם הרגע הזה</l>
+          <l>ממחר תראי תראי אני אשתנה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כשנכנסת לי לחיים מה רצית אם לא אותי</l>
+          <l>לא אניח את הזיכרון בצד הדרך</l>
+          <l>הרגלים שאספתי לא תוכלי לקחת לי</l>
+          <l>לא אניח את הזיכרון בצד הדרך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא אניח את הזיכרון</l>
+          <l>לא אניח את הזיכרון</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מה רצית אם לא אותי</l>
+          <l>לא אניח את הזיכרון בצד הדרך</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>ממחר מבטיח לך אפסיק לעשן</l>
+          <l>ממחר תראי תראי אפסיק לשקר</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>אני אשתנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

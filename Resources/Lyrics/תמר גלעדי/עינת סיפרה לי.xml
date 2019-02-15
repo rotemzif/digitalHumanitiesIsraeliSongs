@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עינת סיפרה לי</title>
+        <singer classification="female singer">תמר גלעדי</singer>
+        <writer>תמר גלעדי</writer>
+        <composer>לאה שבת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עינת סיפרה לי</head>
+        <lg number="1" type="stanza">
+          <l>ישבנו על גג לא רחוק מהים</l>
+          <l>הרוח שטפה את הגוף החם</l>
+          <l>זיעה קרה עברה לי בגב</l>
+          <l>כשהיא דיברה עליו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עינת סיפרה לי כל מיני דברים</l>
+          <l>בלי לדעת שאנחנו מכירים</l>
+          <l>חשבתי עלי עליו ועל אתמול</l>
+          <l>רציתי לשכוח הכל</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>נעשה לי חם</l>
+          <l>נעשה לי קר</l>
+          <l>ומאז כלום לא אותו דבר</l>
+          <l>לא אותו דבר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מטוס קל שט מעל הגלים</l>
+          <l>מציע לי לנסוע לכמה ימים</l>
+          <l>השמש שכאן שוקעת עולה בצד אחר</l>
+          <l>מישהו עכשיו לאט מתעורר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עינת סיפרה לי כל מיני דברים</l>
+          <l>קצת עליה וקצת על זרים</l>
+          <l>מה היא אוהבת בלילות החמים</l>
+          <l>עולה גבוה למקומות רחוקים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>נעשה לי חם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

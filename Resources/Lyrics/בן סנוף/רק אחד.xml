@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק אחד</title>
+        <singer classification="unknown">בן סנוף</singer>
+        <writer>איתי זילברשטין</writer>
+        <composer>איתי זילברשטין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק אחד</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>מי שומר עלינו</l>
+          <l>מי שם בשבילנו</l>
+          <l>מי נמצא איתנו כל דקה</l>
+          <l>מי שאת חיינו הוא ברא </l>
+          <l>מי את העולם הזה עשה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מי שומר עלינו</l>
+          <l>מי שם בשבילנו</l>
+          <l>מי נמצא איתנו כל דקה</l>
+          <l>מי שאת חיינו הוא ברא</l>
+          <l>מי את העולם הזה עשה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פזמון:</l>
+          <l>רק אחד מעלינו</l>
+          <l>רק אחד בשבילנו</l>
+          <l>רק אחד שאותנו הוא בחר</l>
+          <l>רק אחד בתוכנו</l>
+          <l>הוא תמיד בשבילנו</l>
+          <l>רק אחד מעלינו לעולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מי הולך איתנו</l>
+          <l>מי מקשיב רק לנו</l>
+          <l>מי יודע כל סוד,כל מילה</l>
+          <l>מי את תפילתנו הוא ישמע</l>
+          <l>מי יציל אתנו מצרה, מצרה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

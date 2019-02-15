@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נסיכה מהאגדות</title>
+        <singer classification="unknown">רועי מאנה</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>יוסי בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נסיכה מהאגדות</head>
+        <lg number="1" type="stanza">
+          <l>כל הזמן אני רוצה אותך איתי | איפה את אהובתי.. </l>
+          <l>כל היום רק מסתובבת | ואני בתוך עצמי..</l>
+          <l>פתאום אני כל כך מתגעגע | אני יודע </l>
+          <l>שאת שלי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פזמון </l>
+          <l>את תחייכי כל החיים | לצידך לעולמים </l>
+          <l>אני מבטיח ים של ריגושים | אני אגשים לך חלומות </l>
+          <l>של נסיכה באגדות </l>
+          <l>אהובתי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו השמש הזורחת אל הים | אהבתנו היא עולם </l>
+          <l>את מושיטה יד מלטפת | בשבילך אני קיים </l>
+          <l>את מקסימה אותי ומשגעת | יוצא מדעת </l>
+          <l>לך עולמי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פזמון </l>
+          <l>את תחייכי כל החיים | לצידך לעולמים </l>
+          <l>אני מבטיח ים של ריגושים | אני אגשים לך חלומות </l>
+          <l>של נסיכה באגדות </l>
+          <l>אהובתי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

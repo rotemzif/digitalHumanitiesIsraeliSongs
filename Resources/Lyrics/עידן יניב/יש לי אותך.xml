@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לי אותך 4</title>
+        <singer classification="male singer">עידן יניב</singer>
+        <writer>מאיר עמר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לי אותך</head>
+        <lg number="1" type="stanza">
+          <l>איך עמוק בעינייך</l>
+          <l>אני בורא לי עולם</l>
+          <l>והרוך של שפתייך</l>
+          <l>מלטף כמו הים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם אני דואג</l>
+          <l>את הדבר הכי רגוע</l>
+          <l>אם אני עצוב</l>
+          <l>את השמחה</l>
+          <l>אם אני הולך</l>
+          <l>אז בא מיד הגעגוע</l>
+          <l>כשאני חולם את מגיעה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כי יש לי אותך</l>
+          <l>ולך יש אותי</l>
+          <l>וכל העולם הוא שלנו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשלפעמים את נרדמת</l>
+          <l>שלווה אותך מכסה</l>
+          <l>אני יושב מהצד</l>
+          <l>ולא מוציא אף מילה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם אני דואג...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

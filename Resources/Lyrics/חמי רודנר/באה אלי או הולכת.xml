@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>באה אלי או הולכת</title>
+        <singer classification="male singer">חמי רודנר</singer>
+        <writer>שלום חנוך</writer>
+        <composer>שלום חנוך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>באה אלי או הולכת</head>
+        <lg number="1" type="stanza">
+          <l>את באה אלי או הולכת</l>
+          <l>פנייך שומרים את סודם</l>
+          <l>את גלויה אבל לא מפורשת</l>
+          <l>האם רע לך או טוב לך או סתם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שוות נפש אלי או נמשכת</l>
+          <l>שמת לב שהלכו כבר כולם</l>
+          <l>את נשארת אצלי או הולכת</l>
+          <l>לעשות לך לשתות קר או חם</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מצד שני - הנה אני</l>
+          <l>רוצה אותך מיד</l>
+          <l>לא להפחיד</l>
+          <l>לא להחריד</l>
+          <l>ואילו את</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ובינתיים אם את כבר יושבת</l>
+          <l>והשחר עולה בחלון</l>
+          <l>מעניין אותי מה את חושבת</l>
+          <l>לדבר או לשתוק או לישון</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מסתכלת עלי מחייכת</l>
+          <l>ממריאה על כנפי הדמיון</l>
+          <l>את נשארת איתי או הולכת</l>
+          <l>זה שווה לפחות ניסיון</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מצד שני - הנה אני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

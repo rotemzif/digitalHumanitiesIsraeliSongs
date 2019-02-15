@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ידיים למעלה 2</title>
+        <singer classification="male singer">עמוס ברזל</singer>
+        <writer>עממי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ידיים למעלה</head>
+        <lg number="1" type="stanza">
+          <l>ידיים למעלה על הראש </l>
+          <l>על הכתפיים אחת, שתיים, שלוש. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עצמו את העיניים ועכשיו פקחו </l>
+          <l>איזה יום יפה כפיים מחאו. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ידיים למעלה עשר אצבעות </l>
+          <l>מנופפות שלום להתראות.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

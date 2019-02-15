@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ראית זהב</title>
+        <singer classification="band">בלאגן</singer>
+        <writer>ערן צור</writer>
+        <composer>יובל מסנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ראית זהב</head>
+        <lg number="1" type="stanza">
+          <l>ראית זהב נוצץ ממולך</l>
+          <l>בינו לבינך הדרך פתוחה</l>
+          <l>תלך, תיקח, אף אחד לא רואה</l>
+          <l>תרוץ, תגנוב, אתה לא מחכה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חשבת שתצא נקי - והתלכלכת</l>
+          <l>חשבת שתצא נקי - לא לא לא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה בא מהשמים אל האדמה</l>
+          <l>לובש צורות שונות כמו מחלה</l>
+          <l>כמו אדם אלים פורע בכבודך</l>
+          <l>וזה העונש שלך, זה מגיע לך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חשבת שתצא נקי - והתלכלכת</l>
+          <l>חשבת שתצא נקי - לא לא לא</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עונד תכשיטים על הגוף החולה</l>
+          <l>אנשים אומרים לך כמה יפה</l>
+          <l>אתה תוהה אם המחיר ששלמת</l>
+          <l>היה שווה למה שהרווחת.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

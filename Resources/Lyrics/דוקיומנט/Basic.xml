@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Basic</title>
+        <singer classification="unknown">דוקיומנט</singer>
+        <writer>דוקיומנט</writer>
+        <composer>דוקיומנט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Basic</head>
+        <lg number="1" type="stanza">
+          <l>When she came out of the ocean</l>
+          <l>Never have seen such devotion</l>
+          <l>Didn't imagine you'd want to stay</l>
+          <l>Calling me over to make mistakes</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Last of the words you have spoken</l>
+          <l>Broken embraces seem solemn</l>
+          <l>Pouring it out of an empty face</l>
+          <l>Fighting exhaustion to stay awake</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>Changes I've seen in your heart</l>
+          <l>Trying to take it apart</l>
+          <l>These are the ways that it starts</l>
+          <l>Changes I've seen in your heart</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>Eyes that glow bright in the moonlight</l>
+          <l>Mountains that move under blood skies</l>
+          <l>Years that keep slipping out of my head</l>
+          <l>Turn into nothing and fade away</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>Changes I've seen in your heart</l>
+          <l>Trying to take it apart</l>
+          <l>These are the ways that it starts</l>
+          <l>Changes I've seen in your heart</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

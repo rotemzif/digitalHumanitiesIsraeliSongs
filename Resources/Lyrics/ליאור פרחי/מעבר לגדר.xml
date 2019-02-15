@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מעבר לגדר 2</title>
+        <singer classification="male singer">ליאור פרחי</singer>
+        <writer>אדמית הראל</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מעבר לגדר</head>
+        <lg number="1" type="stanza">
+          <l>עיניים עוקבות אחרייך</l>
+          <l>את אומרת, את אומרת</l>
+          <l>מלוות את כל צעדייך</l>
+          <l>בשקט, בשקט</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עוד יהיה לך בית מלבנים</l>
+          <l>וחלון עטוף וילון פרחים</l>
+          <l>עוד תראי את הירח בא לבקר</l>
+          <l>כל ערב מעבר לגדר</l>
+          <l>כל ערב מעבר לגדר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>צעדיים בחשכת הלילה</l>
+          <l>את שומעת, זה הפחד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עוד יהיה לך בית מלבנים</l>
+          <l>וחלון עטוף וילון פרחים</l>
+          <l>עוד תראי את הירח בא לבקר</l>
+          <l>כל ערב מעבר לגדר</l>
+          <l>כל ערב מעבר לגדר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את רוצה כבר להירגע ולהתיישב</l>
+          <l>ומזכירה לי שוב כמה זה כואב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

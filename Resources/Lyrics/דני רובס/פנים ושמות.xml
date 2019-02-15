@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פנים ושמות</title>
+        <singer classification="male singer">דני רובס</singer>
+        <writer>דני רובס</writer>
+        <composer>דני רובס</composer>
+        <album>פנים ושמות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פנים ושמות</head>
+        <lg number="1" type="stanza">
+          <l>נוסע על כביש מהיר</l>
+          <l>מגע החורף שבאויר</l>
+          <l>ובחלון שלי הנוף חולף מולי</l>
+          <l>או שאני חולף מולו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל שיר חושף איזה סוד</l>
+          <l>מותח עוד גשר לחצות</l>
+          <l>הוא מכוון כליו, אני דרוך אליו,</l>
+          <l>רוצה לדעת את כולו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואז עוברים בי שלב שלב</l>
+          <l>מי שהייתי מי שעכשיו</l>
+          <l>כל הפנים והשמות כולם</l>
+          <l>כל השירים שהם לקחו איתם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואז אימי מרחוק</l>
+          <l>והד קולות רחוקים של צחוק</l>
+          <l>ריחות של יום שבת, אבי מרים מבט</l>
+          <l>ושתי עיניים עייפות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ובחצר של ביתי</l>
+          <l>ירוק טהור כמו בילדותי</l>
+          <l>השער הגדול, וחריקת החול</l>
+          <l>ושתי רגלי היחפות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כמו עוברים בי שלב שלב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

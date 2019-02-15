@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל הפרחים</title>
+        <singer classification="band">גונבי האופניים</singer>
+        <writer>ישי אלהרר</writer>
+        <composer>ישי אלהרר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל הפרחים</head>
+        <lg number="1" type="stanza">
+          <l>כל הפרחים שנפתחים בסתיו</l>
+          <l>וכל הפחדים שנמשכים אליו</l>
+          <l>כל הילדים קוראים בשמך עכשיו</l>
+          <l>מבין כולם אני אוהב אותך לעד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל האהבות שנשארו לבד</l>
+          <l>וכל האוהבים שמרגישים אחד</l>
+          <l>כל הסימנים שיש לי על היד</l>
+          <l>מבין כולם אני אכאב אותך לעד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אוהב אותך, אוהב אותך,</l>
+          <l>ומדבר עלייך כל הזמן</l>
+          <l>כל הזמן אוהב אותך</l>
+          <l>ומדבר עלייך כל הזמן, כל הזמן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל המילים שלא אמרתי</l>
+          <l>וכל האשמה שלא הספקתי</l>
+          <l>כל הסיכונים שלא לקחתי</l>
+          <l>מבין כולם אני אזכור אותך לעד</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אוהב אותך, אוהב אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

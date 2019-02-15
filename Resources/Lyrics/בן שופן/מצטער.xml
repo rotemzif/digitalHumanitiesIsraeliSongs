@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מצטער 5</title>
+        <singer classification="unknown">בן שופן</singer>
+        <writer>בן שופן</writer>
+        <composer>בן שופן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מצטער</head>
+        <lg number="1" type="stanza">
+          <l>אני מצטער </l>
+          <l>שאני לא בחור רגיל </l>
+          <l>אני נשבע שניסיתי ללמוד כמו כולם </l>
+          <l>אני מצטער </l>
+          <l>שאני לא בחור פשוט </l>
+          <l>שחי וגדל מתחתן ועובד ולומד </l>
+          <l>ובסוף קצת מת ונעלם </l>
+          <l>כאילו לא היה כאן </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פזמון : </l>
+          <l>ואם אתה רוצה לכתוב לה איזה שיר </l>
+          <l>אתה משוגע וחולני ולא בריא </l>
+          <l>בשביל לראות שהיא מזמן עם מישהו אחר </l>
+          <l>מישהו רגיל ממך </l>
+          <l>וכל העולם טיפש ! </l>
+        </lg>
+        <lg number="3" type="stanza" />
+        <lg number="4" type="stanza">
+          <l>אני מצטער</l>
+          <l>שאין לי ארגזים של מזומנים שמרשימים </l>
+          <l>מצטער שאני זוכר איזה לילה </l>
+          <l>שלכלכתי לה ת'שמלה </l>
+          <l>מצטער </l>
+          <l>שהכרנו </l>
+          <l>כי אני בוכה פה במקומה </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>פזמון ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

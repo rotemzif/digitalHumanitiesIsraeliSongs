@@ -1,0 +1,38 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אולי זה מעליב</title>
+        <singer classification="male singer">מתי כספי</singer>
+        <writer>יהודה אטלס</writer>
+        <composer>מתי כספי</composer>
+        <album>צד נוסף</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אולי זה מעליב</head>
+        <lg number="1" type="stanza">
+          <l>אולי זה מעליב לפעמים</l>
+          <l>אולי זה עובר את הגבול</l>
+          <l>אבל אם מנשקים אותי על הפנים</l>
+          <l>אני תיכף מנגב בשרוול.</l>
+        </lg>
+        <lg number="2" type="stanza"/>
+      </lg>
+    </body>
+  </text>
+</TEI>

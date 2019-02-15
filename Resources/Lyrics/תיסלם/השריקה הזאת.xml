@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השריקה הזאת</title>
+        <singer classification="band">תיסלם</singer>
+        <writer>יאיר ניצני</writer>
+        <composer>יזהר אשדות</composer>
+        <album>תיסלם 2</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השריקה הזאת</head>
+        <lg number="1" type="stanza">
+          <l>חבורה קטנה... לילה חשוך...</l>
+          <l>סכנה!</l>
+          <l>כמו מתוך תמונה... חושך כבד...</l>
+          <l>ואימה!</l>
+          <l>אנשים גדולים... על הקירות הצללים...</l>
+          <l>הם צמודים לקיר, פחד נופל על העיר !</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא מחפשים צרות, הצללים חולפים על הקירות!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתקרבים אלי... אש ואימה בעיני... חוסר</l>
+          <l>מנוחה... אין לי כיוון לבריחה!</l>
+          <l>הם עומדים שותקים, לא מדברים ושורקים...</l>
+        </lg>
+        <lg number="4" type="stanza" />
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא מחפשים צרות, הצללים חולפים על הקירות!</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לא מזיקים לאיש!</l>
+          <l>מלמדים אותי לשרוק, אחרי כיבוי אורות, בלילה!</l>
+          <l>ת'שריקה הזאת...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>כל זמן רע, ובשעת צרה,</l>
+          <l>שרוק לנו אז לעזרה,</l>
+          <l>שלח יד, ונבוא מיד,</l>
+          <l>או אתה ילד נחמד...</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>לא מחפשים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

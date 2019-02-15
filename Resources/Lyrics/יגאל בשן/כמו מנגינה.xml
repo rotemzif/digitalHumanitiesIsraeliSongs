@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו מנגינה</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>רבקה מיכאלי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו מנגינה</head>
+        <lg number="1" type="stanza">
+          <l>את מובילה את היום הופכת בי בלילה</l>
+          <l>אין איתך שלוה ואין איתך שלום</l>
+          <l>את משכימה ראשונה רוחשת ולוחשת</l>
+          <l>אין לי מלבדך קרוב בשום מקום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמו מנגינה קטנטנה שאת ליבי כובשת</l>
+          <l>אותי את מוליכה לאן שאת פונה</l>
+          <l>כמו מנגינה קטנטנה שכלום עוד לא לובשת</l>
+          <l>אבל יודעת איך וגם יודעת מה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני מוטל בין תווים שאת חיברת אלינו</l>
+          <l>אבוד ומאושר עם הסולם שלך</l>
+          <l>הביטי בי אהובה הקשיבי רק לשנינו</l>
+          <l>הצליל הזה ששר אותנו הוא לקח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמו מנגינה קטנטנה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וכשתלכי לדרכך לא אעמוד מנגד</l>
+          <l>אציע לך ליווי הולם הולם הלב</l>
+          <l>כך נפרדים קטנטנה כך באה לה אחרת</l>
+          <l>לא עוד אני שבוי אבל אותך אוהב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כמו מנגינה קטנטנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

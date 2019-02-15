@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דג העצב</title>
+        <singer classification="band">המשולש</singer>
+        <writer>שבתאי גרשון</writer>
+        <composer>שבתאי גרשון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דג העצב</head>
+        <lg number="1" type="stanza">
+          <l>ועדיין בוכיה מול אגם דמעות שלם</l>
+          <l>אין לה אף אחד איתה</l>
+          <l>דג העצב המלא</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ועדיין לא מבינה מול עדת האלוהים שלה</l>
+          <l>איך כל זה קרה</l>
+          <l>דג העצב המלא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וכרגע הוא שוחה בתוך נבכי הנשמה</l>
+          <l>לפעמים הוא שוב עולה דג העצב המלא</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ועדיין רחוקה מול אופק החיוך שלה</l>
+          <l>היא בונה עצמה לבד</l>
+          <l>דג העצב המלא</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ועדיין מתנפחת מול מראה שמגדילה אותה</l>
+          <l>מרגישה שאין ברירה</l>
+          <l>דג העצב המלא</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אך עדיין הוא שוחה...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>דג העצב המלא טבע בהתרגשות שלה</l>
+          <l>החיוך נסק שחקים מול אגם של חברים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

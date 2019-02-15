@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ספרי לי 10</title>
+        <singer classification="DJ">קוקו</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>שי ראובני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ספרי לי</head>
+        <lg number="1" type="stanza">
+          <l>כשאותך ראיתי</l>
+          <l>איך ליבי נפתח</l>
+          <l>וכל כך רציתי</l>
+          <l>לחבק אותך</l>
+          <l>לא יכולתי לוותר</l>
+          <l>זה היה חזק יותר</l>
+          <l>בך נגעתי וידעתי</l>
+          <l>את שלי לעולם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואי ספרי לי ותראי לי</l>
+          <l>איך תפסת לי את הלב</l>
+          <l>את משגעת לא יודעת</l>
+          <l>איך אותך אני כל כך אוהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק איתך הגשמתי</l>
+          <l>את חלומותי</l>
+          <l>ואשמור עלייך </l>
+          <l>כמו על שתי עיני</l>
+          <l>לי נתת את כל כולך</l>
+          <l>את סודות אהבתך</l>
+          <l>בך נגעתי וידעתי</l>
+          <l>את שלי לעולם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בואי ספרי לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

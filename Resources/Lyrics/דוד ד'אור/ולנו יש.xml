@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ולנו יש</title>
+        <singer classification="unknown">דוד ד אור</singer>
+        <writer>דוד ד'אור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ולנו יש</head>
+        <lg number="1" type="stanza">
+          <l>ולנו יש את המלחמות</l>
+          <l>לנו יש את החלומות</l>
+          <l>ואת כל הזמן הזה</l>
+          <l>ולנו יש את האהבה</l>
+          <l>ולנו יש את ההקרבה</l>
+          <l>וזה כל הזמן הזה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סלחי לי אם אצא לרגע</l>
+          <l>לא, זה לא משהו אישי </l>
+          <l>רק לרגע, להבין</l>
+          <l>להבין אותך יותר טוב מכולם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ולנו יש את הנגיעה</l>
+          <l>ואת כל מה שהיא מביאה</l>
+          <l>ותמונות מן העבר </l>
+          <l>ולנו יש את האהבה</l>
+          <l>ולנו יש את האכזבה </l>
+          <l>וריקוד שלא נגמר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סלחי לי אם אצא לרגע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

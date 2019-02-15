@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלופת המשחק</title>
+        <singer classification="male singer">רגב הוד</singer>
+        <writer>אלון צדוק</writer>
+        <composer>אביחי מליחי</composer>
+        <album>התינשאי לי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלופת המשחק</head>
+        <lg number="1" type="stanza">
+          <l>אלופת המשחק שבגברים</l>
+          <l>את עושה את זה טבעי ומבפנים</l>
+          <l>הביאי לי הכח, האירי לי פני</l>
+          <l>בי הפסיקי לשטות לשחק ברגשותי</l>
+          <l>המשחק שלך איתי נגמר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תפסיקי לשחק בי כבר, מספיק ודי הכל נגמר</l>
+          <l>לך דבר לא יעזור, אני שוב לא אחזור</l>
+          <l>תפסיקי לשחק בי כבר, מספיק ודי הכל נגמר</l>
+          <l>לך דבר לא יעזור, אני שוב לא אחזור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכשיו אחרי שהמשחק נגמר</l>
+          <l>מתנחלת מחכה רק להארכה</l>
+          <l>במילותייך מנסה את לרכך</l>
+          <l>ובתוכך יודעת את זה לא ילך</l>
+          <l>אל תנסי חבל לך על הזמן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תפסיקי לשחק בי כבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

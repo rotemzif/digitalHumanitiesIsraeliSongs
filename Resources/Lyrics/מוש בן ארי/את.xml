@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את 309</title>
+        <singer classification="male singer">מוש בן ארי</singer>
+        <writer>מוש בן ארי</writer>
+        <composer>מוש בן ארי</composer>
+        <album>דרך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את</head>
+        <lg number="1" type="stanza">
+          <l>ואת, איך שאת יודעת אותי </l>
+          <l>את, איך שאת נוגעת בי </l>
+          <l>את, איך שאת אוהבת אותי, את </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואת, איך שאת מכילה חולשתי </l>
+          <l>את, איך שאת קשובה לליבי, את </l>
+          <l>איך שאת אוחזת ידי </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את, כמה שיותר גבוה </l>
+          <l>כמה שיותר לנגוע </l>
+          <l>כמה שיותר בך </l>
+          <l>כמה שיותר גבוה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את, איך שאת לוקחת אותי </l>
+          <l>את, איך שבלילות לצידי, את </l>
+          <l>איך שאת לומדת אותי, את </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואת, איך שבצחוקך שמחתי </l>
+          <l>את, איך בדמעתך כאבי </l>
+          <l>את, איך בהיותך היותי </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>את, כמה שיותר גבוה </l>
+          <l>כמה שיותר לנגוע </l>
+          <l>כמה שיותר בך </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>את, כמה שיותר גבוה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

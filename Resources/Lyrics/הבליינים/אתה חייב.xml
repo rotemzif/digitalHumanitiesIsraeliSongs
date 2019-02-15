@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אתה חייב</title>
+        <singer classification="unknown">הבליינים</singer>
+        <writer>מאור כהן</writer>
+        <composer>אורן לוטנברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אתה חייב</head>
+        <lg number="1" type="stanza">
+          <l>אתה חייב לשמור על קשר</l>
+          <l>עם הדודה במפרץ</l>
+          <l>אתה לקרוא ת'ספר</l>
+          <l>על תיאורית המפץ</l>
+          <l>אתה חייב לזרוק קצת אוכל</l>
+          <l>לחתול שבגינה</l>
+          <l>אתה חייב לרקוד בערב</l>
+          <l>במסיבה של הילדה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אתה חייב לדעת למה</l>
+          <l>אתה חייב לדעת איך</l>
+          <l>את רוצה לדעת כמה</l>
+          <l>אתה חייב להתרכך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה חייב לקחת חופש</l>
+          <l>ברמת גן החדשה</l>
+          <l>אתה חייב לשבור ת'יושב</l>
+          <l>עם השיכור של השכונה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אתה חייב לדעת למה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

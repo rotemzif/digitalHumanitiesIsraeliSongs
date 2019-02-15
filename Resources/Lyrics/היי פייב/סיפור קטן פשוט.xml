@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סיפור קטן פשוט</title>
+        <singer classification="unknown">היי פייב</singer>
+        <writer>חמי רודנר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סיפור קטן פשוט</head>
+        <lg number="1" type="stanza">
+          <l>עולה על האוטובוס הבא,</l>
+          <l>מנגבת את עיניה בשרוול של חולצה</l>
+          <l>משובצת בכחול - כמו עיניה.</l>
+          <l>כחול הוא הצבע שלה עכשיו,</l>
+          <l>היא לא תוותר עליו.</l>
+          <l>נשיקה, אחרונה היא נזכרת</l>
+          <l>ונסגרת - לא חוזרת.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סיפור קטן פשוט -</l>
+          <l>על אהבה, התחילה וכבר נגמרה -</l>
+          <l>בדמעה. אהבה זה דבר פשוט -</l>
+          <l>משוגע. בלעדיה...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכשיו היא סגורה ועבותה,</l>
+          <l>סגרה עליו את עלבונה.</l>
+          <l>אל תחשוב עלי רע, אם ארצה</l>
+          <l>פתאום ללכת.</l>
+          <l>יום סגרירי אפור כבד,</l>
+          <l>יום נפלא להיפרד.</l>
+          <l>נשיקה אחרונה,</l>
+          <l>היא סוגרת את הדלת ועוזבת.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סיפור קטן פשוט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חי בסרט</title>
+        <singer classification="unknown">הגברת הראשונה</singer>
+        <writer>אריק גייזלר</writer>
+        <composer>אריק גייזלר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חי בסרט</head>
+        <lg number="1" type="stanza">
+          <l>בלי רגשות עם כוונה תחילה </l>
+          <l>היא מחכה בפינה </l>
+          <l>היום אתה הולך לראות מקרוב </l>
+          <l>מה זאת באמת אהבה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היא מסתירה את הסכין יפה </l>
+          <l>לא ראית איך זה בא </l>
+          <l>פתאום דקירה בלב וסכין בגב </l>
+          <l>ואתה על הרצפה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שוב אני לא קונה כל מה שאת מוכרת </l>
+          <l>החיצים שאת יורה, הם עטופים בסרט </l>
+          <l>לא לוקחת אף שבוי </l>
+          <l>כולם מתים בדרך הקשה </l>
+          <l>ואני נכנע </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אתה לא יודע איך יוצאים מזה </l>
+          <l>אז לאט מאבד שליטה </l>
+          <l>חייב למצוא ת'זמן להשתחרר</l>
+          <l>ולומר לעצמך </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שוב אני לא קונה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כל יום אני מרגיש כאילו חי בסרט </l>
+          <l>אני שחקן משנה ואת תמיד כוכבת </l>
+          <l>עלילה לא משנה, תמיד את נעלמת כשנגמר </l>
+          <l>ואני נשאר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

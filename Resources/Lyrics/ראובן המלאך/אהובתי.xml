@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהובתי 35</title>
+        <singer classification="unknown">ראובן המלאך</singer>
+        <writer>שי זאדה</writer>
+        <composer>שי זאדה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהובתי</head>
+        <lg number="1" type="stanza">
+          <l>אהובתי איך אוכל להודות לך</l>
+          <l>אם רק ידעת מה עובר בתוכי</l>
+          <l>לא הבנתי שכואב לך</l>
+          <l>לך פותח אלף שערים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מתנה הכי יפה שנתת לי</l>
+          <l>לך ילדה לא אשכח לעולם</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אכזבה גדולה שפגעה בי</l>
+          <l>לא נתנה לי דרך חזרה</l>
+          <l>באת אלי כמו מלאך ולחשת לי</l>
+          <l>אהובי שלי אני כאן לצידך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נשמה אל נא תלכי לי</l>
+          <l>בליבך אהבה ואמון</l>
+          <l>הסתכלי עלי והביטי</l>
+          <l>נותרתי עכשיו חסר ביטחון</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>החיבוק האהבה שנתת לי</l>
+          <l>הביאו לי אור ואמונה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אכזבה גדולה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

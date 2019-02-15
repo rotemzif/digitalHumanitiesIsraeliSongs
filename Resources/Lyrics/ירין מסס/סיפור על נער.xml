@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סיפור על נער</title>
+        <singer classification="unknown">ירין מסס</singer>
+        <writer>ירין מסס</writer>
+        <composer>ירין מסס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סיפור על נער</head>
+        <lg number="1" type="stanza">
+          <l>זה סיפור על נער שתוכו רסיסים </l>
+          <l>שניסה לכתוב עלייך כבר מאות שירים </l>
+          <l>אבל מבין שאין לו מספיק שורות ומילים </l>
+          <l>להביע אובדן שרק גודל ולא יחלים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והיום אני נשבע שלעולם לא אסלח </l>
+          <l>וגם לא אשמור טינה </l>
+          <l>ומסיבה אחת פשוטה </l>
+          <l>שרק היית ילדה, ילדה יפה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך שהגלים בעינייך באותו ערב בלתי נשכח </l>
+          <l>סחפו אותו אל מסע ללבך הנחשק </l>
+          <l>ואל אותה שבוע שציינה את סוף המסע </l>
+          <l>אך בין פיך ללבך הייתה סתירה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והיום אני נשבע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

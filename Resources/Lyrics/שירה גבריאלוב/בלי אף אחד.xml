@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלי אף אחד</title>
+        <singer classification="female singer">שירה גבריאלוב</singer>
+        <writer>שירה גבריאלוב</writer>
+        <composer>שירה גבריאלוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלי אף אחד</head>
+        <lg number="1" type="stanza">
+          <l>לא רוצה להיות לבד</l>
+          <l>רוצה אותך בלי אף אחד</l>
+          <l>רק כשהלילה יורד על שנינו</l>
+          <l>הכוכבים שוב נדלקים</l>
+          <l>כמה זמן כבר לא התראינו</l>
+          <l>רק בחלום רוצה לישון</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני לבד</l>
+          <l>שוב החושך יורד</l>
+          <l>הכוכבים</l>
+          <l>שוב כבים</l>
+          <l>בחוץ מפחיד החושך</l>
+          <l>בפנים קצת ריק מדי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רוצה לישון</l>
+          <l>בלי סכנה אותך לחלום</l>
+          <l>כשהדימיון שורץ בתוכי</l>
+          <l>זה לא טבעי</l>
+          <l>רוצה איתך להיות</l>
+          <l>לא לפחד להתאהב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני לבד, שוב החושך יורד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בלי אף אחד</l>
+          <l>לבד</l>
+          <l>בלי אף אחד</l>
+          <l>לבד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

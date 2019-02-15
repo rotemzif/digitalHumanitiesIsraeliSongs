@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יה מולנה</title>
+        <singer classification="band">גאיה</singer>
+        <writer>מישל עמר</writer>
+        <composer>גילי ליבר</composer>
+        <album>רוקדים ושרים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יה מולנה</head>
+        <lg number="1" type="stanza">
+          <l>חבבי דיאלי יא-חביבי</l>
+          <l>סתך חביבי יה-עיני</l>
+          <l>חביבי דיאלי יא-חביבי</l>
+          <l>סתך סתך יה-עיני</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יה-מולנה </l>
+          <l>תן שמחה</l>
+          <l>יה-מולנה</l>
+          <l>ג'ביל פרחה</l>
+          <l>יה – מולנה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יה-מולנה</l>
+          <l>חביבי דיאלי</l>
+          <l>יא-מולנה</l>
+          <l>ג'ביל פרחה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

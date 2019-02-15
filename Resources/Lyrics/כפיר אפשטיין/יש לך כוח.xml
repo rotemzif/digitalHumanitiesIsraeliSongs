@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לך כוח</title>
+        <singer classification="male singer">כפיר אפשטיין</singer>
+        <writer>כפיר אפשטיין</writer>
+        <composer>כפיר אפשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לך כוח</head>
+        <lg number="1" type="stanza">
+          <l>לא נשאר לי כלום מלבד האתמול</l>
+          <l>ובגדול, גם האתמול עשה לי רע</l>
+          <l>לא נשאר לי כלום מלבד שיעמום</l>
+          <l>ומעניין ששיעמום זה לא נורא</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש לך כוח</l>
+          <l>להתעורר בבוקר שוב</l>
+          <l>יש לך כוח</l>
+          <l>להתנגד להם גם כשהכל עקום</l>
+          <l>יש לך חשק</l>
+          <l>להסתכל ולהבין</l>
+          <l>יש לך נשק </l>
+          <l>לירות בהם כשהם עוד ישנים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא נשאר לי כסף לקנות את העיתון</l>
+          <l>שבו כתוב שיש יותר אבטלה</l>
+          <l>לא נשאר לי זמן לשיר אחרון</l>
+          <l>שבו אשיר על פתרונות שלא נדע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש לך כוח...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא נשאר לי כלום מלבד זיכרון</l>
+          <l>וזכרונות, זה לא מה שהיה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

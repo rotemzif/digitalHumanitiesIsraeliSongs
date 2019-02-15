@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ים של חלומות</title>
+        <singer classification="female singer">לאה שבת</singer>
+        <writer>לאה שבת</writer>
+        <composer>לאה שבת</composer>
+        <album>כל השירים - אוסף</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ים של חלומות</head>
+        <lg number="1" type="stanza">
+          <l>משנה שעברה לשנה חדשה</l>
+          <l>כלום לא השתנה</l>
+          <l>יש לי הכל</l>
+          <l>ואין לי כלום</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>משנה שעברה לשנה חדשה</l>
+          <l>מה בי השתנה</l>
+          <l>מה השתנה בי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>וכמה שארצה</l>
+          <l>אני רוצה</l>
+          <l>וכמה שאבכה</l>
+          <l>אני בוכה</l>
+          <l>נתת לי יד, לא</l>
+          <l>את הלב, לא</l>
+          <l>את השמחה, לא</l>
+          <l>הכאב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וכמה שארצה</l>
+          <l>אני רוצה</l>
+          <l>וכמה שאבכה</l>
+          <l>אני בוכה</l>
+          <l>נתת לי שם, לא</l>
+          <l>זיכרון, לא</l>
+          <l>את ההמשך, לא</l>
+          <l>הכאב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מגורים זמניים כל הזמן שוטטות</l>
+          <l>שלא אעשה איזו שטות</l>
+          <l>שלא אלך בדרך לאיבוד</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אנשים חדשים אכזבות ותקוות</l>
+          <l>וים של חלומות</l>
+          <l>בים של גלים וסערות</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>וכמה שארצה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוא 266</title>
+        <singer classification="female singer">קרן לוי</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוא</head>
+        <lg number="1" type="stanza">
+          <l>הלב פתוח מוכן לבואך</l>
+          <l>חלון פתוח השארתי לקראתך</l>
+          <l>הלב פתוח מה קורה איתך?</l>
+          <l>מחר אולי יהיה מאוחר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בוא, בוא, בוא</l>
+          <l>מכה בי ליבי מחכה שתבוא</l>
+          <l>בוא, בוא, בוא</l>
+          <l>אהבה אמיתית שתתן ותתן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שקט הלילה זרוע כוכבים</l>
+          <l>באה רוח עם שטיח עננים</l>
+          <l>שקט הלילה ובתוכי פחדים</l>
+          <l>לא הבנתי את החיים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בוא, בוא, בוא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

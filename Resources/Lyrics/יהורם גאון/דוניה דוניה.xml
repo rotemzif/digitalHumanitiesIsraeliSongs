@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דוניה דוניה</title>
+        <singer classification="male singer">יהורם גאון</singer>
+        <writer>תלמה אליגון רוז</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דוניה דוניה</head>
+        <lg number="1" type="stanza">
+          <l>הלכה דוניה לקיבוץ</l>
+          <l>ופגשה שם בחלוץ</l>
+          <l>דוניה דוניה דוניה דוניתי</l>
+          <l>את אוהבת רק אותי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הלכה דוניה אל הכפר</l>
+          <l>ופגשה שם באיכר</l>
+          <l>דוניה דוניה...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלכה דוניה אל העיר</l>
+          <l>ופגשה היא שם בגביר</l>
+          <l>דוניה דוניה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

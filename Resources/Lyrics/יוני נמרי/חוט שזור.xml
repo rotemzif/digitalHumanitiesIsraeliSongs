@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חוט שזור</title>
+        <singer classification="male singer">יוני נמרי</singer>
+        <writer>ישראל שרקי</writer>
+        <composer>יוני נמרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חוט שזור</head>
+        <lg number="1" type="stanza">
+          <l>המילים וכך גם המעשים </l>
+          <l>השייך באמת נרקם במרווח שביניהם </l>
+          <l>משהו מבפנים שאי אפשר להגדירו </l>
+          <l>לא במילים ולא במעשים </l>
+          <l>משהו מבפנים שאי אפשר להסבירו </l>
+          <l>לא במילים ולא במעשים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חוט שזור בינו לבין עצמו </l>
+          <l>חוט שזור עד יעלה אורו </l>
+          <l>חוט שזור עיניו נוסקות למרום </l>
+          <l>נושאות סיפור חייו לכל מקום </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בנאדם עושה חייו והם עושים אותו </l>
+          <l>האדם שוזר בצעדיו שלו </l>
+          <l>ושלום הוא מחפש וטיפה של שקט </l>
+          <l>וכשנפרמים חוטיו הוא שוב שוזר ברטט </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לב אדם כל תקוותיו נשמעים בלאט </l>
+          <l>נשמתו ותחושותיו נקשרים לאט </l>
+          <l>הוא צופה ליום עתיד מתוך אמת פשוטה </l>
+          <l>והוא רוקם סודו קסום ממילא </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>השייך מעצמו נרקם במרווח שבין המעשה למילה </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>חוט שזור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

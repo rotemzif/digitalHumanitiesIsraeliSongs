@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דווקא היום 3</title>
+        <singer classification="female singer">מרגלית צנעני</singer>
+        <writer>אסף אטדגי</writer>
+        <composer>missing</composer>
+        <album>דווקא היום</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דווקא היום</head>
+        <lg number="1" type="stanza">
+          <l>כמו פרח שפורח בבוקרו של יום אפור</l>
+          <l>כמו בשיר יפה שמח ששר נגן הרחוב</l>
+          <l>כמו חיוך קטן של ילד במעוף הנדנדות </l>
+          <l>במפגש הרכבות דווקא היום דווקא ביום הזה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמו רוח שנושבת ומחיה את הנשמה</l>
+          <l>כמו חייל השב הביתה בא מעין הסערה</l>
+          <l>כנדידת הזמן לחוש הבל נשמתך</l>
+          <l>גברה אהבתך דווקא היום דווקא ביום הזה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>גם אם אחכה לך כל השנה</l>
+          <l>גם אם אחפש בכל פינה קטנה</l>
+          <l>גם אם אצטרך להתמסר אל השינה</l>
+          <l>אחכה לך עוד אחכה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כמו שגופי רועד שאינך כאן לידי</l>
+          <l>כמו שעצבות תכבה בראותה אותך איתי</l>
+          <l>כאשליה שמנסה לתפוס מעט אמת</l>
+          <l>לפני שתמוטט דווקא היום דווקא ביום הזה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>גם אם אחכה לך כל השנה</l>
+          <l>גם אם אחפש בכל פינה קטנה</l>
+          <l>גם אם אצטרך להתמסר אל השינה</l>
+          <l>אחכה לך עוד אחכה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

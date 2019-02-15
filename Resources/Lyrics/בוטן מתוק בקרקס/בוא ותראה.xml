@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוא ותראה 2</title>
+        <singer classification="band">בוטן מתוק בקרקס</singer>
+        <writer>גדי אלטמן</writer>
+        <composer>גדי אלטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוא ותראה</head>
+        <lg number="1" type="stanza">
+          <l>סוף לרגשות אין מקום אחר</l>
+          <l>צף בין מציאות לדימיון אפל</l>
+          <l>וכל מה שנשאר לי זה להתפלל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלוהים! בוא ותראה איך אני סובך</l>
+          <l>בוא ותראה איך אני סובל</l>
+          <l>בוא ותראה איך אני סובל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>סוף לרגשות משהו מת בפנים</l>
+          <l>למה שניבט מולי מהמראה נמאס מחיים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלוהים!</l>
+          <l>בוא ותראה איך אני סובל</l>
+          <l>בוא ותראה איך אני סובל</l>
+          <l>בוא ותראה איך אני סובל</l>
+          <l>בוא ותראה איך אני סובל</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בוא ותראה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

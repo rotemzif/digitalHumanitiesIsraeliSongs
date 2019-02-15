@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תן לי 42</title>
+        <singer classification="unknown">מרב סימן טוב</singer>
+        <writer>מרב סימן טוב</writer>
+        <composer>מרב סימן טוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תן לי</head>
+        <lg number="1" type="stanza">
+          <l>ושוב הדלת נפתחת</l>
+          <l>אני נכנסת בלי פחד</l>
+          <l>ונושמת עמוק כדי לא לוותר</l>
+          <l>על מה שיש לי לדעת</l>
+          <l>איך לאהוב בלי לגעת</l>
+          <l>בלי לשקר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ושוב המים הם מים</l>
+          <l>הם נבלעים בשמים</l>
+          <l>בקו אופק רצוף מכשולים חבויים</l>
+          <l>לבחור לרצות או לשכוח</l>
+          <l>לתת לאושר לפתוח</l>
+          <l>מאויים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תן לי</l>
+          <l>מה שאין לי</l>
+          <l>מה שרודף אותי בלילות</l>
+          <l>תן לי</l>
+          <l>מה שאין לי</l>
+          <l>מה שיכולתי להיות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ושוב ללכת קדימה</l>
+          <l>לצלול רק עוד ועוד פנימה</l>
+          <l>מבלי לחפש תשובות נכונות</l>
+          <l>להתעכב ולסלוח</l>
+          <l>להתמסר ולפתוח</l>
+          <l>עוד כמה דלתות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תן לי</l>
+          <l>מה שאין לי</l>
+          <l>מה שרודף אותי בלילות</l>
+          <l>תן לי</l>
+          <l>מה שאין לי</l>
+          <l>מה שיכולתי להיות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

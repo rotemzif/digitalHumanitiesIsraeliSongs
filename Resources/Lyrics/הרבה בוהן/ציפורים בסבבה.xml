@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ציפורים בסבבה</title>
+        <singer classification="unknown">הרבה בוהן</singer>
+        <writer>ארנון אביטל</writer>
+        <composer>ארנון אביטל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ציפורים בסבבה</head>
+        <lg number="1" type="stanza">
+          <l>אני הולך לי ברחוב</l>
+          <l>ובאוויר הכל רטוב</l>
+          <l>פתאום קופץ מקק</l>
+          <l>אני לא במשחק</l>
+          <l>אני כמו משותק, היום.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בוקר חדש עומד לעלות </l>
+          <l>ואיך לא שמתי לב שהציפורים שרות</l>
+          <l>שרות לי עכשיו...</l>
+          <l>ואם אני רוצה לעזוב</l>
+          <l>אז הן מצייצות שעוד יהיה לי טוב</l>
+          <l>כי טוב פה עכשיו..</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ומה אם לא יבוא מחר?</l>
+          <l>אולי אצא לי מאוחר</l>
+          <l>אני אהיה נרגש</l>
+          <l>אצעק אולי אלחש</l>
+          <l>אבטחן בזה ממש.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בוקר חדש עומד לעלות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

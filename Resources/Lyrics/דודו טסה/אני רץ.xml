@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני רץ 2</title>
+        <singer classification="male singer">דודו טסה</singer>
+        <writer>דודו טסה</writer>
+        <composer>missing</composer>
+        <album>מתוך בחירה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני רץ</head>
+        <lg number="1" type="stanza">
+          <l>אני רץ</l>
+          <l>אני חייב להספיק כל מה שהעולם מציע</l>
+          <l>כל זמן שהאויר מגיע</l>
+          <l>וזה לא מפריע ומלטף אותי</l>
+          <l>ויש אצלך אור למה לי לעצור</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני רץ</l>
+          <l>אני חייב להספיק כל עוד שאני מגיע</l>
+          <l>כל זמן שאני מזיע</l>
+          <l>וזה לא מפריע וממסטל אותי</l>
+          <l>ויש אצלך אור אני בטח עוד אחזור</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני יודע אני זז וזה פוגע</l>
+          <l>בלב שלי יש חור</l>
+          <l>שאי אפשר לסגור</l>
+          <l>ואני רץ</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני רץ</l>
+          <l>אני חייב להספיק כל מה שהעולם מציע</l>
+          <l>כל זמן שהאויר מגיע</l>
+          <l>וזה לא מפריע ומלטף אותי</l>
+          <l>ויש אצלך אותי את בטח תחכי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני רץ</l>
+          <l>אני חייב להספיק כל מה שפורק ת'זעם</l>
+          <l>כל מה שחלמנו פעם</l>
+          <l>כל דבר שיש בו טעם ומפנק אותי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני יודע אני זז וזה פוגע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

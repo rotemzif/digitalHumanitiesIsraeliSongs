@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מרגיש כחול</title>
+        <singer classification="male singer">לידור יוספי</singer>
+        <writer>אייל צברי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מרגיש כחול</head>
+        <lg number="1" type="stanza">
+          <l>רואה אותך כל בוקר</l>
+          <l>זורחת כמו אור ראשון</l>
+          <l>נושם אותך כל בוקר</l>
+          <l>מבושמת מרגיש כחול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לפעמים את כמו אבן</l>
+          <l>לא נושקת בשפתי</l>
+          <l>מחפש אלייך דרך</l>
+          <l>להגיע אל חיי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כן איך היית אומרת</l>
+          <l>ואיך את יכולה</l>
+          <l>לדעת לעזוב אותי</l>
+          <l>עם סימני השאלה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מרגיש אותך נושקת</l>
+          <l>כשאת עוזבת מרגיש רחוק</l>
+          <l>ממני מתרחקת שאת לוחשת</l>
+          <l>אתה מתוק</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לפעמים את כמו אבן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

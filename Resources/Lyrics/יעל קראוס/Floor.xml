@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Floor</title>
+        <singer classification="female singer">יעל קראוס</singer>
+        <writer>יעל קראוס</writer>
+        <composer>יעל קראוס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Floor</head>
+        <lg number="1" type="stanza">
+          <l>Aren't you just afraid of losing me? </l>
+          <l>Aren't you just afraid of letting me go? </l>
+          <l>Aren't you just afraid of bruising me? </l>
+          <l>There are ways to treat a fragile girl </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>If you let me walk out the door </l>
+          <l>Why, why, why every time we try </l>
+          <l>I end up on the floor?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l> Aren't you tired of abusing me</l>
+          <l>Don’t we need to fight and make out all night long? </l>
+          <l>Aren't you strong enough for holding me? </l>
+          <l>Don’t you love all those dramatic girls?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>If you let me walk out the door </l>
+          <l>Why, why, why every time we try </l>
+          <l>I end up on the floor?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איפה את 15</title>
+        <singer classification="unknown">יקיר בן 2</singer>
+        <writer>יניב ברמלי</writer>
+        <composer>איתי אמויאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איפה את</head>
+        <lg number="1" type="stanza">
+          <l>ממזרח למערב אני נוסע</l>
+          <l>זה קשה לי כשאת לא כאן</l>
+          <l>אך בסוף אמצא אותך אני יודע</l>
+          <l>זה רק עניין של זמן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך נסעת לך ככה פתאום </l>
+          <l>איך נסעת ולא אמרת שלום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תגידי איפה איפה את היום</l>
+          <l>חיפשתי בעולם בכל מקום</l>
+          <l>תני סימן ואגיע אלייך</l>
+          <l>לא יכול יותר בלעדייך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל ארצות רחוקות אני אגיע</l>
+          <l>יש בי רצון להיות איתך</l>
+          <l>תאמיני האהבה עוד תפתיע</l>
+          <l>הבטחתי לעולם אהיה שלך....</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>איך נסעת לך ככה פתאום </l>
+          <l>איך נסעת ולא אמרת שלום</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>פזמון.......</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

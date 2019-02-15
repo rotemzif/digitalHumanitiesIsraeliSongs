@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוקדת 13</title>
+        <singer classification="male singer">תמיר גל</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>עממי ערבי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוקדת</head>
+        <lg number="1" type="stanza">
+          <l>את כל כך מושלמת</l>
+          <l>ומיוחדת</l>
+          <l>את ליבי תופסת</l>
+          <l>ולא עוזבת  מתוקה</l>
+          <l>איך בך התאהבתי</l>
+          <l>כמו ים נסחפתי</l>
+          <l>כשאותך חבקתי</l>
+          <l>רק אז הבנתי</l>
+          <l>זו אהבה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רוקדת רוקדת</l>
+          <l>תנשמה נותנת</l>
+          <l>את כולם את סוחפת</l>
+          <l>ואלי נגשת  בשקט לוחשת</l>
+          <l>שהריקוד הזה הוא בשבילי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מסתכלים עלייך</l>
+          <l>אל תוך עינייך</l>
+          <l>את את זה יודעת</l>
+          <l>ומשגעת את כולם</l>
+          <l>רק אני אתן לך</l>
+          <l>את מה שאין בך</l>
+          <l>וליבי קורא לך</l>
+          <l>הכי רוצה בך בעולם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רוקדת רוקדת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תסתכלי עלינו</title>
+        <singer classification="unknown">דניאל בן חיים</singer>
+        <writer>טל שגב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תסתכלי עלינו</head>
+        <lg number="1" type="stanza">
+          <l>את הנשימות שלך אני מרגיש גם מכוכב אחר</l>
+          <l>על השקיעות איתך לעולם לא מוכן לוותר</l>
+          <l>ואין אחת אחרת שתבין את ליבי הרעב </l>
+          <l>להיות רק שלך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תסתכלי עלינו, תסתכלי עלינו</l>
+          <l>כי את השמיים לא יקחו לנו לעולם </l>
+          <l>תסתכלי עלינו, תסתכלי על שנינו</l>
+          <l>גם השמיים מעידים שאני שלך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את השלווה איתך</l>
+          <l>לא אחליף בדבר אחר </l>
+          <l>הלב צמא רק לך</l>
+          <l>ואין מילים שיוכלו לתאר</l>
+          <l>את אהבה אחרת </l>
+          <l>רק איתך נעלם הכאב </l>
+          <l>לאהוב רק אותך </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תסתכלי עלינו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

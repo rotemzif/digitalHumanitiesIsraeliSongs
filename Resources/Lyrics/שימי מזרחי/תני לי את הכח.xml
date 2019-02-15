@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תני לי את הכח</title>
+        <singer classification="unknown">שימי מזרחי</singer>
+        <writer>אלי קשת</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תני לי את הכח</head>
+        <lg number="1" type="stanza">
+          <l>אם תאמרי שאצלך יש עדיין </l>
+          <l>אהבה שלעד תשאר</l>
+          <l>להיכן שתלכי אחרייך </l>
+          <l>אלחם בכוחי לא אוותר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תני לי את הכח לצידך לשמוח</l>
+          <l>תני לי את הדרך בחייך שוב לפרוח</l>
+          <l>תני לי את הטעם לאהוב כמו פעם</l>
+          <l>תני לי שוב לשמוח,</l>
+          <l>רק תתני לי את הכח.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואם רק תבקשי שאתן לך</l>
+          <l>את ליבי האוהב לעצמך</l>
+          <l>רק תדעי שאצלי זה לנצח</l>
+          <l>הוא שלך ותמיד בשבילך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תני לי את הכח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

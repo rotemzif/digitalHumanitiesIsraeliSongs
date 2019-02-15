@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בחור לבן 2</title>
+        <singer classification="male singer">פיטר רוט</singer>
+        <writer>דן תורן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בחור לבן</head>
+        <lg number="1" type="stanza">
+          <l>אני חייב לכם הסבר קצר</l>
+          <l>אין סיכוי שתשמעו את מה שאני שר</l>
+          <l>כי אני חי במזרח התיכון</l>
+          <l>שר עכשיו את השיר הלא נכון</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בחור לבן, כמובן</l>
+          <l>לא יכול לברוח ואין לי גם לאן </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ובינתיים ממשיכים לספור מתים </l>
+          <l>מתחמקים מכדורים של צלפים </l>
+          <l>הורגים בהם והם הורגים בנו </l>
+          <l>לא רוצה לגמור אחד משלנו </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בחור לבן, כמובן</l>
+          <l>לא יכול לברוח ואין לי גם לאן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

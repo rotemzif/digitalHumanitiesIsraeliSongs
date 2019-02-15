@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הייתי שם</title>
+        <singer classification="unknown">נטלי פרץ</singer>
+        <writer>חגי אוזן</writer>
+        <composer>חגי אוזן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הייתי שם</head>
+        <lg number="1" type="stanza">
+          <l>הייתי שם גם כשלא הרגשת</l>
+          <l>הייתי שם תמיד בשבילך</l>
+          <l>היו גם רגעים שנשברת</l>
+          <l>הייתי שם כדי לתקן אותך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קח אותי כמו אוויר</l>
+          <l>הכי עמוק שאפשר</l>
+          <l>כשתרגיש מבפנים שביר</l>
+          <l>תבין שבלעדיי, אי אפשר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אפילו שחשבת שוויתרתי</l>
+          <l>ראיתי מהצד אותך הולך</l>
+          <l>חמצן הוא גם תרופה לאש דועכת</l>
+          <l>נלחמתי שתחזור ותחייך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קח אותי כמו אוויר</l>
+          <l>הכי עמוק שאפשר</l>
+          <l>כשתרגיש מבפנים שביר</l>
+          <l>תבין שבלעדיי, אי אפשר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

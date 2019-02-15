@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קורא לך 5</title>
+        <singer classification="unknown">עמי אור</singer>
+        <writer>חגי מזרחי</writer>
+        <composer>עמי אור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קורא לך</head>
+        <lg number="1" type="stanza">
+          <l>איך לפתע רגש שעולה </l>
+          <l>מתוך תקווה מחפש תשובה, </l>
+          <l>ולפתע שקט, </l>
+          <l>הסתלקה לה אהבה סוערת וקסומה </l>
+          <l>מסתגר בחדר מקווה בסתר, שתחזרי אלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל היום קורא לך, </l>
+          <l>מכתבים שולח ואת כבר לא איתי </l>
+          <l>עכשיו הלב יודע, </l>
+          <l>את תמיד כאן לצידי בואי איתי. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את יודעת, גבר שמכוסה בעננה מגלה חולשה </l>
+          <l>מסתובב בלי הרף בין חוצות האהבה </l>
+          <l>אולי אמצא תשובה. </l>
+          <l>שוב חוזר לאמש כשלחשת ברגש, </l>
+          <l>תמיד אהיה שלך. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל היום קורא לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אוגנדה</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>יגאל בשן</writer>
+        <composer>יגאל בשן</composer>
+        <album>תלוי רק בך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אוגנדה</head>
+        <lg number="1" type="stanza">
+          <l>פעם כמעט שעברנו לגור באוגנדה</l>
+          <l>היה לנו בית גדול עם הרבה עצים</l>
+          <l>נשב נספר לילדים שרצינו אחרת</l>
+          <l>שתהיו גדולים לצבא לא הולכים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה לא יכול להיות, זה לא יכול להיות</l>
+          <l>זה לא יכול להיות, זה לא יכול להיות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הרצל היה מתהפך אם היה רק יודע</l>
+          <l>איך צלצלו כל הפעמונים</l>
+          <l>נשב נספר לילדים שהוא רצה אחרת</l>
+          <l>שתהיו גדולים לצבא לא הולכים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה לא יכול להיות...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כל הגדולים הנפילים שבנו את הארץ</l>
+          <l>כולם תמיד חזרו על אותו המשפט</l>
+          <l>נשב נספר לילדים שהם רצו אחרת</l>
+          <l>שתהיו גדולים לצבא לא הולכים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה לא יכול להיות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

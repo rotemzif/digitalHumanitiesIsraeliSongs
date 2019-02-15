@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ברגע קטון</title>
+        <singer classification="unknown">חגית כפיר והילה כפיר</singer>
+        <writer>מן המקורות</writer>
+        <composer>חגית כפיר</composer>
+        <album>לא ארחף בחלל</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ברגע קטון</head>
+        <lg number="1" type="stanza">
+          <l>ברגע קטון עזבתיך וברחמים גדולים אקבצך</l>
+          <l>בשצף קצף הסתרתי פניי רגע ממך</l>
+          <l>ובחסד עולם ריחמתיך אמר גואלך ה'</l>
+          <l>ובחסד עולם ריחמתיך וברחמים גדולים אקבצך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ברגע קטן עזבתיך אך אאספך שוב אליי</l>
+          <l>אנגב דמעותייך אביט ביופייך שובי אליי</l>
+          <l>ובחסד עולם נתחדש לא אסתיר פניי ממך</l>
+          <l>ובחסד עולם נתקדש אמר גואלך ה'</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

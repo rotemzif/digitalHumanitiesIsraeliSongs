@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לאן את הולכת 4</title>
+        <singer classification="male singer">ישי לוי</singer>
+        <writer>רביב בן מנחם</writer>
+        <composer>ניסים מרי</composer>
+        <album>האחת שלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לאן את הולכת</head>
+        <lg number="1" type="stanza">
+          <l>בכל יום איך את מוצאת על מה לריב</l>
+          <l>איך שאת יודעת כמה להכאיב</l>
+          <l>לא יודע איך ומה לחשוב</l>
+          <l>קשה מאוד כך לאהוב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מנסה אותי בכל דבר קטן</l>
+          <l>את רואה שחור אני רואה לבן</l>
+          <l>אם תרצי לקחת רגע לעצמך</l>
+          <l>אני כאן בשבילך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לאן את הולכת ומה תעשי</l>
+          <l>את מתנהגת ממש כמו ילדה קטנה</l>
+          <l>אולי תגידי מה עובר בראש שלך</l>
+          <l>אני כבר לא יודע מה איתך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את כל כך יפה הלב שלי מרגיש</l>
+          <l>לא יכול איתך להשאר אדיש</l>
+          <l>אלוהים ברא אותי למענך</l>
+          <l>אני כאן בשבילך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לאן את הולכת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

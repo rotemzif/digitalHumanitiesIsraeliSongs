@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צפצפי</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>ביגי</writer>
+        <composer>ביגי</composer>
+        <album>משוגע עלייך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צפצפי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>צפצפי על כולם</l>
+          <l>אל תראי ממטר</l>
+          <l>צפצפי על כולם</l>
+          <l>נישאר בקשר</l>
+          <l>צפצפי על כולם</l>
+          <l>את בשבילי שווה עולם</l>
+          <l>צפצפי צפצפי על כולם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רק שנינו יודעים את האמת</l>
+          <l>שאת מתה עלי ואני עלייך מת</l>
+          <l>הסתכלי אל העתיד אין לנו מה להפסיד</l>
+          <l>ואם אנחנו רבים</l>
+          <l>זה בגלל שאנחנו אוהבים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>צפצפי על כולם...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לכל מילה אני מתכוון</l>
+          <l>זה עניין פשוט של קח ותן</l>
+          <l>אל תתני לאנשים</l>
+          <l>לקלקל ת'יחסים</l>
+          <l>כי הם לא מבינים</l>
+          <l>מה הולך בחדרי חדרים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

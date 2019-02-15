@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא אתן</title>
+        <singer classification="unknown">הבשורה</singer>
+        <writer>הבשורה</writer>
+        <composer>תומר ישעיהו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא אתן</head>
+        <lg number="1" type="stanza">
+          <l>לא אני לא אתן שתתקרבי אליי</l>
+          <l>אני לא מוכן למצוא אותך קרוב מידי</l>
+          <l>כי לא אדע מה לעשות </l>
+          <l>אם תחזרי פתאום חזק אל תוך חיי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשאת כותבת שכדאי שניפגש</l>
+          <l> אני רוצה לומר לך לא להתעקש עליי, </l>
+          <l>אולי אני פצוע ועייף מלבקש</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יום אחד עבר</l>
+          <l>לילה שנמשך ולא נגמר</l>
+          <l>את נראית בדיוק אותו הדבר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עדיין לא מצאתי כח לספר</l>
+          <l>שהסתדרת ושמצאת מקום אחר</l>
+          <l>אני לא, אני לא חושב שבשבילנו יעזור אם נדבר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יום אחד עבר </l>
+          <l>לילה שנמשך ולא נגמר </l>
+          <l>את נראית בדיוק אותו הדבר</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אז אני לא רוצה שתחזרי אליי</l>
+          <l>אני לא מוכן למצוא אותך קרוב מידי</l>
+          <l>כי לא אדע מה לעשות </l>
+          <l>אם תחזרי פתאום חזק אל תוך חיי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

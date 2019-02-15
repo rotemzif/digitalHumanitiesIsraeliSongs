@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פרח הלילה</title>
+        <singer classification="unknown">קובי פז</singer>
+        <writer>משה יצחקי</writer>
+        <composer>קובי פז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פרח הלילה</head>
+        <lg number="1" type="stanza">
+          <l>השמש זרח, גם השנה הוא לא הגיע.</l>
+          <l>זה שבשבילו נשף הלילה פריחתו הלבנה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הפרח הלבן לא עושה מזה עניין</l>
+          <l>שליל פריחתו יהיה גם ליל מותו.</l>
+          <l>בערב כוכב, חופתו הלבנה,</l>
+          <l>בבוקר תכריכיו.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אילו ידעה שתפרח רק לילה אחד בשנה,</l>
+          <l>לא הייתה טורחת כל כך, ואולי דווקא משום כך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הפרח הלבן לא עושה מזה עניין...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בין אם יראו אותה, ובין אם איש לא יזכה להגיע.</l>
+          <l>הלילה הזה יהיה חתנה.</l>
+          <l>לקראתו לבנה, היא נפתחת כלה.</l>
+          <l>זורחת בליל חופתה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הפרח הלבן לא עושה מזה עניין...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

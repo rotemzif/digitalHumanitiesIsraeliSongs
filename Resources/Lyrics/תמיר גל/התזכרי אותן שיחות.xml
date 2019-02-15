@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>התזכרי אותן שיחות</title>
+        <singer classification="male singer">תמיר גל</singer>
+        <writer>מרטין גל</writer>
+        <composer>תמיר צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>התזכרי אותן שיחות</head>
+        <lg number="1" type="stanza">
+          <l>אני שותה ובוכה</l>
+          <l>לילה לילה לך מחכה</l>
+          <l>בחושך תפילה לוחש</l>
+          <l>חיזרי אלי שוב מבקש</l>
+          <l>נאחז בך כתינוק</l>
+          <l>בלעדייך רוצה לבכות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>התזכרי אותן שיחות</l>
+          <l>דברים אשר נפלו בינינו</l>
+          <l>אותו כאב אותן שמחות</l>
+          <l>אשר מלאו את לבבנו</l>
+          <l>אותו כאב</l>
+          <l>אותן שמחות</l>
+          <l>אשר מלאו את לבבנו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ליבי פורץ בזעקה</l>
+          <l>אלי אלי החזר אותה</l>
+          <l>איך שכחת אהבה</l>
+          <l>לא השארת כל תקווה</l>
+          <l>בלעדייך מה נשאר</l>
+          <l>פוחד אני כי זה נגמר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>התזכרי אותן שיחות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

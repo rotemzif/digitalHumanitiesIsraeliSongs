@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איפה היא עכשיו</title>
+        <singer classification="male singer">דני סנדרסון</singer>
+        <writer>דני סנדרסון</writer>
+        <composer>דני סנדרסון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איפה היא עכשיו</head>
+        <lg number="1" type="stanza">
+          <l>בפנקס מצאתי כתובת </l>
+          <l>רשומה על דף ישן </l>
+          <l>שם, רחוב, מס' וקידומת </l>
+          <l>היכרות שהיתה לי פעם </l>
+          <l>לתומי חייגתי אליה </l>
+          <l>מישהו ענה מנומנם </l>
+          <l>"כן" אמר "שמעתי עליה </l>
+          <l>אך מזמן היא לא גרה כאן" </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז לאן היא הלכה </l>
+          <l>רק הרוח תדע </l>
+          <l>נעלמה היא כלא הייתה </l>
+          <l>ובלילה סתווי שוב חושב לעצמי </l>
+          <l>איפה איפה היא עכשיו </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בטח היא נראית קצת אחרת </l>
+          <l>נשואה עם שני ילדים </l>
+          <l>לך תדע על מה היא חושבת </l>
+          <l>כשתולה את הבגדים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז לאן היא הלכה... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כבר שנים אבדו עקבותיה </l>
+          <l>לא אדע היכן לחפש </l>
+          <l>אם כל זאת עוד יש עליה: </l>
+          <l>"יום אחד אנו נפגש" </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אז לאן היא הלכה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בקהל הכי גדול</title>
+        <singer classification="male singer">שלומי שבת</singer>
+        <writer>עינת הולנדר</writer>
+        <composer>זיו רובינשטיין</composer>
+        <album>אחד לנשמה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בקהל הכי גדול</head>
+        <lg number="1" type="stanza">
+          <l>אין לי דרך לתאר את התחושה</l>
+          <l>זה מדגדג בִּקצות האצבעות</l>
+          <l>יש ניחוח התחלה חדשה</l>
+          <l>חושֵי הלב לא יכולים לטעות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הלילה כנראה</l>
+          <l>ליל ירח מלא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גם בקהל הכי גדול אני אבחין בך</l>
+          <l>מיד אדע, כי תזרחי למרחקים</l>
+          <l>נדמה שאינסוף גלגולים אני ממתין לך</l>
+          <l>באהבה, כך הסתבר לי, אין חוקים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מקווה לרקום איתך ימים יפים</l>
+          <l>מלבד דמותך התרוקנו החלומות</l>
+          <l>שעה שעה געגועים נשרפים</l>
+          <l>בְּאש הלא נודע והתפילות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הלילה כנראה</l>
+          <l>ליל ירח מלא</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>גם בקהל הכי גדול אני אבחין בך</l>
+          <l>מיד אדע, כי תזרחי למרחקים</l>
+          <l>נדמה שאינסוף גלגולים אני ממתין לך</l>
+          <l>באהבה, כך הסתבר לי, אין חוקים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המאסטרו</title>
+        <singer classification="unknown">גיא מזיג</singer>
+        <writer>גיא מזיג</writer>
+        <composer>גיא מזיג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המאסטרו</head>
+        <lg number="1" type="stanza">
+          <l>הוא שומע מחיאות זהו בוודאי האות </l>
+          <l>לעלות על הבמה לנגן את הנשמה</l>
+          <l>הוא משתיק את האולם מנצח את העולם</l>
+          <l>מנחם פה מסביב את הטמפו הוא מכתיב.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הוא מנגן כל תו שאצלו נכתב</l>
+          <l>אין בכלל סיכוי שימאס לו</l>
+          <l>אם אתם רוצים להיות בעניינים</l>
+          <l>כדאי שתסכלו עליו ואיך לא</l>
+          <l>זה המאסטרו זה המאסטרו.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הבנות שבקהל מתעלפות מהחשמל </l>
+          <l>שיוצא ומתפתל שהוא מניף את המקל</l>
+          <l>מפזר את התוים כמו אבק של כוכבים</l>
+          <l>לו עכשיו כולם זקוקים הוא קובע את החוקים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הוא מנגן כל תו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הסולן בכה מאוד למאסטרו הכבוד</l>
+          <l>ונגן המצילתיים הוא מוחא איתם כפיים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הוא מנגן כל תו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

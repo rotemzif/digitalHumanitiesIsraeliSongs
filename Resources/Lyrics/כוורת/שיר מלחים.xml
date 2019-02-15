@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר מלחים 2</title>
+        <singer classification="band">כוורת</singer>
+        <writer>אלון אולארצ'יק</writer>
+        <composer>missing</composer>
+        <album>צפוף באוזן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר מלחים</head>
+        <lg number="1" type="stanza">
+          <l>בספינה אז הפלגנו יצאנו אל הים</l>
+          <l>רב חובל והצוות וגם אני איתם</l>
+          <l>הגלים חרקו הרוחות נשבו</l>
+          <l>ככה זה כשאתה בים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עוגן עננים וחול</l>
+          <l>אין דבר יותר גדול</l>
+          <l>מלאהוב את כל הקשור בגלים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>על התורן עליתי להשקיף למרחקים</l>
+          <l>והנה מתקרבת ספינה של שודדים</l>
+          <l>רב חובל צועק וכולם בורחים</l>
+          <l>מה רוצים השודדים?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עוגן עננים וחול...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>חבלים סכינים עלינו מתנפלים</l>
+          <l>די די חבר'ה אנחנו נכנעים</l>
+          <l>חל מפנה, מה זה שם?</l>
+          <l>שודד נפל לים</l>
+          <l>אני מרגיש טיפה יותר טוב</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אז קראתי לניקו וניקו הטבח</l>
+          <l>ושלושתנו עמדנו עשינו כמו תותח</l>
+          <l>שודדים שמעו ומיד ברחו</l>
+          <l>כי חשבו שזה תותח</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>עוגן עננים וחול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

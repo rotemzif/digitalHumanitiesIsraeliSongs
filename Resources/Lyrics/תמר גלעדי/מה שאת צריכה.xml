@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה שאת צריכה 2</title>
+        <singer classification="female singer">תמר גלעדי</singer>
+        <writer>אריאל הורוביץ</writer>
+        <composer>אריאל הורוביץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה שאת צריכה</head>
+        <lg number="1" type="stanza">
+          <l>את ממשיכה להתווכח</l>
+          <l>ואת לא רואה שהוא רק לוקח</l>
+          <l>והוא לא נותן לך את</l>
+          <l>מה שאת צריכה באמת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זה לא משנה מה את אומרת</l>
+          <l>את רוצה אותו ולא מווותרת</l>
+          <l>והוא לא נותן לך את</l>
+          <l>מה שאת צריכה באמת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מאוחר בלילה</l>
+          <l>את מדליקה סיגריה</l>
+          <l>שמה מוסיקה חזק</l>
+          <l>הגוף רגוע</l>
+          <l>והל לא מסופק</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את צוחקת את צועקת</l>
+          <l>עפה לשמיים ומתרסקת</l>
+          <l>כי הוא לא נותן לך את</l>
+          <l>מה שאת צריכה באמת</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הוא בורח הוא שוכח</l>
+          <l>הוא שיכור איתך הוא מתפכח</l>
+          <l>והוא לא נותן לך את</l>
+          <l>מה שאת צריכה באמת</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מאוחר בלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

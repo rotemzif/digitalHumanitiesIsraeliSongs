@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ניגון 20</title>
+        <singer classification="unknown">מיטל הוכמן</singer>
+        <writer>תומר יוסף</writer>
+        <composer>תומר יוסף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ניגון</head>
+        <lg number="1" type="stanza">
+          <l>המיתרים שמנגנים עכשיו</l>
+          <l>מוצאים כיוון במשותף</l>
+          <l>וזה שווה ניגון, זה שווה ניגון.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>על פני עולה חיוך שישאר</l>
+          <l>חיוך נפרד</l>
+          <l>עד שנשוב, חיוך עצוב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אתה לא שומע אבל אני אשיר לך </l>
+          <l>עד שתשיר לי חזרה</l>
+          <l>אולי תשאיר בי רק תקווה קטנה</l>
+          <l>עד שתשיר לי חזרה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>והימים האלה שעוברים עלי</l>
+          <l>פורטים כאב ממושך, </l>
+          <l>ומתנגן זיוף, מתנגן זיוף.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אתה לא שומע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ספרי ילדה</title>
+        <singer classification="male singer">לידור יוספי</singer>
+        <writer>מיקי אפל</writer>
+        <composer>לידור יוספי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ספרי ילדה</head>
+        <lg number="1" type="stanza">
+          <l>ספרי לי ילדה</l>
+          <l>איך את מרגישה</l>
+          <l>כשאת בזרועות אחרות חבוקה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ספרי לי העוד את בי נזכרת</l>
+          <l>או שמה חלום בחייך רוקמת</l>
+          <l>ספרי לי העוד את בי נזכרת</l>
+          <l>או שמה חלום בחייך רוקמת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז למה אני הכל זוכר</l>
+          <l>ומדוע בלילות עוד אותך חולם</l>
+          <l>ולמה בי זורמת התחושה</l>
+          <l>כי בלילות את בחדרך בוכייה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ספרי לי ילדה</l>
+          <l>הכדאי לי לחכות</l>
+          <l>להפיח בנפשי תקוות חדשות</l>
+          <l>דלת ביתי תמיד לך פתוחה</l>
+          <l>חיזרי אהובה</l>
+          <l>דלת ביתי תמיד לך פתוחה</l>
+          <l>חיזרי לאהבה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אז למה אני הכל זוכר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

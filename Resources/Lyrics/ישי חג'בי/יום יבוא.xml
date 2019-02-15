@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יום יבוא 7</title>
+        <singer classification="unknown">ישי חג בי</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יום יבוא</head>
+        <lg number="1" type="stanza">
+          <l>בגנך ארגיש אהבתנו,</l>
+          <l>כפרי בשל שבא אל הגרון,</l>
+          <l>דמייך ירתחו וכל חושייך,</l>
+          <l>ולי לחשת אוהבת עד הסוף,</l>
+          <l>אני מבין הכל, אני מבין הכל,</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יום יבוא, אהבתך תשיבי</l>
+          <l>בלהט עד תחזירי אהבות,</l>
+          <l>וכמו פרפר לאור אני אבוא,</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מור ולבונה לך נתתי,</l>
+          <l>ליבי אגיש לך על מגש זהוב,</l>
+          <l>ולעולם אותך אזכור נשבעתי,</l>
+          <l>נפשי יוצאת אלייך כל היום,</l>
+          <l>אני מבין הכל, אני מבין הכל,</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יום יבוא, אהבתך תשיבי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

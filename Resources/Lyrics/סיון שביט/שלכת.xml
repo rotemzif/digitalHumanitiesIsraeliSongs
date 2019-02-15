@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלכת 21</title>
+        <singer classification="female singer">סיון שביט</singer>
+        <writer>שגיא צורף</writer>
+        <composer>שגיא צורף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלכת</head>
+        <lg number="1" type="stanza">
+          <l>עלה צהוב בין עלים ירוקים</l>
+          <l>עוד אור וכולם הופכים צהובים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ממול הוא מתקרב</l>
+          <l>מתקרב לעצמו</l>
+          <l>לא קל לו לאהוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>האור כבה</l>
+          <l>הכל חזר להיות ירוק</l>
+          <l>הציפורים מצייצות קוראות לאביב</l>
+          <l>אומרות לו לא אל תבוא אל העיר</l>
+          <l>לא לבוא לא אל תחזור אל העיר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ממול הוא מתקרב</l>
+          <l>מתקרב לעצמו</l>
+          <l>לא קל לו לאהוב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תנו לי כח</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>שי ראובני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תנו לי כח</head>
+        <lg number="1" type="stanza">
+          <l>ראיתי איך שבאת</l>
+          <l>והסתכלת אל תוך עיני</l>
+          <l>הרגשתי בליבי </l>
+          <l>שתשני לי את חיי</l>
+          <l>אז תנו לי כח </l>
+          <l>איתה לשמוח</l>
+          <l>תנו לי כח</l>
+          <l>תנו לי כח</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>באת אלי מהשמיים כמו מלאך</l>
+          <l>ומרגיש כמו בגן עדן פה איתך</l>
+          <l>בליבי נגעת ואת הכל ניצחת </l>
+          <l>ועכשיו הלב יודע שזו את</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הייתי מוותר </l>
+          <l>על כל דבר למענך</l>
+          <l>כל רגע בשבילי</l>
+          <l>זו חגיגה פה לצידך</l>
+          <l>אז תנו לי כח</l>
+          <l>איתה לשמוח</l>
+          <l>תנו לי כח</l>
+          <l>תנו לי כח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>באת אלי מהשמיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

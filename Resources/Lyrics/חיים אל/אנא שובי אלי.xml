@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אנא שובי אלי</title>
+        <singer classification="male singer">חיים אל</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אנא שובי אלי</head>
+        <lg number="1" type="stanza">
+          <l>כשנכנסתי לחדרך את שכבת במיטתך</l>
+          <l>אלי הפנת את גבך ולחשת לי שאינך</l>
+          <l>לא יכולתי לוותר וזעקתי מצטער</l>
+          <l>אני עשיתי טעות אל תומרי הכל אבוד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אנה שובי אלי ונגבי דימעותי</l>
+          <l>תסלחי לי לעולם כי אני רק בנאדם</l>
+          <l>אנה שובי אלי ונגבי דימעותי</l>
+          <l>תסלחי לי לעולם כי אני רק בנאדם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא רציתי בך לבגוד עם אחרת להנות</l>
+          <l>אך כשגמרתי כוסית לא הרגשתי מה עושים</l>
+          <l>אנה סילחי לי אהובה זה היה בלי כוונה</l>
+          <l>אני עשיתי טעות אל תומרי הכל אבוד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אנה שובי אלי ונגבי דימעותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

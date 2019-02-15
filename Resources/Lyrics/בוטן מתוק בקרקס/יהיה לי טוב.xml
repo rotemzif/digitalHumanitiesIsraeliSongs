@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יהיה לי טוב</title>
+        <singer classification="band">בוטן מתוק בקרקס</singer>
+        <writer>גדי אלטמן</writer>
+        <composer>גדי אלטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יהיה לי טוב</head>
+        <lg number="1" type="stanza">
+          <l>טוב זה טוב ברחתי אל הסוף</l>
+          <l>לחץ לי קצת בצד היה כאב גדול</l>
+          <l>אני ממשיך לדחוף אני בוחר לסבול</l>
+          <l>לובש פרצוף חבול אני יורד לצלול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יהיה לי טוב - טוב</l>
+          <l>גם כבר אם הסוף יהיה קרוב</l>
+          <l>גם אם לא יהיה לי מה לכתוב</l>
+          <l>אני יודע שיהיה לי טוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דפקו לך מכות כאב לך וירדו לך דמעות</l>
+          <l>סבלת ובלעת את הכל עד שלא נשאר לך</l>
+          <l>מה לאכול. תרצי לצלול אני יורד לצלול</l>
+          <l>אני חכם וגדול ויודע הכל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יהיה לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

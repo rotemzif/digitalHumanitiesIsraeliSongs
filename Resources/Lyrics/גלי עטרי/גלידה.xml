@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גלידה</title>
+        <singer classification="female singer">גלי עטרי</singer>
+        <writer>רחל שפירא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גלידה</head>
+        <lg number="1" type="stanza">
+          <l>רוח מצננת את פני</l>
+          <l>מביאה לי את הריח המתוק</l>
+          <l>שוב אני עוצמת את עיני</l>
+          <l>כדי לראות יותר טוב מרחוק</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא כל כך זוכרת את פניו</l>
+          <l>את ידיו מושיט אלי כמו אתמול</l>
+          <l>שני גביעים של גלידה בידיו</l>
+          <l>והגלידה מטפטפת על החול</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כל הקיץ מחכה</l>
+          <l>מחכה ומצפה</l>
+          <l>הרחוב הוא זרוע ארוכה</l>
+          <l>כל הקיץ לקראתי</l>
+          <l>תמיד בדרך הוא איתי</l>
+          <l>אני יודעת שיביא</l>
+          <l>יודעת שיביא</l>
+          <l>אבי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רוח מצננת פני ילדה</l>
+          <l>העולם כולו הוא שוקולד וניל</l>
+          <l>שני גביעים ריקים בשתי ידיו</l>
+          <l>וטיפות טיפות של גלידה על השביל</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כל הקיץ...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ואני מחכה לו, בחצר מחכה לו</l>
+          <l>עוד מעט הוא יביא לי, דבר מתוק</l>
+          <l>לילדותי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

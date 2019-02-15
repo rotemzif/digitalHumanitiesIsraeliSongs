@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשאתה זה אני</title>
+        <singer classification="female singer">ירדנה ארזי</singer>
+        <writer>יהודה פוליקר</writer>
+        <composer>יהודה פוליקר</composer>
+        <album>בושם על עורי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשאתה זה אני</head>
+        <lg number="1" type="stanza">
+          <l>שוב נלחצתי אל הקיר </l>
+          <l>שוב הצחקתי להזכיר </l>
+          <l>וירדתי על ברכי</l>
+          <l>כדי לנסות ולהסביר </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שאין אף אחד אחר </l>
+          <l>רק איתך זה יגמר </l>
+          <l>גם אם תסתתר </l>
+          <l>תתקרר או תתפרפר </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בית עם מלא ילדים ומשפחה </l>
+          <l>סובבים מסביבי סובבים מסביבך </l>
+          <l>כל המלחמות נפתרות שם במיטה </l>
+          <l>כשאתה זה אני ואני זה אתה </l>
+          <l>צעד אחד קדימה ושניים לאחור </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בוא נרקוד את הריקוד </l>
+          <l>שאי אפשר כבר לעצור </l>
+          <l>אין לנו פטנטים שיטה או המצאות </l>
+          <l>בוא נהיה כל מה שהבטחנו להיות </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בית עם מלא ילדים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

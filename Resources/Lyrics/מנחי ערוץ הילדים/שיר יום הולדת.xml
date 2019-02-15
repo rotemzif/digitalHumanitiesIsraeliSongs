@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר יום הולדת</title>
+        <singer classification="unknown">מנחי ערוץ הילדים</singer>
+        <writer>נמרוד רשף</writer>
+        <composer>נמרוד רשף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר יום הולדת</head>
+        <lg number="1" type="stanza">
+          <l>איזה כיף לי- יום הולדת! </l>
+          <l>חוגגים לי- יום הולדת! </l>
+          <l>מה קיבלתי? יום הולדת! </l>
+          <l>הופ, גדלתי- יום הולדת! </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>10, 9, 8, 7, 6, </l>
+          <l>5, 4, 3, 2, 1... </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בדיוק היום לפני כמה שנים, </l>
+          <l>יצאתי מהבטן ישר לעניינים, </l>
+          <l>הולך להיות לי יום הולדת מדהים, </l>
+          <l>מה-מה-מה-מה-מזל טוב מערוץ הילדים! </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זה היום שלי, אז אל תפריעו לי, </l>
+          <l>מתנות אליי לא הבאתם! </l>
+          <l>תגידו לכולם, היום זה יום מושלם, </l>
+          <l>אני הרבה יותר גדול משהייתי אתמול! </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מבזק מיוחד, אני מלכה ליום אחד, </l>
+          <l>יש לי עקרונות ואני אוהבת מתנות, </l>
+          <l>אל תיגע לי בעוגה לי, היא עושה מה שבא לי, </l>
+          <l>זה היום שלי, מה-מה-מה-מזל טוב לי! </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בדיוק היום לפני כמה שנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

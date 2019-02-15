@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קול צחוקך</title>
+        <singer classification="unknown">שיקו חייק</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קול צחוקך</head>
+        <lg number="1" type="stanza">
+          <l>איספי אותי אלייך אל תוך לבבך</l>
+          <l>הראי לי את הדרך אל תוך נשמתך</l>
+          <l>קחי אותי אלייך אל חום גופך</l>
+          <l>אז אדע גם את הטעם של אהבתך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כשדמעתך זולגת או קול צחוקך נשמע</l>
+          <l>אז ליבי הולם בי ומוצף באהבה</l>
+          <l>זה בפנים צורב לי בתוך הנשמה</l>
+          <l>ידי אז מתגנבת ומוחה דמעה X2</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לפני שאת הולכת כבר מתגעגע</l>
+          <l>כשאת לא איתי כמעט ומשתגע</l>
+          <l>וכשאת חוזרת הלב בי מתפרע</l>
+          <l>כמו פרפר נמשך לאור מרגיש כשבך נוגע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כשדמעתך זולגת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לפני שאת הולכת</l>
+          <l>וכשאת לא איתי (כמעט ומשתגע)</l>
+          <l>וכשאת חוזרת הלב בי מתפרע</l>
+          <l>כמו פרפר נמשך לאור מרגיש כשבך נוגע</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כשדמעתך זולגת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

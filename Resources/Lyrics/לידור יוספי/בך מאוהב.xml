@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בך מאוהב 2</title>
+        <singer classification="male singer">לידור יוספי</singer>
+        <writer>אורלי עזרא צרפתי</writer>
+        <composer>יוסי בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בך מאוהב</head>
+        <lg number="1" type="stanza">
+          <l>לא הופעת לי בחלום, ולמולי את פה עומדת</l>
+          <l>לא נשקתי, ובחום, החזרת לי אהבה נחשקת</l>
+          <l>הלילות כתומים היו הנרות עוד לא כבו</l>
+          <l>כל הלילה את קרובה, מטורף מאהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שפתותייך נשקו</l>
+          <l>את גופי עד אור הבוקר</l>
+          <l>וידייך ליטפו, ושפתי לך נשבעו</l>
+          <l>את שאהבה את שבליבה</l>
+          <l>את יודעת הוא בך מאוהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את ליבי רק אתן, לך לו רק ידעת כמה אוהב</l>
+          <l>יושב בבית, מנגן, את לצידי לך שיר כותב</l>
+          <l>מנגינות שנשמעו, לי נתנו רק הרגשה</l>
+          <l>שאותך ארצה לעד, שתהיי לי לאישה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שפתותייך נשקו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

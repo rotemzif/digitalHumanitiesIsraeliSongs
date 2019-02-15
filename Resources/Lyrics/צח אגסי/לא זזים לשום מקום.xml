@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא זזים לשום מקום</title>
+        <singer classification="unknown">צח אגסי</singer>
+        <writer>צח אגסי</writer>
+        <composer>צח אגסי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא זזים לשום מקום</head>
+        <lg number="1" type="stanza">
+          <l>אנשים הולכים ואת עדיין כאן עומדת </l>
+          <l>יש המון דרכים, באיזו דרך את בוחרת </l>
+          <l>עוד שלב עובר וצריך להתקדם </l>
+          <l>והזמן דוחק שכחנו שוב להיזכר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא זזים לשום מקום </l>
+          <l>לנו יש זמן והמון אוויר לנשום </l>
+          <l>לא זזים לשום מקום </l>
+          <l>לנו יש זמן והמון אוויר לנשום </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שקט שקט בסלון </l>
+          <l>וחשוך כשמביטים מהחלון </l>
+          <l>זה הזמן שלנו כאן עכשיו </l>
+          <l>הזמן שלנו מאוהב </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא זזים לשום מקום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

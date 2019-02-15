@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד אוהב</title>
+        <singer classification="DJ">קוקו</singer>
+        <writer>שאול עובדיה</writer>
+        <composer>שאול עובדיה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד אוהב</head>
+        <lg number="1" type="stanza">
+          <l>יושב על המרפסת ורואה אותך עוברת</l>
+          <l>כבר כמה פעמים </l>
+          <l>סוף סוף קיבלתי את האומץ בין הימים </l>
+          <l>לדבר איתך כמה מילים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא חשבתי איך תגיבי</l>
+          <l>לא ידעתי מה תגידי </l>
+          <l>אך השלום ההוא נשאר אצלי בלב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בואי ושוב תאמרי לי</l>
+          <l>את השלום שאז השארת אצלי בלב</l>
+          <l>עוד אוהב...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עכשיו את חיילת </l>
+          <l>ואני חושב על ילד</l>
+          <l>שאחרי החתונה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עכשיו את עוברת כל יום שישי בערב </l>
+          <l>ויש בי אהבה </l>
+          <l>אם תרצי תוכלי לדעת</l>
+          <l>אם תרצי תוכלי לגעת </l>
+          <l>בשתי ידי שמנגנות לך אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בואי ושוב תאמרי לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

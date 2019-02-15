@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מצד לצד</title>
+        <singer classification="male singer">ישי לוי</singer>
+        <writer>גילי זכאי</writer>
+        <composer>גילי זכאי</composer>
+        <album>האחת שלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מצד לצד</head>
+        <lg number="1" type="stanza">
+          <l>כשאת נכנסת</l>
+          <l>כל המבטים אלייך</l>
+          <l>יש בך קצב מעולם אחר</l>
+          <l>כשאת מדברת</l>
+          <l>כולם מדברים עלייך</l>
+          <l>כשאת צוחקת אין יפה ממך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את יודעת בא לי רק אלייך</l>
+          <l>שתקחי לי את הלב ותעיפי אותו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מצד לצד למעלה</l>
+          <l>איך שאת רוצה</l>
+          <l>מצד לצד גבוה</l>
+          <l>איך את מעיפה</l>
+          <l>מצד לצד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשאת נכנסת</l>
+          <l>גם הזמן עומד מלכת</l>
+          <l>יש לך קסם שכובש אותי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את יודעת בא לי רק אלייך</l>
+          <l>שתקחי לי את הלב ותעיפי אותו</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מצד לצד למעלה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

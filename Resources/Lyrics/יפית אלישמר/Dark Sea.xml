@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dark Sea</title>
+        <singer classification="unknown">יפית אלישמר</singer>
+        <writer>יפית אלישמר</writer>
+        <composer>שלומי וינברגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Dark Sea</head>
+        <lg number="1" type="stanza">
+          <l>Last night I dreamt</l>
+          <l>That I was drowning in a deep blue ocean</l>
+          <l>Currents carry me far away from shore</l>
+          <l>Not sure what to do or how to move- I let myself be swept away *2</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>Course: into the belly of a great blue giant</l>
+          <l>Closed my eyes and said a silent prayer</l>
+          <l>Into the belly of a great blue giant- closed my eyes and said a prayer</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Woke up while waves caressed my body</l>
+          <l>Was thrown away</l>
+          <l>By the angry sea</l>
+          <l>And I was safe now</l>
+          <l>Until another wave</l>
+          <l>Will carry me back to the dark sea</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>Course: into the belly of a great blue giant</l>
+          <l>Closed my eyes and said a silent prayer</l>
+          <l>Into the belly of a great blue giant- closed my eyes and said a prayer</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>Last night a felt that I was drowning in a deep blue sea</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

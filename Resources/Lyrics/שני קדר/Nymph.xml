@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Nymph</title>
+        <singer classification="female singer">שני קדר</singer>
+        <writer>שני קדר</writer>
+        <composer>שני קדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Nymph</head>
+        <lg number="1" type="stanza">
+          <l>when pressed against anything sharp </l>
+          <l>gentle girl tissues tend to erupt </l>
+          <l>a snow-flaked floor is up against my face </l>
+          <l>oh why did i ever agree to this </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>did you have to uncover whatever's left of my heart </l>
+          <l>take the cliché that is me and turn it into art </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>cars downstairs like candydrops in flames </l>
+          <l>and the phone sounds like a nymph screaming out your name</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

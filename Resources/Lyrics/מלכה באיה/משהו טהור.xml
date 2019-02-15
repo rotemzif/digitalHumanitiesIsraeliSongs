@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משהו טהור</title>
+        <singer classification="band">מלכה באיה</singer>
+        <writer>אסף גובר</writer>
+        <composer>אסף גובר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משהו טהור</head>
+        <lg number="1" type="stanza">
+          <l>רוצה להתחיל ולא לגמור</l>
+          <l>צרה ישנה עדיף לשמור</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שוב אבק עולה, עולה לאוויר מהרצפה</l>
+          <l>רק בשביל לחזור, רק בשביל לחזור, לחזור בחזרה</l>
+          <l>ואם המעגל נשבר אז משהו קרה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מביט בדמעות עולות לאור, עולות לאור</l>
+          <l>רק בשביל לגעת במשהו טהור ואז ליפול</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יורד לרחוב, רואה אנשים</l>
+          <l>בתוך הזכוכית המים שקטים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שוב הקצב בא עולה ועולה מתוך האדמה</l>
+          <l>רק בשביל לשמור, רק בשביל לשמור, לשמור על השכינה</l>
+          <l>ואם המעגל נשבר אתה חוזר להתחלה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מביט בדמעות עולות...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>שוב אבק עולה, עולה לאוויר מהרצפה</l>
+          <l>רק בשביל לחזור, רק בשביל לחזור, לחזור בחזרה</l>
+          <l>ואם המעגל נשבר כולם יודעים שזה קרה</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>מביט בדמעות עולות....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

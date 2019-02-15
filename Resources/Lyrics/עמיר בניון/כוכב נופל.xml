@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כוכב נופל 3</title>
+        <singer classification="male singer">עמיר בניון</singer>
+        <writer>עמיר בניון</writer>
+        <composer>עמיר בניון</composer>
+        <album>עומד בשער</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כוכב נופל</head>
+        <lg number="1" type="stanza">
+          <l>איזה להיט גדול אתה תהיה כוכב</l>
+          <l>אבל תדע שכוכבים נופלים בלילה בלילה</l>
+          <l>כל לילה אתה נזרק מלמעלה</l>
+          <l>כל איש ואישה על ספסל</l>
+          <l>עליך יצביעו כשתיפול.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איזה גאון גדול, אתה תהיה כאן אגדה</l>
+          <l>אבל האגדות מתנפצות בבוקר בבוקר</l>
+          <l>כל בוקר שברי אותיות בגני, העצוב</l>
+          <l>ואיתו גם אני עליך נצביע</l>
+          <l>הנה איש דמיוני.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זה לא האור הגנוז, זאת רק טלוויזיה</l>
+          <l>והבחור על המסך זה אתה, רק קצת אחר</l>
+          <l>זה לא הילד השבור זה רק חוג של דרמה</l>
+          <l>והבחור עם המקל הוא לא באמת עיוור</l>
+          <l>אז מה השעה, אתה מאחר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איזה תמים חדש, אתה כמו בגד לבן</l>
+          <l>אבל כל הכתמים נתפסים בלובן בלובן</l>
+          <l>הגוונים ממך עוד יזהירו החולה והמשוגע</l>
+          <l>עליך יצביעו, בראי.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זה לא האור הגנוז...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

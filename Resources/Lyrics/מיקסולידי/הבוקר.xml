@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הבוקר 6</title>
+        <singer classification="unknown">מיקסולידי</singer>
+        <writer>ליאור כהן</writer>
+        <composer>ליאור כהן</composer>
+        <album>אין אבל - יש שכנים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הבוקר</head>
+        <lg number="1" type="stanza">
+          <l>והבוקר זה שוב קם איתי</l>
+          <l>געגוע למשהו אמיתי</l>
+          <l>מה כל העניין מה הבלגן</l>
+          <l>מסתכל אל השמיים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>והבוקר שוב הפתיע אותי</l>
+          <l>משתחרר ממשהו ילדותי</l>
+          <l>מה כל העניין מה הבלגן</l>
+          <l>ועוצם את העיניים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ועוצר הכל מהיר מידי</l>
+          <l>לאט לאט</l>
+          <l>ומקווה שרק יפול עלי</l>
+          <l>מעט מעט</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ובלילה זה חלם איתי</l>
+          <l>התקופה שהם עמדו שם לצידי</l>
+          <l>מה כל העניין מה הבלגן</l>
+          <l>ונזכר בהם בינתיים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ובלילה היא חזרה אלי</l>
+          <l>השמחה שאיבדתי בחיי</l>
+          <l>מה כל העניין מה הבלגן</l>
+          <l>מחבק בשתי ידיים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ועוצר הכל מהיר מידי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

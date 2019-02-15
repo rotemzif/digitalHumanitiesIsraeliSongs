@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שקט כאילו</title>
+        <singer classification="band">יציאת חירום</singer>
+        <writer>אלכס טופל</writer>
+        <composer>אלכס טופל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שקט כאילו</head>
+        <lg number="1" type="stanza">
+          <l>עמוק כאילו יש כאן עומק</l>
+          <l>והמילים, הן כבר יבואו מעצמן</l>
+          <l>לאט לאט עולה הדופק</l>
+          <l>והידיים כבר יקחו את זה מכאן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שקט כאילו יש כאן שקט</l>
+          <l>אולי אפילו איזה אושר מסויים</l>
+          <l>איתך כאילו את אוהבת</l>
+          <l>אז גם אני עושה כאילו עם כולם</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הו, עכשיו זה בסדר</l>
+          <l>ברוך הבא לאהבה חופשית בגן עדן</l>
+          <l>היי, בוא תראה בגן עדן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רחוק מכל מה שחלמת?</l>
+          <l>פשוט תקח לך חלום קרוב יותר</l>
+          <l>בצד הזה שלא הכרת</l>
+          <l>תראה שגם אתה יכול להיות אחר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הו, עכשיו זה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

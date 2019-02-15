@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בכל דקה</title>
+        <singer classification="band">הפלטינות</singer>
+        <writer>עודד שחר</writer>
+        <composer>עודד שחר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בכל דקה</head>
+        <lg number="1" type="stanza">
+          <l>בכל דקה משהו נסגר בי</l>
+          <l>כשאת כה רחוקה נשאר רק דמיון</l>
+          <l>מעבר לים את לא מחכה לי</l>
+          <l>ומעבר לרחוב נסגר עוד חלון</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש כוכבים שמאירים את פנייך</l>
+          <l>כשאת ישנה אני החלום</l>
+          <l>ולפעמים הרגש בורח אלייך</l>
+          <l>במלחמה אל מול הגיון</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אולי זו את, זה כתוב בעינייך</l>
+          <l>אולי זו רק אשליה, כמו שחף כחול</l>
+          <l>על חול הים מצייר את פנייך</l>
+          <l>שהגלים לקחו איתם אך תוך ים של דמיון</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש כוכבים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

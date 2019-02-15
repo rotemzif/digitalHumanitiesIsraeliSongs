@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הנר האחרון</title>
+        <singer classification="male singer">נינו אורסיאנו</singer>
+        <writer>ארז ברזוליק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הנר האחרון</head>
+        <lg number="1" type="stanza">
+          <l>אי שם נותר לי הנר האחרון </l>
+          <l>הנר האחרון שטרם כבה </l>
+          <l>שורף אותי, בוער בזיכרון </l>
+          <l>רק לא לבד באהבה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עוד לילה אחד הנר האחרון </l>
+          <l>הנר האחרון אור בעלטה </l>
+          <l>ברוח הזאת מי עוד מוגן </l>
+          <l>מי יחכה - האם זה אתה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הים עצוב הוא וכחול </l>
+          <l>אוקיינוס עמוק ומבודד </l>
+          <l>בינינו מפריד עוד ים גדול </l>
+          <l>רק אל תשאיר... </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בתוך ליבי שוב התחושה </l>
+          <l>בדרך הזאת לילות וימים </l>
+          <l>אם לא תהיה לי יבשה </l>
+          <l>אכבה לבדי לעולמים </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הים עצוב הוא וכחול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

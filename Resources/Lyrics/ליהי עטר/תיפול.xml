@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תיפול</title>
+        <singer classification="unknown">ליהי עטר</singer>
+        <writer>ליהי עטר</writer>
+        <composer>missing</composer>
+        <album>ליהי עטר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תיפול</head>
+        <lg number="1" type="stanza">
+          <l>בורח ממני עוד פעם</l>
+          <l>אולי זו הפעם האחרונה</l>
+          <l>כבר לא נותר לך טעם</l>
+          <l>לחפש אותי בתוך הלב שלך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>טורק לי שוב דלת בפנים</l>
+          <l>מנסה שלא לפתוח  שוב</l>
+          <l>מחפשת לי מילים קטנות </l>
+          <l>שיזכירו לך מה חשוב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז תיפול, תיפול כבר </l>
+          <l>מקווה שזה יכאב</l>
+          <l>לראות אותי עוברת לידך</l>
+          <l>אני לא בורחת עכשיו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לוקחת את הזיכרונות ממך</l>
+          <l>נועלת הכל במגירה</l>
+          <l>ואחרי שנקרעתי לחצי איתך</l>
+          <l>מנסה למצוא עצמי שלמה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אז תיפול, תיפול כבר</l>
+          <l>מקווה שזה יכאב </l>
+          <l>לראות אותי עוברת לידך</l>
+          <l>אני לא בורחת עכשיו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אוהב לחיות</title>
+        <singer classification="male singer">עופר לוי</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>מומין סטלר</composer>
+        <album>אוהב לחיות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אוהב לחיות</head>
+        <lg number="1" type="stanza">
+          <l>הורי לוחצים מתי תפסיק עם השטויות</l>
+          <l>חפש אישה לך תתחתן די לבלות</l>
+          <l>עד מתי אתה תמשיך כך לטייל</l>
+          <l>מה יהיה, פעמיים ביום אבי שואל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אוהב לחיות אני צעיר תנו לבלות</l>
+          <l>אוהב לחיות תפסיקו עם השאלות</l>
+          <l>אוהב לחיות זה הגיל כדי להנות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מרגיש חופשי שמחת חיים בתוך הלב</l>
+          <l>מה לעשות כך לחיות אני אוהב</l>
+          <l>רק לצחוק ולא לחשוב על שום דבר</l>
+          <l>לחיות בכיף כי החיים זה העיקר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אוהב לחיות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

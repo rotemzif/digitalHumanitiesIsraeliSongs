@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עננים לבנים</title>
+        <singer classification="unknown">להקת לחש</singer>
+        <writer>יואב שעיה</writer>
+        <composer>יואב שעיה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עננים לבנים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אני חולם על עננים </l>
+          <l>עננים לבנים </l>
+          <l>אני חולם על עננים </l>
+          <l>ועל כל מה שהם מסתירים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אוסף חלומות לבקרים </l>
+          <l>בשקי אורז ענקיים </l>
+          <l>ובדמיוני נשארים </l>
+          <l>עננים לבנים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עננים לבנים מסתירים </l>
+          <l>מקומות רחוקים </l>
+          <l>עננים לבנים מסתירים </l>
+          <l>את הילדה הכי יפה </l>
+          <l>עננים לבנים מסתירים </l>
+          <l>מכונית ספורט אדומה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני חולם על עננים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

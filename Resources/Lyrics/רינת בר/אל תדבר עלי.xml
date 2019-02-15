@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תדבר עלי</title>
+        <singer classification="female singer">רינת בר</singer>
+        <writer>הרצל צפר</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תדבר עלי</head>
+        <lg number="1" type="stanza">
+          <l>הכאב אל הלב חודר</l>
+          <l>עלי דיברו בכוונה</l>
+          <l>בערפל הנשמה אינה יודעת נחמה</l>
+          <l>איני יודעת מה קרה</l>
+          <l>על מה ולמה לא אדע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נשמתי לאל זועקת</l>
+          <l>כבר שנים שנים שנים אני שותקת</l>
+          <l>זה עצוב וזה פוגע</l>
+          <l>פוגע ולא נגמר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אלוהים קולי נשבר</l>
+          <l>אלוהיי האר פני</l>
+          <l>אלוהים רחם עלי</l>
+          <l>סוף הבא למכאובי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תגדלי אמא לי אמרה</l>
+          <l>הכאב עוד יחלוף</l>
+          <l>כבודך שימרי בעוז ילדה</l>
+          <l>איתך ילך הוא לעולם</l>
+          <l>שימרי עליו באש ודם</l>
+          <l>לשון הרע יש לאדם!</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>נשמתי לאל זועקת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

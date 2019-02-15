@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טלי 4</title>
+        <singer classification="male singer">רון שובל</singer>
+        <writer>רמי לב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טלי</head>
+        <lg number="1" type="stanza">
+          <l>כשאני מביט אלייך מחלון ביתי</l>
+          <l>ורואה את כל היופי שנוגע בי,</l>
+          <l>אז אני מסתיר כל רגש, לא מראה סימן</l>
+          <l>איך נכנסת אל תוך חיי, בלי שאהיה מוכן?</l>
+          <l>מי אוהב,  ועלייך מי חושב?</l>
+          <l>וחולם להיות איתך, לאהוב אותך!</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>טלי, טלי, תעלי </l>
+          <l>בואי אלי ותגלי,</l>
+          <l>שאני אוהב אותך, אני רוצה אותך!</l>
+          <l>טלי, טלי, תעלי</l>
+          <l>את הסוד שלי גלי</l>
+          <l>תני לי רק דקה ממך, אתן לך את כולי!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>השולחן ערוך לשניים אבל את לא כאן</l>
+          <l>טלי, בלעדייך לא שווה כל העולם</l>
+          <l>זה כואב ומשגע שאינך איתי</l>
+          <l>בגללך אני וודאי אצא מדעתי</l>
+          <l>מי אוהב,  ועלייך מי חושב?</l>
+          <l>וחולם להיות איתך, לאהוב אותך!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>טלי, טלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

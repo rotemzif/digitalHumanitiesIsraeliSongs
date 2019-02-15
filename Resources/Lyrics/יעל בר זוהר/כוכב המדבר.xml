@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כוכב המדבר</title>
+        <singer classification="unknown">יעל בר זוהר</singer>
+        <writer>יואב גינאי</writer>
+        <composer>עופר ניסים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כוכב המדבר</head>
+        <lg number="1" type="stanza">
+          <l>בוא ונדהר אל המדבר</l>
+          <l>בין ההרים נמצא בלילה אוצר</l>
+          <l>אל המדבר..</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בין החולות והאפלה</l>
+          <l>שם כוכב נפלא עטוף הילה</l>
+          <l>בין החולות והאפלה</l>
+          <l>שם כוכב נפלא</l>
+          <l>כוכב המשאלה עטוף הילה</l>
+          <l>כוכב תפילה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בוא ונדהר אל המדבר</l>
+          <l>בין ההרים נמצא בלילה אוצר</l>
+          <l>אל המדבר..</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בוא ונדהר אל המדבר..</l>
+          <l>בוא ונדהר אל המדבר..</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בין החולות והאפלה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>בוא ונדהר אל המדבר</l>
+          <l>בין ההרים נמצא הלילה..</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>בין החולות והאפלה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

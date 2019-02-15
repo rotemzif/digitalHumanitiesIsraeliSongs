@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ציון אהובתי</title>
+        <singer classification="unknown">רבקה בר</singer>
+        <writer>רבקה בר</writer>
+        <composer>רבקה בר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ציון אהובתי</head>
+        <lg number="1" type="stanza">
+          <l>בך ציון העיר</l>
+          <l>אפסע בשערייך</l>
+          <l>לך אגיל בשיר</l>
+          <l>אשמע קול זמירותייך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מלוא חיבה וחום</l>
+          <l>קבלי מאוהביך</l>
+          <l>פתחי ליבך בתום</l>
+          <l>לכל מעריציך.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ציון אהובתי</l>
+          <l>אשא אותך איתי</l>
+          <l>אל מרחבי עולם</l>
+          <l>את נשמתו של עם.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ציון את לי מלכה</l>
+          <l>ואהבת הנפש</l>
+          <l>אחת ויחידה</l>
+          <l>החסד והרגש.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ציון אהובתי...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>זימרתי זה השיר</l>
+          <l>יומך לך להאיר</l>
+          <l>לזור פצעי שברך</l>
+          <l>וללטף יופיך.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>ציון אהובתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

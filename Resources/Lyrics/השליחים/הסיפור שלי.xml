@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הסיפור שלי</title>
+        <singer classification="unknown">השליחים</singer>
+        <writer>מתן אביאל</writer>
+        <composer>מאור אדרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הסיפור שלי</head>
+        <lg number="1" type="stanza">
+          <l>אני רק רוצה לחלום </l>
+          <l>רוצה להיאחז במשהו שנותן לי תקווה </l>
+          <l>אני רק רוצה לנשום, רוצה לדעת שיש לי סיבה </l>
+          <l>שאני קרוב, שיש לי סיכוי </l>
+          <l>שלא הכל היה לשווא </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני רק רוצה לעצום עיניים </l>
+          <l>ולראות עולם אחר </l>
+          <l>אני רק רוצה לפקוח עיניים </l>
+          <l>ולראות איך הכל הסתדר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך לא הכל היה לשווא </l>
+          <l>שעשיתי את שלי, במלחמה האחרונה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני מתפקח ורואה עולם אחר </l>
+          <l>כמעט וצורח, פוחד שאתעורר מחלום מושלם </l>
+          <l>מאשליה שיצרתי, על מקום אחר </l>
+          <l>עכשיו התפקחתי, אני כבר לא עיוור </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני רוצה לצאת ולספר לעולם </l>
+          <l>את כל מה שקרה לי, מאז שאני קיים </l>
+          <l>זה יישמע קצת מוזר, זה יגרור מבטים </l>
+          <l>מחשבות של איך ולמה, יעברו בתוכי </l>
+          <l>כי לא הכל היה לשווא, אני תמיד ידעתי </l>
+          <l>זה הסיפור שלי </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני מתפקח ורואה עולם אחר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

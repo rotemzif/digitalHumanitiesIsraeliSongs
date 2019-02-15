@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תן לי 20</title>
+        <singer classification="unknown">ג ולייטה</singer>
+        <writer>ביגי</writer>
+        <composer>ביגי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תן לי</head>
+        <lg number="1" type="stanza">
+          <l>רוצה שתמיד תחבק להרגיש אותך קרוב אלי</l>
+          <l>שמתחשק אז תנשק תיפול בין זרועותי</l>
+          <l>כי אותך אני אוהבת אתה יחיד ומיוחד</l>
+          <l>רק עליך אני חושבת ולא רוצה אף אחד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תן לי תן לי אהבה תן לי ת'תשובה </l>
+          <l>תן לי את הכוח לשמוח ולפרוח </l>
+          <l>תן לי ת'נשמה תן לי נחמה </l>
+          <l>איתך פשוט לשכוח תן לי רק אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רוצה שתמיד תלטף תעוף איתי אל עננים</l>
+          <l>כשקר אז בי תתעטף אהיה שלך לעולמים</l>
+          <l>כי אותך אני אוהבת אתה יחיד ומיוחד </l>
+          <l>רק עליך אני חושבת ולא רוצה אף אחד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תן לי תן לי אהבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

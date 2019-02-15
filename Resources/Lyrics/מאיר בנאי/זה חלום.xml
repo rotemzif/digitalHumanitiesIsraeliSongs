@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה חלום 2</title>
+        <singer classification="male singer">מאיר בנאי</singer>
+        <writer>מאיר בנאי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה חלום</head>
+        <lg number="1" type="stanza">
+          <l>העיר שותקת מאחורי חומה</l>
+          <l>היא מסתתרת בתוך דמעה שקופה</l>
+          <l>זה חלום, זה חלום</l>
+          <l>רק עוד רגע</l>
+          <l>רק עוד רגע</l>
+          <l>אור-יזרח</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רצים ביחד ומפזרים עשן</l>
+          <l>ואיש הפלסטיק נמס בתוך כבשן</l>
+          <l>זה חלום, זה חלום,</l>
+          <l>רק עוד רגע</l>
+          <l>רק עוד רגע</l>
+          <l>אור-יזרח</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הבט אל עולמך</l>
+          <l>אל תסרב לאור-</l>
+          <l>בליבך</l>
+          <l>עכשיו האהבה </l>
+          <l>זורמת בגופך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>משחק של כוח נמכר ברחובות</l>
+          <l>גשמים של פחד ‟ מכים את הגגות</l>
+          <l>זה חלום,זה חלום</l>
+          <l>רק עוד רגע</l>
+          <l>רק עוד רגע</l>
+          <l>אור-יזרח</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עוצמים עיניים בדרך הפתוחה</l>
+          <l>רוצים לברוח לתוך הסערה</l>
+          <l>זה חלום, זה חולם</l>
+          <l>רק עוד רגע</l>
+          <l>רק עוד רגע</l>
+          <l>אור-יזרח</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הבט אל עולמך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

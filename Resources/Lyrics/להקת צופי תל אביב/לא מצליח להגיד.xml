@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא מצליח להגיד</title>
+        <singer classification="band">להקת צופי תל אביב</singer>
+        <writer>ירון כפכפי</writer>
+        <composer>נועה ברנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא מצליח להגיד</head>
+        <lg number="1" type="stanza">
+          <l>אם רק פעם אחת אהיה אמיתי</l>
+          <l>היא אולי תסתכל ותראה גם אותי</l>
+          <l>כבר שנים שאני מתקרב </l>
+          <l>לא אומר לה דבר</l>
+          <l>ובחודש הבא אתגייס לצבא</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני מסתכל על כל מה שרציתי</l>
+          <l>אני מתחרט רק על מה שלא עשיתי</l>
+          <l>אם זה אומץ מה שחסר לי</l>
+          <l>איפה יש להשיג?</l>
+          <l>למה אני לא מצליח להגיד?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היינו מבלים שעות ביחידות</l>
+          <l>רואים תאתרון משחקים לנו דוק</l>
+          <l>אבל אם היא תגיד לי שלא</l>
+          <l>שאני לא מספיק.</l>
+          <l>שאני לא חכם או יפה או מצחיק!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני מסתכל על...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>להיות אמיתי רק פעם אחת</l>
+          <l>לומר את הכל, לא להסתפק במועט</l>
+          <l>לא לא לאהוב רק בערך</l>
+          <l>כל הדרך לא לוותר</l>
+          <l>אולי זה פשוט להתגבר.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מנגינת חיי 2</title>
+        <singer classification="unknown">יניב כהן</singer>
+        <writer>משה נגר</writer>
+        <composer>משה נגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מנגינת חיי</head>
+        <lg number="1" type="stanza">
+          <l>פסעתי כל הדרך בין שבילייך</l>
+          <l>מגע ידי האיר את שתי עינייך</l>
+          <l>את מאושרת, כמלכה שמולכת</l>
+          <l>גם יופייך החם זורם בי כל הזמן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואת ליידי כל כך פורחת</l>
+          <l>מול העולם עד בלי פחד</l>
+          <l>שירי את שירי, את מנגינת חיי</l>
+          <l>שירי את שירי, את מנגינת חיי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שמעתי צליל ניגון בתוך שירייך</l>
+          <l>ראיתי בקווים שעל פנייך</l>
+          <l>כל כך מיוחדת, מדבר לא פוחדת</l>
+          <l>גם חיוך קטן עובר בך כל הזמן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואת ליידי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

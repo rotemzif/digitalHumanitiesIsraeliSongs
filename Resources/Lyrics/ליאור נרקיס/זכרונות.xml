@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זכרונות 12</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>מייק לוק</writer>
+        <composer>מייק לוק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זכרונות</head>
+        <lg number="1" type="stanza">
+          <l>פעם היה לנו טוב ועכשיו זה נגמר</l>
+          <l>פעם נהנו לחשוב שהיום יש אין מחר</l>
+          <l>פעם לחשת לי משפט שאותו אני לא אשכח</l>
+          <l>"אתה תמיד שלי ולאחרת אותך אני לא אשלח, לעולמים"</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבל היום, היום זה נגמר, לא חשוב מה שקרה</l>
+          <l>מי נפגע מי לבד נותר</l>
+          <l>חסרות לי השפתיים המגע של הידיים</l>
+          <l>זכרונות שאותם לא אשכח, שאותם לא אשכח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פעם היה לי חלום, לי אותו את לקחת</l>
+          <l>בליבך היה לי מקום עד היום שבו הלכת</l>
+          <l>פעם לחשת לי משפט שאותו אני לא אשכח</l>
+          <l>"אתה תמיד שלי ולאחרת אותך אני לא אשלח, לעולמים"</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבל היום, היום זה נגמר, לא חשוב מה שקרה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

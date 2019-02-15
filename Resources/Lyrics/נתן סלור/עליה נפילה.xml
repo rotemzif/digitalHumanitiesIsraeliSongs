@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עליה נפילה</title>
+        <singer classification="male singer">נתן סלור</singer>
+        <writer>נתן סלור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עליה נפילה</head>
+        <lg number="1" type="stanza">
+          <l>ערב צובע עיר בעננים לא נראים </l>
+          <l>כביש מתרחק אל אופק בלי צבעים, לא רואים </l>
+          <l>שיר שנכתב עלינו בספרים, כתב סתרים </l>
+          <l>רק עוד דקה ושנינו כן זוכרים, לא זוכרים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק לגעת, לא לדעת </l>
+          <l>לגשש במילה </l>
+          <l>רק לגעת, לא לדעת </l>
+          <l>עליה נפילה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם יגמר הכל ביום אחד ואבד </l>
+          <l>גם אם אנחנו שניים זה אחד, זה לבד </l>
+          <l>גם אם נרצה לדעת כל חידה, לא נדע </l>
+          <l>ערב צובע עיר בעננים, גם אותך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק לגעת, לא לדעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

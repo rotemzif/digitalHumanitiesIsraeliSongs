@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלך בסערה</title>
+        <singer classification="female singer">רינת בר</singer>
+        <writer>נורית עמר</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלך בסערה</head>
+        <lg number="1" type="stanza">
+          <l>קול פנימי אומר לי שהתאהבתי</l>
+          <l>וקול אחר מזהיר-תקופה חולפת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פגע בי החיידק ובו לא רציתי</l>
+          <l>הוא פגע בך בחזרה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יש לך דרכים להטריף אותי</l>
+          <l>יש גם בי רצון לרגש אותך</l>
+          <l>אתה נותן לי נשיקה </l>
+          <l>ואני שלך בסערה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ברגע של חולשה</l>
+          <l>אני שוב מתאפסת</l>
+          <l>זה לא ממש עוזר</l>
+          <l>אני כבר מאוהבת</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רוח חזקה מעיפה אותי אלייך</l>
+          <l>השמש מאירה לי את פנייך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יש לך דרכים להטריף אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

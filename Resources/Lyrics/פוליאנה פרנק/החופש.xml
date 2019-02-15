@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>החופש 12</title>
+        <singer classification="band">פוליאנה פרנק</singer>
+        <writer>שרון בן עזר</writer>
+        <composer>חיים אילפמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>החופש</head>
+        <lg number="1" type="stanza">
+          <l>המצב תמיד מתוח</l>
+          <l>יש הרבה צרות לשכוח</l>
+          <l>אם נשאיר חלון פתוח</l>
+          <l>הכאב יימוג ברוח.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ים, שמש וזמן</l>
+          <l>האופק נפתח, החופש כאן</l>
+          <l>האושר מותר</l>
+          <l>החופש נגע בי ונשאר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מסביב סופה דוהרת</l>
+          <l>את המחשבות עוצרת</l>
+          <l>איך לחיות ולא לברוח</l>
+          <l>איך לחיות עם כל הכוח.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ים, שמש וזמן...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אל החול נשלח רגליים</l>
+          <l>נתערבב בתוך המים</l>
+          <l>יש ספינה שמאותתת</l>
+          <l>יש סיכוי היום לשקט.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ים, שמש וזמן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

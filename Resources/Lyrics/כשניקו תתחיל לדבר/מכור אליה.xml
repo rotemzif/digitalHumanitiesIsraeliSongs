@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מכור אליה</title>
+        <singer classification="band">כשניקו תתחיל לדבר</singer>
+        <writer>פטריק סבג</writer>
+        <composer>פטריק סבג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מכור אליה</head>
+        <lg number="1" type="stanza">
+          <l>היא מחכה</l>
+          <l>היא עייפה מניקוטין מעצבים</l>
+          <l>מכל דבר שקשור אליה</l>
+          <l>היא כל כך יפה</l>
+          <l>היא כמו טירוף קשה לעיקול</l>
+          <l>פעמון בזנבו של חתול מונח לרגליה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מי אני היום</l>
+          <l>נחנק, צועק, כבול מכור אליה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא עייפה</l>
+          <l>היא פרח בשדה קוצים</l>
+          <l>כנפיי מטוסים שטים מעליה</l>
+          <l>היא כל כל יפה</l>
+          <l>היא שדה תעופה הומה אדם</l>
+          <l>זוג תרמילים ארוזים תמיד בידיה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מי אני היום</l>
+          <l>נחנק, צועק, כבול מכור אליה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

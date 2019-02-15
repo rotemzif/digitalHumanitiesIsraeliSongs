@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ירח אדום</title>
+        <singer classification="male singer">גבי ברלין</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ירח אדום</head>
+        <lg number="1" type="stanza">
+          <l>עולה ירח מלא, אדום </l>
+          <l>יורד הליל אך לבי יתום </l>
+          <l>לאן אפנה שוב עם רדת יום </l>
+          <l>בדד ובלעדייך </l>
+          <l>עולה ירח מלא, אדום </l>
+          <l>הוא גם מחר יחזור הלום </l>
+          <l>אבל רק את שבכל חלום </l>
+          <l>לי חסרות שפתייך </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>"לונה רוסה", שוט והאר ירח </l>
+          <l>"לונה רוסה", הלבנה לאוהבים נראית אדום </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אך לי תמיד תמיד היא נראית ירוק </l>
+          <l>כל עוד הינך שם כל כך רחוק </l>
+          <l>היא תהפוך שוב אדום עמוק </l>
+          <l>עם להט חיבוקייך </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>"לונה רוסה"...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תוותר לי</title>
+        <singer classification="unknown">בטי</singer>
+        <writer>בטי</writer>
+        <composer>בטי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תוותר לי</head>
+        <lg number="1" type="stanza">
+          <l>ככל שאהבנו - פחדנו</l>
+          <l>ככל שפחדנו - שנאנו</l>
+          <l>את מה ששנאנו - ניסינו להסתיר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ככל שהסתרנו - דחקנו</l>
+          <l>את עצמנו אל הקיר</l>
+          <l>לא ידענו מה זה לאהוב</l>
+          <l>או ידענו יותר מדי טוב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אל תוותר לי</l>
+          <l>אמור מה שבלב</l>
+          <l>תספר לי מה שם כואב</l>
+          <l>אל תכנע לי</l>
+          <l>די להסתתר</l>
+          <l>אם פגעתי - בוא נדבר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ככל שצדקנו - שכחנו</l>
+          <l>שטעינו .. ניתבדה</l>
+          <l>אם לרגע מישהו יודה</l>
+          <l>לקחנו את זה קשה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אל תוותר לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

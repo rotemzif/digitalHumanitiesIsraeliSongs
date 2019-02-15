@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אביתר</title>
+        <singer classification="male singer">מאיר בנאי</singer>
+        <writer>מאיר בנאי</writer>
+        <composer>מאיר בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אביתר</head>
+        <lg number="1" type="stanza">
+          <l>הי נשחק כל היום.</l>
+          <l>הי נשתולל כל היום.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אביתר מתגלגל בדשאים</l>
+          <l>אביתר נושם ת'צבעים</l>
+          <l>אני אוהב אותך</l>
+          <l>אביתר, אביתר</l>
+          <l>אחי הקטן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הי נשתולל על הגבעה</l>
+          <l>עד שהשמש תשקע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אביתר מתגלגל בדשאים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הי נכנס לשלוליות</l>
+          <l>ונחטוף מאמא צעקות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אביתר מתגלגל בדשאים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

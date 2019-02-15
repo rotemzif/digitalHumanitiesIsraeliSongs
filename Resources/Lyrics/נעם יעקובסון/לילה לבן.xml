@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילה לבן 6</title>
+        <singer classification="unknown">נעם יעקובסון</singer>
+        <writer>נעם יעקובסון</writer>
+        <composer>נעם יעקובסון</composer>
+        <album>ארבעים יום</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילה לבן</head>
+        <lg number="1" type="stanza">
+          <l>שלג בטלוויזיה </l>
+          <l>בחוץ מנקים את הרחובות </l>
+          <l>אחרי הרבה זמן ועוד מפתיע </l>
+          <l>את מתכרבלת בי פתאום </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל הלילה ער לידך במיטה </l>
+          <l>כל הלילה הסתכלתי בפנים שלך </l>
+          <l>מזמן לא אמרתי </l>
+          <l>כמה את יפה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בורחים מהגשם </l>
+          <l>וכאן מתחת לשמיכה </l>
+          <l>מתוך חלום את מחייכת </l>
+          <l>פשוט עכשיו,פשוט להיות אתך </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל הלילה... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שלג בטלויזיה </l>
+          <l>בחוץ מנקים את הרחובות </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כל הלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סיפור בתוך סיפור</title>
+        <singer classification="male singer">שאול צירלין</singer>
+        <writer>שאול צירלין</writer>
+        <composer>מיקיס תיאודוראקיס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סיפור בתוך סיפור</head>
+        <lg number="1" type="stanza">
+          <l>אל תחכי לי שאבוא,</l>
+          <l>בתוך ביתך אל נא תמתיני.</l>
+          <l>מוטב יהיה שלא תיראיני,</l>
+          <l>בתוך סופים והתחלות.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בתוך סופים והתחלות,</l>
+          <l>מוטב יהיה שלא תיראיני,</l>
+          <l>מוטב אישה שלו תמתיני.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכשן הלב נסחף נלקח,</l>
+          <l>ממעגל שמחבקי.</l>
+          <l>מכתב שבא ומבקשני,</l>
+          <l>כשעוד ידייך אוחזות.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשעוד ידיך אוחזות,</l>
+          <l>במעגל שמחבקני,</l>
+          <l>מכתב שבא ומבקשני.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

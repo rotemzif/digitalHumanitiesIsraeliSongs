@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלפקה</title>
+        <singer classification="band">הדורבנים</singer>
+        <writer>עידו אופק</writer>
+        <composer>גיא מזיג</composer>
+        <album>קובי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלפקה</head>
+        <lg number="1" type="stanza">
+          <l>יש לי אלפקה מגבעת שמואל</l>
+          <l>אני קורא לה מלכה - היא מעדיפה יעל...</l>
+          <l>היא נוהמת וחולמת על ימים יפים יותר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלפקה, אלפקה, אלפקה...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ראש לבן לה, הזנב שלה שחור</l>
+          <l>בי נשבעתי- את מלכה לעולם לא אמסור!</l>
+          <l>אחת היא מלכה מלכתי- אותה לי לעולם אשמור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלפקה, אלפקה, אלפקה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה קרה ביום אביב, בשביל היורד לעמק</l>
+          <l>שם פגשתי בה לראשונה, אמרתי לה:</l>
+          <l>"תבואי נא איתי, מלכתי"</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ומי יודע יום אחד אהיה זקן</l>
+          <l>ולא אוכל כבר עוד שירים לה לנגן</l>
+          <l>כה חבל לי, על אלפקתי שבסוף עוד ניפרד</l>
+          <l>(אבל אין לנו משפט סיום אז)</l>
+          <l>תחשבו לבד בעצמכם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

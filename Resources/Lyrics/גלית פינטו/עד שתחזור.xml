@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד שתחזור</title>
+        <singer classification="unknown">גלית פינטו</singer>
+        <writer>ארז אלגרבלי</writer>
+        <composer>ארז אלגרבלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד שתחזור</head>
+        <lg number="1" type="stanza">
+          <l>כמו ילדה נסערת מהאהבה</l>
+          <l>פרפרים בבטן, מחשבה טובה</l>
+          <l>כמו סיוט בלילה, להזיל דימעה</l>
+          <l>כך הלכת ממני בלי שום אזהרה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמו ספינה טובעת אני אאבד ראשי</l>
+          <l>עד שתחזור אלי</l>
+          <l>כמו ספינה טובעת אני אאבד ראשי </l>
+          <l>עד שתחזור אלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו ילדה נרדמת ובחלומה</l>
+          <l>פרפרי הלילה מרקדים סביבה</l>
+          <l>זו אהבה סוערת, או לפחות היתה</l>
+          <l>ואז הלכת ממני בלי שום אזהרה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמו ספינה טובעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

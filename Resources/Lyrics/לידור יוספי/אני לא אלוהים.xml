@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני לא אלוהים</title>
+        <singer classification="male singer">לידור יוספי</singer>
+        <writer>יאיר תותחני</writer>
+        <composer>יאיר תותחני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני לא אלוהים</head>
+        <lg number="1" type="stanza">
+          <l>ניסיתי לתת לך הכל</l>
+          <l>השתדלתי</l>
+          <l>גם כשלא תמיד הייתי יכול</l>
+          <l>נאבקתי</l>
+          <l>אך את עזבת את הכל</l>
+          <l>נעלמת לי</l>
+          <l>חשבת לך אולי שברגע אחד נשברתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תביני אותי </l>
+          <l>אני לא כל יכול</l>
+          <l>אני לא אלוהים</l>
+          <l>אך אתן לך הכל</l>
+          <l>את כל מה שיש לי </l>
+          <l>אם תרצי לקבל</l>
+          <l>אהבה רק אתן לך</l>
+          <l>ותמיד אשתדל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ברגע של סתם עוד משבר </l>
+          <l>את אמרת לי</l>
+          <l>ידעת שלא מהר אוותר</l>
+          <l>התאפקתי</l>
+          <l>איך מהר עזבת את הכל</l>
+          <l>נעלמת לי</l>
+          <l>חשבת לך אולי שלרגע אחד וויתרתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תביני אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

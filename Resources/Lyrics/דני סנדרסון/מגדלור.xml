@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מגדלור 2</title>
+        <singer classification="male singer">דני סנדרסון</singer>
+        <writer>דני סנדרסון</writer>
+        <composer>דני סנדרסון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מגדלור</head>
+        <lg number="1" type="stanza">
+          <l>ליל סערה מפרשית עתיקה</l>
+          <l>על גלים תיטלטל אבודה וסדוקה</l>
+          <l>ומרחוק מגדלור יהבהב</l>
+          <l>יסמן את החוף לספן העייף</l>
+          <l>מורה לו, אומר לו לאן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הרם ראשך גבוה בנאדם</l>
+          <l>אל תירא</l>
+          <l>החזק בהגה ביד נחושה</l>
+          <l>ואם קשה הדרך לעולם</l>
+          <l>אל תכנע</l>
+          <l>בסוף כל סערה יש יבשה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רוח סופה, נחשולים עד אין סוף</l>
+          <l>קברניט ינווט בין סלעים ובין חוף</l>
+          <l>עוד לא כלתה המולת הימים</l>
+          <l>ובקצה סכנה מגדלור כה תמים</l>
+          <l>מורה לו, אומר לו לאן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הרם ראשך גבוה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

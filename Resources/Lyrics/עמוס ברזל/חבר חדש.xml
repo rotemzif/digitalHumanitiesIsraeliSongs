@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חבר חדש 2</title>
+        <singer classification="male singer">עמוס ברזל</singer>
+        <writer>אורלי בינדר</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חבר חדש</head>
+        <lg number="1" type="stanza">
+          <l>בן, אינו משחק אתי, </l>
+          <l>מתרחק הוא לעתים </l>
+          <l>משחק עם אחרים, </l>
+          <l>כן, היינו חברים. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אולי הוא ברוגז, אולי הוא כועס, </l>
+          <l>אולי מיד נשלים, אולי יקרה הנס. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם רבים זה לא נורא, </l>
+          <l>אם קצת עצוב ורע, </l>
+          <l>אפשר למצוא חבר חדש, </l>
+          <l>חמוד מתוק ממש כדבש.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

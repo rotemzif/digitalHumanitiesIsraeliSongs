@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את לא בבית</title>
+        <singer classification="male singer">ניר פרידמן</singer>
+        <writer>ניר פרידמן</writer>
+        <composer>ניר פרידמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את לא בבית</head>
+        <lg number="1" type="stanza">
+          <l>מי שלא נראה טוב הוא לא יפה</l>
+          <l>מי שלא עושה לחם הוא לא עופה</l>
+          <l>מי שלא שוחה לא טובע</l>
+          <l>מי שלא מבין הוא לא יודע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם את לא בבית זה הכי כואב</l>
+          <l>אם את לא בבית</l>
+          <l>אם את לא בבית זה הכי כואב</l>
+          <l>אם את לא בבית</l>
+          <l>את לא בבית</l>
+          <l>את לא בבית</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם את לא טועה אז את צוגקת</l>
+          <l>אם את שמחה את מחייכת</l>
+          <l>אם את לא זוכרת אז את שוכחת</l>
+          <l>אם את לא נותנת אז את לוקחת</l>
+          <l>אם לא בבית...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מי שלא עץ אין לא ענפים</l>
+          <l>למי ששאין גג לא צריך רעפים</l>
+          <l>מי שעובד בגן הוא לא רופא</l>
+          <l>מי שלא נראה טוב - הוא לא יפה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם את לא בבית...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

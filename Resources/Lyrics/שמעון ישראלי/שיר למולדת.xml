@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר למולדת</title>
+        <singer classification="male singer">שמעון ישראלי</singer>
+        <writer>יעקב ליכטמן</writer>
+        <composer>נחום נרדי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר למולדת</head>
+        <lg number="1" type="stanza">
+          <l>הוי אמא זכרי ושמרי נא</l>
+          <l>את חיוך הפרידה התמים.</l>
+          <l>הן תמיד את ליבנו ירנינה</l>
+          <l>הד שירת חלומך בכרמים. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בנגינת געגועים למולדת</l>
+          <l>בה נצעדה לקרב עם אויב.</l>
+          <l>כך נפרד עוד מאמא הילד,</l>
+          <l>כך הולך גם הבן האוהב.</l>
+          <l>כך נפרד עוד מאמא הילד,</l>
+          <l>כך הולך גם הבן האוהב. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שעות על שעות עת אשמורה</l>
+          <l>לילותייך, דמים וגורל.</l>
+          <l>מסביב - אפלה לא-נאורה,</l>
+          <l>שאי ברכתו של חיל. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בנגינת געגועים למולדת... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עדה הפלוגה הנודדת,</l>
+          <l>על דגלה וליבה הן חרות:</l>
+          <l>עוד נשובה אלייך מולדת,</l>
+          <l>עוד נישא לך את שלום החירות. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בנגינת געגועים למולדת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

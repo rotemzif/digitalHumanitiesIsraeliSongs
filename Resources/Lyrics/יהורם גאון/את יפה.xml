@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את יפה 5</title>
+        <singer classification="male singer">יהורם גאון</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את יפה</head>
+        <lg number="1" type="stanza">
+          <l>את יפה את יפה את יפה וריחנית </l>
+          <l>כשיפעת החמנית </l>
+          <l>שפרחה שפרחה שפרחה בהמונים </l>
+          <l>בין כפלי המדרונים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואת כל ואת כל, את כל חמדות הקיץ </l>
+          <l>אגמע משתי עינייך בגביע של זהב </l>
+          <l>ואת כל ואת כל את כל חמדות הקיץ </l>
+          <l>אגמע משתי עינייך בגביע של זהב </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את יפה את יפה את יפה וחיננית </l>
+          <l>כפריחת הרימונים </l>
+          <l>שעלו ככתיפה בשולי הבוסתנים </l>
+          <l>בסלסול פעמונים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואת כל ואת כל, את כל חמדות הקיץ... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את יפה את יפה את יפה וריחנית </l>
+          <l>כעסיס התאנים </l>
+          <l>שריחן שריחן מבשם את הגנים </l>
+          <l>בתיפתוף הססני </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ואת כל ואת כל את כל חמדות הקיץ </l>
+          <l>אגמע משתי עינייך בגביע של זהב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

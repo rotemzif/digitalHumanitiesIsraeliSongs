@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בתוך הערפל</title>
+        <singer classification="male singer">מיכה ביטון</singer>
+        <writer>מיכה ביטון</writer>
+        <composer>מיכה ביטון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בתוך הערפל</head>
+        <lg number="1" type="stanza">
+          <l>בתוך הערפל ההרים הסובבים עירי</l>
+          <l>וראי ראי נפשי בעינך הגדולה וצנועה</l>
+          <l>סגורים מרחקים עלי ביתמותם הרחבה</l>
+          <l>וטוב לי טוב לי לבדי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וידעת כי קנית לך עולמך ועומקו בדרך</l>
+          <l>והיה כל חלק בחיים לדבר שלך הוא</l>
+          <l>לבדי נשאתי על כתפי היגון הגדול</l>
+          <l>זר לאחרים הייתי וקרוב אך לי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין קשר עם רע שידע שפת שירך היפה</l>
+          <l>וקץ לכל ספקות וכמיה אל נערה רחוקה</l>
+          <l>בתוך המרחקים חיי את חייך הסגורים</l>
+          <l>את חייך הסגורים הו בלי האהבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וידעת כי קנית לך עולמך ועומקו בדרך</l>
+          <l>והיה כל חלק בחיים לדבר שלך הוא</l>
+          <l>לבדי נשאתי על כתפי היגון הגדול</l>
+          <l>זר לאחרים הייתי וקרוב אך לי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

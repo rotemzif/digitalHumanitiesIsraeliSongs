@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חורף 13</title>
+        <singer classification="unknown">יוחנן קרסל</singer>
+        <writer>יוחנן קרסל</writer>
+        <composer>יוחנן קרסל</composer>
+        <album>אושר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חורף</head>
+        <lg number="1" type="stanza">
+          <l>חורף לא ייצא לאור </l>
+          <l>הוא לא מסחרי מספיק לא טוב בשביל למכור </l>
+          <l>אובך, רוח, פרץ של קור </l>
+          <l>התעשייה של הזיכרון רוצה את זה אפור </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חורף הוא עוד שיר מגרה </l>
+          <l>המבט שפגש מילה ולא הבין אותה </l>
+          <l>כשנזכר, היה מאוחר </l>
+          <l>שלושה ימי גשם והסיפור הזה נגמר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה לא מספיק בשביל להתגעגע </l>
+          <l>ולא בשביל להיעצב </l>
+          <l>אין תפאורה טובה להתכרבל בה ולהתאהב </l>
+          <l>מספר הטלפון רשום על פתק </l>
+          <l>בלי שם או כתובת לידו </l>
+          <l>ימתין לו מיותם לעוד חורף שיבוא </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חורף הוא עוד שיר מגרה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

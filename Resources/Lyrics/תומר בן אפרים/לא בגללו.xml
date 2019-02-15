@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא בגללו</title>
+        <singer classification="unknown">תומר בן אפרים</singer>
+        <writer>תומר בן אפרים</writer>
+        <composer>תומר בן אפרים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא בגללו</head>
+        <lg number="1" type="stanza">
+          <l>עכשיו היא מהססת, </l>
+          <l>עוצרת ואובדת, </l>
+          <l>לא מוצאת את מקומה. </l>
+          <l>חולמת ונפרמת, </l>
+          <l>כך היא נעטפת </l>
+          <l>אותה סחרחורת נעימה. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה לא בגללו, לא בגללו. </l>
+          <l>מזמן כבר שכחה אותו. </l>
+          <l>והוא בשלו, הוא בשלו. </l>
+          <l>הוא לא יודע את נפשו. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק שתי דקות בשניים </l>
+          <l>פתחו את השמיים, </l>
+          <l>הכל פתאום נראה נפלא. </l>
+          <l>היה המלטפת </l>
+          <l>חוזרת וסובבת, </l>
+          <l>שוב תגיע התחושה. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה לא בגללו, לא בגללו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

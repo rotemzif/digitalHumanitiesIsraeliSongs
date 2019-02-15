@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זמן אהבה</title>
+        <singer classification="unknown">דוד ד אור</singer>
+        <writer>אהוד בנאי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זמן אהבה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>ליד התחנה המרכזית,</l>
+          <l>גשם על הכביש,</l>
+          <l>ראיתי איש זקן יושב לבד ומחריש,</l>
+          <l>"לאן לפנות?" שאלתי,</l>
+          <l>"לשמאל או לימין?"</l>
+          <l>"תלך ישר", כך הוא אמר,</l>
+          <l>"ישר ותאמין",</l>
+          <l>אם לא תעשה לחברך מה שלעצמך כואב</l>
+          <l>אתה תמצא את הנתיב לירושלים שבלב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זמן אהבה</l>
+          <l>זמן אהבה...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ליד התחנה המרכזית...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

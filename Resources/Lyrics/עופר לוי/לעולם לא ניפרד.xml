@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לעולם לא ניפרד</title>
+        <singer classification="male singer">עופר לוי</singer>
+        <writer>יוש גרנות</writer>
+        <composer>עממי</composer>
+        <album>הקלפן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לעולם לא ניפרד</head>
+        <lg number="1" type="stanza">
+          <l>אני רוצה שתאהבי</l>
+          <l>ולעולם לא תעזבי</l>
+          <l>שתמיד אותי תביני</l>
+          <l>ולעד לא ניפרד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני רוצה שתעזרי</l>
+          <l>וחום אהבתך תתני</l>
+          <l>ושממך אשאב כוחי</l>
+          <l>ולעולם תהיי שלי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עדים לנו כוכבי מרום</l>
+          <l>לאהבה שהיא חלום</l>
+          <l>האל תמיד יהיה העד</l>
+          <l>שלעולם לא ניפרד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני רוצה שתעזרי</l>
+          <l>וחום אהבתך תתני</l>
+          <l>ושממך אשאב כוחי</l>
+          <l>ולעולם תיהי שלי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני עומד על הבמה</l>
+          <l>ושר לכם מהנשמה</l>
+          <l>האל תמיד יהיה העד</l>
+          <l>שלעולם לא ניפרד</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עדים לנו כוכבי מרום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

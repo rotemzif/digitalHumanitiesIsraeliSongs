@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר לי שיר חדש</title>
+        <singer classification="female singer">יפה ירקוני</singer>
+        <writer>אבי קורן</writer>
+        <composer>נחצ'ה היימן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר לי שיר חדש</head>
+        <lg number="1" type="stanza">
+          <l>ברוחות קרות</l>
+          <l>ניגן לי שיר של ערש</l>
+          <l>בגלי הים -</l>
+          <l>הכה בשיר סוער</l>
+          <l>בצמרת ברוש</l>
+          <l>ובגיזעו של ארז</l>
+          <l>בוא, ניפרוש יחדיו</l>
+          <l>פזמון חוזר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שיר לי על שמחה</l>
+          <l>שיר לי על פריחה</l>
+          <l>שיר על עצמך</l>
+          <l>ושיר על שנינו.</l>
+          <l>(ושיר עלי).</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לשירך הזה</l>
+          <l>ישיב כוכב בזמר</l>
+          <l>יזמר העץ</l>
+          <l>דואט עם כל עליו</l>
+          <l>ושירך הזה -</l>
+          <l>יסוב אז ללא גמר</l>
+          <l>והציפורים לו מקהלה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שיר לי על שמחה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

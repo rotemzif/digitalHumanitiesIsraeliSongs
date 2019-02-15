@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אנטונלה</title>
+        <singer classification="band">המשולש</singer>
+        <writer>שבתאי גרשון</writer>
+        <composer>שבתאי גרשון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אנטונלה</head>
+        <lg number="1" type="stanza">
+          <l>דממת אלחוט, סערת השקט</l>
+          <l>מישהו פוצץ את הגשר</l>
+          <l>הנשר חג מעלי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ונדמה שאת, על קולית</l>
+          <l>ומישהו שמע את השקר</l>
+          <l>הקשר תם ונשלם</l>
+          <l>תם ונשלם</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואת הולכת לישון</l>
+          <l>כאילו כלום לא קרה</l>
+          <l>חולמת על אנטונלה</l>
+          <l>מוצא את עצמי ער בלילות</l>
+          <l>מחכה לסינדרלה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הוא מחכה לילה שלם</l>
+          <l>אולי מישהי</l>
+          <l>תעלה את השמש</l>
+          <l>הגשם מטפטף על פני</l>
+          <l>הנה השחר, הוא מתמלא</l>
+          <l>ומישהי מצאה את הגשר</l>
+          <l>הקשר נולד מחדש</l>
+          <l>נולד מחדש</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואת הולכת לישון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

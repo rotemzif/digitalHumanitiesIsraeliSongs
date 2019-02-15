@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר צועני</title>
+        <singer classification="female singer">ירדנה ארזי</singer>
+        <writer>אבי קורן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר צועני</head>
+        <lg number="1" type="stanza">
+          <l>רק אש המדורה</l>
+          <l>כמו ליבך תבער תמיד</l>
+          <l>עד שתכבה,</l>
+          <l>הו! ארץ ארורה!</l>
+          <l>הלאה שיירה,</l>
+          <l>שובי נגני לי שיר צועני.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שוב נעה בדרכים,</l>
+          <l>אין לה בית, אין לה שם,</l>
+          <l>אף לא דקה.</l>
+          <l>מי את דרכך ידע?</l>
+          <l>מבטך חידה, </l>
+          <l>שובי נגני לי שיר צועני.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כולנו צוענים ביריד</l>
+          <l>כולנו מנגנים שיר יחיד</l>
+          <l>סביב מדורות, בין תמרות עשן,</l>
+          <l>עוד מתנגן השיר הישן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כך בין סופות וחול,</l>
+          <l>אין לנו מקום אחד</l>
+          <l>שם נרגע.</l>
+          <l>הו! בנדודי אינסוף,</l>
+          <l>בלי תקוות לטוב,</l>
+          <l>שובי נגני לי שיר צועני.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כולנו צוענים ביריד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

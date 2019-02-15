@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכל בסדר 3</title>
+        <singer classification="female singer">לאה שבת</singer>
+        <writer>לאה שבת</writer>
+        <composer>לאה שבת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכל בסדר</head>
+        <lg number="1" type="stanza">
+          <l>לפעמים אני נורא לבד</l>
+          <l>לא קרה כלום והערב כבר ירד</l>
+          <l>נו אז מה אני אומרת לעצמי</l>
+          <l>אני כאן וזה מספיק טוב בשבילי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רק לא להפסיק את התנועה</l>
+          <l>כי אחרי נמוך יש עליה</l>
+          <l>נו אז מה אני אומרת לעצמי</l>
+          <l>אני חיה וזה מספיק טוב בשבילי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז הכל בסדר</l>
+          <l>הכל בסדר</l>
+          <l>הכל בסדר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עומדת מסתכלת מסביב</l>
+          <l>הכל פורח זה אביב</l>
+          <l>נו עכשיו אני אומרת לעצמי</l>
+          <l>יש הרבה וזה הכל כאן בשבילי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אז הכל בסדר</l>
+          <l>הכל בסדר</l>
+          <l>הכל בסדר</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כשהעננים זזים</l>
+          <l>השמש יוצאת</l>
+          <l>שום דבר לא נעצר</l>
+          <l>כדור נהדר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

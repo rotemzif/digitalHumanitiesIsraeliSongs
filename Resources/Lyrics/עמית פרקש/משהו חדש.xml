@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משהו חדש 3</title>
+        <singer classification="unknown">עמית פרקש</singer>
+        <writer>סהר חגי</writer>
+        <composer>ניצן קייקוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משהו חדש</head>
+        <lg number="1" type="stanza">
+          <l>מגיע לי משהו חדש</l>
+          <l>רוח צוננת כשחם</l>
+          <l>שתעיף זיכרון </l>
+          <l>תנקה את הראש ממך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מגיע לי משהו אחר</l>
+          <l>מחכה לו שלא יאחר</l>
+          <l>שימחק הבטחה שיצמיח סליחה לך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>משהו חדש שיצבע את הבוקר</l>
+          <l>משהו אחר שיקדים את האושר</l>
+          <l>זמן שממהר נפתח וסוגר עלינו בנפרד</l>
+          <l>משהו חדש שידליק את הרגש</l>
+          <l>משהו אחר לרפא את הנפש</l>
+          <l>זמן שממהר נפתח וסוגר עלינו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז עכשיו זה נראה לי מתאים</l>
+          <l>רק חדר בעיר  של בתים</l>
+          <l>המיטה לא זוגית מחבקת כרית שלך</l>
+          <l>ואיך להתחיל לספר</l>
+          <l>שבכלל לא רוצה לדבר</l>
+          <l>שהיה לי הכל ורציתי לגדול לבד</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>משהו חדש שיצבע את הבוקר</l>
+          <l>משהו אחר שיקדים את האושר</l>
+          <l>זמן שממהר נפתח וסוגר עלינו בנפרד</l>
+          <l>משהו חדש שידליק את הרגש</l>
+          <l>משהו אחר לרפא את הנפש</l>
+          <l>זמן שממהר נפתח וסוגר עלינו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

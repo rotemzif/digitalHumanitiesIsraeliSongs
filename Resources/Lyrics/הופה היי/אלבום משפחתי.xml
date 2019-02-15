@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלבום משפחתי</title>
+        <singer classification="unknown">הופה היי</singer>
+        <writer>קובי רכט</writer>
+        <composer>קובי רכט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלבום משפחתי</head>
+        <lg number="1" type="stanza">
+          <l>הסתכל באלבום ותראה</l>
+          <l>איך אמך נראתה</l>
+          <l>כשהיתה צעירה ויפה</l>
+          <l>ויפה - פה - פה...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הסתכל באלבום ותראה</l>
+          <l>איך אביך נראה</l>
+          <l>כשהיה בדיוק בגילך</l>
+          <l>בגילך - ך - ך...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא, לא היו להם קמטים</l>
+          <l>ולא שיבה ליד הקרחת</l>
+          <l>הם לבשו אותם בגדים</l>
+          <l>ולא היתה להם אז עוד נחת</l>
+          <l>הם נראו בדיוק כמוך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הסתכל באלבום ותראה</l>
+          <l>איך שלושה מחזרים</l>
+          <l>עם אמך כשהיתה צעירה</l>
+          <l>צעירה - רה - רה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הסתכל באלבום ותראה</l>
+          <l>איך אביך מרים</l>
+          <l>משקולות ומחייך עם שפם</l>
+          <l>עם שפם - פם - פם...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לא היו להם קמטים...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>הסתכל באלבום ותראה</l>
+          <l>איך נראית אתה</l>
+          <l>כשהיית קטן ומכוער</l>
+          <l>ומכוע - ע - ער</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>הסתכל באלבום ותראה</l>
+          <l>את אביך ואותך איתך</l>
+          <l>ואותך שם בתוך עגלה</l>
+          <l>עגלה - לה - לה</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>לא היו להם קמטים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

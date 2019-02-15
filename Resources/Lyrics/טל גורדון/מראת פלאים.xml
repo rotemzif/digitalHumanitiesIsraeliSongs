@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מראת פלאים</title>
+        <singer classification="female singer">טל גורדון</singer>
+        <writer>טל גורדון</writer>
+        <composer>טל גורדון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מראת פלאים</head>
+        <lg number="1" type="stanza">
+          <l>תראי אותי מחפשת זמן,</l>
+          <l>מנסה הכל ועדיין כאן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תעמדי מולי מראת פלאים</l>
+          <l>כי הכל עקום וקשה לראות</l>
+          <l>את הצל שלי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תגלי לי כמה זמן</l>
+          <l>תגלי לי, תני סימן</l>
+          <l>תגלי לי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מראת פלאים תגידי לי</l>
+          <l>אם הטוב יבש והרע מוכר</l>
+          <l>מה יקרה מחר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואולי עכשיו מראת פלאים</l>
+          <l>תעצרי אותי, תראי אותי</l>
+          <l>תגלי אותי...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תגלי לי כמה זמן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיבוא מה שיבוא</title>
+        <singer classification="male singer">שימי רון</singer>
+        <writer>שלמה כישור</writer>
+        <composer>אריה פיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיבוא מה שיבוא</head>
+        <lg number="1" type="stanza">
+          <l>אתה יוצא לדרך עירום ובלי דבר,</l>
+          <l>אל החיים אתה הולך שקט ומאושר.</l>
+          <l>מה השמיים לך מועידים</l>
+          <l>אתה שואל ואין משיב כי אנו לא יודעים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שיבוא מה שיבוא, שמח בחלקך.</l>
+          <l>צפה לו, חכה, הוא תמיד שלך.</l>
+          <l>לפעמים והמעט הנו די והותר,</l>
+          <l>שמח בו בנחת אל תבקש יותר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה נושא עיניך לכל האוצרות</l>
+          <l>ומשעבד את נפשך בשביל המותרות</l>
+          <l>כי אין סוף לחפץ לבו של האדם,</l>
+          <l>לא אופק יכירהו, לא מצולות הים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שיבוא...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אתה גומר חייך עירום ובלי דבר,</l>
+          <l>אתה מוריש את כל הונך, לך הוא לא נשאר.</l>
+          <l>חשוב בטרם תרוץ כמו נבעת</l>
+          <l>ותבקש להילחם על עוד פרוטה אחת.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שיבוא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

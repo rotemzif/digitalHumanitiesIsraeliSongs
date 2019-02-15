@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בשורות מצפון</title>
+        <singer classification="male singer">גלעד שגב</singer>
+        <writer>רן דברת</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בשורות מצפון</head>
+        <lg number="1" type="stanza">
+          <l>הוא ישב בקשיחות על כיסא המלכות</l>
+          <l>במבט מנוכר של יודע דבר הוא מבין</l>
+          <l>הקידמה זה ברור לא תבוא באיחור</l>
+          <l>כנמלה חרוצה הוא ייבש עוד ביצה</l>
+          <l>מצולק מקרבות יחסי הציבור</l>
+          <l>הוא למד להגיד את כל מה שברור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ובלילות של שקט אש אצלו דולקת</l>
+          <l>ורוח נושאת בשורות מצפון</l>
+          <l>חיילים הולכים עכשיו ברגל</l>
+          <l>להלחם במפלצת דמיון</l>
+          <l>חיילים עולים עכשיו לדגל</l>
+          <l>והמלך לא מצליח לישון</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז נפלה החלטה נכנסים לשליטה</l>
+          <l>כשניתנה הפקודה להציב חיילים על הגבול</l>
+          <l>על כיסא הפיקוד מבולבל ואבוד</l>
+          <l>אך היה מאוחר לביטול</l>
+          <l>מול חומה בצורה הם נפלו קורבנות</l>
+          <l>חומה בצורה של חלום בלהות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ובלילות של שקט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

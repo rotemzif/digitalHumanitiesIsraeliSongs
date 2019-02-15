@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>התאהבתי 8</title>
+        <singer classification="male singer">שלומי שבת</singer>
+        <writer>יהודה מסס</writer>
+        <composer>יהודה מסס</composer>
+        <album>זמן אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>התאהבתי</head>
+        <lg number="1" type="stanza">
+          <l>את יפתי שלימדת אותי איך לאהוב</l>
+          <l>איתך נשמתי למדתי לא לדאוג</l>
+          <l>כי את רק שלי</l>
+          <l>הצחוק ובכאב עבר</l>
+          <l>איתך יש מחר</l>
+          <l>כי האתמול עבר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואם תלכי ולא תבואי</l>
+          <l>אני אבכה</l>
+          <l>אני אצרח התאהבתי</l>
+          <l>אז אל תלכי</l>
+          <l>השארי איתי לעד</l>
+          <l>לא אוכל</l>
+          <l>התאהבתי, התרגלתי</l>
+          <l>אלייך כל כך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בכל הדרכים</l>
+          <l>שבהם עברתי פה ושם</l>
+          <l>אין מלבדך</l>
+          <l>אין דומה לך בעולם</l>
+          <l>כי אצלך בנשמה</l>
+          <l>היופי הוא בלתי ניגמר</l>
+          <l>ואיתך יד ביד</l>
+          <l>ארצה עד סוף חיי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואם תלכי ולא תבואי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

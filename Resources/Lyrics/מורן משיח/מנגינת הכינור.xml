@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מנגינת הכינור</title>
+        <singer classification="unknown">מורן משיח</singer>
+        <writer>מורן משיח</writer>
+        <composer>מורן משיח</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מנגינת הכינור</head>
+        <lg number="1" type="stanza">
+          <l>ברגע ששמעתי את צלילי הכינור </l>
+          <l>חשתי כצליל הנשמה </l>
+          <l>ברגע ששמעתי את צלילי הכינור </l>
+          <l>הרגשתי בתוכי אהבה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי את מוסיקת הכינור הנאמן </l>
+          <l>שבו נוגן לו ונוגן לו כל הזמן </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ברגע שידעתי את צלילי השירים </l>
+          <l>נגנתי ונגנתי כל הזמן </l>
+          <l>ברגע ששמעתי את צלילי פזמונים </l>
+          <l>חזרתי ונגנתי את כולם </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי את מוסיקת הכינור הנאמן </l>
+          <l>שבו נוגן לו ונוגן לו כל הזמן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

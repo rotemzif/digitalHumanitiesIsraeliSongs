@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלב 38</title>
+        <singer classification="female singer">מאיה בוסקילה</singer>
+        <writer>מירית שם אור</writer>
+        <composer>צביקה פיק</composer>
+        <album>סיפור מכור</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלב</head>
+        <lg number="1" type="stanza">
+          <l>כשהגשם יורד ודופק בחלון</l>
+          <l>זה עצוב וכבד וקשה לי לישון</l>
+          <l>כשבחוץ סערה אז הלב שוב שואל</l>
+          <l>קשה לי נורא אז אני שוב בוכה</l>
+          <l>ונזכרת בך בחיוך במבט ואני לבד.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה לילה סתווי ואין כוכבים</l>
+          <l>הגשם יורד והלב הוא בודד, הלב</l>
+          <l>זה לילה סתווי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשהגשם יורד כמו דמעות עצובות</l>
+          <l>אז הלב שוב מודה לי עם אותן מחשבות</l>
+          <l>על אותה אהבה שמזמן נגמרה</l>
+          <l>הבוקר לא בא וקשה לי נורא</l>
+          <l>אז אני שוב בוכה ונזכרת בך ואני לבד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה לילה סתווי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

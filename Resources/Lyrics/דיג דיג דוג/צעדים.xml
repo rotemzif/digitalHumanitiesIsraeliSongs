@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צעדים 2</title>
+        <singer classification="unknown">דיג דיג דוג</singer>
+        <writer>מיכל חזון</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צעדים</head>
+        <lg number="1" type="stanza">
+          <l>ככה הולך לו אבא</l>
+          <l>אבא הולך לו כך:</l>
+          <l>צעד גדול צעד רחב</l>
+          <l>טראח טראח טראח!</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ככה הולכת אמא</l>
+          <l>אמא הולכת כך:</l>
+          <l>צעד טופף על העקב</l>
+          <l>טופ-טו-פף.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ככה הולך לו ילד</l>
+          <l>ילד הולך לו כך:</l>
+          <l>צעד קטן צעד דילוג</l>
+          <l>קפיץ קפיץ קפוץ!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

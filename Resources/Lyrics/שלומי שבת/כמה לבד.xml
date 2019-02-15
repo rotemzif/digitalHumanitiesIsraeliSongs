@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה לבד</title>
+        <singer classification="male singer">שלומי שבת</singer>
+        <writer>עמיחי יעקובי</writer>
+        <composer>עמיחי יעקובי</composer>
+        <album>אני שר אלייך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה לבד</head>
+        <lg number="1" type="stanza">
+          <l>כמה לבד, כמה לבד</l>
+          <l>תני שנשוב להיות אחד</l>
+          <l>תני שהכל יהיה אחרת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמה נסלח, כמה נשכח</l>
+          <l>כמה פשוט לאהוב אותך</l>
+          <l>תני שנמצא שוב את הדרך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עד מתי תוכלי לכעוס ולא לגעת?</l>
+          <l>עד מתי תוכלי לכאוב כל כך? </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם בליבך דולק האור</l>
+          <l>אם רק תגידי לי לחזור</l>
+          <l>אל הים הסוער בעינייך</l>
+          <l>בלילה גשם וסופה</l>
+          <l>ברחובות אני אפסע</l>
+          <l>לחבק, לנשק את פנייך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כמה לבד, כמה לבד</l>
+          <l>כלום לא חשוב עכשיו, רק את</l>
+          <l>תני להיות איתך עוד פעם</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כמה  נצחק, כמה נשמח</l>
+          <l>כמה נעים להיות שלך    </l>
+          <l>תני לי לטעום שוב את הטעם</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>עד מתי תוכלי לכעוס ולא לגעת?</l>
+          <l>עד מתי תוכלי לכאוב כל כך? </l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>אם בליבך דולק האור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

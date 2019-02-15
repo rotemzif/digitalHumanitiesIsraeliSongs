@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הסיפור העצוב</title>
+        <singer classification="band">החשמליות</singer>
+        <writer>עמירם לוי</writer>
+        <composer>עמירם לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הסיפור העצוב</head>
+        <lg number="1" type="stanza">
+          <l>הסיפור העצוב, על הנער העצוב</l>
+          <l>שהציל גורי חתולים במקום לדאוג לעצמו</l>
+          <l>השדות שהוא הלך בהם, קנו אנשי עסקים זריזים</l>
+          <l>עכשיו יבנו בהם בניינים גבוהים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז קחו לכם עוד דקה, להסתכל על העולם</l>
+          <l>ששוקע למקום שמשם אף אחד לא ירים אותו</l>
+          <l>תורידו את האלכוהול עמוק לתוך הדם</l>
+          <l>כדי שכל המחשבות יעברו מפה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני ואת יושבים בתוך כל זה וחושבים</l>
+          <l>מה עוד אפשר לעשות כדי לעצור</l>
+          <l>האנשים היום כל כך צפופים</l>
+          <l>הכסף מדבר, ודופק את כולם מהר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז קחו לכם עוד דקה, להסתכל על העולם</l>
+          <l>ששוקע למקום שמשם אף אחד לא ירים אותו</l>
+          <l>תורידו את האלכוהול עמוק לתוך הדם</l>
+          <l>כדי שכל המחשבות יעברו מפה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבק כוכבים</title>
+        <singer classification="band">האנשים</singer>
+        <writer>דרור שוסטק</writer>
+        <composer>דרור שוסטק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבק כוכבים</head>
+        <lg number="1" type="stanza">
+          <l>את ואני אבק כוכבים</l>
+          <l>את ואני אבק כוכבים</l>
+          <l>שנופלים נופלים</l>
+          <l>זוהרים זוהרים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את ואני אבק כוכבים</l>
+          <l>את ואני אבק כוכבים</l>
+          <l>רחוקים רחוקים</l>
+          <l>בוערים בוערים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לפעמים ביחד ולפעמים לבד</l>
+          <l>מסתכלים על השמיים אומרים</l>
+          <l>ששם רחוק נולד כל יום כוכב</l>
+          <l>לפעמים ביחד ולפעמים לבד</l>
+          <l>תסתכלי על השמיים אומרים</l>
+          <l>ששם רחוק נולד כל יום כוכב</l>
+          <l>כוכב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את ואני אבק כוכבים</l>
+          <l>את ואני אבק כוכבים</l>
+          <l>מתנפצים מתנפצים</l>
+          <l>רסיסים רסיסים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לפעמים ביחד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

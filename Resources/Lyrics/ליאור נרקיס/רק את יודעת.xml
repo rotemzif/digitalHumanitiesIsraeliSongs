@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק את יודעת 3</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>ליאור נרקיס</composer>
+        <album>מילים שלא אמרת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק את יודעת</head>
+        <lg number="1" type="stanza">
+          <l>לך יש את הכח לשנות את עולמי</l>
+          <l>כמו חלום שהתגשם הגעת אלי,</l>
+          <l>לא יודע איך פתאום מצאתי את עצמי</l>
+          <l>באהבה שלה חיכיתי כל חיי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כשאת הופעת ירד אלי מלאך -</l>
+          <l>והדליק בי את כל האורות</l>
+          <l>אני אוהב את החיים איתך,</l>
+          <l>את שונה מכל האחרות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק את יודעת איך להגיע אל הלב,</l>
+          <l>רק את ויש בך את כל מה שאני אוהב</l>
+          <l>מעיין תמימות חום ואהבה </l>
+          <l>אני רוצה אותך יותר מכל דבר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כמה אהבות קטנות ואלף אתמולים,</l>
+          <l>כולם היו לארמונות של חול,</l>
+          <l>רק איתך הכל קרה בשקט בלי מילים </l>
+          <l>מבט אחד שלך ניצח את הכל.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כשאת הופעת ירד אלי מלאך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

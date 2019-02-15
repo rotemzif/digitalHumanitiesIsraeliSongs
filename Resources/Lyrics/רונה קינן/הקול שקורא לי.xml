@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הקול שקורא לי</title>
+        <singer classification="female singer">רונה קינן</singer>
+        <writer>יהלי סובול</writer>
+        <composer>missing</composer>
+        <album>לנשום בספירה לאחור</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הקול שקורא לי</head>
+        <lg number="1" type="stanza">
+          <l>קחי אותי איתך</l>
+          <l>תראי לי איך נוזל הזמן בצד שלך,</l>
+          <l>ומטפטף לאט</l>
+          <l>היא אמרה,</l>
+          <l>ובעיניים פקוחות ישנות</l>
+          <l>אפשר להגיד לזה לא</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הקול שקורא לי</l>
+          <l>חוזר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את לא יודעת כמה</l>
+          <l>היא אמרה</l>
+          <l>כמה אוויר אני צריכה בשביל לנשום</l>
+          <l>כמה לרוץ כדי לדרוך</l>
+          <l>באותו המקום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הקול שקורא לי</l>
+          <l>חוזר</l>
+          <l>הלילה נמתח</l>
+          <l>השיר מתקצר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה שיר ערש</l>
+          <l>עתיק וקודר</l>
+          <l>של אם עייפה</l>
+          <l>לתינוק שתמיד נשאר ער</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הקול שקורא לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

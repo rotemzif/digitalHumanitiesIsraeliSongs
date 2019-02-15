@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כינורות מתוקים</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>ארז אלגרבלי</writer>
+        <composer>ארז אלגרבלי</composer>
+        <album>קח לך אישה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כינורות מתוקים</head>
+        <lg number="1" type="stanza">
+          <l>היא נותנת לי הכל שאין לי כלום,</l>
+          <l>היא תהיה שם כשאפול וכשאקום,</l>
+          <l>היא האור החלוני בלילה,</l>
+          <l>היא הדרך היא השיר, </l>
+          <l>את ליבי אני תמיד אתן לה,</l>
+          <l>את זורמת בתוכי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חלומות אבודים</l>
+          <l>בלעדיה מאבד את הראש ושוקע</l>
+          <l>כינורות מתוקים</l>
+          <l>מנגנים לה כשהלילה יורד והיא באה</l>
+          <l>חלומות...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בשבילה אני חלום ומציאות,</l>
+          <l>בלעדיה אין לי כלום אני אבוד,</l>
+          <l>היא האור החלוני בלילה,</l>
+          <l>היא הדרך היא השיר,</l>
+          <l>את ליבי אני תמיד אתן לה,</l>
+          <l>את זורמת בתוכי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חלומות אבודים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

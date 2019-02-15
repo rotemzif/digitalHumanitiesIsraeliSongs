@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הספנים 4</title>
+        <singer classification="band">חבורת רננים</singer>
+        <writer>נתן אלתרמן</writer>
+        <composer>יואל ולבה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הספנים</head>
+        <lg number="1" type="stanza">
+          <l>לדרך ספן, הים לפניך,</l>
+          <l>הרוח על המים קם.</l>
+          <l>אם לא יבגוד לבך</l>
+          <l>עד נצח לא יבגוד בך הים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עוגן הרם,</l>
+          <l>הגה כוון,</l>
+          <l>עוגן הרם,</l>
+          <l>ופתח, ופתח בשיר הספנים:</l>
+          <l>הלכה ספינתי בלילה כחול,</l>
+          <l>הובילה אותי לים הגדול,</l>
+          <l>הים הוא רחב, גלים וענן</l>
+          <l>הדרך עוד רב, רב, רב, הלאה ספן.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>סופות כבר היו ושבע תחזורנה</l>
+          <l>אתה על המשמרת קם,</l>
+          <l>אמיץ היה וזכור נא,</l>
+          <l>כי את האמיצים אוהב הים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עוגן הרם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

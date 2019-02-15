@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי שזוכר</title>
+        <singer classification="male singer">עמי שביט</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>עמי שביט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי שזוכר</head>
+        <lg number="1" type="stanza">
+          <l>שמש מחייכת לי מבין העננים</l>
+          <l>כמו זרקור בודד על הבמה.</l>
+          <l>הדמויות נעות ברחוב כמו לפני שנים</l>
+          <l>לצלילי המנגינה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קצב מחודש זורם בכל עורקי נפשי,</l>
+          <l>עוד מעט ינבע כמעיין.</l>
+          <l>משהו ירקוד בפנים ומשהו ישיר</l>
+          <l>כפי שפעם זה היה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מי שזוכר</l>
+          <l>לעולם ישא את השמות,</l>
+          <l>קסמי החלומות,</l>
+          <l>יפזם שוב בעיניים עצומות.</l>
+          <l>ואני רוצה לשיר עכשיו</l>
+          <l>נוסטאלגי כמו הסתיו</l>
+          <l>ואחר לפרוש כנפיים למרחב.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שמש מלטפת את פני ואת ראשי.</l>
+          <l>הד הרוח שר ומתגלגל.</l>
+          <l>שוב הלב ניעור בי ומושך אותי בשיר</l>
+          <l>אל השביל המתפתל.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מי שזוכר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

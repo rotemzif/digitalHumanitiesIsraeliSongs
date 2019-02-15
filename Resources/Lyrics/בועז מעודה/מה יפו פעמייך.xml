@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה יפו פעמייך</title>
+        <singer classification="unknown">בועז מעודה</singer>
+        <writer>מתוך שיר השירים</writer>
+        <composer>missing</composer>
+        <album>בועז מעודה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה יפו פעמייך</head>
+        <lg number="1" type="stanza">
+          <l>מה יפו פעמייך, מה יפו פעמייך</l>
+          <l>בנעלים בת נדיב, מה יפו...</l>
+          <l>חמוקי ירכייך כמו חלאים מעשה ידי אמן</l>
+          <l>מעשה ידי אמן, מה יפו מעשה ידי אמן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה, מה יפית? ומה נעמת? אהבה בתענוגים...</l>
+          <l>מה יפית? ומה נעמת? אהבה בתענוגים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>צווארך כמגדל השן</l>
+          <l>עינייך ברכות בחשבון על שער בת רבים</l>
+          <l>מה יפו פעמייך, מה יפו פעמייך</l>
+          <l>בנעלים, מה יפו פעמייך...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה, מה יפית...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

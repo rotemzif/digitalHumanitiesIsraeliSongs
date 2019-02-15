@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא רואה ולא שומע</title>
+        <singer classification="unknown">כפיר עטיה</singer>
+        <writer>שרון אסולין</writer>
+        <composer>שרון אסולין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא רואה ולא שומע</head>
+        <lg number="1" type="stanza">
+          <l>רוצה כל כך לספר לך</l>
+          <l>רוצה להוציא ת'כאב</l>
+          <l>מוכן כל כך להעניק לך</l>
+          <l>את מה שחבוי לי בלב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא רואה ולא שומע אני מחובר אלייה</l>
+          <l>היא הבטיחה ולא קיימה לתת את הנשמה</l>
+          <l>היא הייתה והיא איננה ומתוך חלום קורא לה</l>
+          <l>שתחזור אלי בחזרה בטוב וגם ברע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני נזכר איך היינו בשניים</l>
+          <l>אני נזכר איך הרגשתי בלב</l>
+          <l>והיום עם דמעות בעיניים</l>
+          <l>נשבע שעדיין אוהב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא רואה ולא שומע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

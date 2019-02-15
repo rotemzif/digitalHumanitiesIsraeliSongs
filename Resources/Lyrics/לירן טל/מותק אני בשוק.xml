@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מותק אני בשוק</title>
+        <singer classification="male singer">לירן טל</singer>
+        <writer>אביחי מליחי</writer>
+        <composer>אביחי מליחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מותק אני בשוק</head>
+        <lg number="1" type="stanza">
+          <l>את עוברת ברחוב</l>
+          <l>אין לך רגע לאהוב</l>
+          <l>אי אפשר איתך לצחוק</l>
+          <l>אולי תביטי לאחור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מותק אני בשוק</l>
+          <l>נמאס לי כבר לשתוק</l>
+          <l>לאחוז באשליות איתך</l>
+          <l>מותק אני בשוק</l>
+          <l>נמאס לי כבר לשתוק</l>
+          <l>אחכה לרגע המתוק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מבטיח אושר אמיתי</l>
+          <l>אם תבואי לקראתי</l>
+          <l>אבל אצלך הכל משחק</l>
+          <l>ואני לאט לאט נשחק</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מותק אני בשוק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

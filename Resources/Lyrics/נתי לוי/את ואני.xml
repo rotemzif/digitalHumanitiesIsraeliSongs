@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את ואני 14</title>
+        <singer classification="male singer">נתי לוי</singer>
+        <writer>מוטי דוד</writer>
+        <composer>נתי לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את ואני</head>
+        <lg number="1" type="stanza">
+          <l>רוחות הסתיו נושבות עכשיו </l>
+          <l>מבשרות על סוף הקיץ,</l>
+          <l>ענן לבן לבש אפור הגשם</l>
+          <l>שוב יחזור </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בחוץ כבר קר כה מאוחר</l>
+          <l>הלב רוצה אלייך לחוש קרוב</l>
+          <l>בחום גופך אנשום נשמותייך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את ואני כחוט שני קשורים אחד </l>
+          <l>אל השני זאת אהבה חוצה גבולות</l>
+          <l>אינה נגמרת את ואני כחוט שני</l>
+          <l>קשורים אחד אל השני זאת אהבה</l>
+          <l>עד בלי סוף לעולם נשארת.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ימים עוברים לילות חולפים אהבה</l>
+          <l>בלב לא תמה, הגיע הזמן שכאן</l>
+          <l>נחיה נשבענו זו לזה עוד חיבוק ליטוף </l>
+          <l>קטן נעוף עד השמיים נרגיש כמו אז</l>
+          <l>כבחלום לך השיר והפזמון.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את ואני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

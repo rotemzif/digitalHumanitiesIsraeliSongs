@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נערת המלח</title>
+        <singer classification="male singer">רובי חן</singer>
+        <writer>יוש גרנות</writer>
+        <composer>רובי חן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נערת המלח</head>
+        <lg number="1" type="stanza">
+          <l>שחר מאיר כבר את הנוף,</l>
+          <l>זוהר נספג במים,</l>
+          <l>והיא נצבת על החוף,</l>
+          <l>בין ארץ לשמיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>האם ישוב עוד זה המלח,</l>
+          <l>לשכון בין זרועותיה,</l>
+          <l>אולי זוכר הוא אולי שכח,</l>
+          <l>את מתיקות שפתיה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שמש נוטה למערב ערב נישא ברוח,</l>
+          <l>והשחפים חולפים בי כמו יצאו לשוח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>האם ישוב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לילה גולש לו לתוף גלים,</l>
+          <l>וחשכה נפרשת ורק דמותה בין הצללים,</l>
+          <l>והיא עוד מחפשת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

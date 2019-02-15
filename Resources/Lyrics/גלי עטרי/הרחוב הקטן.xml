@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הרחוב הקטן</title>
+        <singer classification="female singer">גלי עטרי</singer>
+        <writer>חיים חפר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הרחוב הקטן</head>
+        <lg number="1" type="stanza">
+          <l>נפתחים חלונות</l>
+          <l>ופורחים זכרונות</l>
+          <l>וקרוב הרחוב</l>
+          <l>הו ימים יפים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ולאיטו שב הזמן</l>
+          <l>אל ביתו הישן</l>
+          <l>אל ביתי שנשכח</l>
+          <l>בין גגות הרעפים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>וצופות בו עינינו</l>
+          <l>ועפות בו יונינו</l>
+          <l>וחולפות בו שנותינו</l>
+          <l>ובוכות וצוחקות אהבותינו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בוא נלך ונחזור</l>
+          <l>ונחייך ונזכור</l>
+          <l>הנה סוף הרחוב</l>
+          <l>בחצר ביתך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כאן הזמן לא עבר</l>
+          <l>השען מת מכבר</l>
+          <l>מה נשאר</l>
+          <l>אם לא אהבה שכולה שלך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>וצופות בו עינינו</l>
+          <l>ועפות בו יונינו</l>
+          <l>וחולפות בו שנותינו</l>
+          <l>ובוכות וצוחקות אהבותינו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

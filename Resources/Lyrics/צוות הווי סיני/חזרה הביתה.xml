@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חזרה הביתה</title>
+        <singer classification="band">צוות הווי סיני</singer>
+        <writer>יצחק קלפטר</writer>
+        <composer>יצחק קלפטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חזרה הביתה</head>
+        <lg number="1" type="stanza">
+          <l>קומנדקר מנצנץ שם מאחורי גבעה </l>
+          <l>הכביש משאיר מאחור קרבות ותעלה </l>
+          <l>עוד מאה קילומטר החום ילך וידעך </l>
+          <l>הביינים יופיעו בעוד ארבע שעות בלבד. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>באל-עריש ירוד הוא צריך לעצור עוד טרמפ </l>
+          <l>יגיע לעת ערב רק אם לא יתעכב </l>
+          <l>ייקח אולי את יפה לאיזה דיסקוטק </l>
+          <l>ילכו לאבו-שאול לאכול שם איזה סטייק. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>למה לא תשב ותספר </l>
+          <l>מה שעשית בתקופה האחרונה </l>
+          <l>אבא לא אוכל </l>
+          <l>המקלחת רק עשתה אותי עייף נורא </l>
+          <l>אמא, תסדרי לי המיטה. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בבוקר באה יפה נותנת נשיקה </l>
+          <l>אך הוא חושב על משה שנשאר אי שם </l>
+          <l>חלם רק ללטף להחזיק בכף ידה </l>
+          <l>רק חסר שבקנה תופיע חלודה. </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>למה לא תשב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

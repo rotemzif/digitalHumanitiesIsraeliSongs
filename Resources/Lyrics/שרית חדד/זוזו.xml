@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זוזו</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>טל שגב</writer>
+        <composer>יעקב למאי</composer>
+        <album>מרוץ החיים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זוזו</head>
+        <lg number="1" type="stanza">
+          <l>ונפגשנו ואהבנו וידענו לחבק </l>
+          <l>ואז השלמנו </l>
+          <l>יום של גשם שוב שואלת </l>
+          <l>האם בטוח לאהוב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שעזבת כמו נקרע בי </l>
+          <l>חוט בלב רעד הגוף </l>
+          <l>פתאום הרגשתי </l>
+          <l>מנותקת לא קשורה </l>
+          <l>כאילו מישהו חיבל באהבה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זוזו אני רוקדת</l>
+          <l>את העולם מסובבת </l>
+          <l>יש לי כמוך אלף </l>
+          <l>בא לי כבר מישהו אחר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מאושרת וצוחקת </l>
+          <l>יש לי מישהו בסלון אני חושבת </l>
+          <l>משוחררת חופשייה </l>
+          <l>כאילו כל הגוף מוצף באהבה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זוזו אני רוקדת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לפעמים 25</title>
+        <singer classification="band">כנסיית השכל</singer>
+        <writer>רן אלמליח</writer>
+        <composer>missing</composer>
+        <album>ידיים למעלה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לפעמים</head>
+        <lg number="1" type="stanza">
+          <l>לפעמים אין מקום לשירה</l>
+          <l>לפעמים מעל הים עולה ירח סתם</l>
+          <l>לפעמים אני מרגיש כמו הוכחה של חורף</l>
+          <l>לא תמיד</l>
+          <l>לפעמים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>צלול כמו ים</l>
+          <l>שקוף כמו הנשימה</l>
+          <l>צלול כמו ים</l>
+          <l>שקוף כמו הנשימה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לפעמים האהבה היא שם של אל</l>
+          <l>לפעמים היא שם של סם</l>
+          <l>הצורה מכסה על התוכן</l>
+          <l>והציניות היא דת.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>צלול כמו ים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>"אני צריכה להפסיק לקנות נעליים"</l>
+          <l>את תמיד אומרת כשמדברים על החיים</l>
+          <l>"אני צריך להפסיק לחשוב על סקס כשמדברים על אהבה"</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>צלול כמו ים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

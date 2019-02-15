@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>30 3</title>
+        <singer classification="band">מרפסות</singer>
+        <writer>רועי בר שדה</writer>
+        <composer>צחי אלוש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>30</head>
+        <lg number="1" type="stanza">
+          <l>עוטף הכל בשמיכה ונשאב לעוד כמה ימים</l>
+          <l>אתה אחד כזה שבדרך כלל מתנצל כמעט על כל דבר</l>
+          <l>יורד נמוך ושוב נזכר לגלות שיש עוד לפחות כמה מאות כמוך</l>
+          <l>נבהל מכל דבר שזז מפחד שתכף אמא תתעורר</l>
+          <l>ואתה בן 30</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אומרת יש הכל ממה אתה נבהל?</l>
+          <l>יש עתיד פה, זה לא חבל</l>
+          <l>אצלנו יש הכל ממה אתה נבהל?</l>
+          <l>עוד תגלה שיש עתיד טוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נותן לראש להסתובב כאילו שבחוץ הזמן עומד מלכת</l>
+          <l>בורח אל מקום שקט מפחד שתכף אמא תתעור ואתה בן 30</l>
+          <l>ואין לך חיים, כספים, נשים... חי על קצבתם של אחרים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אומרת יש הכל ממה אתה נבהל?</l>
+          <l>יש עתיד פה, זה לא חבל</l>
+          <l>אצלנו יש הכל ממה אתה נבהל?</l>
+          <l>עוד תגלה שיש עתיד טוב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

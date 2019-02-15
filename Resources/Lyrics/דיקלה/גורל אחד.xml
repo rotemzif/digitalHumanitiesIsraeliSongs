@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גורל אחד</title>
+        <singer classification="female singer">דיקלה</singer>
+        <writer>צפנת ירון</writer>
+        <composer>אקורדים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גורל אחד</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>גורל אחד</l>
+          <l>שם אותנו כאן</l>
+          <l>בארץ הזאת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ניסינו לברוח</l>
+          <l>ניסינו לשכוח</l>
+          <l>ולא יכולנו</l>
+          <l>לעזוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נסענו רחוק</l>
+          <l>מעבר לים</l>
+          <l>היה לנו טוב</l>
+          <l>אבל חזרנו משם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ניסינו לפרוח</l>
+          <l>באדמה זרה</l>
+          <l>ולא יכולנו</l>
+          <l>לעזוב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>גורל אחד</l>
+          <l>שם אותנו כאן</l>
+          <l>בארץ הזאת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

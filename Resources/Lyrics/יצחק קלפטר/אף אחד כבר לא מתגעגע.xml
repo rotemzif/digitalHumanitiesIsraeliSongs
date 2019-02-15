@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אף אחד כבר לא מתגעגע</title>
+        <singer classification="male singer">יצחק קלפטר</singer>
+        <writer>הילה רז</writer>
+        <composer>missing</composer>
+        <album>יצחק</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אף אחד כבר לא מתגעגע</head>
+        <lg number="1" type="stanza">
+          <l>כולם הלכו אל כל המקומות</l>
+          <l>הנכונים, אני נשארתי -</l>
+          <l>בלי לכעוס על אף אחד.</l>
+          <l>סיגריה, כוס קפה לאט נגמרת</l>
+          <l>עוד מעט אביט החוצה</l>
+          <l>יש מה לראות.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אף אחד כבר לא מתגעגע</l>
+          <l>לא רוצים להתרגש איתי</l>
+          <l>איך בחוץ הרוח משתגע</l>
+          <l>עם הילדים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הים, המתקשט אל מול השמש</l>
+          <l>היורדת עדינה,</l>
+          <l>הדייגים הלכו מזמן.</l>
+          <l>מוזר קצת, לא אכפת לי כאן לשבת</l>
+          <l>ולדעת את היופי - הנעלם.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אף אחד כבר לא מתגעגע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

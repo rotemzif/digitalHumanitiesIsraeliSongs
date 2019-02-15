@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נובמבר 5</title>
+        <singer classification="female singer">מירי מסיקה</singer>
+        <writer>קרן פלס</writer>
+        <composer>קרן פלס</composer>
+        <album>מירי מסיקה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נובמבר</head>
+        <lg number="1" type="stanza">
+          <l>זוכר את נובמבר? עננים עננים בעיני</l>
+          <l>אלה לא היו חייך, ולא ממש חיי</l>
+          <l>יום ועוד יום ועוד יום בלעדיך ובלעדי</l>
+          <l>כבר לא היה לנו לא איך, ולא היה מתי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זוכר את החדר? בלונים בלונים בתקרה</l>
+          <l>כמעט והתפוצצנו מאהבה קרה</l>
+          <l>תראה זה סוף הסרט, כבר לא זוכרת התחלה</l>
+          <l>אני עוזבת אותך, אותך.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בסוף ימים ארוכים בא הלילה</l>
+          <l>כמו שהיינו אחד אז עכשיו זה בנפרד</l>
+          <l>על המיטה מביטה, זה לא אתה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא תבין לעולם למה הוצאתי אותך מחיי</l>
+          <l>מלא במילותיך וריק משתיקותי</l>
+          <l>אתה אומר היה מושלם וככה סתם</l>
+          <l>ואיך זה שאת לא בוכה אני הולכת ממך</l>
+          <l>אני הולכת ממך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בסוף ימים ארוכים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

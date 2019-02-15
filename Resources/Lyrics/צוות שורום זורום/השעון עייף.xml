@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השעון עייף</title>
+        <singer classification="unknown">צוות שורום זורום</singer>
+        <writer>מרים ילן שטקליס</writer>
+        <composer>בני נגרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השעון עייף</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>טיק-טק, טיק-טק, אני כועס!</l>
+          <l>טיק-טק, טיק-טק, אני רוגז!</l>
+          <l>טיק-טק, טיק-טק, אני עייף -</l>
+          <l>עוד מעט ואתעלף...</l>
+          <l>ואסור לי לאחר, ואסור לי למהר</l>
+          <l>לי חלילה לעמוד</l>
+          <l>זה אסור מאוד מאוד!</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם ארצה לנום מעט</l>
+          <l>ישלחו אותי מיד אל הרופא</l>
+          <l>הוא יבדוק את הגרון</l>
+          <l>ויאמר: "הושט לשון"</l>
+          <l>זה לא יפה!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גלגלי אצים רצים</l>
+          <l>יום וליל מתרוצצים</l>
+          <l>הם עייפים...</l>
+          <l>מי יבין ללב שעון?</l>
+          <l>גם שעון רוצה לישון,</l>
+          <l>לפעמים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>טיק-טק, טיק-טק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הולך סביב</title>
+        <singer classification="male singer">ירמי קפלן</singer>
+        <writer>ירמי קפלן</writer>
+        <composer>ירמי קפלן</composer>
+        <album>לרע ולטוב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הולך סביב</head>
+        <lg number="1" type="stanza">
+          <l>מי בחלומך</l>
+          <l>רואה לך את הכל</l>
+          <l>ונוגע בכל מקום</l>
+          <l>בו לא תוכלי לו לסרב, לסרב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מי בחלומך</l>
+          <l>עושה איתך סודות</l>
+          <l>ואוחז בך בקצות שפתייך</l>
+          <l>ואומר לך לחייך, לחייך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>האורח בא בלילה</l>
+          <l>מחפש פירצה אצלך</l>
+          <l>הולך סביב</l>
+          <l>נכנס בך</l>
+          <l>מתגנב</l>
+          <l>הולך סביב</l>
+          <l>נשאר שם</l>
+          <l>לא עוזב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז תני לגוף ליפול</l>
+          <l>לנוח מן היום</l>
+          <l>עייפות בך</l>
+          <l>וג'וק אחד בראש שלך</l>
+          <l>שלא מרפה, לא מרפה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>האורח בא בלילה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>הולך סביב</l>
+          <l>נשאר שם, לא עוזב</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אז ספרי לי שאין אף אחד</l>
+          <l>ספרי שלא יהיה</l>
+          <l>רק אל תספרי לי מי שם מתגנב</l>
+          <l>מי שם מתגנב</l>
+          <l>מתגנב</l>
+          <l>מי שם, מתגנב</l>
+          <l>מתגנב</l>
+          <l>מי שם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

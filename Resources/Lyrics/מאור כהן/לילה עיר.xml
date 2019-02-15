@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילה עיר</title>
+        <singer classification="male singer">מאור כהן</singer>
+        <writer>מאור כהן</writer>
+        <composer>מאור כהן</composer>
+        <album>דיסקגרפי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילה עיר</head>
+        <lg number="1" type="stanza">
+          <l>מבר וכל מועדון</l>
+          <l>מבית קפה או מלון</l>
+          <l>אפשר לראות, כולם יודעים</l>
+          <l>זה במבט, בתנועה</l>
+          <l>בקול של כל מזכירה</l>
+          <l>אנחנו כאן עוד מחכים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ובלילה עיר</l>
+          <l>נותנת עוד סיבה</l>
+          <l>לשכוח מי אתה</l>
+          <l>ובלילה עיר</l>
+          <l>הולכת אבודה</l>
+          <l>שוכחת את עצמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה שנראה קל קשה</l>
+          <l>מה שרוצים לא יוצא</l>
+          <l>אולי זה כל מה שנשאר</l>
+          <l>שוב סיכוי אחרון</l>
+          <l>אני יוצא באישון</l>
+          <l>הלילה שוב קורא לי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ובלילה עיר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

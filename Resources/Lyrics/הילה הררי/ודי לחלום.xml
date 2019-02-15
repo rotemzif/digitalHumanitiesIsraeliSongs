@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ודי לחלום</title>
+        <singer classification="female singer">הילה הררי</singer>
+        <writer>יואב אסיף</writer>
+        <composer>יואב אסיף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ודי לחלום</head>
+        <lg number="1" type="stanza">
+          <l>מישהו מצייר לך את השביל,</l>
+          <l>עכשיו את צוחקת...</l>
+          <l>פונה להביט, מישהו רוחץ שוב בליבך.</l>
+          <l>את לא ממהרת, ילדה אמיתית.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ודי לחלום, את התמונות מין העבר...</l>
+          <l>הוא לא יחזור אלייך משם.</l>
+          <l>אז תתרחקי, אל המחר.. בין זרועותיו,</l>
+          <l>של האיש שאוהב אותך עכשיו.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואת מול ברירה להתחלה,</l>
+          <l>במה את בוחרת? ולמה בוכה?</l>
+          <l>יש לך מין בדידות באהבה, </l>
+          <l>היא לא ממלאת אותך, ואת בשלך...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ודי לחלום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

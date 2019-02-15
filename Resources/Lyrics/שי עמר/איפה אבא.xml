@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איפה אבא 2</title>
+        <singer classification="male singer">שי עמר</singer>
+        <writer>שי עמר</writer>
+        <composer>שי עמר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איפה אבא</head>
+        <lg number="1" type="stanza">
+          <l>אני יושב ורק עליך חושב </l>
+          <l>כותב ובוכה ואתה תמיד בלב </l>
+          <l>לאן נעלמת לי יום אחד </l>
+          <l>קמת והלכת השארת אותי לבד </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אף פעם לא ידעתי </l>
+          <l>אבא אמיתי </l>
+          <l>בשבילי אתה אורח </l>
+          <l>אז איפה לעזאזל אבי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל ביקוריך אף פעם לא עוזרים </l>
+          <l>אתה מנשק מחבק ותמיד חוזר לבפנים </l>
+          <l>לאן נעלמת לי יום אחד קמת והלכת </l>
+          <l>השארת אותי לבד </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אף פעם לא ידעתי </l>
+          <l>אבא אמיתי </l>
+          <l>בשבילי אתה אורח </l>
+          <l>אז איפה לעזאזל אבי </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני יושב ורק עליך חושב </l>
+          <l>שולח געגוע האם אתה תופס? </l>
+          <l>תחזור אלי יום אחד </l>
+          <l>ותחבק אותי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

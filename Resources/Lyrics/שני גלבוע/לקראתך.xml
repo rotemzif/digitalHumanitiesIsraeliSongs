@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לקראתך 2</title>
+        <singer classification="unknown">שני גלבוע</singer>
+        <writer>שני גלבוע</writer>
+        <composer>שני גלבוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לקראתך</head>
+        <lg number="1" type="stanza">
+          <l>כולם מחכים שתגיעי, </l>
+          <l>באוויר מרגישים זה קרוב. </l>
+          <l>ריח של קודש ויום חגיגי, </l>
+          <l>טרחה ממושכת לטוב. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>טיפות לבנות, צובעות הרחוב</l>
+          <l>בלובן טהור של כלה. </l>
+          <l>כמו מתגלה היא לנגד עיני,</l>
+          <l>כמו נחשפת ברוגע כולה. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תפילה בקולה, מבשרת בואך</l>
+          <l>הכל כבר ערוך ומוכן לכבודך. </l>
+          <l>רק היכנסי ענוגה, בשערי, </l>
+          <l>בך תרגיש אז גם נשמתי. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>טיפות לבנות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

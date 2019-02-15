@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אתה יודע</title>
+        <singer classification="female singer">מרגלית צנעני</singer>
+        <writer>אסף לביא צנעני</writer>
+        <composer>לא ידוע</composer>
+        <album>דווקא היום</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אתה יודע</head>
+        <lg number="1" type="stanza">
+          <l>כל אחד מחפש את הדרך </l>
+          <l>אתה ודאי יודע זה לפעמים קשה</l>
+          <l>כל דקה שעוברת בשקט</l>
+          <l>אתה ודאי שומע אתה יודע</l>
+          <l>שיום יבוא תראה את האור תמצא אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין אף אחד שלא רוצה להתאהב</l>
+          <l>ואין אדם שלא נגע בו הכאב</l>
+          <l>תשכח הכל ותשמח את הלב</l>
+          <l>אתה יודע אתה שומע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד שנייה תפתח לך דלת</l>
+          <l>אתה לאט פוסע ולעולם תצא</l>
+          <l>שאלה שעליך נשאלת</l>
+          <l>תביא אותך לאן שאתה כל כך רוצה</l>
+          <l>יום יבוא תראה את האור תמצא אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין אף אחד שלא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

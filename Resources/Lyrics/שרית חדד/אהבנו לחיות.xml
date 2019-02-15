@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבנו לחיות</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>שמואל אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבנו לחיות</head>
+        <lg number="1" type="stanza">
+          <l>ההורים שלי נסעו לסוף שבוע,</l>
+          <l>כל החברה בשכונה, עשינו מסיבה.</l>
+          <l>איזה כיף של חגיגה, לא רוצים לנוח,</l>
+          <l>השתוללנו בטירוף - עשינו מה שבא.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמו דבורים בשדי פרחים,</l>
+          <l>שותים מצוף הנעורים.</l>
+          <l>אהבנו לשמוח, אהבנו לרקוד</l>
+          <l>אהבנו בעצם לחיות.</l>
+          <l>בעיר הגדולה בדירה קטנטנה,</l>
+          <l>יש חפלה של כל השכונה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חופשיים משוחררים, כמו עלים ברוח</l>
+          <l>והקצב מתגבר חזק ומסחרר.</l>
+          <l>צעירים מאושרים עם ראש פתוח,</l>
+          <l>מרגישים בכל הגוף, איך הדם עובר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמו דבורים בשדי פרחים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

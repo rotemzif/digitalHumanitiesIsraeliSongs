@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ארצי 7</title>
+        <singer classification="unknown">שירי הדר</singer>
+        <writer>מאיר נווה</writer>
+        <composer>שירי הדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ארצי</head>
+        <lg number="1" type="stanza">
+          <l>ריח פרדסי שרון</l>
+          <l>שלג במרומי חרמון</l>
+          <l>כנרת בכחול גואה</l>
+          <l>מול ים המלח מצדה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את ארצי ואין אחרת</l>
+          <l>את קטנה את נהדרת</l>
+          <l>את זוהרת את חלום</l>
+          <l>רק חסר לך קצת שלום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תל אביב בלי הפסקה</l>
+          <l>בכרמל ריחות פריחה</l>
+          <l>בדרום נמצאת אילת</l>
+          <l>זוהי כל ארצי כמעט</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את ארצי ואין אחרת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זמן 54</title>
+        <singer classification="unknown">מירה עוואד</singer>
+        <writer>אהוד מנור</writer>
+        <composer>מירה עוואד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זמן</head>
+        <lg number="1" type="stanza">
+          <l>זה הזמן להיות לבד</l>
+          <l>רוצה עוד זמן בלי אף אחד</l>
+          <l>לבד ושהזמן יחלוף</l>
+          <l>ואת הכל איתו ישטוף.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זמן עד שהשמש תבוא ותיגע</l>
+          <l>זמן לשכוח כל מה שפגע</l>
+          <l>רק עוד זמן</l>
+          <l>כי גם אם הוא קצת מאחר</l>
+          <l>זמן יביא איתו זמן אחר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואולי עוד עוד יום אחד</l>
+          <l>אולי אקום ולא אפחד</l>
+          <l>וזה יהיה הזמן הטוב</l>
+          <l>הזמן לחיות ולאהוב.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זמן עד שהשמש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

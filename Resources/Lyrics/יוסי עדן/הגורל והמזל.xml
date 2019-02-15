@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הגורל והמזל</title>
+        <singer classification="unknown">יוסי עדן</singer>
+        <writer>יוסי עדן</writer>
+        <composer>יוסי עדן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הגורל והמזל</head>
+        <lg number="1" type="stanza">
+          <l>חיוך לעולם חייך בן אדם</l>
+          <l>אפילו אם הכסף לא זורם לבנק</l>
+          <l>תסתכל למעלה אל האלוקים</l>
+          <l>ותגיד תודה על אלו החיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל אדם ומזלו</l>
+          <l>כל אדם וגורלו</l>
+          <l>כל אדם צריך להיות שמח בחלקו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תתעורר חבר מתוך החלומות</l>
+          <l>גם בלי מזומן אתה יכול לחיות</l>
+          <l>אז תסמוך על אבא שבמרומים</l>
+          <l>כי הוא שומר על כל האנשים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל אדם ומזלו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

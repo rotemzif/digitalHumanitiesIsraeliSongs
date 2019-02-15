@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ימים אפורים</title>
+        <singer classification="unknown">קובי פז</singer>
+        <writer>קובי פז</writer>
+        <composer>קובי פז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ימים אפורים</head>
+        <lg number="1" type="stanza">
+          <l>בימים אפורים, ימים של הסתיו.</l>
+          <l>ימים של הרגע הם ימים של עכשיו.</l>
+          <l>השמים נופלים, נופלים כוכבים.</l>
+          <l>אז איך את אומרת שנפלו גיבורים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נושרים העלים, זאת שלכת עכשיו.</l>
+          <l>שלכת אומרת שהיגיע הסתיו.</l>
+          <l>יבוא, ישאך על כנפי-נשרים.</l>
+          <l>את זה את אומרת בימים-אפורים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אל תבכי על עלה שנשר.</l>
+          <l>בואי נשב תחת עץ-התמר.</l>
+          <l>אל תבכי על ימים שאבדו.</l>
+          <l>אל תבכי כי הם לא יחזרו.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יושב המשורר, תחת עץ-התמר.</l>
+          <l>יושב וכותב את שירי העבר.</l>
+          <l>בורחת מפה, נוסעת מכאן.</l>
+          <l>למי את אומרת, מי יודע לאן.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אל תבכי על עלה שנשר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני אש 12</title>
+        <singer classification="male singer">רן דנקר</singer>
+        <writer>עילי בוטנר</writer>
+        <composer>עילי בוטנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני אש</head>
+        <lg number="1" type="stanza">
+          <l>אני אש, אני רוח</l>
+          <l>לא מוכר, לא ידוע </l>
+          <l>אני שביל שעובר </l>
+          <l>וחוזר אלייך</l>
+          <l>אני גל, אני קצף</l>
+          <l>ודמעה שיורדת</l>
+          <l>על פני הסתכלי</l>
+          <l>התקרבי אלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והנה אני כבר ישן לבד </l>
+          <l>ורוקם לעצמי חלומות</l>
+          <l>הנה אני יודע שאת</l>
+          <l>את לא יכולה להיות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני בא, את הולכת</l>
+          <l>אני מת, את נושמת בלעדי</l>
+          <l>וחיי הם ריקים </l>
+          <l>ואת גורמת לי להיות</l>
+          <l>כמו הילד בקיבוץ</l>
+          <l>איך אהבתי אז לרוץ אלייך</l>
+          <l>התקרבי אלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והנה אני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

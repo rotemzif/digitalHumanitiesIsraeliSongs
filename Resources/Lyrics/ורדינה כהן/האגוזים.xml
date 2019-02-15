@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האגוזים</title>
+        <singer classification="female singer">ורדינה כהן</singer>
+        <writer>אורלי בינדר</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האגוזים</head>
+        <lg number="1" type="stanza">
+          <l>מקישים האגוזים,</l>
+          <l>זה בזה תוק תוק נוגעים,</l>
+          <l>מקישים האגוזים, </l>
+          <l>תוק, תוק, רוקדים זזים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>האגוזים מתגלגלים </l>
+          <l>האגוזים הקטנטנים</l>
+          <l>מתגלגלים מתגלגלים </l>
+          <l>האגוזים השמנמנים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ברצפה האגוזים </l>
+          <l>מקישים תוק תוק נוגעים</l>
+          <l>מקישים האגוזים </l>
+          <l>מקישים רוקדים זזים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>האגוזים מתגלגלים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בכסא האגוזים </l>
+          <l>מקישים, תוק, תוק, נוגעים,</l>
+          <l>מקישים האגוזים, הופ והופ זזים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>האגוזים מתגלגלים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

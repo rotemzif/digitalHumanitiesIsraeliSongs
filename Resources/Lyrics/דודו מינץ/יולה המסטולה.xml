@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יולה המסטולה</title>
+        <singer classification="unknown">דודו מינץ</singer>
+        <writer>דודו מינץ</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יולה המסטולה</head>
+        <lg number="1" type="stanza">
+          <l>החיילת יולה החיילת יולה</l>
+          <l>מתבקשת למפקדה בבקשה</l>
+          <l>החיילת יולה החיילת יולה</l>
+          <l>מתבקשת למפקדה בבקשה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בבסיס שלנו יש חיילת ושמה יולה</l>
+          <l>כשהיא שותה כוסית של ערק היא נהיית מסטולה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יולה יולה יוללה</l>
+          <l>יולה יולה יולה</l>
+          <l>יוללה יולה המסטולה</l>
+          <l>יולה יולה יולה יולה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש ליולה חברה שקוראים לה חנה</l>
+          <l>לא מנגבת את האף תמיד יורד לה חננה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יולה יולה...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מתכות של יולה יולה, השם שלה זה יפה </l>
+          <l>בכל ערב בעלה מביא לה ו'אחד כאפה</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>יולה יולה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל תפילותי 2</title>
+        <singer classification="male singer">מיכאל סינואני</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>ניקי גונן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל תפילותי</head>
+        <lg number="1" type="stanza">
+          <l>עודני שר ומאושר</l>
+          <l>אפילו אם ימי בוכים.</l>
+          <l>עודני שר, גרוני ניחר,</l>
+          <l>אפילו אם נובלים פרחים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והשירים כולם תפילות</l>
+          <l>שנישאות והן עולות</l>
+          <l>אל שערי, אל שערי רקיע.</l>
+          <l>וגם שירי המלבלב</l>
+          <l>אשר קולח מן הלב</l>
+          <l>יפרוש כנפיים ואלי יגיע.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וכל מילה היא כמו תפילה</l>
+          <l>וכמו שתילים רכים בגן.</l>
+          <l>וכל פזמון הוא כהמנון</l>
+          <l>צובע את יומי לבן.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והשירים כולם תפילות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

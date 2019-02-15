@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר חוף</title>
+        <singer classification="male singer">חנן יובל</singer>
+        <writer>בני הדר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר חוף</head>
+        <lg number="1" type="stanza">
+          <l>חוף לבן, דקלים באופק</l>
+          <l>רק ענן שם שט לבד</l>
+          <l>שניים יחד הם יותר -</l>
+          <l>מאחד ועוד ואחד.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>צעק לרוח, שיר ללילה,</l>
+          <l>קרא שלום אל העולם,</l>
+          <l>הדמעות שבעיניך,</l>
+          <l>כמו טיפות בתוך הים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כה צלולים הם השמיים,</l>
+          <l>כה כחולים הם וגבוהים,</l>
+          <l>תפוס קצת שקט ושלווה -</l>
+          <l>כי קצרים הם החיים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>צעק לרוח, שיר ללילה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה יום, כן זה הרגע</l>
+          <l>לא מוקדם, לא מאוחר,</l>
+          <l>כמו כוכב זוהר בלילה</l>
+          <l>בלי אסור ובלי מותר.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>צעק לרוח, שיר ללילה...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>שירו יחד, שיר של חופש,</l>
+          <l>שירו יחד בצעקה</l>
+          <l>כי כולם רוצים שלום</l>
+          <l>ויפה היא התקווה.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>צעק לרוח, שיר ללילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

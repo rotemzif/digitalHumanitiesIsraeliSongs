@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שקוע בעצמי</title>
+        <singer classification="unknown">שחר אבן צור</singer>
+        <writer>שחר אבן צור</writer>
+        <composer>שיקו פלדמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שקוע בעצמי</head>
+        <lg number="1" type="stanza">
+          <l>את שהלכת ואני אוהב אותך</l>
+          <l>קר במטבח אין לי חשק לאכול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עצוב לי ואני בוכה כולם חשבו שנתחתן</l>
+          <l>עכשיו אני שקוע בעצמי</l>
+          <l>אני רוצה להתגלגל איתך</l>
+          <l>ועכשיו אני שקוע בעצמי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את שחלמת על חיים בעיר הגדולה</l>
+          <l>קמת והגשמת ואני נשארתי כאן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עצוב לי ואני בוכה כולם חשבו שנתחתן...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את שהלכת ואני נשארתי כאן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שקט שביר</title>
+        <singer classification="unknown">ספארי</singer>
+        <writer>רונן פרי</writer>
+        <composer>איתי סיני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שקט שביר</head>
+        <lg number="1" type="stanza">
+          <l>הנה הפרא </l>
+          <l>מתפרץ בך ללא אזהרה </l>
+          <l>קצת מטושטשת </l>
+          <l>מאבדת שיווי משקל </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>על אבן הדרך </l>
+          <l>נעצרת ואז ממשיכה </l>
+          <l>פתאום את נזכרת שיש לך </l>
+          <l>עוד מישהו בפינה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>היי </l>
+          <l>שקט שביר </l>
+          <l>כי את, רק את זועקת הלילה </l>
+          <l>את אומרת שאין לך מה להסתיר </l>
+          <l>עכשיו הגיע הזמן למעשים </l>
+          <l>כי אני כבר עייפתי ממילים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יוצאת כמו אריה </l>
+          <l>ותוקפת את החלשים שבעדר </l>
+          <l>עד שלא יישאר קול אחד </l>
+          <l>שיצעק: "הכל יהיה בסדר" </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>היי </l>
+          <l>שקט שביר </l>
+          <l>כי את, רק את זועקת הלילה </l>
+          <l>את אומרת שאין לך מה להסתיר </l>
+          <l>עכשיו הגיע הזמן למעשים </l>
+          <l>כי אני כבר עייפתי ממילים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

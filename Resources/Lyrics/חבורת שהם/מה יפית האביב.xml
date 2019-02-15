@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה יפית האביב</title>
+        <singer classification="unknown">חבורת שהם</singer>
+        <writer>יוסף אחאי</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה יפית האביב</head>
+        <lg number="1" type="stanza">
+          <l>מה יפית, האביב!</l>
+          <l>בשדה, באחו,</l>
+          <l>הציצים יפרחו:</l>
+          <l>צהלת חיים סביב</l>
+          <l>מה יפית, האביב!</l>
+          <l>מה נעמת, האביב!</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה יפית, בוקר אור!</l>
+          <l>כל ענף, כל עשב,</l>
+          <l>יגמעו טל כסף,</l>
+          <l>ישתו טל, יפיצו מור</l>
+          <l>מה יפית, בוקר אור!</l>
+          <l>מה נעמת, בוקר אור!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה יפית, העולם!</l>
+          <l>ים דגן פתוח,</l>
+          <l>יך גלים ברוח,</l>
+          <l>ומאירים פני אגם.</l>
+          <l>מה יפית, העולם!</l>
+          <l>מה נעמת, העולם!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

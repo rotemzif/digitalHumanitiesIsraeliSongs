@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צפירה</title>
+        <singer classification="male singer">נינו אורסיאנו</singer>
+        <writer>שרון אביעד</writer>
+        <composer>נינו אורסיאנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צפירה</head>
+        <lg number="1" type="stanza">
+          <l>כל אותם האנשים שהיו קרובים </l>
+          <l>שנעלמים וחוזרים אחרי שנים </l>
+          <l>כל אותן הדמויות שמופיעות בחלון </l>
+          <l>כל אותם היקרים, שמתים לי פתאום.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל אותם האנשים שרק אכזבו </l>
+          <l>ואותם מי רצה בכלל לראות </l>
+          <l>כל אותם הריקנים עם הזמן נמרחו </l>
+          <l>וכל אותם מקוללים שבהם צריך לירות. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לכולם דקה דומיה מהולה בקצת כאב </l>
+          <l>עם צפירה אישית שבוקעת מהלב, שבוקעת מהלב. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל אותם האנשים שראו מערומי </l>
+          <l>כל אותם האנשים שגנבו את בתולי </l>
+          <l>כל אותן הנשמות שעפות עם הזמן </l>
+          <l>כל אותם השמות שמחקתי מהיומן. </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לכולם דקה דומיה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלוזר</title>
+        <singer classification="male singer">תומר שרון</singer>
+        <writer>תומר שרון</writer>
+        <composer>תומר שרון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלוזר</head>
+        <lg number="1" type="stanza">
+          <l>הוא ישן כל היום</l>
+          <l>לא אכל משלשום</l>
+          <l>מאתמול יש לו חומר טוב</l>
+          <l>הוא עישן את הכל</l>
+          <l>לא נותר לו גבעול</l>
+          <l>איכשהו לא יכול לכאוב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תעירו אותי</l>
+          <l>אל תזהירו אותי</l>
+          <l>אל תשאירו אותי</l>
+          <l>לבד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך כואב לו בצד</l>
+          <l>מין כאב כזה חד</l>
+          <l>וקשה להשכים לקום</l>
+          <l>יש בחוץ מלחמה</l>
+          <l>אך בלב פנימה</l>
+          <l>הוא בנה לו שם חדר אטום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תעירו אותי</l>
+          <l>אל תזהירו אותי</l>
+          <l>אל תשאירו אותי</l>
+          <l>לבד</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני מקווה שאזדקן לפני שאמות</l>
+          <l>הזמן הוא היחיד שלא עושה טעות</l>
+          <l>אין דבר צובט יותר מלב שרוט</l>
+          <l>אני מקווה שאזדקן לפני שאמות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

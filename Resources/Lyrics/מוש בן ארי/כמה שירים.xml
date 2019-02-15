@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה שירים</title>
+        <singer classification="male singer">מוש בן ארי</singer>
+        <writer>מוש בן ארי</writer>
+        <composer>מוש בן ארי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה שירים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>כמה שירים כתבו למענך</l>
+          <l>כמה לילות שאת אינך כבר פה</l>
+          <l>כמה ימים נתנו למענך</l>
+          <l>כמה עכשיו לומד אותך פה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמה מילים נתנו למענך</l>
+          <l>כמה ימים שאת אינך כבר פה</l>
+          <l>כמה הרים חצו למענך</l>
+          <l>כמה דמעות זלגו אל מול עינך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>והלילה הלילה הבא אצלך</l>
+          <l>והבוקר בוקר בלעדיך</l>
+          <l>והלילה לילה החלומך</l>
+          <l>והבוקר בוקר עד אליך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כמה חולמים חלמו על היותך</l>
+          <l>כמה הוזים הזו כבר את דמותך</l>
+          <l>כמה כוכבים יודעים כבר את שמך</l>
+          <l>כמה שמיים ניחמו את חסרונך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כמה שירים כתבו למענך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

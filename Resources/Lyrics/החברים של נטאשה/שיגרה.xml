@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיגרה</title>
+        <singer classification="band">החברים של נטאשה</singer>
+        <writer>מיכה שטרית</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיגרה</head>
+        <lg number="1" type="stanza">
+          <l>הבוקר הזה יהיה מיוחד למישהו, איפשהו...</l>
+          <l>ולטוב ולרע.</l>
+          <l>לרובנו הבוקר הזה מתחיל כמו ודומה לבוקר אחר שהיה.</l>
+          <l>שיגרה - בואו ונקרא לזה שיגרה.</l>
+          <l>כי עוד מעט השמש תהיה באמצע השמיים,</l>
+          <l>ונבחן את הכל בטווח המוגבל של העיניים.</l>
+          <l>שיגרה - בואו ונקרא לזה שיגרה.</l>
+          <l>זה נורא?</l>
+          <l>זה לא רע!</l>
+          <l>ונגיד - בעיני זה כן! ובעיני זה לא!</l>
+          <l>ונגיד ונגיד מדי פעם נפסיק להגיד...</l>
+          <l>נשמור בבטן, נכתוב ביומן, נקרא בעיתון...</l>
+          <l>נקרע אחד לשני את הצורה!</l>
+          <l>שיגרה - בואו ונקרא לזה שיגרה.</l>
+          <l>זה נורא?</l>
+          <l>זה לא רע!</l>
+          <l>שיגרה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza" />
+        <lg Chorus="yes" number="3" type="stanza" />
+        <lg Chorus="yes" number="4" type="stanza" />
+      </lg>
+    </body>
+  </text>
+</TEI>

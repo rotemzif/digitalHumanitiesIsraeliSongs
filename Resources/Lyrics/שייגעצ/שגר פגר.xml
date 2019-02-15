@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שגר פגר 3</title>
+        <singer classification="band">שייגעצ</singer>
+        <writer>יובל מנדלסון</writer>
+        <composer>יובל מנדלסון</composer>
+        <album>ניו יורק רפיח</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שגר פגר</head>
+        <lg number="1" type="stanza">
+          <l>איש אחד מת באבן גבירול</l>
+          <l>עם הדם על החולצה כבר לא רציתי לשאול</l>
+          <l>נהג שיכור נסע בצפון רמת חן</l>
+          <l>אמא בת שלושים וכבר נרצח לה הבן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שגר פגר מכל עבר</l>
+          <l>שגר פגר מכל עבר</l>
+          <l>נה נה נה נה</l>
+          <l>נה נה נה נה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אוטובוס עף במרכז תל אביב</l>
+          <l>מטען חבלה של חתיכת ערבי</l>
+          <l>בשדה תעופה התרסק אווירון</l>
+          <l>תגידו מה קורה עם אריק שרון</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שגר פגר מכל עבר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אחד נרקומן קפץ ממגדל</l>
+          <l>בדרך למטה קטף עוד גוזל</l>
+          <l>אחד התאבד קראו לו שמן</l>
+          <l>ואבא בוכה על בן שכבר אין</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שגר פגר מכל עבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

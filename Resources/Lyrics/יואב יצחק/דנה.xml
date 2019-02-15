@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דנה 4</title>
+        <singer classification="male singer">יואב יצחק</singer>
+        <writer>יוסי להב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דנה</head>
+        <lg number="1" type="stanza">
+          <l>דנה, כשראיתי את מבטך</l>
+          <l>ידעתי שהכל נגמר</l>
+          <l>דנה, רציתי שוב לקרוא בשמך</l>
+          <l>אבוי קול בי לא נותר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מדוע דנה לא ידעת לקוות</l>
+          <l>לא ידעת לאהוב</l>
+          <l>דנה, חידלי לבכות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דנה, שתיקתך כה נוראה</l>
+          <l>דנה, נילאתי מחכות</l>
+          <l>דנה, היית לי פעם נערה</l>
+          <l>אבוי נותרו רק חורבות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מדוע דנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

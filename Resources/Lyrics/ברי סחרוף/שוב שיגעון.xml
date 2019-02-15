@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שוב שיגעון</title>
+        <singer classification="male singer">ברי סחרוף</singer>
+        <writer>ברי סחרוף</writer>
+        <composer>missing</composer>
+        <album>האחר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שוב שיגעון</head>
+        <lg number="1" type="stanza">
+          <l>שוב שיגעון</l>
+          <l>בראש קודח</l>
+          <l>מתוך הארון</l>
+          <l>השד בורח</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ככה פתאום</l>
+          <l>נקרע החבל</l>
+          <l>בלהט קדמון</l>
+          <l>נפרץ הסכר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מישהו אמר (אלו הם חבלי משיח)</l>
+          <l>היום זה בוער (אבל מחר) מחר יצמיח</l>
+          <l>מה שנסתר ממך מבטיח</l>
+          <l>שהתשובה חבר נישאת ברוח</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שום פיתרון</l>
+          <l>הוא לא בטוח</l>
+          <l>האופק קרוב</l>
+          <l>הפצע פתוח</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שוב החלום</l>
+          <l>נתפש ברשת</l>
+          <l>ולתוך הדימיון</l>
+          <l>המציאות פולשת</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מישהו אמר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

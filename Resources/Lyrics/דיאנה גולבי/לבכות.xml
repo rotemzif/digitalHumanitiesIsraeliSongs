@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לבכות 4</title>
+        <singer classification="unknown">דיאנה גולבי</singer>
+        <writer>יאיר לפיד</writer>
+        <composer>missing</composer>
+        <album>הרגעים הגדולים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לבכות</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>השמיים יורדים אל חלוני</l>
+          <l>חורף בחוץ וקיץ בי</l>
+          <l>האם אתה זוכר?</l>
+          <l>כשהשתיקות ארוכות, זוכר</l>
+          <l>והמילים רחוקות,</l>
+          <l>איך הייתי בך</l>
+          <l>ורציתי לבכות...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הימים נאספו לביתי</l>
+          <l>השנים נחרטו בגופי</l>
+          <l>האם אתה זוכר?</l>
+          <l>נגיעות חטופות, זוכר</l>
+          <l>האם היית שלי</l>
+          <l>כשעטפתי אותך</l>
+          <l>ורציתי לבכות...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ידעתי תמיד שזה יגמר</l>
+          <l>ידעתי תמיד שאני אשאר. לבכות...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הימים הם רק נוף, נוף הרחוב</l>
+          <l>השנים הן רק אופק, אופק הסוף</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>האם אתה זוכר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

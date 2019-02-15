@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מילים מגושמות</title>
+        <singer classification="female singer">חני דינור</singer>
+        <writer>נתן יונתן</writer>
+        <composer>חני דינור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מילים מגושמות</head>
+        <lg number="1" type="stanza">
+          <l>שנים אני טורחת בקשתות</l>
+          <l>גוררת אבני מילין</l>
+          <l>שומטת וקמה לבנות</l>
+          <l>ושבה ומתמוטטת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל ארכיטקט מצוי היה מזמן</l>
+          <l>בונה כאן גשר בל ימוט</l>
+          <l>אבל אצלי מילים מגושמות</l>
+          <l>בקושי מקימות גשר צר מאוד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

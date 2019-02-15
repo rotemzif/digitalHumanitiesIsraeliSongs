@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו כולנו</title>
+        <singer classification="female singer">הילה הררי</singer>
+        <writer>הילה הררי</writer>
+        <composer>הילה הררי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו כולנו</head>
+        <lg number="1" type="stanza">
+          <l>חיים בעולם של חלומות</l>
+          <l>דע לך החולמים המגשימים</l>
+          <l>הם בודדים</l>
+          <l>אם תפסיק לרגע תמצא אותי כאן</l>
+          <l>מחכה לצדך</l>
+          <l>אז קדימה הדרך לליבי חופשיה, פתוחה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>השמש שוקעת כמו כולנו</l>
+          <l>מקווה שהשחר כבר יראה סימן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש לי כל כך הרבה שאלות</l>
+          <l>אבל אין לי תשובות</l>
+          <l>אם אעצום עיניים הכל ישאר אותו דבר</l>
+          <l>המציאות תכף תעיר אותי</l>
+          <l>היא תעיר אותנו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>השמש שוקעת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אחרי הכל אנחנו רק שנינו</l>
+          <l>נלחמים על החיים שלנו</l>
+          <l>מסתכלים דרך חלון</l>
+          <l>החוצה על העולם שלנו</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>השמש שוקעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בדרך למעלה 2</title>
+        <singer classification="band">גיים בויז</singer>
+        <writer>חמי אושרי</writer>
+        <composer>חמי אושרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בדרך למעלה</head>
+        <lg number="1" type="stanza">
+          <l>עומד מול מראה מביט לעצמי בעיניים</l>
+          <l>מרגיש מבוזבז רוצה לקפןץ לשמיים</l>
+          <l>הזמן עובר ורק אני עוצר פתאום</l>
+          <l>ורואה נוף חדש וכולי נרגש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני כל כך רוצה </l>
+          <l>להגיע לקצה</l>
+          <l>נפגש רואה מוצא </l>
+          <l>אבל אני לא מרוצה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מנסה לטפס על סולם</l>
+          <l>לא מצליח אבל עוד לא מוותר</l>
+          <l>נעמד על פסגה של הר ומסתכל סביב</l>
+          <l>ורואה עננים על רמה גבוהה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני כל כך רוצה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מדהימה אותי</title>
+        <singer classification="male singer">רגב הוד</singer>
+        <writer>רינת בר</writer>
+        <composer>רינת בר</composer>
+        <album>מהפך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מדהימה אותי</head>
+        <lg number="1" type="stanza">
+          <l>את ידך אני אוחז ונשבע</l>
+          <l>לאהוב אותך עד כלות הנשימה</l>
+          <l>עוצם את עינייך ונותן לך לדמיין,</l>
+          <l>את היפה שלי, את החלום שלי,</l>
+          <l>אותך אני אוהב.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את מדהימה אותי כל פעם מחדש</l>
+          <l>מאירה לי את חיי ואני נרגש</l>
+          <l>דקה יפה והגורל נחתם</l>
+          <l>את נסיכה ואני שלך לעולם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את כולך אני עוטף באהבה</l>
+          <l>את מציפה אותי בחום ואמונה</l>
+          <l>עוצם את עינייך ונותן לך לדמיין,</l>
+          <l>את היפה שלי, את החלום שלי,</l>
+          <l>אותך אני אוהב.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את מדהימה אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

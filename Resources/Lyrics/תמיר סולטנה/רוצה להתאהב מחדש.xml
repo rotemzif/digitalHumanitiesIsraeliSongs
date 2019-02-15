@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוצה להתאהב מחדש</title>
+        <singer classification="unknown">תמיר סולטנה</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>שמואל אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוצה להתאהב מחדש</head>
+        <lg number="1" type="stanza">
+          <l>כשאנחנו מבלים מחוץ לבית</l>
+          <l>שוב צוחקים מחייכים ליד כולם</l>
+          <l>ואת הלב שנחצה פתאום לשניים</l>
+          <l>מכסה כמעט תמיד משחק מושלם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רוצה להתאהב מחדש</l>
+          <l>לחזור אל אותה ידידות</l>
+          <l>לאחוז בחלום הנרגש להיפרד מהבדידות</l>
+          <l>רוצה להתאהב מחדש</l>
+          <l>לחזור אל אותה ידידות</l>
+          <l>לטעום חברות של ממש בלי לומר הכל אבוד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>החברים נותנים עצה אחת או שתיים</l>
+          <l>ומציעים שניפרד תקופה קצרה</l>
+          <l>אבל אני באמת אוהב עדיין</l>
+          <l>ולא מבין איך הפכת להיות זרה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רוצה להתאהב מחדש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

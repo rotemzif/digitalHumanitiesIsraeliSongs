@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חושב עליה</title>
+        <singer classification="male singer">עידן יניב</singer>
+        <writer>ליאור דטאוקר</writer>
+        <composer>ליאור דטאוקר</composer>
+        <album>מי אם לא עידן יניב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חושב עליה</head>
+        <lg number="1" type="stanza">
+          <l>שוב מרגיש את הפחד</l>
+          <l>שוב אנחנו לא ביחד</l>
+          <l>ומנסה להתגבר</l>
+          <l>היא עם אחר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איך היא עושה זאת בקלות</l>
+          <l>אני מרגיש רק ריקנות</l>
+          <l>ומנסה להתגבר</l>
+          <l>היא עם אחר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כל הזמן אני חושב עליה, עליה</l>
+          <l>ומנסה להתגבר</l>
+          <l>איך היא חודרת לתוכי בעיניה, עיניה</l>
+          <l>ומנסה להתגבר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מילים יוצאות מתוך הלב</l>
+          <l>פשוט תדעי אני אוהב</l>
+          <l>ומנסה להתגבר</l>
+          <l>היא עם אחר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כל הזמן אני חושב עליה, עליה</l>
+          <l>ומנסה להתגבר</l>
+          <l>איך היא חודרת לתוכי בעיניה, עיניה</l>
+          <l>ומנסה להתגבר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

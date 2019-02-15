@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שפוי בשבילך</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>גילי זכאי</writer>
+        <composer>גילי זכאי</composer>
+        <album>הופעה חיה בהיכל התרבות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שפוי בשבילך</head>
+        <lg number="1" type="stanza">
+          <l>רצית שמשהו טוב יקרה לך, </l>
+          <l>לראות אותך עוד מחייכת </l>
+          <l>שרק השמחה תגור בליבך </l>
+          <l>רציתי מלאך שירקוד מעלינו, </l>
+          <l>יספר לך כמה אוהב </l>
+          <l>לברוח איתך או לצאת לטייל, </l>
+          <l>אל מקום בו איש עלינו לא שואל </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נשבעתי את כל העולם להגיש לך, </l>
+          <l>להיות המקום השפוי בשבילך ובשבילי, </l>
+          <l>כל בוקר אותך לחבק ולשמוח, </l>
+          <l>לדעת שייש בי עוד כוח לתת לך את כולי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רציתי לומר לך מה שהרגשתי, </l>
+          <l>איך כל יום מחדש את כובשת </l>
+          <l>עוטפת אותי, חודרת ללב </l>
+          <l>אשמור עלייך בכל כוחי </l>
+          <l>אשמור אותך, אז אל תלכי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נשבעתי את כל העולם להגיש לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

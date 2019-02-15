@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוקר טוב 20</title>
+        <singer classification="unknown">נדב גלעד גדליה</singer>
+        <writer>נחמן שתיל</writer>
+        <composer>נחמן שתיל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוקר טוב</head>
+        <lg number="1" type="stanza">
+          <l>השמש כבר זורחת </l>
+          <l>וקרניה שולחת </l>
+          <l>תקווה בליבי פורחת </l>
+          <l>היום אמצא לי נחת </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והעפרוני מזמר </l>
+          <l>והירגזי משורר </l>
+          <l>והפשוש אף הוא אומר </l>
+          <l>בוקר טוב בוקר טוב </l>
+          <l>קום התעורר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רוח צפרירים קלילה </l>
+          <l>מנשבת צלולה </l>
+          <l>משאלה בליבי עולה </l>
+          <l>היום תאחז בי צהלה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והעפרוני מזמר... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בריות צועדים על המדרכה </l>
+          <l>מזדרזים למלאכה </l>
+          <l>ותפילה בליבי ערוכה </l>
+          <l>היום תשרה עלי ברכה </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>והעפרוני מזמר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

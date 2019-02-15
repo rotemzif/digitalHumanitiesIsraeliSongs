@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איש כחול</title>
+        <singer classification="unknown">ההוצאה לפועל</singer>
+        <writer>אריאל אביזוב</writer>
+        <composer>טל קנון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איש כחול</head>
+        <lg number="1" type="stanza">
+          <l>איש כחול בא וסיפר לי</l>
+          <l>איך חיים שם, מעבר לים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איש כחול בא אלי הלילה</l>
+          <l>בא וסיפר על מי שאהב</l>
+          <l>אמר לי שהוא לא יכול להמשיך עוד</l>
+          <l>אמר והחליט איך לחיות את חייו</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איש כחול לא יכול</l>
+          <l>להיות איתי עכשיו</l>
+          <l>רק אמר לי שאלך</l>
+          <l>ואמשיך שוב בלעדיו</l>
+          <l>איש כחול, מה רצית בכלל?</l>
+          <l>לאהוב, לאהוב את מה שנשאר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני יודעת, עכשיו הזמן ללכת</l>
+          <l>לראות שעבר, להבין שזה נגמר</l>
+          <l>החיים ייראו לי אחרת</l>
+          <l>כבר לא רוצה ממך שום דבר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>איש כחול לא יכול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

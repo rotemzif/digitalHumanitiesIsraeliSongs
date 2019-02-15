@@ -1,0 +1,37 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סודה פופ</title>
+        <singer classification="unknown">מיי פיינגולד</singer>
+        <writer>מיי פיינגולד</writer>
+        <composer>missing</composer>
+        <album>סודה-פופ</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סודה פופ</head>
+        <lg number="1" type="stanza">
+          <l>תות אנלוגי - משהו לא נורמאלי</l>
+          <l>יש סודה פופ אבל בלי סוכר זה מר לי</l>
+          <l>סרט של ברוס לי - לא זה לא נמאס לי</l>
+          <l>אפרו ודיזיאק - סאן טרופז מכנס לי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

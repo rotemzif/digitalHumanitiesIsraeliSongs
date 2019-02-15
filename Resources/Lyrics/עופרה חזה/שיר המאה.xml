@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר המאה</title>
+        <singer classification="unknown">עופרה חזה</singer>
+        <writer>אפי נצר</writer>
+        <composer>אפי נצר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר המאה</head>
+        <lg number="1" type="stanza">
+          <l>זה השיר ליזם, למשכלל המוצר </l>
+          <l>לאיכר, לרפתן החולב </l>
+          <l>זהו שיר למהנדס, למשרטטת, לשר </l>
+          <l>ואותו פה נשיר מן הלב </l>
+          <l>למתכנן המטוס, לפועלת טקסטיל </l>
+          <l>למנהלת מפעל המסגר </l>
+          <l>ליוצק הפלדה, לקודח בטיל </l>
+          <l>לכל אלה נשיר ונזמר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הבו זמר לפועל שירו שיר ליצרנים </l>
+          <l>ליצואן זמרו הלל איך חלפו מאה שנים </l>
+          <l>הבו זמר למפעל תנו כבוד ליצירה </l>
+          <l>שירו שיר תקווה גדולה לחיי התעשייה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>החיים - עבודה, עבודה זה חיים </l>
+          <l>זה לחמינו משנות דור ודור </l>
+          <l>נהיה עם חכם וחזק ונעים </l>
+          <l>על פנינו כל הטוב יעבור </l>
+          <l>זהו שיר השירים על מאה שחלפה </l>
+          <l>בה הגענו ביחד עד כאן </l>
+          <l>כך נצעד יד ביד לעבר עוד מאה </l>
+          <l>אל עתיד עצמאי ואיתן </l>
+          <l>לעבודה ולמלאכה לעבודה ולמלאכה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הבו זמר לפועל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

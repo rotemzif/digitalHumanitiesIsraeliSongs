@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מנגינה שקטה</title>
+        <singer classification="female singer">רוני</singer>
+        <writer>מיטל פטש</writer>
+        <composer>ניב כהן</composer>
+        <album>לא עוצרת - מהדורה מלאה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מנגינה שקטה</head>
+        <lg number="1" type="stanza">
+          <l>מתבגרת לא חוזרת לאחור </l>
+          <l>מתקדמת אל האור מתגברת </l>
+          <l>לא נגמרת מדברים כולם בקול</l>
+          <l>מנסים אותי לשבור כל הדרך </l>
+          <l>תן לי סימן לא משנה לי לאן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גם אם אתה גם אתה רחוק </l>
+          <l>אל תקח לי את הצחוק </l>
+          <l>העיניים כואבות ואולי רק הן יודעות </l>
+          <l>להגיע אל ליבך </l>
+          <l>ועולה בי מנגינה שקטה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מביטים בי ורואים בי עוד תמונה </l>
+          <l>המזל שיחק גם לה </l>
+          <l>מפורסמת וצוחקת </l>
+          <l>זהו התפקיד שלה </l>
+          <l>שחקנית בהצגה שלא נגמרת.</l>
+          <l>תן לי סימן לא משנה לי לאן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גם אם אתה גם אתה רחוק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

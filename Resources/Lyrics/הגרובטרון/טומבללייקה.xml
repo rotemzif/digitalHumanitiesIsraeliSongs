@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טומבללייקה</title>
+        <singer classification="unknown">הגרובטרון</singer>
+        <writer>עממי</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טומבללייקה</head>
+        <lg number="1" type="stanza">
+          <l>מה עושה, עושה החלוץ</l>
+          <l>כשהוא בא, הוא בא לקיבוץ</l>
+          <l>הוא בא לקיבוץ, רוצה לאכול</l>
+          <l>נכנס אל הלול, גונב תרנגול.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>טומבליי טומבליי טומבלליקה</l>
+          <l>טומבלי טומבלי טומבלליקה</l>
+          <l>טומבלליקה, טומבללי</l>
+          <l>נגני בלליקה זמר נושן.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה עושה, עושה החלוץ</l>
+          <l>כשהוא בא, הוא בא לקיבוץ</l>
+          <l>הוא בא לקיבוץ, רוצה לאכול</l>
+          <l>רואה בחורה, שוכח הכל.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>טומבליי טומבליי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

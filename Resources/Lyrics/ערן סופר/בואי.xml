@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואי 126</title>
+        <singer classification="unknown">ערן סופר</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואי</head>
+        <lg number="1" type="stanza">
+          <l>לא יודע איך לספר</l>
+          <l>את מה שעלי עובר</l>
+          <l>לך נתתי את נשמתי</l>
+          <l>ואת עזבת אותי</l>
+          <l>זה קרה אתמול</l>
+          <l>ועכשיו אני לא יכול לסבול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואי למי שאוהב אותך</l>
+          <l>בואי אני מחכה לך</l>
+          <l>בואי הלב מבקש אותך</l>
+          <l>בואי נאהב לנצח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא ידעתי שזה יכאב</l>
+          <l>שתלכי ותפני לי גב</l>
+          <l>האמנתי שתחזרי</l>
+          <l>עליי עוד לא תוותרי</l>
+          <l>ואז נעלמת אני מחכה</l>
+          <l>ועוד לא חזרת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בואי למי שאוהב אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

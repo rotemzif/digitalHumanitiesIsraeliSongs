@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק אל תגיד</title>
+        <singer classification="female singer">מאיה בוסקילה</singer>
+        <writer>אדמית הראל</writer>
+        <composer>אייל שחר</composer>
+        <album>ימים של אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק אל תגיד</head>
+        <lg number="1" type="stanza">
+          <l>רק אל תגיד לי שהכל בסוף עובר</l>
+          <l>ואל תספר לי איך האופק מתבהר</l>
+          <l>לא רוצה מילים להתנחם</l>
+          <l>לא אכפת לי מי יוצא אשם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רק אל תגיד לי שיאהב אותי אחר</l>
+          <l>ואל תגיד לי שאסור לי לוותר</l>
+          <l>אל תחפש את הדמעות</l>
+          <l>יש לי עוד כל כך הרבה לראות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תדע החופש כבר קורא בשמי</l>
+          <l>מזמין אותי אליו</l>
+          <l>לא מפחדת שוב לבד</l>
+          <l>אז אל תחזיק לי את היד</l>
+          <l>גם אם הדרך חשוכה עכשיו</l>
+          <l>אולי ארעד מקור</l>
+          <l>לא, לא תשמע אותי בוכה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רק אל תגיד לי שעם הזמן זה מתרחק</l>
+          <l>ואל תספר לי על החכם והצודק</l>
+          <l>תראה איך שנגמר לנו הזמן</l>
+          <l>אז איך זה שאתה עדיין כאן</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תדע החופש כבר קורא בשמי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

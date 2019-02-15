@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך אפשר בלעדייך</title>
+        <singer classification="male singer">מני פרץ</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>עממי הודי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך אפשר בלעדייך</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>טוב לדעת שאת איתי</l>
+          <l>איך אפשר בלעדייך</l>
+          <l>בלי מראה שתי עינייך</l>
+          <l>ומגע שתי ידייך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הכל נשכח, הלב נפתח</l>
+          <l>ואני נשבע להיות שלך</l>
+          <l>מאור עיני את כל חיי אתן לך.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>טוב לדעת...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>להרגיש אותך באתי מהכפור</l>
+          <l>מהמרחקים שבתי אל האור</l>
+          <l>מהחושך ועד האושר</l>
+          <l>לא אחכה רגע, בואי ותחבקיני</l>
+          <l>כי הזמן הגיע רק שתאהביני.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שם כוכב נופל, רוח מיילל</l>
+          <l>עד אלייך בא מן הערפל</l>
+          <l>מהחושך ועד האושר</l>
+          <l>לאהבה דרך שלא מתקצרת</l>
+          <l>והיא לא נגמרת ותמיד סוערת.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

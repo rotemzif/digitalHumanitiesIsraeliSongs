@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אוהבת לתת</title>
+        <singer classification="male singer">נתי לוי</singer>
+        <writer>נתי לוי</writer>
+        <composer>נתי לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אוהבת לתת</head>
+        <lg number="1" type="stanza">
+          <l>את לא אוהבת שאני עצוב ומרוחק,</l>
+          <l>את לא אוהבת שאני סגור ומנותק,</l>
+          <l>את לא אוהבת אנשים שמדברים עלי,</l>
+          <l>את לא אוהבת שנשים מתקרבות אלי...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את רק אוהבת לתת וכל הזמן דואגת</l>
+          <l>משכיחה ממני דאגה מלב</l>
+          <l>באהבה ורוך את בי נוהגת</l>
+          <l>לא מכירה בעצב ולא בכאב...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את לא כועסת כשאני יוצא עם חברים,</l>
+          <l>את לא כועסת שבלילות אני כותב שירים,</l>
+          <l>את לא כועסת גם אם שתיתי קצת לפעמים,</l>
+          <l>את לא כועסת שאני ישן בימים...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את רק אוהבת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

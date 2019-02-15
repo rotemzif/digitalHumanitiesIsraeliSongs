@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני לא בן של מלך</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>אלון צדוק</writer>
+        <composer>missing</composer>
+        <album>כמה אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני לא בן של מלך</head>
+        <lg number="1" type="stanza">
+          <l>מבטך כובש לי את הלב</l>
+          <l>כשאני מביט בך, החיוך שלך הורס אותי</l>
+          <l>אבל את לא מבינה</l>
+          <l>שאין כמוני בעולם שיוכל לתת לך</l>
+          <l>ולפנק אותך בחום כמו שאני יודע </l>
+          <l>אם רק תתני לי הזדמנות, אני אוכיח לך</l>
+          <l>שאת בסוף תרצי אותי ואז תביני ש...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני לא בן של מלך ואת לא נסיכה</l>
+          <l>בסך הכל רציתי לתת לך אהבה</l>
+          <l>אני לא בן של מלך ואת לא נסיכה</l>
+          <l>בסך הכל רציתי לתת לך אהבה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בדיוק עכשיו שזה הזמן, לגשת רק אלייך</l>
+          <l>ולומר את המילה שתשנה את התמונה</l>
+          <l>ואז תביני שאני, מכור אלייך</l>
+          <l>ורוצה אותך בכל ליבי ושלא תוותרי</l>
+          <l>אם רק תתני לי הזדמנות, אני אוכיח לך</l>
+          <l>שאת בסוף תרצי אותי ואז תגידי ש...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני לא בן של מלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

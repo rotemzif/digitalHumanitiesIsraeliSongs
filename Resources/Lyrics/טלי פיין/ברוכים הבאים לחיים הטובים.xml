@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ברוכים הבאים לחיים הטובים</title>
+        <singer classification="female singer">טלי פיין</singer>
+        <writer>אלון אדירי</writer>
+        <composer>אלון אדירי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ברוכים הבאים לחיים הטובים</head>
+        <lg number="1" type="stanza">
+          <l>כשאין לי לאן ללכת, אני באה אלייך</l>
+          <l>שואבת את כל כוחי ממך, חוסה בצילך</l>
+          <l>הגענו לסוף הדרך, מביטה בפנייך</l>
+          <l>רואה אותך שותק כאילו כלום לא נוגע לך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מסביב האש בוערת והכתובת על הקיר</l>
+          <l>אני שואלת את עצמי מה יהיה בימים הבאים</l>
+          <l>ואתה הולך בשקט, מתקרב אל תנוך אוזני</l>
+          <l>ולוחש ברוכים הבאים לחיים הטובים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאין לי לאן לברוח, אני בורחת אלייך</l>
+          <l>אוספת את חיי מהאדמה בשארית כוחותי</l>
+          <l>מביטה אל תוך עינייך, שם השמש זורחת</l>
+          <l>ואתה אפוף שלווה כאילו העולם נע סביבך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מסביב האש בוערת והכתובת על הקיר</l>
+          <l>אני שואלת את עצמי מה יהיה בימים הבאים</l>
+          <l>ואתה הולך בשקט, מתקרב אל תנוך אוזני</l>
+          <l>ולוחש ברוכים הבאים לחיים הטובים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

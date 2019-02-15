@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דבר לא קרה</title>
+        <singer classification="male singer">דני רובס</singer>
+        <writer>דני רובס</writer>
+        <composer>דני רובס</composer>
+        <album>מסגרות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דבר לא קרה</head>
+        <lg number="1" type="stanza">
+          <l>עוד מעט יהיה כבר אור בחוץ</l>
+          <l>מיותר כל כך ולא נחוץ</l>
+          <l>ובפנים שנינו, דבר לא קרה ושתיקה אפורה</l>
+          <l>אני נמלט אל עוד אלבום אחד</l>
+          <l>ואת מוזגת מיץ מאיזה כד, וברגע שקט</l>
+          <l>מעלים במבוכה יד חסרת מנוחה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם אמצא בי כח, לא אברח הפעם</l>
+          <l>גל אחד מגיח פתע בא ונמלט</l>
+          <l>עוד דקה למתוח, אם אמצא בי כח</l>
+          <l>לא להיסגר</l>
+          <l>לאחוז בך כמו הייתי איש אחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מאוחר מידי לשכב לישון</l>
+          <l>לא, ודאי אני לא הראשון</l>
+          <l>ששולח קרן ומגלה אפילה ושיחה בטילה</l>
+          <l>הרחוב ניעור לאט לאט</l>
+          <l>פס לבן של אור על כף היד</l>
+          <l>נעלם לרגע במבט שעובר מהסס וחוזר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם אמצא בי כח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

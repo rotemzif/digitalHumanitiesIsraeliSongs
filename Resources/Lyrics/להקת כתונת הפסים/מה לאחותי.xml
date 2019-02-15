@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה לאחותי</title>
+        <singer classification="unknown">להקת כתונת הפסים</singer>
+        <writer>רבי יהודה הלוי</writer>
+        <composer>ציונה לירון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה לאחותי</head>
+        <lg number="1" type="stanza">
+          <l>מה לאחותי כי חשבה</l>
+          <l>ימים על מצור ניצבה</l>
+          <l>לאמור מתי בא מועדי</l>
+          <l>ביטחי לך מאשר תפחדי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יונה, יונה מה לך תתנודדי</l>
+          <l>כציפור על גג תתבודדי</l>
+          <l>יונה, יונה מה לך תתנודדי</l>
+          <l>כציפור על גג תתבודדי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הן תוחלתך לא ניכזבה</l>
+          <l>הוחילי הנה קרבה</l>
+          <l>רוח קינאה בי נשבה</l>
+          <l>עזה כמוות אהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יונה, יונה מה לך תתנודדי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הומה ליבי עת אזכרה</l>
+          <l>אהבה מקדם נוצרה</l>
+          <l>לשון לא תוכל ספרה</l>
+          <l>כיקוד גחלים בוערה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יונה, יונה מה לך תתנודדי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

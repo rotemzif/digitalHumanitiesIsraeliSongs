@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מן החושך חזרתי</title>
+        <singer classification="male singer">שלומי שבת</singer>
+        <writer>מרגלית אנקורי</writer>
+        <composer>שלומי שבת</composer>
+        <album>זמן אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מן החושך חזרתי</head>
+        <lg number="1" type="stanza">
+          <l>מן החושך לחופש חזרתי</l>
+          <l>שום אור באופק לא נגלה לי</l>
+          <l>איך אוכל לשוב לא פשעתי</l>
+          <l>איך אוכל להביט בך לא חטאתי</l>
+          <l>חברים שלא פגשתי מזמן</l>
+          <l>עברו לידי הפנו לי את גבם</l>
+          <l>שעברתי ליד הקולנוע הישן</l>
+          <l>נערות במיני עומדות שם לבדן (לבדן)</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איש לא חיכה לי והרחוב זר היה לי</l>
+          <l>מלחמה  קרה היא</l>
+          <l>השמש חמה היא</l>
+          <l>כי מן החושך חזרתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כולם נועצים בי מבטים קשים</l>
+          <l>ואני לא ביקשתי רחמים</l>
+          <l>לא אני שאחזור אל החושך</l>
+          <l>לא אני שאוותר על החופש</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איש לא חיכה לי ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוא ונרד לחוף</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>גילי גנני</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוא ונרד לחוף</head>
+        <lg number="1" type="stanza">
+          <l>אם מתחשק לך לברוח מהצרות ליום אחד</l>
+          <l>זה המקום כמו גן עדן בוא ונרד לחוף</l>
+          <l>אם לא נשאר לך כבר כח לדאגות של החיים</l>
+          <l>בין הגלים תוכל לשכוח את הצרות לשטוף</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בוא תנוח אל תפחד אל תוך עולם כחול תצעד</l>
+          <l>בוא תנוח אל תפחד אל תוך עולם כחול תצעד</l>
+          <l>קפוץ למים ותפוס ראש אך צא לדרך אל תחשוש אך</l>
+          <l>בוא ונרד לחוף את הצרות נשטוף</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תגיד חיים בזבל בוא תתפוס את קצה החבל</l>
+          <l>שים בצד את כל הסבל בוא ונרד לחוף</l>
+          <l>אם תרצה תוכל למזוח כוס של וויסקי ולחגוג</l>
+          <l>שט על המים ראשך בשמיים את הצרות תשטוף</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בוא תנוח אל תפחד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

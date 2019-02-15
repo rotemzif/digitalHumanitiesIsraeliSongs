@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שינה ישנה</title>
+        <singer classification="female singer">רונה קינן</singer>
+        <writer>רונה קינן</writer>
+        <composer>רונה קינן</composer>
+        <album>עיניים זרות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שינה ישנה</head>
+        <lg number="1" type="stanza">
+          <l>אני רואה את הצל שלך ורק אחר כך אותך</l>
+          <l>וכמו שכתוב בשיר אין קץ לאין שובך</l>
+          <l>את הקווים החסרים לדמותך ציירתי בעפרון שקוף</l>
+          <l>אולי משהו יתבהר לי לכדי תמונה מתוך החסר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לולי לולי לה</l>
+          <l>אני מזכירה לעצמי שינה ישנה</l>
+          <l>לולי לולי לה</l>
+          <l>ומרדימה את עצמי</l>
+          <l>נשימה נשימה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>העיניים לא שוכחות מראות נשכחים</l>
+          <l>ושוכחת עוד פחות</l>
+          <l>מה שהיה יכול להיות</l>
+          <l>פתקים שהשארתי לעצמי על המקרר</l>
+          <l>מזכירים לי ללא הרף שמשהו חסר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לולי לולי לה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>החידה שהיא אתה</l>
+          <l>נשארת תלויה באוויר</l>
+          <l>אני כבר לא מנסה</l>
+          <l>להיזכר במילים של השיר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לולי לולי לה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

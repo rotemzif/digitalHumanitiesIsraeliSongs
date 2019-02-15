@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>די נמאס לי</title>
+        <singer classification="male singer">עופר לוי</singer>
+        <writer>יוש גרנות</writer>
+        <composer>עממי</composer>
+        <album>הקלפן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>די נמאס לי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>די נמאס לי די נמאס</l>
+          <l>די נמאס לי משקרים</l>
+          <l>די נמאס לי די נמאס</l>
+          <l>די נמאס לי משקרים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את אומרת לי שאין לך אין לך זמן להיפגש</l>
+          <l>ומבקשת שאתן לך עוד צלצל מחר בשש</l>
+          <l>ואני שמאמין לך מתחנן ומבקש</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>די נמאס לי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את אומרת ומשקרת שזמנך לא מסתדר</l>
+          <l>ותמיד את ממהרת ועומדת לאחר</l>
+          <l>אך ראו אותך עוברת מחובקת עם אחר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>די נמאס לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

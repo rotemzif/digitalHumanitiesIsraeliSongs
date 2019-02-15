@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו השקט</title>
+        <singer classification="male singer">משה פרץ</singer>
+        <writer>משה פרץ</writer>
+        <composer>דודו אהרון</composer>
+        <album>אש: ההופעה בהיכל התרבות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו השקט</head>
+        <lg number="1" type="stanza">
+          <l>את מביטה בי בעיניים רכות</l>
+          <l>רוצה לומר את המילה </l>
+          <l>ואני חושב איך להגיע אלייך </l>
+          <l>כי מעינייך ליבי נדהם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את כמו השקט </l>
+          <l>באה והולכת </l>
+          <l>ואני כמו משוגע </l>
+          <l>רוצה להתמכר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני חושב שהאהבה היא חלום </l>
+          <l>אם רק איתך זה יתגשם </l>
+          <l>נקווה שאלוקים שומע היום </l>
+          <l>תיתן לשניינו אהבה וחום </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את כמו השקט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

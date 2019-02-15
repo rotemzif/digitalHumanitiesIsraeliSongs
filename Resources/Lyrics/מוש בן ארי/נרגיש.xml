@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נרגיש</title>
+        <singer classification="male singer">מוש בן ארי</singer>
+        <writer>מוש בן ארי</writer>
+        <composer>מוש בן ארי</composer>
+        <album>דרך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נרגיש</head>
+        <lg number="1" type="stanza">
+          <l>כשנרגיש נרגיש</l>
+          <l>וכשנדע נדע</l>
+          <l>מה פה קיים קיים</l>
+          <l>קיים גם בתשובה</l>
+          <l>וכשנאהב נאהב</l>
+          <l>וכשנכעס נכעס</l>
+          <l>בסוף הכל אחד</l>
+          <l>אתה אף פעם לא לבד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>באהבה באהבה</l>
+          <l>בנחמה</l>
+          <l>וכשנגיע נגיע לאן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וכשנרגיש נרגיש</l>
+          <l>וכשנדע נדע</l>
+          <l>מה פה קיים קיים</l>
+          <l>קיים גם בתשובה</l>
+          <l>וכשנאהב נאהב</l>
+          <l>וכשנכעס נכעס</l>
+          <l>בסוף הכל אחד</l>
+          <l>אתה אף פעם לא לבד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>באהבה באהבה</l>
+          <l>בנחמה</l>
+          <l>וכשנגיע נגיע לאן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

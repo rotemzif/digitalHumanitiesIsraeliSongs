@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נחיה לנצח</title>
+        <singer classification="male singer">לידור יוספי</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נחיה לנצח</head>
+        <lg number="1" type="stanza">
+          <l>המבט שלך הימם אותי</l>
+          <l>לך אסגוד עד יום מותי</l>
+          <l>את היית יפה וחייכנית</l>
+          <l>אמרתי לך אוהב אותך</l>
+          <l>אמרתי לך רוצה אותך</l>
+          <l>איך ילדה כבשת את לבבי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני ואת</l>
+          <l>אני ואת נחיה לנצח</l>
+          <l>גם אם את הולכת אז לבטח</l>
+          <l>הלב שלי תמיד ילך איתך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ימים לילות לבד נסער</l>
+          <l>ובליבי כאב נשאר</l>
+          <l>איך חצית לילות במרחבים</l>
+          <l>עושה עצמך לא מבינה</l>
+          <l>כאילו לי שמרת פינה</l>
+          <l>שנוכל לחיות בלי דאגה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני ואת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

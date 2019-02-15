@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מסחר הוגן</title>
+        <singer classification="male singer">דודי לוי</singer>
+        <writer>חנה גולדברג</writer>
+        <composer>ארן אמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מסחר הוגן</head>
+        <lg number="1" type="stanza">
+          <l>תני את השקט, אתן לך את הרעש שלי, אישה</l>
+          <l>תראי לי את הבטן, אתן את הגב שלי אישה</l>
+          <l>קחי לי את נפש, בואי תני לי משהו לאכול, אישה</l>
+          <l>תני לי את הגוף שלך, אשקה אותו בדם כחול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה את דואגת?</l>
+          <l>יש אוכל למכביר</l>
+          <l>מה את עוזבת!</l>
+          <l>תני לי להסביר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תני את הגבעות שלך, אתן לך את הבית שלי, אישה</l>
+          <l>תני את האגם שלך, אתן לך לאכול אותי, אישה</l>
+          <l>תני לי לבקר אותך, אני נכנס מהחלון, אישה</l>
+          <l>תני לי לחבר אותך, מוכן לישון גם בסלון, על המזרון</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה את דואגת?...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הניחי את הנשק, אתן לך להביס אותי, אישה</l>
+          <l>בואי לתוך הרשת עם החץ ועם הקשת, את ניצחת</l>
+          <l>בואי אמזונה אל הטרף שבתוך הפח שלך</l>
+          <l>קחי מהבשר הנא, אני עכשיו סופית נכנע</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מה את דואגת?...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

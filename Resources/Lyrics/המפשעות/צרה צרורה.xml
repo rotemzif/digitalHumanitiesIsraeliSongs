@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צרה צרורה</title>
+        <singer classification="unknown">המפשעות</singer>
+        <writer>המפשעות</writer>
+        <composer>המפשעות</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צרה צרורה</head>
+        <lg number="1" type="stanza">
+          <l>בוקר טוב התעוררתי ברחוב.</l>
+          <l>בוקר רע של מי הדירה?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>צרה, צרה צרורה ואי אפשר להיזכר איך זה קרה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בואי נסע למדבר נדליק מדורה.</l>
+          <l>לא לא את לא משחקת את לא חברה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>צרה, צרה צרורה ואי אפשר להיזכר איך זה קרה.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני שיכור ואת שיכורה,</l>
+          <l>וזה מתכון לאסון למשהו נורא.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>צרה, צרה צרורה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

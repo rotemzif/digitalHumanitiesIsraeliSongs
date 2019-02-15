@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קרן שמש קרן זוהר</title>
+        <singer classification="female singer">עדנה לב</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>משה וילנסקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קרן שמש קרן זוהר</head>
+        <lg number="1" type="stanza">
+          <l>אשא עיני אל ההרים -</l>
+          <l>הלך אבי ולא עמד.</l>
+          <l>בתרמילו פינקס שירים,</l>
+          <l>ישתה מימיו בין ההרים</l>
+          <l>והד עונה לו מן הכד.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קרן שמש, קרן אור,</l>
+          <l>אצבעות זהב וטוהר;</l>
+          <l>איש הולך אל מול הזוהר</l>
+          <l>וקינת יונה ותור.</l>
+          <l>קרן שמש, קרן זוהר,</l>
+          <l>קרן שמש, קרן אור.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אשא עיני אל ההרים:</l>
+          <l>האם שקיעה היא או זריחה?</l>
+          <l>עיזים איתו ופרפרים,</l>
+          <l>כחולים ראשי הדרדרים -</l>
+          <l>האם קמילה היא או פריחה?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קרן שמש...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אשא עיני אל ההרים -</l>
+          <l>בצל חרוב אבי שכב.</l>
+          <l>מתרמילו הציפורים</l>
+          <l>לוקטות בבוקר פירורים</l>
+          <l>ומביאות לי את שיריו.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>קרן שמש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

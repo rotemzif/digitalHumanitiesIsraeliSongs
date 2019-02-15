@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני רוצה לשיר</title>
+        <singer classification="female singer">עדנה לב</singer>
+        <writer>אבי בן עמי</writer>
+        <composer>אבי בן עמי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני רוצה לשיר</head>
+        <lg number="1" type="stanza">
+          <l>אני חוזרת לבמה כמו זה היה אתמול, </l>
+          <l>ועוד אומר לכם דבר מה, אשיר כאן על הכל: </l>
+          <l>אשיר גם על ימים קשים ולילות ללא שינה. </l>
+          <l>אני חוזרת לחיים שקיבלתי מתנה. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני רוצה לשיר, לרוץ בכל העיר. </l>
+          <l>אני רוצה רק עוד, לשיר וגם לרקוד. </l>
+          <l>אני רוצה לשיר, לרוץ בכל העיר, </l>
+          <l>רוצה רק עוד, לשיר וגם לרקוד. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הרבה שנים חלפו מאז, וגם שירים רבים. </l>
+          <l>בסוף יצא מתוק מעז, יפים לי החיים: </l>
+          <l>הכל עכשיו חוזר אלי, כמו בימים ההם </l>
+          <l>ומעכשיו אשיר בלי די, ואוכל להתנחם. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני רוצה לשיר, לרוץ בכל העיר... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הכל יחזור להיות כמו פעם </l>
+          <l>ובדרך בא הלכתי אני עושה פרסה. </l>
+          <l>לכל דבר יהיה עכשיו גם טעם, </l>
+          <l>ואני עושה את מה שאני רוצה. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני רוצה לשיר, לרוץ בכל העיר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

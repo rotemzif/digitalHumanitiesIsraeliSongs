@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חבקי אותי 6</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>קובי פרץ</composer>
+        <album>כמה אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חבקי אותי</head>
+        <lg number="1" type="stanza">
+          <l>כל היום אני חושב עלייך</l>
+          <l>כל הזמן רוצה אותך איתי</l>
+          <l>כמה מתוקות הן שתי עינייך</l>
+          <l>שמאירות לי את כל עולמי</l>
+          <l>אלייך באתי ולך הבטחתי</l>
+          <l>אני ואת עוד נהיה מאושרים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני אוהב אותך כל כך</l>
+          <l>ואת יודעת לנצח אהיה שלך</l>
+          <l>חבקי אותי יפה שלי</l>
+          <l>אשמור עלייך כל רגע כשאת איתי  </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בלילות אני חולם עלייך</l>
+          <l>על יופייך שמלטף אותי</l>
+          <l>לכל מקום אלך רק אחרייך</l>
+          <l>כי את האור את החיים שלי</l>
+          <l>אלייך באתי ולך הבטחתי</l>
+          <l>אני ואת עוד נהיה מאושרים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני אוהב אותך כל כך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

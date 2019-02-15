@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הסביבון שלי</title>
+        <singer classification="female singer">חוה אלברשטיין</singer>
+        <writer>לאה נאור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הסביבון שלי</head>
+        <lg number="1" type="stanza">
+          <l>הסביבון שלי מרגיש נורא חשוב</l>
+          <l>הוא מסתובב ומסתובב לו שוב ושוב</l>
+          <l>סביב סביב ימינה שמאלה או ישר</l>
+          <l>ולא איכפת לו כלום הוא מאושר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הוא רוקד לו סתם נהנה מן העולם</l>
+          <l>אם הוא מתעייף לו קצת הוא נופל לו על הצד</l>
+          <l>בום טרח בום טרח הוא נח.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הסביבון רוקד, רוקד לו כל היום</l>
+          <l>הוא לא עסוק לא ממהר לשום מקום</l>
+          <l>על הרצפה על הספסל על כף היד</l>
+          <l>הוא לא חושב על כלום, לו לא איכפת.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הוא רוקד לו סתם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עוד לא ראיתי סביבון לא מאושר</l>
+          <l>לא מצונן ולא חולה, לא שום דבר</l>
+          <l>הוא כך רוקד רוקד רוקד וקצת גם שר</l>
+          <l>סביב סביב ימינה שמאלה או ישר.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הוא רוקד לו סתם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

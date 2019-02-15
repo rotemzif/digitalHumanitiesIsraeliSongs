@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היא ואני</title>
+        <singer classification="male singer">עמיר לב</singer>
+        <writer>עמיר לב</writer>
+        <composer>עמיר לב</composer>
+        <album>עמיר לב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היא ואני</head>
+        <lg number="1" type="stanza">
+          <l>באתם אלי, אמרתם בואו נזוז</l>
+          <l>בוא נברח מכאן ממש לחוץ</l>
+          <l>תשמע את הרדיו, זעקות של פצועים</l>
+          <l>פתחו תחנות לאיתור קרובים</l>
+          <l>או...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נסענו באוטו, היא, אתה ואני</l>
+          <l>היה נדמה שהיא נוגעת בי</l>
+          <l>מעניין אם היא שמה לב, או שאני סתם חולם</l>
+          <l>ומה עם המחיר שנשלם</l>
+          <l>או...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא ואני - ואתה ישן</l>
+          <l>היא ואני - ואתה ישן</l>
+          <l>היינו היא ואני</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בבית מלון, בחדר צמעוני</l>
+          <l>היתה מיטה אחת, והיא בינך וביני</l>
+          <l>והיא נוגעת לאט, לאט יותר</l>
+          <l>ורק אני ער</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>והיא ואני - ואתה ישן...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>סיפור יפה לשמוע מרחוק, אסור להתקרב</l>
+          <l>זה השטן שהתערב, עשה תרגיל...</l>
+          <l>והיא ואני - ואתה ישן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

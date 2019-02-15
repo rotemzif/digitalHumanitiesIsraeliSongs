@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נדודים</title>
+        <singer classification="unknown">הקציצות של לידיה</singer>
+        <writer>אביתר אדרי</writer>
+        <composer>אביתר אדרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נדודים</head>
+        <lg number="1" type="stanza">
+          <l>לא נלך לעולם </l>
+          <l>לא נשוב </l>
+          <l>לא נשוב </l>
+          <l>איך אוכל לעזוב </l>
+          <l>את כל מה שהותרתי מאחור </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אין מנוס </l>
+          <l>אין מנוח </l>
+          <l>אין מרגוע </l>
+          <l>אין שלווה </l>
+          <l>אין שלווה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איך אוכל לעזוב ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

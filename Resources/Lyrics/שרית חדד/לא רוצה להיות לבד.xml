@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא רוצה להיות לבד</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>מאיר עמר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא רוצה להיות לבד</head>
+        <lg number="1" type="stanza">
+          <l>עכשיו כשאני עצובה ורוצה אהבה</l>
+          <l>אין לי עם מי לדבר קשה לי לבד</l>
+          <l>ואין אף אחד חיפשתי למי לספר</l>
+          <l>אין לי עם מי לדבר חיפשתי למי לספר</l>
+          <l>משתדלת לא לבכות</l>
+          <l>אבל כשהדמעות באות אני בוכה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא רוצה להיות לבד אף פעם</l>
+          <l>בוא ותחבק אותי עוד פעם</l>
+          <l>לא רוצה להיות לבד אף פעם</l>
+          <l>רוצה שתחבק אותי עוד פעם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכשיו כשהלילה ארוך </l>
+          <l>חיפשתי לי חום</l>
+          <l>לבד עם עצמי במיטה</l>
+          <l>הלכת מכאן ולקחת איתך </l>
+          <l>את כל האהבה</l>
+          <l>לקחת מכאן את הכל </l>
+          <l>את הכל האהבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא רוצה להיות לבד אף פעם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

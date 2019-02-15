@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אשמח בך</title>
+        <singer classification="male singer">עמיר בניון</singer>
+        <writer>ישראל אבוחצירא</writer>
+        <composer>עממי</composer>
+        <album>לדעת הכל</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אשמח בך</head>
+        <lg number="1" type="stanza">
+          <l>יודו לך רעיוני האל מבטן יוצרי</l>
+          <l>על קרבתך בסיני להאיר את נרי</l>
+          <l>על כן בתחנוני אפאר בשירי</l>
+          <l>בכל ימי ושני עד לעד לעולם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אשמח בך, אשמח בך</l>
+          <l>אשמח בך אל עולם</l>
+          <l>אשמח בך, גואל נפשי</l>
+          <l>את גאולת עולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לעושה נפלאות לבדו, את יריבי יריב</l>
+          <l>אקווה תמיד חסדו, השכם והעריב</l>
+          <l>ולא יסיך בעדו, את טירתו יחריב</l>
+          <l>ואז נשיר לכבודו, את השירים במושלם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אשמח בך, אשמח בך</l>
+          <l>אשמח בך אל עולם</l>
+          <l>אשמח בך, גואל נפשי</l>
+          <l>את גאולת עולם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

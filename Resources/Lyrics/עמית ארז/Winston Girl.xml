@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Winston Girl</title>
+        <singer classification="male singer">עמית ארז</singer>
+        <writer>עמית ארז</writer>
+        <composer>עמית ארז</composer>
+        <album>Amit Erez</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Winston Girl</head>
+        <lg number="1" type="stanza">
+          <l>I wanna love my winston girl </l>
+          <l>the crimson tide will bring my pearl to shore </l>
+          <l>pearls are hard to find </l>
+          <l>don’t you know </l>
+          <l>my love grows for unreal girls </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>and she will smile when we get high </l>
+          <l>and she will curse and make me cry </l>
+          <l>she’ll be painting songs </l>
+          <l>those I’ll write late at night </l>
+          <l>after we made love </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>how I wanna meet you now </l>
+          <l>how I’d love to meet you now</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

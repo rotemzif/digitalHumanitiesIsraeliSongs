@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חוקי תנועה</title>
+        <singer classification="band">בין השמשות</singer>
+        <writer>יוני גנוט</writer>
+        <composer>יוני גנוט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חוקי תנועה</head>
+        <lg number="1" type="stanza">
+          <l>לוחץ על דוושה, יד על ההגה</l>
+          <l>הראש כבר ביד הבא, לא חשובה הדרך</l>
+          <l>אתה בתוך עצמך, מנוכר לסובב אותך</l>
+          <l>מתכנן איך לכבוש אבל שוכח את ה"דרך ארץ".</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז תעצור בצד לפני הפיצוץ הבא</l>
+          <l>כשהמבלול שקבעת שוב יגיע לאין מוצא</l>
+          <l>כי בעולם הבא משנה רק הכוונה</l>
+          <l>אך לעולם הזה יש חוקי תנועה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מכווץ במקומך, כל עיכוב מטמטם אותך</l>
+          <l>בוחר בדרך קצרה בלי לבדוק מה היא עוד מקצרת</l>
+          <l>כל מדרגה חשובה, לא תזכה כאן בשום קפיצת דרך</l>
+          <l>תשתלב במרחב רק אחר כך תעצב את הדרך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז תעצור בצד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

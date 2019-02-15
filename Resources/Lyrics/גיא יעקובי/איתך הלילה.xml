@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איתך הלילה</title>
+        <singer classification="unknown">גיא יעקובי</singer>
+        <writer>גיא יעקובי</writer>
+        <composer>דן סמרה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איתך הלילה</head>
+        <lg number="1" type="stanza">
+          <l>רואה אותך רוקדת את מטריפה והלב מסתחרר </l>
+          <l>מרגיש אותך נצמדת את מדליקה אני לא מוותר </l>
+          <l>עינייך מביטות אלי ואני נמס מאהבה </l>
+          <l>בואי אלי חיים שלי תני לי נשיקה... </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רוצה לומר לך מכל הלב </l>
+          <l>שרק אותך אני אוהב </l>
+          <l>שאת שלי ואני שלך </l>
+          <l>אז בואי ונעוף עכשיו</l>
+          <l>איתך הלילה!...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ומתי תביני את אצלי תמיד בנשמה </l>
+          <l>איך אוכל לשכוח את הלילה את כל מה שהיה...</l>
+          <l>עינייך מביטות אלי ואני נמס מאהבה</l>
+          <l>בואי אלי חיים שלי תני לי נשיקה... </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רוצה לומר לך מכל הלב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בעולם הזה 2</title>
+        <singer classification="male singer">מאיר בנאי</singer>
+        <writer>מאיר בנאי</writer>
+        <composer>מאיר בנאי</composer>
+        <album>לב סדוק</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בעולם הזה</head>
+        <lg number="1" type="stanza">
+          <l>שקט כזה מזמן לא היה</l>
+          <l>שעת צהריים כאן בשכונה</l>
+          <l>רדי לכאן אל הרחוב</l>
+          <l>התגעגעתי בואי קרוב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה שרצינו זה רק לאהוב</l>
+          <l>בעולם הזה</l>
+          <l>מה שרצינו זה רק לאהוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נרד אל הים, בין הגלים,</l>
+          <l>את תרפאי בי את כל הפצעים</l>
+          <l>כמו ילדים, בלי קו של גבול</l>
+          <l>עד סוף הלילה, עד במבול</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה שרצינו זה רק לאהוב</l>
+          <l>בעולם הזה</l>
+          <l>מה שרצינו זה רק לאהוב</l>
+          <l>בעולם הזה</l>
+          <l>בעולם הזה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אלף ריחות, אלף צלילים</l>
+          <l>דלת נפתחת, דלת קסמים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מה שרצינו זה רק לאהוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

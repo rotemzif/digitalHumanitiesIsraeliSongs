@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לפעמים אני 4</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>מוטי גלעדי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לפעמים אני</head>
+        <lg number="1" type="stanza">
+          <l>לפעמים אני איני יודע אם</l>
+          <l>לומר לך בפנים מה שעובר עליי בפנים</l>
+          <l>כי לפעמים שאת שולפת מבטך</l>
+          <l>אני רואה פנים שלא דומים לשמך</l>
+          <l>אותו הכרתי לפנים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לפעמים איתך אני בטוח</l>
+          <l>אבל לפעמים אצלך נושבת רוח</l>
+          <l>באה ממרחק זורע אבק</l>
+          <l>ובעיני הכל נשחק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לפעמים כשעל פנייך היפים</l>
+          <l>אני קורא תווים, תווים מזויפים</l>
+          <l>כן לפעמים כמו למשל ממש כעת</l>
+          <l>אני נקרע בפנים, נקרע מן האמת</l>
+          <l>שמשקרת לפעמים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לפעמים איתך אני...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לפעמים במגעים הכי טרופים</l>
+          <l>ברגעים החשופים כשאת טורפת ת'קלפים</l>
+          <l>בא לי לפעמים לצאת מהמשחק</l>
+          <l>ולומר לך בפנים</l>
+          <l>אך לא באות לי המילים</l>
+          <l>הן לא באות גם לפעמים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לפעמים איתך אני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

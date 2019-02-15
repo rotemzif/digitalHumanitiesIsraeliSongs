@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ברכת האל</title>
+        <singer classification="female singer">שושנה דמארי</singer>
+        <writer>אברהם זיגמן</writer>
+        <composer>אברהם זיגמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ברכת האל</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>לי ולך ולי ולנו</l>
+          <l>לכל בית ישראל</l>
+          <l>אותי אותך ואת כולנו יברך האל</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שלח לנו יונת שלמך</l>
+          <l>ולכל תבל</l>
+          <l>ישמך בך כל איש צדיק</l>
+          <l>עולל בך יגל</l>
+          <l>פתח להם את שעריך</l>
+          <l>ובנו האמן</l>
+          <l>וקם לנו סוכך שלומיך</l>
+          <l>ונאמר אמן</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לי ולך...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כבר עברו שנות אלפיים,</l>
+          <l>אנו נחכה</l>
+          <l>ישמח בך כל  ישראל</l>
+          <l>רחל שוב לא תבכה</l>
+          <l>והטיפו גבעות עסיס</l>
+          <l>וצוף בגיא והר</l>
+          <l>ייבנה בית המקדש</l>
+          <l>יפרח גם המדבר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לי ולך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כזה אושר</title>
+        <singer classification="female singer">לאה שבת</singer>
+        <writer>לאה שבת</writer>
+        <composer>לאה שבת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כזה אושר</head>
+        <lg number="1" type="stanza">
+          <l>לא מגלה את האמת</l>
+          <l>לא מראה כאב</l>
+          <l>מגיל צעיר אני שותקת</l>
+          <l>מגיל צעיר מסתירה </l>
+          <l>נראית כאילו לא קרה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וככה הדברים היו</l>
+          <l>אני עמדתי בחלון</l>
+          <l>החלומות התרחקו</l>
+          <l>והחומות הסתירו</l>
+          <l>את כל מה שהכי רציתי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אבל בפנים עמוק אני יודעת</l>
+          <l>שהאור תמיד מתגבר</l>
+          <l>האור תמיד מתחזק</l>
+          <l>ויש בעולם כזה אושר</l>
+          <l>שהצער לא יכול להכיל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הלילה מלא כוכבים</l>
+          <l>אפשר לבקש מה שרוצים</l>
+          <l>שכל אחד וכל אחת</l>
+          <l>יבקשו בשביל הלב</l>
+          <l>את אהבת השמיים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אבל בפנים עמוק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

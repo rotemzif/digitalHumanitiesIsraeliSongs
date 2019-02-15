@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אודה אודה</title>
+        <singer classification="female singer">רינת גבאי</singer>
+        <writer>רינת גבאי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אודה אודה</head>
+        <lg number="1" type="stanza">
+          <l>זה הזמן לשיר</l>
+          <l>מתעוררת מתעוררת השמחה</l>
+          <l>זה הזמן הכי יפה לאהבה</l>
+          <l>מחבקת ועולה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>והאור גדול</l>
+          <l>והלילה מקודש באהבה</l>
+          <l>בתופים ובמחול ובשירה</l>
+          <l>ובנשמה טובה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אודה אודה אודה</l>
+          <l>לאהבה אודה אודה..</l>
+          <l>ולשמחה אודה אודה</l>
+          <l>עם כל הלב אודה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ונשיר תודה</l>
+          <l>ונשיר בכוונה גדולה</l>
+          <l>שהדרך תפתח</l>
+          <l>לאהבה שלמה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>האמת אחת</l>
+          <l>בליבנו היא תרעד יפהפיה</l>
+          <l>ובקול גדול נשיר את השירה</l>
+          <l>ונגילה נשמחה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אודה אודה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האם אהבתי</title>
+        <singer classification="male singer">רמי קלינשטיין</singer>
+        <writer>רמי קלינשטיין</writer>
+        <composer>רמי קלינשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האם אהבתי</head>
+        <lg number="1" type="stanza">
+          <l>אין עוד כר לראשי</l>
+          <l>אין עוד שער לנפשי</l>
+          <l>כל טיפה של תקווה כבר איננה</l>
+          <l>איך אפשר לתקן</l>
+          <l>כי אומרים לי שכן</l>
+          <l>ואותי לא מעניין</l>
+          <l>היא איננה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>האם אהבתי</l>
+          <l>מנסה להיזכר</l>
+          <l>אולי שכחתי</l>
+          <l>מה מכל זה חשוב יותר</l>
+          <l>למה חשבתי</l>
+          <l>שהמזל עוד ישתפר</l>
+          <l>גם כשברחתי</l>
+          <l>לא יכולתי להסתתר</l>
+          <l>אני זה אני ולא אחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז הכל בא לאט</l>
+          <l>בלי מכשול, אוטומט</l>
+          <l>לא יכולתי בלי טעם ובלי ריח</l>
+          <l>התחברתי לחשמל</l>
+          <l>לשמיים מעל</l>
+          <l>בלי לחשוש שאפשר</l>
+          <l>גם לא לנצח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>האם אהבתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

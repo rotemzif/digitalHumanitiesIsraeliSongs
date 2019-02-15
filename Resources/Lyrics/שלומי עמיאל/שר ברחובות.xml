@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שר ברחובות</title>
+        <singer classification="unknown">שלומי עמיאל</singer>
+        <writer>שלומי עמיאל</writer>
+        <composer>שלומי עמיאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שר ברחובות</head>
+        <lg number="1" type="stanza">
+          <l>בלילות כמו ציפור לבד עם עצמי </l>
+          <l>שר ומזמר ופוצח בשירי </l>
+          <l>כך בכל לילה פורח בלילות </l>
+          <l>כך בכל לילה מגשים לי חלומות </l>
+          <l>שר שר ברחובות </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מתפרפר מתפרפר </l>
+          <l>מתפרפר בלילות </l>
+          <l>מחפש את מזלי </l>
+          <l>חולם על אהבות </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כך בכל לילה ממשיך לבלות </l>
+          <l>כובש לבבות ממשיך כך לחיות </l>
+          <l>שעולה הבוקר ממשיך עוד לרקוד </l>
+          <l>שעולה הבוקר ממשיך עוד לצחוק </l>
+          <l>שר שר ברחובות </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מתפרפר מתפרפר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

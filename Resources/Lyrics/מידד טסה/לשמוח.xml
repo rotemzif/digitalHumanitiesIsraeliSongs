@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לשמוח 2</title>
+        <singer classification="unknown">מידד טסה</singer>
+        <writer>אביעד גיל</writer>
+        <composer>אביעד גיל</composer>
+        <album>בן של מלך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לשמוח</head>
+        <lg number="1" type="stanza">
+          <l>כל כך הרבה מילים כתבו</l>
+          <l>על הרבה מילים חשבו</l>
+          <l>כל אחד רוצה להיות להיט</l>
+          <l>אך מה זה חשוב הזמן לא ישוב</l>
+          <l>העיקר להיות שמח</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בוא לרקוד ולשמוח מהנשמה</l>
+          <l>ישמחו השמיים ואדמה</l>
+          <l>אלוקים יתן  בלב תקווה</l>
+          <l>את השמחה באהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שמחה פורצת מהלב</l>
+          <l>תיקח איתה את הכאב</l>
+          <l>אם תאמין שיהיה טוב יותר</l>
+          <l>האור שוב יתגלה</l>
+          <l>האור רק יעלה</l>
+          <l>ותהיה יותר שמח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בוא לרקוד ולשמוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

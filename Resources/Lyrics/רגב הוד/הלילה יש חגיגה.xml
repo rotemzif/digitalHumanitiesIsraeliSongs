@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלילה יש חגיגה</title>
+        <singer classification="male singer">רגב הוד</singer>
+        <writer>רגב הוד</writer>
+        <composer>missing</composer>
+        <album>נשבענו</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלילה יש חגיגה</head>
+        <lg number="1" type="stanza">
+          <l>רק אני מרגיש שאת הכל בשבילי</l>
+          <l>רוצה אותך ולא מוותר</l>
+          <l>לשאת אותך אלי אל עולמי</l>
+          <l>להתנהג כמו ילד בוגר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מצייר אותך את הכי יפה</l>
+          <l>חושב עלייך בלי הפסקה</l>
+          <l>מרגיש את ידייך נולד מחדש</l>
+          <l>מביט בך כמו ילד נרגש</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הלילה החגיגה שלי ושלך</l>
+          <l>נרקוד כל הלילה </l>
+          <l>עד שהשמש תזרח</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מביט בך ואומר לא צריך יותר </l>
+          <l>מספיק לי שאת בסביבה</l>
+          <l>ואם את עצובה אותי זה שובר</l>
+          <l>אשוט איתך בים של אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הלילה החגיגה שלי ושלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

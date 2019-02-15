@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גשר 10</title>
+        <singer classification="band">מוניקה סקס</singer>
+        <writer>יהלי סובול</writer>
+        <composer>missing</composer>
+        <album>מנגינה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גשר</head>
+        <lg number="1" type="stanza">
+          <l>הוא לא יודע, היא לא מרגישה </l>
+          <l>יש לו דברים לסדר, ולה עבודה חדשה </l>
+          <l>אין אחד שלא נפצע, אבל לפעמים אין חור יציאה </l>
+          <l>איך שלא תסובב את זה, קשה להבין מה קרה. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איפה ה... איפה הגשר? </l>
+          <l>שייקח אותו לצד השני, שייקח אותה לצד השני </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם המשחק נגמר, ואם הרעים ניצחו </l>
+          <l>זה הזמן לשים מעיל גשם, ולומר משהו שכבר אמרו </l>
+          <l>להביט לשמיים לזכור, כמה אנחנו קטנים </l>
+          <l>או לקחת את הסיבוב המהיר עם שני גלגלים באוויר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איפה ה... איפה הגשר? </l>
+          <l>שייקח אותו לצד השני, שייקח אותה לצד השני </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>איך שלא תסובב את זה </l>
+          <l>איך שלא תסובב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

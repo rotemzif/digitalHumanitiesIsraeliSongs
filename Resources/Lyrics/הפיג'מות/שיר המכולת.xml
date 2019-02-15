@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר המכולת</title>
+        <singer classification="unknown">הפיג מות</singer>
+        <writer>אריאל זילבר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר המכולת</head>
+        <lg number="1" type="stanza">
+          <l>אני הולך אחריה בדרכים</l>
+          <l>היא מחליפה גלגל אצל "אלכס צמיגים"</l>
+          <l>מתלבשת אצל "סימה - אופנה אופנתית"</l>
+          <l>וקונה אצל יעקב במכולת השכונתית</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>המבורגרי - ההמבורגר הכי טוב בעולם</l>
+          <l>המבורגרי - ההמבורגר הכי הכי הכי הכי</l>
+          <l>הכי הכי הכי הכי מושלם כן</l>
+          <l>הכי מושלם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

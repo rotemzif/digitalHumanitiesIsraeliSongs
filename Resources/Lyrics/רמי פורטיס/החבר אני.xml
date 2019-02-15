@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>החבר אני</title>
+        <singer classification="male singer">רמי פורטיס</singer>
+        <writer>רמי פורטיס</writer>
+        <composer>גיל סמטנה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>החבר אני</head>
+        <lg number="1" type="stanza">
+          <l>לבוש בחליפת ירח</l>
+          <l>ופטיש זהב בראש</l>
+          <l>לעיתים הוא לא רוצה לדעת</l>
+          <l>ועונה כדי לשאול</l>
+          <l>אוהב אוהב אך לא נוגע</l>
+          <l>והלב מלא סדקים</l>
+          <l>המראה ריקה או משקרת</l>
+          <l>וממילא לא רואים</l>
+          <l>אותי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה שקורץ</l>
+          <l>הן אשליות או כלום נוצץ</l>
+          <l>הבדידות על ראש העץ</l>
+          <l>שם הוא מרגיש בטוח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>סגור נעול עמוק בחדר</l>
+          <l>וכותב על הקירות</l>
+          <l>יש ימים שהוא זוכר ולא שוכח</l>
+          <l>וחוזר כדי לחיות</l>
+          <l>אוהב אוהב אך לא נוגע</l>
+          <l>והלב מלא סדקים</l>
+          <l>המראה ריקה או משקרת</l>
+          <l>ואנחנו לא יודעים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה שקורץ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

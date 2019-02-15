@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לי סיפור איתה</title>
+        <singer classification="male singer">יהלי סובול</singer>
+        <writer>יהלי סובול</writer>
+        <composer>יהלי סובול</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לי סיפור איתה</head>
+        <lg number="1" type="stanza">
+          <l>יש לי סיפור איתה</l>
+          <l>יש לי סיפור עם עצמי</l>
+          <l>אני לא זוכר מה משניהם דמיוני</l>
+          <l>לא, זה לא עוזר להסתכל בראי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש לי חלום ישן</l>
+          <l>יש לי מיטה ענקית</l>
+          <l>ואני יכול לטייל בה שנים</l>
+          <l>בלי לפתוח את העיניים שלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש לי כאן מקום לחיים</l>
+          <l>יש לי כאן מקום לנשום</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Serenata</title>
+        <singer classification="unknown">מונטי פיורי</singer>
+        <writer>איתמר פינצי</writer>
+        <composer>אסא רביב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Serenata</head>
+        <lg number="1" type="stanza">
+          <l>Mamma mia mammia mia oggi e' festa</l>
+          <l>Una gioia come questa non c'e' ne</l>
+          <l>Cosi' grande da far perdere la testa</l>
+          <l>E adesso vi spiegero' perche'</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Lei, la figlia del pagliaccio del paese</l>
+          <l>Cosi' brutta come lei non c'e' ne</l>
+          <l>E anche lui quel povero sfigato</l>
+          <l>Un matrimonio da non dimenticar</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>Serenata</l>
+          <l>Un po' matta</l>
+          <l>Mi ricorda italy</l>
+          <l>Serenata</l>
+          <l>Adorata</l>
+          <l>Mi ricorda Napoli</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>"cin cin!" disse il padre della sposa</l>
+          <l>"finalmente mia figlia se ne va"</l>
+          <l>spaventato lo sposo chiede "Cosa?"</l>
+          <l>lui rispose "Un giorno capirai"</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>Lui, il figlio del postino del paese </l>
+          <l>Cosi' tirchio come lui non c'e' ne</l>
+          <l>veramente che altro posso dire</l>
+          <l>Un matrimonio da non dimenticar </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>Serenata</l>
+          <l>Un po' matta</l>
+          <l>Mi ricorda italy</l>
+          <l>Serenata</l>
+          <l>Adorata</l>
+          <l>Mi ricorda Napoli</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Better</title>
+        <singer classification="unknown">מאי לב</singer>
+        <writer>מאי לב</writer>
+        <composer>מאי לב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Better</head>
+        <lg number="1" type="stanza">
+          <l>You're a better person then me, </l>
+          <l>today, I forgot what i've wanted to say , O , Yeah, </l>
+          <l>I love you </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Sometimes i need you to say it </l>
+          <l>back to me </l>
+          <l>I swear to </l>
+          <l>stay calm for you</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

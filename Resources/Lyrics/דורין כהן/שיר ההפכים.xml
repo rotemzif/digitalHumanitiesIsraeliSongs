@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר ההפכים</title>
+        <singer classification="unknown">דורין כהן</singer>
+        <writer>אורלי בינדר</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר ההפכים</head>
+        <lg number="1" type="stanza">
+          <l>מה הפוך מרעש? זה שקט כמובן,</l>
+          <l>אם אומרים גדול, אז ההפך הוא קטן,</l>
+          <l>אם אומרים בפנים, ההפך הוא בחוץ,</l>
+          <l>מתוקה הסוכרייה והלימון חמוץ.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לכל דבר ישנו היפוך, הפוך ולא שונה,</l>
+          <l>מה הפוך ממה אם שואלים אני עונה. אני עונה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שמים יש למעלה, ולמטה אדמה,</l>
+          <l>ביום יש לנו אור, בלילה חושך אלא מה?</l>
+          <l>מה הפוך מברוגז? שולם כמובן,</l>
+          <l>על תהיה עצוב, אלא שמח כל הזמן.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לכל דבר ישנו היפוך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מה הפוך מחם? הפוך מחם זהו קר,</l>
+          <l>מה הפוך מזול? הפוך מזול הוא היקר,</l>
+          <l>מה הפוך מקו ארוך, זהו קו קצר,</l>
+          <l>מה הפוך מהתחלה? זה סוף וזה נגמר.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לכל דבר ישנו היפוך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

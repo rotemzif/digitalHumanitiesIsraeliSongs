@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שתיקה 4</title>
+        <singer classification="unknown">שרי אלפי</singer>
+        <writer>אלרן דקל</writer>
+        <composer>שרי אלפי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שתיקה</head>
+        <lg number="1" type="stanza">
+          <l>שתיקה שלי ושלך </l>
+          <l>איתך אני כה רחוקה ממך </l>
+          <l>אם רק תראה שאני פה מולך </l>
+          <l>אתן כל מה שתיקח. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הנה אני כאן עוד מחכה </l>
+          <l>הנה אני בלי שתדע </l>
+          <l>כבר מזמן שלך. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שתיקה שלי ושלך </l>
+          <l>אותך שומרת לא מראה דמעה </l>
+          <l>תמיד אוספת שברים מכסה </l>
+          <l>אני שותקת תשמע. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הנה אני כאן עוד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

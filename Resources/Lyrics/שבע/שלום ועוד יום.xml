@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלום ועוד יום</title>
+        <singer classification="band">שבע</singer>
+        <writer>מוש בן ארי</writer>
+        <composer>מוש בן ארי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלום ועוד יום</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>שלום, שלום, שלום ועוד יום</l>
+          <l>שלום, שלום, שלום ועוד יום מלא תקווה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שלום של שקט שלום של שלווה</l>
+          <l>שלום של שקט בלי פצועי מלחמה</l>
+          <l>שלום של שקט ועצבות לאחור מאתמול</l>
+          <l>שלום, שלום, שלום ועוד יום מלא תקווה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך יהיה שלום בין ארצות</l>
+          <l>כל עוד אין שלום בין אדם לרעהו באותה הארץ</l>
+          <l>איך יהיה שלום בין עמים כל עוד מדברים שנאה</l>
+          <l>איך יהיה שלום בעולם</l>
+          <l>כל עוד אנשים מתעשרים ממלחמה על ארץ ירוקה</l>
+          <l>איך יהיה שלום כל עוד אין אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שלום, שלום, שלום ועוד יום</l>
+          <l>שלום, שלום, שלום ועוד יום מלא תקווה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שלום של שקט שלום של שלווה</l>
+          <l>שלום של שקט בלי פצועי מלחמה</l>
+          <l>שלום של שקט ועצבות לאחור מאתמול שלום</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>שלום ועוד יום ועוד יום ועוד יום</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

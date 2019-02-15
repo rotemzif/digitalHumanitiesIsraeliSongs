@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בעינייך בליבך</title>
+        <singer classification="male singer">בר כהן</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בעינייך בליבך</head>
+        <lg number="1" type="stanza">
+          <l>כשאותך פגשתי</l>
+          <l>וכשבאת אל חיי</l>
+          <l>נעצרה לי הנשימה</l>
+          <l>ומיד הרגשתי</l>
+          <l>איך זה בא אלי</l>
+          <l>האושר לנשמה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בעינייך בליבך</l>
+          <l>בחיוך שבא ממך</l>
+          <l>עוד בוערת להבה</l>
+          <l>בעינייך בליבך</l>
+          <l>ובקסם של יופייך</l>
+          <l>שם מצאתי אהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואיתך ידעתי</l>
+          <l>שאת היחידה</l>
+          <l>שמחסירה בי פעימה</l>
+          <l>ולך נשבעתי</l>
+          <l>לא תהיי בודדה</l>
+          <l>נמצא ביחד נחמה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בעינייך בליבך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

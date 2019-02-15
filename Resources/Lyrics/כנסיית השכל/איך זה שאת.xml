@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך זה שאת</title>
+        <singer classification="band">כנסיית השכל</singer>
+        <writer>יורם חזן</writer>
+        <composer>יורם חזן</composer>
+        <album>רוץ ילד</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך זה שאת</head>
+        <lg number="1" type="stanza">
+          <l>יושב מולך עכשיו</l>
+          <l>יושב ונאלם</l>
+          <l>עינייך מעידות</l>
+          <l>שמשהו פה נגמר</l>
+          <l>ולא יחזור</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אולי רק עוד מילה</l>
+          <l>אולי רק לטיפה</l>
+          <l>אני שותק איתך</l>
+          <l>אבל אני רוצה</l>
+          <l>רוצה אותך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איך זה שאת</l>
+          <l>צוחקת לא איתי</l>
+          <l>איך זה שאת</l>
+          <l>כבר לא נוגעת בי</l>
+          <l>איך זה שאת</l>
+          <l>מסתכלת לא עלי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עינייך מעידות</l>
+          <l>שמשהו פה נגמר</l>
+          <l>ולא יחזור</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>איך זה שאת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

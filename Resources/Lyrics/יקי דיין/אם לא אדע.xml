@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם לא אדע</title>
+        <singer classification="unknown">יקי דיין</singer>
+        <writer>יקי דיין</writer>
+        <composer>יקי דיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם לא אדע</head>
+        <lg number="1" type="stanza">
+          <l>הלילה יורד לו, את עוזבת,</l>
+          <l>טוענת שאין לך ברירה אחרת </l>
+          <l>לא מבין מה קורה פה, מאבד את התחושה </l>
+          <l>מנסה בינתיים להרים את הראש אל מעל הכתפיים </l>
+          <l>ולראות אותך מולי כל הזמן </l>
+          <l>והנה אני שוב הולך לאיבוד.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם לא אדע איך לשאול</l>
+          <l>את הולכת אז אני אפול </l>
+          <l>אם לא אגע, איך אזכור. </l>
+          <l>את חושבת שאני אפתור את הכל במהרה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוברים עוד שבועיים, לא חזרת אלי עדיין </l>
+          <l>לא מוצא את התשובה שבגללה את לא כאן </l>
+          <l>בשעות בין ערביים, מטייל לי לבד ומביט לשמיים </l>
+          <l>מחפש כוכב שייפול בשבילי. </l>
+          <l>והנה אני שוב הולך לאיבוד.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם לא אדע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

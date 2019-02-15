@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Love Song</title>
+        <singer classification="unknown">עופרה חזה</singer>
+        <writer>מתוך שיר השירים</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Love Song</head>
+        <lg number="1" type="stanza">
+          <l>SIMENI KAHOTAM AL LIBECHA </l>
+          <l>SIMENI KAHOTAM AL ZROECHA </l>
+          <l>KEA AAZA KAMAVET AHAVA </l>
+          <l>KEA AAZA KAMAVET AHAVA </l>
+          <l>KASHA KISHOL KINAAH </l>
+          <l>RESHFHA RESHPE ESH </l>
+          <l>ESH SHALHEVET YAH </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>MAYIM RABIM LO YOUCHLOO </l>
+          <l>LECHABOT ET HAAHAVA </l>
+          <l>UONHAROOT, UONHAROOT LO YISHTEFOUHA </l>
+          <l>EM YITEN YISH </l>
+          <l>ET KOL HON BETO BAAHAVA </l>
+          <l>BOZ YAVOOZOO LO</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

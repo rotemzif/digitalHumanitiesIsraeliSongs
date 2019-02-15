@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בושם על עורי</title>
+        <singer classification="female singer">ירדנה ארזי</singer>
+        <writer>רחל שפירא</writer>
+        <composer>missing</composer>
+        <album>בושם על עורי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בושם על עורי</head>
+        <lg number="1" type="stanza">
+          <l>ואתה יכול לבטוח</l>
+          <l>בליבי אתה כתוב</l>
+          <l>בשבילך אמצא בי כח</l>
+          <l>ואור גנוז.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם תסע חסר מנוח</l>
+          <l>כך או כך אתה עימי</l>
+          <l>לא אוכל אותך לשכוח</l>
+          <l>כל עוד אני אני</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה הרגש זהו שורש</l>
+          <l>צערי ושמחתי וצערי</l>
+          <l>זה רעב גדול</l>
+          <l>זה צורך</l>
+          <l>זה בושם על עורי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>העולם שעל כתפייך</l>
+          <l>עוד רובץ כבד מאוד</l>
+          <l>ומתי תפקח עינייך</l>
+          <l>מבלי לדאוג</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם תסע חסר מנוח</l>
+          <l>כך או כך אתה עימי</l>
+          <l>לא אוכל אותך לשכוח</l>
+          <l>כל עוד אני אני</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

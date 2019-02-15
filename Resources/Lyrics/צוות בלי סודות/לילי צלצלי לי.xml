@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילי צלצלי לי</title>
+        <singer classification="unknown">צוות בלי סודות</singer>
+        <writer>אילנה לופט</writer>
+        <composer>שלמה יידוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילי צלצלי לי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>לילי, צלצלי לי</l>
+          <l>צלצלי לי, לילי שלי</l>
+          <l>אם אין לי לילי, מי לי?</l>
+          <l>לילי, לילי שלי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פגשתי את לילי אתמול במעלית</l>
+          <l>הרגשתי כאילו אני טס בחללית</l>
+          <l>לילי, את כמו לפתן בסוף הסעודה</l>
+          <l>אני רואה את לילי ונמס כמו גלידה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לילי, צלצלי לי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>החתולים מייללים: לילי, לילי</l>
+          <l>את משגעת פה פילים, לילי</l>
+          <l>מה סודך גלי לי, לילי, נא חכי לי</l>
+          <l>לילי, לילי, לילי שלי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לילי, צלצלי לי</l>
+          <l>אם אין לי לילי, מי לי?</l>
+          <l>לילי שלי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

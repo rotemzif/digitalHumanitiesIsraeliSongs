@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טוב למות בעד אהבה</title>
+        <singer classification="female singer">נינט טייב</singer>
+        <writer>ארז אלגרבלי</writer>
+        <composer>ארז אלגרבלי</composer>
+        <album>יחפה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טוב למות בעד אהבה</head>
+        <lg number="1" type="stanza">
+          <l>רחוקים כמו חלפו חיים</l>
+          <l>הלילות שעוד דיברנו בלחישה</l>
+          <l>אפורים ביומן הדפים</l>
+          <l>שאותם הית חותמת בדמעה,</l>
+          <l>באהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תני לי דקה להתאהב בך שוב </l>
+          <l>כמו מחלה כך בשבילך למות</l>
+          <l>רק עוד דקה ואהיה שלך</l>
+          <l>טוב למות בעד האהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ארוכים ומשונים</l>
+          <l>הימים שבלעדיך עצובים </l>
+          <l>אל תבכי אהובה שלי </l>
+          <l>אני באה תמיד אליך בשירים</l>
+          <l>בשירים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תני לי דקה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

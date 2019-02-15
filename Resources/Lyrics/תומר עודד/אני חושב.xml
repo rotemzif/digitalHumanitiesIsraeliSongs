@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני חושב</title>
+        <singer classification="unknown">תומר עודד</singer>
+        <writer>תומר עודד</writer>
+        <composer>תומר עודד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני חושב</head>
+        <lg number="1" type="stanza">
+          <l>אור הבוקר שוב מפציע </l>
+          <l>ואוויר צחור מפתיע </l>
+          <l>חודר ישר ללב </l>
+          <l>בפקק אני תקוע </l>
+          <l>וברדיו שיר ידוע מתנגן </l>
+          <l>את קולה אני שומע </l>
+          <l>ואני מתגעגע </l>
+          <l>חגיגה בלב </l>
+          <l>זהובים הם תלתליה </l>
+          <l>אדומות הן לחייה </l>
+          <l>יש לה חיוך מטרף </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני חושב </l>
+          <l>שאני אוהב </l>
+          <l>בכל יום שעובר </l>
+          <l>רוצה אותה יותר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יוצא לחופשה מכיר אנשים </l>
+          <l>מגלה מקומות חדשים </l>
+          <l>רואה את הזריחה באופן בהיר </l>
+          <l>מתקשרת וחוזרים לעיר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני חושב... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כולם אומרים לי תזהר </l>
+          <l>שלא תיפול ותשבר </l>
+          <l>אך ת'סיכון אני לוקח </l>
+          <l>כי מה נותר לנו פה </l>
+          <l>בעולם כה משוגע </l>
+          <l>רק אהבה תנצח </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני חושב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

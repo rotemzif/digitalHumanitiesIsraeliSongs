@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר לצנחן האלמוני</title>
+        <singer classification="unknown">יוסי מוסטקי</singer>
+        <writer>אורי אסף</writer>
+        <composer>יוסי מוסטקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר לצנחן האלמוני</head>
+        <lg number="1" type="stanza">
+          <l>הוא לא היה ירא שמים </l>
+          <l>ולא ידע להניח תפילין </l>
+          <l>אך הוא אהב את ירושלים </l>
+          <l>והיה לו לב יהודי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ירושלים, ירושלים </l>
+          <l>קבר דוד וכותל נושן </l>
+          <l>ירושלים, ירושלים </l>
+          <l>גל אבנים רענן. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>צנחן, בן לאבא ואמא </l>
+          <l>בחור כה נאה וצעיר </l>
+          <l>הוא צעק: "אחרי" ו"קדימה" </l>
+          <l>ופרץ לשחרר את העיר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ירושלים, ירושלים... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יש גל-עד אלמוני מול השער </l>
+          <l>ואם בוכיה, עצובה </l>
+          <l>את חיית בדמיו של הנער </l>
+          <l>שוב שלנו את עיר אהובה </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ירושלים, ירושלים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

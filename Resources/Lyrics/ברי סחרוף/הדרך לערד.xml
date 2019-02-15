@@ -1,0 +1,37 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הדרך לערד</title>
+        <singer classification="male singer">ברי סחרוף</singer>
+        <writer>רוני סומק</writer>
+        <composer>missing</composer>
+        <album>אתה נמצא כאן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הדרך לערד</head>
+        <lg number="1" type="stanza">
+          <l>הכבשים הלבנות בדרך לערד </l>
+          <l>כמו שיני חלב, בלסת המדבר </l>
+          <l>המלחמה נמשכת </l>
+          <l>הזאב שיגור איתם, עדיין לא נולד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

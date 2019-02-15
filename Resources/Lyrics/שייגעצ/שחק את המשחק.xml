@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שחק את המשחק</title>
+        <singer classification="band">שייגעצ</singer>
+        <writer>יובל מנדלסון</writer>
+        <composer>missing</composer>
+        <album>משקאות חריפים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שחק את המשחק</head>
+        <lg number="1" type="stanza">
+          <l>העולם כל כך יפה</l>
+          <l>וכולם מחפשים את האמת</l>
+          <l>יש התעוררות בקרב העם</l>
+          <l>זה כתוב באותיות ענק על פוסטר ישן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אנשים חיים בכפילויות</l>
+          <l>והמילים איבדו אצלם את הערך</l>
+          <l>ואני מסתובב ברחובות</l>
+          <l>שוב יש שביתה והעיר מלוכלכת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תפתח את העיניים לאט,</l>
+          <l>לאט</l>
+          <l>אל תהיה תמים</l>
+          <l>שחק את המשחק</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>העולם הפך למנוקר</l>
+          <l>הריקנות ניצחה את העיקר</l>
+          <l>ואני מאמין באהבה</l>
+          <l>מין ואהבה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תפתח את העיניים לאט,</l>
+          <l>לאט</l>
+          <l>אל תהיה תמים</l>
+          <l>שחק את המשחק</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

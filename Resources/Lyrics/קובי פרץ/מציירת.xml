@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מציירת 3</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>שמעון אוחנה</writer>
+        <composer>שי שיקו חייק</composer>
+        <album>כתוב בשמים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מציירת</head>
+        <lg number="1" type="stanza">
+          <l>ביום שבו נפגשנו ישר ליבי נמס</l>
+          <l>מיד אני הבנתי איתך אני נכנס</l>
+          <l>לעולם מופלא עולם של אהבה</l>
+          <l>שעד אז אצלי הוא פשוט קפא</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza" />
+        <lg number="3" type="stanza">
+          <l>את בליבי מציירת לבבות</l>
+          <l>ואם תביטי ודאי תוכלי לראות</l>
+          <l>את שמך חרוט חרוט לעולמים</l>
+          <l>בתוך ליבי שלך חיכה שנים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza" />
+        <lg number="5" type="stanza">
+          <l>את עולם של אהבה אשר כעת דולק</l>
+          <l>בשלל צבעי הקשת איתך אני חולק</l>
+          <l>ימים של אושר בתוך עולם מופלא</l>
+          <l>הלב שלי הפשיר אחרי שכבר קפא</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

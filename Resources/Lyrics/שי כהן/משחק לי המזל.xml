@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משחק לי המזל</title>
+        <singer classification="unknown">שי כהן</singer>
+        <writer>שי כהן</writer>
+        <composer>שלומי יפרח</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משחק לי המזל</head>
+        <lg number="1" type="stanza">
+          <l>מהרגע הראשון שבאת אהבה וחום לי הענקת </l>
+          <l>ואני מאושר רוצה אותך לעד </l>
+          <l>כול עוד הנר דולק בנינו לא תהיי לבד </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואי נעוף לשמים נגע כוכב מעל </l>
+          <l>כמה טוב להיות בשניים איתך זה הגורל </l>
+          <l>בואי נעוף לשמיים נגע בכוכב מעל </l>
+          <l>כמה טוב להיות בשניים משחק לי המזל </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את החלום שהתגשם </l>
+          <l>את החמצן שאני נושם </l>
+          <l>בלעדייך יפתי מהם חיי </l>
+          <l>אוהב אותך אוהב לנצח עד אחרון ימיי </l>
+        </lg>
+        <lg number="4" type="stanza" />
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בואי נעוף לשמים נגע כוכב מעל </l>
+          <l>כמה טוב להיות בשניים איתך זה הגורל </l>
+          <l>בואי נעוף לשמיים נגע בכוכב מעל </l>
+          <l>כמה טוב להיות בשניים משחק לי המזל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

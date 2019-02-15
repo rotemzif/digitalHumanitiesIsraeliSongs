@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אפור</title>
+        <singer classification="male singer">מאור כהן</singer>
+        <writer>מאור כהן</writer>
+        <composer>מאור כהן</composer>
+        <album>טוב לנו יחד</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אפור</head>
+        <lg number="1" type="stanza">
+          <l>אי אפשר יותר למצוא</l>
+          <l>את מה שגילו רק אצלו</l>
+          <l>היו לו כאן חיים טובים</l>
+          <l>חבל שמשם לא חוזרים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא תוכלו אותו לראות</l>
+          <l>רק מתחת לים המראות</l>
+          <l>הוא רק הוא ישא מילה</l>
+          <l>לפני שתבוא אפלה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אל תדליק את האור</l>
+          <l>הוא יראה שכולך אפור</l>
+          <l>אל תפחד מהקור</l>
+          <l>הוא יהיה תענוג בלתי יעבור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם אחר היה העולם</l>
+          <l>אולי הוא היה לכולם</l>
+          <l>לא לא אל תצא מולם</l>
+          <l>ההפך שלך מושלם</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אל תדליק את האור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

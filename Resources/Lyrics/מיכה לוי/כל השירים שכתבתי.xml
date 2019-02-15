@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל השירים שכתבתי</title>
+        <singer classification="unknown">מיכה לוי</singer>
+        <writer>רוני אחיאל</writer>
+        <composer>יעקב שלומוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל השירים שכתבתי</head>
+        <lg number="1" type="stanza">
+          <l>אור כוכב מאיר לי, ואני אותך מדמיין</l>
+          <l>איך נשארתי בלעדיך, סתם עוד לילה עובר </l>
+          <l>תמיד את חסרה לי, תמיד הייתי אוהב</l>
+          <l>כשאלי באהבה מחייכת הייתי מרחף</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את כל השירים שכתבתי</l>
+          <l>אני כתבתי בשבילך</l>
+          <l>לעולם לא אכתוב לאחרת </l>
+          <l>את ממלאה בי כל מה שחסר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש בי אהבה אלייך, אני יודע שלא אוותר</l>
+          <l>וקולי שר אליך שיר אהבה מהלב</l>
+          <l>תמיד את חסרה לי, תמיד הייתי אוהב</l>
+          <l>וכשאלי באהבה מחייכת הייתי מרחף</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את כל השירים שכתבתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו מלאך 2</title>
+        <singer classification="unknown">עמית צח</singer>
+        <writer>עמית צח</writer>
+        <composer>רוני גופר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו מלאך</head>
+        <lg number="1" type="stanza">
+          <l>בלי ציפורניים, בלי מרפקים</l>
+          <l>צער חייך, נח על כתפייך</l>
+          <l>ארץ אוכלת, סוג של חולשה</l>
+          <l>כשאת נופלת את נטושה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך אפשר לחיות ככה כל הזמן</l>
+          <l>כמו מלאך ללא כנפיים</l>
+          <l>כמו סירה בלי ים</l>
+          <l>אל תלכי רחוק</l>
+          <l>פחד על שלומך</l>
+          <l>אל תלכי רחוק</l>
+          <l>מבקש ממך</l>
+          <l>אל תלכי עמוק לתוך עצמך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איפה היופי, איפה התום?</l>
+          <l>את מחפשת איפה החסד</l>
+          <l>בלי ציפורניים בלי מרפקים</l>
+          <l>פחד עליך</l>
+          <l>מי לא יסכים?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי איך אפשר לשחות נגד הזרמים?</l>
+          <l>איך אפשר לחיות בגובה עיר העננים?</l>
+          <l>אל תלכי רחוק</l>
+          <l>פחד על שלומך</l>
+          <l>אל תלכי רחוק</l>
+          <l>מבקש ממך</l>
+          <l>אל תלכי עמוק לתוך עצמך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>איך אפשר לחיות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילדת המדבר 2</title>
+        <singer classification="male singer">מאיר בנאי</singer>
+        <writer>יוסי בנאי</writer>
+        <composer>יוסי בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילדת המדבר</head>
+        <lg number="1" type="stanza">
+          <l>על הר בין הגאיות, בתוך שקט של חולות</l>
+          <l>רגליה היחפות, שם הן מהלכות</l>
+          <l>מזמן היא עזבה הכל, רוצה במדבר לגדול</l>
+          <l>ציור שציירה אתמול עף לו עם החול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואי, כך לוחש המדבר</l>
+          <l>בואי, לוחש ושר</l>
+          <l>בואי, כבר מיצית את הכל</l>
+          <l>את כמו רוחות בחול, בחול</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עיניה הרעבות את כל הצבעים שותות</l>
+          <l>הערב לאט יורד כמו נווד בודד</l>
+          <l>יושבת מול מדורה יפה, כמה היא יפה</l>
+          <l>ושקט עוטף אותה על ההר שלה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בואי, כך לוחש המדבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

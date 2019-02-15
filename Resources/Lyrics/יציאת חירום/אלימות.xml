@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלימות 2</title>
+        <singer classification="band">יציאת חירום</singer>
+        <writer>יוסי ברוש</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלימות</head>
+        <lg number="1" type="stanza">
+          <l>אלימות מכוונת את התנועה</l>
+          <l>כל מה שהפריע הפך לשגרה</l>
+          <l>אתה שביקשת לעצור את הדם</l>
+          <l>רואה איך הכל מתאדה נעלם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והכל פתוח כמו סיסמא</l>
+          <l>והמלך הוא יפה</l>
+          <l>קופירייטר מניאק.. בן זונה</l>
+          <l>לוחץ עכשיו תקנה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אוו אל תתרחק</l>
+          <l>גם אם יבקשו ממך, לא</l>
+          <l>אל תתרחק</l>
+          <l>גם אם יבקשו ממך, לא</l>
+          <l>אל תתרחק</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יד מלטפת פתאום מרביצה</l>
+          <l>לב שאוהב לא מוצא מנוחה</l>
+          <l>את שאהבת אותי עכשיו רחוקה</l>
+          <l>זמן חשכה עכשיו זמן בהלה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>והכל פתוח כמו סיסמא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

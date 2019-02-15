@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה ההבדל</title>
+        <singer classification="female singer">נורית גלרון</singer>
+        <writer>ירון לונדון</writer>
+        <composer>יואל לרנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה ההבדל</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>מה ההבדל בין כדור פורח</l>
+          <l>לראש קרח</l>
+          <l>מה ההבדל בין כדור פורח</l>
+          <l>לראש קרח</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הראש ממש כמו הכדור, עלול</l>
+          <l>להיות נפוח וגדול, אבל חלול</l>
+          <l>אבל הראש, יכול להיות</l>
+          <l>שהוא יחביא בפנים אידיוט</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מה ההבדל ...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לראש יש אף המכונה חרטום</l>
+          <l>ובכדור, האף הוא שסתום</l>
+          <l>אך הכדור הוא בר מזל</l>
+          <l>הוא לעולם לא מנוזל</l>
+          <l>לא מנוזל</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מה ההבדל...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>בראש יש עין מכוסה עפעף</l>
+          <l>אשר ממנה הדמעות זולגות טיף טף</l>
+          <l>ולכדור אין שום עפעף</l>
+          <l>אך לשמים הוא עף עף</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>מה ההבדל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רחוקה ממני</title>
+        <singer classification="unknown">קובי סביליה</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רחוקה ממני</head>
+        <lg number="1" type="stanza">
+          <l>רחקה ממני ועכשיו איננה</l>
+          <l>ולא השאירה שמץ אהבה.</l>
+          <l>לה זה לא נוגע, בה זה לא פוגע,</l>
+          <l>בטח היא מצאה לה גבר כלבבה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רחוקה ממני, רחוקה ממני -</l>
+          <l>שאני כבר לא בסדר היא אמרה לי.</l>
+          <l>רחוקה ממני, רחוקה ממני -</l>
+          <l>לא יודע מה עשיתי ולא אמרה לי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא ודאי טועה בי כי לא התכוונתי,</l>
+          <l>בטח לא רציתי לאבד אותה.</l>
+          <l>אך היא לא יודעת, היא לא שומעת,</l>
+          <l>אין מי שיאמר לה מה היא לי עשתה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רחוקה ממני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

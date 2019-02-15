@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טיפה אחת</title>
+        <singer classification="female singer">דפנה דקל</singer>
+        <writer>דפנה דקל</writer>
+        <composer>דפנה דקל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טיפה אחת</head>
+        <lg number="1" type="stanza">
+          <l>אתה יושב במרפסת ותוהה</l>
+          <l>אם יש טעם לנצח את הפחד</l>
+          <l>אתה לבד, מנסה להיזכר</l>
+          <l>אם אמרת לה הכל כשהייתם יחד</l>
+          <l>והשמש מלטפת את העורף</l>
+          <l>היא אמרה לך שהשנה אין חורף</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הכלבים נובחים</l>
+          <l>הכל נדמה כמו פעם</l>
+          <l>רק לאוכל, כמו גם לחיים אין טעם</l>
+          <l>וטיפה אחת נושרת על הלחי</l>
+          <l>זה החורף שהגיע </l>
+          <l>או הבכי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה רוצה לא לשכוח את הזמן</l>
+          <l>לא לשכוח את העור</l>
+          <l>את העיניים, אתה כואב</l>
+          <l>אך הכל חבוי היטב</l>
+          <l>מתחת לזקן והמשקפיים</l>
+          <l>והשמש מלטפת את העורף</l>
+          <l>היא אמרה לך שהשנה אין חורף</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הכלבים נובחים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וטיפה גדולה נושרת על העורף</l>
+          <l>זה הבכי שהגיע</l>
+          <l>או החורף</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אתה יושב במרפסת ותוהה </l>
+          <l>אם אמרת לה הכל כשהייתם יחד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

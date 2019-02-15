@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך זה מרגיש 2</title>
+        <singer classification="band">כנסיית השכל</singer>
+        <writer>יורם חזן</writer>
+        <composer>missing</composer>
+        <album>ידיים למעלה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך זה מרגיש</head>
+        <lg number="1" type="stanza">
+          <l>איך זה מרגיש,</l>
+          <l>אין עתיד באופק</l>
+          <l>אין מקום שיש סיבה טובה להיות בו.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איך זה מרגיש,</l>
+          <l>להיות תמיד בצד</l>
+          <l>אף פעם לא באמצע</l>
+          <l>אף פעם לא קרוב מספיק</l>
+          <l>לא לקחת חלק.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך זה מרגיש?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואין לי חלום</l>
+          <l>אין לי געגוע שט לי בזמן</l>
+          <l>שממשיך לנוע</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אין לי חלום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יחד איתך</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>רמי לב</writer>
+        <composer>סוטיס וולניס</composer>
+        <album>קח לך אישה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יחד איתך</head>
+        <lg number="1" type="stanza">
+          <l>יחד איתך לאהוב עד סוף הדרך</l>
+          <l>את המלאך שהופך אותי למלך</l>
+          <l>יחד איתך בסודות הלב לגעת</l>
+          <l>את האחת שבנשמה נוגעת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מביט אלייך לתוך עינייך</l>
+          <l>אני אוהב אותך יותר מכל דבר</l>
+          <l>את משלימה בי את מה שאין לי</l>
+          <l>קשור אלייך כי איתך הכל אפשר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יחד איתך...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רוצה לברוח איתך לשכוח</l>
+          <l>מכל הדאגות שיש לי בעולם</l>
+          <l>את גן העדן ויש בך קסם</l>
+          <l>כשאת איתי אני מרגיש פתאום קיים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יחד איתך....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

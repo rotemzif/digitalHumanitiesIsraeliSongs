@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה לא הצבע</title>
+        <singer classification="female singer">חוה אלברשטיין</singer>
+        <writer>אהוד מנור</writer>
+        <composer>נחצ'ה היימן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה לא הצבע</head>
+        <lg number="1" type="stanza">
+          <l>לבן, לבן חייכת בלבן</l>
+          <l>לבן מכנף ציפור</l>
+          <l>נשב חיוך בגן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>סגול, סגול עניתי בסגול</l>
+          <l>סגול כהה ומאוהב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זה לא הצבע</l>
+          <l>זה רק מין טבע ילדותי</l>
+          <l>עוד לחלום</l>
+          <l>וטבע מיושן</l>
+          <l>זה לא הצבע</l>
+          <l>אותך אוהבה כנראה תמיד</l>
+          <l>ולו גם בשחור לבן.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אדום, אדום אהבנו באדום</l>
+          <l>אדום שאין שני לו בעולם כולו</l>
+          <l>ירוק ירוק  טיילנו בירוק,</l>
+          <l>ירוק נוצץ רטוב מטל</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זה לא הצבע...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אפור, אפור הלכת באפור</l>
+          <l>אפור היה הכביש רועד נמתח בכפור</l>
+          <l>כחול, כחול בכיתי במכחול</l>
+          <l>כחול עמוק וקר בלי שאת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

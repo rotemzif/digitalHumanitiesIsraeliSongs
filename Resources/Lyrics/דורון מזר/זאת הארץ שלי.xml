@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זאת הארץ שלי</title>
+        <singer classification="male singer">דורון מזר</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>דורון מזר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זאת הארץ שלי</head>
+        <lg number="1" type="stanza">
+          <l>זאת הארץ שלי בית וגינה</l>
+          <l>ילדים תמימים צוחקים בכל פינה</l>
+          <l>את הארץ שלי כל מילה היא תפילה</l>
+          <l>אלוהים הנשמה שלי בוכה</l>
+          <l>והכאב יושב אצלי בלב</l>
+          <l>הוא לא יחלוף לנצח לעולם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלוהים שמע קולי רציתי שתדע</l>
+          <l>ההורים לימדו אותי לחיות מאהבה</l>
+          <l>אלוהים הכל יכול זה כל הזעקה</l>
+          <l>אני עוד מחכה לתשובה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא נטשתי אותך ארצי היקרה</l>
+          <l>ונשארתי איתך גם בעת צרה</l>
+          <l>וחיי השתנו אין חיים בי יותר</l>
+          <l>אלוהים אין מילים עוד לתאר</l>
+          <l>בכיתי ימים בכיתי לילות</l>
+          <l>ואין תשובות לכל השאלות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלוהים שמע קולי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

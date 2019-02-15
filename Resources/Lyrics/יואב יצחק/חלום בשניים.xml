@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלום בשניים</title>
+        <singer classification="male singer">יואב יצחק</singer>
+        <writer>יואב יצחק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלום בשניים</head>
+        <lg number="1" type="stanza">
+          <l>על המזח לחשה לו</l>
+          <l>אהובי שוב במהרה</l>
+          <l>אל תרחק אל ארצות מרחק</l>
+          <l>אל תעזבני פה לבד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היא רקמה חלום בשניים</l>
+          <l>מה יפתה האהבה</l>
+          <l>רחשי גלים ומים</l>
+          <l>חיזקו כוחה אמונתה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מחלון ביתה הביטה</l>
+          <l>בזרועות פתוחות ציפתה</l>
+          <l>כוכבים בשמי הליל</l>
+          <l>האירו תקוותה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היא רקמה חלום... </l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

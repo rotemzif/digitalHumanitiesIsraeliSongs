@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בת הכרמל</title>
+        <singer classification="unknown">חבורת אפי נצר</singer>
+        <writer>אברהם בר עם</writer>
+        <composer>אפי נצר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בת הכרמל</head>
+        <lg number="1" type="stanza">
+          <l>עטרת פז של עננים</l>
+          <l>על הכרמל בוהקת,</l>
+          <l>ובין חורשות ואל גנים,</l>
+          <l>רכות יפסע השקט.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>האופק אל גלים גוחן,</l>
+          <l>בחוף דמם הבית,</l>
+          <l>ועל לחייך גומת החן</l>
+          <l>אפילה בבין ערביים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קרבי אלי בת ההרים</l>
+          <l>ואת ראשי חבקי נא,</l>
+          <l>כי לך יכמהו הנערים,</l>
+          <l>ולך ליבי ארכינה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>האופק אל גלים גוחן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

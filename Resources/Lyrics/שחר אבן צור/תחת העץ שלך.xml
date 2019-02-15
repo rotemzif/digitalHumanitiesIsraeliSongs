@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תחת העץ שלך</title>
+        <singer classification="unknown">שחר אבן צור</singer>
+        <writer>שחר אבן צור</writer>
+        <composer>שחר אבן צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תחת העץ שלך</head>
+        <lg number="1" type="stanza">
+          <l>לא בחורף לא בקיץ</l>
+          <l>לא עכשיו או בעוד שנתיים</l>
+          <l>לא בחוץ ולא בפנים</l>
+          <l>לא אני לא מסכים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היה לי קשה להבין ש...</l>
+          <l>תחת העץ שלך אני לא מחפש צל</l>
+          <l>לא לא</l>
+          <l>תחת העץ שלך אני לא מחפש צל</l>
+          <l>לא לא</l>
+          <l>תחת העץ שלך אני לא מחפש צל</l>
+          <l>לא מחפש צל</l>
+          <l>לא מחפש צל</l>
+          <l>לא מחפש צל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא בשישי לא בשבת</l>
+          <l>לא ביום חול לא ביום חג</l>
+          <l>לא שואל לא עונה לא מסתכל במראה</l>
+          <l>לא אני לא נכנע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היה לי קשה להבין ש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

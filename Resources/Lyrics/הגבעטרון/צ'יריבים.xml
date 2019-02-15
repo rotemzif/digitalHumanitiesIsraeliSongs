@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צ יריבים</title>
+        <singer classification="band">הגבעטרון</singer>
+        <writer>עמוס אטינגר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צ'יריבים</head>
+        <lg number="1" type="stanza">
+          <l>כשהרבי סוף כל סוף החליט אשה לקחת</l>
+          <l>התאספו החסידים לראות את המוצלחת</l>
+          <l>הם את הרבי שאלו: "מה נדוניה תתן לה?"</l>
+          <l>והשיב להם הרב: "אתן לה מה שאין לה".</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>צ'יריבים צ'יריבום...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הוא יום יום נשא תפילה לאל שבשמיים</l>
+          <l>היא יום-יום בשלה לו לוקשן ותפרה גרבים</l>
+          <l>אך לילה-לילה את התריס לסגור היה עוזר לה</l>
+          <l>ושמעו החסידים כיצד הוא מזמר לה:</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>צ'יריבים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כך עברו מספר שנים נשאו כולם כפיים:</l>
+          <l>"הו רביניו, מתי סוף סוף נשתה איתך לחיים?"</l>
+          <l>ודווקא לשמחה הזאת הזמין הרב אותנו</l>
+          <l>ומבנו אשר נולד מילה אחת שמענו:</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>צ'יריבים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

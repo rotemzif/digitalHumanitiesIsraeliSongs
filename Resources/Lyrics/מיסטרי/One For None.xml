@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>One For None</title>
+        <singer classification="unknown">מיסטרי</singer>
+        <writer>מיסטרי</writer>
+        <composer>מיסטרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>One For None</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>It's like a dream, it's like a fairytale </l>
+          <l>Emotions clear as the sky </l>
+          <l>No more feelings that you burn away </l>
+          <l>Only dreams-as you fly </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Flowers calling you and telling you their tale </l>
+          <l>Look around you-it's you life </l>
+          <l>All those rainbows that you said you never had </l>
+          <l>The universe-it's your prize </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Memories of times that you said you were okay </l>
+          <l>And all did -it's just cry </l>
+          <l>Now you see yourself without running away </l>
+          <l>No more hiding no more lies </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>It's like a dream, it's like a fairytale...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

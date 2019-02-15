@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Somebody Else</title>
+        <singer classification="band">היהודים</singer>
+        <writer>אורית שחף</writer>
+        <composer>missing</composer>
+        <album>פורטה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Somebody Else</head>
+        <lg number="1" type="stanza">
+          <l>If you fall I will catch you</l>
+          <l>I promise I will</l>
+          <l>I will love you forever</l>
+          <l>Help you cross all the rivers</l>
+          <l>And the deserts, I swear</l>
+          <l>The this bond I won't sever</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>And I feel like somebody else</l>
+          <l>I feel like no one</l>
+          <l>I'm no one</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>If you can't walk the road</l>
+          <l>I will carry you through</l>
+          <l>I will hold you wherever</l>
+          <l>If you're scared in your bed</l>
+          <l>I will comfort you too</l>
+          <l>Sing you songs 'till whenever</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>And I feel like somebody else...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

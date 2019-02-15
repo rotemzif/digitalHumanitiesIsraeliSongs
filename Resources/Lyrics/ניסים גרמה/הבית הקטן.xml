@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הבית הקטן</title>
+        <singer classification="male singer">ניסים גרמה</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>ניסים גרמה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הבית הקטן</head>
+        <lg number="1" type="stanza">
+          <l>בין בתים דומים ואפורים</l>
+          <l>שם נותרו עקבות הנעורים.</l>
+          <l>בין ברושים, קוצים בצל התות</l>
+          <l>שם נחתם עולם הילדות.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בין שדות למגרש הגרוטאות</l>
+          <l>התפתלו אותן הסמטאות.</l>
+          <l>על הכביש לעיר המחוזית</l>
+          <l>היו כולם חולפים ונחפזים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הבית הקטן, </l>
+          <l>הבית הישן,</l>
+          <l>היה צפוף אבל נעים וחם.</l>
+          <l>הבית הרחוק שלי,</l>
+          <l>הברוש הכי ירוק שלי,</l>
+          <l>מבטיח שאף פעם לא אשכח.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אבי החכם למד והתפלל.</l>
+          <l>אמי שקדה לכבס ולבשל.</l>
+          <l>איך נישא השיר והסתלסל</l>
+          <l>עם ניחוח יין ופלפל.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הבית הקטן...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>הביטי בתמונות שחור-לבן:</l>
+          <l>זה הברוש, זה הבית הישן.</l>
+          <l>כשתיסעי בדרך מהירה</l>
+          <l>תוכלי רק לדמיין איך זה היה.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>הבית הקטן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

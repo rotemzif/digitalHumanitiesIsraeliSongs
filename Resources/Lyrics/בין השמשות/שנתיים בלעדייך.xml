@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שנתיים בלעדייך</title>
+        <singer classification="band">בין השמשות</singer>
+        <writer>יוני גנוט</writer>
+        <composer>יוני גנוט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שנתיים בלעדייך</head>
+        <lg number="1" type="stanza">
+          <l>הנה חלפו שנתיים,</l>
+          <l>שנתיים בלעדייך</l>
+          <l>כל כך הרבה השתנה בינתיים,</l>
+          <l>אבל הרגש קיים עדיין</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז מה עבר עליך בינתיים</l>
+          <l>האם את חושבת עלי עדיין</l>
+          <l>האם מתבהרים להם שמיך</l>
+          <l>האם הכאב מפעפע עדיין</l>
+          <l>מחכים לגשם בינתיים</l>
+          <l>ועד שהוא יבוא</l>
+          <l>אתגעגע אליך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הטבענו ת'ספינה עמוק במים</l>
+          <l>פוצצנו ת'גשרים בים</l>
+          <l>אך מה שצף מעל פני המים</l>
+          <l>מראה על מה שקיים שם עדיין</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז מה עבר עליך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

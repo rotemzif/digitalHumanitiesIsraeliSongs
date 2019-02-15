@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היי 23</title>
+        <singer classification="male singer">דניאל סלומון</singer>
+        <writer>דניאל סלומון</writer>
+        <composer>דניאל סלומון</composer>
+        <album>חיפה 87</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היי</head>
+        <lg number="1" type="stanza">
+          <l>היי...</l>
+          <l>צועק אל השמיים!</l>
+          <l>מתי ירדו המים הקרים ישר אל תוך פנייך...</l>
+          <l>היי...</l>
+          <l>צועק אל השמיים!</l>
+          <l>מתי כבר התאספו העננים וישברו עלייך...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה קרה שכבר לא נשאר לך עוד כוח ממה שהיא לקחה.</l>
+          <l>אין מקום יותר נמוך מזה כדאי לצנוח מאיפה שאתה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יש עוד הרבה גלים לא נשברים, </l>
+          <l>יש עוד הרבה צבעים שלא נראים,</l>
+          <l>יש עוד שבילים גדולים שנסתרים מהעיניים.</l>
+          <l>יש עוד הרבה סודות שלא גיליתי,</l>
+          <l>יש עוד ים של דמעות שלא בכיתי,</l>
+          <l>אני יכול לחיות כמו לא ראיתי כלום בינתיים.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היי...</l>
+          <l>צועק אל השמיים!</l>
+          <l>קופץ ראש אל המים הקרים שמתנפצים עלייך...</l>
+          <l>היי היי...</l>
+          <l>נופל מהרגליים!</l>
+          <l>מתי כבר התאספו הכוכבים יפלו ישר עלייך ...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מה קרה שלא נשאר לאן לברוח חוץ מעצמך...</l>
+          <l>אין מקום מספיק רחוק כדאי לשכוח את איפה שאתה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יש עוד הרבה גלים לא נשברים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהלל יה</title>
+        <singer classification="band">צלילי העוד</singer>
+        <writer>עממי</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהלל יה</head>
+        <lg number="1" type="stanza">
+          <l>אל נורא ואיום, נפשי ממך חלה</l>
+          <l>הקינה לה אל דר רום כי לך היא כמהה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בני מוסר קח לך אל תפן לזר</l>
+          <l>אמריו קחה איתך , תינצל מצרה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אהלל יה אהלל יא אל אור עיני</l>
+          <l>אהלל יה, יא אל אור עיני</l>
+          <l>אהלל יה, יא אל אור עיני</l>
+          <l>הקינה לה אל דר רום כי לך היא כמהה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אביכון יחון עליי , האל יצור קוני</l>
+          <l>ישר מעגליי וישוב ינחני</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אהלל יה אהלל יא אל אור עיני</l>
+          <l>אהלל יה, יא אל אור עיני</l>
+          <l>אהלל יה, יא אל אור עיני</l>
+          <l>הקינה לה אל דר רום כי לך היא כמהה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

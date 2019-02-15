@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לי סימן</title>
+        <singer classification="female singer">דורית ראובני</singer>
+        <writer>לאה נאור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לי סימן</head>
+        <lg number="1" type="stanza">
+          <l>כשמסלקים את קור החורף מן הבית והלב,</l>
+          <l>כשפורח השקד, והתפוח מלבלב,</l>
+          <l>וכשקונים לי סנדלים (תיתחדש) תודה רבה,</l>
+          <l>אז זה סימן שהאביב כבר בא.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש לי סימן ועוד סימן</l>
+          <l>שהוא כבר בא, והוא כבר כאן,</l>
+          <l>יש לי סימן שהאביב כבר בא</l>
+          <l>יש לי סימן שהאביב כבר בא.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאגוזים מקשקשים בכובעים ובכיסים</l>
+          <l>זוג או פרט, זוג או פרט, לא יודעת מה עושים,</l>
+          <l>וכשמורחים את המצה במרגרינה וריבה</l>
+          <l>אז זה סימן שהאביב כבר בא.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש לי סימן...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כשמפשירים את הלבבות, ומכשירים את הכלים.</l>
+          <l>וכשיוצאים אל החצר בשרוולים מקופלים,</l>
+          <l>כשמתחילים פתאום לרקוד וגם לשיר ללא סיבה</l>
+          <l>אז זה סימן שהאביב כבר בא.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יש לי סימן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

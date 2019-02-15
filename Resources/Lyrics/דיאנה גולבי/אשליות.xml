@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אשליות</title>
+        <singer classification="unknown">דיאנה גולבי</singer>
+        <writer>דוד חלפון</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אשליות</head>
+        <lg number="1" type="stanza">
+          <l>לגור בדירת פאר</l>
+          <l>לחשוב שאתה מיליונר</l>
+          <l>להתעורר אחר הצהרים</l>
+          <l>ליד נערה או שתיים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מכונית בצבע אדום</l>
+          <l>לשיר שירי אהבה ושלום</l>
+          <l>לטייל בחוצות העיר</l>
+          <l>להכריז אני ראש העיר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא לעבוד לעולם</l>
+          <l>לא לשרת שום אדם</l>
+          <l>רק הראש בעננים</l>
+          <l>מטפס שם במרומים</l>
+          <l>אשליות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>להפליג למרחקים</l>
+          <l>לשוט בכל הנמלים</l>
+          <l>לטייל בפאריס או ברומא</l>
+          <l>לחיות כמו קזנובה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אשליות, אשליות רבות</l>
+          <l>אך רובן אינן מתקיימות</l>
+          <l>שם אולי בחלומות</l>
+          <l>האשליות היפות מתגשמות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לא לעבוד לעולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

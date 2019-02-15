@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תותים 3</title>
+        <singer classification="male singer">מאיר בנאי</singer>
+        <writer>מאיר בנאי</writer>
+        <composer>מאיר בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תותים</head>
+        <lg number="1" type="stanza">
+          <l>תותים תותים, גדלים בצד הדרך</l>
+          <l>תותים תותים, כל כך יפים בדרך</l>
+          <l>תותים תותים בשלל צבעים.</l>
+          <l>אבא אמר בזה כדאי להשקיע</l>
+          <l>אמא אמרה רחוק הוא לא יגיע</l>
+          <l>תותים תותים, בשלל צבעים</l>
+          <l>כמה נעים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את לא יודעת כמה</l>
+          <l>אני אוהב אותך</l>
+          <l>חושב רק טוב עלייך</l>
+          <l>בלילות סתיו</l>
+          <l>את לא יודעת כמה</l>
+          <l>אני אוהב אותך</l>
+          <l>את לא יודעת כמה</l>
+          <l>אני כאן מאוהב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כספים כספים, מתגלגלים בדרך</l>
+          <l>כספים כספים, כל כך טובים בדרך</l>
+          <l>כספים כספים בשלל צבעים.</l>
+          <l>אבא אמר בזה כדאי להשקיע</l>
+          <l>אמא אמרה רחוק הוא לא יגיע</l>
+          <l>כספים כספים בשלל צבעים</l>
+          <l>כמה נעים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את לא יודעת כמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

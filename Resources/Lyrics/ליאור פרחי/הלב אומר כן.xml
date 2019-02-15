@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלב אומר כן</title>
+        <singer classification="male singer">ליאור פרחי</singer>
+        <writer>רביב בן מנחם</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלב אומר כן</head>
+        <lg number="1" type="stanza">
+          <l>חשבתי ששנינו גורל</l>
+          <l>בלי לא ובלי אבל</l>
+          <l>חיים בעולם מאושר</l>
+          <l>והקסם לא ניגמר</l>
+          <l>אמרו לי עד כמה תאהב</l>
+          <l>יגיע יום וזה יכאב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם כולם אומרים לא</l>
+          <l>והלב אומר כן</l>
+          <l>בשבילך אני תמיד מוכן להסתכן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא חלמתי שכך ייגמר</l>
+          <l>זה חזק ממני יותר</l>
+          <l>רציתי שלא אשבר</l>
+          <l>כשליבך כל כך חסר</l>
+          <l>אותך אני תמיד אוהב</l>
+          <l>יגיע יום כבר לא יכאב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם כולם אומרים לא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

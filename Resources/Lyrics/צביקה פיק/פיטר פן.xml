@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פיטר פן 2</title>
+        <singer classification="male singer">צביקה פיק</singer>
+        <writer>צרויה להב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פיטר פן</head>
+        <lg number="1" type="stanza">
+          <l>אל תבכה, פיטר פן</l>
+          <l>בחדר החולם פעמון על חצות מכה</l>
+          <l>אל תבכה, פיטר פן</l>
+          <l>הירח עומד בחלון ומחכה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הובלת מצעד מנצחים בחרב ובשיר</l>
+          <l>ילדים אבודים מוכרחים מלך להכתיר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רעבים כמו כולם לנוסחה</l>
+          <l>שתפתור את הכל</l>
+          <l>הם ימשיכו לגדול ויפקירו אותך</l>
+          <l>וימשיכו לגדול.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אולי אני נבוך מדי</l>
+          <l>נחשב תלוש בין ידידי</l>
+          <l>מביט עכשיו אל ילדי קטנים</l>
+          <l>עומדים על שפת האגדה</l>
+          <l>הם מגלים את החידה</l>
+          <l>לקסם יש כל כך הרבה פנים.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מוטב תעמוד זקוף</l>
+          <l>כשתופרים לך צל אל הגוף</l>
+          <l>הם ימשיכו לגדול ויפקירו אותך</l>
+          <l>וימשיכו לגדול.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אולי אני נבוך מדי...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אל תבכה!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

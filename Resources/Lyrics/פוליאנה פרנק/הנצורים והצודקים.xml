@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הנצורים והצודקים</title>
+        <singer classification="band">פוליאנה פרנק</singer>
+        <writer>שרון בן עזר</writer>
+        <composer>שרון בן עזר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הנצורים והצודקים</head>
+        <lg number="1" type="stanza">
+          <l>בעיה סבוכה עם צמא דם</l>
+          <l>אכזרי מלוכלך ממש כמו כולם</l>
+          <l>אחרי התקפה זמן התנצלות</l>
+          <l>שירי הגנה רק לא גלות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>למרות הסבל האימה</l>
+          <l>הנצורים והצודקים ישיבו מלחמה</l>
+          <l>למרות הסבל האימה</l>
+          <l>הנצורים והצודקים ישיבו מלחמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>השקר האונס עם צמא דם</l>
+          <l>מטופש רקוב ממש כמו כולם</l>
+          <l>אחרי התקפה זמן תירוצים</l>
+          <l>מכים על חטא יורים ובורחים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>למרות הסבל האימה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>We are the world</l>
+          <l>We are the children</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

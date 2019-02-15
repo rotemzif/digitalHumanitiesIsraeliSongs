@@ -1,0 +1,38 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ברכת הבית</title>
+        <singer classification="unknown">עלילה</singer>
+        <writer>עממי</writer>
+        <composer>אסף רבי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ברכת הבית</head>
+        <lg number="1" type="stanza">
+          <l>בזה השער לא יבוא צער</l>
+          <l>בזו הדירה לא תבוא צרה</l>
+          <l>בזו הדלת לא תבוא בהלת</l>
+          <l>בזו המחלקה לא תבוא מחלוקה</l>
+          <l>בזה המקום תהא ברכה ושלום</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

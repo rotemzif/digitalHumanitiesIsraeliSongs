@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר פרטי</title>
+        <singer classification="male singer">דקלון</singer>
+        <writer>יהודה אביטל</writer>
+        <composer>יהודה אביטל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר פרטי</head>
+        <lg number="1" type="stanza">
+          <l>שרתי בחיי כבר המון שירים</l>
+          <l>כתבתי מנגינות להרבה מילים</l>
+          <l>רציתי שיר פרטי ששייך רק לי לבד</l>
+          <l>תמיד יהיה איתי שלא יכיר את אף אחד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אשיר אותו בסוד ותמיד עליו אשמור</l>
+          <l>שלא יקשיבו לו ושלא יצא לאור</l>
+          <l>אבל הוא לא יכול כי הוא רוצה להיות גדול</l>
+          <l>פרח בין השירים במצעד הפזמונים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עכשיו אני לבד</l>
+          <l>היכן השיר שלי אבד</l>
+          <l>חזור אלי מהר</l>
+          <l>איני רוצה פזמון אחר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עבר הוא את הים ודילג על ארצות</l>
+          <l>שמר על המילים ושינה הרבה שפות</l>
+          <l>תהיתי אם אוכל להכיר אותו בכלל</l>
+          <l>היכן אמצא אותו אם כולם שרים אותו</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עכשיו אני לבד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

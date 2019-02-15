@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חיים גנובים</title>
+        <singer classification="male singer">משה הלל</singer>
+        <writer>אילן גולדהירש</writer>
+        <composer>משה הלל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חיים גנובים</head>
+        <lg number="1" type="stanza">
+          <l>יש חיים טובים ויש חיים גנובים</l>
+          <l>כי לחיים ישנן הרבה פינות,</l>
+          <l>מן ההתחלה, הכל בהשאלה</l>
+          <l>כל רגע זה יכול להשתנות.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יום אחד הוא רע ויום חצי צרה</l>
+          <l>ואם יש טוב רוצים רק עוד ועוד,</l>
+          <l>החיים נותנים והחיים לוקחים</l>
+          <l>כי החיים מלאים בהפתעות.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>על הים, בין הסירות והשחפים</l>
+          <l>הנדנדה סיבבת שוב ושוב,</l>
+          <l>החיים מכאן נראים כל כך יפים</l>
+          <l>אפשר לקחת חופן מכל טוב.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מי שאין לו כלום, יש לו אוצר בלום</l>
+          <l>הוא מסתובב שמח מאושר,</l>
+          <l>הוא בעשירים, יש לו המון דברים</l>
+          <l>אשר אותם לקחת, אי אפשר.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הנה הדגים שטים לא דואגים,</l>
+          <l>מילה הם לא יוציאו מהפה,</l>
+          <l>הנה גם אני, בשיר ים תיכוני</l>
+          <l>מרים כוסית לבוקר היפה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>על הים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

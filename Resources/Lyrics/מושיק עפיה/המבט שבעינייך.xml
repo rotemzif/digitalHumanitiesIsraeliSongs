@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המבט שבעינייך</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>שמואל אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המבט שבעינייך</head>
+        <lg number="1" type="stanza">
+          <l>אתמול קיבלתי זר פרחים חתום בנשיקה</l>
+          <l>מול הדלת של ביתי נערה יפה חיכתה</l>
+          <l>מספרים של טלפון בכיס אני מוצא</l>
+          <l>הכל זה לא שווה כי אותך אני רוצה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>המבט שבעינייך מדליק את החושים</l>
+          <l>שאני פה בלעדייך לא יודע מה עושים</l>
+          <l>מנסה לתת לך רק את הטוב שבחיים</l>
+          <l>אבל אני נשבע לך נגמרות לי המילים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>על החלון שבמכונית שמות נערות</l>
+          <l>חלקן אני מכיר חלקן ממש זרות</l>
+          <l>לפעמים בלי כל סיבה איתן אני יוצא</l>
+          <l>הכל זה לא שווה כי אותך אני רוצה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>המבט שבעינייך מדליק את החושים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

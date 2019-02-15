@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אתה תותח</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>לא ידוע</writer>
+        <composer>עממי אוזבקי</composer>
+        <album>מרוץ החיים - ההופעה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אתה תותח</head>
+        <lg number="1" type="stanza">
+          <l>כמו מתוך סרט</l>
+          <l>רגע עוצרת</l>
+          <l>ומעלה זיכרונות</l>
+          <l>איך אלי הגעת</l>
+          <l>איך לי הבטחת</l>
+          <l>יחד נגשים חלומות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמה התאמצת</l>
+          <l>עד שהצלחת</l>
+          <l>קו אל האושר לסלול</l>
+          <l>עד הסוף הלכת</l>
+          <l>וכמו שהבטחת</l>
+          <l>מותק יצאת גדול</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אתה תותח</l>
+          <l>אין, אין עליך</l>
+          <l>מתה עליך</l>
+          <l>אתה הגדול מכולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>קטע שידענו </l>
+          <l>כמו זה שלנו</l>
+          <l>יש רק אחד למיליון</l>
+          <l>החיים רולטה</l>
+          <l>איך סתם לפתע</l>
+          <l>בא ההימור הנכון</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רק אתה הימרת</l>
+          <l>בי האמנת</l>
+          <l>כמו המלאך השומר</l>
+          <l>רגע לא היססת</l>
+          <l>אותי לא פיספסת</l>
+          <l>רק האמנת יותר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אתה תותח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

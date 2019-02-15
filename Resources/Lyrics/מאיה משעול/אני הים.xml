@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני הים</title>
+        <singer classification="unknown">מאיה משעול</singer>
+        <writer>מאיה משעול</writer>
+        <composer>אורי משעול</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני הים</head>
+        <lg number="1" type="stanza">
+          <l>עוצרת כדי לא לפגוע </l>
+          <l>נרתעת כדי לא להשלות </l>
+          <l>שותקת כדי לשמוע </l>
+          <l>את מה שמילים מגלות </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>צומחת מתפתחת </l>
+          <l>כואבת מתאהבת </l>
+          <l>נטענת משתחררת </l>
+          <l>לא יכולה אחרת </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני הים אני הגלים </l>
+          <l>אני השמח הזורחת </l>
+          <l>שדה פרחים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוזבת כדי לנגוע </l>
+          <l>צוחקת כדי לא לרמות </l>
+          <l>שותקת כדי לשמוע </l>
+          <l>את מה שמילים מגלות </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני הים אני הגלים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

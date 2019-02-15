@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המזל 3</title>
+        <singer classification="unknown">חוה דולב</singer>
+        <writer>דני שושן</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המזל</head>
+        <lg number="1" type="stanza">
+          <l>אמרו כבר חכמים שרק טיפת מזל</l>
+          <l>שווה יותר מטון של שכל</l>
+          <l>מחכה אדם שנים בדרך הגורל</l>
+          <l>מנסה בזה אחרון השקל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>המזל, המזל,</l>
+          <l>מסתובב בעולם</l>
+          <l>המזל, המזל,</l>
+          <l>מסתובב כמו גלגל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לפעמיים אדם הולך, מרגיש טוב על הלב</l>
+          <l>ואור חדש דרך יראה לו</l>
+          <l>בתוכו ישנה תחושה של רגש</l>
+          <l>משתלהב וםתאום המזל דרך יראה לו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>המזל, המזל...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כל שבוע מחכה מנסה ומצפה</l>
+          <l>אולי יזכה לטעום הטעם</l>
+          <l>שדבר הוא לא עושה</l>
+          <l>פתאום זה כך יוצא</l>
+          <l>המזל יקיש על דלתו יקיש הפעם</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>המזל, המזל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

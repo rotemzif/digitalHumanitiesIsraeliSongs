@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Queen In Exile</title>
+        <singer classification="unknown">עופרה חזה</singer>
+        <writer>בצלאל אלוני</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Queen In Exile</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>HU BA YIBI </l>
+          <l>HUBAK ALA EYONI </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>AFTIK WAZALNI </l>
+          <l>WILI YON YARATI </l>
+          <l>SO TAKIDHI MINANHO </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>AFTIK WAZALNI </l>
+          <l>WILI YON YARATI </l>
+          <l>SO TAKIDHI MINANHO </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>HU BA YIBI </l>
+          <l>HUBAK ALA EYONI </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>HU BA YIBI </l>
+          <l>HUBAK ALA EYONI</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

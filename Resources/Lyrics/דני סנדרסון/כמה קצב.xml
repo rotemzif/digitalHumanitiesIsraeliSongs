@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה קצב</title>
+        <singer classification="male singer">דני סנדרסון</singer>
+        <writer>דני סנדרסון</writer>
+        <composer>דני סנדרסון</composer>
+        <album>קופץ לשניה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה קצב</head>
+        <lg number="1" type="stanza">
+          <l>על הבוקר מתעורר</l>
+          <l>עוד לפני ליטוש שיניים</l>
+          <l>מתמתח, מחבר אוזניות אל האזניים</l>
+          <l>אני לא יכול עוד יום לפגוש</l>
+          <l>בלי להזריק פזמון לראש</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ברחוב או במרכול</l>
+          <l>מתנועע זז בשצף</l>
+          <l>זהו סוד הרוק'נ'רול</l>
+          <l>הוא משכיח את העצב</l>
+          <l>הכפתור אני אוהב</l>
+          <l>לסובב עד שכואב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כמה קצב אתה צריך?</l>
+          <l>כמה קצב אתה מעריך?</l>
+          <l>כמה קצב אתה צריך בשביל לחיות?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איפה שלא תסתכל</l>
+          <l>אנשים זזים ביחד</l>
+          <l>בכל ארץ ישראל</l>
+          <l>זה מתחיל כבר במקלחת</l>
+          <l>אדוני, ברשותך</l>
+          <l>אני רוצה לשאול אותך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כמה קצב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

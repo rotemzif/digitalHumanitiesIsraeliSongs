@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אספרנסה</title>
+        <singer classification="band">משפחת אלייב</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>אלי ניסמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אספרנסה</head>
+        <lg number="1" type="stanza">
+          <l>הלילה היא יוצאת לבד אל הבר</l>
+          <l>ממש כמו בליל אמש</l>
+          <l>דבש בשפתיה ושושן בשיער</l>
+          <l>ובעיניה שמש</l>
+          <l>אני שיכור ממנה ומכושף</l>
+          <l>קורא לה אספרנסה</l>
+          <l>והיא רוקדת במקצב מטורף</l>
+          <l>את מחולות הסלסה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תרקדי אספרנסה איתי</l>
+          <l>תהפנטי אותי</l>
+          <l>מאוהב בך עד כלות נשמתי</l>
+          <l>בראבו אלילתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בסוף הלילה היא תחזור אל ביתה</l>
+          <l>צועניה מובסת</l>
+          <l>והיא תשקע עמוק בתוך בדידותה</l>
+          <l>יחד עם כל הקסם</l>
+          <l>אני שיכור ממנה ומכושף</l>
+          <l>קורא לה אספרנסה</l>
+          <l>והיא רוקדת במקצב מטורף</l>
+          <l>את מחולות הסלסה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תרקדי אספרנסה איתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

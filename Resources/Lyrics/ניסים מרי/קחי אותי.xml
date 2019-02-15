@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קחי אותי 20</title>
+        <singer classification="male singer">ניסים מרי</singer>
+        <writer>ניסים מרי</writer>
+        <composer>ניסים מרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קחי אותי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>קחי אותי אלייך אל האור שבעינייך </l>
+          <l>אני באתי רק לתת לך אהבה </l>
+          <l>מסתכל עלייך את נראת כל כך </l>
+          <l>יפה איך חדרת אלי עמוק לנשמה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני מביט בך ויודע שנולדת בשבילי</l>
+          <l>וזה עושה אותי שמח שאת נמצאת בלב שלי</l>
+          <l>מתרגש ממך כל כך אני המעריץ שלך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>קחי אותי אלייך...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חולם אותך כל לילה מדמיין </l>
+          <l>שאת איתי וזה עושה לי מצב </l>
+          <l>רוח שאת נמצאת בראש שלי מתלהב </l>
+          <l>ממך כל כך אני המעריץ שלך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>קחי אותי אלייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

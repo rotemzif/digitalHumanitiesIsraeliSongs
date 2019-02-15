@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פסלים</title>
+        <singer classification="unknown">דורין כהן</singer>
+        <writer>אורלי בינדר</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פסלים</head>
+        <lg number="1" type="stanza">
+          <l>אנחנו מטיילים עוצרים כמו פסלים</l>
+          <l>היד מורמת כך, ממש כמו חיילים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פסל, פסל כאן עומד,</l>
+          <l>אינו הולך אינו נודד,</l>
+          <l>פסל עשוי מעץ,</l>
+          <l>או ממתכת כה נוצץ.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שוב אנחנו מטיילים עוצרים כמו פסלים</l>
+          <l>הידיים משלבים, עומדים כולנו או יושבים.</l>
+          <l>פסל, פסל כאן עומד…</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אנחנו יחד מטיילים ועוצרים כמו פסלים</l>
+          <l>הידיים לצדדים, נזהרים ולא זזים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>פסל, פסל כאן עומד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

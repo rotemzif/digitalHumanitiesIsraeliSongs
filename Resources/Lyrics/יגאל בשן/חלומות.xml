@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלומות 21</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלומות</head>
+        <lg number="1" type="stanza">
+          <l>ירוק עוד עץ הזית</l>
+          <l>חלומות</l>
+          <l>ספינה יוצאת לשיט</l>
+          <l>עולמות</l>
+          <l>נמר, כבשה ועיט</l>
+          <l>מלחמות</l>
+          <l>תנור גדול ובית</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חלומות, חלומות</l>
+          <l>נרקמים, בערים נשמות</l>
+          <l>כל החלומות, כל החלומות</l>
+          <l>נרקמים, בערים נשמות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהבתי נושמת</l>
+          <l>חלומות</l>
+          <l>טוב שם טוב משמן</l>
+          <l>עולמות</l>
+          <l>כל יום נרדף באמש</l>
+          <l>מלחמות</l>
+          <l>מחר תזרח השמש</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חלומות, חלומות...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מלאך יושב בשער</l>
+          <l>חלומות</l>
+          <l>איתן הר בסער</l>
+          <l>עולמות</l>
+          <l>אוכלת אש ביער</l>
+          <l>מלחמות</l>
+          <l>אני עודני נער</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>חלומות, חלומות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

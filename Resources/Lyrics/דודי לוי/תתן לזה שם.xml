@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תתן לזה שם</title>
+        <singer classification="male singer">דודי לוי</singer>
+        <writer>דודי לוי</writer>
+        <composer>דודי לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תתן לזה שם</head>
+        <lg number="1" type="stanza">
+          <l>תתן לזה שם</l>
+          <l>תראה זה יעזור</l>
+          <l>תגיד שמחה קנאה או עצב</l>
+          <l>תשים על זה מילה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תגיד זאת אהבה מלחמה</l>
+          <l>תגיד שזה התחיל</l>
+          <l>אתמול נגמר אני מרגיש</l>
+          <l>שזה לא בשבילי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואז תצא לרחוב</l>
+          <l>עם חיוך גדול</l>
+          <l>תשחרר אותה</l>
+          <l>אתה לעצמך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תגיד זאת אהבה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כל הזמן אני לבד בעצם</l>
+          <l>עוצר את עצמי מלחיות לידך</l>
+          <l>את איתי אני איתך ואין פה</l>
+          <l>דקה מנוחה אין כאן שמחה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המצנח</title>
+        <singer classification="male singer">עמוס ברזל</singer>
+        <writer>עמוס ברזל</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המצנח</head>
+        <lg number="1" type="stanza">
+          <l>כל הילדים עומדים </l>
+          <l>אוחזים את המצנח </l>
+          <l>את המצנח מרימים </l>
+          <l>מלמטה מציצים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עכשיו למטה מורידים </l>
+          <l>לאחור אנו הולכים </l>
+          <l>במקום עכשיו דורכים </l>
+          <l>את המצנח מנערים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל הילדים קופצים </l>
+          <l>את המצנח מנערים. </l>
+          <l>{בסוף} את המצנח מניחים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

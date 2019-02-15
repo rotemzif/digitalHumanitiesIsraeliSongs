@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילה לי 14</title>
+        <singer classification="male singer">יוריק בן דוד</singer>
+        <writer>תלמה אליגון רוז</writer>
+        <composer>יוריק בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילה לי</head>
+        <lg number="1" type="stanza">
+          <l>השיר הזה נכתב בלילות</l>
+          <l>כשכל המנגינות כבר כלו</l>
+          <l>כשהשעון בקצב קר ושחר חוצפני</l>
+          <l>לקחו עוד לילה נהדר לתמיד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לילה, לילה לי</l>
+          <l>כל העיר הזאת שלי</l>
+          <l>לילה תשורר שיריך לי</l>
+          <l>לילה שלי, שלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>השיר הזה כואב בלילות</l>
+          <l>את כל האהבות שכלו</l>
+          <l>את כל אותם כוכבי שביט שנמוגו ביופים</l>
+          <l>ואת אלפי המרחבים של הים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לילה, לילה לי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>השיר הזה בוכה בלילות</l>
+          <l>על כל אותן חומות נעולות</l>
+          <l>על כל אותן עיניים שתעו במחשכים</l>
+          <l>ועל החלומות אשר נשחקים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לילה, לילה לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

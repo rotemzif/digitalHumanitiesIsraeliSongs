@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נשבע לך 4</title>
+        <singer classification="male singer">משה פרץ</singer>
+        <writer>משה פרץ</writer>
+        <composer>אקורדים</composer>
+        <album>אלייך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נשבע לך</head>
+        <lg number="1" type="stanza">
+          <l>שנים חיכיתי לקבל אותך במתנה </l>
+          <l>אוצר יפה, אוצר יפה</l>
+          <l>וזה הרגע הנכון לאמר לך שאת בשבילי הכל</l>
+          <l>ולנגן בקול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני נשבע לך, אני נשבע לך</l>
+          <l>שאתן לך את ימיי ולילותי</l>
+          <l>אני נשבע לך, אני נשבע לך</l>
+          <l>שאתן לך את ימיי ולילותי</l>
+          <l>אני נשבע לך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דמעה של אושר בעיניי</l>
+          <l>אני רוצה אותך בתוך חיי, בתוך חיי לנצח</l>
+          <l>את נאחזת בידי</l>
+          <l>קולות של מלאכים ומנגינה רק לך יפה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני נשבע לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

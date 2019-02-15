@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה עשיתי 2</title>
+        <singer classification="band">סינרגיה</singer>
+        <writer>אורי רז</writer>
+        <composer>missing</composer>
+        <album>צועקים על אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה עשיתי</head>
+        <lg number="1" type="stanza">
+          <l>יושב לבד בחדר מכבה את האורות</l>
+          <l>בראש עולות לי מחשבות אסורות</l>
+          <l>נלחם עם כל הכוח בזיכרון שלא מחוק</l>
+          <l>רוצה כל כך לשכוח כמה שאני דפוק</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה עשיתי?</l>
+          <l>נשארתי כאן לבד</l>
+          <l>ואין כאן אף אחד שיעזור לי</l>
+          <l>מה עשיתי?</l>
+          <l>וזה מגיע לי עכשיו להיות בך מאוהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דקה אחת עוברת, דקה של זיכרון</l>
+          <l>בגוף עוברות לי רעידות דיכאון</l>
+          <l>ולא מוצא בינתיים מקום לקצת סיפוק</l>
+          <l>רוצה כל כך לשכוח כמה שאני דפוק</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה עשיתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

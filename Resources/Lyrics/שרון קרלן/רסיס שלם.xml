@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רסיס שלם</title>
+        <singer classification="female singer">שרון קרלן</singer>
+        <writer>שרון קרלן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רסיס שלם</head>
+        <lg number="1" type="stanza">
+          <l>לכבוד אהבה אחת גדולה שנחנקה לי</l>
+          <l>לזכר האיש שאת נפשי ניסה לשבור</l>
+          <l>לכל הימים שעברו כל כך מהר</l>
+          <l>ולתקווה קטנה שקפאה מקור</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לכבוד שקרים יפים מאוד</l>
+          <l>לכל חובשי המסכות</l>
+          <l>לזכר בלבול יקר</l>
+          <l>לזה שלא ידע אותך לראות.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לכבוד בדידות ועצב רב</l>
+          <l>לכל מי שמקשיב עכשיו</l>
+          <l>איך העולם שוב מתמוטט</l>
+          <l>לאדם אחד שלא פחד לתת.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לכבוד האנשים שעזבו כל כך מהר</l>
+          <l>למי שלא פוחד להישבר</l>
+          <l>לך אתמול כמו שהיה</l>
+          <l>לכל רסיס שלם של אהבה...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לכבוד בדידות ועצב רב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

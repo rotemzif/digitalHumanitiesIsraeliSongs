@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קול ממדרונות</title>
+        <singer classification="band">הפרברים</singer>
+        <writer>עילי בוטנר</writer>
+        <composer>עילי בוטנר</composer>
+        <album>עילי בוטנר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קול ממדרונות</head>
+        <lg number="1" type="stanza">
+          <l>קול ממדרונות ליבי קורא אלייך קול חלומותי קול תפילה </l>
+          <l>קול ממדרונות ליבי האם תקשיבי קול געגועי אלייך אהובה </l>
+          <l>קול ממדרונות ליבי וכל העצב אדמה שורפת מכאיבה </l>
+          <l>סוף הדרך ועכשיו הזמן ללכת קול קורא אלי בחשיכה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ובמרחקים אינסוף מתי אגיע אל החוף </l>
+          <l>בצעקה גדולה ומי אותי ישמע </l>
+          <l>ולרגעים קרובה וכמו הרוח הטובה </l>
+          <l>שולחת יד לוחשת באוזני</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קול ממדרונות נפשי האם תביטי </l>
+          <l>איך הזמן שלנו מתקצר </l>
+          <l>מי ישמע קולי האם אלי תגיעי </l>
+          <l>קול קורא אלי לצאת ולחפש </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ובמרחקים אינסוף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

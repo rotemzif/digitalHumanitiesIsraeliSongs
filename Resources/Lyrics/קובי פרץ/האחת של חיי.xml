@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האחת של חיי</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>איתי זילברשטין</writer>
+        <composer>איתי זילברשטין</composer>
+        <album>כתוב בשמים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האחת של חיי</head>
+        <lg number="1" type="stanza">
+          <l>המבט בעינייך,</l>
+          <l>השלווה שנותנת לי כוח ותקווה</l>
+          <l>לכל מה שרציתי מעולם.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את יודעת לגעת בנשמה</l>
+          <l>והדלקת בי כל מה שכבר כבה</l>
+          <l>ואיתך זה מרגיש לי כה מושלם.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את האחת של חיי</l>
+          <l>ואני יודע, את האחת של חיי.</l>
+          <l>את האחת של חיי</l>
+          <l>ואני נשבע לך, את האחת של חיי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נשארים כל הלילה לדבר,</l>
+          <l>את כל כך משלימה בי ת'חסר.</l>
+          <l>ואני לך מבטיח לעולם, לעולם.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את האחת של חיי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

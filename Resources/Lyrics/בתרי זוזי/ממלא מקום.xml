@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ממלא מקום</title>
+        <singer classification="unknown">בתרי זוזי</singer>
+        <writer>רם אוריון</writer>
+        <composer>רם אוריון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ממלא מקום</head>
+        <lg number="1" type="stanza">
+          <l>די לשמור</l>
+          <l>די לשמור</l>
+          <l>די לשמור</l>
+          <l>די לשמור עלי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תתקרבו אלי יותר</l>
+          <l>די</l>
+          <l>קחו לכם ממלא מקום אחר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>די לצעוק</l>
+          <l>די לצעוק</l>
+          <l>די לצעוק</l>
+          <l>די לצעוק</l>
+          <l>עלי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תתקרבו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>די לבכות</l>
+          <l>די לבכות</l>
+          <l>די לבכות</l>
+          <l>די לבכות עלי.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אל תתקרבו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

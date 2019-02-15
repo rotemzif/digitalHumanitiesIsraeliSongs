@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טוב שידעה</title>
+        <singer classification="unknown">מטאור</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>מיכה קיזנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טוב שידעה</head>
+        <lg number="1" type="stanza">
+          <l>אם הבוקר את פניו מאיר לי בחיוך</l>
+          <l>וגם היא אלי ניגשת עם קפה הפוך</l>
+          <l>כשעיניה בוהקות באור של אהבה -</l>
+          <l>אז ידעתי זה היום, </l>
+          <l>זה היום שלו חיכיתי בהמון תקווה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>טוב שידעה, מה טוב שידעה</l>
+          <l>כיצד להיטיב עמדי כל שעה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם הסהר שוב קורץ לי בחיוך שובב</l>
+          <l>והיא לקראתי פוסעת כמו אלת זהב,</l>
+          <l>זרועותיה נפרשות וכה רוטט גווה -</l>
+          <l>אז ידעתי זה הליל,</l>
+          <l>זה הליל שלו חיכיתי בהמון תקווה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>טוב שידעה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

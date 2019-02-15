@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עשבי בר</title>
+        <singer classification="unknown">סול 8</singer>
+        <writer>סול</writer>
+        <composer>סול</composer>
+        <album>מגיעה משם</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עשבי בר</head>
+        <lg number="1" type="stanza">
+          <l>שוב צבע רב נשפך על שמים</l>
+          <l>וגלי הים רוחשים דבר מה</l>
+          <l>סודות כאלה גם אתה שומר</l>
+          <l>גם אתה לא אומר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עשבי בר אחרי הגשם</l>
+          <l>שזרת לי במקום מילים</l>
+          <l>עשבי בר אחרי הגשם</l>
+          <l>במקום שירים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עיניים חומות תובעות את בוא הגשם</l>
+          <l>צמרות עצים קדות קידה</l>
+          <l>ריקוד כזה, גם אתה זוכר</l>
+          <l>עבורי אתה שומר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עשבי בר אחרי הגשם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רוח הבוקר מכה על המים</l>
+          <l>שמש קמה מתוך שנתה</l>
+          <l>בהירות כזאת גם אתה זוכר</l>
+          <l>גם אתה מתעורר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

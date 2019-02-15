@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל אחד יכול 2</title>
+        <singer classification="male singer">ירמי קפלן</singer>
+        <writer>ירמי קפלן</writer>
+        <composer>ירמי קפלן</composer>
+        <album>חשק</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל אחד יכול</head>
+        <lg number="1" type="stanza">
+          <l>שד אוחז בך זה זמן.</l>
+          <l>לא מותיר לך ברירה.</l>
+          <l>הם אומרים שזה גורל</l>
+          <l>אולי רק חוסר של מזל.</l>
+          <l>קל ליפול למלכודות</l>
+          <l>כשיש סמים שהם תרופות;</l>
+          <l>לא יכול לישון כמו פעם</l>
+          <l>מנסה להיזכר בטעם</l>
+          <l>עוצם את העניים</l>
+          <l>וחולם רק לא נרדם עדיין.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לה לה לה.... כל אחד יכול להיאבד בשגעון</l>
+          <l>לה לה לה.... כל אחד יכול להיאבד בשגעון</l>
+          <l>שבא מבפנים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נפש של אדם נמלט</l>
+          <l>מחפשת לה מקלט</l>
+          <l>דלת שנפתחת</l>
+          <l>אל הקרב היא שוב אותך לוקחת.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לה לה לה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא יכול לישון כמו פעם</l>
+          <l>מנסה להיזכר בטעם</l>
+          <l>עוצם את העניים</l>
+          <l>וחולם רק לא נרדם עדיין.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לה לה לה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

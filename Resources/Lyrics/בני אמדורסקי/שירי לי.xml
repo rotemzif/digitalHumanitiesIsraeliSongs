@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שירי לי</title>
+        <singer classification="male singer">בני אמדורסקי</singer>
+        <writer>בן ציון תומר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שירי לי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>שירי לי כי טוב</l>
+          <l>שירי לי כי טוב הזמר</l>
+          <l>שירי לי כי טוב הוא עד אין קץ</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שירי לי הכי בחלילייך</l>
+          <l>שירי לי לבי בין חללייך</l>
+          <l>ליבי בשל לך כרימון על עץ</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שירי לי כי טוב...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שירי לי ואישרפה כליל</l>
+          <l>כי השריפה קוסמת כחליל</l>
+          <l>כי השריפה פשטה בי עד אין קץ</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שירי לי כי טוב...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>שירי לי השחר כבר הנץ</l>
+          <l>הנץ, הנץ, הנץ.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

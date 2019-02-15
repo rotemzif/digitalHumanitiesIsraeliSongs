@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שריקה</title>
+        <singer classification="male singer">דקלון</singer>
+        <writer>יואל ריפל</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שריקה</head>
+        <lg number="1" type="stanza">
+          <l>שלושה גברים בפלורנטין חיזרו אחרי שריקה</l>
+          <l>האהבה התאוה את השלושה השתיקה</l>
+          <l>בליל הסתיו ציפו לשוא שלחלון תיגש היא</l>
+          <l>שעות ישבו יחדיו קיוו אולי מילה תילחש היא</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמו פרח בר כמו עץ תמר</l>
+          <l>בנווה מדבר שריקה</l>
+          <l>ליבם נירעד אותה בלבד</l>
+          <l>רצו לעד שריקה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ההיא סרבה בגאווה גאה הייתה שריקה</l>
+          <l>את השלושה ללא בושה מחלונה הרחיקה</l>
+          <l>בקיץ חם אכזבתם גברה על כל היתר</l>
+          <l>אחד נסע שני ניסה שלישי נימלט בסתר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמו פרח בר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>חלפו שנים בפלורנטין לפתע כה קשה לה</l>
+          <l>בתא נעול הקיש ממול בחוץ שיחכה לה</l>
+          <l>היא בודדה היא גלמודה תפילה ליבה משמיע</l>
+          <l>אם לא עשיר אם לא תמיר שלפחות יגיע</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כמו פרח בר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

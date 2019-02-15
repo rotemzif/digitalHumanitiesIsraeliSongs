@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זוג או פרד</title>
+        <singer classification="band">האנשים</singer>
+        <writer>רן שריג</writer>
+        <composer>דרור שוסטק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זוג או פרד</head>
+        <lg number="1" type="stanza">
+          <l>איך קרה אהובתי שהתרחקנו</l>
+          <l>כל אחד תפס לו פה פינה</l>
+          <l>ואיך פתאום שנינו הסתבכנו</l>
+          <l>בקורים של לילה בלי שינה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואיך אנחנו כבר לא אנחנו</l>
+          <l>חיבה הפכה טינה</l>
+          <l>ואיך הדופק הזה אינו הולם בנו</l>
+          <l>והשיר שלנו הפך קינה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך קרה אהובתי שהתקררנו</l>
+          <l>אחזה בשנינו הצינה</l>
+          <l>ואיך פתאום הפשרנו התפשרנו</l>
+          <l>על חורפים בלי סוף ובלי עונה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואיך אנחנו כבר לא אנחנו</l>
+          <l>חיבה הפכה טינה</l>
+          <l>ואיך הדופק הזה אינו הולם בנו</l>
+          <l>והשיר שלנו הפך קינה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ולא זוג לא פרד</l>
+          <l>רק הפרד ומשול</l>
+          <l>כמו המון בלי מרד</l>
+          <l>עיתון מאתמול</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

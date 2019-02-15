@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שני עולמות 2</title>
+        <singer classification="male singer">בר כהן</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>יהודה מסס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שני עולמות</head>
+        <lg number="1" type="stanza">
+          <l>הסתכלי על העולם לא רואים בו את הסוף</l>
+          <l>יש גלוי ונעלם וים נושק לחוף</l>
+          <l>הסתכלי על העולם הוא מלא צפוף כל כך</l>
+          <l>ומכל בני האדם אני מצאתי אותך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואנחנו שני עולמות</l>
+          <l>בתוך עולם וביננו רוח אלוהים</l>
+          <l>ואנחנו שתי נשמות</l>
+          <l>בתוך עולם וביננו אהבה גדולה מהחיים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הסתכלי על העולם על מה שיש פה - ביקום</l>
+          <l>אם נחיה מליון שנה נראה בקושי כלום</l>
+          <l>הסתכלי על העולם על קו האופק שנמתח</l>
+          <l>הייתי פה הייתי שם ומכולן מצאתי אותך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואנחנו שני עולמות...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הסתכלי על העולם הוא מלא צפוף כל כך</l>
+          <l>ומכל בני האדם אני מצאתי אותך!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

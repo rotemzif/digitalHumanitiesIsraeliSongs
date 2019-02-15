@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כבה נר</title>
+        <singer classification="unknown">ראובן ימין</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כבה נר</head>
+        <lg number="1" type="stanza">
+          <l>על תלולית עפר עוד נר מהבהב</l>
+          <l>ןעל קברך שוב הלב כואב.</l>
+          <l>בדמי-ימיך,אח, אתה נפלת -</l>
+          <l>למה עודי עומד ואתה שוכב?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כבה נר של חיים, נקטע הפתיל</l>
+          <l>בדרכך, אחי שלי, נגמר השביל.</l>
+          <l>שוב לא נלך יחדיו ולא ניוועד</l>
+          <l>כי פה אתה שוכב ואני עומד.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ומאז אינך דמע בלבי,</l>
+          <l>מילל מרה כל מיתר שבי.</l>
+          <l>משכול זעק לבי ולא שמעת,</l>
+          <l>בלילות בוכה נשמתי-שלי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כבה נר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

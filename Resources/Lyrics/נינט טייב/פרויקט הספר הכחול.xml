@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פרויקט הספר הכחול</title>
+        <singer classification="female singer">נינט טייב</singer>
+        <writer>נינט טייב</writer>
+        <composer>נינט טייב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פרויקט הספר הכחול</head>
+        <lg number="1" type="stanza">
+          <l>עצם בלתי מזוהה נחת על חלוני</l>
+          <l>ואני לפני שנים כמוה חשבתי לתומי</l>
+          <l>כמה טוב מצאתי מישהו שרואה אותי</l>
+          <l>מבעד לעצמי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם הוא אומר הוא יודע</l>
+          <l>הוא מנהיג כמו אור ירח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>המילים היפות והרוך</l>
+          <l>טביעות האצבע על הלב</l>
+          <l>אני אוהב אותך</l>
+          <l>צורם לי כמו זיוף לא חינני</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם הוא אומר הוא יודע</l>
+          <l>הוא מנהיג כמו אור ירח</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

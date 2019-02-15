@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מעבר לכתוב</title>
+        <singer classification="male singer">מיכה ביטון</singer>
+        <writer>מיכה ביטון</writer>
+        <composer>מיכה ביטון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מעבר לכתוב</head>
+        <lg number="1" type="stanza">
+          <l>מעבר לכתוב ומה שנאמר - העיניים שלך</l>
+          <l>וכמו בתוך כלוב שבוי ונאמן - השפתיים שלך</l>
+          <l>ואז הכול קורה אצלי בגוף אני לגמרי שלך        </l>
+          <l>ואז הכול קורה - אני נעול</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מעבר לחשוב ומה שכבר עבר - הידיים שלך</l>
+          <l>וכמו בתוך מבול רטוב וקצת נרעד - הלחיים שלך</l>
+          <l>ואז הכל קורה אצלי בגוף אני לגמרי שלך</l>
+          <l>ואז הכל קורה - אני נעול</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואת אוהבת אותי</l>
+          <l>שוב ושוב אגיד לך כמה אני אוהב אותך</l>
+          <l>ואת אוהבת אותי</l>
+          <l>לא אוכל לומר אף פעם אני עוזב אותך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מעבר לפשוט נהיה קצת מאוחר - הלב שלך</l>
+          <l>וכמו בתוך שבלול מציץ ומתחבא - החיים שלך</l>
+          <l>ואז הכל קורה אצלי בגוף אני לגמרי משוחרר</l>
+          <l>ואז הכל קורה אני מאוהב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואת אוהבת אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

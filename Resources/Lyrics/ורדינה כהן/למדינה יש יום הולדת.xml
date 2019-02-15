@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>למדינה יש יום הולדת</title>
+        <singer classification="female singer">ורדינה כהן</singer>
+        <writer>עמוס ברזל</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>למדינה יש יום הולדת</head>
+        <lg number="1" type="stanza">
+          <l>הא באייר הגיע, למי יש יום הולדת,</l>
+          <l>לאבא או לאמא, או לסבתא שאוהבת?</l>
+          <l>על התרנים דגלים, למי יש יום הולדת?</l>
+          <l>השמחה ממש גדולה, למדינה יש יום הולדת.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היי, היי, היי, </l>
+          <l>למדינה יש יום הולדת.</l>
+          <l>יום העצמאות הגיע, </l>
+          <l>למדינה יש יום הולדת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כולם לרחוב יוצאים במעגלים רוקדים,</l>
+          <l>יש כאלה בפטיש על הראשים מכים.</l>
+          <l>לילדים ביד דגלים, בצבעי לבן ותכלת</l>
+          <l>ושרים בקול חזק למדינה יש יום הולדת.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היי, היי, היי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

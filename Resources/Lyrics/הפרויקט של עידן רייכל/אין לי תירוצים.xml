@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין לי תירוצים</title>
+        <singer classification="band">הפרויקט של עידן רייכל</singer>
+        <writer>עידן רייכל</writer>
+        <composer>עידן רייכל</composer>
+        <album>ממעמקים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין לי תירוצים</head>
+        <lg number="1" type="stanza">
+          <l>אין לי תירוצים</l>
+          <l>יש לי סיבות משונות</l>
+          <l>כמו שהשמש שקעה</l>
+          <l>כמו שנעלמת אתה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אין לי תירוצים</l>
+          <l>יש לי סיבות אחרות</l>
+          <l>כמו שהשמש זרחה</l>
+          <l>לפתע חזרת אתה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו ענן שבא והולך ברוח</l>
+          <l>גם אתה תשוב לנוח</l>
+          <l>כמו חלום בסוף היום</l>
+          <l>שוב תקום, שוב תיעלם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

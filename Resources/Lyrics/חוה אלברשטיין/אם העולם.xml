@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם העולם</title>
+        <singer classification="female singer">חוה אלברשטיין</singer>
+        <writer>נתן יונתן</writer>
+        <composer>מישה סגל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם העולם</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אם העולם הזה הוא ים</l>
+          <l>אליו הולכים כל הנחלים</l>
+          <l>אם העולם הזה הוא חוף</l>
+          <l>תוגת ימו מכה גלים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם האדם הוא יער עד</l>
+          <l>סופות נושבות באמיריו</l>
+          <l>אם האדם הוא שיח קט</l>
+          <l>בלאט נושרים פרחי שיריו.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם העולם הזה הוא ים...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>סופות נושבות באמיריו</l>
+          <l>נושרים בלאט פרחי שיריו</l>
+          <l>כי האדם, גם שיח קט,</l>
+          <l>גם יער עד, סופות באמיריו</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם העולם הזה הוא ים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ציפורים 3</title>
+        <singer classification="male singer">גלעד שגב</singer>
+        <writer>גלעד שגב</writer>
+        <composer>גלעד שגב</composer>
+        <album>עכשיו טוב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ציפורים</head>
+        <lg number="1" type="stanza">
+          <l>מתעורר משינה מהאור מסתנוור</l>
+          <l>מזדקף במיטה לעצמי מדבר</l>
+          <l>וסופר יש דברים לעשות</l>
+          <l>1,2,3 יצטרך לחכות</l>
+          <l>כי נשכב שוב לנוח שם סרט בקול</l>
+          <l>עם אשה עצומה שנותנת הכל</l>
+          <l>גומר ללבוש ת'בגדים</l>
+          <l>ויוצא לטייל בשמים כחולים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ציפורים שלמעלה חוצות עננים לאלף צורות</l>
+          <l>זה מזכיר לי את אבא בימים ארוכים של שמש וחול</l>
+          <l>מתחרה עם הרוח ומגיע לאן שרוצה</l>
+          <l>הזמן בשבילי יחכה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דקה של טיול נהייתי צמא</l>
+          <l>אז בבאר שליד יושב ושותה</l>
+          <l>וחושב שגמרתי לסבול</l>
+          <l>מנסה להתרומם אבל לא יכול</l>
+          <l>כי נזכר שנמאס לי ליפול</l>
+          <l>בעולם מתוכנת של כסף גדול</l>
+          <l>כאן הכל עושה הגיון</l>
+          <l>וכולם מחכים למליון הראשון</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ציפורים שלמעלה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

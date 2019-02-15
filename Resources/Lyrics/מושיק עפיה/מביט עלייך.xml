@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מביט עלייך</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מביט עלייך</head>
+        <lg number="1" type="stanza">
+          <l>בלילה לא ישנתי</l>
+          <l>עלייך רק חשבתי</l>
+          <l>לאן את נעלמת לי</l>
+          <l>מילה אחת לא אמרת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא אוותר עלייך</l>
+          <l>על היופי בעינייך</l>
+          <l>מה שאת עושה לי</l>
+          <l>מילה אחת לא אמרת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני מביט עלייך</l>
+          <l>לגעת בידייך</l>
+          <l>נמשך הלב אלייך</l>
+          <l>מילה אחת לא אמרת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ליד ביתך ישבתי</l>
+          <l>ישבתי וכאבתי</l>
+          <l>עדיין לא הבנתי</l>
+          <l>מה קרה לאהבה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>חלום שלי ילדונת</l>
+          <l>לחבק אותך קטנטונת</l>
+          <l>למה את כלום לא אומרת</l>
+          <l>מילה אחת לא אמרת</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני מביט עלייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

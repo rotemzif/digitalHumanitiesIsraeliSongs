@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משקאות חריפים</title>
+        <singer classification="band">שייגעצ</singer>
+        <writer>יובל מנדלסון</writer>
+        <composer>missing</composer>
+        <album>משקאות חריפים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משקאות חריפים</head>
+        <lg number="1" type="stanza">
+          <l>לא יכול לקום מהמיטה</l>
+          <l>והראש שלי מרגיש כמו שק תפוחי אדמה</l>
+          <l>מנסה לברוח חוזר בחזרה</l>
+          <l>אני אדם חולה והתרופה הזאת מרה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אתמול בלילה בשמלה האדומה</l>
+          <l>צריך להעמיד אותך לדין על פשעי מלחמה</l>
+          <l>ולנסות ולנהל איתך שיחה</l>
+          <l>זה כמו לקפוץ אל תוך בריכה ריקה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עכשיו את תקשיבי כשאני מדבר</l>
+          <l>עכשיו את תקשיבי, אני לא יכול יותר</l>
+          <l>הלילות מלאים משקאות חריפים</l>
+          <l>חוזר למיטה חולם על חיים אחרים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא יכול לקום מהמיטה</l>
+          <l>נשבע לאלוהים שזאת הפעם האחרונה</l>
+          <l>לא צריך לשתות בשביל לראות שאת יפה</l>
+          <l>לא צריך מפה בשביל לראות שאין מוצא</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עכשיו את תקשיבי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

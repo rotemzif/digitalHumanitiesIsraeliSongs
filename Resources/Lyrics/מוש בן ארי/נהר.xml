@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נהר 7</title>
+        <singer classification="male singer">מוש בן ארי</singer>
+        <writer>מוש בן ארי</writer>
+        <composer>מוש בן ארי</composer>
+        <album>דרך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נהר</head>
+        <lg number="1" type="stanza">
+          <l>על שפת נהר יושב ומהרהר</l>
+          <l>לאן הולך וממהר</l>
+          <l>על מה בחלקים של בעצמי</l>
+          <l>על מה נכון ומי אני</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>והזמן עצור מלחלוף</l>
+          <l>ורק שכשוך נהר זורם</l>
+          <l>זורם זורם לוקח מתוכי</l>
+          <l>עננים שסביב ליבי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עינייך לוטפות עיני</l>
+          <l>שפתייך נוגעות בשפתי</l>
+          <l>ונעלם ונעלם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איך אל אז מזמן שלא פה</l>
+          <l>יושבים על דשא מול הים</l>
+          <l>וגל עסוק לרדוף הוא את עצמו</l>
+          <l>מה שבטח שאבוא</l>
+          <l>אם גל עסוק לרדוף הוא את עצמו</l>
+          <l>מה שבטח שאבוא</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עינייך לוטפות עיני</l>
+          <l>שפתייך נוגעות בשפתי</l>
+          <l>ונעלם ונעלם</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>על שפת נהר יושב ומהרהר</l>
+          <l>לאן הולך וממהר....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

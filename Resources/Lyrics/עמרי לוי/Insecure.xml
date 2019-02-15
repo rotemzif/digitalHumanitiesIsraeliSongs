@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Insecure</title>
+        <singer classification="male singer">עמרי לוי</singer>
+        <writer>עמרי לוי</writer>
+        <composer>עמרי לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Insecure</head>
+        <lg number="1" type="stanza">
+          <l>Mom's cooking in the kitchen </l>
+          <l>food will be served in just a few, </l>
+          <l>finished your homework on time today </l>
+          <l>got nothing else to do. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>feels good to be here </l>
+          <l>so why do i look so sad </l>
+          <l>feeling insecure about </l>
+          <l>the way i live, the things I've said and done </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>music has always been my best friend </l>
+          <l>when i had no one else around </l>
+          <l>even when the song stops at the end of every tape </l>
+          <l>it always started again on the other side </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>all my friends, where are they now? </l>
+          <l>have i lost them all on the way </l>
+          <l>got a few more in the back of my head </l>
+          <l>the ones i miss are already the dead ones </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>feels good to be here...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

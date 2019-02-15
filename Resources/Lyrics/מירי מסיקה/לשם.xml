@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לשם 4</title>
+        <singer classification="female singer">מירי מסיקה</singer>
+        <writer>קרן פלס</writer>
+        <composer>קרן פלס</composer>
+        <album>מירי מסיקה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לשם</head>
+        <lg number="1" type="stanza">
+          <l>רוצה שיתארך הרגע</l>
+          <l>לעולם לא אהיה כמותם</l>
+          <l>הזכרונות מבית הספר,</l>
+          <l>בלגן אצלי בחדר</l>
+          <l>אני רוצה געגועים</l>
+          <l>שלא יניחו להרדם</l>
+          <l>שלא אוכל להילחם.</l>
+          <l>אומרים היא חיה בשמיים או בים</l>
+          <l>לא כמו כולם, צוללת ועולה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לשם איש לא יתקרב</l>
+          <l>וגם אם תאמר שאתה אוהב</l>
+          <l>שנשבר לך הלב</l>
+          <l>ובחרת בי מכולם</l>
+          <l>מכל הבנות בעולם</l>
+          <l>לא אקח אותך לשם</l>
+          <l>כי לימדת אותי שתיקה</l>
+          <l>ואני עוד מחכה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני רוצה ידיים ארוכות</l>
+          <l>לחבק מבלי שאצטרך לראות</l>
+          <l>אומרים היא מסתירה כנפיים</l>
+          <l>במעיל הגדול הכחול, </l>
+          <l>היא עפה ולשם לא תתן שתתקרב</l>
+          <l>וגם אם תאמר שאתה אוהב</l>
+          <l>שנשבר לך הלב</l>
+          <l>ובחרת בה מכולם</l>
+          <l>מכל הבנות בעולם.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אומרים אל תבטח בה לעולם</l>
+          <l>היא תמיד תשיב לך שתיקה</l>
+          <l>ואני עוד מחכה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לשם איש לא יתקרב...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>רוצה שיתארך הרגע לעולם.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

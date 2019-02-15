@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משגעת פילים</title>
+        <singer classification="unknown">שיקו חייק</singer>
+        <writer>שי אלמגור</writer>
+        <composer>איתי זילברשטין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משגעת פילים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>תחייכי נערה תחייכי רק אליי </l>
+          <l>תסתכלי יפתי תסתכלי רק עליי </l>
+          <l>את שובה את ליבי, מרגשת במילים </l>
+          <l>את כזאת מדליקה, משגעת פילים... </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>החיוך הזה שמקסים את כולם </l>
+          <l>מרגש גם אותי וכובש ת'עולם </l>
+          <l>את מחייכת אליי ואני מתמוגג </l>
+          <l>את רוקדת איתי ואני כאן חוגג </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תחייכי נערה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את קורצת עיניים וכולם נבוכים </l>
+          <l>גם חושפת שיניים בחיוך מלאכים </l>
+          <l>את צוחקת, צובטת, ואני מאושר </l>
+          <l>את מביטה בפניי ולך אני שר... </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תחייכי נערה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

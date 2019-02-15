@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמור לי</title>
+        <singer classification="female singer">קורין אלאל</singer>
+        <writer>אוז'אלה</writer>
+        <composer>אוז'אלה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמור לי</head>
+        <lg number="1" type="stanza">
+          <l>אמור לי עוד הלילה</l>
+          <l>שאהבתך תגדל לה,</l>
+          <l>שתפרח לעד בלי די לה,</l>
+          <l>שכדאי לה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הרי מוטב לסבול ביחד</l>
+          <l>מאשר לחיות בפחד,</l>
+          <l>ולבד ליפול מפח אל פחת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תראה שלא תוכל לשכוח,</l>
+          <l>עצב לא יתן מנוח,</l>
+          <l>לא תוכל לברוח,</l>
+          <l>לעולם.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חלפו שעה, שבוע,</l>
+          <l>איזה ים של געגוע,</l>
+          <l>אך אהבתי היא לא תאבד.</l>
+          <l>על אף מכה ופגע,</l>
+          <l>בוא נחיה כאן את הרגע</l>
+          <l>כמו הרגע לא ישוב לעד.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>חלפו שעה, שבוע,</l>
+          <l>איזה ים של געגוע,</l>
+          <l>אך אהבתי היא לא תאבד.</l>
+          <l>על אף מכה ופגע,</l>
+          <l>בוא נחיה כאן את הרגע</l>
+          <l>כמו הרגע לא ישוב לעד.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

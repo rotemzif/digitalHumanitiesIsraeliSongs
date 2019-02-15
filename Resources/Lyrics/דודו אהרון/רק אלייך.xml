@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק אלייך</title>
+        <singer classification="unknown">דודו אהרון</singer>
+        <writer>דודו אהרון</writer>
+        <composer>דודו אהרון</composer>
+        <album>אהבה ראשונה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק אלייך</head>
+        <lg number="1" type="stanza">
+          <l>זה כבר ימים את לא מתקשרת</l>
+          <l>לא אומרת מילה</l>
+          <l>זה כבר לילות אני לא ישן</l>
+          <l>מאבד את ההכרה</l>
+          <l>מה את עושה לי, תגידי מה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא יכול, יותר מאבד את עצמי</l>
+          <l>סתם בוהה לי בשעון, מאבד ת'היגיון</l>
+          <l>יצאתי לרחובות לשאול לאן הלכת</l>
+          <l>דקה נראית כמו יממה מאז שאת עזבת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק אלייך רק אלייך</l>
+          <l>זה הלב שרוצה אלייך</l>
+          <l>וגם אם זה קשה איתך</l>
+          <l>הלב תמיד יאהב אותך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עובר עוד יום ואת מתרחקת</l>
+          <l>ממשיכה להתעלם</l>
+          <l>הלילות הפכו ללא שינה</l>
+          <l>ואין לי מנוחה</l>
+          <l>מה את עושה לי, תגידי מה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא יכול יותר, מאבד את עצמי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מנוליה 2</title>
+        <singer classification="male singer">דקלון</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מנוליה</head>
+        <lg number="1" type="stanza">
+          <l>הגידו לה בני אדם</l>
+          <l>קרוב יומי כמעט נשלם</l>
+          <l>ספרו גלו לה כי גם</l>
+          <l>לה שרתי עד קולי נדם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גם בנשימה אחרונה </l>
+          <l>אקרא בשמה מנוליה </l>
+          <l>אין זה עוד שיר אחד משירי </l>
+          <l>אוהב כואב זה סיפור חיי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אהבתי לא ידעתי לשמור</l>
+          <l>בנווה זרים ביקשה מסתור</l>
+          <l>ארור יהא מרע לה</l>
+          <l>כי נשמה היא מנוליה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נעם קולי מן הפסגות</l>
+          <l>כעת קורא מאשפתות</l>
+          <l>נגים בראשם האנשים</l>
+          <l>ואוהבי תפילה לוחשים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>חלפו מראשי ימי תהילה</l>
+          <l>רק אלייך נכסף מנוליה</l>
+          <l>אין זה עוד שיר אחד משירי</l>
+          <l>אוהב כואב זה סיפור חי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אהבתי לא ידעתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

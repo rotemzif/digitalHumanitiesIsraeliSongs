@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ערב אביב</title>
+        <singer classification="male singer">יובל בנאי</singer>
+        <writer>יובל בנאי</writer>
+        <composer>יובל בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ערב אביב</head>
+        <lg number="1" type="stanza">
+          <l>ערב אביב, מחזר בשבילי</l>
+          <l>אני לא שלך, את לא שלי</l>
+          <l>יודע עכשיו זמנים קשים</l>
+          <l>יודע אפילו - אפלים</l>
+          <l>לילה מתוק, אי-אפשר לישון</l>
+          <l>פריחת הדרים, אל החלום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אחכה מאוחר ואצא כמו התן</l>
+          <l>איילל לירח את הסוד הקטן</l>
+          <l>לילך הפשוט, לילי המסובך</l>
+          <l>איילל לירח לפני שיברח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ערב אביב, בצומת דרכים</l>
+          <l>אני הנער שמוכר פרחים</l>
+          <l>כל כך מעט, פעמים זה קורה</l>
+          <l>מה כבר יותר אפשר להרגיש</l>
+          <l>לא יכול להיות מאוהב</l>
+          <l>אבל זה מה שאני עכשיו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אחכה מאוחר ואצא כמו התן</l>
+          <l>איילל לירח את הסוד הקטן</l>
+          <l>לילך הפשוט, לילי המסובך</l>
+          <l>איילל לירח לפני שיברח</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אחכה מאוחר ואצא כמו התן</l>
+          <l>איילל לירח את הסוד הקטן</l>
+          <l>לילך הפשוט, לילי המסובך</l>
+          <l>איילל לירח לפני שיברח</l>
+          <l>לפני שיברח</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

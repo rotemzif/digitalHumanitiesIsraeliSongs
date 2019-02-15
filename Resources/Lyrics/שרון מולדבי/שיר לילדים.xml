@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר לילדים 2</title>
+        <singer classification="unknown">שרון מולדבי</singer>
+        <writer>שרון מולדבי</writer>
+        <composer>שרון מולדבי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר לילדים</head>
+        <lg number="1" type="stanza">
+          <l>סבא הולך עם שעון נגד הזמן </l>
+          <l>שעון גרמני שאף פעם לא עצר </l>
+          <l>סבא אוהב את הים שבת על החוף </l>
+          <l>והוא כותב ברוחות של הסתיו </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שיר לילדים שיר לנכדים</l>
+          <l>ששוחים מול הזרם נטרפים ואילמים </l>
+          <l>שיר לילדים שיר המצוף</l>
+          <l>מאינסוף אל החוף </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>סבא הולך עם מקל מעץ זית עתיק </l>
+          <l>עולה ברחוב בו הוא גר מרבית שנותיו </l>
+          <l>סבא יושב בגינה ליד המסגד </l>
+          <l>והוא כותב בעלים של חייו </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שיר לילדים שיר לנכדים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

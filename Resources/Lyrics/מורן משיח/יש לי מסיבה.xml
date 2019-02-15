@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לי מסיבה</title>
+        <singer classification="unknown">מורן משיח</singer>
+        <writer>מורן משיח</writer>
+        <composer>מורן משיח</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לי מסיבה</head>
+        <lg number="1" type="stanza">
+          <l>החדר רועש יש אנשים </l>
+          <l>צבעים צורמים על פני הנשים </l>
+          <l>יש בבית רעשים סוערים </l>
+          <l>שאת השכונה הם מקפיצים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>השכן ממול בא אלי </l>
+          <l>וכל החברים חושבים עלי </l>
+          <l>כולם מכבדים ומביאים מתנות </l>
+          <l>כי בבית שלי יש הפתעות </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כי יש לי מסיבה </l>
+          <l>שאותה הם אוהבים </l>
+          <l>כי יש לי מסיבה </l>
+          <l>שהם משתוללים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל המשפחה נותנת נשיקות </l>
+          <l>ובין השאר פה ושם צביטות </l>
+          <l>לוחצים פה ושם ידיים </l>
+          <l>ובין השאר ליטוף או שניים </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>האורחים בבית רוקדים בסלון </l>
+          <l>והזוגות עומדים ליד חלון </l>
+          <l>הכוכבים שהופיעו אמש </l>
+          <l>מחכים שתזרח השמש </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי יש לי מסיבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

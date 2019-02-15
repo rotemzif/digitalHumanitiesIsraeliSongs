@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נדר אהבתי</title>
+        <singer classification="male singer">טריפונס</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נדר אהבתי</head>
+        <lg number="1" type="stanza">
+          <l>לפני מלכות השמיים לאור הירח</l>
+          <l>הלב מפר את השקט ואת מיתגלה</l>
+          <l>אני מביט ביופייך ונושם את הרגע</l>
+          <l>גבר בפתח בא וקורא לך בואי כלה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני מקדיש לך הלילה</l>
+          <l>את נדר אהבתי</l>
+          <l>זוהי שבועת אמונים לימים שיבואו</l>
+          <l>מי שאינני כל חלק ממני שלך עלמתי, שלך עד מותי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהבתך יקרה אין לי כלום בילעדייך</l>
+          <l>אני אתן מעצמי את הכול בישבילה</l>
+          <l>והלילה הזה אני בא עד אלייך</l>
+          <l>שב לפנייך בליל כלולותייך בואי כלה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני מקדיש לך הלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

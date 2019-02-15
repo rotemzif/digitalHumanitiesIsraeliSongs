@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המנון לאדישות</title>
+        <singer classification="male singer">ערן צור</singer>
+        <writer>ארקדי דוכין</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המנון לאדישות</head>
+        <lg number="1" type="stanza">
+          <l>בואו ננסה רק עוד פעם</l>
+          <l>לא לפרוק את הזעם</l>
+          <l>נתחבא ככה סתם</l>
+          <l>ונראה מה ייצא</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בואו נתפרק בשירה</l>
+          <l>לא ניגע בבשורה</l>
+          <l>האמת אסורה</l>
+          <l>כך אמרה המורה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ונצוף על המים</l>
+          <l>עצובים אך עדיין</l>
+          <l>צעירים ותמימים</l>
+          <l>לנצח</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בואו נעשה את הרושם</l>
+          <l>שלמרות הקושי</l>
+          <l>אין לנו עניין באושר</l>
+          <l>ונראה מה ייצא</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בואו נסתגר בחדרנו</l>
+          <l>ונאמר לעצמנו</l>
+          <l>זה מה יש, זה מה שהבאנו</l>
+          <l>לא נלך על קצה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ונצוף על המים...</l>
+        </lg>
+        <lg number="7" type="stanza" />
+      </lg>
+    </body>
+  </text>
+</TEI>

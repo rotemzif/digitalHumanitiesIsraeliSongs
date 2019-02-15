@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יום הולדת 12</title>
+        <singer classification="unknown">חבורת עולם קטן</singer>
+        <writer>מיכל חזון</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יום הולדת</head>
+        <lg number="1" type="stanza">
+          <l>יום גשום יום של רוח</l>
+          <l>אנשים בלי לנוח</l>
+          <l>נחפזים בלי מילה בשבילי</l>
+          <l>אף אחד לא שמח</l>
+          <l>אף אחד לא יודע</l>
+          <l>שזה יום ההולדת שלי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני שר לי עם גרמושקה</l>
+          <l>מנגן לי פה לבד</l>
+          <l>רק חבל שיום הולדת</l>
+          <l>יש רק יום אחד.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ומתוך הרקיע</l>
+          <l>הקוסם אז יגיע</l>
+          <l>במסוק הכחול המבריק</l>
+          <l>בלונים הוא יפריח</l>
+          <l>את כולם הוא יפתיע</l>
+          <l>ויראה לנו סרט מצחיק.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני עוד שר לי עם גרמושקה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

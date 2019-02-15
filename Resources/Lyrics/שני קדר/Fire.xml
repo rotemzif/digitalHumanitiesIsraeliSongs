@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fire 4</title>
+        <singer classification="female singer">שני קדר</singer>
+        <writer>שני קדר</writer>
+        <composer>שני קדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Fire</head>
+        <lg number="1" type="stanza">
+          <l>slack down at my work at the coal mine </l>
+          <l>and you won't fire me but will not pay for what i find </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>i am not pretty and i can't smile </l>
+          <l>i'm so quiet you would hear cars driving on top of me </l>
+          <l>and everything's so easy when you're not with me </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>stop wishing won't you start wishing </l>
+          <l>don't you wish you were a part of a better demographic, </l>
+          <l>wish you had a better starting point</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

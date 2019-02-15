@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עדיין נשארת</title>
+        <singer classification="female singer">גלי עטרי</singer>
+        <writer>חיים ליפשיץ</writer>
+        <composer>חיים ליפשיץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עדיין נשארת</head>
+        <lg number="1" type="stanza">
+          <l>לא אוהבת להגיד כן מיד</l>
+          <l>רק אוהבת להתבשל עם הזמן</l>
+          <l>לרגע נדמה לי שאני עדיין לא איתך</l>
+          <l>ולרגע זה נדמה שאני כאן</l>
+          <l>יש רגעים שאתה תוהה</l>
+          <l>הקשר שלנו יש קשר כזה?!</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עברה עוד דקה, אני לא יכולה אחרת</l>
+          <l>שוב עוד שנייה, אני לא יכולה אחרת</l>
+          <l>עוד שנה, עדיין נשארת לא נשארת</l>
+          <l>לא נשארת... עדיין נשארת...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא אוהבת להגיד כן מיד</l>
+          <l>אני הולכת לצידך בשתיקה</l>
+          <l>ואתה מדבר כל הזמן</l>
+          <l>אתה כבר לא מחכה לתשובה</l>
+          <l>יש רגעים שאתה תוהה</l>
+          <l>הקשר שלנו יש קשר כזה?!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עברה עוד דקה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

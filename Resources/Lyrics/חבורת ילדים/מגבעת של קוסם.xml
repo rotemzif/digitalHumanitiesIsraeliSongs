@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מגבעת של קוסם</title>
+        <singer classification="band">חבורת ילדים</singer>
+        <writer>אירית תמיר</writer>
+        <composer>אירית תמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מגבעת של קוסם</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>כובע, כובע כובע על הראש</l>
+          <l>אבראקדברא אחת, שתיים שלוש</l>
+          <l>מגבעת גדולה של קוסם</l>
+          <l>מה מסתתר שם מאוד מעניין? </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אולי שפן, אולי יונה,</l>
+          <l>אפשר אפילו מכשפה קטנה</l>
+          <l>אולי סוכריה, אולי מטפחת,</l>
+          <l>אפשר אפילו עוגה בצלחת.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כובע, כובע כובע על הראש...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אולי דובון, אולי בלון,</l>
+          <l>אפשר אפילו נסיכה בארמון</l>
+          <l>אולי קלפים, אולי פרחים,</l>
+          <l>אפשר אפילו פרפרים עדינים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כובע, כובע כובע על הראש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד מעט מסך</title>
+        <singer classification="band">הכל עובר חביבי</singer>
+        <writer>נעמי שמר</writer>
+        <composer>נעמי שמר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד מעט מסך</head>
+        <lg number="1" type="stanza">
+          <l>שוב יורד מסך</l>
+          <l>שוב יורד השקט</l>
+          <l>על הסוף הרע</l>
+          <l>על הסוף הטוב</l>
+          <l>ואם כך או כך</l>
+          <l>העלילה נפסקת</l>
+          <l>ואני יוצא לרחוב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אולי יפתח חלון</l>
+          <l>אולי תפרח תקווה</l>
+          <l>שעוד איני מכיר</l>
+          <l>אולי נגלה פתאום</l>
+          <l>את סוף השיר</l>
+          <l>ו-...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שוב אני קרובה</l>
+          <l>אל אותה הכתובת</l>
+          <l>של הרחוב שלך</l>
+          <l>בהמולה לילית</l>
+          <l>עין הסערה</l>
+          <l>לב המערבולת</l>
+          <l>דלת אמותי שלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אולי יפתח חלון...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עוד מעט מסך</l>
+          <l>עוד מעט השקט</l>
+          <l>עוד מעט הסוף הטוב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

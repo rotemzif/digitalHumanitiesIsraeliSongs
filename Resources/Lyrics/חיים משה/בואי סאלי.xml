@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואי סאלי</title>
+        <singer classification="male singer">חיים משה</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואי סאלי</head>
+        <lg number="1" type="stanza">
+          <l>בעינייך הכחולות </l>
+          <l>משהו פתאום כבה </l>
+          <l>בלעדייך הלילות</l>
+          <l>ריקים מאהבה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואי סאלי, מה את עושה לי? </l>
+          <l>קר לי בנשמה </l>
+          <l>בואי סאלי, את חסרה לי </l>
+          <l>כמו אוויר לנשימה </l>
+          <l>הו סאלי, מה את עושה לי? </l>
+          <l>קר לי בנשמה </l>
+          <l>בואי סאלי, את חסרה לי </l>
+          <l>כמו אוויר לנשימה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בעינייך התמימות </l>
+          <l>משהו פתאום נשבר </l>
+          <l>איפה כל החלומות? </l>
+          <l>מה יהיה מחר? </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בואי סאלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פנס רחוב</title>
+        <singer classification="male singer">יהודה פוליקר</singer>
+        <writer>יהודה פוליקר</writer>
+        <composer>missing</composer>
+        <album>כל דבר מזכיר לי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פנס רחוב</head>
+        <lg number="1" type="stanza">
+          <l>פנס רחוב נדלק עכשיו </l>
+          <l>טיפות, טיפות זולגות עליו </l>
+          <l>יש מי שיש לו אהבה </l>
+          <l>יש מי שלבבו כבה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מדליק סיגריה רטובה </l>
+          <l>הרוח לא תיתן תשובה </l>
+          <l>דופק על דלת אהובה </l>
+          <l>את לא פותחת, לא עונה </l>
+          <l>ואני מת מרוב קנאה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>המטריות עוברות, חולפות </l>
+          <l>דמעות הגשם מצליפות </l>
+          <l>כל האורות דולקים אצלך </l>
+          <l>אני הולך, חוזר, הולך </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מדליק סיגריה רטובה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בקצה הרחוב אני עומד </l>
+          <l>כשהתריס שלך יורד </l>
+          <l>הגשם קר, גופי רועד </l>
+          <l>חתול רחוב חומק בודד </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מדליק סיגריה רטובה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

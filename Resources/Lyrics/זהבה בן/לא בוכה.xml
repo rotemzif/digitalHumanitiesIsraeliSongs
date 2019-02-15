@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא בוכה</title>
+        <singer classification="female singer">זהבה בן</singer>
+        <writer>ישי אמיר</writer>
+        <composer>ישי אמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא בוכה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>נשבעת לעולם שעוד יופיעו אחרים במקומך</l>
+          <l>כבר לא בוכה, רק מתרחקת ממך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>למרות הדברים שכבר אמרתי</l>
+          <l>אלף פעמים אולי יותר</l>
+          <l>כל הרגעים שרק הסתרתי</l>
+          <l>את עצמי בתוך עולם אחר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>נשבעת לעולם...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אתה שהולך כועס כמוני</l>
+          <l>אלף מילים אולי יותר</l>
+          <l>כל הלילות שלא ישנתי</l>
+          <l>בוכה על הכר שלא עוזר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>נשבעת לעולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

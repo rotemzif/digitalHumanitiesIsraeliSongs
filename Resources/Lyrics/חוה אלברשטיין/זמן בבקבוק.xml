@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זמן בבקבוק</title>
+        <singer classification="female singer">חוה אלברשטיין</singer>
+        <writer>ג'ים קרוצ'י</writer>
+        <composer>ג'ים קרוצ'י</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זמן בבקבוק</head>
+        <lg number="1" type="stanza">
+          <l>הבוקר חשבתי עליך</l>
+          <l>חשבתי לי אילו ניתן</l>
+          <l>לכלוא את הזמן בבקבוק</l>
+          <l>אז היית נשאר לצדי כל הזמן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואילו נוספו לשבוע</l>
+          <l>שעות וימים עד אין קץ</l>
+          <l>ואילו יכלו המילים</l>
+          <l>להגשים את כל מה שליבנו חפץ</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אך הזמן זורם ונשפך כחול</l>
+          <l>ואינך זוכר מה קרה אתמול</l>
+          <l>ותמיד אין זמן</l>
+          <l>ואני יודעת שאני רוצה</l>
+          <l>לעבור כל רגע וכל דקה</l>
+          <l>שוב אתך וכאן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואילו מצאתי קופסא</l>
+          <l>בה שומרים משאלות אבודות</l>
+          <l>לא הייתי פותחת אותה לעולם</l>
+          <l>כי אתך אין לי עוד משאלות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואילו מצאתי קופסא</l>
+          <l>בה אוספים משאלות אבודות</l>
+          <l>לא הייתי פותחת אותה לעולם</l>
+          <l>כל עוד יש לי אותך אין לי עוד משאלות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אך הזמן זורם ונשפך כחול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

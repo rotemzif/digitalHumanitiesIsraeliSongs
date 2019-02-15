@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תחלמי</title>
+        <singer classification="male singer">לירן טל</singer>
+        <writer>רמי לב</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תחלמי</head>
+        <lg number="1" type="stanza">
+          <l>איתך הקיץ בא כמו סופה</l>
+          <l>והשמש את הלב שורפת</l>
+          <l>איתך המציאות מטריפה</l>
+          <l>זאת אהבה בלי רגע של שלכת</l>
+          <l>אוהבת ולא אוהבת</l>
+          <l>ומשנה את התמונה</l>
+          <l>אני מביט אלייך, לתוך עינייך</l>
+          <l>מבין שאת היא האחת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תחלמי, תחלמי</l>
+          <l>מה שאת אוהבת</l>
+          <l>אלף חלומות לך אקשור בסרט</l>
+          <l>ואתן אותן לליבך </l>
+          <l>שתמשיכי עוד לחייך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איתך הכל נראה קיצוני</l>
+          <l>פעם את טובה או סתם כועסת</l>
+          <l>איתך אני יוצא מעצמי</l>
+          <l>ועף לכל מקום שאת הולכת</l>
+          <l>אוהבת ולא אוהבת</l>
+          <l>ומשנה את התמונה</l>
+          <l>אני מביט אלייך, לתוך עינייך</l>
+          <l>מבין שאת היא האחת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תחלמי, תחלמי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

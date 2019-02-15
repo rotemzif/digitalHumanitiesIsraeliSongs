@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ליבי שלך</title>
+        <singer classification="female singer">זהבה בן</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>עממי ערבי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ליבי שלך</head>
+        <lg number="1" type="stanza">
+          <l>והאש בנשמה כמו השמש החמה</l>
+          <l>רק אתה זה בשבילי אהבה גדולה שלי</l>
+          <l>בנשיקה הראשונה והרגש שנכנע</l>
+          <l>את אהבתי תיקח ולנצח אל תשכח</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ליבי שלך כולי שלך</l>
+          <l>ואת חיי אתן לך</l>
+          <l>אתה היחיד אתה המושלם</l>
+          <l>אתה בשבילי זה כל העולם</l>
+          <l>אתה היחיד אתה המושלם</l>
+          <l>מולך בליבי שונה מכולם</l>
+          <l>ואותך אני צריכה</l>
+          <l>ליבי שלך כולי שלך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ובלילה אור חיוור מול ירח מסנוור</l>
+          <l>כשהרגש מתגבר אתה משלים את החסר</l>
+          <l>והרגשתי שאני זקוקה לך בעולמי</l>
+          <l>בכל דרך בשבילי אתה זה החיים שלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ליבי שלך כולי שלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

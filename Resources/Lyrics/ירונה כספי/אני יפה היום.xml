@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני יפה היום</title>
+        <singer classification="female singer">ירונה כספי</singer>
+        <writer>ירונה כספי</writer>
+        <composer>ירונה כספי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני יפה היום</head>
+        <lg number="1" type="stanza">
+          <l>אתה יפה לי כל כך</l>
+          <l>פנים חדשות בעולם שלי</l>
+          <l>קול שעושה לי טוב</l>
+          <l>לדבר איתך שעות</l>
+          <l>זה הופך לרגעים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא יודעת לאן זה ילך</l>
+          <l>לילה עכשיו, כל החדר עשן</l>
+          <l>הרבה אנשים מדברים</l>
+          <l>ואנחנו גם</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני יפה היום</l>
+          <l>משהו בי מאיר פתאום</l>
+          <l>שכחתי את הכוח שבי</l>
+          <l>לרצות, לנסות</l>
+          <l>לומר מי אני</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אתה יפה לי כל כך</l>
+          <l>פנים חדשות בעולם שלי</l>
+          <l>עיניך עמוק לעיני</l>
+          <l>נעלמת וחוזרת לעצמי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הלב הכבוי התעורר</l>
+          <l>בנגיעה אחת שלך</l>
+          <l>לא יודעת לאן זה ילך</l>
+          <l>אבל הלילה אני איתך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני יפה היום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

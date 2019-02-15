@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל הרגשות</title>
+        <singer classification="unknown">תמיר אלקיים</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי הודי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל הרגשות</head>
+        <lg number="1" type="stanza">
+          <l>נגעת בי במבט,</l>
+          <l>ראיתי איך שאת</l>
+          <l>אותי אוהבת.</l>
+          <l>קרבת אל מקומי,</l>
+          <l>עמדת לידי</l>
+          <l>לבך שלהבת.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וכל הרגשות בך סוערים קשות,</l>
+          <l>מטלטלים בעוז את לבך הפצוע.</l>
+          <l>מבט אחד חטוף וכמו רוצה לעוף</l>
+          <l>כמו הנשרים למקום לא ידוע.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נוצר מגע קצר</l>
+          <l>ואז פשוט עבר</l>
+          <l>חשמל בינינו.</l>
+          <l>הגשר אז הוקם</l>
+          <l>לקשר עז וחם</l>
+          <l>ואז עברנו.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וכל הרגשות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

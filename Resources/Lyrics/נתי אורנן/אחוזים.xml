@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחוזים</title>
+        <singer classification="male singer">נתי אורנן</singer>
+        <writer>נתי אורנן</writer>
+        <composer>נתי אורנן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחוזים</head>
+        <lg number="1" type="stanza">
+          <l>85' ממקרי הסרטן נגרמים מעישון </l>
+          <l>60' מחולי הפרקינסון מתים מחנק </l>
+          <l>2' מכלל התינוקות בסיכון למוות בעריסה </l>
+          <l>25' מהמשתמטים עושים פעם ביום כביסה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>48' מהמתים נקברים כשפניהם כלפי מעלה </l>
+          <l>70' מהנשים המפילות חוו דיכאון אחרי </l>
+          <l>59' מהילדים שונאים ללכת לבית הספר </l>
+          <l>24' מכלל מצביעי הליכוד לא אוהבים אותי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>60' שומן בגבינה עושים לי שמח </l>
+          <l>99' מהסיגריות שלי מגיעות בחפיסה רכה </l>
+          <l>על 50' מהאהבות שלי הייתי מוותר </l>
+          <l>ומוסיף לי עוד 3'</l>
+          <l>לא יותר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>48' מהמתים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אולי יותר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

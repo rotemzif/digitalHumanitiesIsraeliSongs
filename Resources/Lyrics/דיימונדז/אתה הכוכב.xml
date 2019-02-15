@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אתה הכוכב</title>
+        <singer classification="unknown">דיימונדז</singer>
+        <writer>ליאת רבנר</writer>
+        <composer>איתן אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אתה הכוכב</head>
+        <lg number="1" type="stanza">
+          <l>אתה חיפשת כח</l>
+          <l>ואני אהבה</l>
+          <l>אתה רצית שקט</l>
+          <l>אני רציתי אותך </l>
+          <l>אתה הכוכב שזורח מעל</l>
+          <l>בוא ותראה לי לאן </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תוביל אותי לטוב</l>
+          <l>גרש את כל הפחד</l>
+          <l>תראה לי שאפשר להיות מאושר</l>
+          <l>תן לי להרגיש</l>
+          <l>כל עוד אנחנו יחד</l>
+          <l>שהעולם כולו בשבילנו נולד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה חיפשת דרך</l>
+          <l>ואני דרכך</l>
+          <l>אף פעם לא הבנת</l>
+          <l>שתמיד רק איתך </l>
+          <l>אתה הכוכב שזורח מעל</l>
+          <l>בוא ותראה לי לאן </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תוביל אותי לטוב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זו אני שרוצה אבל לא מוכנה</l>
+          <l>לוותר על עצמי, לוותר בשבילך </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תוביל אותי לטוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

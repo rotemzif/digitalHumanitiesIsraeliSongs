@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רץ בפארק</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>מיכל גבריאלוב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רץ בפארק</head>
+        <lg number="1" type="stanza">
+          <l>בשיכון בבלי שבצפון העיר</l>
+          <l>מהמרפסת בקומה השנייה</l>
+          <l>אני רואה בכל ערב</l>
+          <l>שתי בחורות המביטות</l>
+          <l>איך חלפה להן רכבת אחרונה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני רק רץ לכיוון פארק הירקון</l>
+          <l>אני רק רץ ולראשי כובע של נהג קטר</l>
+          <l>אני רק רץ לכיוון פארק הירקון</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בשיכון בבלי שבצפון העיר</l>
+          <l>הילדים חוזרים הביתה בריצה</l>
+          <l>עם נעליים חדשות מפאריז</l>
+          <l>הבחורות שבמרפסת אוכלות</l>
+          <l>מהעוגה את הפרוסה האחרונה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני רק רץ...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא אני לא ממהר, אני רק מסתכל</l>
+          <l>בדרכי חזרה לא אראה אותן יותר</l>
+          <l>לא אני לא ממהר, שר פזמון חוזר</l>
+          <l>כי מחר על הבמה ישיר כבר מישהו אחר,</l>
+          <l>ישיר כבר מישהו אחר.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

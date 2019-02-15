@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא ממהר</title>
+        <singer classification="male singer">הראל סקעת</singer>
+        <writer>דידי שחר</writer>
+        <composer>דידי שחר</composer>
+        <album>הראל סקעת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא ממהר</head>
+        <lg number="1" type="stanza">
+          <l>לא ממהר לישון אבל איתך רודף שינה</l>
+          <l>אני עוקף שתיקות אבל איתך אוסף שתיקה</l>
+          <l>לא מתמסר מהר לסיפורים קטנים</l>
+          <l>אבל איתך כל שום דבר נפתח למניפת צבעים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איתך כל צל של עץ זו הזמנה לפרוש מחצלת</l>
+          <l>מחכה עד שירח צף והחמה צוללת</l>
+          <l>תמיד רוצה יותר וכשמוצא רוצה אחר</l>
+          <l>אבל אצלנו רק שככה, שככה נשאר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וכשאומרים לי לעצום עיניים ולחפש</l>
+          <l>בפנים עמוק, כדי להביע משאלה אפשר הכי רחוק</l>
+          <l>אני מביט בך, מביט בך וחוזר</l>
+          <l>שככה נשאר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איתך כל צל של עץ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

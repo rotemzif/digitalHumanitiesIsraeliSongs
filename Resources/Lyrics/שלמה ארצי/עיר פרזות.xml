@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עיר פרזות</title>
+        <singer classification="male singer">שלמה ארצי</singer>
+        <writer>תרצה אתר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עיר פרזות</head>
+        <lg number="1" type="stanza">
+          <l>כעיר פרזות היית לי</l>
+          <l>למרות שהחלון היה סגור</l>
+          <l>והיינו בגובה רב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשעטת הקרנפים היית לי</l>
+          <l>במלכות הלבנות היית לי</l>
+          <l>אישה כרוח עב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כנשיפת אוויר</l>
+          <l>בהישלף החרב</l>
+          <l>כהינמך עננים עם ערב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עיר פרוצה אין חומה שלי</l>
+          <l>אשר אין מעצור לרוחה</l>
+          <l>עיר בוערת שמים רבים</l>
+          <l>לא יוכלו לה</l>
+          <l>עיר פרזות</l>
+          <l>עיר נמל</l>
+          <l>עיר ברכה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כגשם רב היית לי</l>
+          <l>למרות שהשרב היה כבד</l>
+          <l>והיינו צמאים לסתיו</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כצהלת סוסי הבר היית לי</l>
+          <l>אל מול המים קמתי אז</l>
+          <l>לרעות בך צאני המאוהב</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>כצעקת היום</l>
+          <l>מול בכי תנים עם ליל</l>
+          <l>כך צעקתי חדווה אלייך</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>עיר פרוצה אין חומה שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

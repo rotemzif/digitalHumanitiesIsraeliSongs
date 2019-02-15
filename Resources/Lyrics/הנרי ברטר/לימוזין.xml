@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לימוזין 2</title>
+        <singer classification="unknown">הנרי ברטר</singer>
+        <writer>דורי בן זאב</writer>
+        <composer>הנרי ברטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לימוזין</head>
+        <lg number="1" type="stanza">
+          <l>כשאתה נוסע, בתוך הלילה</l>
+          <l>מכוסה בחלונות, </l>
+          <l>טוב לך בחלומות</l>
+          <l>ממ מה זה הבושם שלך?</l>
+          <l> צרפתי?</l>
+          <l>בטח. את רוצה לשתות משהו? </l>
+          <l>אולי קצת מוסיקה?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לימו-לימוזין</l>
+          <l>לימו, לימו, לימוזין</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בואי, בואי נרד מהפסים</l>
+          <l>הכביש הוא שלנו, חתולה מגרגרת</l>
+          <l>מה את אומרת? משטרה? אחרינו</l>
+          <l>אין דבר, איתך אני מוכן לאנוס את החוקים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לימו-לימוזין</l>
+          <l>לימו, לימו, לימוזין</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

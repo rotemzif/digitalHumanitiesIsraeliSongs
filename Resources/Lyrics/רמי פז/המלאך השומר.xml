@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המלאך השומר</title>
+        <singer classification="unknown">רמי פז</singer>
+        <writer>ישי ויסמן</writer>
+        <composer>עממי ארמני</composer>
+        <album>המלאך השומר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המלאך השומר</head>
+        <lg number="1" type="stanza">
+          <l>היא מתרחקת ונסגרת בעצמה</l>
+          <l>מתאפרת משתדלת לא לבכות</l>
+          <l>היא רוצה רק אהבה אני יודע</l>
+          <l>לו רק יכולתי לעצור את הדמעות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהובה שלי אני אשמור תמיד שלא תהיי לבד</l>
+          <l>ואגן עלייך בכל כוחי</l>
+          <l>אם את עצובה אני נמצא פה ומחזיק לך את היד</l>
+          <l>מבקש ממך שלא תבכי</l>
+          <l>לך שמורה פינה בלב שלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא נשכבת לה בחדר הקטן</l>
+          <l>את הכרית היא מחבקת ובוכה</l>
+          <l>השעון מתקתק ואיתו גם הזמן</l>
+          <l>אם תבקשי אתן לך אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהובה שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

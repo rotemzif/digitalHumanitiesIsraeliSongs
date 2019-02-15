@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא מחפשת</title>
+        <singer classification="female singer">תמר גלעדי</singer>
+        <writer>אריאל הורוביץ</writer>
+        <composer>תמר גלעדי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא מחפשת</head>
+        <lg number="1" type="stanza">
+          <l>פעם קרוב או רחוק</l>
+          <l>פעם חמוץ או מתוק</l>
+          <l>פעם זה היה אתגר</l>
+          <l>ועכשיו זה כבר שום דבר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא בשל לא מוכן</l>
+          <l>כמו קופסא בלי פותחן</l>
+          <l>פעם זה היה מדליק</l>
+          <l>ועכשיו זה כבר לא מספיק</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא מחפשת</l>
+          <l>אהבה שמכאיבה</l>
+          <l>אני תופסת את עצמי בזמן</l>
+          <l>ולא נכנסת</l>
+          <l>לרחוב ללא מוצא</l>
+          <l>אני אומרת לעצמי שכבר הייתי כאן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>פעם אדום או ירוק</l>
+          <l>לעצור לא לחנוק</l>
+          <l>כל הקסם האפל</l>
+          <l>שעכשיו הוא כבר לא אוכל</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה נעים זה מכאיב</l>
+          <l>ותמיד זה לא יציב</l>
+          <l>פעם זה היה הורס</l>
+          <l>ועכשיו זה כבר לא תופס</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לא מחפשת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

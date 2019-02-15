@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לבד בשמיים</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>יגאל בשן</writer>
+        <composer>יגאל בשן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לבד בשמיים</head>
+        <lg number="1" type="stanza">
+          <l>פעם רציתי לנסוע</l>
+          <l>רציתי לנסוע רחוק</l>
+          <l>לראות ת'עולם עגול כמו כדור</l>
+          <l>לשיר לכולם ולצחוק</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פעם רציתי לשמוע</l>
+          <l>ת'רוח עושה מנגינות</l>
+          <l>לשמוע ת'ים מנגן לו זמירות</l>
+          <l>ולאן הציפורים עפות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יושב לי לבד בשמיים</l>
+          <l>מוקף מלאכים קטנטנים</l>
+          <l>גיטרה קטנה בידים</l>
+          <l>וכל הזמן שרים שירים</l>
+          <l>לילדים שהולכים לישון</l>
+          <l>לבד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש לי ענן בשמיים</l>
+          <l>יש לו כנפיים גדולות</l>
+          <l>תמיד מרקד כשהגשם יורד</l>
+          <l>והאדמה אוהבת לשתות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יושב לי לבד בשמיים...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לבד בשמיים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאמי שלי 2</title>
+        <singer classification="male singer">ליאור פרחי</singer>
+        <writer>ליאור פרחי</writer>
+        <composer>ליאור פרחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאמי שלי</head>
+        <lg number="1" type="stanza">
+          <l>לא משנה לי אם תרצי ללכת</l>
+          <l>בתוך ליבי תמיד את מנגינה</l>
+          <l>פעם בוכה ולפעמים צוחקת</l>
+          <l>אוהב אותך גם עוד עשרים שנה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l> מאמי שלי</l>
+          <l> אתן לך את חיי</l>
+          <l> רק תנסי</l>
+          <l> קצת לחזור אליי</l>
+          <l> אתן הכל</l>
+          <l> מה שתבקשי</l>
+          <l> בואי לגדול</l>
+          <l> בשלווה שלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו ים סוער ליבך אינו רוגע</l>
+          <l>את מציפה אותי גלים גלים</l>
+          <l>ברגשותייך שוב אני נוגע</l>
+          <l>להיסחף איתך במעגלים</l>
+        </lg>
+        <lg number="4" type="stanza" />
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מאמי שלי...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כשאת הופכת לי ת'חלום איתך למציאות</l>
+          <l>זה מרגיש קרוב לשלמות</l>
+          <l>אני אוהב אותך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

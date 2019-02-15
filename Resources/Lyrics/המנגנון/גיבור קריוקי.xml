@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גיבור קריוקי</title>
+        <singer classification="unknown">המנגנון</singer>
+        <writer>עמיאל שפירא</writer>
+        <composer>עמיאל שפירא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גיבור קריוקי</head>
+        <lg number="1" type="stanza">
+          <l>יש לו עבודה, הוא עובד בה, יש לו עבודה</l>
+          <l>יש לו עבודה, הוא עובד בה, יש לו עבודה</l>
+          <l>הוא עובד לפי הקצב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גיבור קריוקי</l>
+          <l>ביפנית הם אומרים קא-רא-או-קה</l>
+          <l>כשהגיטרה תנגן</l>
+          <l>הוא שר באומץ ובחן</l>
+          <l>Every breath you take</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש לו משפחה, הוא עובד בה, יש לו משפחה</l>
+          <l>יש לו משפחה, הוא עובד בה, יש לו משפחה</l>
+          <l>הוא עובד לפי הקצב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גיבור קריוקי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יש לו אהבה, הוא עובד בה, יש לו אהבה</l>
+          <l>יש לו אהבה, הוא עובד בה, יש לו אהבה</l>
+          <l>הוא עובד יפה יפה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>גיבור קריוקי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

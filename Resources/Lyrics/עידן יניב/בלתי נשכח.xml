@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלתי נשכח</title>
+        <singer classification="male singer">עידן יניב</singer>
+        <writer>רגב</writer>
+        <composer>רגב</composer>
+        <album>כן לאהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלתי נשכח</head>
+        <lg number="1" type="stanza">
+          <l>היא רוקדת ממולי, תופסת את עיני</l>
+          <l>חושפת תשוקותי, מפילה אותי והיא</l>
+          <l>נוגעת בגופי, לוחשת לי לאט</l>
+          <l>ואז אני כמעט, תגידי לי</l>
+          <l>את פה לבד? אולי נלך לצד?</l>
+          <l>ואת תתני לי שיעור באהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה בלתי נשכח, החיוך שלך</l>
+          <l>מה שאת עושה לי, מה יהיה איתך</l>
+          <l>זה בלתי נשכח, החיוך שלך</l>
+          <l>מה שאת עושה לי, אח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בואי ניסע מכאן מהר לפני שייגמר</l>
+          <l>לפני שנתמכר, הלילה נתחבר</l>
+          <l>לאן שאת רוצה, את משהו אחר</l>
+          <l>שווה הרבה יותר, תגידי לי</l>
+          <l>את פה לבד? אולי נלך לצד?</l>
+          <l>ואת תתני לי שיעור באהבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה בלתי נשכח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

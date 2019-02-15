@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תן לה את הלב</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>רולסן שריפו</composer>
+        <album>מילים שלא אמרת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תן לה את הלב</head>
+        <lg number="1" type="stanza">
+          <l>עכשיו היא מוכנה, ויש בה אהבה</l>
+          <l>רוצה לתת לך, אותה במתנה</l>
+          <l>ואם תהיה איתה, תמים ואמיתי</l>
+          <l>תתן לך הכל, וזה כבר רציני</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חבק אותה רגע, תרגיש ת'אש</l>
+          <l>שבליבה בוערת בוערת...</l>
+          <l>שחק אותה ווינר, תן מה שיש</l>
+          <l>והיא תיתן כל מה, שתבקש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קח אותה עכשיו, ותן לה את הלב</l>
+          <l>ותראה לה איך, איך שאתה אוהב</l>
+          <l>תפוס אותה חזק, לעולם אל תוותר</l>
+          <l>תן לה אהבה, והכל כבר יסתדר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היא רק אותך רוצה, חזק ואמיתי</l>
+          <l>עם כל הנשמה, ולא רומן זמני</l>
+          <l>רוצה אותך קצר, ולא כמו פרפר</l>
+          <l>כי מכולם אותך, הלב שלה בחר </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שחק אותה ווינר... </l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

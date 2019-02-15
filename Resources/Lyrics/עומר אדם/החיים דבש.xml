@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>החיים דבש</title>
+        <singer classification="unknown">עומר אדם</singer>
+        <writer>ניסים מרי</writer>
+        <composer>רביב בן מנחם</composer>
+        <album>ילד טוב ילד רע</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>החיים דבש</head>
+        <lg number="1" type="stanza">
+          <l>לא התכוונתי אבל התאהבתי</l>
+          <l>איתך לעוף כמו דבורה אל צוף</l>
+          <l>לא האמנתי שככה נסחפתי</l>
+          <l>איך כל הגוף מרגיש את הטירוף</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>החיים הם דבש בכל יום מחדש</l>
+          <l>כשאני רואה אותך מחייכת רק לי</l>
+          <l>החיים הם דבש בכל יום מחדש</l>
+          <l>כשאת נוגעת בי, מאירה את החיים שלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מהר הבנתי שלך התמכרתי</l>
+          <l>עשית לי טוב, אותך לא אעזוב,</l>
+          <l>איך התרגשתי, אלייך ניגשתי</l>
+          <l>הכי קרוב, רציתי לאהוב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>החיים הם דבש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מקום בלילה</title>
+        <singer classification="male singer">מורן גמליאל</singer>
+        <writer>מורן גמליאל</writer>
+        <composer>מורן גמליאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מקום בלילה</head>
+        <lg number="1" type="stanza">
+          <l>הוא אחד שתמיד ישן ולא יכול להתעורר</l>
+          <l>היא תמיד מעירה אותו</l>
+          <l>הוא אומר שהכל גורל, מדליק סיגריה וחושב</l>
+          <l>היא תוהה מה יהיה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קם בין כל הסדינים שלה</l>
+          <l>מנסה למצוא מקום בלילה</l>
+          <l>גם שהזמן עובר פתאום</l>
+          <l>מנסה למצוא מקום בלילה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא רוצה שלא ישקר, תמיד יאמר את האמת</l>
+          <l>הוא עוד לא מעכל את זה</l>
+          <l>היא טובה, היא רוצה אותו כל כך רגוע ושקט</l>
+          <l>הוא תמיד מתעצבן מזה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ועכשיו כשהם מבינים, לא מבינים כבר שום דבר</l>
+          <l>ועכשיו הם רוצים את זה</l>
+          <l>הוא אומר שהכל גורל, מדליק סיגריה וחושב</l>
+          <l>היא תוהה מה יהיה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>קם בין כל הסדינים שלה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שאלה טובה</title>
+        <singer classification="female singer">קורין אלאל</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>כשזה עמוק</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שאלה טובה</head>
+        <lg number="1" type="stanza">
+          <l>למה לחפש רחוק כשקרוב</l>
+          <l>למה להגיד זה רע כשכבר טוב</l>
+          <l>למה לשחק תמיד בלכאוב</l>
+          <l>למה לחפש רחוק.</l>
+          <l>כן זאת שאלה טובה</l>
+          <l>אך אין תשובה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מי שם מביטה אליי בראי</l>
+          <l>איך זה כל סיפור שלי ארעי</l>
+          <l>איפה החיוך ההוא הפראי</l>
+          <l>מי שם מביטה אליי</l>
+          <l>כן זאת שאלה טובה</l>
+          <l>אך אין תשובה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה רציתי להגיד זה מפחיד</l>
+          <l>מה הכי הכי עצוב לא חשוב</l>
+          <l>מה תיכננתי למחר שום דבר</l>
+          <l>מה רציתי להגיד.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

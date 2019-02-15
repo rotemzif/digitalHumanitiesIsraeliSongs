@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חושב רחוק כרגע</title>
+        <singer classification="band">תיסלם</singer>
+        <writer>יאיר ניצני</writer>
+        <composer>יזהר אשדות</composer>
+        <album>רדיו חזק</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חושב רחוק כרגע</head>
+        <lg number="1" type="stanza">
+          <l>אנחנו כבר ביחד כמעט שנה תמימה</l>
+          <l>ואם את עוד חוששת אז אין לך עוד ממה</l>
+          <l>היית יפה זוהרת, הייתי קצת המום</l>
+          <l>עכשיו הכל אחרת,כבר אין בינינו כלום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני עכשיו בדרך, אל תעמדי ממול</l>
+          <l>הכל ברור נראה לי אני לא רואה כפול</l>
+          <l>חושב רחוק כרגע טוב לי עם עצמי</l>
+          <l>ואם עכשיו את לא איתי - עשי תפנית ותעלמי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אנ'לא רוצה פיג'מה,אנ'לא רוצה חלוק</l>
+          <l>ישן עירום בלילה, על הרצפה בקבוק</l>
+          <l>תפסיקי לאפות לי, אני לא אוהב עוגות</l>
+          <l>תפסיקי לרהט כאן, אני שונא בובות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני עכשיו בדרך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>חשבתי כל הדרך, שאת איתי אולי</l>
+          <l>בכל כיוון ודרך, שאת מאחורי</l>
+          <l>קורא עיתון בשקט,אני כבר מאורגן</l>
+          <l>ואת מקום חפשי לך, ללחום בבלאגן</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני עכשיו בדרך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

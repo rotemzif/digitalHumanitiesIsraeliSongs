@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין קשר</title>
+        <singer classification="male singer">רמי פורטיס</singer>
+        <writer>רמי פורטיס</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין קשר</head>
+        <lg number="1" type="stanza">
+          <l>הכל מתחבר נשבר וחוזר</l>
+          <l>מסתבך ושוב מסתדר</l>
+          <l>בלי קשר, אין קשר</l>
+          <l>מה מסתתר מאחורי הגישה</l>
+          <l>אולי יש קוד ויש שיטה</l>
+          <l>ואין קשר, אין קשר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עולה ויורד ללא שיטה</l>
+          <l>מתחמק ואין בו אחיזה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כסף, כסף, כסף</l>
+          <l>שורף לי את קצה היד</l>
+          <l>כסף, כסף, כסף</l>
+          <l>בא ונעלם מיד</l>
+          <l>אין שקט, אין שלווה</l>
+          <l>אין הגנה ואין תרופה</l>
+          <l>אין שקט, אין שלווה</l>
+          <l>אין הגנה ואין תרופה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הכל מתברג לתוך המבנה</l>
+          <l>מה שנכנס תמיד לא יוצא</l>
+          <l>בלי קשר, אין קשר</l>
+          <l>קח מהר את מה שחסר</l>
+          <l>אפילו אם זה פחות או יותר</l>
+          <l>בלי קשר, אין קשר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עולה ויורד ללא סיבה</l>
+          <l>מתחלק ואין בו אחיזה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כסף, כסף, כסף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

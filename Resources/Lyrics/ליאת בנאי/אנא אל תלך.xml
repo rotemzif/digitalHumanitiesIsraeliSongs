@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אנא אל תלך</title>
+        <singer classification="unknown">ליאת בנאי</singer>
+        <writer>אבי ביטר</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אנא אל תלך</head>
+        <lg number="1" type="stanza">
+          <l>האהבה שלנו לא תחזור יותר </l>
+          <l>רגש שבלב איך אותי גומר</l>
+          <l>את כל הזכרונות של אותם ימים</l>
+          <l>החליפו הדמעות שעל הפנים</l>
+          <l>את כל הזכרונות של אותם ימים</l>
+          <l>החליפו הדמעות שעל הפנים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>האהבה הזאת הייתה יפה </l>
+          <l>אהבתי רק אותך אהבתי כמו טיפשה</l>
+          <l>אהבתי באמת ובלי גבולות</l>
+          <l>את כל החלומות הרטיבו הדמעות</l>
+          <l>אנא אנא אנא אל תלך</l>
+          <l>אנא אנא אנא אל תלך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל האבטחות שהבטחת לי </l>
+          <l>עולים בזיכרונות ולא עוזבים אותי</l>
+          <l>אנשים אמרו לי שאתה זהב </l>
+          <l>אם אהבת באמת איפה אתה עכשיו</l>
+          <l>אנשים אמרו לי שאתה זהב </l>
+          <l>אם אהבת באמת איפה אתה עכשיו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>האהבה הזאת הייתה יפה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

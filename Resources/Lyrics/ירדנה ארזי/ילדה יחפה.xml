@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילדה יחפה</title>
+        <singer classification="female singer">ירדנה ארזי</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>missing</composer>
+        <album>אנשים זרים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילדה יחפה</head>
+        <lg number="1" type="stanza">
+          <l>ילדה יחפה קלועת צמות, </l>
+          <l>שירי לי שירי לי שיר מולדת! </l>
+          <l>היו לך כל כך הרבה מנגינות, </l>
+          <l>הגידי ממי את כל כך מפחדת? </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פנייך חתומות כפני שעווה, </l>
+          <l>שפתייך צמאות למים. </l>
+          <l>ראשך שמוט ללא גאווה, </l>
+          <l>אל תעצמי את עינייך! </l>
+          <l>ילדה יחפה קלועת צמות, </l>
+          <l>שירי לי שירי לי שיר מולדת! </l>
+          <l>מה יגדל בארץ שלי מה יפרח לך, </l>
+          <l>דם המכבים או פרחי לילך? </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ילדה יחפה קלועת צמות, </l>
+          <l>האם את עדיין זוכרת אותי? </l>
+          <l>הלכתי איתך אחוזת חלומות </l>
+          <l>אני ורבים אחרים שכמותי! </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פנייך חתומות כפני שעווה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

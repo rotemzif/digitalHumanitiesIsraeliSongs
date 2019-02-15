@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לכי לדרכך</title>
+        <singer classification="unknown">ערן סופר</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לכי לדרכך</head>
+        <lg number="1" type="stanza">
+          <l>את יפה ומתוסבכת כל דקה את מתהפכת</l>
+          <l>עד היום עוד לא הבנתי את הראש שלך</l>
+          <l>בקטעים שאת עושה לי את הקריזה מביאה לי</l>
+          <l>לא נותנת רגע שקט מה קורה איתך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את אוהבת ופוגעת לאהוב את לא יודעת</l>
+          <l>מטריפה לי את הדעת אני מסתבך</l>
+          <l>לי נמאס תמיד לסלוח מנסה אותך לשכוח</l>
+          <l>בשבילך כבר אין לי כח לכי לדרכך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש לך דרך מיוחדת את אוהבת וחושבת</l>
+          <l>כל הזמן את רק רוצה לתפוס אותי על חם</l>
+          <l>אם את לא מאמינה לי אז תביני שנמאס לי</l>
+          <l>ותלכי לך לדרכך אל תשובי לעולם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את אוהבת ופוגעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בחור קנאי</title>
+        <singer classification="unknown">צעירי תל אביב</singer>
+        <writer>ג'ון לנון</writer>
+        <composer>ג'ון לנון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בחור קנאי</head>
+        <lg number="1" type="stanza">
+          <l>כבר חשבתי זה נגמר</l>
+          <l>הביטחון שלי נשבר</l>
+          <l>בדמיוני המפואר</l>
+          <l>בזרועותייך גבר זר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סליחה אני טעיתי</l>
+          <l>כן האשמה כולה עלי</l>
+          <l>הלוואי שתסלחי לי</l>
+          <l>אני בחור קנאי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>התנהגתי מלוכלך</l>
+          <l>השתגעתי כשהלכת</l>
+          <l>זה יצא משליטתי</l>
+          <l>אני צריך אותך איתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סליחה אני טעיתי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אל תשכחי שסך הכל</l>
+          <l>גבר הוא תינוק גדול</l>
+          <l>אני זקוק לחיבוקים</l>
+          <l>אני מכור לחיזוקים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>סליחה אני טעיתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

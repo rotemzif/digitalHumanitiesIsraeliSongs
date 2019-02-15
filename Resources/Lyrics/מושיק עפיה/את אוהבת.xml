@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את אוהבת</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>שי ראובני</composer>
+        <album>אין הגיון באהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את אוהבת</head>
+        <lg number="1" type="stanza">
+          <l>זה הזמן זה היום זה הרגע </l>
+          <l>והלב לא טועה הוא יודע</l>
+          <l>וכמו ילד אני משתגע</l>
+          <l>עלייך מרוב אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את שלי ואותך רק אהבתי</l>
+          <l>האחת שבלב לי בקשתי</l>
+          <l>ולנצח את שמך כבר חתמתי</l>
+          <l>עמוק בתוך הנשמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תני לי מליבך את הכח</l>
+          <l>תני לי תשמיים לפתוח</l>
+          <l>תני לי מהכל כבר לשכוח</l>
+          <l>לאהוב רק אותך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את אוהבת את אוהבת</l>
+          <l>שתהי  רק  מאושרת</l>
+          <l>בך רציתי וזכיתי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מסתכל שוב עמוק בעינייך</l>
+          <l>ורוצה כל הזמן רק אלייך</l>
+          <l>לא מוצא את עצמי בלעדייך</l>
+          <l>כי את הכל בשבילי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>את שלי ואותך רק אהבתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

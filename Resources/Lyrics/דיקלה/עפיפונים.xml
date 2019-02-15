@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עפיפונים</title>
+        <singer classification="female singer">דיקלה</singer>
+        <writer>דיקלה</writer>
+        <composer>דיקלה</composer>
+        <album>ארלוזרוב 38</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עפיפונים</head>
+        <lg number="1" type="stanza">
+          <l>שירים גדולים</l>
+          <l>עפים חותכים את השמיים</l>
+          <l>שירים קטנים</l>
+          <l>פוגעים שוברים לי את הלב</l>
+          <l>השדרה הזוהרת, האישה המגונדרת</l>
+          <l>מדליקים את עיני</l>
+          <l>הכל יכול להיות אחרת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ימים, ימים</l>
+          <l>עפיפונים אל תוך המים</l>
+          <l>ימים, ימים</l>
+          <l>עברו לי בלי סיבה</l>
+          <l>הגדול בשמיים, הדמעות בעיניים</l>
+          <l>מגדלים את פני</l>
+          <l>רק זה נשאר בינתיים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אין לי מה לתת יותר מזה</l>
+          <l>תשאר אני שונה, אולי תמצא בי נחמה</l>
+          <l>אין לי מה לומר יותר מזה</l>
+          <l>תתגבר אני שלך, אולי תמצא בי קצת שמחה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אלוהים תתקן את כל מה שקלקלתי</l>
+          <l>הזכרונות שלי בוגדים בי ללא סוף</l>
+          <l>אני רוצה שתסלח לי</l>
+          <l>אני אשמח אם תסלח לי</l>
+          <l>לפעמים זה קשה</l>
+          <l>רק זה נשאר בינתיים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אין לי מה לתת יותר מזה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

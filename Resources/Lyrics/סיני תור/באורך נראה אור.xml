@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>באורך נראה אור</title>
+        <singer classification="unknown">סיני תור</singer>
+        <writer>מתוך תהילים</writer>
+        <composer>סיני תור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>באורך נראה אור</head>
+        <lg number="1" type="stanza">
+          <l>מה יקר חסדך אלקים</l>
+          <l>לבני אדם בצל כנפיך יחסיון</l>
+          <l>ירוויון מדשן ביתך</l>
+          <l>ונחל עדניך תשקם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי עימך מקור חיים באורך נראה אור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>משוך חסדך ליודעך</l>
+          <l>וצדקתך לישרי לב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי עימך מקור חיים באורך נראה אור</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>באורך נראה אור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

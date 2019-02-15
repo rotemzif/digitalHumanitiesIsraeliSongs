@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלב מייחל</title>
+        <singer classification="unknown">מוטי מור</singer>
+        <writer>אבי ששון</writer>
+        <composer>אבי ששון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלב מייחל</head>
+        <lg number="1" type="stanza">
+          <l>מחכים לך שתחזור </l>
+          <l>אז ידלק האור והכל ישכח </l>
+          <l>הכאב המר והעולם מוזר </l>
+          <l>מלחמה שלא נפסקת </l>
+          <l>רק תשוב עדי תשוב אחי </l>
+          <l>אמא זועקת </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והלב מייחל מתפלל משתולל הגעגוע </l>
+          <l>תתחזק ותתגבר רק אל תשבר </l>
+          <l>ושוב לביתך חזק יותר </l>
+          <l>עדי איתך כל אוהביך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל עולם אחר יפה יותר </l>
+          <l>תחזור להתחיל מחדש </l>
+          <l>על רקיע זוהר הפחד יעלם </l>
+          <l>אז תשוב לביתך בריא ושלם </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והלב מייחל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איפה הימים 3</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>יוש גרנות</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איפה הימים</head>
+        <lg number="1" type="stanza">
+          <l>השנה כבר חלפה כמו החלומות</l>
+          <l>והעצב שוב מותיר בי ים של זכרונות</l>
+          <l>בחדר יושב לי רע לי ומר</l>
+          <l>אני מתגעגע חבל שזה נגמר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איפה כל הימים שהבאת לי אושר</l>
+          <l>איפה כל המילים שלחשת בחושך</l>
+          <l>הגורל היכה בי ולקח אותך ממני</l>
+          <l>רע לי וכואב לי שאת כבר לא איתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את הארת לי את הדרך כמו קרן אור</l>
+          <l>בלילות אפלים וקודרים משחור</l>
+          <l>את היית כל רגע פה לצידי</l>
+          <l>היום את אינך כאן אני שוב לבדי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איפה כל הימים שהבאת לי אושר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

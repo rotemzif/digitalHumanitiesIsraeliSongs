@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר אחר 7</title>
+        <singer classification="male singer">יוני בלוך</singer>
+        <writer>ברק פלדמן</writer>
+        <composer>יוני בלוך</composer>
+        <album>על מי אני עובד</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר אחר</head>
+        <lg number="1" type="stanza">
+          <l>לא מול הים</l>
+          <l>לא בבית או בגן</l>
+          <l>לא שיכור על הבר</l>
+          <l>לא באוהל במדבר</l>
+          <l>על ספסל ישן בערב מול ביתה</l>
+          <l>כדי לראות אותה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא זר פרחים</l>
+          <l>סלסלה עם תפוחים</l>
+          <l>לא כלבלב מפוחד</l>
+          <l>או ליקר עם שוקולד</l>
+          <l>הוא יושב מול חלוני על יד פסנתר</l>
+          <l>רק שיישאר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לו רק הייתי יכול </l>
+          <l>לו רק יכולתי לומר</l>
+          <l>לשאול אם אפשר לעלות </l>
+          <l>בוא תעלה אלי כבר</l>
+          <l>לא היינו יושבים כל הלילה</l>
+          <l>אני מחכה והוא לא לא מבין/והיא לא מבינה</l>
+          <l>אני מחכה והוא לא לא בא/והיא לא לא באה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא מגיבה</l>
+          <l>לא מקשיב לאף תשובה</l>
+          <l>לא רומזת לי לבוא</l>
+          <l>לא מרים את מבטו</l>
+          <l>יושב ומנגן לה שיר אחר</l>
+          <l>רק שיישאר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לו רק הייתי יכול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

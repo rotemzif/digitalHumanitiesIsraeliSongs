@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תחנה של זמן</title>
+        <singer classification="female singer">ריטה</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תחנה של זמן</head>
+        <lg number="1" type="stanza">
+          <l>והימים כמו מבוך לפני שמיים</l>
+          <l>ויש שמחה ויש כאב</l>
+          <l>הכל הכל זה רק עכשיו ורק בינתיים</l>
+          <l>את מחפשת מה שרואים רק עם הלב.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ובעצים ליד ביתך נושבת רוח</l>
+          <l>את מחכה שהיא תקרא ממש בשמך</l>
+          <l>כי את רוצה לעוף יותר מרוח</l>
+          <l>אבל אני, אני דואגת בשבילך.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כי העולם הוא רק תחנה של זמן</l>
+          <l>את מחפשת סודותיו בכל פינה</l>
+          <l>ומתפללת שתגלי אותם</l>
+          <l>רק שיהיה מי שישמע</l>
+          <l>רק שיהיה מי שישמע.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את מסתכלת על האופק בעיניים</l>
+          <l>ומרגישה שיש אי שם דבר אחר</l>
+          <l>את מנסה לתפוס לך נצח בידיים</l>
+          <l>אבל הזמן שלך חולף ועובר.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כי העולם הוא רק תחנה של זמן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

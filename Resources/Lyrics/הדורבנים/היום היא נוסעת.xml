@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היום היא נוסעת</title>
+        <singer classification="band">הדורבנים</singer>
+        <writer>גיא מזיג</writer>
+        <composer>גיא מזיג</composer>
+        <album>אחד אחרי השני</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היום היא נוסעת</head>
+        <lg number="1" type="stanza">
+          <l>ביום אפור, קפאה מקור</l>
+          <l>באיזה חור, נקרעת</l>
+          <l>היה קשה החליטה ש...</l>
+          <l>היום היא נוסעת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קנתה כרטיס אותה יטיס</l>
+          <l>לארץ משוגעת...</l>
+          <l>ואי אפשר, שתחזור בה כבר</l>
+          <l>היום היא נוסעת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אי אפשר לומר במילה</l>
+          <l>את כל האמת כולה</l>
+          <l>והיא מתגלגלת לעוד התחלה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל השידה במזוודה</l>
+          <l>אוחז ידה, נרתעת</l>
+          <l>בזמן מוגבל אל הנמל</l>
+          <l>היום היא נוסעת</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>דמעות על הז'ורנל בטרמינל</l>
+          <l>אני מגיע עד אליה</l>
+          <l>למצוא פתאום שאין עוד מקום</l>
+          <l>שלי בעיניה, אני לא יודע...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אי אפשר לומר במילה</l>
+          <l>את כל האמת כולה</l>
+          <l>והיא מתגלגלת לעוד התחלה</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>ביום אפור עוצר לזכור</l>
+          <l>איך נפש מתחברת</l>
+          <l>וכשנזכר, יודע כבר</l>
+          <l>שהיא לא חוזרת.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איתך לעד</title>
+        <singer classification="unknown">חזי פרץ</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>חזי פרץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איתך לעד</head>
+        <lg number="1" type="stanza">
+          <l>כוכב לבן לך מחייך</l>
+          <l>כשאת לי נותנת את ידך</l>
+          <l>נושם אותך אל תוך גופי הרועד</l>
+          <l>ומבטיח לך שלעולם לא ניפרד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הביטי אלי ותראי </l>
+          <l>אני מוסר לך את כל כולי</l>
+          <l>וחשוב לי שתדעי</l>
+          <l>אני תמיד איתך אהובתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גם ברגעים הכי קשים</l>
+          <l>אושיט לך את היד</l>
+          <l>ואז תרגישי שאת לא לבד</l>
+          <l>אני ואת זה כמו אחד</l>
+          <l>רוצה לחיות איתך לעד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>סביבנו ים של אנשים</l>
+          <l>פתאום נגמרו לי המילים</l>
+          <l>פוחד כל כך שזה לא אמיתי</l>
+          <l>הגידי לי מילה חבקי אותי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הביטי אלי ותראי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

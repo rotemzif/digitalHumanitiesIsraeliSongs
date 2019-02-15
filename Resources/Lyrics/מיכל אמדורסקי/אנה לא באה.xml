@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אנה לא באה</title>
+        <singer classification="female singer">מיכל אמדורסקי</singer>
+        <writer>מאיר גולדברג</writer>
+        <composer>אסף אמדורסקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אנה לא באה</head>
+        <lg number="1" type="stanza">
+          <l>אנה לא באה</l>
+          <l>בעיקר כשמחכים לה</l>
+          <l>ליד הדלת מגפיים</l>
+          <l>רק אחד מהם עומד</l>
+          <l>היא רואה והיא יודעת</l>
+          <l>שאלה מתאימים לה</l>
+          <l>כשהם נוגעים לה בברכיים</l>
+          <l>כל הגוף שלה רועד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אנה לא באה</l>
+          <l>כבר כמעט עבר החורף</l>
+          <l>התנור ירד לשניים</l>
+          <l>ואחר כך לאחד</l>
+          <l>היא לא יודעת</l>
+          <l>שבבית ריח קטורת</l>
+          <l>על השולחן יש משקפיים</l>
+          <l>וספל ריק בצד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אנה נה.. אנה נה נה....</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אנה לא באה</l>
+          <l>בלי אביב מגיע קיץ</l>
+          <l>בלי מילים יורד עוד ערב</l>
+          <l>והלילה שאיתו</l>
+          <l>היא לא שומעת</l>
+          <l>את קולות קירות הבית</l>
+          <l>כי כרגע יש לה גבר</l>
+          <l>ונעים לה בביתו</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אנה נה.. אנה נה נה....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

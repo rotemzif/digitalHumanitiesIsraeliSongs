@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את אתי</title>
+        <singer classification="unknown">דוד זוהר מלניק</singer>
+        <writer>גיא בוקאטי</writer>
+        <composer>דוד זוהר מלניק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את אתי</head>
+        <lg number="1" type="stanza">
+          <l>אני ואת בתוך האוטו,</l>
+          <l>השיר שלנו מתנגן.</l>
+          <l>חיוכים עפים בינינו,</l>
+          <l>את אתי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יודע שהכל בסדר,</l>
+          <l>עכשיו אפשר להירגע.</l>
+          <l>כבשים עכשיו חוצים את הדרך,</l>
+          <l>למדבר.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אלפי שקיעות ואלף אנשים,</l>
+          <l>לא תמיד מוצאים את הדרך.</l>
+          <l>רוצים לשכוח את מה שהם יודעים</l>
+          <l>ואת באוטו כבר נרדמת.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני פוחד קצת להגיד לך,</l>
+          <l>אבל אמרו את זה כולם.</l>
+          <l>רוצה לשאול התינשאי לי?</l>
+          <l>לעולם?</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אלפי שקיעות ואלף אנשים,</l>
+          <l>לא תמיד מוצאים את הדרך.</l>
+          <l>רוצים לשכוח את מה שהם יודעים</l>
+          <l>ואת באוטו כבר נרדמת.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

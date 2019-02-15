@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמש אדומה</title>
+        <singer classification="female singer">גלי עטרי</singer>
+        <writer>שמרית אור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמש אדומה</head>
+        <lg number="1" type="stanza">
+          <l>איך מלאו מיליון שנה</l>
+          <l>ועם שחר היא כה רעננה</l>
+          <l>מבטה מצטעף כשחולפת עננה</l>
+          <l>כאישה המתיפיפת בחינה -</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שטה, שטה לה מעל</l>
+          <l>ברקיע הרם, המעוגל</l>
+          <l>כאישה חשוקה היא תמיד שאננה</l>
+          <l>היא נמצאת אי שם אפילו כשאינה -</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>היא עולה ועולה</l>
+          <l>עגולה וגדולה</l>
+          <l>ובלהט אש תלהיב את השמיים -</l>
+          <l>אדומה, אדומה</l>
+          <l>והיא חמה, כה חמה,</l>
+          <l>אל מרכבת להבה היא רתומה -</l>
+          <l>המלכה החמה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ועם רדת, רדת יום</l>
+          <l>על שטיח עטור זהב אדום</l>
+          <l>כאישה עייפה היא נוטה ראשה פתאום -</l>
+          <l>היא שוקעת והלהט בא עד תום.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>היא עולה ועולה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

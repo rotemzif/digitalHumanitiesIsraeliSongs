@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חידות 2</title>
+        <singer classification="female singer">שולה חן</singer>
+        <writer>נעמי שמר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חידות</head>
+        <lg number="1" type="stanza">
+          <l>נתתי דובדבן לה ללא חרצן</l>
+          <l>נתתי לה אפרוח ללא נוצה</l>
+          <l>נתתי לה טבעת שסוף לה אין</l>
+          <l>נתתי לה תינוק שאינו בוכה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הו, איזה מן דובדבן הוא בלי חרצן?</l>
+          <l>הו, איזה מן אפרוח ללא נוצה?</l>
+          <l>הו, איזו מן טבעת שסוף לה אין</l>
+          <l>ואיזה מן תינוק שאינו בוכה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הדובדבן פורח ללא חרצן</l>
+          <l>אפרוח מתבקש ללא נוצה</l>
+          <l>טבעת מתגלגלת - אין סוף לה</l>
+          <l>וכל תינוק שותק לו כשהוא ישן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

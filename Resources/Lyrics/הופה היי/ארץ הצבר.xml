@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ארץ הצבר</title>
+        <singer classification="unknown">הופה היי</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>עוזי חיטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ארץ הצבר</head>
+        <lg number="1" type="stanza">
+          <l>ארץ ושמיים ירק ומדבר</l>
+          <l>ליד מגדל של מים בין שבילי עפר</l>
+          <l>שם אני נולדתי, שם ליבי נשבר</l>
+          <l>ביום שבו לקחו לי את ארץ הצבר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היתה או לא היתה,</l>
+          <l>אני עוד חי איתה</l>
+          <l>תחזירו לי אותה -</l>
+          <l>כמו שהיא היתה.</l>
+          <l>היתה או לא היתה,</l>
+          <l>אני עוד חי איתה</l>
+          <l>תחזירו לי אותה -</l>
+          <l>את ארץ הצבר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כובע טמבל חאקי, פוני ותלתל</l>
+          <l>גזוז חמוץ מתוק, עמוד אחד חשמל</l>
+          <l>סרט ופלאפל, בקושי חצי מיל</l>
+          <l>חלב בתוך בקבוק כל בוקר כרגיל.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היתה או לא היתה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>קיפקא וטיארה מעל צמרות ברושים</l>
+          <l>בן לוקח בת בערב יום שישי</l>
+          <l>גוגואים ודודס, יו יו, מחבואים</l>
+          <l>היינו "ילדודס" ולא סתם ילדים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>היתה או לא היתה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

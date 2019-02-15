@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלוקיי</title>
+        <singer classification="unknown">רמי פז</singer>
+        <writer>ישי ויסמן</writer>
+        <composer>עממי טורקי</composer>
+        <album>המלאך השומר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלוקיי</head>
+        <lg number="1" type="stanza">
+          <l>כל חיי ידעתי אכזבה, </l>
+          <l>בליבי אני נושא תפילה קטנה</l>
+          <l>תן לי קצת אושר ושמחה</l>
+          <l>אלוקיי, אלוקיי, אלוקיי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלוקיי אל תעזבני, בידך אנא חזקני</l>
+          <l>לעולם אל תשליכני, אלוקים</l>
+          <l>בחיי אני יודע, הכאב אותי קורע</l>
+          <l>לבדי אני דומע, אלוקים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני רוצה להשתנות</l>
+          <l>וללכת בדרכים טובות</l>
+          <l>איך אוכל לשכוח מהצרות?</l>
+          <l>אלוקיי, אלוקיי, אלוקיי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלוקיי אל תעזבני...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם אלך בדרך הישרה</l>
+          <l>זאת רק בעתיד, אני אדע</l>
+          <l>מקווה שלא יהיה לי רע</l>
+          <l>אלוקיי, אלוקיי, אלוקיי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אלוקיי אל תעזבני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

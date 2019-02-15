@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קינת הטוחן</title>
+        <singer classification="male singer">שייקה לוי</singer>
+        <writer>אברהם שלונסקי</writer>
+        <composer>דובי זלצר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קינת הטוחן</head>
+        <lg number="1" type="stanza">
+          <l>שבת גלגל על נחל מים </l>
+          <l>נדם קולם של הריחים </l>
+          <l>נשם ביתו של הטוחן </l>
+          <l>של הטוחן </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבוי בתי, איכה נמהרתי </l>
+          <l>איכה למלך רם שיקרתי </l>
+          <l>אבוי בתי, אבוי בתי </l>
+          <l>אבוי בתי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>העוד אזכה ויום יגיע </l>
+          <l>לשוב הבת לבית אביה </l>
+          <l>או לעולם אשב בדד </l>
+          <l>אשב בדד </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבוי בתי, איכה נמהרתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

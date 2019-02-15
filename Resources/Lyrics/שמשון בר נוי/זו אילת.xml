@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זו אילת</title>
+        <singer classification="male singer">שמשון בר נוי</singer>
+        <writer>יהודה כרמל</writer>
+        <composer>יהודה כרמל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זו אילת</head>
+        <lg number="1" type="stanza">
+          <l>עוד בימי מלוך המלך שלמה בן דוד,</l>
+          <l>התנשאה כבר העיר לתפארת,</l>
+          <l>עתיקות המקום, נשארו להעיד,</l>
+          <l>לדורות הבאים כמזכרת.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זו אילת, זו אילת,</l>
+          <l>שערה הדרומי של ארצנו.</l>
+          <l>זו אילת, זו אילת,</l>
+          <l>נחדש בה כקדם ימינו.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אניות שהגיעו משבא ואופיר,</l>
+          <l>עמוסות בזהב ובבושם,</l>
+          <l>הן פרקו מטענן, בחופה של העיר,</l>
+          <l>ובזכות הנמל בא החוסן.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זו אילת, זו אילת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אניות תעזובנה חופך בברכה,</l>
+          <l>עמוסות במטען רב הערך,</l>
+          <l>ספנים יספרו בשיבחה של אומה,</l>
+          <l>שפתחה אלי ים את הדרך.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זו אילת, זו אילת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

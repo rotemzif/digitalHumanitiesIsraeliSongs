@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוברת אורח</title>
+        <singer classification="unknown">ענת עצמון</singer>
+        <writer>מיכל ורד</writer>
+        <composer>ירוסלב יעקובוביץ'</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוברת אורח</head>
+        <lg number="1" type="stanza">
+          <l>כשהגעת אל חיי </l>
+          <l>הייתי לא מוגנת, </l>
+          <l>מסתתרת בפינה </l>
+          <l>בבואך אל חדרי. </l>
+          <l>הייתי מתבוננת, </l>
+          <l>איך משתנים להם חיי. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לו אמרת די, לו אמרת בואי, </l>
+          <l>כנסי אל חיי, כנסי אל חיי. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הזדמנת אל חיי, </l>
+          <l>מבקשת לא לבטוח. </l>
+          <l>נעלמת בחשאי... </l>
+          <l>עוד מחפש לי מקלט. </l>
+          <l>אוספת כוח, </l>
+          <l>מרחיקה את המיותר. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לו אמרת די... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בחייך אין אני, </l>
+          <l>כי אם עוברת אורח </l>
+          <l>משלימה את התמונה, </l>
+          <l>מפסלת את חיי. </l>
+          <l>מנסה לשכוח </l>
+          <l>איך אהבנו בחשאי </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לו אמרת די...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

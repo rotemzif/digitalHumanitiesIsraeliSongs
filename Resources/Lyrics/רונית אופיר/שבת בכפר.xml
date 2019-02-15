@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שבת בכפר 2</title>
+        <singer classification="female singer">רונית אופיר</singer>
+        <writer>מתתיהו שלם</writer>
+        <composer>מתתיהו שלם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שבת בכפר</head>
+        <lg number="1" type="stanza">
+          <l>נטו צללים על פני הגבעות,</l>
+          <l>ימות החול חלפו, עברו.</l>
+          <l>הרחק הרחק נצתו נגוהות,</l>
+          <l>כוכבי שבת מה יפו, נהדרו:</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יום שבת, יום מנוחה, בארץ הברוכה.</l>
+          <l>שבתון!</l>
+          <l>לבשו הדר פני הכפר ביום השבת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שלוות השקט בניר בשדה.</l>
+          <l>המחרשה תדם, תנוח.</l>
+          <l>בגן בחרש, זמר תועה,</l>
+          <l>נגון שבת אל היקום שלוח.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יום שבת ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

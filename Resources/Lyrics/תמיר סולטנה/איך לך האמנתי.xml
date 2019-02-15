@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך לך האמנתי</title>
+        <singer classification="unknown">תמיר סולטנה</singer>
+        <writer>תמיר סולטנה</writer>
+        <composer>תמיר סולטנה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך לך האמנתי</head>
+        <lg number="1" type="stanza">
+          <l>איך בך התאהבתי איך בך האמנתי</l>
+          <l>למה את משחקת איתי במשחקים</l>
+          <l>ברגשותי את שולטת יפהפיה מהלכת</l>
+          <l>מופיעה ונעלמת שיגעת לי את החיים</l>
+          <l>אלייך מתגעגע חושב ומשתגע</l>
+          <l>קשה לי בלעדייך היא עזבה אותי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך ילדה בך התאהבתי</l>
+          <l>אלוקים אוף מה היא עשתה לי</l>
+          <l>ברגשות שלי משחקת די שיגעת אותי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ימים לך חיכיתי בלילה לך שרתי</l>
+          <l>לי אמרת שאוהבת פתאום נעלמת לי</l>
+          <l>היא כזאת משגעת אני פשוט מת עליה</l>
+          <l>אם תאמרי שאת אוהבת תהיי מלכה שלי</l>
+          <l>אני כאן מחכה לך,לך קטפתי עוד פרח</l>
+          <l>מתפלל לאור ירח שתהיי שלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך ילדה בך התאהבתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

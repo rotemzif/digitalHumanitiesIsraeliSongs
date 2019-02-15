@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הרגש הנכון</title>
+        <singer classification="unknown">לימור טובים</singer>
+        <writer>רחל שפירא</writer>
+        <composer>יזהר כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הרגש הנכון</head>
+        <lg number="1" type="stanza">
+          <l>אולי זה הזמן והמקום</l>
+          <l>אולי תגובה ספונטנית </l>
+          <l>הרגש הנכון</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אולי זה טיבה של הסביבה</l>
+          <l>אולי זו הגיטרה בשיר האהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אולי זה </l>
+          <l>קצב מסוים</l>
+          <l>רגע שתוכנן</l>
+          <l>ככה מזמן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמו שהדברים נראים בינינו</l>
+          <l>תמה לה עונת המשחקים</l>
+          <l>אם בלש חובב ישקיף עלינו</l>
+          <l>עד סוף היום ימצא אותנו חבוקים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אולי זו מחווה של החיים</l>
+          <l>שמשדרים לפתע </l>
+          <l>השניים ראויים</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אולי זה אתה ורק אתה </l>
+          <l>אולי זה השטיח לדרך ארוכה</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אולי זה קצב מסוים</l>
+          <l>רגע שתוכנן ככה מזמן</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>כמו שהדברים נראים בינינו</l>
+          <l>תמה לה עונת המשחקים</l>
+          <l>אם בלש חובב ישקיף עלינו</l>
+          <l>עד סוף היום ימצא אותנו חבוקים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

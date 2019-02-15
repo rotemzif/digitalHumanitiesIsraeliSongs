@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד שאמצא אותך</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>עוזי חיטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד שאמצא אותך</head>
+        <lg number="1" type="stanza">
+          <l>עד שאמצא אותך לא אהיה שקט</l>
+          <l>גם אם אצטרך לעבור חצי עולם</l>
+          <l>עד שאמצא אותך לא אהיה שליו</l>
+          <l>אחפש עד שאגיע אל האושר המושלם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הו למה אלוהים אני רוצה את זאת שאיננה</l>
+          <l>ועם זאת שלידי אני מרגיש כבול</l>
+          <l>ולמה אלוהים אני רחוק ממנה</l>
+          <l>מזאת שתגלה לי את גן העדן הנעול</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עד שאמצא אותך לא אהיה שליו</l>
+          <l>גם אם אצטרך לעבור את החיים</l>
+          <l>עד שאמצא אותך</l>
+          <l>משהו בלב מתפורר לי בגופי</l>
+          <l>ומרסק אותי בפנים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הו למה אלוהים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

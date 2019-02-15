@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>על אנשים</title>
+        <singer classification="male singer">שלמה ארצי</singer>
+        <writer>שלמה ארצי</writer>
+        <composer>שלמה ארצי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>על אנשים</head>
+        <lg number="1" type="stanza">
+          <l>אדם צעיר אדם יפה</l>
+          <l>סיגריה בזווית הפה</l>
+          <l>חיוך של מסטיק</l>
+          <l>וציפורים בראש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>על אנשים ברחוב</l>
+          <l>על אנשים ברחוב</l>
+          <l>על אנשים ברחוב</l>
+          <l>שהם אינם דומים</l>
+          <l>לאף אחד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שיער גולש שיער ארוך</l>
+          <l>ומן חיוך כזה נבוך</l>
+          <l>זיפי זקן על הפנים</l>
+          <l>ומוזיקה בלב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>על אנשים ברחוב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אדם פשוט אדם יבש</l>
+          <l>חוזר ברבע לחמש</l>
+          <l>ללא חיוך אחד נוסף</l>
+          <l>בחליפה כהה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>על אנשים ברחוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה אתה אומר</title>
+        <singer classification="male singer">עברי לידר</singer>
+        <writer>נועם חורב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה אתה אומר</head>
+        <lg number="1" type="stanza">
+          <l>מה אתה אומר אולי נקום ונברח </l>
+          <l>ניקח תזמן נשכב על הגב רק שנינו</l>
+          <l>מה אתה אומר אולי נשכח מהכול</l>
+          <l>נמצא קצת ודאות נפסיק כבר לשאול בינינו</l>
+          <l>מה אתה אומר אולי נאהב כמו טיפשים</l>
+          <l>בלי מחשבות בלי רעשים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ונעוף נצא כבר מהגוף</l>
+          <l>אתה הרי אלוף בלמצוא סיבות להתעצב</l>
+          <l>אולי היום תתחיל פתאום לנשום</l>
+          <l>תמצא לי מקום ותעיז להתקרב אולי</l>
+          <l>ותעיז להתקרב אליי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה אתה אומר אולי נשתוק ליום שלם</l>
+          <l>הרי גם על מילים גדולות צריך לשלם ביוקר</l>
+          <l>מה אתה אומר אולי נלך לישון מוקדם</l>
+          <l>נקום כמו חדשים נראה את העולם בבוקר</l>
+          <l>מה אתה אומר אולי נקרע את הבגדים</l>
+          <l>נבכה כמו ממטרות ונצחק כמו ילדים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ונעוף נצא כבר מהגוף</l>
+          <l>אתה הרי אלוף בלמצוא סיבות להתעצב</l>
+          <l>אולי היום תתחיל פתאום לנשום</l>
+          <l>תמצא לי מקום ותעיז להתקרב אולי</l>
+          <l>ותעיז להתקרב אליי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכל כאן</title>
+        <singer classification="male singer">עמיר לב</singer>
+        <writer>עמיר לב</writer>
+        <composer>עמיר לב</composer>
+        <album>הכל כאן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכל כאן</head>
+        <lg number="1" type="stanza">
+          <l>קחי אותי איתך יש מקום </l>
+          <l>כל הלילה דיברתי עם עצמי</l>
+          <l>האורחים שהזמנתי גמרו לנו את היום </l>
+          <l>כמה אפשר לשמוע את הסיפורים שלי </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קחי אותי שלא נפסיד את הסתיו </l>
+          <l>רק עם הרוח בלי מילים    </l>
+          <l>הג'ינס והטריקו חוזרים עכשיו </l>
+          <l>דמעות בגרון שמיים אפורים </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>המלחמה תפסה אותי לא מוכן</l>
+          <l>עמדתי מול מה שנראה קטן</l>
+          <l>קמת מוקדם נרדמתי מאוחר</l>
+          <l>לא טעמת כלום והייתי רעב</l>
+          <l>כמעט הכל נגמר בלי לשים לב</l>
+          <l>זה לא שם אמרת</l>
+          <l>הכל כאן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>קחי אותי מהגברים המצליחים </l>
+          <l>כבוד בבנק מקומות שמורים </l>
+          <l>ואני אשכב איתך לישון מוקדם </l>
+          <l>צוואר על יד </l>
+          <l>חלונות פתוחים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>המלחמה תפסה אותי לא מוכן</l>
+          <l>עמדתי מול מה שנראה קטן</l>
+          <l>קמת מוקדם נרדמתי מאוחר</l>
+          <l>לא טעמת כלום והייתי רעב</l>
+          <l>כמעט הכל נגמר בלי לשים לב</l>
+          <l>זה לא שם אמרת</l>
+          <l>הכל כאן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

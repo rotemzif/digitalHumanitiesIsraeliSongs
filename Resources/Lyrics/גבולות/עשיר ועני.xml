@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עשיר ועני</title>
+        <singer classification="unknown">גבולות</singer>
+        <writer>עמית שמואל</writer>
+        <composer>עמית שמואל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עשיר ועני</head>
+        <lg number="1" type="stanza">
+          <l>עשיר יכול להיות שקרן ולהיות ראש עיר</l>
+          <l>עשיר יכול להיות פחדן ולהיות אביר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבל עני תמיד נשאר עני תמיד נשאר עני</l>
+          <l>עני תמיד נשאר עני נשאר עני</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עשיר יכול להיות שחור ופתאום בהיר</l>
+          <l>עשיר יכול להיות ביישן ופתאום יהיר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבל עני תמיד נשאר עני תמיד נשאר עני</l>
+          <l>עני תמיד נשאר עני נשאר עני</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בושה לא סולחת, רעב לא מרפה</l>
+          <l>מהפח אל הפחת, מהפח אל הפה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>עשיר יכול להיות עצלן עם עתיד מזהיר</l>
+          <l>עשיר יכול להיות זייפן ובכל זאת לשיר</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אבל עני תמיד נשאר עני תמיד נשאר עני</l>
+          <l>עני תמיד נשאר עני נשאר עני</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

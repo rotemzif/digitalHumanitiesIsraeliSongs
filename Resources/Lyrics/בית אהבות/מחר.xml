@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחר 9</title>
+        <singer classification="unknown">בית אהבות</singer>
+        <writer>רועי טרגן</writer>
+        <composer>רועי טרגן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחר</head>
+        <lg number="1" type="stanza">
+          <l>מחר אולי אלך לשפת הים </l>
+          <l>אשכב לי על החול החם </l>
+          <l>אקשיב לציפורים </l>
+          <l>אשתכשך בין הגלים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עכשיו אני לוקח פסק זמן </l>
+          <l>השמש כבר קרובה לים </l>
+          <l>רוצה להיות לבד </l>
+          <l>לחשוב בלי אף אחד </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>טו... טו... טו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין זה משנה</title>
+        <singer classification="unknown">הבנות נחמה</singer>
+        <writer>קרולינה</writer>
+        <composer>קרולינה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין זה משנה</head>
+        <lg number="1" type="stanza">
+          <l>בשם השם אלוהי ישראל</l>
+          <l>מימיני מיכאל</l>
+          <l>משמאלי גבריאל</l>
+          <l>מלפני אוריאל</l>
+          <l>מאחורי רפלא</l>
+          <l>ומעל ראשי שכינת אל</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אין זה משנה</l>
+          <l>כל עוד עצמינו נאהב</l>
+          <l>כל עוד</l>
+          <l>אין זה משנה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כאן לבד 2</title>
+        <singer classification="unknown">לירן אביב</singer>
+        <writer>גילי זכאי</writer>
+        <composer>גילי זכאי</composer>
+        <album>עכשיו תורי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כאן לבד</head>
+        <lg number="1" type="stanza">
+          <l>אז הייתי הכל בשבילך </l>
+          <l>ועכשיו את כל כך רחוקה לי </l>
+          <l>אז היה לי מקום בליבך </l>
+          <l>ועכשיו את פתאום לא עונה לי </l>
+          <l>מה עשיתי שכל כך פגע בך </l>
+          <l>גרם לך כאב </l>
+          <l>אם אמרתי מילה שעשתה לך </l>
+          <l>רע בתוך הלב.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תשקרי לי כאן לבד לא בריא לי </l>
+          <l>אז תבואי תראי לי שאת עוד שלי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה מדליק את האור בתוכך </l>
+          <l>כל דבר אעשה רק תגידי </l>
+          <l>איך אגרום לך לחזור לחייך </l>
+          <l>ולומר שתמיד כאן תהיי לי </l>
+          <l>אף אחד לא מושלם את יודעת </l>
+          <l>גם לא את ואני </l>
+          <l>אבל אם את בכל זאת שומעת </l>
+          <l>מאמי אל תלכי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תשקרי לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

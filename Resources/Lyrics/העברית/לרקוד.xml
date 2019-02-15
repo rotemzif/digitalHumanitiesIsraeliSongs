@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לרקוד 6</title>
+        <singer classification="unknown">העברית</singer>
+        <writer>ערן פרץ</writer>
+        <composer>אורון שרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לרקוד</head>
+        <lg number="1" type="stanza">
+          <l>איך שלא נרצה אני שוב יושב לי לבד כאן </l>
+          <l>איך שלא נביט לזריחה שוב זה שקט אחר מוכר שם </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תבטיחי לי תמיד </l>
+          <l>שתרצי לרקוד איתי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואז היא אומרת לי </l>
+          <l>איבדתי עניין בך </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תני לי להרגיש שאני האחד בשבילך </l>
+          <l>את עומדת לבדך שם הוא מביט בך כמו משוגע </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תבטיחי לי תמיד </l>
+          <l>שתרצי לרקוד איתי </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ואז היא אומרת לי </l>
+          <l>איבדתי עניין בך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

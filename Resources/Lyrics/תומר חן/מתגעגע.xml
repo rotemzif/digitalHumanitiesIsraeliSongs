@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתגעגע 24</title>
+        <singer classification="male singer">תומר חן</singer>
+        <writer>תומר חן</writer>
+        <composer>תומר חן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתגעגע</head>
+        <lg number="1" type="stanza">
+          <l>לבדי בחדרי אני יושב</l>
+          <l>ובתוך ליבי ריקנות ועצב</l>
+          <l>אבד היקר לי</l>
+          <l>כמה בנשמה את חסרה לי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מתגעגע אלייך אהובה</l>
+          <l>לא רק ידעת כמה את חשובה</l>
+          <l>מתגעגע ואין בליבי מנוח</l>
+          <l>כי אותך קשה כול כך לשכוח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלב זקוק לחום ליבך</l>
+          <l>חסר לי כול כך מגע ידך</l>
+          <l>אם את שומעת את קולי</l>
+          <l>שובי נא אהובתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מתגעגע אלייך אהובה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמלת כלולות 2</title>
+        <singer classification="female singer">רינת בר</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>שי ראובני</composer>
+        <album>חיכיתי לך / אלבום חפלה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמלת כלולות</head>
+        <lg number="1" type="stanza">
+          <l>בשמלת כלולות לבנה</l>
+          <l>אני ניצבת מולך</l>
+          <l>נשיקה אחת מתוקה</l>
+          <l>אני שולחת לך</l>
+          <l>ומאושרת כל כך</l>
+          <l>ומתרגשת כל כך</l>
+          <l>ומקודשת לך</l>
+          <l>ומבקשת לך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שהאל הטוב ישמור אותך</l>
+          <l>ויאיר לך את דרכך</l>
+          <l>שאחיה תמיד כאן בשבילך</l>
+          <l>יחד במקדש אהבתך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>במבט מלא אהבה</l>
+          <l>אני נסחפת איתך</l>
+          <l>בגופי בכל נשימה</l>
+          <l>אני אוהבת אותך</l>
+          <l>ומאושרת כל כך</l>
+          <l>ומתרגשת כל כך</l>
+          <l>ומקודשת לך</l>
+          <l>ומבקשת לך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שהאל הטוב ישמור אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

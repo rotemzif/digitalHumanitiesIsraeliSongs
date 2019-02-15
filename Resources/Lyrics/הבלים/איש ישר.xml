@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איש ישר</title>
+        <singer classification="unknown">הבלים</singer>
+        <writer>נרי לנצ'נר</writer>
+        <composer>נרי לנצ'נר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איש ישר</head>
+        <lg number="1" type="stanza">
+          <l>על קו הזמן - שוק הבשר </l>
+          <l>על הצלב - איש ישר </l>
+          <l>זאת השפיות והעיקר הנייר </l>
+          <l>למעלה אש בוערת </l>
+          <l>למטה אדמה קוברת </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואז תראו אותי כאן </l>
+          <l>כבר לא שבוי של הזמן </l>
+          <l>העיר כולה הבלים </l>
+          <l>המלך והליצן רוקדים על קצה השולחן </l>
+          <l>והשמיים כחולים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>על קו הזמן - שוק הבשר </l>
+          <l>על הצלב - איש ישר </l>
+          <l>זאת השפיות והעיקר הנייר </l>
+          <l>אם גם אני הייתי </l>
+          <l>אני אצעק בעיר טעיתי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואז תראו אותי כאן... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>...זה הסיפור הוא תמיד לא סגור </l>
+          <l>הוא תמיד בין כחול לאדום </l>
+          <l>אם הסוף לא ברור </l>
+          <l>אם נכון או אסור </l>
+          <l>תעלה התשובה בחלום</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

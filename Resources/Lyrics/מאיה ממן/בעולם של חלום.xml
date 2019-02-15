@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בעולם של חלום</title>
+        <singer classification="female singer">מאיה ממן</singer>
+        <writer>סמואל בלאכר</writer>
+        <composer>סמואל בלאכר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בעולם של חלום</head>
+        <lg number="1" type="stanza">
+          <l>אומרים שהכאב עובר,</l>
+          <l>ההגיון צועק להתעלם,</l>
+          <l>אבל הרגש חוזר,</l>
+          <l>מתעקש להציף</l>
+          <l>והלב בי שוב דוהר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זה קשה לי</l>
+          <l>ואולי רק נדמה לי שיש סיכוי,</l>
+          <l>שזה לא הזוי.</l>
+          <l>אם יש עוד מצב שנחזור ונאהב אז</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>נבעיר את האש שתלהט כל הלילה,</l>
+          <l>נבעיר את האש גם באמצע היום.</l>
+          <l>נחזור, נתרגש וניקח את זה הלאה,</l>
+          <l>נפליג ללא סוף בעולם של חלום.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בזהב של זריחות רבות</l>
+          <l>לחשנו שנינו שזה לא ידעך</l>
+          <l>ומתחת שמיכה בלילות</l>
+          <l>זה היה כמו חלום,</l>
+          <l>אולי אפשר שעוד יפרח.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה קשה לי...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>נבעיר את האש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

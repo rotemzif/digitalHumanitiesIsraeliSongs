@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלילה לטיילת</title>
+        <singer classification="band">רביעיית הטיילת</singer>
+        <writer>יוסי גמזו</writer>
+        <composer>רפי בן משה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלילה לטיילת</head>
+        <lg number="1" type="stanza">
+          <l>רוצה איתך הלילה לטיילת.</l>
+          <l>רוצה איתך הלילה אל החול.</l>
+          <l>רוצה להתפנק איתך, כילד,</l>
+          <l>בתוך סינור החושך הכחול...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נשב, ילדה, המים רגועים</l>
+          <l>ובאוויר - ריחות געגועים...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רוצה לשאת ביד את סנדלייך.</l>
+          <l>רוצה לרוץ בשניים, יחפים.</l>
+          <l>רוצה ללחוש עם כל גלי המיים</l>
+          <l>את שמך - את שמך באזניהם של הצדפים...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נשב, ילדה, המים רגועים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רוצה לנשום אשמורת מאוחרת.</l>
+          <l>רוצה לשמוע איך הים פועם.</l>
+          <l>ואיך ליבי עונה לו חרש חרש,</l>
+          <l>ואיך עולים שניהם על גדותיהם...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>נלך, ילדה, המים כבר גואים</l>
+          <l>ועוד מעט נוצף געגועים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

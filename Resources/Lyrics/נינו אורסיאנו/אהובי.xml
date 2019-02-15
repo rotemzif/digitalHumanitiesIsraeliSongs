@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהובי 6</title>
+        <singer classification="male singer">נינו אורסיאנו</singer>
+        <writer>נינו אורסיאנו</writer>
+        <composer>נינו אורסיאנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהובי</head>
+        <lg number="1" type="stanza">
+          <l>אהובי </l>
+          <l>פתח את הלב שלך </l>
+          <l>בשבילי אתה מנגן </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אהובי </l>
+          <l>הקרח מפשיר לאט </l>
+          <l>מתרכח וזה אמיתי. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עוד תשאר לאהוב </l>
+          <l>מה תרצה לדעת </l>
+          <l>להרגיש קרוב </l>
+          <l>אל תעזוב </l>
+          <l>כשהשמש שוקעת </l>
+          <l>עמוק בתוך ליבי. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אהובי </l>
+          <l>הסודות שלחשת לי </l>
+          <l>נשמרים, אנ'לא אגלה. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אהובי </l>
+          <l>כשתעזוב אותי </l>
+          <l>לא אגיד שתישאר. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עוד תשאר לאהוב </l>
+          <l>מה תרצה לדעת </l>
+          <l>להרגיש קרוב </l>
+          <l>אל תעזוב </l>
+          <l>כשהשמש שוקעת </l>
+          <l>עמוק בתוך ליבי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

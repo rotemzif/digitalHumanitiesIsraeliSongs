@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זמר מהדהד</title>
+        <singer classification="male singer">משה הלל</singer>
+        <writer>משה הלל</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זמר מהדהד</head>
+        <lg number="1" type="stanza">
+          <l>בטיילי שם בין צוקים, בין הרי האלפים,</l>
+          <l>פגשתי נערה משוטטת לה בין צוקים</l>
+          <l>וכשקרבתי היא אמרה לי, עלם כה נחמד</l>
+          <l>יש תורה קוראים לה יודיל ואותה תלמד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נסה נא את היודיל, יודלה הידי,</l>
+          <l>יודלה הידי, יודלה הידי</l>
+          <l>נסה נא את היודיל, יודלה הידי יה אי,</l>
+          <l>יודלה הידי, אולה הידי</l>
+          <l>יולה הידי...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וכך עברו שעות ובין צוקים אנו שרים </l>
+          <l>וקולנו המסולסל עונה ממרחקים,</l>
+          <l>זו היא התורה שלפניכם אותה אגיש</l>
+          <l>היא תורה פשוטה ומתאימה גם לכל איש.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נסו נא את היודיל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

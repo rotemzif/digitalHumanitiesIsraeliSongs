@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סמל השלמות</title>
+        <singer classification="unknown">ליאור מור</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סמל השלמות</head>
+        <lg number="1" type="stanza">
+          <l>זוג עינייך מתוקות, ובשפתייך מאוהב</l>
+          <l>שתיי גומות של חן, וים של תלתלי זהב</l>
+          <l>אני מביט בך ונכנע לך, בקלי קלות</l>
+          <l>את לא יודעת שבשבילי את, סמל השלמות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש לך יופי משגע</l>
+          <l>שחודר אל הנשמה </l>
+          <l>ואין עוד יפה כמוך על פני האדמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את שולחת בי מבט, אותי אלייך הוא מושך</l>
+          <l>כמו בים עמוק, אני שוקע ביופייך</l>
+          <l>אני מביט בך ונכנע לך, בקלי קלות</l>
+          <l>את לא יודעת שבשבילי את, סמל השלמות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש לך יופי משגע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

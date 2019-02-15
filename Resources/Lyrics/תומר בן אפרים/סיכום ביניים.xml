@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סיכום ביניים</title>
+        <singer classification="unknown">תומר בן אפרים</singer>
+        <writer>תומר בן אפרים</writer>
+        <composer>תומר בן אפרים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סיכום ביניים</head>
+        <lg number="1" type="stanza">
+          <l>על האמת האחת שחיפשתי, </l>
+          <l>זו שבשורשי כל הדברים. </l>
+          <l>על הכבוד, העוצמה, שביקשתי, </l>
+          <l>על כולם אשב שבעה ימים. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>השמיים מתקדרים, </l>
+          <l>מבשרים העיתונים, </l>
+          <l>סופה גדולה מגיעה. </l>
+          <l>החיים הם חזקים, </l>
+          <l>מרגיעים הפרשנים, </l>
+          <l>נשרוד, נבליג, נבלע. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל השנאות, הקנאות, שטיפחתי, </l>
+          <l>כל המחלוקות והריבים. </l>
+          <l>כל אהבות האמת שהחמצתי, </l>
+          <l>הם הולכים עכשיו ונמוגים. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>השמיים מתקדרים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

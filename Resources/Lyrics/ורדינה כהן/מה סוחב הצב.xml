@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה סוחב הצב</title>
+        <singer classification="female singer">ורדינה כהן</singer>
+        <writer>אורלי בינדר</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה סוחב הצב</head>
+        <lg number="1" type="stanza">
+          <l>מה סוחב הצב? בית על הגב. </l>
+          <l>מה סוחב הצב? בית על הגב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בשריון חזק </l>
+          <l>עומד בגן ירק.</l>
+          <l>וכשחש בסכנה,</l>
+          <l>ראשו מכניס מיד, </l>
+          <l>ממתין כך בגינה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מה סוחב הצב? בית על הגב. </l>
+          <l>מה סוחב הצב? בית על הגב.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מוציא ראשו בודק, </l>
+          <l>מי שם מתרחק,</l>
+          <l>וכשחולפת סכנה </l>
+          <l>מוציא הראש לאט </l>
+          <l>מטייל שוב בגינה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מה סוחב הצב? בית על הגב. </l>
+          <l>מה סוחב הצב? בית על הגב.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מה סוחב הצב? בית על הגב.</l>
+          <l>הוא לא ממהר כי השריון עליו.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

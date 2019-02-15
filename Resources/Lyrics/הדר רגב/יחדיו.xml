@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יחדיו</title>
+        <singer classification="unknown">הדר רגב</singer>
+        <writer>ציפי רגב</writer>
+        <composer>נינו אורסיאנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יחדיו</head>
+        <lg number="1" type="stanza">
+          <l>יחדיו גדלנו, יחדיו בגרנו, </l>
+          <l>הבאנו משפחה ועכשיו חמישה. </l>
+          <l>יחדיו גדלנו, יחדיו בגרנו, </l>
+          <l>הבאנו משפחה ועכשיו חמישה. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ימים של שמחה, ימים של עצבות, </l>
+          <l>ימים של אהבה מלאה בשמחה, </l>
+          <l>יד ביד ביחד, אל העתיד נצעד. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נחתן ת'ילדים, נכדים ונכדות, </l>
+          <l>נצא לטייל בשדות. </l>
+          <l>בערב נשב על ספסל בשדרה, </l>
+          <l>נסתכל בנוסטלגיה, על העבר הרחוק. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ימים של שמחה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

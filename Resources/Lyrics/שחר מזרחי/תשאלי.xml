@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תשאלי</title>
+        <singer classification="unknown">שחר מזרחי</singer>
+        <writer>שחר מזרחי</writer>
+        <composer>שחר מזרחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תשאלי</head>
+        <lg number="1" type="stanza">
+          <l>זה לא עוד שיר</l>
+          <l>שכתבו על אהבה מטורפת</l>
+          <l>וזה לא שאני מבקש שתהיי שוב אוהבת</l>
+          <l>לא רוצה שתסלחי לי גם לא תחזרי</l>
+          <l>כי כמה עוד אני יאמר לך ואת לא תתייחסי</l>
+          <l>לא מגיע לך אהבה כמו שלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תשאלי כל אדם יספר לך כמה אהבתי</l>
+          <l>אף אחד בעולם לא יוכל להסביר לך</l>
+          <l>אז לא אכתוב לך ולא אשיר לך יותר עוד לעולם</l>
+          <l>שיהיה לך רק טוב אני ממשיך בדרכי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל מה שקיבלת ממני אף פעם לא החזרת</l>
+          <l>את כל מילות אהבתי מילה גם לא השבת</l>
+          <l>ככה תמיד בחיים שטובים לא מעריכים</l>
+          <l>שהטוב הופך לרע אז רק מבינים</l>
+          <l>זה גלגל האוהבים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תשאלי כל אדם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

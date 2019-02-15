@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אולי 89</title>
+        <singer classification="unknown">רועי צ יקי ארד</singer>
+        <writer>רועי צ'יקי ארד</writer>
+        <composer>רועי צ'יקי ארד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אולי</head>
+        <lg number="1" type="stanza">
+          <l>אולי היא מסתובבת באחד הקניונים</l>
+          <l>נערה יפה ששמה מתחרז עם שלי</l>
+          <l>אולי היא מתחטטת בדוכני הבשמים</l>
+          <l>נערה יפה ששמה מתחרז עם שלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז לא, אל תלכי לשם</l>
+          <l>כי זה לא יהיה נחמד</l>
+          <l>כי אני אשאר פה לבד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז אולי </l>
+          <l>תקפצי לכאן</l>
+          <l>כי פה</l>
+          <l>יש לי אורגן</l>
+          <l>וגם רדיו</l>
+          <l>והמון זמן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אולי היא מתמקחת באחת הפיצוציות</l>
+          <l>נערה קטנה ששמה מתחרז עם שלי</l>
+          <l>אולי היא תהרג באחת המלחמות</l>
+          <l>נערה יפה וגנרל שמזכיר לה אותי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אז לא, אל תלכי לשם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

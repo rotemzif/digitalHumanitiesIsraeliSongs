@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איליי איליי</title>
+        <singer classification="unknown">הופה היי</singer>
+        <writer>רחל רוזנמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איליי איליי</head>
+        <lg number="1" type="stanza">
+          <l>הידיים הופ למעלה</l>
+          <l>אחר כך מצד אל צד</l>
+          <l>בואו ונמשיך עוד הלאה</l>
+          <l>ובקצב מיוחד</l>
+          <l>מביטים כולם ימינה</l>
+          <l>מביטים כולם לשמאל</l>
+          <l>ושוב מביטים ימינה</l>
+          <l>וחצים בזה הקול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איליי איליי הו הו</l>
+          <l>כך בזהירות אנחנו נחצה פה את הכביש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הידיים הופ למעלה</l>
+          <l>אחר כך מצד אל צד</l>
+          <l>בואו ונמשיך עוד הלאה</l>
+          <l>ובקצב מיוחד</l>
+          <l>הידיים הופ למעלה</l>
+          <l>היי מה שלומכם</l>
+          <l>ונמשיך בדרך הלאה</l>
+          <l>וחצינו בשלום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איליי איליי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

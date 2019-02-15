@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לעשות מה שבא לי</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>שמואל אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לעשות מה שבא לי</head>
+        <lg number="1" type="stanza">
+          <l>רוצה לעשות מה שבא לי</l>
+          <l>חבל לך סתם לחכות</l>
+          <l>תפסיק לצלצל לי כל הלילה</l>
+          <l>בעיר יש עוד אלף בנות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את החשבון עשיתי מה שווה יותר</l>
+          <l>להיות לך גננת על החופש לוותר</l>
+          <l>קח את זה באיזי ואל תתבאס</l>
+          <l>איתי לא יקרה לך נס</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לספור כוכבים בשמיים</l>
+          <l>לטוס על ענן בכחול</l>
+          <l>רוצה לעצמי את החופש</l>
+          <l>אתה תצטרך עוד לגדול</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את החשבון עשיתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

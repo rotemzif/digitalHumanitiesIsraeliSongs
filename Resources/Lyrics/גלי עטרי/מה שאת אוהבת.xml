@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה שאת אוהבת</title>
+        <singer classification="female singer">גלי עטרי</singer>
+        <writer>מאיר גולדברג</writer>
+        <composer>missing</composer>
+        <album>חבק אותי לאט</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה שאת אוהבת</head>
+        <lg number="1" type="stanza">
+          <l>קחי מה שתרצי, מי יסרב לך</l>
+          <l>קחי את העולם כולו</l>
+          <l>מי יוכל לומר לך לא</l>
+          <l>אם רק תחייכי, מי לא יתאהב בך</l>
+          <l>מי שאת רוצה יבוא</l>
+          <l>אל תלכי עם מי שלא.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תעשי רק מה שאת אוהבת</l>
+          <l>רק מה שאת חושבת</l>
+          <l>שיהיה לך טוב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש לך זמן לגדול, כמה יפה את</l>
+          <l>קחי את העולם כמו פרי</l>
+          <l>קחי כל מה שאפשרי</l>
+          <l>אין אחת כמוך, את כבר יודעת</l>
+          <l>שתוכלי תמיד לבחור</l>
+          <l>כל מה שתרצי לזכור.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תעשי רק מה שאת אוהבת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יום אחד יבוא מי שחיכית לו</l>
+          <l>מי שאת רוצה יבוא</l>
+          <l>עם מה שאת אוהבת בו.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תעשי רק מה שאת אוהבת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

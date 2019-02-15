@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צמא לחייך</title>
+        <singer classification="male singer">תמיר גל</singer>
+        <writer>מוטי אוחיון</writer>
+        <composer>מוטי אוחיון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צמא לחייך</head>
+        <lg number="1" type="stanza">
+          <l>"למה את בורחת ממני</l>
+          <l>יש לי עוד הרבה מה לומר</l>
+          <l>חזרי אליי</l>
+          <l>עצוב לי ורע לי</l>
+          <l>גם כשאת בוכה</l>
+          <l> את עדיין יפה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תגידי מי יכול לעצור את הדמעות</l>
+          <l>שזולגות מתוך עינייך</l>
+          <l>לא יכול יותר כך אותך לראות</l>
+          <l>הלב שלי צמא לחייך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בואי נשנה את מה שיש בי</l>
+          <l>כי יש לי עוד הרבה מה לומר</l>
+          <l>חזרי אליי הלב שלי פועם בי</l>
+          <l>כי בזכותך אני עוד מחייך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תגידי מי יכול לעצור את הדמעות</l>
+          <l>שזולגות מתוך עינייך</l>
+          <l>לא יכול יותר כך אותך לראות</l>
+          <l>הלב שלי צמא לחייך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

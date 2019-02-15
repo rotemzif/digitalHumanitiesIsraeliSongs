@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מבטים 3</title>
+        <singer classification="unknown">קטי אל חי</singer>
+        <writer>שלמה כישור</writer>
+        <composer>משה נגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מבטים</head>
+        <lg number="1" type="stanza">
+          <l>מבטים שעוברים בינינו</l>
+          <l>קושרים את קשר השתיקה</l>
+          <l>בחבל של דממה רועמת</l>
+          <l>יותר מכל תלי-מלים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עבותות נקשרים</l>
+          <l>זה בזה נשזרים,</l>
+          <l>רק אנחנו נבין את המסר.</l>
+          <l>שני לבבות מדברים</l>
+          <l>בשפה של אילמים</l>
+          <l>ויוצרים בשתיקה את הקשר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ופתאום, פתאום לדעת,</l>
+          <l>לראות מה מסתתר עמוק</l>
+          <l>כשעפעפים פותחים הפתח</l>
+          <l>לאחורי המתרסים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עבותות נקשרים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

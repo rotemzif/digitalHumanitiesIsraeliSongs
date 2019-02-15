@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין אני</title>
+        <singer classification="band">שוטי הנבואה</singer>
+        <writer>גלעד ויטל</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין אני</head>
+        <lg number="1" type="stanza">
+          <l>כן איזה כייף יהיה בסוף ימי,</l>
+          <l>כשכל החבר'ה ידברו עלי.</l>
+          <l>יגידו שהייתי I&amp;I</l>
+          <l>בשעות רצון בשעות הפנאי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין אני אין אני אין אני,אין אני אין אני</l>
+          <l>אין אני אין אני,אין אני אין אני אין אני אין.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שמישהו יגיד דבר אחר,</l>
+          <l>אני פשוט אעוף בלי לדבר,</l>
+          <l>ואתפזר בשקט בחלל,</l>
+          <l>ללא ריגשות אשם ובלי אבל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין אני אין....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

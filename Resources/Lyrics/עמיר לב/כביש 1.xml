@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כביש 1</title>
+        <singer classification="male singer">עמיר לב</singer>
+        <writer>עמיר לב</writer>
+        <composer>עמיר לב</composer>
+        <album>הכל כאן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כביש 1</head>
+        <lg number="1" type="stanza">
+          <l>ראיתי אותך בשוק של רמלה לוד </l>
+          <l>מסתכלת על בגדים שאי אפשר למדוד</l>
+          <l>הכרתי אותך מייד מכל העיתונים </l>
+          <l>התמונה שלך בגן בירושלים, בין האוהלים</l>
+          <l>חזרת כמו שהלכת לאותו משרד </l>
+          <l>אקונומיקה בלי כפפות והמגב בצד</l>
+          <l>התנועות המוכרות מים עם הדלי </l>
+          <l>לסחוט לשלוח ולמשוך </l>
+          <l>עד שיהיה נקי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואני יודע שבבית הוא מביט עליך מהקיר </l>
+          <l>מאושר, לקח מקום ראשון במאה מטר לבנים </l>
+          <l>היית נותנת הכל שוב לשכב דואגת לחכות שהוא יחזור </l>
+          <l>לקום אחרי שהוא נרדם לכבות לו את האור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את לא הולכת ליוגה כשכואב הגב </l>
+          <l>לא מתחזקת עם ימימה וכל שהולך עכשיו </l>
+          <l>עומדת זקופה כל כך יפה </l>
+          <l>בשוק של רמלה לוד מול חליפות לחורף</l>
+          <l>שאי אפשר למדוד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואני יודע שבבית הוא מביט עליך מהקיר </l>
+          <l>מאושר, לקח מקום ראשון במאה מטר לבנים </l>
+          <l>היית נותנת הכל שוב לשכב דואגת לחכות שהוא יחזור </l>
+          <l>לקום אחרי שהוא נרדם לכבות לו את האור</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ראית אותך בשוק של רמלה לוד </l>
+          <l>מסתכלת על בגדים שאי אפשר למדוד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

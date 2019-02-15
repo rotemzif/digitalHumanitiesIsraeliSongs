@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ואת מתפשטת</title>
+        <singer classification="band">כנסיית השכל</singer>
+        <writer>יורם חזן</writer>
+        <composer>missing</composer>
+        <album>כנסיית השכל</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ואת מתפשטת</head>
+        <lg number="1" type="stanza">
+          <l>שקט</l>
+          <l>הלילה חודר</l>
+          <l>האנשים מתקפלים</l>
+          <l>האנשים משאירים רחובות קרים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואת מתפשטת</l>
+          <l>משילה עור של נחש</l>
+          <l>נראית קצת פוחדת</l>
+          <l>נראית קצת כמו לא אכפת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שקט</l>
+          <l>הלילה צועק</l>
+          <l>האנשים מתחבאים</l>
+          <l>האנשים משאירים</l>
+          <l>רחובות ריקים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואת מתפשטת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

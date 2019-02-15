@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>למענך 4</title>
+        <singer classification="male singer">רגב הוד</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>שמואל אלבז</composer>
+        <album>התינשאי לי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>למענך</head>
+        <lg number="1" type="stanza">
+          <l>לראות אותך אלי צוחקת</l>
+          <l>לגעת בך להתאהב</l>
+          <l>לנשום אותך עמוק אל תוך הנשמה,</l>
+          <l>עמוק אל תוך הלב</l>
+          <l>לשמוע שוב את מילותייך</l>
+          <l>להתרגש מנשיקה</l>
+          <l>הלב רוצה לבוא אלייך נערה</l>
+          <l>אבל את רחוקה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הייתי נותן הכל, הכל למענך</l>
+          <l>עושה הכל שתחזרי אלי</l>
+          <l>אתן חינם את נשמתי להיות שוב לצידך</l>
+          <l>למענך אתן גם את חיי...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את לא אמרת שאת עוזבת</l>
+          <l>אפילו לא אמרת לאן</l>
+          <l>אז קחי לך את הזמן לשכוח ותדעי</l>
+          <l>אני לכל מוכן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הייתי נותן הכל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

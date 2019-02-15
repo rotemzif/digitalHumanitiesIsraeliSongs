@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא מבין 8</title>
+        <singer classification="unknown">ליאור דטאוקר</singer>
+        <writer>ליאור דטאוקר</writer>
+        <composer>ליאור דטאוקר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא מבין</head>
+        <lg number="1" type="stanza">
+          <l>לא מבין איך את לא זוכרת </l>
+          <l>לא אני לא מבין בכלל פתאום </l>
+          <l>לא מבין איך את עלי מותרת</l>
+          <l>שלצידך הייתי כל הזמן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא חושב שאת יודעת </l>
+          <l>שאותי את משגעת</l>
+          <l>לא לא.</l>
+          <l>לא מבין זה משגע</l>
+          <l>כי רק אותך אני יודע </l>
+          <l>לא מבין לא מבין...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תני לי סיבה שצריך לשכוח</l>
+          <l>את החייך על פנייך</l>
+          <l>או את אותה הדמעה</l>
+          <l>אולי צריך לארוז ולברוח</l>
+          <l>אל מקום כה רחוק בלי נשמה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא חושב שאת יודעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

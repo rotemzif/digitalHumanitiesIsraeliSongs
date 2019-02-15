@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>על השטיח</title>
+        <singer classification="female singer">טל וייס</singer>
+        <writer>ניר חוטר ישי</writer>
+        <composer>טל וייס</composer>
+        <album>backcaTALog</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>על השטיח</head>
+        <lg number="1" type="stanza">
+          <l>בחדר שלי אני ילדה</l>
+          <l>והעצב מונח על השטיח</l>
+          <l>אני משחקת בו כמו כדור</l>
+          <l>אני חתול</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>סתיו עכשיו</l>
+          <l>אבל אני מחייכת</l>
+          <l>כלום לא אכפת לי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יושבת על המיטה</l>
+          <l>נדמה לי שאני נושמת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

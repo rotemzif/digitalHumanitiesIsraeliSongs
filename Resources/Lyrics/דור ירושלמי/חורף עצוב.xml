@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חורף עצוב</title>
+        <singer classification="unknown">דור ירושלמי</singer>
+        <writer>דנה גרוסמן</writer>
+        <composer>דור ירושלמי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חורף עצוב</head>
+        <lg number="1" type="stanza">
+          <l>דמעות תלויות באוויר,</l>
+          <l>משתלבות עם הגשם,</l>
+          <l>נוחתות על השביל,</l>
+          <l>וזה לא במקרה ש...</l>
+          <l>החורף התחיל..</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה חורף עצוב,</l>
+          <l>כי לא אראה אותך שוב</l>
+          <l>חורף עצוב,</l>
+          <l>כי הלכת אהוב.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זה חורף עצוב,</l>
+          <l>כי אין מי שיבין,</l>
+          <l>אין מי שיהיה,</l>
+          <l>אין מי שירגיש,</l>
+          <l>כמוך...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>והזמן ממשיך לרוץ,</l>
+          <l>זה רק אתה שעצרת,</l>
+          <l>ועדיין גשום בחוץ,</l>
+          <l>זה אתה שאמרת</l>
+          <l>חייבים לחיות..</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זה חורף עצוב...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>הגשם פסק,</l>
+          <l>זה רק אנחנו שממשיכים לבכות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

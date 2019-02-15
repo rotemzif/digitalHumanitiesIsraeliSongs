@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לחיות בלי אבא</title>
+        <singer classification="unknown">יוסי עדן</singer>
+        <writer>יוסי עדן</writer>
+        <composer>תומר חן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לחיות בלי אבא</head>
+        <lg number="1" type="stanza">
+          <l>איך אותי עזבת מילה לא אמרת</l>
+          <l>בלילות בכיתי בחדרי</l>
+          <l>אני לא התכוונתי סלח לי אם פגעתי</l>
+          <l>יש דברים שהגורל אותם קבע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה קשה לי אתה חסר לי</l>
+          <l>בלי כל בלי אבא קשה כל כך</l>
+          <l>אולי טעיתי אבל לא רציתי </l>
+          <l>שעם הזמן אתה תבין אותי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היו ימים שבאת עלי רק הסתכלת</l>
+          <l>ופתאום הלכת בלי סיבה</l>
+          <l>הגורל של שנינו כבר לא בידינו</l>
+          <l>תמיד תזכור שאני אוהב אותך </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה קשה לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

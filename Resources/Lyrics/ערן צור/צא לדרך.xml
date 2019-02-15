@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צא לדרך</title>
+        <singer classification="male singer">ערן צור</singer>
+        <writer>שמואל חיימוביץ'</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צא לדרך</head>
+        <lg number="1" type="stanza">
+          <l>צא לדרך בין שמיים לאדמה ספוגת ימים</l>
+          <l>צעד בשקט, פקח עיניים</l>
+          <l>אל תפחד, אתה לא תמעד</l>
+          <l>אתה מיוחד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רוץ בוואדי, צא מהמדבר</l>
+          <l>אל הזמן היפה שלא נגמר</l>
+          <l>עבור את הנהר אל המחר</l>
+          <l>משוך מפרש</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מי תאהב אותך באמת</l>
+          <l>מי תאמר לך דברים טובים</l>
+          <l>שלא פוגעים ולא עושים לחשוב</l>
+          <l>מי תהיה חבר קרוב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הגשם שוב שוטף בוואדי</l>
+          <l>האדמה מוכת גלים</l>
+          <l>בין עקבות עבר פוסע</l>
+          <l>מתוק או מר - אתה תבחר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כך חיית אל הנצח</l>
+          <l>כך טיפסת על הר החיים</l>
+          <l>ימים יפים מתוך מעמקים</l>
+          <l>בך נוגעים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מי תאהב אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

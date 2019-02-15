@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בבואי אל הגן</title>
+        <singer classification="female singer">מיקה קרני</singer>
+        <writer>אשי</writer>
+        <composer>missing</composer>
+        <album>קול דודי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בבואי אל הגן</head>
+        <lg number="1" type="stanza">
+          <l>בבואי אל הגן מליל משתה רעים</l>
+          <l>נחושה בבקשתי לשאהבה נפשי</l>
+          <l>לשחשק ליבי</l>
+          <l>נעול וחתום מצאתיו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ובלב שבור</l>
+          <l>אל מול גן נעול</l>
+          <l>כצמרת עץ, עולה</l>
+          <l>מתמרת לה דמותך</l>
+          <l>לבת העמק רחוקה</l>
+          <l>ואין בי רוח לשוחה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ויודעת בשבועה</l>
+          <l>שאין לעורר אהבה</l>
+          <l>טרם שחפצה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אעלה בתמר</l>
+          <l>אני שושנת העמקים</l>
+          <l>אוחזה באהבים</l>
+          <l>ותהיה לחיכי כגפן</l>
+          <l>לאפי כנועם תפוח</l>
+          <l>אחפש את מילותיך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ויודעת בשבועה</l>
+          <l>שאין לעורר אהבה</l>
+          <l>טרם שחפצה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

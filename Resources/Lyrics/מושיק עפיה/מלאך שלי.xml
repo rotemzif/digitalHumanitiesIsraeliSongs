@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלאך שלי 6</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>עדי כבירי</composer>
+        <album>בשבילי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלאך שלי</head>
+        <lg number="1" type="stanza">
+          <l>זורחת שמש על הבוקר ואני איתך</l>
+          <l>כמו מלאך חג בשמיים כך אני שלך</l>
+          <l>מתנדנד ועף ברוח היכן את יפתי</l>
+          <l>מסביבך חומות בניתי לך אהובתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מלאך שלי שלא תדעי מה עובר עלי</l>
+          <l>כמו שבר כלי הולך ברחוב</l>
+          <l>הכל חשך אל מול עיני</l>
+          <l>עייפתי, את משאת חיי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דמייני את שנינו יחד לך כל עולמי</l>
+          <l>כמו הבריאה בשתי עינייך לצידך אני</l>
+          <l>סביב דמותך תפילה עולה לה שתהיי שלי</l>
+          <l>פני מלאך הכל אתן לך מה לך יפתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מלאך שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

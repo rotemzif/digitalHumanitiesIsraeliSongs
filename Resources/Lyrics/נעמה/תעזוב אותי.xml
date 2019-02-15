@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תעזוב אותי</title>
+        <singer classification="unknown">נעמה 4</singer>
+        <writer>נעמה</writer>
+        <composer>נעמה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תעזוב אותי</head>
+        <lg number="1" type="stanza">
+          <l>אולי תנוח, תפסיק כבר לדבר</l>
+          <l>תתחיל לשגע מישהו אחר</l>
+          <l>אז תתאפס ולך לדרכך</l>
+          <l>אני בכלל לא הטיפוס שלך</l>
+          <l>בוא ונשכח מהסיפור הזה</l>
+          <l>אני רוצה הרבה יותר מזה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז תעזוב אותי ותלך מכאן</l>
+          <l>תעזוב אותי כי חבל לך על הזמן</l>
+          <l>אתה לא בוגר וכל כך שחצן</l>
+          <l>אז מספיק עם זה ונמאס לי כבר מזמן</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז תעזוב אותי ותלך מכאן</l>
+          <l>תעזוב אותי כי חבל לך על הזמן</l>
+          <l>אתה לא בוגר וכל כך שחצן</l>
+          <l>אז מספיק ודי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עכשיו תרגיע עם כל השגעונות</l>
+          <l>תפסיק לשגע את כל הבחורות</l>
+          <l>אל תספר לי שוב מעשיות</l>
+          <l>ואל תאמר לי שלא תוכל לחיות</l>
+          <l>לא מוכנה לשמוע הבטחות</l>
+          <l>אני אפסיק עכשיו כבר לחכות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אז תעזוב אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

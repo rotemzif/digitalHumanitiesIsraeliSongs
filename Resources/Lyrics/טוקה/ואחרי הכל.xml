@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ואחרי הכל</title>
+        <singer classification="unknown">טוקה</singer>
+        <writer>טוקה</writer>
+        <composer>טוקה</composer>
+        <album>הווה אחר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ואחרי הכל</head>
+        <lg number="1" type="stanza">
+          <l>ואחרי הכל, חוזר אל החדר</l>
+          <l>אל בין הקירות אל ההרגל</l>
+          <l>אחרי הכל, גם אין לי מילים</l>
+          <l>הרבה אמירות ומעט תמלילים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואחרי הכל חוזר אל החדר</l>
+          <l>אל בין הקירות, אל ההרגל</l>
+          <l>אחרי הכל לא היו בי דברים</l>
+          <l>הרבה אמירות ומעט תמלילים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מציאות יפה מול מציאות חותכת</l>
+          <l>בזווית ראייה קצת יותר רצינית</l>
+          <l>היי אשליה לאן את הולכת?</l>
+          <l>חכי רק עוד רגע עד סוף התוכנית</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואז כשנגיע אל עולם האמת</l>
+          <l>עם גן עדן מובטח וגיהנום מאיים</l>
+          <l>האם גם אז הכל היא חותכת</l>
+          <l>אך בעצם כבר כאן הכל הסתיים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מציאות יפה מול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הדובון הלך לישון</title>
+        <singer classification="female singer">ירדנה ארזי</singer>
+        <writer>דן זכאי</writer>
+        <composer>דן זכאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הדובון הלך לישון</head>
+        <lg number="1" type="stanza">
+          <l>הדובון הלך לישון </l>
+          <l>כבר עצם את העינים </l>
+          <l>ובפינה מפהקים </l>
+          <l>פיהוק עגול, האופניים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>החושך הגיע </l>
+          <l>האור נבהל ונס </l>
+          <l>אני קצת פוחדת </l>
+          <l>בחושך בלי פנס </l>
+          <l>אז אני מתכסה </l>
+          <l>שהחושך לא ימצא אותי - הס. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אגדות על אצטבה </l>
+          <l>בתוך ספר חם, עב כרס </l>
+          <l>הן מתרפקות על הבובה </l>
+          <l>אולי שרות הן לה שיר ערש? </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>החושך הגיע... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הירח בלי חשש </l>
+          <l>מרחף לאט בנחת </l>
+          <l>והוא מביט אלי ממש, </l>
+          <l>מושיט לי קרן - יד בוטחת </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>החושך הגיע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

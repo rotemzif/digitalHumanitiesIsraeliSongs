@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואי דינה</title>
+        <singer classification="unknown">מופע הארנבות של ד ר קספר</singer>
+        <writer>אורן ברזילי</writer>
+        <composer>missing</composer>
+        <album>מופע הארנבות של ד"ר קספר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואי דינה</head>
+        <lg number="1" type="stanza">
+          <l>יש לך פה רך כמו שושנה</l>
+          <l>וחיוך של חצי הזמנה</l>
+          <l>אהבה לעולם משתנה</l>
+          <l>אז מה איתך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אין לך כסף ואין לך זמן</l>
+          <l>לא סוגרת את הרוכסן</l>
+          <l>אהבה בעולם מזומן</l>
+          <l>אז מה איתך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בואי דינה נצא מהבית</l>
+          <l>נחצה ת'כבישים בכל העולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש לי אוטו גדול וארוך</l>
+          <l>תיכנסי ונגיע רחוק</l>
+          <l>אבל בעולם המתוק</l>
+          <l>אז מה איתך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>צאי לטבע תראי ציפורים</l>
+          <l>תנשמי את אוויר ההרים</l>
+          <l>אהבה בשדות הירוקים</l>
+          <l>אז מה איתך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בואי דינה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

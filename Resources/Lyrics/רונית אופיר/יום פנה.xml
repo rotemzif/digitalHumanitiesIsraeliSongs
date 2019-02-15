@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יום פנה</title>
+        <singer classification="female singer">רונית אופיר</singer>
+        <writer>עמנואל זמיר</writer>
+        <composer>יוסף ספיבק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יום פנה</head>
+        <lg number="1" type="stanza">
+          <l>יום פנה והעמק צללים</l>
+          <l>אל טנאו אסף ונדם.</l>
+          <l>נערות זמרו לערב</l>
+          <l>כחליל ענה ליבי -</l>
+          <l>והלם.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נם העמק נערות זמרו הלכו</l>
+          <l>בא ליל.</l>
+          <l>רק ליבי עוד</l>
+          <l>כחליל ענה לשיר והלם.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

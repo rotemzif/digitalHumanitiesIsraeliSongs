@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מדור לדור</title>
+        <singer classification="unknown">עינת הולנדר</singer>
+        <writer>עינת הולנדר</writer>
+        <composer>עינת הולנדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מדור לדור</head>
+        <lg number="1" type="stanza">
+          <l>לא ידבק אבק קרבות בבגד,</l>
+          <l>לא ישוב עוד לחופשה.</l>
+          <l>אמא מנגד</l>
+          <l>לא עוד תניף ידה.</l>
+          <l>הכל נגדע.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ילדים ישובו מכל עבר</l>
+          <l>כתמיד אל בית חם.</l>
+          <l>סביב שולחננו</l>
+          <l>כסא מיותם.</l>
+          <l>עידן שתם.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא ידענו, לא שיערנו</l>
+          <l>כמה מר טעם ניצחון,</l>
+          <l>אך נזכור, כמה נזכור</l>
+          <l>כל פיסת חיים מדור לדור.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חדרך כאילו לא עזבת,</l>
+          <l>התווים על הפסנתר.</l>
+          <l>אילו ניגנת</l>
+          <l>היה זה שיר אחר.</l>
+          <l>שיר אחר.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא ידענו, לא שיערנו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

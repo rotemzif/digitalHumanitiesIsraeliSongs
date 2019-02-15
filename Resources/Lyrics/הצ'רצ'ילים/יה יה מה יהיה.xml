@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יה יה מה יהיה</title>
+        <singer classification="unknown">הצ רצ ילים</singer>
+        <writer>אלישע נמרי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יה יה מה יהיה</head>
+        <lg number="1" type="stanza">
+          <l>יה יה מה יהיה </l>
+          <l>כל הלילה רק אבכה </l>
+          <l>כי רק לך אחכה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יה יה מה יהיה... </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את שהבטחת לי "אחכה" </l>
+          <l>מתברר ולא חולם... </l>
+          <l>אם תרצי לא אגדה </l>
+          <l>ונגמור בחתונה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יה יה מה יהיה... </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את שהבטחת לי "אחכה"...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

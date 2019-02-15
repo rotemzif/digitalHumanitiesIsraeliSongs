@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד כמה שעות</title>
+        <singer classification="unknown">פרוייקט קאייזן</singer>
+        <writer>גלעד שטוקלמן</writer>
+        <composer>רז קלינגהופר</composer>
+        <album>חלון למציאות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד כמה שעות</head>
+        <lg number="1" type="stanza">
+          <l>עוד כמה שעות נחצה את הגבול</l>
+          <l>נרעים בתותחים</l>
+          <l>נהרוס את הכבישים</l>
+          <l>עוד כמה ימים נשתולל על המיטה</l>
+          <l>נפרוץ את גבולות</l>
+          <l>נוריד את המסיכות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עוד כמה שעות נדהר במרחבים</l>
+          <l>תשוקה בליבנו</l>
+          <l>האויב לפנינו</l>
+          <l>עוד כמה ימים לא נחשוב על חברים</l>
+          <l>עוד כמה שעות</l>
+          <l>עוד כמה ימים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז תסתכל לי בעיניים</l>
+          <l>זה רק אני או אתה</l>
+          <l>תשוקה גדולה</l>
+          <l>שנאה גדולה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוד כמה ימים אריץ את הסרט לאחור</l>
+          <l>אספר על המקרים</l>
+          <l>אחלוק את הפרטים</l>
+          <l>איך הגעתי עד אליך להשתולל על המיטה</l>
+          <l>ועל אחד שיהיה עמוק באדמה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אז תסתכל לי בעיניים</l>
+          <l>זה רק אני או אתה</l>
+          <l>תשוקה גדולה</l>
+          <l>שנאה גדולה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קווים אדומים</title>
+        <singer classification="unknown">ליאל קולט</singer>
+        <writer>חובי סטאר</writer>
+        <composer>ליאל קולט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קווים אדומים</head>
+        <lg number="1" type="stanza">
+          <l>עיניים תכלת בחושך כבד.</l>
+          <l>לא מספר לי את כל האמת.</l>
+          <l>שוב מסתבך בדרך קשה.</l>
+          <l>ומחפש בי את התשובה.</l>
+          <l>אתה עובר, חוצה קווים אדומים.</l>
+          <l>דורך, שובר עובר על כל החוקים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ולא שואלת, עוברת. כי יש את מחר.</l>
+          <l>אני הולכת, נועלת. ופה זה נגמר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ושוב בועטת, צועקת. לא חוזרת </l>
+          <l>היום אני חופשייה</l>
+          <l>עכשיו לא מרחמת ושוברת</l>
+          <l>לחתיכות קטנות את לבך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ושוב עוברת מילה במילה.</l>
+          <l>ומהססת לא מאמינה.</l>
+          <l>אתה אומר שזו היא כל האמת.</l>
+          <l>ושוב שואל מה עוד נשאר לי לתת.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ולא שואלת, עוברת...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ושוב בועטת, צועקת. לא חוזרת </l>
+          <l>היום אני חופשייה</l>
+          <l>עכשיו לא מרחמת ושוברת</l>
+          <l>לחתיכות קטנות את ליבך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

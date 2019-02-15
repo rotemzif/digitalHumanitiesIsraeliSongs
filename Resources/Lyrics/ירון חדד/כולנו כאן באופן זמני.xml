@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כולנו כאן באופן זמני</title>
+        <singer classification="male singer">ירון חדד</singer>
+        <writer>שמוליק קלוסקי</writer>
+        <composer>מירון מינסטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כולנו כאן באופן זמני</head>
+        <lg number="1" type="stanza">
+          <l>באנו לכאן כמעט במקרה</l>
+          <l>כי לא היתה לנו ברירה,</l>
+          <l>שמיים רטובים, כבר סתיו ותשרי</l>
+          <l>עדיין לא יודעים בין טוב לרע</l>
+          <l>ומנסים למצוא את המטרה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כולנו כאן באופן זמני</l>
+          <l>בתוך המהומה, עמוק בפנים,</l>
+          <l>ואי אפשר לפתוח כלום</l>
+          <l>כי אין לנו חוזה חתום.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אנחנו כבר כאן באמצע הזמן</l>
+          <l>ואף אחד כבר לא מחכה,</l>
+          <l>מי שכבר יצא ומי שנכנס</l>
+          <l>עדיין מחכים לאיזה נס</l>
+          <l>ומנסים בינתיים לחפש.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כולנו כאן באופן זמני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

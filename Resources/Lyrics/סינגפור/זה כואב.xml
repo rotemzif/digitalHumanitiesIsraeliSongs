@@ -1,0 +1,38 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה כואב 3</title>
+        <singer classification="band">סינגפור</singer>
+        <writer>אייל אלימן</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה כואב</head>
+        <lg number="1" type="stanza">
+          <l>את יותר מדי יפה </l>
+          <l>בשביל למות </l>
+          <l>אצלי בתוך הראש </l>
+          <l>אצלי בתוך הלב </l>
+          <l>וזה כואב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

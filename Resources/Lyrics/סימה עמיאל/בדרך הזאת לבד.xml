@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בדרך הזאת לבד</title>
+        <singer classification="female singer">סימה עמיאל</singer>
+        <writer>איתן אורן</writer>
+        <composer>איתן אורן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בדרך הזאת לבד</head>
+        <lg number="1" type="stanza">
+          <l>זה אתה בדרך הזאת לבד, ביחד עם כולם</l>
+          <l>גם אתה נושא איתך חלום אחד שנושא אותך לאי שם</l>
+          <l>בעיניך הכל כמו בסרט נע, גם החושך גם האור</l>
+          <l>והאמא שנתנה בידך את בנה, מביטה בך שנה אחר שנה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רצים רצים המבטים בעיניים,</l>
+          <l>אל מעבר לחומה עד לכלות הנשימה</l>
+          <l>רצים רצים המבטים בעיניים,</l>
+          <l>עד לגבול האחרון בין תקווה לחידלון</l>
+          <l>אל סופי הנעורים, התמימים האחרים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כבר הגיע תור המלחמה שלך, בגרת בשנים</l>
+          <l>לעתים דומה שהמסע כבד לך ודמעה על הפנים</l>
+          <l>גם הבית לא יחזור להיות מה שהיה, הלילות יותר קרירים</l>
+          <l>אז אתה שואל בשקט את עצמך, אם מסע כזה היה כדאי, כדאי?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רצים רצים המבטים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

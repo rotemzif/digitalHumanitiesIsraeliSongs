@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>התכנסות</title>
+        <singer classification="male singer">מאור כהן</singer>
+        <writer>שארל בודלר</writer>
+        <composer>מאור כהן</composer>
+        <album>פרחי הרע</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>התכנסות</head>
+        <lg number="1" type="stanza">
+          <l>כאב שלי, החכם. שקט הייה ורך.</l>
+          <l>דרשת רדת ערב - הוא יורד ובא.</l>
+          <l>אפלוליות סתומה עוטפת את הכרך:</l>
+          <l>שלווה לאחדים, ליתר - דאבה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הנה כבר אספסוף בזוי של בני תמותה</l>
+          <l>אל שוט-התענוג, תליין אכזר, נרכן</l>
+          <l>בחג העבדים לוקט לו חרטה - </l>
+          <l>כאב שלי, הושט לי יד, נלך מכאן,</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הרחק מהם. ראה: שנים מתות נוטות</l>
+          <l>על מרפסות מרום, שמלות-אתמול עוטות,</l>
+          <l>ונוחם מחייך מתוך המים גח</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חמה גוססת תחת גשר תרדם</l>
+          <l>כשובל של תכריך ארוך, לפאת מזרח - </l>
+          <l>הקשב, אהוב, הקשב - ליל נועם מתקדם.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

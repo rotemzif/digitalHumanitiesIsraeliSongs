@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוקר 61</title>
+        <singer classification="male singer">שיר לוי</singer>
+        <writer>עמיר בניון</writer>
+        <composer>עמיר בניון</composer>
+        <album>יום אחד תבקשי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוקר</head>
+        <lg number="1" type="stanza">
+          <l>נוסע ללא אורות ומתנגש בפחד</l>
+          <l>זה עדיף מקיר או מרמזור </l>
+          <l>כי עם הפחד עוד אפשר הביתה לחזור</l>
+          <l>והכי מפחיד עכשיו פתאום זה לעצור</l>
+          <l>ללחוץ חזק על הדוושה ולחכות לאור שיבוא ויאיר לך </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שומע הרבה קולות ומתנגש בפחד </l>
+          <l>לפעמים זה שיר או סתם פזמון </l>
+          <l>לפעמים קריאה של תרנגול או פעמון </l>
+          <l>ולפעמים זו הרגשה כזאת בלי הגיון </l>
+          <l>ולפעמים זה משהו מתיימר להיות חזון שיבוא ויאיר לך </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בוקר, כבר בוקר </l>
+          <l>תקום כבר כי בוקר</l>
+          <l>תשאל אז יגידו שמיים יעידו </l>
+          <l>שבוקר, כבר בוקר </l>
+          <l>תקום כבר כי בוקר </l>
+          <l>תשאל אז יגידו שמיים יעידו </l>
+          <l>שבוקר בא </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כורה הרבה בורות ומתנגש בפחד</l>
+          <l>לפעמים זה פחד מלמעוד</l>
+          <l>וליפול לאיזה בור כי יש הרבה מאוד </l>
+          <l>ויותר מפחיד עכשיו פתאום זה לעמוד </l>
+          <l>ללחוץ חזק על השפתיים לחכות לאור שיבוא </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בוקר, כבר בוקר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

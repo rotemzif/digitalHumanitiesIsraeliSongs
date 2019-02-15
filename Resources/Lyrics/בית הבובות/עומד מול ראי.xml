@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עומד מול ראי</title>
+        <singer classification="band">בית הבובות</singer>
+        <writer>אמיר אטיאס</writer>
+        <composer>missing</composer>
+        <album>מדפים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עומד מול ראי</head>
+        <lg number="1" type="stanza">
+          <l>כנראה שאחרי הכל את תהיי כאן לצידי</l>
+          <l>הכל נראה צר פתאום צפוף מדי בשבילי</l>
+          <l>והנה אני עומד מול ראי</l>
+          <l>מנסה להיות חצי אמיתי </l>
+          <l>מתחת דמיון זה לא ישרוד</l>
+          <l>זה חייב להיות מציאותי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קום הגיע הזמן לקום</l>
+          <l>להתחיל ללכת בדרך המדוברת</l>
+          <l>נסה לבודד את הכל</l>
+          <l>לא כל ציור גדול מתחיל</l>
+          <l>בקו של מכחול פשוט</l>
+          <l>רק שהפעם הוא לא חייב להיות שחור</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא חייב להיות שחור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

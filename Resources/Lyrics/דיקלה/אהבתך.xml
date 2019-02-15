@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבתך 3</title>
+        <singer classification="female singer">דיקלה</singer>
+        <writer>משה לוי</writer>
+        <composer>דיקלה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבתך</head>
+        <lg number="1" type="stanza">
+          <l>אם לא תגיע אלי / אשכב במיטה – ואתפלל </l>
+          <l>שתיתן לי סימן </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם לא תופיע מולי / אעמוד בחלון - ואתפלל </l>
+          <l>שתחלוף על פני </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>האהבה קראה לי / השתניתי - רציתי לקבל אותה </l>
+          <l>האהבה נמסרה בידי / השתכנעתי - ידעתי שמגיע לי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם לא תבוא לביתי / אאבד את דעתי ואתפלל לשובך </l>
+          <l>אם לא תציע ביומי / את לילותיך - אתפלל </l>
+          <l>לאהבתך </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>האהבה קראה לי / השתניתי - רציתי לקבל אותה </l>
+          <l>האהבה נמסרה בידי / השתכנעתי - ידעתי שמגיע לי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

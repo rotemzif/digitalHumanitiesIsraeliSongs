@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכח לוותר</title>
+        <singer classification="male singer">גלעד שגב</singer>
+        <writer>גלעד שגב</writer>
+        <composer>גלעד שגב</composer>
+        <album>האהבה נשארת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכח לוותר</head>
+        <lg number="1" type="stanza">
+          <l>במקום הלחץ, קח קצת הפסקה</l>
+          <l>במקום הפחד, שים כבר צעקה </l>
+          <l>במקום לברוח, תרגיש את הכאב</l>
+          <l>תשאיר לי, תציל לי את הלב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי לא צריך סיבה לסלוח, תנסה להשתחרר </l>
+          <l>ולראות שוב את הכוח שנמצא בלוותר</l>
+          <l>לא צריך סיבה לשמוח, תן לזה פשוט לצאת </l>
+          <l>מנסים לחיות רק פעם את הכוח לוותר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>במקום בלחץ, צא איתה לשתות </l>
+          <l>במקום הפחד, עדיף לך שטויות</l>
+          <l>במקום לבלוע, תירק את הכאב</l>
+          <l>תשאיר לי, תציל לי את הלב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי לא צריך סיבה לסלוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

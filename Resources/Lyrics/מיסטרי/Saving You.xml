@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Saving You</title>
+        <singer classification="unknown">מיסטרי</singer>
+        <writer>מיסטרי</writer>
+        <composer>מיסטרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Saving You</head>
+        <lg number="1" type="stanza">
+          <l>I think it's time to say goodbye </l>
+          <l>Now you'll be gone and watch the sky </l>
+          <l>It's enough to see you cry </l>
+          <l>Now you can spread your wings and fly </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>All those memories are gone </l>
+          <l>All the angels stand alone </l>
+          <l>Formilier tears are washed a shore </l>
+          <l>Can't save our souls anymore</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

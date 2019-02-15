@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוקדת על הבר</title>
+        <singer classification="unknown">ליאת בנאי</singer>
+        <writer>אבי ביטר</writer>
+        <composer>אבי ביטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוקדת על הבר</head>
+        <lg number="1" type="stanza">
+          <l>אל תיקחי ללב כי החיים יפים</l>
+          <l>בואי נשיר וגם נרקוד ונעשה חיים</l>
+          <l>אנחנו חברות כמו שתי אחיות</l>
+          <l>בואי נשכח הכל ונמשיך לחיות</l>
+          <l>אנחנו חברות כמו שתי אחיות</l>
+          <l>בואי נשכח הכל ונמשיך לחיות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עשי כל מה שבא לך העולם שלך</l>
+          <l>תחיי כמו פרפר תשתי את כל הבר</l>
+          <l>עשי כל מה שבא לך העולם שלך</l>
+          <l>תחיי כמו פרפר תשתי את כל הבר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>החיים יפים וגם מחייכים</l>
+          <l>אז תשימי פס על כל מה שאומרים</l>
+          <l>בואי נשתה עוד בירה ונשכח הכל</l>
+          <l>העולם גלגל לעזאזל הכל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עשי כל מה שבא לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

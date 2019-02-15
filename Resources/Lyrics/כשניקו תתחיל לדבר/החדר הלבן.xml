@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>החדר הלבן</title>
+        <singer classification="band">כשניקו תתחיל לדבר</singer>
+        <writer>אייל קופמן</writer>
+        <composer>אייל קופמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>החדר הלבן</head>
+        <lg number="1" type="stanza">
+          <l>החדר הלבן מכוסה בספוגים</l>
+          <l>החליפה לא הכי נוחה</l>
+          <l>לפעמים את נזכרת שיש לך ילדים</l>
+          <l>לפעמים את מבינה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את נגררת כמו חיה פצועה</l>
+          <l>כשהרגל נגררת אחרייך</l>
+          <l>מנסה להילחם להתנגד</l>
+          <l>למצב שעוטף אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חולפות שנים ואת יוצאת את המשכן</l>
+          <l>מביטה לאחור בכאב.</l>
+          <l>ומולך עומדת שאלת הבחירה</l>
+          <l>לחיות או לחזור מהר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את נגררת כמו חיה פצועה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

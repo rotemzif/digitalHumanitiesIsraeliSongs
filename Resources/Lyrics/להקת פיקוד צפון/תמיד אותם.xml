@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תמיד אותם</title>
+        <singer classification="unknown">להקת פיקוד צפון</singer>
+        <writer>תרצה אתר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תמיד אותם</head>
+        <lg number="1" type="stanza">
+          <l>בחול ובאבק ובשמיים,</l>
+          <l>בתוך העננים האפורים,</l>
+          <l>ברוח המכה על פני הליל,</l>
+          <l>בתוך ענפי העץ הבהירים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תמיד אותם תראה הולכים</l>
+          <l>באש, בגשם, בדרכים.</l>
+          <l>תמיד אותם תראה הולכים</l>
+          <l>באש, בגשם, בדרכים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בעיר וברחובות לבני האבן,</l>
+          <l>בחול על שפת הים המאדים,</l>
+          <l>בשקט הזורח מכל אדן,</l>
+          <l>בצחוק שעל שפתי הילדים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תמיד אותם תראה הולכים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בבוקר הנפתח בפאת רקיע,</l>
+          <l>שותק וחייכני ונהדר,</l>
+          <l>בערב היורד והמגיע,</l>
+          <l>משחק אדמוני, בהיר וקר</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>באופל אישוני נערותינו,</l>
+          <l>בלהט השלכת הגדול,</l>
+          <l>בבכי השקט שבתוכנו,</l>
+          <l>בבכי הזוכר, זוכר הכל</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>תמיד אותם תראה הולכים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

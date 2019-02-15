@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתנה מהשמיים 2</title>
+        <singer classification="unknown">שר אל</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>מאיר עמר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתנה מהשמיים</head>
+        <lg number="1" type="stanza">
+          <l>חוזר אלייך תמיד אלייך</l>
+          <l>ואת בפתח מחכה לי בלילות </l>
+          <l>כל כך נרגשת שוב מחייכת </l>
+          <l>ומקרבת את גופך לנשיקות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהבתך היא מתנה מהשמיים </l>
+          <l>כמו מחלום את לי פקחת את העיניים </l>
+          <l>רק בזכותך את האושר שוב מצאתי</l>
+          <l>באהבה אהבה שלא הכרתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשלך נישקתי מיד הרגשתי </l>
+          <l>שזה לנצח לא לכמה רגעים </l>
+          <l>עוד לא הבנתי איך התאהבתי </l>
+          <l>וכבר אני מרגיש איתך בעננים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהבתך היא מתנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אליה ועליה</title>
+        <singer classification="male singer">סמיר שוקרי</singer>
+        <writer>דודו ברק</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אליה ועליה</head>
+        <lg number="1" type="stanza">
+          <l>איך שהבוקר קם בחום.</l>
+          <l>איך הוא אליה בא פתאום.</l>
+          <l>איך בה הלילה מתאהב.</l>
+          <l>איך הוא אליה מתגנב.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל השמיים אליה.</l>
+          <l>הרוח בא, עליה, עליה.</l>
+          <l>שמש באה אליה.</l>
+          <l>ירח שט עליה, עליה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גם אני בא אליה.</l>
+          <l>בא אני בשעריה.</l>
+          <l>היא לוחשת: "חביבי, חביבי,</l>
+          <l>יש לי אהבה".</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הו יה אהובה,</l>
+          <l>למה עצובה?</l>
+          <l>הביטי, הינה שבתי אליך,</l>
+          <l>מתוך הלילה בא.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נאהב הלילה.</l>
+          <l>נשכב הלילה.</l>
+          <l>על ערפל צחור,</l>
+          <l>אבוא אליך, בשערייך.</l>
+          <l>כמו פרפר לאור.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כל השמיים אליה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תן לי אהבה</title>
+        <singer classification="unknown">ליטל</singer>
+        <writer>רועי ימין</writer>
+        <composer>רועי ימין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תן לי אהבה</head>
+        <lg number="1" type="stanza">
+          <l>מתעוררת בבוקר, אתה לא איתי,</l>
+          <l>אני תוהה לעצמי היכן היית בלילה?</l>
+          <l>מתקשרת אליך, אתה לא עונה,</l>
+          <l>אני רוצה שתדע אני חושבת עלייך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני רוצה לחוש נמאס מהייאוש הלב שלי רוצה</l>
+          <l>הלב שלי רוצה אותך רוצה אותך.</l>
+          <l>אני חולמת אותך, נושמת אותך,</l>
+          <l>אני רוצה שתבוא תבוא ותיתן לי אהבה</l>
+          <l>אהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מביט בעייני, חושב על אחרות.</l>
+          <l>עברו חודשים התחלתי להשתנות, </l>
+          <l>הבנת בסוף אבל זה מאוחר עכשיו הכל,</l>
+          <l>עכשיו הכל נגמר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני רוצה לחוש...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא יודעת מה עובר עלי</l>
+          <l>אני לא יכולה יותר רוצה אותך אלי.</l>
+          <l>לא יודעת מה עובר עלי</l>
+          <l>אני לא יכולה יותר רוצה אותך אלי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

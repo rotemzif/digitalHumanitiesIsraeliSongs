@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאין יבוא עזרי</title>
+        <singer classification="unknown">תומר בן אפרים</singer>
+        <writer>תומר בן אפרים</writer>
+        <composer>תומר בן אפרים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאין יבוא עזרי</head>
+        <lg number="1" type="stanza">
+          <l>כל היום אני נושא עיני לשמיים </l>
+          <l>ושואל מאין יבוא עזרי? </l>
+          <l>כי אין כוח יותר לסבול </l>
+          <l>מכשול ועוד מכשול. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך תמיד חוזרים להתחלה? </l>
+          <l>אל ההשפלות והתחינה. </l>
+          <l>וכשהכל כבר נראה שחור, </l>
+          <l>פתאום נדלק האור. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל היום אני נושא עיני לשמיים </l>
+          <l>ושואל מאין יבוא עזרי? </l>
+          <l>כי האושר כתוב על חול, </l>
+          <l>ויש ים שמוחק הכל. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך תמיד חוזרים להתחלה?... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כל היום אני נושא עיני לשמיים </l>
+          <l>ושואל מאין יבוא עזרי?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

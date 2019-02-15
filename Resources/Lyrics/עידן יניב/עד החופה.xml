@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד החופה</title>
+        <singer classification="male singer">עידן יניב</singer>
+        <writer>עינת הולנדר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד החופה</head>
+        <lg number="1" type="stanza">
+          <l>את עולמי את מדהימה</l>
+          <l>איך שאותי את משלימה</l>
+          <l>כנראה נכון מה שאומרים:</l>
+          <l>כשיודעים פשוט יודעים...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ברוכה הבאה לממלכה </l>
+          <l>אצלי תהיי נסיכה </l>
+          <l>בשבילך במים ובאש</l>
+          <l>את לא תספיקי לבקש </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הולך על כל הקופה</l>
+          <l>הולך לאן שהאהבה לוקחת</l>
+          <l>עד החופה</l>
+          <l>הולך איתך, לא אין בי פחד</l>
+          <l>אש להבה</l>
+          <l>מציתה את הביחד </l>
+          <l>לעולמים</l>
+          <l>הלילה שנינו נשבעים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היום זה היום שלך</l>
+          <l>כל העולם נושם איתך</l>
+          <l>והלב מחסיר פעימה</l>
+          <l>קורא לך אלי, אל תוך הנשמה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הולך על כל הקופה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

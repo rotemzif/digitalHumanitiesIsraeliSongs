@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טוב לי ככה</title>
+        <singer classification="unknown">הילה זהרור</singer>
+        <writer>הילה זהרור</writer>
+        <composer>הילה זהרור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טוב לי ככה</head>
+        <lg number="1" type="stanza">
+          <l>בין אנשים אנחנו מביטים </l>
+          <l>לומדים קצת מכולם </l>
+          <l>בין אחרים אנחנו מזהים את עצמנו גם </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בין אנשים אנחנו מבינים </l>
+          <l>מה שקשה לבד </l>
+          <l>בין אלפי זרים אנחנו מקבלים מכל אחד </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>טוב לי ככה </l>
+          <l>אוסף של כל מה שרציתי </l>
+          <l>טוב לי ככה, טוב </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בין מפגשים אנחנו מגלים </l>
+          <l>שיש ודאי סיבה </l>
+          <l>צירופי מקרים או כוח המחשבה </l>
+          <l>התכוונות גלויה </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>טוב לי ככה </l>
+          <l>אוסף של כל מה שרציתי </l>
+          <l>טוב לי ככה, טוב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

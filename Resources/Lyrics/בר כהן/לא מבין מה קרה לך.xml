@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא מבין מה קרה לך</title>
+        <singer classification="male singer">בר כהן</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>שמואל אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא מבין מה קרה לך</head>
+        <lg number="1" type="stanza">
+          <l>אתמול אצלי בחדר</l>
+          <l>מיד אחרי הנשיקה</l>
+          <l>אמרת אצלך הכל בסדר</l>
+          <l>אבל ביקשת ממני הפסקה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לקחת חולצה או שתיים</l>
+          <l>וזוג יפה של עגילים</l>
+          <l>ואת יצאת לך מהבית</l>
+          <l>בלי לומר הרבה מילים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא, לא מבין מה קרה לך</l>
+          <l>הכל עדיים מעורפל אצלך</l>
+          <l>זו אולי רק הפסקה קצרה</l>
+          <l>בדרך הקשה אל תוך ליבך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בחוץ הכל רגוע</l>
+          <l>אבל בתוך ליבי סוער</l>
+          <l>רוצה לשאול אותך מדוע</l>
+          <l>אך אין עם מי לדבר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יצאנו אז קבוע</l>
+          <l>עכשיו את בזרועות אחר</l>
+          <l>ואז חלף כמעט שבוע</l>
+          <l>אך אני לא מוותר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לא, לא מבין...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

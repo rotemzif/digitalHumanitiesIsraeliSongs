@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכח שבלב</title>
+        <singer classification="male singer">גל סינואני</singer>
+        <writer>נאור סינואני</writer>
+        <composer>גל סינואני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכח שבלב</head>
+        <lg number="1" type="stanza">
+          <l>יש לך כח לכבוש ת'עולם</l>
+          <l>את מושלמת בעיני</l>
+          <l>ואם רק תבקשי בכל רגע</l>
+          <l>אתן את חיי</l>
+          <l>כמו הגל שסוחף אותי</l>
+          <l>אני מטורף עלייך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמה את יפה וכמה מתוקה</l>
+          <l>וכמה שאותך אוהב</l>
+          <l>את היחידה שכל כולי שלה</l>
+          <l>הכח שבלב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש לך כח לכבוש ת'עולם</l>
+          <l>את מושלמת בעיני</l>
+          <l>עוצם עיניים ועף לשמיים</l>
+          <l>איתך אני שלך</l>
+          <l>כמו הגל שסוחף אותי</l>
+          <l>אני מטורף עלייך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמה את יפה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

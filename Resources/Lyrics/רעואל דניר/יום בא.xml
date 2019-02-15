@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יום בא 3</title>
+        <singer classification="unknown">רעואל דניר</singer>
+        <writer>רעואל דניר</writer>
+        <composer>רעואל דניר</composer>
+        <album>רעואל דניר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יום בא</head>
+        <lg number="1" type="stanza">
+          <l>יום בא יורד אלינו משאיר סימן</l>
+          <l>כמה סבלנו כאן הגיע הזמן לעזוב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זה לא מה ואיך וכמה נישאר בסוף</l>
+          <l>תמיד זה אותו הנוף</l>
+          <l>תמיד אותם הפחדים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מתעורר לקראת הערב</l>
+          <l>שוב פוגש את הלילות</l>
+          <l>כמו אדם שאין לו דרך</l>
+          <l>כמו סנדלר של חלומות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יום בא חושף באור את מה שכואב</l>
+          <l>מה שנישאר בלב ידמם גם כל החיים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מי שיקום מהר גם מהר יפול</l>
+          <l>אומרים שיש אור גדול</l>
+          <l>שיש חיים אחרים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מתעורר ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

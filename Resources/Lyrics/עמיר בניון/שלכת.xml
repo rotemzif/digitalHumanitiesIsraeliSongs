@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלכת 22</title>
+        <singer classification="male singer">עמיר בניון</singer>
+        <writer>עמיר בניון</writer>
+        <composer>עמיר בניון</composer>
+        <album>שלכת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלכת</head>
+        <lg number="1" type="stanza">
+          <l>עצרי עכשיו, עצרי מלכת,</l>
+          <l>לא אל תלכי אני עוד לא מוכן,</l>
+          <l>להתעורר כשאת אינך לידי.</l>
+          <l>עכשיו זה שלכת...</l>
+          <l>וזה תמיד דומה ואני לאן אלך?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עצרי עכשיו, עצרי מלכת,</l>
+          <l>לא אל תלכי אני עוד לא מוכן</l>
+          <l>להישאר כאן כשאת אינך לצידי</l>
+          <l>עכשיו זה שלכת...</l>
+          <l>וזה תמיד דומה אז אלך לאן שאלך...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>האמת היא, אני אדם שמתגבר,</l>
+          <l>ורק מזה אני פוחד ורק על זה אני חושב,</l>
+          <l>את יודעת היטב!</l>
+          <l>שאת תצאי מתוך ביתי ואחר כך מהלב...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עצרי עכשיו, עצרי מלכת,</l>
+          <l>כדי שאוכל לדעת כמה זמן את כבר לא אוהבת אותי..</l>
+          <l>עכשיו זה שלכת...</l>
+          <l>וזה כל כך דומה,</l>
+          <l>זה כמו עוד חרוז בשרשרת...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>האמת היא, אני אדם שמתגבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

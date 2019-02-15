@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל שיכולתי להיות</title>
+        <singer classification="unknown">סול 8</singer>
+        <writer>סול</writer>
+        <composer>סול</composer>
+        <album>מגיעה משם</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל שיכולתי להיות</head>
+        <lg number="1" type="stanza">
+          <l>דמיונות הלילה רוקדים על הקירות</l>
+          <l>וילונות חיינו הסתירו אמתות</l>
+          <l>מציאויות תפרנו לתלות בארונות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלביש עבורך את כל שיכולתי להיות</l>
+          <l>ואשמור עבורך איזו דלת</l>
+          <l>ביקשת אותי סוערת</l>
+          <l>אהבת אותי אחרת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זיכרונות הלילה כשתיקות ארוכות</l>
+          <l>המסך יורד כשהמילים נאמרות</l>
+          <l>השנים חולפות ונשמרות עטופות במגירות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלביש עבורך את כל שיכולתי להיות...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ציפורניי שורטות את מפתן ביתך</l>
+          <l>כל אבק הדרך לא השכיח לי אותך</l>
+          <l>באתי לראות הבטחות נפרמות אחת אחת</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אפשיט עבורך את כל שיכולתי להיות</l>
+          <l>אתחבר למציאות אחרת</l>
+          <l>עכשיו אני חוזרת</l>
+          <l>לאהוב אותי אחרת, אחרת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

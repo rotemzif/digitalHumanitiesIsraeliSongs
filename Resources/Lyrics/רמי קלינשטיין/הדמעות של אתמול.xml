@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הדמעות של אתמול</title>
+        <singer classification="male singer">רמי קלינשטיין</singer>
+        <writer>מאיר גולדברג</writer>
+        <composer>רמי קלינשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הדמעות של אתמול</head>
+        <lg number="1" type="stanza">
+          <l>הדמעות של אתמול כבר נעלמו</l>
+          <l>רק דמעות הן היו </l>
+          <l>אחרי הכל נעלמו הדמעות היבשות</l>
+          <l>עוד יהיו חדשות</l>
+          <l>הים גדול.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני לא זוכר למה בכיתי</l>
+          <l>אבל עכשיו אני בוכה על הכל</l>
+          <l>גם על זה שאני יודע</l>
+          <l>שעוד אתגעגע לדמעות של אתמול</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין שריטות של מכחול על הפנים</l>
+          <l>אין יותר סימנים </l>
+          <l>נמחק הכל נעלמו, הדמעות מן הפנים</l>
+          <l>איך קרה שאני רוצה ליפול</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני לא זוכר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

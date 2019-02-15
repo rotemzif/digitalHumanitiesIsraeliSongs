@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טיילתי ברחובות</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>ליאור נרקיס</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טיילתי ברחובות</head>
+        <lg number="1" type="stanza">
+          <l>היא היתה ונעלמה</l>
+          <l>נותרה רק הדממה</l>
+          <l>הכאב אינו עובר</l>
+          <l>חודר בנשמה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איני יודע כלל מה מצאתי בה</l>
+          <l>כנראה שאהבה היא המשחק שלה</l>
+          <l>איני יודע כלל מה מצאתי בה</l>
+          <l>כנראה שאהבה היא המשחק שלה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בלילות בכיתי</l>
+          <l>טיילתי ברחובות</l>
+          <l>אנשים שאלתי על הילדה הזאת</l>
+          <l>אותה חיפשתי כמו משוגע</l>
+          <l>נכנסה היא אל הלב ואותו שברה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היא רקדה השתוללה שם ברחבה</l>
+          <l>ובלב שלי פתאום הוצתה הלהבה</l>
+          <l>עם חיוך וקריצה אל הלב חדרה</l>
+          <l>ואני כמו עיוור נתפסתי ברשתה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עם חיוך וקריצה אל הלב חדרה</l>
+          <l>ואני כמו עיוור נתפסתי ברשתה</l>
+          <l>ומאז הלב ידע שהוא שבוי שלה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בלילות בכיתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הם בזמר הזה 2</title>
+        <singer classification="male singer">מתי כספי</singer>
+        <writer>קובי לוריא</writer>
+        <composer>missing</composer>
+        <album>מתיתיהו ואלכסנדר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הם בזמר הזה</head>
+        <lg number="1" type="stanza">
+          <l>המגדים אשר בטנא</l>
+          <l>אין יפים מאלה</l>
+          <l>וימים אשר כאלה -</l>
+          <l>הם כולם בזמר הזה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>והבת אשר רוקדת,</l>
+          <l>אם אין היא לי מי לי,</l>
+          <l>ואשר נפשי שלי יוצאת רק אליה -</l>
+          <l>הם כולם בזמר הזה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יום של חג הוא יום משגע,</l>
+          <l>השמלה אשר מעליה</l>
+          <l>והתכלת בעיניה -</l>
+          <l>הם בזמר הזה</l>
+          <l>ושריקת הנחליאלי,</l>
+          <l>וכל מה ששם מחכה לי</l>
+          <l>וכל מה שזה עושה לי -</l>
+          <l>הם בזמר הזה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הזהב אשר בגורן,</l>
+          <l>הירוק בדשא,</l>
+          <l>והריח שבאורן -</l>
+          <l>הם גם כן בזמר הזה.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>והסומק בלחייה</l>
+          <l>ומעט אחרי זה,</l>
+          <l>ודברים אשר קשורים אלי ואליה -</l>
+          <l>הם כולם בזמר הזה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יום של חג הוא יום משגע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

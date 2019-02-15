@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני הדור הבא</title>
+        <singer classification="male singer">גילי ארגוב</singer>
+        <writer>יואב גינאי</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני הדור הבא</head>
+        <lg number="1" type="stanza">
+          <l>אני זוכר דמעות, עיניים עצומות </l>
+          <l>ויד חמה שמלטפת את ראשי </l>
+          <l>את הים החרדות ואת כל הסודות </l>
+          <l>ואת ברכת הדרך בנפשי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני הדור הבא </l>
+          <l>שבליבו חידה </l>
+          <l>על פרש החיים </l>
+          <l>ואיך נראים המלאכים </l>
+          <l>אני הדור הבא </l>
+          <l>שבליבו סיבה </l>
+          <l>להאמין באהבה ובפרחים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני זוכר תמונות וחילופי עונות </l>
+          <l>בבית חם עם אבא ואימי, אמא... </l>
+          <l>והתינוק שבי נולד שוב בליבי </l>
+          <l>ומבקש לצעוד עכשיו קדימה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני הדור הבא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

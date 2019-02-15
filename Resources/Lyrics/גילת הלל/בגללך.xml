@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בגללך 6</title>
+        <singer classification="female singer">גילת הלל</singer>
+        <writer>גילת הלל</writer>
+        <composer>גילת הלל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בגללך</head>
+        <lg number="1" type="stanza">
+          <l>לילות בלי שינה, עוד לפני המבול</l>
+          <l>כמעט מרגישה את הצל שממול</l>
+          <l>כשאתה מתקרב ואני כבר נוגעת</l>
+          <l>עוברת בשביל שמוביל אל האור</l>
+          <l>הרגש בועט לא נותן לעצור</l>
+          <l>אתה מסתובב מחייך ולוחש לי...</l>
+          <l>זו לא אני.. זה רק נדמה לי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי בגללך לא נרדמת</l>
+          <l>מתוחה. אני שוב רועדת, אין לי שליטה</l>
+          <l>כי בגללך אין לי שקט,</l>
+          <l>מנוחה, עוד רגע לוקחת חלק ממך...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לבד ממשיכה, ושוקעת בחול</l>
+          <l>השקט שלך מספר לי הכל</l>
+          <l>זורקת עוד שיר, רק תראה מה קורה לי</l>
+          <l>"מה קורה לי.."</l>
+          <l>זאת לא אני או שנדמה לי...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי בגללך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

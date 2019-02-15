@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שתיקת האוהב</title>
+        <singer classification="band">צמד דרום</singer>
+        <writer>דני הורוביץ</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שתיקת האוהב</head>
+        <lg number="1" type="stanza">
+          <l>היום אשתוק לאורך כל הדרך</l>
+          <l>היום אביט רק בך, רק בך</l>
+          <l>לעד אשמור, אשמור את אור עינייך</l>
+          <l>ורק אקשיב לצחוק במבטך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>על כן אמרי כמה מילים</l>
+          <l>דברייך אני שומע</l>
+          <l>דברים של סתם על ים ועל שמיים</l>
+          <l>אולי נוכל לשקוע בתוכם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היום נחביא, ילדה, את כל המחשבות</l>
+          <l>היום נברח מהר מהר</l>
+          <l>יחדיו נרוץ, נרוץ מבלי לדאוג שוב</l>
+          <l>ואז אולי נהיה לבד, לבד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>על כן אמרי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היום, ילדה, נרחיק את בוא הלילה</l>
+          <l>היום זוהר יפול כוכב</l>
+          <l>לענותך אבנה רק את שבריו</l>
+          <l>ונאחה יחדיו את הקרעים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>על כן אמרי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

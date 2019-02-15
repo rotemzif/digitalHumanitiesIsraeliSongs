@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה עשית לי 2</title>
+        <singer classification="unknown">ליאת בנאי</singer>
+        <writer>אבי ביטר</writer>
+        <composer>אבי ביטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה עשית לי</head>
+        <lg number="1" type="stanza">
+          <l>כל הלילה לא נרדמתי מרוב מחשבות</l>
+          <l>עד הבוקר הסתובבתי טיילתי ברחובות</l>
+          <l>געגועים תפסו אותי רוצה רק אותך לראות</l>
+          <l>איך כבשת את ליבי עם החיוך והגומות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה עשית לי מה עשית לי </l>
+          <l>יש אומרים שזה כישוף שמשך אותי</l>
+          <l>ואני עוד לא יודעת מה סחב אותי </l>
+          <l>אם זה הכישוף או האהבה שבליבי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מגלת העתידות פתחה לי בקפה</l>
+          <l>בשבילים היא ראתה בחור אחד יפה</l>
+          <l>היא אמרה לבסוף הוא שלך יהיה</l>
+          <l>ואני יודעת שאתה הוא זה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה עשית לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

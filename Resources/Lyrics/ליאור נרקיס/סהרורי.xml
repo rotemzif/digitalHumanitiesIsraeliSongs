@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סהרורי</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>סהרורי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סהרורי</head>
+        <lg number="1" type="stanza">
+          <l>רחובות שוממים בסוף הלילה</l>
+          <l>חצי עולם ישן</l>
+          <l>ואני חולם ולא נרדם</l>
+          <l>לי קשה להבין ולך זה קל</l>
+          <l>אם היו לי מחשבות</l>
+          <l>לקחת לי גם אותם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>למה הכל נראה אפור?</l>
+          <l>והחושך מנצח אור</l>
+          <l>כשאת אינך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך ומתי אוכל לחזור </l>
+          <l>למקום שבו האושר גר?</l>
+          <l>אהבתך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>סהרורי בלילות</l>
+          <l>אין לי שקט בלעדייך</l>
+          <l>והלב מדמם</l>
+          <l>דמעות של אהבה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>סהרורי בלילות</l>
+          <l>אין לי שקט בלעדייך</l>
+          <l>אני שר לך בדמעות של אהבה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לא מוצא לי תשובות</l>
+          <l>ממשיך ללכת</l>
+          <l>רגלי לוקחות אותי</l>
+          <l>לאן? בכלל לא משנה</l>
+          <l>את הלילה הקר אני שואל</l>
+          <l>מי המציא את הכאב?</l>
+          <l>ואין לי מענה</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>למה הכל נראה אפור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

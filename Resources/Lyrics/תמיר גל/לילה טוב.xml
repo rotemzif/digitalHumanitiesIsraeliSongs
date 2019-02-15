@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילה טוב 28</title>
+        <singer classification="male singer">תמיר גל</singer>
+        <writer>מרטין גל</writer>
+        <composer>שמואל אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילה טוב</head>
+        <lg number="1" type="stanza">
+          <l>בחלומות שלי את נוגעת בי אני מכור להרגשה</l>
+          <l>במציאות שלי את לא רוצה אותי מתנהגת כמו זרה</l>
+          <l>במציאות הזאת את מפסידה אותי חבל על אהבה גדולה</l>
+          <l>אם תרצי בי שוב רק חבקי אותי תחזרי להתחלה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לילה טוב מתוקה שלי ממך נפרד כל לילה בנשיקה</l>
+          <l>נפגש איתך בחלומות שלי וחובק את ידך הרכה</l>
+          <l>לילה טוב מתוקה שלי ממך נפרד כל לילה בנשיקה</l>
+          <l>נפגש איתך בחלומות שלי ועושה איתך אהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שם ראשי על כר עוצם עיניים כמו תמיד את מופיעה</l>
+          <l>עשי כל מה שאת רוצה עד החלום הבא</l>
+          <l>אמרת לי תתקשר בעוד שבועיים שוב ושוב את לא זמינה</l>
+          <l>מה עשית לי בינתים את בשבילי היחידה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לילה טוב מתוקה שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

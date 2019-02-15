@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הם ישנם 2</title>
+        <singer classification="female singer">עדנה לב</singer>
+        <writer>יוסי גמזו</writer>
+        <composer>יוסי ואלד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הם ישנם</head>
+        <lg number="1" type="stanza">
+          <l>אלה ששוב לא יהיו.</l>
+          <l>אלה ששוב לא ניפגוש</l>
+          <l>אלה שלא יצחקו לעולם</l>
+          <l>אלה שקמו מול אש</l>
+          <l>אלה שרצו בראש</l>
+          <l>כל שהיו ואינם, עוד ישנם!</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הם ישנם, בליבם של כולם...</l>
+          <l>הם ישנם ויהיו לעולם,</l>
+          <l>בחיוך הנפלא,</l>
+          <l>בצרורות המיקלע,</l>
+          <l>בשתיקה ובבכי החם...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה קצר האביב, כמה שותק המישלט</l>
+          <l>כמה אילמים השירים למולם,</l>
+          <l>כל המילים הגדולות, מה הן מול אמא אחת,</l>
+          <l>אמא אחת של אחד מכולם...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הם ישנם, בליבם של כולם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שום זיכרון לא יסלח, שום שיכחה לא תימחוק</l>
+          <l>שום אהבה לא תגליד עם הזמן.</l>
+          <l>אלה שכאן - לא ידעו, שוב, אם לשתוק או לצעוק</l>
+          <l>רק השתיקות צועקות מעצמן...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הם ישנם, בליבם של כולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה לא מאוחר</title>
+        <singer classification="band">סטלה מאריס</singer>
+        <writer>פבלו רוזנברג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה לא מאוחר</head>
+        <lg number="1" type="stanza">
+          <l>אף מילה</l>
+          <l>רק מגע</l>
+          <l>יד קטנה</l>
+          <l>ענוגה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איך את נרגשת</l>
+          <l>והחום בוער בתוך העצמות</l>
+          <l>את מתפשטת</l>
+          <l>ואני בשתי עיניים עצומות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא זה לא מאוחר</l>
+          <l>השער נפתח</l>
+          <l>ויש עוד דקה</l>
+          <l>לא זה לא מאוחר</l>
+          <l>אני כאן איתך</l>
+          <l>כשאת מחכה לי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוד שתיקה</l>
+          <l>ארוכה</l>
+          <l>נשימה</l>
+          <l>עמוקה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את עוד נסערת</l>
+          <l>וגופך מוצא מקלט בזרועותי</l>
+          <l>את מתמסרת</l>
+          <l>הכישוף זורם מבין אצבעותי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לא זה לא מאוחר...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>הנה גן עדן</l>
+          <l>ושם ישנו מקום בשביל כולם</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>לא זה לא מאוחר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

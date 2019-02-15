@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילה בלעדי</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>שמואל אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילה בלעדי</head>
+        <lg number="1" type="stanza">
+          <l>יפה ונהדרת לגמרי אחרת, מטלפנת אלי בלילות</l>
+          <l>שעות לא נרדמת עלי היא חולמת, לי ממשיכה לחכות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תשני הלילה בלעדי, הירח לא זורח והחושך מעלי</l>
+          <l>אם את מאמינה שיש בך אהבה כנה, מצאת חבר אמת לנשמה</l>
+          <l>אל תשני הלילה בלעדי, הירח לא זורח שיגעת את חיי</l>
+          <l>אם את מאמינה שיש בך אהבה כנה, מצאת חבר אמת לנשמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהבה עיוורת האש בי בוערת, דיברנו שעות בלילות</l>
+          <l>רצינו לברוח דף חדש לפתוח, את העולם לגלות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תשני הלילה בלעדי...</l>
+        </lg>
+        <lg number="5" type="stanza" />
+      </lg>
+    </body>
+  </text>
+</TEI>

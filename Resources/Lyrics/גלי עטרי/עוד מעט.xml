@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד מעט 6</title>
+        <singer classification="female singer">גלי עטרי</singer>
+        <writer>אילן וירצברג</writer>
+        <composer>אילן וירצברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד מעט</head>
+        <lg number="1" type="stanza">
+          <l>עוד מעט ויכבו הפנסים</l>
+          <l>ואת תהיי לבד</l>
+          <l>ותביטי אל הלילה האפל</l>
+          <l>מחכה שיתבהר ולומדת להכיר</l>
+          <l>את הספק שמנכר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עוד מעט וילכו האנשים</l>
+          <l>ואת תהיי לבד</l>
+          <l>ותביטי אל חדרך המתרוקן</l>
+          <l>וחשש מה מתגנב</l>
+          <l>שהבית שאת גרה בו</l>
+          <l>איננו כלל ביתך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אי שם בין אוהבייך  שהיו לך</l>
+          <l>לא חשבת שיש עוד מקום לאהבה</l>
+          <l>לא ראית שכל מה שיש בתוך לבנו</l>
+          <l>זה אותו דבר שאנחנו מחכים</l>
+          <l>ולא רואים ומחכים ומסרבים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוד מעט והלילה יגמר</l>
+          <l>ואת תהיי שרועה לבדך</l>
+          <l>על מיטתך הלבנה</l>
+          <l>מאבדת את עצמך</l>
+          <l>מסתתרת מהשחר שדופק על חלונך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אי שם בין אוהבייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

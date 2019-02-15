@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כנרת 19</title>
+        <singer classification="male singer">שלמה ארצי</singer>
+        <writer>דני סנדרסון</writer>
+        <composer>דני סנדרסון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כנרת</head>
+        <lg number="1" type="stanza">
+          <l>כינרת סירה על המים</l>
+          <l>ירח האיר רגבים</l>
+          <l>שנינו בים של שמיים</l>
+          <l>אהבנו לאור כוכבים</l>
+          <l>את השיר הזה כתבנו</l>
+          <l>על סלעי חוף לבנים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סתם סיפור אהבה ישן</l>
+          <l>שאף פעם לא היה</l>
+          <l>סתם סיפור אהבה נושן</l>
+          <l>שכמעט והיה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>התן אז ילל לו ברוח</l>
+          <l>ירדו ערפלים על ההר</l>
+          <l>שנינו בנוף הפתוח</l>
+          <l>צפינו בחוף המואר</l>
+          <l>את השיר הזה כתבנו</l>
+          <l>מול עצי חוף ירוקים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סתם סיפור אהבה ישן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

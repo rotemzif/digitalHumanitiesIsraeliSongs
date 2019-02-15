@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ספר לי 2</title>
+        <singer classification="band">הגשש החיוור</singer>
+        <writer>עממי</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ספר לי</head>
+        <lg number="1" type="stanza">
+          <l>למה רזית? כולם אומרים לי</l>
+          <l>תיראו כבר מה שהיה לי</l>
+          <l>זה הכל בגלל ההורים</l>
+          <l>שנפרדו לעולמים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ספר לי, ספר לי</l>
+          <l>למה אותי לא אהבת?</l>
+          <l>ספר לי ספר לי</l>
+          <l>למה עלי לא חשבת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשרואה אותך ברחוב</l>
+          <l>פתאום נהיה לי לא טוב,</l>
+          <l>דמעות זולגות לי מעיני</l>
+          <l>ונזכרת בחיי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ספר לי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כשבאת ממולי</l>
+          <l>כבר אז סיפרת לי</l>
+          <l>תראי תראי ת'כוכבים</l>
+          <l>הם אף פעם לא מרמים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ספר לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

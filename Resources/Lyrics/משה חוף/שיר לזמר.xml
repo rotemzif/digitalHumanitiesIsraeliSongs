@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר לזמר</title>
+        <singer classification="unknown">משה חוף</singer>
+        <writer>שלמה כישור</writer>
+        <composer>שלמה מזרחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר לזמר</head>
+        <lg number="1" type="stanza">
+          <l>שיר לזמר הקולח שיוצא לי מן הלב,</l>
+          <l>את לבי רק הוא פותח ואותו אני אוהב.</l>
+          <l>מהשחר עד הלילה מתנגן הוא בדמי,</l>
+          <l>לבבי הוא משמח וברון אשא קולי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שיר לזמר בין ערביים,</l>
+          <l>שיר לזמר עם זריחה</l>
+          <l>שיר לזמר כל הלילה,</l>
+          <l>שיר שבא לי בברכה.</l>
+          <l>שיר לזמר מהשחר,</l>
+          <l>שיר עד בוא הדמדומים</l>
+          <l>שיר לשיר בצהריים,</l>
+          <l>שיר לאור הכוכבים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שיר לזמר השמח, הפותח לבבות</l>
+          <l>על כוס-יין ועל בירה ופורחות האהבות</l>
+          <l>כי אותו ישיר הנער עוד ועוד לנערה</l>
+          <l>שבחר לבו הפעם ורק בו היא בחרה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שיר לזמר בין ערביים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שיר לזמר הפורח בקרבי כל הימים,</l>
+          <l>ענפים רבים שולח ומכה בי שורשים.</l>
+          <l>כל חיי אותו אשירה לשמח אנשים,</l>
+          <l>בלעדיו, אני יודע, החיים כל-כך קשים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שיר לזמר בין ערביים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

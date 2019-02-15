@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק אחד 2</title>
+        <singer classification="band">זקני צפת</singer>
+        <writer>מאור כהן</writer>
+        <composer>מאור כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק אחד</head>
+        <lg number="1" type="stanza">
+          <l>מי אני יכול להיות? </l>
+          <l>אני אחד וזה הכל </l>
+          <l>מי אני יכול להיות? </l>
+          <l>אני אחד אני הכל </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני מביט על העולם </l>
+          <l>אני רואה שם את כולם </l>
+          <l>מי אני יכול להיות? </l>
+          <l>אני אחד וזה הכל </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את מי אני מרגיש? </l>
+          <l>רק אותי ולא אחד רגיש </l>
+          <l>אני מביט על העולם </l>
+          <l>אני רואה שם את כולם </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני מביט על עצמך </l>
+          <l>אני רואה שם רק אותך </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני מביט על העולם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

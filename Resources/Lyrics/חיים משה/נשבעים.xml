@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נשבעים</title>
+        <singer classification="male singer">חיים משה</singer>
+        <writer>סגיב כהן</writer>
+        <composer>סגיב כהן</composer>
+        <album>איך שבאת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נשבעים</head>
+        <lg number="1" type="stanza">
+          <l>הרחוב כבר שקט ורגוע</l>
+          <l>אנשים כבר חולמים על מחר</l>
+          <l>ואני את יופייך כמו הרוח</l>
+          <l>מלטף ומאושר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מתרגש מחדש בכל פעם</l>
+          <l>מתרגש מחדש אהובה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זה אני ואת נשבעים לעד</l>
+          <l>שנחיה ביחד כמו אחד</l>
+          <l>זה אני ואת נשבעים לעד</l>
+          <l>שנלך בלי פחד יד ביד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בנפשי יש תפילה לשמים</l>
+          <l>שזה לא ייגמר לעולם</l>
+          <l>כי ליבי לך צמא כמו למים</l>
+          <l>בזכותך אני קיים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מתרגש מחדש בכל פעם</l>
+          <l>מתרגש מחדש אהובה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה אני ואת נשבעים לעד </l>
+          <l>שנחיה ביחד כמו אחד</l>
+          <l>זה אני ואת נשבעים לעד</l>
+          <l>שנלך בלי פחד יד ביד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

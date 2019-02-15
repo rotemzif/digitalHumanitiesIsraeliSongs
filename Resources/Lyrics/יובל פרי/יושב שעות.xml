@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יושב שעות</title>
+        <singer classification="male singer">יובל פרי</singer>
+        <writer>שיקו חייק</writer>
+        <composer>שיקו חייק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יושב שעות</head>
+        <lg number="1" type="stanza">
+          <l>נזכר בדברים שהיו לי בעבר</l>
+          <l>זה היה חלום קצר וחבל שהוא נגמר</l>
+          <l>האם אוכל לשוב אל אותם הימים היפים</l>
+          <l>את התשובה לא יודע הכל ביד אלוהים</l>
+          <l>האם אוכל לשוב אל אותם הימים היפים</l>
+          <l>את התשובה לא יודע הכל ביד אלוהים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יושב שעות ליד הים ובוכה עם עצמי</l>
+          <l>יושב שעות ליד הים ומנסה לסלוח לנפשי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הדמעות אל הים נסחפות אני יושב כאן שעות</l>
+          <l>והים מתמלא דמעות</l>
+          <l>איך בך פגעתי נשמתי ולך אמרתי אל תחזרי</l>
+          <l>ומאז אני לא סולח לעצמי</l>
+          <l>איך בך פגעתי נשמתי ולך אמרתי אל תחזרי</l>
+          <l>ומאז אני לא סולח לעצמי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יושב שעות ליד הים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

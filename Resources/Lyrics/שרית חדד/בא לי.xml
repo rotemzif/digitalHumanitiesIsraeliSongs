@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בא לי 24</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>קריאקוס פופודופולוס</composer>
+        <album>20</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בא לי</head>
+        <lg number="1" type="stanza">
+          <l>באת כמו מלאך למול עיני</l>
+          <l>מבט ראשון שלך מיד נגע בי</l>
+          <l>העולם האיר פניו אלי</l>
+          <l>אתה איתי רואה אותך</l>
+          <l>ועפה לי ברוח</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בא לי שתיקח אותי איתך</l>
+          <l>נרגשת לכבודך</l>
+          <l>נכספת אל האושר לצידך</l>
+          <l>בא לי שניסע רחוק מכאן</l>
+          <l>לא חשוב בכלל לאן</l>
+          <l>רק איתך רוצה כל רגע לעולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תמיד אתה הגבר לצידי</l>
+          <l>נושא אהבתי לכל דרך</l>
+          <l>שתי עיני שקד ומתנה</l>
+          <l>יפה האהבה</l>
+          <l>שלה נועדנו זה לזו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בא לי שתיקח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

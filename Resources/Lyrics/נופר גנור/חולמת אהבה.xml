@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חולמת אהבה</title>
+        <singer classification="female singer">נופר גנור</singer>
+        <writer>נופר גנור</writer>
+        <composer>נופר גנור</composer>
+        <album>מתוך יומני</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חולמת אהבה</head>
+        <lg number="1" type="stanza">
+          <l>תמונות קטנות מהחיים </l>
+          <l>שזורמים ושוב מתהפכים. </l>
+          <l>מה שהיה אולי הוא עוד ישוב </l>
+          <l>ומה שיהיה אולי כבר לא חשוב. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>המציאות מתכהה עם השנים </l>
+          <l>חיוכים קטנים לפעמים נעלמים. </l>
+          <l>אך הלילה הגעת ושוב חזר האור </l>
+          <l>חלום יפה שאני רוצה לזכור. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ובלילות אני חולמת אהבה </l>
+          <l>עם גלים כחולים ולהבה. </l>
+          <l>ובלילות אני חולמת עננים </l>
+          <l>שלאט את ליבינו עוטפים. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ימים שלמים ללא שינה </l>
+          <l>מתהפכת במיטה. </l>
+          <l>דאגות מטרידות מנוחתי </l>
+          <l>אז לפחות תבוא תיהיה איתי. </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ובלילות אני חולמת אהבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

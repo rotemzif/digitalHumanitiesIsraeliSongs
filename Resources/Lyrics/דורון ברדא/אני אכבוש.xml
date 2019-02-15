@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני אכבוש</title>
+        <singer classification="unknown">דורון ברדא</singer>
+        <writer>חיים אוחנה</writer>
+        <composer>חיים אוחנה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני אכבוש</head>
+        <lg number="1" type="stanza">
+          <l>את יודעת כמה את, את חשובה לי</l>
+          <l>וכמה רחוק אני יכול להגיע</l>
+          <l>לראות אותך קרוב זה כל מה שבא לי</l>
+          <l>עם החיוך המתוק המשגע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אז תגידי לי אהובתי</l>
+          <l>מה עוד אעשה שלא עשיתי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני אכבוש את העולם למענך</l>
+          <l>כל שתרצי אביא רק תבקשי</l>
+          <l>יום יום חוזר ומתייצב מול חלונך</l>
+          <l>ובידי שמלת כלה שתלבשי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את יודעת כמה את, את חסרה לי</l>
+          <l>כל שעה כל יום וכל שבוע</l>
+          <l>עוד מעט הופך הכל קצת לא נורמלי</l>
+          <l>ודבר אינו רגוע</l>
+          <l>כי רק אלייך אהבתי מה עוד אעשה שלא עשיתי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני אכבוש את העולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה היה קורה</title>
+        <singer classification="unknown">נאור אורמיה</singer>
+        <writer>נאור אורמיה</writer>
+        <composer>אבי אייכנר</composer>
+        <album>נאור אורמיה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה היה קורה</head>
+        <lg number="1" type="stanza">
+          <l>הלוואי והיית יודעת</l>
+          <l>שאני יושב עכשיו וכותב לך שיר </l>
+          <l>ומציץ מהחלון של החדר במלון </l>
+          <l>על הים החשוך כמו הלב שלי</l>
+          <l>שבדרך כלל כחול כמו העיניים שלך </l>
+          <l>מזמזם פזמון מוכר ובך שוב נזכר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז מה היה קורה </l>
+          <l>אם היית יודעת איזה שיר את עכשיו שומעת</l>
+          <l>אם יש משמעות לדרך שבה את נוגעת</l>
+          <l>על מי את חושבת כל יום עד בלי די </l>
+          <l>ואולי זה אפילו עלי, הלוואי </l>
+          <l>אם רק היית יודעת שאני זוכר את כל מה שעבר חיבוקים בלילה, נשיקות על הצוואר </l>
+          <l>כל חיוך, כל נשיקה, איתי או עם זר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלוואי והיית זוכרת </l>
+          <l>את כל הימים שעברו רק איתך</l>
+          <l>ומי יודע מה את חושבת ומי עכשיו </l>
+          <l>אוחז בידיים שלך </l>
+          <l>שבדרך כלל חמות כמו הלב שלא נגמר </l>
+          <l>מתבונן אל השמיים ולך שר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז מה היה קורה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

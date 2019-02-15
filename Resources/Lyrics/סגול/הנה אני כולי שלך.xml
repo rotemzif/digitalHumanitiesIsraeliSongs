@@ -1,0 +1,37 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הנה אני כולי שלך</title>
+        <singer classification="unknown">סגול 2</singer>
+        <writer>שי בן צור</writer>
+        <composer>שי בן צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הנה אני כולי שלך</head>
+        <lg number="1" type="stanza">
+          <l>הנה אני כולי שלך, עשה בי כרצונך, </l>
+          <l>באתי ריק, אני נכנע, לבי נתון לחסדך. </l>
+          <l>גם אם הכול ישלל ממני, בתוכי קולך אשמע. </l>
+          <l>מן הכאב הוא ירימני, ימלאני בהשראה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נפגשנו בסתיו</title>
+        <singer classification="band">המשפחה</singer>
+        <writer>אמיר חיים</writer>
+        <composer>אמיר חיים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נפגשנו בסתיו</head>
+        <lg number="1" type="stanza">
+          <l>בא לי לנדוד כשבא לי הסתיו</l>
+          <l>לחפש את האחת שתאמר איתך אשאר גם מחר</l>
+          <l>בא לי לבכות כשבא לי הסתיו</l>
+          <l>לבקש רק ממך שתבין תסכים להמתין ותאהב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואי נלך לחוף בלי אדם</l>
+          <l>נחפש לנו גל ונשוטה ביחד מעל הפחדים</l>
+          <l>בוא ונלך לחוף מבטחים</l>
+          <l>תקבל רק אותי שקופה ופגועה משקרים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נפגשתם בסתיו עננים ברקיע </l>
+          <l>נפגשתם בסתיו עד לאן עד לאן זה יגיע</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בא לי לרקום חלום על מחר</l>
+          <l>כשאצעד לחופה אז תישא נפשי וגופי לאישה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בואי נלך...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>בא לי לקשור, בא לקלף, בא שתשמור, בא לכייף</l>
+          <l>בא לי לנדוד, בא לי לנדוד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שם באבן</title>
+        <singer classification="female singer">מזי כהן</singer>
+        <writer>קייט בוש</writer>
+        <composer>קייט בוש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שם באבן</head>
+        <lg number="1" type="stanza">
+          <l>מעשן התותחים</l>
+          <l>הוא שב אלי, נישא קדימה</l>
+          <l>מחכה עם זר פרחים</l>
+          <l>לקשט גיבור של אמא</l>
+          <l>קר לך, היום חמים</l>
+          <l>האבל נח בנמל הבית</l>
+          <l>ארבעה לובשי מדים</l>
+          <l>נושאים אותך, עלה של זית.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מי שהיה לא יהיה כוכב רוק,</l>
+          <l>עדיין לא למד לפרוט על הגיטרה.</l>
+          <l>מי שהיה לא יגיע רחוק,</l>
+          <l>ילד שאתמול נפרד מבית הספר.</l>
+          <l>מי שהיה לא ירגיע תינוק,</l>
+          <l>כי עשרים שנה עדיין לא מלאו לו.</l>
+          <l>ועכשיו הוא שם באבן</l>
+          <l>ועכשיו הוא שם באבן</l>
+          <l>שם באבן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קול דמעה על הארון</l>
+          <l>הוא לא יכול היה לדעת</l>
+          <l>את קולות הנצחון</l>
+          <l>האדמה תמיד בולעת</l>
+          <l>תנו לילד כאן לבחור</l>
+          <l>אותות גבורה, עיטור של ערך</l>
+          <l>שם באפילת הבור</l>
+          <l>איפה היא צידקת הדרך?!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מי שהיה לא יהיה כוכב רוק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

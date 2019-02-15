@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סיפור אהבה שלו</title>
+        <singer classification="band">החברים של נטאשה</singer>
+        <writer>חיים בוזגלו</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סיפור אהבה שלו</head>
+        <lg number="1" type="stanza">
+          <l>היו לה קשקשים נפלאים בצוואר</l>
+          <l>ידעתי מיד שהתאהבתי</l>
+          <l>היא הביטה אלי וירקה לי אש</l>
+          <l>ואני נדלקתי</l>
+          <l>עטפתי לה ברוש בנייר צלופן</l>
+          <l>ושאגתי עד סוף העולם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני אוהב אותך מקרו פלטה</l>
+          <l>אפילו שאביט בך מלמטה</l>
+          <l>גבוהה ויפה בזנבך הארוך</l>
+          <l>כמה שבא לי אותך לנשוך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הזמנתי אותך לקוטב</l>
+          <l>בישלתי לוויתן ברוטב</l>
+          <l>צורב לי בקרן</l>
+          <l>זה סימן שאני אוהב</l>
+          <l>ביחד ירקנו אש ועשן</l>
+          <l>ושאגתי עד סוף העולם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני אוהב אותך מקרו פלטה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

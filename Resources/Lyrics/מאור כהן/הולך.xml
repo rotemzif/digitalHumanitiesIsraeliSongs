@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הולך 41</title>
+        <singer classification="male singer">מאור כהן</singer>
+        <writer>מאור כהן</writer>
+        <composer>מאור כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הולך</head>
+        <lg number="1" type="stanza">
+          <l>הולך תמיד הולך</l>
+          <l>מהרגע מתרחק</l>
+          <l>הולך</l>
+          <l>דורך</l>
+          <l>עמוק דורך</l>
+          <l>שלא אוכל להתחרט</l>
+          <l>דורך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הנופים בדרך שרו כמו ביקשו שאעצור</l>
+          <l>ואני כמעט זכרתי שהבטחתי לא לחזור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שורק</l>
+          <l>בחוץ שורק</l>
+          <l>את השקט מסלק</l>
+          <l>שורק</l>
+          <l>חוזר תמיד חוזר</l>
+          <l>רק רציתי לאחר</l>
+          <l>הולך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הנופים בדרך שרו כמו ביקשו שאעצור</l>
+          <l>ואני כמעט זכרתי שהבטחתי לא לחזור</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הנופים בדרך שרו כמו קילפו את השריון</l>
+          <l>ואני כמעט שכחתי שהבטחתי עוד לחזור</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

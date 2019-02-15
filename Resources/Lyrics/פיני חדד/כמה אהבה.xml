@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה אהבה 4</title>
+        <singer classification="male singer">פיני חדד</singer>
+        <writer>אביחי מליחי</writer>
+        <composer>אביחי מליחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה אהבה</head>
+        <lg number="1" type="stanza">
+          <l>כמה אהבה, תשטה בלב אדם? </l>
+          <l>כמה אהבה, תשוטט לה בעולם? </l>
+          <l>כמה אהבה, תשחק בלבבות? </l>
+          <l>כמה עוד אפשר לאהוב? </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ילדתי יפת עיניים </l>
+          <l>נשמה טהורה </l>
+          <l>בואי נאהב בשניים </l>
+          <l>ילדה, לך על השפתיים </l>
+          <l>נושק בחום, אוהב אותך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה נשיקות, לך שלחתי בלילות </l>
+          <l>רציתי לקוות, שאיתך יהיה רק טוב </l>
+          <l>אך הפרחים קמלו, ובשמך קראתי שוב </l>
+          <l>כמה עוד אפשר לאהוב? </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ילדתי יפת עיניים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

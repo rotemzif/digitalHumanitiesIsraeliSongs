@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבא תגיד לי למה</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>יגאל בשן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבא תגיד לי למה</head>
+        <lg number="1" type="stanza">
+          <l>אבא למה זה כל ערב אתה הולך להופעה</l>
+          <l>ולוקח ת'גיטרה ומשתולל על הבמה</l>
+          <l>איך שרים בתוך הרדיו ומה זה חדשות הספורט</l>
+          <l>מה זה להקפיא ת'ליגה וכל הזמן עושים שביתות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז אבא תענה לי מה זה למה איך מתי</l>
+          <l>אני רוצה תשובה ואין לי</l>
+          <l>תענה לי כבר ודי אז אבא תענה לי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני אוהב רק את מלייקה שמשחקת רק איתי</l>
+          <l>עוד אביא אותה הביתה וכשאגדל תהיה אשתי</l>
+          <l>מי המציא את בית הספר אבא מה זאת אהבה</l>
+          <l>כמה כסף זה ביוקר ולמה יש פה מלחמה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז אבא תענה לי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מה מותר לי מה אסור לי אבא למה מתחתנים</l>
+          <l>שאלה אחת נותרה לי איפה הוא האלוהים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אז אבא תענה לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

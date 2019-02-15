@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זו את 4</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>אלון צדוק</writer>
+        <composer>שמעון בוסקילה</composer>
+        <album>מבט שנוגע</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זו את</head>
+        <lg number="1" type="stanza">
+          <l>זו את שגורמת לי לאהוב</l>
+          <l>כן, זו את</l>
+          <l>זו את שמאירה לי </l>
+          <l>את הדרך לטוב</l>
+          <l>כן, זו את</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זו את שמגנה עלי</l>
+          <l>כמו צמח בר</l>
+          <l>למענך אוותר על כל דבר</l>
+          <l>כן, זו את</l>
+          <l>זו את שזוכרת את החשוב</l>
+          <l>כן, זו את</l>
+          <l>שתדעי יום שעובר כבר לא ישוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה אני שפורט על מייתרי ליבך</l>
+          <l>זה אני שאותך כל כך אוהב</l>
+          <l>זה אני שעלייך תמיד אגונן</l>
+          <l>זה אני שבליבך לא אפסיק לנגן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זו את שנוגעת בנשמתי</l>
+          <l>כן, זו את</l>
+          <l>זו את שתמיד נמצאת לצידי</l>
+          <l>כן, זו את</l>
+          <l>זו את שמעניקה אהבה מהלב</l>
+          <l>ועלייך תמיד אני חושב</l>
+          <l>כן, זו את</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זו את שזוכרת את החשוב </l>
+          <l>כן, זו את</l>
+          <l>שתדעי יום שעובר כבר לא ישוב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה אני שפורט על מיתרי ליבך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

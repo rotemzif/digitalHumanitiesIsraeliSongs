@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חירותי 4</title>
+        <singer classification="male singer">דורון מזר</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חירותי</head>
+        <lg number="1" type="stanza">
+          <l>מי השומרת בשקט את דרך האהבה?</l>
+          <l>מי החודרת קיר אבן ונותנת לך תקווה?</l>
+          <l>ארץ ומים ביעף היא עוברת גאה כולה</l>
+          <l>עוף השמיים כל הליל נושא קולה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חירותי כמו הרוח חופשייה</l>
+          <l>חירותי היא אל מוות, היא חיה</l>
+          <l>דמעתה כצילו של יום קודר</l>
+          <l>נשמתה היא לפיד בוער</l>
+          <l>חירותי היא בבת עיני כעת</l>
+          <l>סגור אותה והיא תימלט</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין לה מנוח מאלה אשר מבקשים נפשה</l>
+          <l>יש לה עוד כח</l>
+          <l>לא, הם לא יראוה בייאושה</l>
+          <l>ארץ ומים חוצה בלי מרגוע פגועה כולה</l>
+          <l>עוף השמיים כל הליל ישא קולה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חירותי כמו הרוח חופשייה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

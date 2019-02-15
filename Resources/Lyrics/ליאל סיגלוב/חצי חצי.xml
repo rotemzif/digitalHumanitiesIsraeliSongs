@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חצי חצי</title>
+        <singer classification="unknown">ליאל סיגלוב</singer>
+        <writer>דודי שרון</writer>
+        <composer>דודי שרון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חצי חצי</head>
+        <lg number="1" type="stanza">
+          <l>אתה יודע שגופי זה חצי חצי</l>
+          <l>רק אתה יודע ומוכן להיות איתי..</l>
+          <l>אם תחשוב לרגע אתה תברח תחזור אחור</l>
+          <l>תביט לרגע ולא תבין כבר איזה חור..</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תנתק ת'מוח תן לברוח</l>
+          <l>תשכח כבר מהכל</l>
+          <l>לא סתם בלונדינית, אינפנטילית</l>
+          <l>אם תחפש תמצא בי עוד</l>
+          <l>אנ'לא נשברת ולא נותנת תשובה לכל בחור</l>
+          <l>זה לא העובי זה רק היופי</l>
+          <l>שזה יהיה לך ברור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שוקולד מורחת על הגוף</l>
+          <l>נהנית לי שרק ייצא הצוף..</l>
+          <l>תשפיל עיניך אל תהיה כל כך עצוב</l>
+          <l>זה נגמר עוד רגע ותלך לשטוף תגוף..</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תנתק ת'מוח תן לברוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

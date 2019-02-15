@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלפיים חמישים ושתיים</title>
+        <singer classification="unknown">שחר אבן צור</singer>
+        <writer>שחר אבן צור</writer>
+        <composer>שחר אבן צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלפיים חמישים ושתיים</head>
+        <lg number="1" type="stanza">
+          <l>פתאום מתחשק לי לחיות עד שמונים</l>
+          <l>לראות את כולנו זקנים</l>
+          <l>לסגור את הדלת בשני מנעולים</l>
+          <l>לשמוע שירים ישנים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני לא רוצה להיות לבד אז תחזיקי מעמד</l>
+          <l>ונביט אל השמיים באלפיים חמישים ושתיים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>טיול לירח אולי עוד נספיק</l>
+          <l>לחגור מאחור בתוך חללית</l>
+          <l>מדינה אחת לשני עמים</l>
+          <l>אולי זה יקרה שנהיה בני שמונים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני לא רוצה להיות לבד אז תחזיקי מעמד</l>
+          <l>ונביט אל השמיים באלפיים חמישים ושתיים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

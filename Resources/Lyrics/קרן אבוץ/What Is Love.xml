@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>What Is Love</title>
+        <singer classification="unknown">קרן אבוץ</singer>
+        <writer>הלל גולדבלום</writer>
+        <composer>הלל גולדבלום</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>What Is Love</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>Here I stand, waiting </l>
+          <l>Waiting for your love </l>
+          <l>I give you all my days </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Though I may never find you </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Should I search forever? </l>
+          <l>Dream of just one dream? </l>
+          <l>And sacrifice a life </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>Or should I, </l>
+          <l>Leave my dreams behind me </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>What is Love? </l>
+          <l>If I can’t love you </l>
+          <l>What are days (nights) for? </l>
+          <l>When dawn brings nothing new </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>What is Love? </l>
+          <l>If I can’t love you (Without loving you) </l>
+          <l>What are dreams for? </l>
+          <l>If dreams can never come true </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>Here I stand, waiting...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ממתינה</title>
+        <singer classification="unknown">ראובן המלאך</singer>
+        <writer>ראובן המלאך</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ממתינה</head>
+        <lg number="1" type="stanza">
+          <l>מצלצל אלייך ואת לא עונה</l>
+          <l>תמיד נמצאת בממתינה</l>
+          <l>מצלצל אלייך ואת לא עונה</l>
+          <l>הבל מחסיר פעימה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היי ילדה מה את עושה</l>
+          <l>לא מבינה באהבה</l>
+          <l>היי ילדה מה את עושה</l>
+          <l>שוב חוזרת על אותה השגיאה</l>
+          <l>תעני ילדה עני לממתינה</l>
+          <l>משתגע שאת לא עונה</l>
+          <l>תעני ילדה עני לממתינה</l>
+          <l>משתגע שאת לא עונה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מדליק את האוטו בדרך אלייך</l>
+          <l>רוצה להיות בזרועותייך</l>
+          <l>עולה במדרגות וחושב עלייך</l>
+          <l>רוצה לראות כבר את פנייך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היי ילדה מה את עושה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

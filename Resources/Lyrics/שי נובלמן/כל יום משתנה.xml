@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל יום משתנה 2</title>
+        <singer classification="male singer">שי נובלמן</singer>
+        <writer>שי נובלמן</writer>
+        <composer>שי נובלמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל יום משתנה</head>
+        <lg number="1" type="stanza">
+          <l>חמש שנים שלמות, בלי לעשות שטויות, עברו לי מהר </l>
+          <l>עומד מול המראה, כועס בחזרה, זה לא אני </l>
+          <l>ועוד שנה עברה, קמטים חדשים. שונא את השנה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני כל יום משתנה, משתנה ולא עוצר כמו השמש באלסקה </l>
+          <l>קרחונים נמסים, מתרחקים במים </l>
+          <l>צוללים אל תוך הים, גם אני איתם </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נסעת לאברטון, קראתי בעיתון, זמנים חדשים </l>
+          <l>קומה ועוד קומה, רכבת אחרונה, על הרציף </l>
+          <l>ועוד שנה עברה, קמטים ישנים, שונא את השנה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני כל יום משתנה, משתנה ולא עוצר כמו השמש באלסקה </l>
+          <l>קרחונים נמסים, מתרחקים במים </l>
+          <l>צוללים אל תוך הים, גם אני איתם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

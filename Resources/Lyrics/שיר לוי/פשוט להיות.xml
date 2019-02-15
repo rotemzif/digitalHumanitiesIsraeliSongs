@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פשוט להיות 2</title>
+        <singer classification="male singer">שיר לוי</singer>
+        <writer>אברהם לופו</writer>
+        <composer>אברהם לופו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פשוט להיות</head>
+        <lg number="1" type="stanza">
+          <l>במהירות הזו </l>
+          <l>שהחיים חולפים, </l>
+          <l>לפעמים קשה קצת </l>
+          <l>להספיק לחיות.</l>
+          <l>אתה קם בבוקר </l>
+          <l>והנה חלפו שנים. </l>
+          <l>התבגרת, לא הספקת,</l>
+          <l>להגיד שאתה אוהב.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והחיים -</l>
+          <l>עם חשבון נישאים ברוח</l>
+          <l>ואנחנו, משתדלים על האדמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בכל מקום ועת, </l>
+          <l>יש יופי. </l>
+          <l>צריך לפתוח את הלב </l>
+          <l>בשביל לראות.</l>
+          <l>את הפרח הזה - </l>
+          <l>והשמיים.</l>
+          <l>להפסיק לברוח, </l>
+          <l>פשוט להיות.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והחיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לי דרכים לומר לך אוהב</title>
+        <singer classification="male singer">שמעון בוסקילה</singer>
+        <writer>אהוד מנור</writer>
+        <composer>שמעון בוסקילה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לי דרכים לומר לך אוהב</head>
+        <lg number="1" type="stanza">
+          <l>כל השירים נכתבו בשבילך</l>
+          <l>כדי שיאיר בכי מבטך</l>
+          <l>איך אהבתי אהבתי אהבתי</l>
+          <l>כל מנגינה כל מילה בזכותך</l>
+          <l>וכשהלכת איך כאבתי...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם רק תקשיבי, אני יודע</l>
+          <l>יש לי הרבה דרכים לומר לך אוהב</l>
+          <l>אם רק תקשיבי, אני יודע</l>
+          <l>יש לי דרכים אל תוך הלב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את שחיבקת כששכבתי לישון</l>
+          <l>את שאמרת לי: אתה הראשון</l>
+          <l>איך חלמתי חלמתי חלמתי</l>
+          <l>אלף שירים אז על קצה הלשון</l>
+          <l>וכשהלכת איך נדמתי...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם רק תקשיבי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

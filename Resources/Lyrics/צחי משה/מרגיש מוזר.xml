@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מרגיש מוזר</title>
+        <singer classification="unknown">צחי משה</singer>
+        <writer>צחי משה</writer>
+        <composer>צחי משה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מרגיש מוזר</head>
+        <lg number="1" type="stanza">
+          <l>בואי נדבר ישר לא מבין מה את עושה לי</l>
+          <l>אני מתחיל לאבד את הזמן</l>
+          <l>איתך אני מרגיש מוזר זה אף פעם לא קרה לי</l>
+          <l>את עושה מכל שטות בלאגן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה הולך ומתגבר, אוי מה אני עובר</l>
+          <l>תשמעי אני קורא לך בואי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בואי, בואי אלי, את ברגשותי</l>
+          <l>תביני את היחידה</l>
+          <l>בואי אלי, אוהב ללא תנאי</l>
+          <l>אז בואי, בואי אלי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לצידך הופך נרגש רוצה שבי רק תאמיני</l>
+          <l>אני מתחיל לאבד פה עניין</l>
+          <l>אז קדימה בואי אלי בלי לחשוב את רק תרוויחי</l>
+          <l>אני אתן לך מה שלא קיבלת מזמן</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זה הולך ומתגבר, אוי מה אני עובר</l>
+          <l>תשמעי אני קורא לך בואי</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>בואי, בואי אלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

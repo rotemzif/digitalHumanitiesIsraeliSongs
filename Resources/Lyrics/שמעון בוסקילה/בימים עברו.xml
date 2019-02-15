@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בימים עברו</title>
+        <singer classification="male singer">שמעון בוסקילה</singer>
+        <writer>קובי אוז</writer>
+        <composer>שמעון בוסקילה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בימים עברו</head>
+        <lg number="1" type="stanza">
+          <l>מחייכת כמו ילדה את זוכרת איך היה</l>
+          <l>שהיינו אהבה והייתי איתי טובה</l>
+          <l>איך היינו יד ביד איך הלכנו למקומות</l>
+          <l>איך אף פעם לא לבד זה נשאר בחלומות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בימים עברו את היית סולחת</l>
+          <l>בימים עברו את היית שלי</l>
+          <l>בימים עברו לא היית שוכחת</l>
+          <l>והיינו יחד כמו בסרטים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה אני זה לא איש זר</l>
+          <l>מנסה בכל צורה</l>
+          <l>זיכרון מהעבר להזכיר לך מה קרה</l>
+          <l>איך היינו בשקיעה מה הרגשנו בזריחה</l>
+          <l>איך ליטפנו את הים האם הרגש עוד קיים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בימים עברו את היית סולחת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

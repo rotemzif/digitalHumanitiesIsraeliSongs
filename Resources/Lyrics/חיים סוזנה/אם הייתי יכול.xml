@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם הייתי יכול 3</title>
+        <singer classification="unknown">חיים סוזנה</singer>
+        <writer>עידן גואטה</writer>
+        <composer>אריאל אלקיים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם הייתי יכול</head>
+        <lg number="1" type="stanza">
+          <l>אם הייתי יכול לצייר במכחול את הלב שלך </l>
+          <l>אם הייתי יכול לשיר לך בקול שאת מלאך </l>
+          <l>שמצאתי תדרך הייתי כמו מלך שאוהב אותך </l>
+          <l>והיום כבר הבנתי איתך זה רומנטי </l>
+          <l>אני לאהבה נמשך. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהבה שלי אלייך חזקה </l>
+          <l>אני שבוי בקסמייך מתוקה </l>
+          <l>בליבי חולם שוב על שפתייך אהובה </l>
+          <l>והאור שבענייך נותן תקווה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש רגעים שבהם את חושבת שהכל נגמר </l>
+          <l>ויש דרכים שבהם את בוחרת והלב שוב נשבר </l>
+          <l>יש רגעים שלי את אומרת שאיתך אין מחר </l>
+          <l>שאיתך אין דרך אהבה שנגמרת עוד יום עבר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהבה שלי אלייך חזקה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

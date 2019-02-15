@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילדה מחדש</title>
+        <singer classification="female singer">רינת גבאי</singer>
+        <writer>רינת גבאי</writer>
+        <composer>רינת גבאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילדה מחדש</head>
+        <lg number="1" type="stanza">
+          <l>אני מזמן לא ילדה</l>
+          <l>החושך כבר לא מפחיד אותי</l>
+          <l>כשאני איתך, איתך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ושוב יש לי חיים</l>
+          <l>הכוחות שלי חוזרים</l>
+          <l>כשאני איתך, אני איתך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זה פגע בי כמו חמסין בסתיו</l>
+          <l>וסחף את כולי כמו סופה בשרב</l>
+          <l>הנה בא הגשם ויורד אלי עכשיו</l>
+          <l>אני איתך, כמו ילדה מחדש</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני מזמן לא ילדה</l>
+          <l>האושר כבר לא מפחיד אותי</l>
+          <l>כשאני איתך, איתך</l>
+          <l>ויש לי לפעמים</l>
+          <l>חלומות שמתגשמים</l>
+          <l>כשאני איתך, אני איתך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זה פגע בי כמו חמסין בסתיו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

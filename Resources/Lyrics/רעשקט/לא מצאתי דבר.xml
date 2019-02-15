@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא מצאתי דבר</title>
+        <singer classification="unknown">רעשקט</singer>
+        <writer>מאור כהן</writer>
+        <composer>מאור כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא מצאתי דבר</head>
+        <lg number="1" type="stanza">
+          <l>כבר דיברנו על הכל </l>
+          <l>ואולי את זוכרת איך זה התחיל </l>
+          <l>אין שם אל אחד גדול </l>
+          <l>גם אם את יודעת שהוא כל יכול. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא מצאתי דבר שיביא אותי רגע </l>
+          <l>עד המחר, עד השמש, עד הכפר </l>
+          <l>לא מצאתי דבר שיוליך אותי הלאה </l>
+          <l>עד המחר </l>
+          <l>עד אליך. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כבר אמרנו את הכל </l>
+          <l>ואם את זוכרת איך זה התחיל </l>
+          <l>אין שם אל אחד גדול </l>
+          <l>ואין שם למעלה משהו לשאול.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא מצאתי דבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

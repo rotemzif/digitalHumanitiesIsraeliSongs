@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל יום שעובר</title>
+        <singer classification="male singer">זוהר ארגוב</singer>
+        <writer>משה נגר</writer>
+        <composer>משה נגר</composer>
+        <album>התקליט הראשון</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל יום שעובר</head>
+        <lg number="1" type="stanza">
+          <l>להביט בשמיים לראות כוכבים</l>
+          <l>להביט בירח החם</l>
+          <l>למחות זכרונות מימים שעברו</l>
+          <l>שנותי היפות שחלפו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פעם היה אחרת היום זה שונה</l>
+          <l>אתמול היה יפה היום זה שונה</l>
+          <l>ככה זה כל יום שעובר</l>
+          <l>ככה זה כל יום שחולף</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ולראות ולשמוע לחשוב ולצחוק</l>
+          <l>ולצחוק לפעמים בא לבכות</l>
+          <l>לקרוא ולכתוב לחשוב פעמיים</l>
+          <l>ולאמר להתראות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לקרוא ולכתוב לחשוב פעמיים</l>
+          <l>ולאמר גם להתראות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

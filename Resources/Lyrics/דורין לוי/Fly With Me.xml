@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fly With Me</title>
+        <singer classification="unknown">דורין לוי</singer>
+        <writer>דורין לוי</writer>
+        <composer>דורין לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Fly With Me</head>
+        <lg number="1" type="stanza">
+          <l>Time seems to run so fast </l>
+          <l>You'll never know </l>
+          <l>How come it never last's </l>
+          <l>You'll never know Why </l>
+          <l>I lied just to be with you </l>
+          <l>You'll never know How many nights </l>
+          <l>I spent waiting for you </l>
+          <l>Praying you'll come to me </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>Come baby fly with me </l>
+          <l>Over bridges and over sees </l>
+          <l>Where we can live our dreams </l>
+          <l>You and me </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>I don’t know how it ends </l>
+          <l>I'll never know If god has a different plan </l>
+          <l>Then why I remember you </l>
+          <l>You'll never know How many nights I cried </l>
+          <l>waiting for you </l>
+          <l>Praying you'll come to me </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>Come baby fly with me...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

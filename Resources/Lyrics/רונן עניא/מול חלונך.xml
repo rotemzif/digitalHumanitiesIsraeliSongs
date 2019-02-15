@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מול חלונך</title>
+        <singer classification="male singer">רונן עניא</singer>
+        <writer>חנה גולדברג</writer>
+        <composer>רונן עניא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מול חלונך</head>
+        <lg number="1" type="stanza">
+          <l>את הולכת בין הטיפות </l>
+          <l>מנפצת אצלי חלומות </l>
+          <l>את פוסעת, ידך בידו </l>
+          <l>נאחזת בו </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את נכנסת איתו למכונית </l>
+          <l>בעיניו אותך הוא מפשיט </l>
+          <l>שני אורות בחושך דולקים </l>
+          <l>מתרחקים </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מול חלונך זולגות הדמעות </l>
+          <l>מול חלונך מתנפצות התקוות </l>
+          <l>איך איבדתי אותך, לא מבין </l>
+          <l>רואה ולא מאמין </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את חוזרת מאוחר </l>
+          <l>על פנייך חיוך מאושר </l>
+          <l>הוא עולה לדירתך </l>
+          <l>ידו בידך </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מול חלונך זולגות הדמעות </l>
+          <l>מול חלונך מתנפצות התקוות </l>
+          <l>איך איבדתי אותך, לא מבין </l>
+          <l>רואה ולא מאמין</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

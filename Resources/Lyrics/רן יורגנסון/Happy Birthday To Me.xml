@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Happy Birthday To Me</title>
+        <singer classification="unknown">רן יורגנסון</singer>
+        <writer>מולי אן לייקין</writer>
+        <composer>לאנס רובין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Happy Birthday To Me</head>
+        <lg number="1" type="stanza">
+          <l>i'll have my party alone today </l>
+          <l>who cares anyway </l>
+          <l>i don't need them now </l>
+          <l>who wants presents with pretty gloss? </l>
+          <l>who wants party cloths? </l>
+          <l>i don't need them now </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>can i turn the lights? </l>
+          <l>can i cut the cake? </l>
+          <l>a wish is just a wish </l>
+          <l>what difference does it make? </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>now that everyone's gathered here </l>
+          <l>sing out loud and clear </l>
+          <l>cheerful as can be, </l>
+          <l>happy birthday to me </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>can i turn the lights?... </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>now that everyone's gathered here...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

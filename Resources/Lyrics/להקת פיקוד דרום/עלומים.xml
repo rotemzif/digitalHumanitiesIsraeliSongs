@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עלומים</title>
+        <singer classification="unknown">להקת פיקוד דרום</singer>
+        <writer>אהובה פיינברג</writer>
+        <composer>אורה סופר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עלומים</head>
+        <lg number="1" type="stanza">
+          <l>יד מלטפת החול מבוכה בעיניים</l>
+          <l>ים מחייך בכחול אל תכולם של שמיים</l>
+          <l>דופק מחיש את קצבו וכבדים עפעפיים</l>
+          <l>אודם יצבע את סומקו עד פריחה בלחיים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יד ביד יחפים נצעד מיני קדם ועד ים</l>
+          <l>אי אן ועדי עד מאילת עד נחל דן.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בוקר יאיר שחרו יאורו עיניים</l>
+          <l>זיק שהנץ באתמול יז רשפו שבעתיים</l>
+          <l>נחל יגאה אפיקו סערת עלומים</l>
+          <l>בוקר יפסע אל חודשו אל תחומי אוהבים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יד ביד יחפים נצעד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יד מלטפת ידה סואנים עלומים</l>
+          <l>אן נלכה נערה עד סופם של שבילים</l>
+          <l>גבע והר אל פיסגה נושקים עננים</l>
+          <l>עלם ילחש אל עלמה כמו בשיר השירים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יד ביד יחפים נצעד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

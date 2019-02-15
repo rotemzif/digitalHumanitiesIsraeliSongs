@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תה ואורז</title>
+        <singer classification="unknown">מוזיקת המקרה</singer>
+        <writer>אסף קרן</writer>
+        <composer>אסף קרן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תה ואורז</head>
+        <lg number="1" type="stanza">
+          <l>כשהזמן עוטף אותך</l>
+          <l>ומגרד את נשמתך</l>
+          <l>בלבך דממה</l>
+          <l>בביתך שממה</l>
+          <l>השדים בערפך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תה ואורז</l>
+          <l>איך נגמור את זה?</l>
+          <l>לב בחורף שקפא</l>
+          <l>תה ואורז</l>
+          <l>לך תפתור את זה...</l>
+          <l>לב בחורף שקפא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשהיומיום אוחז בך</l>
+          <l>חורץ לשון אל מול אפך</l>
+          <l>בביתך שממה</l>
+          <l>בלבך דממה</l>
+          <l>מבטיה של אמך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תה ואורז</l>
+          <l>איך נגמור את זה?</l>
+          <l>לב בחורף שקפא</l>
+          <l>תה ואורז</l>
+          <l>לך תפתור את זה...</l>
+          <l>לב בחורף שקפא</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אין אקזוטיקה בזה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

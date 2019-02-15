@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוח דרומית 3</title>
+        <singer classification="unknown">לאה זלוטניק</singer>
+        <writer>טובה גולדבלט</writer>
+        <composer>לאה זלוטניק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוח דרומית</head>
+        <lg number="1" type="stanza">
+          <l>רוח דרומית פורעת שערי </l>
+          <l>דמעה יורדת על לחי חונקת גרוני </l>
+          <l>מרחב כה כחול עם תכנים מוארים </l>
+          <l>זקנך גדל לו פרא מתחכך בעורפי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עודי תוהה אם רק חלמתי </l>
+          <l>את סגול ההרים באופק </l>
+          <l>קול אדירים המיית אוהבים </l>
+          <l>נושקת את שפתיך ומרבה ללטף </l>
+          <l>הרי מחר תימוג </l>
+          <l>עם בוקר בודדה אוותר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קצף הגל לוטף את כף רגלי </l>
+          <l>מסך ירח מקרין את דמותך מול עיני</l>
+          <l>איני רוצה לשכוח איני רוצה לזכור </l>
+          <l>אוושת נשיקותיך המגע הטהור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עודי תוהה אם רק חלמתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

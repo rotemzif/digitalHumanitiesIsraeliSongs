@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נערי שובה אלי 2</title>
+        <singer classification="male singer">חן בניאן</singer>
+        <writer>דני שושן</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נערי שובה אלי</head>
+        <lg number="1" type="stanza">
+          <l>חיכיתי כל הלילה שם בתחנה</l>
+          <l>הבטחת כי תשוב וכבר חלפה שנה</l>
+          <l>שחר הפציע הוא לא הגיע</l>
+          <l>מתי, מתי תשוב אלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבק דרכים בתלתליו</l>
+          <l>אנא אלי שמור נא עליו</l>
+          <l>נתתי לו כל שאהב</l>
+          <l>רקמתי לו בחוט זהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אשמור לי למשמרת את אהבתי</l>
+          <l>הוי נערי מתי תשובה אל ביתי</l>
+          <l>אשמור לי למשמרת את אהבתי</l>
+          <l>הוי נערי מתי תשובה אל ביתי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זר שושנים קלעתי מפרחי גני</l>
+          <l>עטרת ותפארת לראש חתני</l>
+          <l>שחר הפציע הוא לא הגיע</l>
+          <l>מתי תשובה אל ביתי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אבק דרכים בתלתליו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהביני 2</title>
+        <singer classification="male singer">שלומי סרנגה</singer>
+        <writer>מיכה שטרית</writer>
+        <composer>אלביס פרסלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהביני</head>
+        <lg number="1" type="stanza">
+          <l>אהביני, אהבי</l>
+          <l>במתיקות ורוך</l>
+          <l>ולעולם לי אל תתני</l>
+          <l>להיות ממך רחוק</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהביני באמת ברוך ובמתיקות</l>
+          <l>והחלומות כולם יהיו למציאות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהביני ארוכות</l>
+          <l>אהביני אהבי</l>
+          <l>קחי אותי אל תוך ליבך</l>
+          <l>כי שם הוא מקומי</l>
+          <l>אם תאמרי שאת שלי, זה יהיה מושלם</l>
+          <l>כי אני אהיה שלך מעכשיו עד סוף הזמן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אהביני, אהבי </l>
+          <l>במתיקות ורוך</l>
+          <l>ולעולם לי אל תתני</l>
+          <l>להיות ממך רחוק</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אהביני באמת ברוך ובמתיקות</l>
+          <l>והחלומות כולם יהיו למציאות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

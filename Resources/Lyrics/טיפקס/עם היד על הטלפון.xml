@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עם היד על הטלפון</title>
+        <singer classification="band">טיפקס</singer>
+        <writer>קובי אוז</writer>
+        <composer>קובי אוז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עם היד על הטלפון</head>
+        <lg number="1" type="stanza">
+          <l>עם היד על הטלפון</l>
+          <l>מחכה לך שתתקשרי</l>
+          <l>ובודק את הפקס שלי</l>
+          <l>מוודא את החיבורים</l>
+          <l>הודעות אין במשיבון</l>
+          <l>התיבה הקולית ריקה</l>
+          <l>הדוור כבר היום עבר</l>
+          <l>ואין דואר עד מחר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז איפה את עכשיו,</l>
+          <l>על איזה כוכב או עב?</l>
+          <l>אז איפה את עכשיו?</l>
+          <l>גם לבד, גם מאוהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>טלפתיה זה חד צדדי</l>
+          <l>לפחות במקרה שלי</l>
+          <l>הים מחזיר לי את הבקבוקים</l>
+          <l>אין עשן במדורה אצלי</l>
+          <l>השליח לא יכול היום</l>
+          <l>הקטנוע במוסך</l>
+          <l>היונים מסרבות לעוף</l>
+          <l>והמורס הוא מסובך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז איפה את עכשיו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

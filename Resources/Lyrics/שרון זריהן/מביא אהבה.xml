@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מביא אהבה</title>
+        <singer classification="unknown">שרון זריהן</singer>
+        <writer>מוטי אוחיון</writer>
+        <composer>מוטי אוחיון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מביא אהבה</head>
+        <lg number="1" type="stanza">
+          <l>הלכתי ברחוב וראיתי אותך נהייתי עיוור מענייך</l>
+          <l>זה רגע מתוק שחרוט בי כל כך לא אשכח את מבטייך</l>
+          <l>עכשיו אני מחפש בכל מקום והחיוך שלך לי חרוט בזיכרון</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם את רואה אותי או שומעת אותי אני בסביבה</l>
+          <l>רק תחייכי כשאת רואה אותי אני מביא אהבה</l>
+          <l>אם את רואה אותי או שומעת אותי אני בסביבה</l>
+          <l>אני מביא אהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכשיו הלב שבור מחפש רק אותך לאן הלכת בחייך</l>
+          <l>כמה חבל שלא קשרתי אותך הייתי נופל בין ידייך </l>
+          <l>עכשיו אני מחפש בכל מקום והחיוך שלך לי חרוט בזיכרון</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם את רואה אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

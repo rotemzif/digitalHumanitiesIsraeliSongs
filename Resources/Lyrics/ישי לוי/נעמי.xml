@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נעמי 2</title>
+        <singer classification="male singer">ישי לוי</singer>
+        <writer>משה נגר</writer>
+        <composer>משה נגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נעמי</head>
+        <lg number="1" type="stanza">
+          <l>אני קורא בשמך</l>
+          <l>יומם וליל</l>
+          <l>אני רואה דמותך מול עיני</l>
+          <l>את צחקת</l>
+          <l>עשית לי עיניים</l>
+          <l>ממך אני שואב את כוחותי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נעמי הוו הויי נעמי</l>
+          <l>ילדה קטנה את שלי</l>
+          <l>נעמי אחותי את שלי</l>
+          <l>הו הו הו הויי נעמי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יפה את היית וילדונת</l>
+          <l>לראשך תלתלים של זהב</l>
+          <l>במבט תמים את כובשת</l>
+          <l>את כל העולם</l>
+          <l>וכל העולם</l>
+          <l>כולו רק שלך נעמי</l>
+          <l>הוהוהויי נעמי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חלף הזמן</l>
+          <l>גדלת ילדונת</l>
+          <l>הנה היום מאיר לך את פניו</l>
+          <l>את גדלת</l>
+          <l>ואני אינני ילד</l>
+          <l>אותך אני אקח וגם אוהב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נעמי הוו נעמי</l>
+          <l>ילדה קטנה שלי</l>
+          <l>נעמי אחותי את שלי</l>
+          <l>הו הו הו הו הויי הוי נעמי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יפה את היית וילדונת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

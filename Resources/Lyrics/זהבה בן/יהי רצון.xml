@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יהי רצון</title>
+        <singer classification="female singer">זהבה בן</singer>
+        <writer>דודו ברק</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יהי רצון</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>יהי רצון מלך עליון</l>
+          <l>יהי רצון מלפניך</l>
+          <l>יהי רצון שר ואביון</l>
+          <l>יחד יזכו לרחמיך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מטל השמיים</l>
+          <l>מדבש ושמני הארץ, תן</l>
+          <l>מכל טוב מקשה וגן</l>
+          <l>רימון זית ודגן</l>
+          <l>תמר עינב ותאנה</l>
+          <l>בצל אילן נחיה</l>
+          <l>אדם וחווה נהיה</l>
+          <l>ובננו שוב שורש יכה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יהי רצון מלך עליון</l>
+          <l>יהי רצון מלפניך</l>
+          <l>יהי רצון שר ואביון</l>
+          <l>יחד יזכו לרחמיך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מטל השמיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

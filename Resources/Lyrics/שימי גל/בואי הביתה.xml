@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואי הביתה 5</title>
+        <singer classification="male singer">שימי גל</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואי הביתה</head>
+        <lg number="1" type="stanza">
+          <l>כמו עכשיו זוכר הנני,</l>
+          <l>בסערה הלכת ממני</l>
+          <l>ולבד נשאר עודני וקורא לך.</l>
+          <l>הקירות כבר האפירו</l>
+          <l>ודפי יומן הצהיבו</l>
+          <l>אך שנים, ימים יגידו, אחכה לך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הימים חולפים בינתיים</l>
+          <l>ודמעות יש בעיניים</l>
+          <l>ואני טרם שוכח</l>
+          <l>את הטעם והריח</l>
+          <l>והלב זועק: "בואי הבייתה"</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמדבר נראה הבית</l>
+          <l>ובלב שמיר ושית</l>
+          <l>כי אוכל רק פת וזית בלעדייך.</l>
+          <l>הדממה אותי קורעת</l>
+          <l>השמחה בי לא נוגעת</l>
+          <l>ולחיי שוב לא יודעת ליטופייך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הימים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

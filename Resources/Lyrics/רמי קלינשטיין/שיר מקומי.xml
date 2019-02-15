@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר מקומי</title>
+        <singer classification="male singer">רמי קלינשטיין</singer>
+        <writer>ארז ברזוליק</writer>
+        <composer>רמי קלינשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר מקומי</head>
+        <lg number="1" type="stanza">
+          <l>מקום קטן על שפת הים ואנחנו כאן</l>
+          <l>מקום קטן, מותש כל כך וחם.</l>
+          <l>הנה עוד לילה מחשיך את העולם</l>
+          <l>האם נדע להתעורר בזמן?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הכל קדוש, כמעט נדוש וכולם אחים</l>
+          <l>הכל נכון ואיך כולם צודקים</l>
+          <l>הנה עוד לילה יורד על העולם</l>
+          <l>אולי הבוקר קצת יחסוך בדם.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תראי אותי - אני כאן חי</l>
+          <l>תראי אותי אולי</l>
+          <l>נצרב בחום,</l>
+          <l>בארץ של טרור ודבש - ודי.</l>
+          <l>אין מצב שאותך אעזוב</l>
+          <l>תבטיחי לי קצת טוב</l>
+          <l>שיש סיכוי, והוא קרוב,</l>
+          <l>רוצה רק לאהוב.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מקום קטן, עם מול עם בלי קשת בענן</l>
+          <l>תראי אותנו - תראי אותם, אין זמן.</l>
+          <l>ואם הלילה בכוכבים מואר</l>
+          <l>אז למה לחכות עד למחר?</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תראי אותי...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>הנביאים שלך מזמן לא מתנבאים</l>
+          <l>תני לנו פשוט לחיות ת'חיים.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>תראי אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

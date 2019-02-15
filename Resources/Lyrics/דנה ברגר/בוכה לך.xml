@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוכה לך</title>
+        <singer classification="female singer">דנה ברגר</singer>
+        <writer>אפרת זילברשץ</writer>
+        <composer>אפרת זילברשץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוכה לך</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>ועכשיו שהכל נאמר</l>
+          <l>נשארה רק שתיקה כואבת</l>
+          <l>משהו בפנים הופך לשקוף</l>
+          <l>מחפש אהבה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואחרי שהכל נאמר</l>
+          <l>והבטחתי שאוהב אותך לנצח</l>
+          <l>או אולי עד מחר, אוכל לוותר</l>
+          <l>ולראות אותך שוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני בוכה לך</l>
+          <l>אני בוכה לעצמי</l>
+          <l>על מי שאתה או על מי שאני</l>
+          <l>מחפשת מגע שימלא אותי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רק לא להיות לבד</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני בוכה לך</l>
+          <l>אני בוכה לעצמי</l>
+          <l>על מי שאתה או על מי שאני</l>
+          <l>מחפשת מגע שינחם אותי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ועכשיו שהכל נאמר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

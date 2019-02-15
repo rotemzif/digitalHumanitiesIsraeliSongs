@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשאת לידי</title>
+        <singer classification="male singer">זוהר ארגוב</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>עממי יווני</composer>
+        <album>להיות אדם</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשאת לידי</head>
+        <lg number="1" type="stanza">
+          <l>כשעולה לה שעת בין ערביים</l>
+          <l>כשהשמש נופלת לים</l>
+          <l>אז אנחנו יורדים אל המים</l>
+          <l>שוכחים את כל העולם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי את לידי ידך בידי</l>
+          <l>בין סלע צדפים ושחפים את איתי</l>
+          <l>כי את לידי ידך בידי</l>
+          <l>הן זהו הרגע הכי אמיתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בלי ריצה יום יומית מטורפת</l>
+          <l>בלי מירוץ נגד כל השעות</l>
+          <l>עוד כוכב שנפל את אוספת</l>
+          <l>ואני מתמלא משאלות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי את לידי ידך בידי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואוספים זכרונות מן הלילה</l>
+          <l>כשהשמש עולה על הגב</l>
+          <l>עיניי מסתכלות שם למעלה</l>
+          <l>אלוהים איך אני מאוהב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי את לידי ידך בידי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

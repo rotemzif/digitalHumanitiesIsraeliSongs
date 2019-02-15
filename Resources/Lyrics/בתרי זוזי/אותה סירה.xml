@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אותה סירה</title>
+        <singer classification="unknown">בתרי זוזי</singer>
+        <writer>רם אוריון</writer>
+        <composer>רם אוריון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אותה סירה</head>
+        <lg number="1" type="stanza">
+          <l>הלכנו לפינות שלנו כועסים</l>
+          <l>סגרתי את הדלת ואת סגרת תריסים</l>
+          <l>קורסים לתוך עצמנו ואז שוב משלימים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי אנחנו שומרים אחד על השני</l>
+          <l>גם אם לפעמים חושבים שזה לא אפשרי</l>
+          <l>ואין לנו ברירה, אנחנו באותה סירה</l>
+          <l>ואם נשחה לבד - נטבע.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני יכול להיות קשה ואת גם לא פשוטה</l>
+          <l>אנחנו די טובים בזה רק אין לנו שליטה</l>
+          <l>שורפים את מה שיש אבל בלי דאגה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי אנחנו שומרים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

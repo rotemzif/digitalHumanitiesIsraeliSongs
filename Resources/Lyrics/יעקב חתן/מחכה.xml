@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחכה 22</title>
+        <singer classification="unknown">יעקב חתן</singer>
+        <writer>ליאור מיארה</writer>
+        <composer>אלירן אביטל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחכה</head>
+        <lg number="1" type="stanza">
+          <l>כל יום שעובר הגעגוע בי נוגע </l>
+          <l>בודד בלילות במחשבות אני שוקע </l>
+          <l>נזכר בדמותך ואז כמו ילד שוב דומע </l>
+          <l>בחלומות את קול צחוקך אני שומע </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נזכר בימים שלא עוברים </l>
+          <l>מבקש ממך חזרי חזרי אלי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מחכה בלילות באותו מקום שהייתי אוהבת </l>
+          <l>מחכה לך שעות שתפתחי לי את הדלת </l>
+          <l>את ליבך אך תסגרי זוכרת שאת אמרת אוהבת </l>
+          <l>אל תהרסי את כל מה שהיה מה שהיה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני לא מסוגל לחיוך לבד כאן בלעדייך </l>
+          <l>הלב זועק פועם חזק רוצה אלייך </l>
+          <l>למה עזבת בלי לדבר ספרי מדוע </l>
+          <l>נעלמת לי כך פתאום אני פצוע </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>נזכר בימים שלא עוברים </l>
+          <l>מבקש ממך חזרי חזרי אלי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

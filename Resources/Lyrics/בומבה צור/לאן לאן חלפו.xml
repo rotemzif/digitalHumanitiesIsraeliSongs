@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לאן לאן חלפו</title>
+        <singer classification="male singer">בומבה צור</singer>
+        <writer>שאול ביבר</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לאן לאן חלפו</head>
+        <lg number="1" type="stanza">
+          <l>לאן לאן חלפו, לאן הלכו ועפו</l>
+          <l>לאן עברו וספו ימי הפז של אביבי</l>
+          <l>חיוך יפות העין מעל כוסית של יין</l>
+          <l>הכל צעיר עדיין וזמר על סביבי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סוב הזמר סוב, סוב, סוב</l>
+          <l>סוב הזמר עד אין סוף</l>
+          <l>כל הלילה, כל הליל</l>
+          <l>כך הזמר מתגלגל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אור הלבנה זורח והאביב פורח</l>
+          <l>ובלבי קודח הזמר עד בלי די</l>
+          <l>גם אם שנותי חלפו וכל ימי כבר ספו</l>
+          <l>חלפו, עברו ועפו, אך עוד הזמר חי!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סוב הזמר סוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

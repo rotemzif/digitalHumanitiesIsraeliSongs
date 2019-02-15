@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הזמן שלך</title>
+        <singer classification="band">היהודים</singer>
+        <writer>תום פטרובר</writer>
+        <composer>תום פטרובר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הזמן שלך</head>
+        <lg number="1" type="stanza">
+          <l>איך תאמרי לו ילדה</l>
+          <l>אמרת אין לאן ללכת</l>
+          <l>הוא לא ידע</l>
+          <l>ואת כמו הרוח שותקת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והזמן שלך</l>
+          <l>אם רק תתני לו הוא יברח</l>
+          <l>והזמן שלך</l>
+          <l>אם רק תגעי ישאר איתך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם זה הזמן שלך</l>
+          <l>המעגל אליו נקשרת לקראתך מונח</l>
+          <l>אם זה הזמן שלך</l>
+          <l>אז כשתלכי הדלת תיפתח</l>
+          <l>ולא הוא לא ישכח</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תבטחי בו ילדה</l>
+          <l>ונשארת בגפו נתמכת</l>
+          <l>הוא בשלך</l>
+          <l>ואת באותו הקצב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>והזמן שלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

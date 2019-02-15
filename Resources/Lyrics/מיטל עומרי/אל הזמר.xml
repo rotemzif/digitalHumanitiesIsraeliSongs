@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל הזמר</title>
+        <singer classification="unknown">מיטל עומרי</singer>
+        <writer>אלי רונן</writer>
+        <composer>יאן וולפסון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל הזמר</head>
+        <lg number="1" type="stanza">
+          <l>על יום חדש ושמש כבר עולה, </l>
+          <l>נתמלא אביב כולו באור </l>
+          <l>ובוקעת הורה סוערת קוראת בצעדיה לכת, </l>
+          <l>זמר בא עולה וסתם הולך, </l>
+          <l>לא תמיד פוגש בקולך </l>
+          <l>ככינור עתיק יומין הוא ובו הזמר שוב נוגן. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל ההורה עוד נשובה </l>
+          <l>זמר הורה לך פועם, </l>
+          <l>אל ההורה עוד נקומה </l>
+          <l>זמר הורה לך רוקד. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל הזמר עוד נשובה </l>
+          <l>זמר זמר לך פועם, </l>
+          <l>אל הזמר עוד נקומה </l>
+          <l>זמר זמר לך רוקם. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוד תפילה מלב נישא אל על </l>
+          <l>והרוח לנו מלווה </l>
+          <l>במקלט עולה לו הזמר ואנו יחד נזמר, </l>
+          <l>עוד חיוך אל ההווה ניתן, </l>
+          <l>בשמחה לכל בורא נודה </l>
+          <l>אור קורן בלובן שופע ובו מיתר </l>
+          <l>צלילים פוזם. </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אל ההורה עוד נשובה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

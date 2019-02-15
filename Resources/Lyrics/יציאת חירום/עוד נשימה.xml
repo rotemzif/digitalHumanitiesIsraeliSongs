@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד נשימה</title>
+        <singer classification="band">יציאת חירום</singer>
+        <writer>אלכס טופל</writer>
+        <composer>אלכס טופל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד נשימה</head>
+        <lg number="1" type="stanza">
+          <l>עוד נשימה</l>
+          <l>רק עוד רגע</l>
+          <l>עוד שנייה</l>
+          <l>אל תגידי כלום</l>
+          <l>אל תרגישי אשמה</l>
+          <l>אין לך ברירה</l>
+          <l>זה פגמים שאת רואה</l>
+          <l>לא חשבת שכך יקרה</l>
+          <l>אבל קרה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני ממך עד איפה עפתי</l>
+          <l>כבר לא אומר</l>
+          <l>בזמן הזה שכך אהבתי</l>
+          <l>אצלך נגמר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה פי כמה שזה פתאום</l>
+          <l>זה פי כמה אוהב כל יום</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>סבך אשליות</l>
+          <l>עיגולים של טעויות</l>
+          <l>זיופים של אור</l>
+          <l>משחקים של הזיות</l>
+          <l>אין כאן ברירה</l>
+          <l>את יודעת, את רואה</l>
+          <l>אין פה שום דבר </l>
+          <l>שקשור לאהבה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני ממך עד איפה עפתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

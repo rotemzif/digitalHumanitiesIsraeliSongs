@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דמעה 2</title>
+        <singer classification="unknown">ג נגו</singer>
+        <writer>ג'נגו</writer>
+        <composer>ג'נגו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דמעה</head>
+        <lg number="1" type="stanza">
+          <l>יבוא היום שנתחבק סתם</l>
+          <l>רק בגלל שאנחנו רוצים</l>
+          <l>יבוא היום שנתחבק סתם</l>
+          <l>אנחנו צריכים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לה תהיה שום הרגשה</l>
+          <l>של פחד באוויר</l>
+          <l>אני רוצה להיות</l>
+          <l>כמו כל האנשים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כל דמעה מהעיניים שלה</l>
+          <l>אין לי דרך חזרה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>טלוויזיה בלי חיים</l>
+          <l>כל היום מנסים לשרוד</l>
+          <l>אנחנו מתחבקים</l>
+          <l>רוצים עוד</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כל דמעה מהעיניים שלה</l>
+          <l>אין לי דרך חזרה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

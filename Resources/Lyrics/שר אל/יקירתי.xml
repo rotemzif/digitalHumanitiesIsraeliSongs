@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יקירתי 7</title>
+        <singer classification="unknown">שר אל</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>אריה פרננד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יקירתי</head>
+        <lg number="1" type="stanza">
+          <l>יקירתי את הפרח היקר בליבי</l>
+          <l>בשמיים חתום שאת איתי</l>
+          <l>חשוב לי, חשוב שתדעי</l>
+          <l>איתך הגשמתי את עצמי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אצלי הכל אותו דבר</l>
+          <l>אני אותו בחור מוזר</l>
+          <l>כי בשבילי את האלוהים שלי</l>
+          <l>רק אלייך מחובר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את הימים אשר חלקנו בתמימות</l>
+          <l>ברגעים בין סערה לאי שפיות</l>
+          <l>טוב לך טוב לי איתך</l>
+          <l>נושק לתוכי את הריח שלך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אצלי הכל אותו דבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

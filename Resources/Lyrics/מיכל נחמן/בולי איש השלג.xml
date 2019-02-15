@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בולי איש השלג</title>
+        <singer classification="unknown">מיכל נחמן</singer>
+        <writer>זיו סידי</writer>
+        <composer>זיו סידי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בולי איש השלג</head>
+        <lg number="1" type="stanza">
+          <l>בלילה אחד, בחורף קר</l>
+          <l>עשה הירח מעשה קסמים</l>
+          <l>נשף כישוף באיש שלג מוזר</l>
+          <l>ונפח בבובה רוח חיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בולי פאנק וליבי גם</l>
+          <l>בולי טייס ובולי ים</l>
+          <l>בולי דייג ודובי שן</l>
+          <l>חבריו הטובים של בולי הקטן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בארץ השלג בולי וחבריו</l>
+          <l>כל היום נהנים יחדיו</l>
+          <l>בלילה כשהם שוכבים לישון</l>
+          <l>הירח שומר עליהם ממרום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בולי פאנק וליבי גם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

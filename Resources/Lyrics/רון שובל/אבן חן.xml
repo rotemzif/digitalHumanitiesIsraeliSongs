@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבן חן</title>
+        <singer classification="male singer">רון שובל</singer>
+        <writer>גאולה מוזס</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבן חן</head>
+        <lg number="1" type="stanza">
+          <l>מכל דבר יקר יקרה אהבתך</l>
+          <l>הצובעת אור בהיר על כל ימיי</l>
+          <l>מכל דבר יפה כה יפה אהבתך</l>
+          <l>העוטפת ברכות את לילותי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את אבן חן ואת שלי, כיהלום בתוך ליבי</l>
+          <l>אוהב אותך יותר מכל, בעולם, לעולם</l>
+          <l>את אבן חן ואת שלי, את האוצר בנשמתי</l>
+          <l>רק לצידך רוצה לחיות את חיי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מכל דבר מופלא, לי קסומה אהבתך</l>
+          <l>היודעת סוד השביל אל שתיקותי</l>
+          <l>מכל דבר טהור כה זכה אהבתך</l>
+          <l>הקורנת אור בבית חלומותי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את אבן חן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

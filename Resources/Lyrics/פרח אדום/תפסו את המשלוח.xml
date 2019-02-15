@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תפסו את המשלוח</title>
+        <singer classification="unknown">פרח אדום</singer>
+        <writer>תומר כץ</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תפסו את המשלוח</head>
+        <lg number="1" type="stanza">
+          <l>איך הלב נצבע שחור </l>
+          <l>איך כבה פתאום האור </l>
+          <l>רק אתמול היו שמים </l>
+          <l>איך אנחנו כבויי עיניים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי תפסו את המשלוח </l>
+          <l>אין לנו לאן לברוח </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה מרגיש כל כך עמוק </l>
+          <l>עם העשב המתוק </l>
+          <l>כי רק אתמול היה כאן תכלת </l>
+          <l>איך הכל פתאום אחרת </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי תפסו את המשלוח...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ועכשיו אנחנו כאן </l>
+          <l>בלי חשיש ובלי לבן </l>
+          <l>כי רק אתמול היה כאן תכלת </l>
+          <l>איך הכל פתאום אחרת </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי תפסו את המשלוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

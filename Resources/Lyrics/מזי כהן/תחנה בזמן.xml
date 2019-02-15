@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תחנה בזמן</title>
+        <singer classification="female singer">מזי כהן</singer>
+        <writer>רוני ערן</writer>
+        <composer>איתן גדרון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תחנה בזמן</head>
+        <lg number="1" type="stanza">
+          <l>עכשיו את יודעת.</l>
+          <l>היו סימנים אצלו תמיד - את לא מופתעת.</l>
+          <l>התאווה הזו אל קו האופק אל כביש מהיר</l>
+          <l>תמיד היה לו משהו להסתיר.</l>
+          <l>את יודעת.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מכונית נעצרת. הוא לא ישאל לאן.</l>
+          <l>הוא חוזר אל הדרך. ואת תחנה בזמן.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכשיו את יודעת.</l>
+          <l>שאין זו אחרת מלבדך את עוד שומעת.</l>
+          <l>את הלילות שלא מצא מקום וידו קפוצה.</l>
+          <l>שוב אותו חלום - איש ללא מוצא.</l>
+          <l>את יודעת.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מכונית נעצרת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עכשיו את נזכרת.</l>
+          <l>סיפר סיפורים על מסעות - את מקשרת.</l>
+          <l>איך בערה בו אש - הדלת אז כבר הייתה פתוחה.</l>
+          <l>ולבו יוצא וידו שלוחה -</l>
+          <l>את נזכרת.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מכונית נעצרת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

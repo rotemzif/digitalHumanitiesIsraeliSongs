@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היא אני והוא</title>
+        <singer classification="male singer">דני סנדרסון</singer>
+        <writer>דני סנדרסון</writer>
+        <composer>דני סנדרסון</composer>
+        <album>קופץ לשניה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היא, אני והוא</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>הוא ניגש אל השולחן</l>
+          <l>רק לומר שלום</l>
+          <l>ונתקע מאז ועד הלום.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מוזר איך הוא לא נשבר</l>
+          <l>לא נותן שהיא, אני והוא</l>
+          <l>נשאר בלי הוא.</l>
+          <l>נדבק לכסא חזק</l>
+          <l>לא נותן שהיא, אני והוא.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אולי באפן די אדיש,</l>
+          <l>אוריד לו על הראש איזה פטיש.</l>
+          <l>אך הוא לא ירגיש.</l>
+          <l>לא מוכן שהיא, אני והוא</l>
+          <l>נישאר בלי הוא.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חבל שהוא נולד אי פעם.</l>
+          <l>אני חושב משמע שהוא קיים.</l>
+          <l>שיבלע קיסם</l>
+          <l>ואולי אז היא, אני והוא</l>
+          <l>נישאר בלי הוא.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הוא ניגש אל השולחן</l>
+          <l>רק לומר שלום</l>
+          <l>ונתקע מאז ועד הלום.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

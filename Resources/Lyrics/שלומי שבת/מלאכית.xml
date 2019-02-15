@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלאכית 2</title>
+        <singer classification="male singer">שלומי שבת</singer>
+        <writer>זיו רובינשטיין</writer>
+        <composer>זיו רובינשטיין</composer>
+        <album>אני שר אלייך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלאכית</head>
+        <lg number="1" type="stanza">
+          <l>הנה אני שר לך את רוקדת, תסתכלי איזה יופי </l>
+          <l>הנה את כובשת את רחבת הריקודים.</l>
+          <l>כל החברות שלך רוצות איזה גבר כמוני,</l>
+          <l>כל החברים שלי רוצים רק לעשות חיים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מלאכית, את שלי ולא אף אחת אחרת,</l>
+          <l>רק איתך אני אגשים את החלום.</l>
+          <l>מלאכית, את שלי ואותי את מבלבלת,</l>
+          <l>רק ביחד ננצח את הכל.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רוקד על הבמה ואני שר וזה תמיד רק אלייך,</l>
+          <l>העיניים החומות האלה משגעות אותי.</l>
+          <l>רואה את המילים שאני שר יוצאות מבין שפתייך,</l>
+          <l>ויודע שזו את שתשנה לי את החיים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מלאכית, את שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

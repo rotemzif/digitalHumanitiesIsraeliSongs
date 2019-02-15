@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המילים האוהבות</title>
+        <singer classification="female singer">זמירה חן</singer>
+        <writer>זמירה חן</writer>
+        <composer>דרורה חבקין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המילים האוהבות</head>
+        <lg number="1" type="stanza">
+          <l>עוד מעט ידלקו פנסים</l>
+          <l>ואורם ישטוף את הרחוב.</l>
+          <l>מבעד שלבי-התריסים</l>
+          <l>נשוב כאתמול לאהוב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואז תשוב ותאמר,</l>
+          <l>כן, אז תשוב ותאמר</l>
+          <l>את כל המילים הטובות,</l>
+          <l>את כל המילים האוהבות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כאתמול, השחפים על החוף,</l>
+          <l>ילחשו לגל את סודם.</l>
+          <l>ורוח גדול יחלוף -</l>
+          <l>יביא בכנפיו ריח-ים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואז תשוב ותאמר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>והליל, בשתיקת-אוהבים,</l>
+          <l>יחמוק לאט מאחור,</l>
+          <l>ואלף ריבוא כוכבים</l>
+          <l>ישים בשערך השחור.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואז תשוב ותאמר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>למדי אותי 5</title>
+        <singer classification="male singer">שי זורניצר</singer>
+        <writer>אהוד מנור</writer>
+        <composer>שי זורניצר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>למדי אותי</head>
+        <lg number="1" type="stanza">
+          <l>למדי אותי לקום לאט,</l>
+          <l>להתלבש באור ראשון,</l>
+          <l>לצאת בשקט כדי שאת</l>
+          <l>עוד תוכלי לישון,</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>למדי אותי להסתגל</l>
+          <l>לקרע היומי הזה,</l>
+          <l>לקחת סבל כמו הרגל,</l>
+          <l>בלי כאב חוזר,</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ומתוך הסערה לחזור אל סדר יום רגיל</l>
+          <l>ולעבוד ולעבור את הבוקר ולמשוך הלאה הלאה,</l>
+          <l>ומתוך הבערה למדי אותי שוב להפעיל </l>
+          <l>את החושים, את המילים שבדרך עד שבא הלילה,</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>למדי אותי לנשום עמוק,</l>
+          <l>ולחכות לשעתי,</l>
+          <l>לשמור עלינו מרחוק,</l>
+          <l>תלמדי אותי.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ומתוך הסערה לחזור אל סדר יום רגיל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

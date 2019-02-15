@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חורף חורף לך מפה</title>
+        <singer classification="band">הפרברים</singer>
+        <writer>אהוד מנור</writer>
+        <composer>נחצ'ה היימן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חורף חורף לך מפה</head>
+        <lg number="1" type="stanza">
+          <l>חורף, חורף לך כבר מפה!</l>
+          <l>די נמאסת, צא קצת לחופש!</l>
+          <l>אם ברק לרעם יקרוץ</l>
+          <l>לא נצא לעד מן הבוץ</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תנו לי בחורף שני ימים של אביב</l>
+          <l>תנו לי בחום רוח של סתיו</l>
+          <l>אין כמו קצת גשם בקיץ באב</l>
+          <l>ובכסלו ימים של זהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קיץ, קיץ לך כבר מפה!</l>
+          <l>די נמאס, קח את השמש!</l>
+          <l>כל העיר יוצאת מגדרה</l>
+          <l>לך לטייל בארץ קרה!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תנו לי בחורף שני ימים של אביב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>סתיו, סתיו, סתיו, סתיו</l>
+          <l>לך כבר מפה!</l>
+          <l>די נמאסת, אין לך אופי</l>
+          <l>את צבעו מחליף כמו זיקית</l>
+          <l>לא יודע מה להחליט</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תנו לי בחורף שני ימים של אביב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

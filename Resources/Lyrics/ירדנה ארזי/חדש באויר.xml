@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חדש באויר</title>
+        <singer classification="female singer">ירדנה ארזי</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>מתוך שאהבתי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חדש באויר</head>
+        <lg number="1" type="stanza">
+          <l>יש חדש באויר, </l>
+          <l>השינוי הוא כה מהיר, </l>
+          <l>ואתה עוד מנסה להיות זהיר. </l>
+          <l>זה מורגש באויר, </l>
+          <l>יש אולי סיכוי סביר </l>
+          <l>שגמרנו לשלם את המחיר. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי יש הבטחה באויר עכשיו, </l>
+          <l>ומשמי הלילה שוב נושר כוכב, </l>
+          <l>כי יש הבטחה - האויר נראה. </l>
+          <l>אלוהים הוא - אללה, ושניהם - אחד. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה עובר באויר, </l>
+          <l>מהבהב כמו אור שביר, </l>
+          <l>משדר אותות שמחה ולא מסביר. </l>
+          <l>זה תלוי באויר, </l>
+          <l>הוא מאיר את שמי העיר, </l>
+          <l>משהו עמוק בפנים רוצה לשיר. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי יש הבטחה... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה יוצא לאויר </l>
+          <l>כמו תינוק, כמו יום בהיר, </l>
+          <l>ונכתב באותיות על פני הקיר. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי יש הבטחה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

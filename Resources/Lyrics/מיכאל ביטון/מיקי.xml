@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מיקי</title>
+        <singer classification="unknown">מיכאל ביטון</singer>
+        <writer>מיכאל ביטון</writer>
+        <composer>מיכאל ביטון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מיקי</head>
+        <lg number="1" type="stanza">
+          <l>מופנם עיניים חומות אמא מבט גב ודממה</l>
+          <l>שוב מבעד להררי החומות סדק קל קרן אור בפינה</l>
+          <l>שני עולמות מניעים אותו זה משמיים זה מאדמה</l>
+          <l>יודע אלוהים בעדו יום אחד ימצא אהבה הו ימצא אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עוצר את כל הדמעות לא נשבר שומר על שתיקה בתוך מיטה</l>
+          <l>עם כל הסערות קולות וצללים על התקרה</l>
+          <l>אישה יפה מעירה אותו בוקר אחר בעיר זרה </l>
+          <l>יודע אלוהים יום אחד ימצא אהבה הו ימצא אהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין מנוחה מחכה שיעבור </l>
+          <l>הכל נשמר בתוך הנשמה</l>
+          <l>יודע אלוהים בעדו</l>
+          <l>אולי היום ימצא אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עוצר את כל הדמעות לא נשבר שומר על שתיקה בתוך מיטה</l>
+          <l>עם כל הסערות קולות וצללים על התקרה</l>
+          <l>אישה יפה מעירה אותו בוקר אחר בעיר זרה </l>
+          <l>יודע אלוהים יום אחד ימצא אהבה הו ימצא אהבה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

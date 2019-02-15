@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בן של מלך 2</title>
+        <singer classification="unknown">מידד טסה</singer>
+        <writer>אביעד גיל</writer>
+        <composer>עממי יווני</composer>
+        <album>בן של מלך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בן של מלך</head>
+        <lg number="1" type="stanza">
+          <l>בדרכך שלך בחרתי אך לא טעיתי</l>
+          <l>את תורתך תמיד ידעתי ונשביתי</l>
+          <l>אל תעזבני אלוקים כי אני...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי אני בן של מלך</l>
+          <l>ורק אתה אחד מולך </l>
+          <l>לך גדולה לך כתר</l>
+          <l>לך ישירו מלאכי שרת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זכה הנשמה שלי נתת</l>
+          <l>אשמור עליה אותה אהבת </l>
+          <l>כל כך יפה היא טהורה אותה יצרת</l>
+          <l>אל תעזבני אלוקים שמור אותי...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי אני בן של מלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

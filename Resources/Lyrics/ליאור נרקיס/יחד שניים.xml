@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יחד שניים</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>שמעון בוסקילה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יחד שניים</head>
+        <lg number="1" type="stanza">
+          <l>אני ואת זה כמו סיפור שאין לו התחלה</l>
+          <l>פתאום אנחנו כאן באמצע אהבה גדולה</l>
+          <l>אבדו לי המילים והסתבכו לי התחושות</l>
+          <l>עכשיו אני טובע בתוך ים של רגשות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני אוהב אותך ואת יודעת</l>
+          <l>איתך אני הולך על השלמות</l>
+          <l>בחלומות שלך רוצה לגעת</l>
+          <l>ולהפוך אותם למציאות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יחד שניים זה מהשמיים</l>
+          <l>שיהיה לשנינו טוב שנדע רק לאהוב</l>
+          <l>יחד שניים אדמה ומים</l>
+          <l>אני הים ואת החוף שנינו יחד עד הסוף</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>האהבה היא כמו לצאת בשניים לטיול</l>
+          <l>זה רק אני ואת והשמיים ללא גבול</l>
+          <l>מסע לחלומות שבו הכל נראה אחר</l>
+          <l>ואם את לצידי בדרך מי צריך יותר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני אוהב אותך ואת יודעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

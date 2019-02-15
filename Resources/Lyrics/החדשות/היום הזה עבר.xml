@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היום הזה עבר</title>
+        <singer classification="unknown">החדשות</singer>
+        <writer>מיכה הרשליקביץ</writer>
+        <composer>מיכה הרשליקביץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היום הזה עבר</head>
+        <lg number="1" type="stanza">
+          <l>נעלם לו עם השמש </l>
+          <l>טס נמוך על ים כחול </l>
+          <l>לא ידע שהיא חוזרת </l>
+          <l>בשדות תעופה </l>
+          <l>היא תעלם לעוד טיסה </l>
+          <l>קונה כרטיס והוא איתה </l>
+          <l>הוא לא נשבר... </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היום הזה עבר כפוף ומיותר </l>
+          <l>לתפוס אותה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתעוררת עם החושך </l>
+          <l>עיר גדולה מלון אחר </l>
+          <l>ועכשיו היא מתאפרת </l>
+          <l>שוב שדות תעופה </l>
+          <l>הוא מהדק ת'חגורה </l>
+          <l>מבט חטוף והיא עברה </l>
+          <l>כלום לא נשאר... </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היום הזה עבר כפוף ומיותר </l>
+          <l>לתפוס אותה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

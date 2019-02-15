@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חיים חדשים</title>
+        <singer classification="unknown">ספארי</singer>
+        <writer>רונן פרי</writer>
+        <composer>איתי סיני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חיים חדשים</head>
+        <lg number="1" type="stanza">
+          <l>אחד מארץ רחוקה </l>
+          <l>שקצת איבד את הצפון </l>
+          <l>החליט שדי לו וקפץ למים </l>
+          <l>לא, זה לא אני, לא, מה פתאום </l>
+          <l>אז מה אם שנינו קצת דומים </l>
+          <l>אצלי יש שמש בעיניים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הגיע יום הדין </l>
+          <l>זה המבחן, זו שעת ה-"ש" </l>
+          <l>ואין מה להפסיד </l>
+          <l>ולי כולם אומרים </l>
+          <l>תתחיל חיים חדשים </l>
+          <l>אתה הוא העתיד </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ומישהו ששנים היה </l>
+          <l>תלוי על חוט </l>
+          <l>נפל כי לא נשאר לו כוח בידיים </l>
+          <l>אז נשמתי אם את כבר פה </l>
+          <l>תאמרי לי שזה לא הסוף </l>
+          <l>שיש עוד להבה בוערת בעיניים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הגיע יום הדין </l>
+          <l>זה המבחן, זו שעת ה-"ש" </l>
+          <l>ואין מה להפסיד </l>
+          <l>ולי כולם אומרים </l>
+          <l>תתחיל חיים חדשים </l>
+          <l>אתה הוא העתיד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

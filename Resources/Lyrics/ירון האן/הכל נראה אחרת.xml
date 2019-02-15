@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכל נראה אחרת</title>
+        <singer classification="unknown">ירון האן</singer>
+        <writer>ירון האן</writer>
+        <composer>אמיר גולן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכל נראה אחרת</head>
+        <lg number="1" type="stanza">
+          <l>את אמרת לי: צא כבר מהחדר</l>
+          <l>את אמרת לי שכבר מאוחר</l>
+          <l>כששאלתי מה אני עושה פה</l>
+          <l>את אמרת לי שהכל נגמר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עכשיו הכל נראה אחרת</l>
+          <l>האהבה כבר נגמרה</l>
+          <l>עכשיו הכל נראה אחרת</l>
+          <l>אם לא איתך, בירידה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נחבר אחד אל מול, אמרת לי</l>
+          <l>שנראינו בסיפור מוזר</l>
+          <l>צודק אף פעם, את יודעת</l>
+          <l>זה סיפור שהסתדר מזמן, בזמן עבר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עכשיו הכל נראה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

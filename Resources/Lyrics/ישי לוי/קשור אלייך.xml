@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קשור אלייך</title>
+        <singer classification="male singer">ישי לוי</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>ריקוד רומנטי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קשור אלייך</head>
+        <lg number="1" type="stanza">
+          <l>יצאתי למסע של נדודים</l>
+          <l>לראות את העולם בלי לחשוב עלייך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אך משהו זעק בי מבפנים</l>
+          <l>לשוב הביתה, לחזור</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>קשור אלייך בנשמה</l>
+          <l>עשרים וארבע שעות ביממה</l>
+          <l>את כל הפלא שבטבע</l>
+          <l>איך אני רוצה אותך כל רגע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קשור אלייך בנשמה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הפסקתי אז לחיות באשליה</l>
+          <l>כי כל המחשבות נתונות אלייך</l>
+          <l>דעתי כבר לא הייתה שפויה</l>
+          <l>חזרתי אותך שוב לאהוב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>קשור אלייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

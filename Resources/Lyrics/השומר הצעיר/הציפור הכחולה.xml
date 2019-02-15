@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הציפור הכחולה</title>
+        <singer classification="unknown">השומר הצעיר</singer>
+        <writer>רקפת זהר</writer>
+        <composer>רועי שפיגלר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הציפור הכחולה</head>
+        <lg number="1" type="stanza">
+          <l>בין עצים את קיניה בנתה</l>
+          <l>ברחובות בשכונות ובכפר</l>
+          <l>הארץ כולה היא ביתה</l>
+          <l>מן הואדי ועד לכיכר</l>
+          <l>מול עוולות מצוקה ואיבה</l>
+          <l>לא תיסוג ולא תוותר</l>
+          <l>היא הדגל והיא התקווה</l>
+          <l>שיכול להיות טוב יותר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמו תפילה היא עולה ועולה</l>
+          <l>כמו ניגון שאלינו חוזר</l>
+          <l>היא כחולה וצלולה כמבט</l>
+          <l>אמונה בליבו של שומר</l>
+          <l>תשעים ועוד תשעים ועוד תשעים שנה</l>
+          <l>כל יום צעירה עוד יותר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בימים של סופה ושל חול</l>
+          <l>כשרוחות מאיימות על הקן</l>
+          <l>העיניים כמהות לכחול</l>
+          <l>והלב מחפש לו מצפן</l>
+          <l>את השרוך הלבן כתפילין</l>
+          <l>ניקשור שוב על לוח ליבנו</l>
+          <l>ואם רק באמת נאמין</l>
+          <l>התשובות נמצאות בתוכנו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמו תפילה היא עולה ועולה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בשמיים כחולים תעופף</l>
+          <l>גוזליה רבים מלמנות</l>
+          <l>מי ירים את עיניו ויראה</l>
+          <l>להקות צפרים ממריאות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כמו תפילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

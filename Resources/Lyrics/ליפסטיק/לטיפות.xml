@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לטיפות</title>
+        <singer classification="band">ליפסטיק</singer>
+        <writer>עמית הראל</writer>
+        <composer>עמית הראל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לטיפות</head>
+        <lg number="1" type="stanza">
+          <l>קוראת לך בלילה </l>
+          <l>רוצה שרק תבוא</l>
+          <l>שתחבק שקר לה</l>
+          <l>צריכה אותך קרוב</l>
+          <l>סיפרה לך שהיא זוכרת </l>
+          <l>בלילה שנגעת בגופה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היא אמרה שהיא רוצה איתך</l>
+          <l>במבט שלה אפשר לראות אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פתאום אתה מופיע</l>
+          <l>עיניים נוצצות</l>
+          <l>נוגע לא נוגע</l>
+          <l>שולח לטיפות</l>
+          <l>היא מרגישה שהיא חולמת אותך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היא אמרה שהיא רוצה איתך</l>
+          <l>במבט שלה אפשר לראות אותך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

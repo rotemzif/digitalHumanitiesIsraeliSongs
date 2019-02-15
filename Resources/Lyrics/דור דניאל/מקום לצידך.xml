@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מקום לצידך</title>
+        <singer classification="unknown">דור דניאל</singer>
+        <writer>דור דניאל</writer>
+        <composer>דור דניאל</composer>
+        <album>בין החלומות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מקום לצידך</head>
+        <lg number="1" type="stanza">
+          <l>מול אותו חלון ישן פותח את הבוקר,</l>
+          <l>מחפש סיבה להישאר,</l>
+          <l>אל אותו סיפור קטן נטול תקווה ואושר,</l>
+          <l>אם אני עוזב אני לא חוזר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מחפש אותך בפנים,</l>
+          <l>את כבר לא זאת שהכרתי,</l>
+          <l>לא צריך לדבר על השתיקות,</l>
+          <l>אני רוצה לפחד לבד, לעצמי מספיק שיקרתי,</l>
+          <l>כל כך עצוב שכבר לא חשוב לבכות.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אל תפני לי מקום לצידך</l>
+          <l>תתמודדי אני הולך,</l>
+          <l>תחייכי, את יודעת</l>
+          <l>אל תשמרי לי מקום חם לחזור כשאהיה שיכור</l>
+          <l>תוותרי, את שומעת.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מחכה שהיום ירד, תרגעי ואז תביני,</l>
+          <l>שלא מצאתי סיבה להישאר,</l>
+          <l>סתם סיפור עצוב של סתיו,</l>
+          <l>יום יבוא ותסלחי לי</l>
+          <l>את אותו החלון ישן סוגר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אל תפני לי מקום לצידך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תוך דקה</title>
+        <singer classification="unknown">מטרופולין</singer>
+        <writer>עופר מאירי</writer>
+        <composer>ארז ברזוליק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תוך דקה</head>
+        <lg number="1" type="stanza">
+          <l>זוג עיניים גדולות, יפות, חכמות</l>
+          <l>מקוות שהכל יסתדר.</l>
+          <l>סוף דממה ארוכה, סימני מצוקה</l>
+          <l>כל היופי וכל הייאוש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל העצב שבי, כל הצער בך</l>
+          <l>כל הרעש והשתיקה</l>
+          <l>מתרסקים תוך דקה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זוג עיניים גדולות, עייפות עצובות</l>
+          <l>מפחדות שהכל ייגמר</l>
+          <l>נסיעה רחוקה, תחושה חנוקה</l>
+          <l>בוקר שלא מתבהר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל העצב שבי, כל הצער בך</l>
+          <l>כל הרעש והשתיקה</l>
+          <l>מתרסקים תוך דקה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נסתובב ונחזור, בוא נשכח מהכל.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

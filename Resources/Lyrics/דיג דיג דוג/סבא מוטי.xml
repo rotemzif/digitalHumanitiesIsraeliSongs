@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סבא מוטי</title>
+        <singer classification="unknown">דיג דיג דוג</singer>
+        <writer>מיכל חזון</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סבא מוטי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>סבא מוטי איזה אוטו</l>
+          <l>בלי מנוע הוא פועל</l>
+          <l>סבא מוטי איזה אוטו</l>
+          <l>בלי צמיגים הוא מתגלגל.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בסיבוב הראשון הוא נוסע לסלון</l>
+          <l>באפו מושך ומצפצף</l>
+          <l>בחדר השינה הוא עוצר בתחנה</l>
+          <l>ואוסף נוסעים דובונים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>סבא מוטי איזה אוטו...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בחדר האמבט הוא עוצר בבת אחת</l>
+          <l>ואני נופל ומתגלגל</l>
+          <l>ובסוף ממהר למטבח אל המקרר</l>
+          <l>ואלי צוחק נתדלק.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

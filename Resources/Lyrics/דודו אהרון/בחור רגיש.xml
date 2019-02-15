@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בחור רגיש</title>
+        <singer classification="unknown">דודו אהרון</singer>
+        <writer>דודו אהרון</writer>
+        <composer>דודו אהרון</composer>
+        <album>מילים פשוטות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בחור רגיש</head>
+        <lg number="1" type="stanza">
+          <l>מי חיבק אותך תמיד וכל הזמן התמיד</l>
+          <l>נתן לך את כולו והתנתק </l>
+          <l>מכל החברים שהיו כמו אחים, </l>
+          <l>תראי רק מה עשיתי בשבילך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פזמון X2</l>
+          <l>לא תמצאי כמוני כזה בחור רגיש </l>
+          <l>אחד שרק אומר לך את מה שהוא מרגיש </l>
+          <l>אל תחפשי בחוץ כי אין שם מציאות </l>
+          <l>האהבה שלך נמצאת איתי פה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מי חיבק אותך בחום ולא הפסיק לחלום </l>
+          <l>כי כל הזמן דאגתי שתלכי</l>
+          <l>תהיי קצת רצינית, קיבלת מה שרצית </l>
+          <l>תראי רק מה עשיתי בשבילך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פזמון X2</l>
+          <l>לא תמצאי כמוני כזה בחור רגיש...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עכשיו שאת עוזבת זה נגמר </l>
+          <l>אני מתגעגע </l>
+          <l>עשיתי כבר הכל שלא תלכי </l>
+          <l>עוד רגע משתגע</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>פזמון X2</l>
+          <l>לא תמצאי כמוני כזה בחור רגיש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לבן 5</title>
+        <singer classification="male singer">דניאל סלומון</singer>
+        <writer>דניאל סלומון</writer>
+        <composer>דניאל סלומון</composer>
+        <album>דניאל סלומון</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לבן</head>
+        <lg number="1" type="stanza">
+          <l>נולד עוד בוקר מצירי הליל</l>
+          <l>לוקח זמן כדי להתרגל</l>
+          <l>שהכאב פה</l>
+          <l>מתחלף לו</l>
+          <l>בלבן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני איש חושך בין טיפות של אור</l>
+          <l>רוצה לרוץ רוצה גם לעצור</l>
+          <l>וזה מפתיע</l>
+          <l>שהרקיע</l>
+          <l>לבן</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הכל מתעורר אחרייך</l>
+          <l>וזה לא אומר שאני מוותר עלייך</l>
+          <l>פשוט הבוקר לבן</l>
+          <l>הבוקר לבן</l>
+          <l>כשהוא בלעדייך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נראה שאף פעם לא מאוחר</l>
+          <l>ציפור החופש תבקר מחר</l>
+          <l>והיא תצבע לי</l>
+          <l>את מה שרע לי</l>
+          <l>בלבן</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הכל מתעורר...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>הכי חופשי לי להיות לבד</l>
+          <l>הכי חופשי לי להיות לבד</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>הכל מתעורר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק אותך 6</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>מרטין גל</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק אותך</head>
+        <lg number="1" type="stanza">
+          <l>כמו זריחה הארת חיי ופתאום עזבת אותי</l>
+          <l>אך שקיעה ירדה עלי הלכת ולקחת ליבי</l>
+          <l>ליבי נעול, אני שבוא ליבי ילדה רק לך שמור</l>
+          <l>מחכה לך ורוצה בך זו אהבה איי...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק אותך אהבתי, אהבתי</l>
+          <l>בלילות חיכיתי, חכיתי</l>
+          <l>בגללך בכיתי, בכיתי</l>
+          <l>כמה עוד אפשר איי כמה עוד אפשר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דמעה לא ביזבזת עלי גם תקווה לי לא נתת</l>
+          <l>אנא ממך רחמי עלי גם שלום לי לא אמרת</l>
+          <l>אותך אוהב לא אוותר אתן הכל וגם יותר</l>
+          <l>מחכה לך ורוצה בך זו אהבה איי...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק אותך אהבתי, אהבתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

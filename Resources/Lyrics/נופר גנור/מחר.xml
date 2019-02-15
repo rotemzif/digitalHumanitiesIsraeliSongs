@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחר 42</title>
+        <singer classification="female singer">נופר גנור</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>נופר גנור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחר</head>
+        <lg number="1" type="stanza">
+          <l>מחר אנחנו נצא אל חוף נחל ירוק</l>
+          <l>במימיו איבדה החמה טבעת זהב.</l>
+          <l>אנחנו נשוט בסירה בחוף נחל ירוק</l>
+          <l>עמוק עמוק במימיו טבעת זהב.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>המכמורת תרד למצולה</l>
+          <l>תעלה הטבעת ברשת.</l>
+          <l>תיענדנה על אצבעי</l>
+          <l>הרי את מקודשת!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

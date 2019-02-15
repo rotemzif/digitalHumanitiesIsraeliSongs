@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מרגע לרגע 2</title>
+        <singer classification="female singer">מיקה קרני</singer>
+        <writer>מיקי שביב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מרגע לרגע</head>
+        <lg number="1" type="stanza">
+          <l>אני זוכרת</l>
+          <l>את הארץ הקטנה</l>
+          <l>זאת אהבתי</l>
+          <l>הראשונה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מאוהבת</l>
+          <l>בברושים שבצילם</l>
+          <l>הסתדרתי</l>
+          <l>עם העולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מרגע לרגע</l>
+          <l>עכשיו כמו בהתחלה</l>
+          <l>רק רוצה לשמור עלייך</l>
+          <l>אלוהים יודע מה</l>
+          <l>מרגע לרגע</l>
+          <l>העין הצופייה</l>
+          <l>נעצמת וחולמת</l>
+          <l>מה מתוק הוא חלומה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עץ של זית</l>
+          <l>מתקשט לקראת יונה</l>
+          <l>ובלבב פנימה</l>
+          <l>שירה גדולה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מאוהבת</l>
+          <l>בברושים שבצילם</l>
+          <l>הסתדרתי</l>
+          <l>עם העולם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

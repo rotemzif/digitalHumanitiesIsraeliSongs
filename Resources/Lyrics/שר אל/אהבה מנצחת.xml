@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה מנצחת</title>
+        <singer classification="unknown">שר אל</singer>
+        <writer>דורון גל</writer>
+        <composer>דורון גל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה מנצחת</head>
+        <lg number="1" type="stanza">
+          <l>איך הלב איתך אומר לי שאני מרגיש</l>
+          <l>איך את שם תמיד נוגעת במקום רגיש</l>
+          <l>ואת האור שדולק באהבה</l>
+          <l>ואת כל מה שעושה אותה טובה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם אהבה מנצחת עד סוף העולם</l>
+          <l>האהבה שלנו ניצחה את כולם</l>
+          <l>והנרות דולקים כאן ואת ואני</l>
+          <l>האהבה הזאת כל העולם בשבילי</l>
+          <l>כל העולם בשבילך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך האויר נושם אלינו עולם של הבטחות</l>
+          <l>איך אלוקים ברך אותנו באהבה הזאת</l>
+          <l>ואת כל מה שרוצה אצלי לחלום</l>
+          <l>את הלילות ונצח בתוך יום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם אהבה מנצחת עד סוף העולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

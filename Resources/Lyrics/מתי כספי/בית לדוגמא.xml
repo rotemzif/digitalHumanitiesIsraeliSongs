@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בית לדוגמא</title>
+        <singer classification="male singer">מתי כספי</singer>
+        <writer>אהוד מנור</writer>
+        <composer>מתי כספי</composer>
+        <album>ילדותי השניה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בית לדוגמא</head>
+        <lg number="1" type="stanza">
+          <l>גג של רעפים</l>
+          <l>אדומים יפים</l>
+          <l>ודרורים עפים לשם.</l>
+          <l>קיר תומך בקיר</l>
+          <l>כיווני אויר</l>
+          <l>וחלון שביר מול ים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>באנו כה תמימים</l>
+          <l>היינו כחולמים</l>
+          <l>לילות על גבי ימים.</l>
+          <l>זרענו בדמעה</l>
+          <l>נשבענו בצמא</l>
+          <l>לבנות בית לדוגמה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אבן הפינה</l>
+          <l>נחה כמו פנינה,</l>
+          <l>אך ביתי שינה פניו:</l>
+          <l>סדק בתקרה,</l>
+          <l>רוח ממאירה</l>
+          <l>רוח מזהירה עכשיו.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>באנו כה תמימים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>קיר כמעט נופל,</l>
+          <l>מסדרון אפל.</l>
+          <l>קול בערפל מודאג</l>
+          <l>החלום נבעט.</l>
+          <l>ריב בין אם לבת</l>
+          <l>שד בעליית הגג.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>באנו כה תמימים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פתח לי אהובי</title>
+        <singer classification="female singer">מיקה קרני</singer>
+        <writer>אשי</writer>
+        <composer>missing</composer>
+        <album>קול דודי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פתח לי אהובי</head>
+        <lg number="1" type="stanza">
+          <l>שחורה אני ונאוה אהובי</l>
+          <l>כאוהלי קידר</l>
+          <l>כמצולות מעמקי הים</l>
+          <l>אל תראני בשחרות ליבי</l>
+          <l>זו השמש</l>
+          <l>שצרבה כאבי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פתח לי אהובי</l>
+          <l>רפא כאבי</l>
+          <l>פתח לי אהובי</l>
+          <l>וגמולך יהיה האושר בליבי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שחורה אני ונאוה יחידי</l>
+          <l>כיריעות שלמה</l>
+          <l>כזוהר פני הלבנה</l>
+          <l>אל תצבע יומך ביגוני</l>
+          <l>זה ענן</l>
+          <l>שהקדיר מאורי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

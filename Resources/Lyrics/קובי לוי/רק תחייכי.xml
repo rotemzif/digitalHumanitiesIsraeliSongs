@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק תחייכי 4</title>
+        <singer classification="unknown">קובי לוי</singer>
+        <writer>קובי לוי</writer>
+        <composer>קובי לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק תחייכי</head>
+        <lg number="1" type="stanza">
+          <l>את לא עוצרת, את כמו סופה</l>
+          <l>לא מוותרת, כה נחושה</l>
+          <l>נמשך אלייך כמו גם ים</l>
+          <l>רוצה ממך עוד חיוך קטן.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק תחייכי יפה שלי</l>
+          <l>אוהב אותך צוחקת</l>
+          <l>רק תחייכי יפה שלי</l>
+          <l>כמו שחקנית בסרט</l>
+          <l>אוהב את, את בליבי</l>
+          <l>בהצגה מושלמת</l>
+          <l>רק תחייכי יפה שלי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא מתפשרת, עלי סגורה</l>
+          <l>אותי לוקחת, אלייך בא</l>
+          <l>ולי לוחשת מה בליבך</l>
+          <l>רוצה עוד פעם חיוך מלאך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק תחייכי יפה שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

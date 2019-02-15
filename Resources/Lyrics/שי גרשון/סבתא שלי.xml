@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סבתא שלי</title>
+        <singer classification="unknown">שי גרשון</singer>
+        <writer>מוטי אוחיון</writer>
+        <composer>מוטי אוחיון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סבתא שלי</head>
+        <lg number="1" type="stanza">
+          <l>בכל מקום אני שומע הד של מלאכים </l>
+          <l>בכל מקום אני נזכר בך, ברגעים הכי יפים </l>
+          <l>מתגעגע ורוצה שתדעי, שהיית קרובה, קרובה לליבי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואם את שם ואת שומעת אותי </l>
+          <l>ואם את שם, העירי את דרכי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני שומר אותך כאן בליבי, אותך סבתא שלי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לכל מקום אני מבטיח, אקח רק אותך </l>
+          <l>את בשבילי מלאך לנצח, אזכור ואשמח </l>
+          <l>מתגעגע לאותם הימים </l>
+          <l>שהיית קרובה, קרובי לליבי </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואם את שם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

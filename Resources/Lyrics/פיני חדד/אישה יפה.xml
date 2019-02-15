@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אישה יפה 5</title>
+        <singer classification="male singer">פיני חדד</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אישה יפה</head>
+        <lg number="1" type="stanza">
+          <l>ביופייך אני שט ורואה את כל העולם</l>
+          <l>תמיד את איתי את שוכנת בתוכי בנישמתי</l>
+          <l>את ליבך בשבילי הפכת לבית חם</l>
+          <l>אני שאוהב מבקש רוצה אליך יפתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את הכחול שמיים וים</l>
+          <l>לילה ויום את כל עולם</l>
+          <l>ואת שלי אישה יפה אישה יפה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בדממה מדברות עיניך היפות ולי לוחשות</l>
+          <l>ברכות את מציפה את עולמי</l>
+          <l>כל הזמן מאירה בי את הרגשות</l>
+          <l>אני לעולם רק איתך כי את זורמת בדמי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את הכחול שמיים וים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

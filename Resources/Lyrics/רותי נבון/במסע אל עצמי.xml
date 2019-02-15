@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>במסע אל עצמי</title>
+        <singer classification="female singer">רותי נבון</singer>
+        <writer>אהוד מנור</writer>
+        <composer>קובי אושרת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>במסע אל עצמי</head>
+        <lg number="1" type="stanza">
+          <l>במסע אל עצמי</l>
+          <l>הייתי נוסעת סמויה</l>
+          <l>בתא המטען </l>
+          <l>המסע אל עצמי</l>
+          <l>הייתי אישה בת מאה</l>
+          <l>וילד קטן </l>
+          <l>עם פחדים</l>
+          <l>ועם שיר נדודים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ולו ידעתי שבסוף</l>
+          <l>אני אצחק שם על החוף</l>
+          <l>הייתי כמו ענן </l>
+          <l>נוסעת לי מזמן</l>
+          <l>אל עצמי ואל שמי</l>
+          <l>הייתי חוזרת מזמן </l>
+          <l>אלי ואלייך לכאן </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>במסע אל עצמי </l>
+          <l>הגעתי לעיר רחוקה</l>
+          <l>בקצה העולם</l>
+          <l>במסע אל עצמי</l>
+          <l>גיליתי שיש עוד מפה </l>
+          <l>של גוף אדם</l>
+          <l>עם סלעים </l>
+          <l>והרבה תהומות </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ולו ידעתי שבסוף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

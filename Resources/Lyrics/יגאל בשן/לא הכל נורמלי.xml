@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא הכל נורמלי</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>יגאל בשן</writer>
+        <composer>יגאל בשן</composer>
+        <album>תלוי רק בך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא הכל נורמלי</head>
+        <lg number="1" type="stanza">
+          <l>אין, אין בי טיפת היגיון במה שקשור אלייך</l>
+          <l>יש, יש בי טיפת שיגעון במה שעובר עלייך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא, לא הכל נורמלי</l>
+          <l>גם, גם אם זה בנאלי</l>
+          <l>לא, לא הכל טוטאלי, איתך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין, אין בי טיפת היגיון במה שעובר עלי</l>
+          <l>אם, אם תעשי בי ניסים אז את תהיי אלוהיי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא, לא הכל נורמלי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>גם, גם אם עברנו ת'גבול בין הרצוי למצוי</l>
+          <l>את, את ששברת לי ת'לב בין הדמיון לשפוי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לא, לא הכל נורמלי...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אין, אין בי טיפת היגיון במה שקשור אלייך</l>
+          <l>יש, יש בי טיפת שיגעון במה שעובר עלייך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

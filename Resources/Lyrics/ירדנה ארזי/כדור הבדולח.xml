@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כדור הבדולח</title>
+        <singer classification="female singer">ירדנה ארזי</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כדור הבדולח</head>
+        <lg number="1" type="stanza">
+          <l>כל מה שיקרה ידוע</l>
+          <l>הגלגל ינוע,</l>
+          <l>העתיד קרה לפני חודש או שבוע.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בכף היד ראיתי,</l>
+          <l>בקלפים גיליתי,</l>
+          <l>בקפה חזיתי,</l>
+          <l>בכדור הבדולח,</l>
+          <l>בקלפים גיליתי,</l>
+          <l>בקפה חזיתי,</l>
+          <l>בכדור הבדולח</l>
+          <l>עד שהתנפץ.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל מה שתרצו,</l>
+          <l>את לבכם  אדמיע</l>
+          <l>העולם עתיק יומין</l>
+          <l>הוא כבר לא יפתיע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בכף היד ראיתי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כל מה שקרה כבר פעם</l>
+          <l>יעבור כמו רעם -</l>
+          <l>ובכל זאת ידידי</l>
+          <l>בחיים יש טעם.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בכף היד ראיתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

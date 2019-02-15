@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר ללא מילים</title>
+        <singer classification="unknown">ערן צוירן</singer>
+        <writer>ערן צוירן</writer>
+        <composer>ערן צוירן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר ללא מילים</head>
+        <lg number="1" type="stanza">
+          <l>בליבי נמצאת רק את </l>
+          <l>נותרת לבד ללא מילה </l>
+          <l>שעות חלפו ועשן לבן </l>
+          <l>כמו קוסם בעיר צלילים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהבה היא צליל עם המילה המתאימה </l>
+          <l>בתוכי נברא שיר ללא מילים </l>
+          <l>בפסנתר הווקאליזה מתעלה מעל </l>
+          <l>שוב היא מופיעה שיר ללא מילים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תאמרי מילה את כה קשה </l>
+          <l>מדוע לי חסרת כשיר </l>
+          <l>שעות חלפו עשן לבן </l>
+          <l>כמו קוסם בעיר צלילים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהבה היא צליל עם המילה המתאימה... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כוכב זוהר מצליל ותו </l>
+          <l>עולה הערב ונחשף </l>
+          <l>בלי אות אחת התחלנו כך </l>
+          <l>לברוא מילים ברגש עז </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אהבה היא צליל עם המילה המתאימה... </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>בליבי נמצאת רק את </l>
+          <l>נותרת לבד ללא מילה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

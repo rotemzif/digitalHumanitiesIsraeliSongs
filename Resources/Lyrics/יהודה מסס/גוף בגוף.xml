@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גוף בגוף</title>
+        <singer classification="male singer">יהודה מסס</singer>
+        <writer>אהוד מנור</writer>
+        <composer>יהודה מסס</composer>
+        <album>מרזב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גוף בגוף</head>
+        <lg number="1" type="stanza">
+          <l>היא נכנסת פתאום </l>
+          <l>מעט פרועה ותנשמת </l>
+          <l>בו עובר חום של נבואה </l>
+          <l>שמתגשמת </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמו ערפל </l>
+          <l>רך ונעים </l>
+          <l>שבא ונופל </l>
+          <l>עליו ועליה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>גוף בגוף </l>
+          <l>בלי חומה, בלי אימה </l>
+          <l>רק קולות הנשימה. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מתיקות עליונה </l>
+          <l>אותם מציפה ומתפשטת </l>
+          <l>אנחה אחרונה ולטיפה </l>
+          <l>אל תוך השקט </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>גוף בגוף </l>
+          <l>בלי חומה, בלי אימה </l>
+          <l>רק קולות הנשימה. </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>העורקים כמו נחלים שמשתוללים </l>
+          <l>הנשיקות הארוכות </l>
+          <l>שכל גופה אליו </l>
+          <l>וכל גופו אליה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

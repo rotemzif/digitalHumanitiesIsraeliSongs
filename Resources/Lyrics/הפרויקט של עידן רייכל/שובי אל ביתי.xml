@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שובי אל ביתי</title>
+        <singer classification="band">הפרויקט של עידן רייכל</singer>
+        <writer>עידן רייכל</writer>
+        <composer>עידן רייכל</composer>
+        <album>ממעמקים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שובי אל ביתי</head>
+        <lg number="1" type="stanza">
+          <l>שובי אל ביתי</l>
+          <l>תשובי להביט בעיני</l>
+          <l>ערב שוב יורד וכבר נהיה מאוחר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שובי אל חדרי</l>
+          <l>זכרי שגם אם זה חורף עכשיו</l>
+          <l>תסתכלי קרוב - מגיע יום מאושר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בעינייך יפתי נשמר האור והתום</l>
+          <l>יש יום מאושר או עצב שבא חוזר פתאום</l>
+          <l>יש אור של כוכב מאיר ויש את אותו חלום</l>
+          <l>כמה את יפה תמיד וכמה היום.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שובי אל ביתי תשובי להביט בעיני</l>
+          <l>ערב שוב יורד וכבר נהיה מאוחר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שובי אל חדרי</l>
+          <l>זכרי שגם אם זה חורף עכשיו</l>
+          <l>תסתכלי קרוב מגיע יום מאושר.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בעינייך יפתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

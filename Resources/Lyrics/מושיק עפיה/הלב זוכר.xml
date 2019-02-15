@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלב זוכר</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>לא ידוע</composer>
+        <album>יש לי אותך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלב זוכר</head>
+        <lg number="1" type="stanza">
+          <l>כמו עלה נידף ברוח</l>
+          <l>לא מוצא מקום לנוח</l>
+          <l>מסתגר עמוק בתוך געגועי</l>
+          <l>אני לבד והיא איננה</l>
+          <l>רק מכתב נותר ממנה</l>
+          <l>המילים קרות</l>
+          <l>היא לא תשוב אלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין לי את הכח לאבד אותה</l>
+          <l>לא יכול לשכוח את דמותה</l>
+          <l>היא כבר רחוקה ממני</l>
+          <l>אך הלב זוכר לא יכול לשכוח</l>
+          <l>ואוהב יותר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אפלה ואין לי שקט</l>
+          <l>ריקנות אותי חונקת</l>
+          <l>זכרונות וריח בושם על הכר</l>
+          <l>לאן אבדו לי עקבותיה</l>
+          <l>שואל ולא יודע</l>
+          <l>איפה היא עכשיו</l>
+          <l>ולמה זה נגמר?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין לי את הכח לאבד אותה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גבעול 3</title>
+        <singer classification="female singer">יעל לוי</singer>
+        <writer>מאיר גולדברג</writer>
+        <composer>ורד קלפטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גבעול</head>
+        <lg number="1" type="stanza">
+          <l>על הגבעה שהיתה מלכותך </l>
+          <l>את מרכינה מבטך לעפר </l>
+          <l>כמו מעולם לא היית לבדך </l>
+          <l>עד שנתת את ליבך לפרפר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תמיד נשברת נותנת הכל </l>
+          <l>הרוח עוברת קוראת לך גבעול </l>
+          <l>כל כך מתאים לך לתת את הכל </l>
+          <l>גבעול הם קוראים לך קוראים לך גבעול </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל השיחים לוחשים מסביב </l>
+          <l>איך שהפכת לתמונה עצובה </l>
+          <l>אין שורשים או פרחי אהבה </l>
+          <l>איך תגדלי על אדמת מריבה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תמיד נשברת נותנת הכל...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>על הגבעה שהיתה מלכותך </l>
+          <l>ערב יורד כמו סיום או מסך </l>
+          <l>מי שאמר שאינך לבדך </l>
+          <l>טרם ידע עוד בדידות כמו שלך </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תמיד נשברת נותנת הכל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

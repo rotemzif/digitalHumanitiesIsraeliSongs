@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהוב שלי 5</title>
+        <singer classification="female singer">רינת בר</singer>
+        <writer>רינת בר</writer>
+        <composer>רינת בר</composer>
+        <album>חיכיתי לך / אלבום חפלה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהוב שלי</head>
+        <lg number="1" type="stanza">
+          <l>אתה איתי, מבין אותי </l>
+          <l>אין לי אין לי עוד מקום </l>
+          <l>בלב שלי יש רק אחד </l>
+          <l>אין לי אין לי עוד חלום </l>
+          <l>בשבילי אתה האור </l>
+          <l>לכן נותר לי רק לבחור </l>
+          <l>אתה נושא אותי אל המרום </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהוב שלי כל שניה בליבי </l>
+          <l>אתה לא לא לא יודע כמה </l>
+          <l>ואהובי - היום שלך ושלי </l>
+          <l>זה רק אתה ורק אני יודעת למה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אורח חיים, לבבות מתאימים </l>
+          <l>יש לי יש לי את הכל </l>
+          <l>אושר נצחי, חיוך אמיתי </l>
+          <l>יש לי יש לי אותך היום </l>
+          <l>בשבילי אתה האור </l>
+          <l>לכן נותר לי רק לבחור </l>
+          <l>אתה נושא אותי אל המרום </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהוב שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

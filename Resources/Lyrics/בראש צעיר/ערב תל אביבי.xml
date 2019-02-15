@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ערב תל אביבי</title>
+        <singer classification="unknown">בראש צעיר</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ערב תל אביבי</head>
+        <lg number="1" type="stanza">
+          <l>ערב תל אביבי חם</l>
+          <l>גל נשבר על שפת הים,</l>
+          <l>אלוהים כמונו הוא נלחם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עיר עברית ראשונה</l>
+          <l>מתאפרת, משתנה,</l>
+          <l>מאירה פנים בכל אונה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כל הנחלים זורמים לתל אביב, </l>
+          <l>מסביב,</l>
+          <l>לרוויה, לצימאון בלתי פוסק.</l>
+          <l>כל הנחלים זורמים לתל אביב</l>
+          <l>בוא, תקשיב.</l>
+          <l>והסחף את החול חובק.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ערב תל אביבי קר</l>
+          <l>גל על שפת הים נשבר,</l>
+          <l>נהדף הימה ומוחזר.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עיר של אלף הפנים</l>
+          <l>וצמיחת האבנים</l>
+          <l>אל קווי רקיע עשנים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כל הנחלים זורמים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

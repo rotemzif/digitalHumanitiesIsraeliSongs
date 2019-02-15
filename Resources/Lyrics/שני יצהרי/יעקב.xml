@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יעקב 13</title>
+        <singer classification="unknown">שני יצהרי</singer>
+        <writer>יאיר שדה</writer>
+        <composer>גרי ולודבסקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יעקב</head>
+        <lg number="1" type="stanza">
+          <l>כל האנשים שנרדמו </l>
+          <l>אנשי המסיבה בבית </l>
+          <l>על האבנים שבמדבר </l>
+          <l>אנשי המסיבה בבית</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יעקב נרדם על החולות הנודדים אל השמיים </l>
+          <l>בין עננים שער נפתח המלאכים כולם קוראים לו:</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l> הם האנשים שלא חזרו </l>
+          <l>אנשי המסיבה בבית </l>
+          <l>הם החלומות שנעלמו </l>
+          <l>אנשי המסיבה בבית </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יעקב נרדם על החולות הנודדים אל השמיים </l>
+          <l>בין עננים שער נפתח המלאכים כולם קוראים לו: </l>
+          <l>"יעקב תקום, זה לא מאוחר, אתה לא לבד בעולם" </l>
+          <l>אבל יעקב ישן. ישן וחולם, על סולמות אל השמיים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הלו יעקב </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יעקב נרדם על החולות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

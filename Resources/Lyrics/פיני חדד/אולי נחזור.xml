@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אולי נחזור</title>
+        <singer classification="male singer">פיני חדד</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>אביחי מליחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אולי נחזור</head>
+        <lg number="1" type="stanza">
+          <l>בשדות בין הערביים, כשחמה נשקה למים </l>
+          <l>את פרחת לאט, היית כה מאושרת </l>
+          <l>איך סגרת עלי כותרת, והשפלת מבט </l>
+          <l>ואותי השארת, לבדי בדרך </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שושנה נכספת, לך נפשי נמשכת </l>
+          <l>רק אותך אסור לקטוף </l>
+          <l>כי אסורה אהבתנו, השורה בין שנינו </l>
+          <l>עם בוא אביב אולי נחזור... </l>
+          <l>אולי נחזור... </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בין זריחה לרדת ערב, כשלצידי פרח הורד </l>
+          <l>את מולי נחשפת, צחור היה עורך </l>
+          <l>איך חיוורים היו שמיים, כשאותי עזבת </l>
+          <l>לו השארת סימן, הייתי לידך </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שושנה נכספת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

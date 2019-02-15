@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה תמה</title>
+        <singer classification="male singer">ישי לוי</singer>
+        <writer>אביחי מליחי</writer>
+        <composer>אסתר כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה תמה</head>
+        <lg number="1" type="stanza">
+          <l>אהבה תמה, בואי לגני</l>
+          <l>בשקיעת החמה אנא קחי את ידי</l>
+          <l>ואני כולי פורח ופועם הלב כל כך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את רוקדת וצוחקת</l>
+          <l>את עושה לי טוב בלב</l>
+          <l>מסתובבת, מתפתלת</l>
+          <l>מתאהבת כל הליל</l>
+          <l>כל הלילה עד הבוקר</l>
+          <l>רק איתך שוב אתהולל</l>
+          <l>לא אוותר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את כזו חמה, את לי בלבבי</l>
+          <l>איך ליבך שהמה מסנוור את כולי</l>
+          <l>ואני איתך אורח וכל עולמי עכשיו </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את רוקדת וצוחקת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

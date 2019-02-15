@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הדרן</title>
+        <singer classification="unknown">מירב כהן</singer>
+        <writer>חמוטל בן זאב</writer>
+        <composer>טובה פורת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הדרן</head>
+        <lg number="1" type="stanza">
+          <l>הדרן לכם חברים </l>
+          <l>שבאתם לחגוג איתנו </l>
+          <l>הדרן לכל השירים </l>
+          <l>שתמיד מלווים אותנו </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הדרן לרגעי השתיקה </l>
+          <l>ולחסד שיש בשקט </l>
+          <l>הדרן לתחושה מתוקה </l>
+          <l>לשמוח נפשי משתוקקת </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>נגיעות פסנתר קלות </l>
+          <l>פורטות על מיתרי ליבי </l>
+          <l>ניגוני תפילות ותמונות עולות </l>
+          <l>וכל האהבה שבי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הדרן לכם משפחה </l>
+          <l>שאתם לצידי ואיתי </l>
+          <l>הדרן לתקוות, לשמחה </l>
+          <l>שתמיד מלווה אותי </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הדרן למחיאות הכפיים </l>
+          <l>לקסם של הבמה </l>
+          <l>לך אלוהים בשמים </l>
+          <l>תודה לבבית וחמה </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>נגיעות פסנתר קלות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קסם 18</title>
+        <singer classification="male singer">עמיר לב</singer>
+        <writer>עמיר לב</writer>
+        <composer>עמיר לב</composer>
+        <album>עמיר לב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קסם</head>
+        <lg number="1" type="stanza">
+          <l>העץ הכחול פורח</l>
+          <l>ענף שנפל מזדקף</l>
+          <l>קופסת ממתקים מחכה</l>
+          <l>סדרן מטפס על סולם מכוון תאורה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הנעל רוקדת בלי רגל</l>
+          <l>גדר קוצנית התייבשה שנוכל לעבור</l>
+          <l>כורסת טלוויזיה מותחת משענת</l>
+          <l>לחיצה עדינה משחררת כפתור</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איזה קסם שנינו</l>
+          <l>איזה קסם שנינו</l>
+          <l>איזה קסם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ג'ק ניקולסון הזדקן עזבת אותו</l>
+          <l>עזבת את הסרט ובאת אלי</l>
+          <l>ניקינו אבק ביחד</l>
+          <l>כיבינו נרות בנשימה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>איזה קסם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

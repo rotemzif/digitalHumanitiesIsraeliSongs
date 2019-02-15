@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חייל של אמא</title>
+        <singer classification="male singer">בני אלבז</singer>
+        <writer>ליאת רבנר</writer>
+        <composer>גד אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חייל של אמא</head>
+        <lg number="1" type="stanza">
+          <l>נתת לי את חיי וגם את שמי</l>
+          <l>בחום ואהבה עטפת אותי</l>
+          <l>שלחת אותי לקרב, כמו גיבור</l>
+          <l>מכל המלחמות ידעת שאחזור</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תמיד שקצת עצוב לי ובודד</l>
+          <l>אני עוצם עיניים וחושב</l>
+          <l>על מה היית אומרת לי עכשיו</l>
+          <l>על כמה ותמיד אוהב אותך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני חייל, חייל של אמא</l>
+          <l>חייל של אמא</l>
+          <l>שמתפללת ושומרת רק עלי</l>
+          <l>אני חייל, חייל של אמא</l>
+          <l>חייל של אמא</l>
+          <l>שמתפללת ושומרת רק עלי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שתיקה שלך שווה אלף מילים</l>
+          <l>יודע את איתי ממרחקים</l>
+          <l>אני מבטיח אמא יקרה</l>
+          <l>תמיד אשמור עלייך חזרה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני חייל, חייל של אמא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

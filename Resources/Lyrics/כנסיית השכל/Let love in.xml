@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Let love in</title>
+        <singer classification="band">כנסיית השכל</singer>
+        <writer>רן אלמליח</writer>
+        <composer>missing</composer>
+        <album>רוץ ילד</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Let love in</head>
+        <lg number="1" type="stanza">
+          <l>את הכי יפה כשאת שיכורה</l>
+          <l>לא מבדילה בין טוב לרע </l>
+          <l>גם היופי לא</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את הכי אבודה כשאת יודעת מה את רוצה</l>
+          <l>גם אני כזה</l>
+          <l>גם אני הלכתי למדבר</l>
+          <l>להרוג את השטן</l>
+          <l>וחזרנו יחד חברים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>Let love in</l>
+          <l>Let love in</l>
+          <l>Let love in</l>
+          <l>Let love in</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את הכי אבודה כשאת יודעת מה את רוצה</l>
+          <l>גם אני כזה</l>
+          <l>גם אני הלכתי למדבר</l>
+          <l>להרוג את השטן</l>
+          <l>וחזרנו חברים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>Let love in...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

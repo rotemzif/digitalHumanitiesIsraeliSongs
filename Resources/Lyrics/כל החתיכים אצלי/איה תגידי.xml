@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איה תגידי</title>
+        <singer classification="unknown">כל החתיכים אצלי</singer>
+        <writer>איה זהבי פייגלין</writer>
+        <composer>איה זהבי פייגלין</composer>
+        <album>כל החתיכים אצלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איה תגידי</head>
+        <lg number="1" type="stanza">
+          <l>מי שעושה לך מסאז' </l>
+          <l>רק מנסה לבדוק אם יש לך עיניים בגב</l>
+          <l>ומי שעושה לך עיניים עכשיו</l>
+          <l>שמע שאת טובה בלעשות נעים בגב</l>
+          <l>לא באמת כי מצאת חן בעיניו.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איה תגידי זה פסיכי או נרקסיסטי,</l>
+          <l>לחשוב שהכל קונספירציה נגדך?</l>
+          <l>איה תגידי זה פסיכי או נרקסיסטי,</l>
+          <l>לדבר בגוף שני אל עצמך?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אנשים הם עם מוזר</l>
+          <l>מתלבשים חם אבל מדברים קר</l>
+          <l>נועצים ציפורניים תוך כדי חיוכים</l>
+          <l>תפקחי את העיניים שיש לך בגב.</l>
+          <l>אנשים הם מפה ועד קצה אפם.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איה תגידי זה פסיכי או נרסיסטי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

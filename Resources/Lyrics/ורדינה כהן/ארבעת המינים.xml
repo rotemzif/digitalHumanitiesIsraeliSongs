@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ארבעת המינים</title>
+        <singer classification="female singer">ורדינה כהן</singer>
+        <writer>אורלי בינדר</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ארבעת המינים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>ארבעת המינים, ארבעת המינים,</l>
+          <l>בחג הסוכות עליהם מברכים.</l>
+          <l>ארבעת המינים, ארבעת המינים,</l>
+          <l>אל הסוכה אותנו מזמינים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אתרוג תמיד פורח, </l>
+          <l>יש לו טעם ויש לו ריח.</l>
+          <l>לולב אצלנו מתארח, </l>
+          <l>יש לו טעם, אך אין לו ריח.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ארבעת המינים, ארבעת המינים...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ומה יש להדס?</l>
+          <l>רק ריח הוא טפס.</l>
+          <l>וליד המים בשלוה, </l>
+          <l>ללא טעם וריח - ערבה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ארבעת המינים, ארבעת המינים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

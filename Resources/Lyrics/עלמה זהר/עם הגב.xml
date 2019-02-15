@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עם הגב 2</title>
+        <singer classification="unknown">עלמה זהר</singer>
+        <writer>עלמה זהר</writer>
+        <composer>עלמה זהר</composer>
+        <album>דברי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עם הגב</head>
+        <lg number="1" type="stanza">
+          <l>כשאתה עם הגב שום דבר לא יכאב</l>
+          <l>לך לא יכאב</l>
+          <l>כבר פנית ללכת מכאן</l>
+          <l>כשאתה לא רואה</l>
+          <l>לא מביט לאחור לא טועה</l>
+          <l>הולך ומוחק את הזמן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הייתה לנו אהבת עולם</l>
+          <l>הייתה לנו אהבת עולם</l>
+          <l>זה גדול זה גדול עליך</l>
+          <l>אתה נעלם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאתה עם הגב שום דבר לא יכאב</l>
+          <l>לך לא יכאב</l>
+          <l>כבר פנית ללכת מכאן</l>
+          <l>כשאתה מתרחק לא סוגר עד הסוף מתחמק</l>
+          <l>הולך בלי לומר לי לאן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הייתה לנו אהבת עולם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא תסב את פניך לאחור לראות אותי שוב</l>
+          <l>לא תסב את פניך לאחור</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הייתה לנו אהבת עולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

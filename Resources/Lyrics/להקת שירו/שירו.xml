@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שירו 23</title>
+        <singer classification="band">להקת שירו</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>שייקה פייקוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שירו</head>
+        <lg number="1" type="stanza">
+          <l>על גדות הירדן בימים אחרים</l>
+          <l>גדלתי בין עוד אנשים ששרים</l>
+          <l>הם שרו בלילה החם כדי לעודד את רוחם</l>
+          <l>והם שהשאירו לי את השירים שלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שירו שירו בגרון ניחר,</l>
+          <l>אל תשאירו כח למחר</l>
+          <l>שירו שירו והדליקו אש</l>
+          <l>כי השיר הוא כל מה שיש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ומאז השירים מלווים את חיי</l>
+          <l>אני שרה תמיד עם אחיי ורעיי</l>
+          <l>שירת הרבים החמה תוכל להפיל כל חומה</l>
+          <l>ולפתוח לבבות, לנטוע אהבות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שירו שירו בגרון ניחר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הארץ שינתה את דמותה ורוחה</l>
+          <l>אך שירת הרבים לא איבדה את כוחה</l>
+          <l>הזמר הזה מלכד והוא שנשאר לנו עד</l>
+          <l>ובכל דור ודור העם נושא מיזמור</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שירו שירו בגרון ניחר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

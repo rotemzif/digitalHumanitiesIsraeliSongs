@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כולם מבקשים ממך סליחה</title>
+        <singer classification="male singer">בני אלבז</singer>
+        <writer>בני אלבז</writer>
+        <composer>בני אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כולם מבקשים ממך סליחה</head>
+        <lg number="1" type="stanza">
+          <l>כולם מבקשים ממך סליחה, אריה</l>
+          <l>על שלא עמדנו לימינך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אריה שלנו חזור הביתה</l>
+          <l>אריה שלנו חזור אלינו</l>
+          <l>אריה שלנו חזור הביתה</l>
+          <l>כי אין יורש למנהיגותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כולנו מרגישים בחסרונך, אריה</l>
+          <l>חסרה לנו מנהיגותך</l>
+          <l>אתה בגלות ואנחנו אתך, אריה</l>
+          <l>בוכים על כאב שלא נגמר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אריה שלנו חזור הביתה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

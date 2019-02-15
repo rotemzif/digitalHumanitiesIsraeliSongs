@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נותן לך כוח</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>ליאור מיארה</writer>
+        <composer>missing</composer>
+        <album>כתוב בשמים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נותן לך כוח</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>נותן לך את הכח נותן לך אהבה</l>
+          <l>רוצה איתך לברוח לארץ רחוקה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>משהו מתחבא בתוך עינייך</l>
+          <l>לא יכול עוד רגע בלעדייך</l>
+          <l>כמו מלאך תמיד אשמור עלייך</l>
+          <l>אלך איתך בטוב וגם ברע</l>
+          <l>רוצה אותך תמיד ביחד</l>
+          <l>כמו משוגע שבוי בתוך ליבך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>נותן לך את הכח נותן לך אהבה</l>
+          <l>רוצה איתך לברוח לארץ רחוקה</l>
+        </lg>
+        <lg number="4" type="stanza" />
+        <lg number="5" type="stanza">
+          <l>כל שתבקשי אני אהיה לך</l>
+          <l>אמלא את כל מה שחסר לך</l>
+          <l>לעשות לך טוב אני מבטיח</l>
+          <l>לעולם אני לא אוותר</l>
+          <l>רוצה אותך תמיד ביחד</l>
+          <l>כמו משוגע שבוי בתוך ליבך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

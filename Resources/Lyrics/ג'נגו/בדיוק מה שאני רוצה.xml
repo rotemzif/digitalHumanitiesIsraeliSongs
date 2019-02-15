@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בדיוק מה שאני רוצה</title>
+        <singer classification="unknown">ג נגו</singer>
+        <writer>ג'נגו</writer>
+        <composer>ג'נגו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בדיוק מה שאני רוצה</head>
+        <lg number="1" type="stanza">
+          <l>לפעמים אני חושב</l>
+          <l>מה היה קורה</l>
+          <l>אם הייתי מישהו אחר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מסתכל במראה</l>
+          <l>סוגר עיינים משתנה</l>
+          <l>חולם על משהו אחר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בדיוק מה שאני רוצה</l>
+          <l>אני אהיה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואז אני חוזר </l>
+          <l>להיות לבד</l>
+          <l>למקום שהייתי לפני</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מתחיל להרגיש</l>
+          <l>געגוע מתגבר</l>
+          <l>אם הייתי מישהו אחר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בדיוק מה שאני רוצה</l>
+          <l>אני אהיה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

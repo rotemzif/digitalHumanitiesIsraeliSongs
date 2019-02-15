@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלילה היא הולכת</title>
+        <singer classification="male singer">פבלו רוזנברג</singer>
+        <writer>פבלו רוזנברג</writer>
+        <composer>פבלו רוזנברג</composer>
+        <album>בין ערביים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלילה היא הולכת</head>
+        <lg number="1" type="stanza">
+          <l>הלילה, הלילה היא הולכת</l>
+          <l>למסע של שיכחה להתנתק</l>
+          <l>קשה לה, כואב לה כשהיא אורזת</l>
+          <l>את ליבה, אהבתה עם כל בגדיה</l>
+          <l>עוד רגע לפני שהיא עוזבת</l>
+          <l>משאירה מכתב פרידה כי הוא לא יודע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שהלילה, הלילה היא הולכת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אל תתני לו שיתווה לך את הדרך</l>
+          <l>אל תסכימי שיכתיב</l>
+          <l>אל תתני לו שיקבע לך מי ראוי לך</l>
+          <l>אל תסכימי שיכאיב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>השחר היה רווי בגשם</l>
+          <l>לבדו תחת עץ השקדים</l>
+          <l>עצוב לו, קורא שירה מספר</l>
+          <l>העביר את כל לילות הנדודים</l>
+          <l>בלילה, לפני שהיא חוזרת</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אל תתני לו...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כי זה הזמן שלך, והמרחב של נעורייך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

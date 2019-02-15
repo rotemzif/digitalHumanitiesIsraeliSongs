@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מישוט בארץ</title>
+        <singer classification="female singer">יפה ירקוני</singer>
+        <writer>ניסן כהן הברון</writer>
+        <composer>ניסן כהן הברון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מישוט בארץ</head>
+        <lg number="1" type="stanza">
+          <l>תנו לנו תרמיל על השכם</l>
+          <l>ואז נלך מעזה עד בית לחם,</l>
+          <l>ועת נבוא לבית לחם נשירה שם</l>
+          <l>זמר לאברהם</l>
+          <l>מבית לחם נמשיכה ליריחו,</l>
+          <l>שם נשיר ליהושע את שירתו,</l>
+          <l>ים המלח נחצה על גבי ספינה -</l>
+          <l>אנו כבר במצדה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נשירה שיר, איזו ארץ יפה!</l>
+          <l>נהלך לארכה, מסיני עד גולן - עד גולן</l>
+          <l>נשירה שיר, איזו ארץ יפה!</l>
+          <l>נהלך לרחבה מירדן ועד ים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מן הצוק לדימונה בצעד קל</l>
+          <l>שם נשיר לסימונה ולמיכל</l>
+          <l>בבאר שבע נתפס מנוחה קצרה</l>
+          <l>בצל עצי שקמה.</l>
+          <l>בצפון נטפס על גבי חרמון</l>
+          <l>ונחליק מטה מטה אל המדרון,</l>
+          <l>כשנשוב אל הבית מהצפון</l>
+          <l>נשיר את הפזמון:</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נשירה שיר, איזו ארץ יפה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

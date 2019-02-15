@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אזכור את הדרך</title>
+        <singer classification="male singer">יהורם גאון</singer>
+        <writer>משה דור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אזכור את הדרך</head>
+        <lg number="1" type="stanza">
+          <l>אזכור את הדרך אזכור את הבית</l>
+          <l>מבט השלום שאלי רעד</l>
+          <l>שקיעה שבוערת צמרת הזית</l>
+          <l>אבל בחלום שמך אבד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זה השם שאבד</l>
+          <l>בשבילי העבר</l>
+          <l>בערים הזרות בליל השם עוד מכה</l>
+          <l>על הלב כפטיש ונוקב</l>
+          <l>אזכור את הדרך אזכור את הבית</l>
+          <l>רק שמך במרחק מפכה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ימים שאהבתי הצליל והפרח</l>
+          <l>קולך שנהר לא אשכח לעד</l>
+          <l>עליך חלמתי בקור ופרך</l>
+          <l>אבל בנכר שמך אבד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה השם שאבד....</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אז באתי בדרך עד פתח הבית</l>
+          <l>דלתך נעולה ושומם גנך</l>
+          <l>היא לא תחזור עוד לחש לי הזית</l>
+          <l>רק אז הוא גילה לי את שמך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה השם שאבד....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

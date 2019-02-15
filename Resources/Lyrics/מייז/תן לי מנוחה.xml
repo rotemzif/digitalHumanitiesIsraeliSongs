@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תן לי מנוחה</title>
+        <singer classification="unknown">מייז</singer>
+        <writer>מאור קגן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תן לי מנוחה</head>
+        <lg number="1" type="stanza">
+          <l>תן לי עוד סיבה, להיות שוב לצידך</l>
+          <l>ימים ארוכים לילות בודדים ואני כאן לא איתך...</l>
+          <l>שוב לבד לא מתרגשת</l>
+          <l>אותך היום אני עוזבת... עוזבת.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תן לי מנוחה, יותר אנ'לא רוצה</l>
+          <l>ברגע של שלווה אני בוחרת</l>
+          <l>לוקחת את הטוב, היה לי זמן לחשוב</l>
+          <l>למדתי לאהוב, הכל זוכרת...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק עוד מנגינה בשם האהבה</l>
+          <l>דרכים נסתרות, עיניים דומעות</l>
+          <l>שאני כאן לא איתך...</l>
+          <l>שוב לבד לא מתרגשת</l>
+          <l>אותך היום אני עוזבת... עוזבת.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תן לי מנוחה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עכשיו כבר לא בוחרת וזה הזמן ללכת</l>
+          <l>אהבה לא פעם מכאיבה</l>
+          <l>לא נשאר בי עוד אויר ושרה את השיר...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תן לי מנוחה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

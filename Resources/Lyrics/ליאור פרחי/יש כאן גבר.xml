@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש כאן גבר</title>
+        <singer classification="male singer">ליאור פרחי</singer>
+        <writer>רמי לב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש כאן גבר</head>
+        <lg number="1" type="stanza">
+          <l>אז מה איתך תגידי לי, רוצה לראות אותך בכיף</l>
+          <l>נו אז מתי תהיי שלי, אוהב איתך להיסחף</l>
+          <l>באת אלי מהשמיים ולא בא לי שתלכי</l>
+          <l>הולך איתך באש במים אז לעולם אל תשכחי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש כאן גבר שנותן לך </l>
+          <l>את האהבה שאין לך</l>
+          <l>משתגע רק אלייך </l>
+          <l>אין לי שקט בלעדייך </l>
+          <l>יש כאן גבר שסוגד לך</l>
+          <l>ואוהב כל מה שיש בך</l>
+          <l>משתגע רק אלייך </l>
+          <l>אין לי שקט בלעדייך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז מה איתך תגידי לי ואיך האושר בתוכך</l>
+          <l>תגידי שאת בשבילי ואני פה בשבילך</l>
+          <l>איזה מזל שאותך פגשתי ואת יפה כל כך יפה</l>
+          <l>בתוך הלב שלי הרגשתי את אהבה שמעיפה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש כאן גבר שנותן לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

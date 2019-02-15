@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תברחי</title>
+        <singer classification="band">נעליים</singer>
+        <writer>אייל אבן צור</writer>
+        <composer>אייל אבן צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תברחי</head>
+        <lg number="1" type="stanza">
+          <l>המחשבות מתחברות כמו חיבוק של ילד</l>
+          <l>כל מבט שהוא נותן לך את מקבלת</l>
+          <l>לא מרגישה לבד לרגע אחד</l>
+          <l>האור שאת אוהבת, אור מיוחד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וכשאת בוכה נדמה לך</l>
+          <l>שאת שומעת מישהו אומר לך</l>
+          <l>תברחי</l>
+          <l>ילדה קטנה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואת לא מנצנצת בתוך ים של שקרים</l>
+          <l>עלה אחד פורח כשהשאר מנסים</l>
+          <l>רוצה להתחבר בשביל ילד קטן</l>
+          <l>גם אם תרצי ללכת אין לך לאן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וכשאת בוכה נדמה לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

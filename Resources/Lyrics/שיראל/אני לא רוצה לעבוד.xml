@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני לא רוצה לעבוד</title>
+        <singer classification="unknown">שיראל 4</singer>
+        <writer>פינק מרטיני</writer>
+        <composer>ריקי גל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני לא רוצה לעבוד</head>
+        <lg number="1" type="stanza">
+          <l>אצלי בחדר מרגישה בכלוב</l>
+          <l>השמש לי קורצת בחלון</l>
+          <l>והגברים שלי אותי משובבים</l>
+          <l>מושכים, מושכים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני לא רוצה לעבוד</l>
+          <l>אני לא רוצה לאכול</l>
+          <l>אני רק רוצה להיות</l>
+          <l>Et puis je fume</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני מכירה ריחות של אהבה</l>
+          <l>לאלף שושנים אין ריח כה נפלא</l>
+          <l>ואם תביא לי עוד פרח אחד</l>
+          <l>אני אצעק</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני לא רוצה לעבוד</l>
+          <l>אני לא רוצה לאכול</l>
+          <l>אני רק רוצה להיות</l>
+          <l>Et puis je fume</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני לא גאה בזה</l>
+          <l>שבי הכל חופשי</l>
+          <l>C'est magnifique etre sympathique</l>
+          <l>אצלי הכל טבעי</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>Je ne veux pas travailler</l>
+          <l>Je ne veux pas dejeuner</l>
+          <l>Je veux seulement l oublier</l>
+          <l>Et puis je fume</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

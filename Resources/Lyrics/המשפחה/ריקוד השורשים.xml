@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ריקוד השורשים</title>
+        <singer classification="band">המשפחה</singer>
+        <writer>גלעד מאירי</writer>
+        <composer>יובל יבנה</composer>
+        <album>המשפחה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ריקוד השורשים</head>
+        <lg number="1" type="stanza">
+          <l>עברתי על פני העצמות הדהויות </l>
+          <l>ויצאתי משדה הקוצים </l>
+          <l>ימים חמים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ברד הערב על הכפרים </l>
+          <l>ראיתי את הגפן בהרים </l>
+          <l>ימים סגולים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דמותך נוטפת בקרבי אט אט </l>
+          <l>כקילוחו הדקיק של העסיס בגת </l>
+          <l>ימים רכים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>במורדות הגליל התלולים </l>
+          <l>מחוללים שורשי הצללים </l>
+          <l>ימים ריקים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נדם 6</title>
+        <singer classification="male singer">שימי גל</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נדם</head>
+        <lg number="1" type="stanza">
+          <l>נדם, נדם שיר-אהבה בתוך לבי, נדם.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אלמו שירי האהבה</l>
+          <l>תם החיוך ואין שמחה</l>
+          <l>כי רע לבב כל האדם</l>
+          <l>ראה דמעה ולא מחה</l>
+          <l>ובכאבי אין מנחם</l>
+          <l>על אהבה שנלקחה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>נדם, נדם, נדם,</l>
+          <l>נדם שירי בתוך לבי</l>
+          <l>כבתה בי אש-אהבתי</l>
+          <l>בודד אני בתוך ביתי.</l>
+          <l>נדם, נדם,</l>
+          <l>נדם שירי בתוך לבי.</l>
+          <l>נדם, נדם, נדם,</l>
+          <l>בודד אני בתוך ביתי.</l>
+          <l>נדם, נדם, נדם,</l>
+          <l>כבתה בי אש אהבתי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נבלו פרחי-אהבתי,</l>
+          <l>הכל ימר לנשמתי</l>
+          <l>הלוך-הלכה אהובתי</l>
+          <l>ואין מזור לתקוותי</l>
+          <l>גם השמיים לא אתי,</l>
+          <l>לא נענתה שם תפילתי.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>נדם, נדם, נדם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

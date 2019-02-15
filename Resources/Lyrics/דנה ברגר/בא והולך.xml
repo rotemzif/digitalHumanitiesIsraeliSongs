@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בא והולך</title>
+        <singer classification="female singer">דנה ברגר</singer>
+        <writer>דנה ברגר</writer>
+        <composer>דנה ברגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בא והולך</head>
+        <lg number="1" type="stanza">
+          <l>אם אין לך חיבוק בשבילי אני מוותרת על החגיגה</l>
+          <l>כבר שבוע וחצי לא ראיתי אותך</l>
+          <l>אתה לא רציני, אתה נעלם לי כל פעם</l>
+          <l>כבר התרגלתי אני כמעט אדישה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אתה בא והולך</l>
+          <l>אתה לא נשאר</l>
+          <l>ואי אפשר לקבוע איתך שום  דבר</l>
+          <l>אתה בא והולך</l>
+          <l>אתה לא נשאר</l>
+          <l>אם אתה לא חבר אל תבוא יותר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם אין לך חיבוק בשבילי אני מוותרת על ההצגה</l>
+          <l>כבר יבשו דמעותי כבר כמעט נרגעתי</l>
+          <l>אתה לא אמיתי, אתה לא בשבילי</l>
+          <l>עוד לילה חיכיתי לך לשווא</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אתה בא והולך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם אין לך חיבוק בשבילי אני מוותרת על החגיגה</l>
+          <l>כבר שבוע וחצי לא ראיתי אותך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בא והולך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

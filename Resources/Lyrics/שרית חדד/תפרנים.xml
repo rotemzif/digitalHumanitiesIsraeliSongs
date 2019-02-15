@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תפרנים</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>HANREE</writer>
+        <composer>יהודה פוליקר</composer>
+        <album>שרית חדד</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תפרנים</head>
+        <lg number="1" type="stanza">
+          <l>נגמר להם החודש</l>
+          <l>וזה כל כך קשה למצוא פה עבודה</l>
+          <l>והחובות דופקים בדלת</l>
+          <l>תיכף יפנו אותם מהדירה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הם תפרנים בכסף</l>
+          <l>אבל יש שם אהבה</l>
+          <l>נה נה נה נה נה נה נה נה </l>
+          <l>הם תפרנים בכסף</l>
+          <l>אבל יש שם אהבה</l>
+          <l>נה נה נה נה נה נה נה נה </l>
+        </lg>
+        <lg number="3" type="stanza" />
+        <lg number="4" type="stanza">
+          <l>הם לא סוגרים ת'חודש</l>
+          <l>וזה כל כך קשה</l>
+          <l>אך יש להם תקווה</l>
+          <l>והחיים יפים פי אלף</l>
+          <l>רק אם רק אם יש שם אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הם תפרנים בכסף</l>
+          <l>אבל יש שם אהבה</l>
+          <l>נה נה נה נה נה נה נה נה </l>
+          <l>הם תפרנים בכסף</l>
+          <l>אבל יש שם אהבה</l>
+          <l>נה נה נה נה נה נה נה נה </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אם יש שם אהבה</l>
+          <l>אז יש להם הכל</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>הם תפרנים בכסף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

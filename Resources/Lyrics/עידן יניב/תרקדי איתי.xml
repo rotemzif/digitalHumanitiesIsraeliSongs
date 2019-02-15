@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תרקדי איתי</title>
+        <singer classification="male singer">עידן יניב</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>missing</composer>
+        <album>כן לאהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תרקדי איתי</head>
+        <lg number="1" type="stanza">
+          <l>שעות אני עלייך הסתכלתי</l>
+          <l>ואת היית כל מה שביקשתי</l>
+          <l>רציתי בך ועוד לא ויתרתי</l>
+          <l>כמו מאוהב אלייך התקרבתי</l>
+          <l>ואת גופך קרוב אלי הרגשתי</l>
+          <l>ורק חיוך ממך אני ביקשתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תרקדי איתי</l>
+          <l>ת'ריקוד שלי</l>
+          <l>ותגידי לי</l>
+          <l>שאני שלך</l>
+          <l>תחבקי אותי</l>
+          <l>תנשקי אותי</l>
+          <l>ותגידי לי </l>
+          <l>שאני שלך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הולך איתך לאן שאת הולכת</l>
+          <l>רואה אותך ממני מתרחקת</l>
+          <l>אולי תאמרי שאת אותי אוהבת</l>
+          <l>כולם יודעים רציתי רק אלייך</l>
+          <l>בכל מקום חיפשתי את עינייך</l>
+          <l>רק שתדעי לא אוותר עלייך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תרקדי איתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

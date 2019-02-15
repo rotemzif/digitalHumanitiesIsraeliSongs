@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דווקא עכשיו</title>
+        <singer classification="male singer">נינו אורסיאנו</singer>
+        <writer>ארז ברזוליק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דווקא עכשיו</head>
+        <lg number="1" type="stanza">
+          <l>דווקא עכשיו תקשיבי לי </l>
+          <l>את תהיי פסיכולוגית </l>
+          <l>ואני, את יודעת, רוצה להיות גדול </l>
+          <l>דווקא עכשיו, תקשיבי לי. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>דווקא עכשיו תבואי איתי </l>
+          <l>לא רחוק, כמה רחובות מכאן </l>
+          <l>יש לי חדר עם מזרון על הרצפה </l>
+          <l>בואי איתי ונעביר שם ת' זמן. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תפסת אותי ברגע כזה </l>
+          <l>חזרתי מחיפה והיה גשום </l>
+          <l>נסיעה לילית, אוטובוס אחרון </l>
+          <l>ואף אחד לא יודע כלום </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>דווקא עכשיו תשכבי איתי </l>
+          <l>כי דווקא עכשיו אני אוהב </l>
+          <l>בואי לא נדבר על זה, אבל בא לי </l>
+          <l>אני כוכב הרוק שלך </l>
+          <l>רק שלך אני חושב. </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תפסת אותי ברגע כזה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

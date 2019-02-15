@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין כמו בבית</title>
+        <singer classification="male singer">משה פרץ</singer>
+        <writer>משה פרץ</writer>
+        <composer>משה פרץ</composer>
+        <album>מהשמיים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין כמו בבית</head>
+        <lg number="1" type="stanza">
+          <l>נוסע אל הבית מהזמנים הישנים</l>
+          <l>והחיוך שבלבי עולה על הפנים</l>
+          <l>הזכרונות עולים בי והחושים מתבלבלים</l>
+          <l>מריח הבישול של אמא זה כל כך נעים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין כמו בבית שם הכל נכון ואמיתי </l>
+          <l>שומרים עליך ואת שיריך</l>
+          <l>שרים בחפלה אחותי רוקדת</l>
+          <l>וכולנו מריעים לה</l>
+          <l>הם מנגנים לה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קול תפילה של אבא גורם לי שוב להתרגש</l>
+          <l>ולהבין שזה נותן לי כוח</l>
+          <l>שהעתיד בפתח יבוא עלינו לשלום</l>
+          <l>כך הוא מברך אותי עושה לי את היום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין כמו בבית...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

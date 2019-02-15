@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זמר חג</title>
+        <singer classification="female singer">רונית אופיר</singer>
+        <writer>עמנואל זמיר</writer>
+        <composer>עמנואל זמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זמר חג</head>
+        <lg number="1" type="stanza">
+          <l>שאנו בתוף, בכינור ובחליל!</l>
+          <l>שאנו במחול ובשירים!</l>
+          <l>חגנו כי טוב - הך לו, זמר!</l>
+          <l>הך בצליל!</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שאנו זמר - חג- של כפרים...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תפילת שדותינו הזהיבה הדגן,</l>
+          <l>וכרם וגן ירעש פרים.</l>
+          <l>פרו עדרינו, לולנו - לבן.</l>
+          <l>טפנו ברנן - הנם!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

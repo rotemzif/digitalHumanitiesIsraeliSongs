@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הצד שלך</title>
+        <singer classification="band">בין השמשות</singer>
+        <writer>יוני גנוט</writer>
+        <composer>יוני גנוט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הצד שלך</head>
+        <lg number="1" type="stanza">
+          <l>מצד אחד אמנות לשמה</l>
+          <l>מצד שני פרובוקציה עלובה</l>
+          <l>תסתכל איך שאתה נראה</l>
+          <l>מצד אחד תפילה עילאית</l>
+          <l>מצד שני התבטלות עצמית</l>
+          <l>קתרזיס זול ומסוכן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וביניהם אתה עומד מסתכל ומתלבט</l>
+          <l>תהום מזה תהום מזה</l>
+          <l>האם אתה עובר את המסך הזה</l>
+          <l>או שאתה נופל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מצד אחד ליברל נאור</l>
+          <l>מצד שני הדוניסט שיכור</l>
+          <l>איזהו גיבור</l>
+          <l>מצד אחד מסירות נפש, הקרבה</l>
+          <l>מצד שני לאומנות צרה וחשוכה</l>
+          <l>שטפו לך את המוח בצבא</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וביניהם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אז זרוק את הפוזה המדעית</l>
+          <l>מצטט כמו תקליט</l>
+          <l>בין טוב ורע הים רק אתה תחליט</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

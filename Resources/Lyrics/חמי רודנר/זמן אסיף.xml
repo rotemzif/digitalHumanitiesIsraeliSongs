@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זמן אסיף</title>
+        <singer classification="male singer">חמי רודנר</singer>
+        <writer>חמי רודנר</writer>
+        <composer>חמי רודנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זמן אסיף</head>
+        <lg number="1" type="stanza">
+          <l>בחלומות אני חוזר</l>
+          <l>חוזר לכפר ההוא של ילדותי</l>
+          <l>אותו מקום אותה שעה</l>
+          <l>הריח המוכר עצי הפרי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בחלומות אני זוכר</l>
+          <l>את כל מה שהשכחתי מעצמי</l>
+          <l>זמן בין ערביים אין סופי</l>
+          <l>יפה קצת עגמומי חצי מצב נפשי</l>
+          <l>חזרתי אל ביתי אל ילדותי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אולי הגיע זמן אסיף עכשיו</l>
+          <l>אסוף את עצמך היה לאב</l>
+          <l>הילד שאליו אתה נכסף</l>
+          <l>יתגעגע יפחד יאהב</l>
+          <l>ישמח יצחק יהיה לאב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הזמן לא מעניק דרכון</l>
+          <l>והעכשיו הוא קוביות בטון</l>
+          <l>אתה תוהה מה השתבש</l>
+          <l>לאן הלכה האש איך לא להתייאש</l>
+          <l>איך להמשיך לחלום איך להמשיך</l>
+          <l>לחלום</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אולי הגיע זמן אסיף עכשיו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

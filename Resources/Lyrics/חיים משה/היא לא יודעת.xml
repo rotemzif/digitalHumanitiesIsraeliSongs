@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היא לא יודעת 2</title>
+        <singer classification="male singer">חיים משה</singer>
+        <writer>אמיר ברונשטיין</writer>
+        <composer>מרקו בכר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היא לא יודעת</head>
+        <lg number="1" type="stanza">
+          <l>היא תבין יבוא היום, כן היא תבין את זה</l>
+          <l>היא רחוק, רחוק מפה, אבל תבין את זה</l>
+          <l>היא תבין את זה, מדוע פה הכל שונה</l>
+          <l>והשמש לא זורחת מעלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היא לא יודעת, היא שומעת רק שמועות מאחרות</l>
+          <l>איני יכול עוד לענות, אני כלוא בין הקירות</l>
+          <l>את דמעותיה היא אוספת, לבדה רוצה לבכות</l>
+          <l>ואני פה רק יושב מלא תקוות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא תבין, יבוא היום, כן היא תבין את זה</l>
+          <l>כל השנים כשהיא לבד, אבל תבין את זה</l>
+          <l>קיץ מר עבר חלף, הינה קרב הסתיו</l>
+          <l>היא תבין, יבוא היום, ושוב נהיה יחדיו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היא לא יודעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

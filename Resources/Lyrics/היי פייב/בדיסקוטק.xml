@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בדיסקוטק</title>
+        <singer classification="unknown">היי פייב</singer>
+        <writer>חמי רודנר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בדיסקוטק</head>
+        <lg number="1" type="stanza">
+          <l>הרגעים, הכי מרגשים,</l>
+          <l>אורות נוצצים, אורות נוצצים.</l>
+          <l>שנשברים ומתפזרים.</l>
+          <l>לך הם קוראים, הם קוראים.</l>
+          <l>את בשלך, את בשלך.</l>
+          <l>יש לך את זה, יש לך את זה.</l>
+          <l>הכי חצופה, הכי יפה.</l>
+          <l>מלכת המסיבה עוד לא עייפה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פה אני עומד.</l>
+          <l>זאת לא המסיבה שלי בכלל.</l>
+          <l>פה אני עומד.</l>
+          <l>אני לא מחובר, לא מחובר.</l>
+          <l>בדיסקוטק.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עורך מיוזע, אין לך מחר.</l>
+          <l>כשבך הוא נגע, היה מאוחר.</l>
+          <l>מאוחר בשבילך, מאוחר בשבילי.</l>
+          <l>גם כשאני משחק עם עצמי.</l>
+          <l>משחק עם עצמי, את זה לא תדעי</l>
+          <l>עד שתתחילי לשחק גם איתי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פה אני עומד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

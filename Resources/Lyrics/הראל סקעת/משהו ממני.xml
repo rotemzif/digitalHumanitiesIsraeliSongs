@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משהו ממני 2</title>
+        <singer classification="male singer">הראל סקעת</singer>
+        <writer>סמדר שיר</writer>
+        <composer>missing</composer>
+        <album>הראל סקעת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משהו ממני</head>
+        <lg number="1" type="stanza">
+          <l>משהו ממני ילך איתך</l>
+          <l>לכל מקום אליו תלכי</l>
+          <l>וכמו ענן כבד הוא יבכה איתך</l>
+          <l>גם כשאת כבר תחייכי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בלילות שחורים, קרים הוא יזכיר אותי</l>
+          <l>כשאת תהיי כבר רחוקה</l>
+          <l>וגם אם תסרבי, הוא ישלח בשמי</l>
+          <l>חיוך, סליחה ונשיקה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם את מרגישה,</l>
+          <l>אהבה היא לא חולשה.</l>
+          <l>למה שתקחי רק משהו ממני?</l>
+          <l>אני בך אשאר, עקשן לא מוותר.</l>
+          <l>קחי כבר את כולי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>משהו ממני ישכיח בך</l>
+          <l>את כל הרע שמאחור</l>
+          <l>ובחושך מר הוא ישאל אותך</l>
+          <l>אולי הגיע הזמן לחזור?</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם את מרגישה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>משהו ממני עכשיו שלך</l>
+          <l>אני יכול רק לקוות</l>
+          <l>שלא תתני אותו לגבר שיאהב אותך</l>
+          <l>כי הוא שלי והוא בסוד.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

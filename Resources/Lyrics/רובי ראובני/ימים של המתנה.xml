@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ימים של המתנה</title>
+        <singer classification="male singer">רובי ראובני</singer>
+        <writer>רובי ראובני</writer>
+        <composer>רובי ראובני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ימים של המתנה</head>
+        <lg number="1" type="stanza">
+          <l>את מסיעה אותי אל קו ההתחלה</l>
+          <l>ונעשה עצוב לרגע</l>
+          <l>ועוד חייל אבד בגלל איזה מבצע</l>
+          <l>עומד בודד אל מול הרשע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הימים הם ימי המתנה</l>
+          <l>ובתוכי כל יום נדלקת עוד נורה</l>
+          <l>מה כאן קורה - לי לא מובן</l>
+          <l>ואבי זורק עניין של זמן</l>
+          <l>מה כאן קורה - לי לא מובן</l>
+          <l>ואולי באמת זה רק הזמן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואת מרגיעה אותי כמו רוח בשרב</l>
+          <l>חבל את לא איתי כרגע</l>
+          <l>תראי המנהיגים הניפו את דיגלם</l>
+          <l>ולטובים נגרם עוד פשע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הימים הם ימי המתנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

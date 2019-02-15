@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בת הים 3</title>
+        <singer classification="unknown">כפיר אזרן</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>אנריקו מאסיאס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בת הים</head>
+        <lg number="1" type="stanza">
+          <l>על החוף מסתכל ונזכר</l>
+          <l>ברומן מאושר שנגמר</l>
+          <l>אהבה ראשונה שבה כמו מנגינה</l>
+          <l>שהיתה ואינה.</l>
+          <l>על החוף מסתכל ונזכר</l>
+          <l>שהייתי מביט בך ושר</l>
+          <l>אל לבך שעזב, שהלך ולא שב.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איי איי בת הים היפה</l>
+          <l>נסיכת נעורי את ראשי מטריפה</l>
+          <l>איי איי בת הים היפה</l>
+          <l>שממני חלפה כמו סופה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשהאופק פתאום נעלם</l>
+          <l>והשמש נבלעת בים</l>
+          <l>הטיילת ריקה אך נפשי מחכה</l>
+          <l>לך ילדה רחוקה</l>
+          <l>עוד זורח יופייך מאי שם</l>
+          <l>אהבה שנולדה ולפתע אבדה</l>
+          <l>ונותרה אגדה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איי איי בת הים היפה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

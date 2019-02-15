@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם תרצי 4</title>
+        <singer classification="unknown">יותם קדוש</singer>
+        <writer>יותם קדוש</writer>
+        <composer>יותם קדוש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם תרצי</head>
+        <lg number="1" type="stanza">
+          <l>אלף פעם ניסיתי להסביר לך לא הבנת</l>
+          <l>אמרת לי שאין לי רגש את לא בטוחה בכלל</l>
+          <l>אחרי כל השעות אחרי כל הימים </l>
+          <l>את הורסת אהבה של החיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואם תרצי את יכולה ללכת </l>
+          <l>ואם תרצי אוכל להיות שלך</l>
+          <l>ואת יודעת שאני שלך רק בואי</l>
+          <l>ותתני לי את הלב והנשמה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא שומעת ולוקחת רק את המילים שהיארוצה</l>
+          <l>אומרת שואלת עזבי הכל ובואי כבר לאהבה </l>
+          <l>ניהיה כל השעות ניהיה כל הימים</l>
+          <l>ותבני לך אהבה של החיים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואם תרצי את יכולה ללכת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

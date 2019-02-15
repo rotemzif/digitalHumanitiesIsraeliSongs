@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה סימן</title>
+        <singer classification="male singer">חיים משה</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה סימן</head>
+        <lg number="1" type="stanza">
+          <l>אם מישהו בבוקר</l>
+          <l>פוקח את עיניו -</l>
+          <l>ויוצא לו שיר מלב,</l>
+          <l>זה סימן - זה סימן,</l>
+          <l>שהוא אוהב.</l>
+          <l>ואם כשבא הערב,</l>
+          <l>אחרי שהוא עמל -</l>
+          <l>אם הוא נח והוא שלו,</l>
+          <l>זה סימן - זה סימן,</l>
+          <l>שהוא אוהב.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גם אני, גם אני</l>
+          <l>הולך ושר לי</l>
+          <l>ומבוקר עד ערב מסתובב</l>
+          <l>בדרכים בהן הייתי,</l>
+          <l>אנשים שמחים ראיתי,</l>
+          <l>שעשו לי שמח על הלב.</l>
+          <l>גם אני, גם אני</l>
+          <l>הולך ושר לי -</l>
+          <l>וזה סימן -</l>
+          <l>שגם אני אוהב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם מישהו בדרך</l>
+          <l>הולך ומחייך -</l>
+          <l>ושורק לו שיר ערב,</l>
+          <l>זה סימן - זה סימן,</l>
+          <l>שהוא אוהב.</l>
+          <l>כשאיש אוחז גיטרה</l>
+          <l>ושר מול חלונך,</l>
+          <l>אם הוא שר ומתלהב,</l>
+          <l>זה סימן - זה סימן</l>
+          <l>שהוא אוהב.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גם אני, גם אני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אותך 27</title>
+        <singer classification="female singer">שירי מימון</singer>
+        <writer>איגור ניקולייב</writer>
+        <composer>איגור ניקולייב</composer>
+        <album>שירי מימון</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אותך</head>
+        <lg number="1" type="stanza">
+          <l>מתוך עיניים דומעות</l>
+          <l>מתוך שפתי הנוגעות</l>
+          <l>מתוך מילים ששברו שתיקה</l>
+          <l>ואין בי טיפה ממך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עוד יום עובר באפור</l>
+          <l>ואין עוד דרך לחזור</l>
+          <l>רק מחשבות שרצות שורפות</l>
+          <l>ת'זמן שקפא ורק...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אותך</l>
+          <l>עוד מרגישה אותך</l>
+          <l>רציתי רק שתדע</l>
+          <l>איתך </l>
+          <l>כל האמת שבי </l>
+          <l>ורק הכאב יסביר</l>
+          <l>אותך, אותך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עם הבטחות שתחזור</l>
+          <l>ואין שום טעם לזכור</l>
+          <l>עוצרת את השעון</l>
+          <l>ורק מבקשת את מה שהיה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

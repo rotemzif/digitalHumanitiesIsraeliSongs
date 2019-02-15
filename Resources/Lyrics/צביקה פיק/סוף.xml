@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סוף 95</title>
+        <singer classification="male singer">צביקה פיק</singer>
+        <writer>אסי דיין</writer>
+        <composer>missing</composer>
+        <album>האוסף המשולש</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סוף</head>
+        <lg number="1" type="stanza">
+          <l>קשר השתיקה הולך איתך רחוק</l>
+          <l>את מפליגה בים שעשיתי מדמעות</l>
+          <l>כשהייתי לך אופק כשהיית לי חוף</l>
+          <l>כשחצית את חיי על קצות הבהונות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יצאת את הבית כמו שמועה</l>
+          <l>סיפור שאולי, אולי לא היה</l>
+          <l>ותעיד הדלת החצי פתוחה</l>
+          <l>שידך לא סיימה בטריקה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שומרת על מרחק מאיבוד העשתונות</l>
+          <l>אורזת זכרונות משנת הישרים</l>
+          <l>כשעצמתי אותך אל תוך החלומות</l>
+          <l>כשנפקחת אלי מן הלילות אל הימים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יצאת את הבית...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>סיימת פה אהבה והלכת</l>
+          <l>בזמנך החופשי בזמני הנורא</l>
+          <l>עכשיו את בסוף, בסוף המרחק</l>
+          <l>שבין תצלומך על הקיר למה שפעם היה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יצאת את הבית כמו שמועה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

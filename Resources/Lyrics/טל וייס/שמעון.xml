@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמעון</title>
+        <singer classification="female singer">טל וייס</singer>
+        <writer>טל וייס</writer>
+        <composer>טל וייס</composer>
+        <album>backcaTALog</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמעון</head>
+        <lg number="1" type="stanza">
+          <l>שמעון עומד באמצע הלילה</l>
+          <l>ושר, שר לי שיר</l>
+          <l>על ירח ועל ים</l>
+          <l>ועל דברים שלא רואים אף פעם</l>
+          <l>רק אנשים כמוני וכמוהו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שמעון עומד באמצע הלילה</l>
+          <l>ושר, שר לי שיר</l>
+          <l>כמו שאף אחד אחר לא יכול</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד מעט תתקשר</l>
+          <l>ואתה לא תדע מה נעלם בגללך</l>
+          <l>אם היית יודע, אני בטוחה,</l>
+          <l>היית נותן לי עוד דקה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שמעון עומד באמצע הלילה</l>
+          <l>ושר, שר לי שיר מופלא</l>
+          <l>יש לו קול - אלוהים אדירים!</l>
+          <l>איזה קול יש לשמעון</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שמעון עומד באמצע הלילה</l>
+          <l>ושר, שר לי שיר</l>
+          <l>כמו שאף אחד אחר לא יכול</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>עוד מעט תתקשר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

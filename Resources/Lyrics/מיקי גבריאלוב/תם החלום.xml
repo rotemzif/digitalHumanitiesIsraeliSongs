@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תם החלום</title>
+        <singer classification="male singer">מיקי גבריאלוב</singer>
+        <writer>מיקי גבריאלוב</writer>
+        <composer>מיקי גבריאלוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תם החלום</head>
+        <lg number="1" type="stanza">
+          <l>תם החלום היה ואיננו</l>
+          <l>כל יום מחדש קשה עוד יותר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>צער העולם מילא את ליבנו</l>
+          <l>בזמן שעבר לא למדנו דבר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>צר לי מר לי כלום לא נשאר לי</l>
+          <l>כשאת לא איתי אין לי עוד תקווה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אהבה שהיתה אהבה שאיננה</l>
+          <l>לאן היא פרחה אין איש זאת ידע</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>האם היא תשוב? מתי היא תופיע?</l>
+          <l>תביא שמחתה לטוב ולרע</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>צר לי מר...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>והעצב הזה את ליבי הוא קורע</l>
+          <l>מעורר בנפשי געגוע ישן</l>
+          <l>את עכשיו פה איתי נשקיני חבקיני</l>
+          <l>לעולם לעולם אותי אל תעזבי</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>צר לי מר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חסר מנוחה</title>
+        <singer classification="male singer">רן דנקר</singer>
+        <writer>עמוס קולק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חסר מנוחה</head>
+        <lg number="1" type="stanza">
+          <l>את הורסת אותי בשניה</l>
+          <l>את חודרת אלי בלי מילים</l>
+          <l>כמו תמונה שתלויה על הקיר</l>
+          <l>כמו קרן של יום בין הערביים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את הורסת אותי בלי סיבה</l>
+          <l>את הורגת אותי לילה לילה</l>
+          <l>כמו ציפור שבחופש פרחה</l>
+          <l>נעלמת עם אבק השמיים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מי יאמר לי איך לשמור את הרגע</l>
+          <l>מי יגיד לי איפה ומתי</l>
+          <l>את הורגת אותי בשניה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את חוזרת אלי בלי מילים</l>
+          <l>כמו תמונה שתלויה על הקיר</l>
+          <l>כמו קרן של יום בין הערביים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מי יאמר לי איך לשמור...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>את חודרת אלי בלי מילים </l>
+          <l>כמו תמונה שתלויה על הקיר</l>
+          <l>כמו קרן של יום בין הערביים</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>מי יאמר לי איך לשמור...</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>את זוכרת אותי בלי מילים</l>
+          <l>את הורסת אותי בלי סיבה</l>
+          <l>את הורגת אותי לילה לילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

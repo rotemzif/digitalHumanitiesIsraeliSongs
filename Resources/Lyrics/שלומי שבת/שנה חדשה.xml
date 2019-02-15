@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שנה חדשה 3</title>
+        <singer classification="male singer">שלומי שבת</singer>
+        <writer>מיכה שטרית</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>בגלל הרוח</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שנה חדשה</head>
+        <lg number="1" type="stanza">
+          <l>שנה חדשה בדרך ופני אל העתיד</l>
+          <l>עוד מעט יתקעו בשופרות</l>
+          <l>אלוהים ישמע ולי יהיה מה להגיד</l>
+          <l>אני לא דתי אבל באל מאמין בדרכי</l>
+          <l>אלוהים מקשיב לתפילתו של ילד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>האר דרכנו, אור עינינו,</l>
+          <l>סלח לי אם טעינו</l>
+          <l>אין אדם מושלם</l>
+          <l>הופר השקט</l>
+          <l>הרבה אי צדק יש על פני האדמה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

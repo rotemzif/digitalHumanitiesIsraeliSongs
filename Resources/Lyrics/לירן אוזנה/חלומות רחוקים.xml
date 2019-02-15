@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלומות רחוקים</title>
+        <singer classification="unknown">לירן אוזנה</singer>
+        <writer>לירן אוזנה</writer>
+        <composer>איתי פישר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלומות רחוקים</head>
+        <lg number="1" type="stanza">
+          <l>השתיקה בינינו עדיין קיימת </l>
+          <l>אבל את מחיי לא נעלמת </l>
+          <l>אוחזת בי בשארית כוחותייך </l>
+          <l>במה שאבד כבר מבין ידייך </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אמרנו כבר שזה נגמר </l>
+          <l>למה התעקשת לא ויתרת? </l>
+          <l>בחרנו לנתק את הקשר </l>
+          <l>אולי לא הבנת את המסר </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אולי תלכי, תברחי </l>
+          <l>למקום אחר </l>
+          <l>שם יהיה לך טוב </l>
+          <l>ורק ניזכר איך אהבנו כשהיינו קרובים </l>
+          <l>תברחי למקום אחר שעושה לך טוב </l>
+          <l>מה נשאר לנו </l>
+          <l>רק חלומות רחוקים. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אהבתי אותך לא פחות ממך </l>
+          <l>עדיין אוהב, אבל זה לא ילך </l>
+          <l>אני לא צריך יותר בחיים </l>
+          <l>משחקי כוחות וריבים טפשיים </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אולי תלכי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

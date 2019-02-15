@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מישהו אמר לי</title>
+        <singer classification="unknown">מונסון</singer>
+        <writer>מיכאל וקנין</writer>
+        <composer>יוסי כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מישהו אמר לי</head>
+        <lg number="1" type="stanza">
+          <l>מישהו אמר לי שהיית  שם</l>
+          <l>מישהו אחר היה איתך גם</l>
+          <l>מישהו ראה אתכם ביחד</l>
+          <l>בא לכאן אמר לי שזה לא סתם</l>
+          <l>אין לי מה לומר לך אם היית שם</l>
+          <l>אין לי מה לומר אם הוא היה גם</l>
+          <l>משהו נגמר אצלי בלילה</l>
+          <l>משהו נגמר כשאת היית שם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מנסה להתעורר וכל הזמן הראש קודח</l>
+          <l>מנסה להתעורר לדעת איך זה יתפתח</l>
+          <l>וכל כך רוצה לנצח</l>
+          <l>כל הזמן רוצה לנצח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מישהו אמר לי שהחמצתי</l>
+          <l>רק לפני חמש דקות היית כאן</l>
+          <l>כמה את יפה הוא גם קרץ לי</l>
+          <l>אם תרוץ מהר אולי תגיע</l>
+          <l>מה זה משנה אם את היית כאן</l>
+          <l>מה זה משנה אם הוא היה גם</l>
+          <l>משהו נגמר אצלי לנצח</l>
+          <l>משהו נגמר כשאת היית שם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מנסה להתעורר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

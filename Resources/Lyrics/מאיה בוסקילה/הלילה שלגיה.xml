@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלילה שלגיה</title>
+        <singer classification="female singer">מאיה בוסקילה</singer>
+        <writer>יואב גינאי</writer>
+        <composer>משה דץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלילה שלגיה</head>
+        <lg number="1" type="stanza">
+          <l>בזמן של האגדות, יורד השלג</l>
+          <l>ויש פיות עייפות וגמדים</l>
+          <l>ואת שואלת: מתי תצא השמש?</l>
+          <l>מתי הלב שלך סוף סוף יפשיר?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הנוף שבאגדות הוא כמו קצפת</l>
+          <l>מעל עוגה מלאה דובדבנים</l>
+          <l>את מתעוררת, יפה ומהרהרת</l>
+          <l>מתי תצאי מארץ דמיונית?</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הלילה, שלגיה, את אמיתית</l>
+          <l>הלילה שלגיה הכי יפה</l>
+          <l>יותר לא אבודה בתוך האגדה</l>
+          <l>הלילה שלגיה מלכה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הלב שבאגדות, כולו פנטזיה</l>
+          <l>האהבות רחוקות מהאמת</l>
+          <l>אבל הלילה רכוב על אופנוע</l>
+          <l>נסיך יפה יקטוף פה את ליבך.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הלילה שלגיה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

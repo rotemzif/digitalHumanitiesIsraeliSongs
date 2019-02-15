@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חיפושים</title>
+        <singer classification="female singer">דנה לפידות</singer>
+        <writer>דנה לפידות</writer>
+        <composer>חנה לפידות</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חיפושים</head>
+        <lg number="1" type="stanza">
+          <l>בוא ניכנס למסע של חיפושים</l>
+          <l>בוא ונרשה לעצמנו לפעמים</l>
+          <l>עד מתי נפחד לשאול שאלות</l>
+          <l>עד מתי נחזיק את התשובות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בוא ניכנס למסע אל החיים</l>
+          <l>בוא ונרשה לעצמנו לפעמים</l>
+          <l>עד מתי נפחד לשאול שאלות</l>
+          <l>עד מתי נחזיק רק בתשובות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כשיפלו המים ברחבה</l>
+          <l>אעטוף אותך עמוק בין זרועותי</l>
+          <l>גם אם תסגור את הדלתות אחרי</l>
+          <l>אהיה שם בשבילך, אולי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בוא ניכנס למסע של חיפושים</l>
+          <l>בוא ונרשה לעצמנו לפעמים</l>
+          <l>עד מתי נפחד לשאול שאלות</l>
+          <l>עד מתי נחזיק רק בתשובות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כשיפלו המים ברחבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

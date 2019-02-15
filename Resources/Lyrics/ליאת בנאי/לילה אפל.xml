@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילה אפל</title>
+        <singer classification="unknown">ליאת בנאי</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>שמואל אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילה אפל</head>
+        <lg number="1" type="stanza">
+          <l>לילה אפל פוסעת לבד בלעדייך</l>
+          <l>על המזרון אין לי כבר חשק לישון</l>
+          <l>אלף פנים יש לאמת בענייך</l>
+          <l>הפרח הזה מבקש לגדול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תחושות מוזרות שאתה מכיר</l>
+          <l>אמרתי הכל אין לי מה להסתיר</l>
+          <l>רציתי ללכת לברוח מכאן </l>
+          <l>לחיות מחדש במשך הזמן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני עצובה אתה לא מבין</l>
+          <l>זהו האות אין לי מה להמתין</l>
+          <l>הייתי שלך בטוב וברע</l>
+          <l>אספתי עכשיוו את עצמי חזרה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל תחכה אל תחכה לי בבית</l>
+          <l>אל תנסה לחדש את הקשר איתי</l>
+          <l>אל תאמין ששוב בעוד יום או יומיים</l>
+          <l>ניסיתי הכל אתה לא בשבילי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תחושות מוזרות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

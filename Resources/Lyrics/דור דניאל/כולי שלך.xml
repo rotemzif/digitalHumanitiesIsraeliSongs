@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כולי שלך</title>
+        <singer classification="unknown">דור דניאל</singer>
+        <writer>דור דניאל</writer>
+        <composer>דור דניאל</composer>
+        <album>עשרה חודשים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כולי שלך</head>
+        <lg number="1" type="stanza">
+          <l>תמיד ידעתי זו את</l>
+          <l>גם כשכעסת אני חיפשתי בך מבט</l>
+          <l>שרק יסביר האם עודך שלי</l>
+          <l>ואם את כן</l>
+          <l>אז למה השתיקה</l>
+          <l>ולמה רחוקה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תמיד ידעתי זו את</l>
+          <l>הגעגוע מבקר</l>
+          <l>הוא כל שבוע מתזכר</l>
+          <l>הריח בבגדים</l>
+          <l>כל המילים, אמרנו את הכל</l>
+          <l>כבר אין לי מה לשאול</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בואי אלי כולי שלך </l>
+          <l>אני כאן כדי להגן מפני פחדייך הבאים</l>
+          <l>תראי, כתבתי לך שירים</l>
+          <l>רק שובי וחבקיני אהובה</l>
+          <l>אז בואי וחבקיני אהובה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תמיד ידעתי זו את</l>
+          <l>גם כשנסעת רחוק רחוק</l>
+          <l>והחליף הבכי את הצחוק</l>
+          <l>ידעתי שנשוב</l>
+          <l>סיפור עצוב עטוף במנגינה</l>
+          <l>עכשיו אחרי שנה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בואי אלי כולי שלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר אשיר</title>
+        <singer classification="unknown">הסחורות</singer>
+        <writer>הסחורות</writer>
+        <composer>הסחורות</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר אשיר</head>
+        <lg number="1" type="stanza">
+          <l>שיר אשיר לך שיר</l>
+          <l>כביכול את פה</l>
+          <l>שיר אשיר לך שיר</l>
+          <l>כביכול את פה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תתעקש עלי, תתעקש עלי, תתעקש עלי</l>
+          <l>אני שווה פזמון</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מרגיש כמו דג זהב</l>
+          <l>מתקשה לרקוד</l>
+          <l>אז בואי אשיר לך שיר</l>
+          <l>שלא תשירי לו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תתעקש עלי, תתעקש עלי, תתעקש עלי</l>
+          <l>אני שווה פזמון</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא תמצא אותי כי</l>
+          <l>אני נוסעת רחוק מדי בשבילך</l>
+          <l>אתה חושב בקטן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר ערש 26</title>
+        <singer classification="unknown">חבורת שהם</singer>
+        <writer>אברהם אברונין</writer>
+        <composer>חנינא קרצבסקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר ערש</head>
+        <lg number="1" type="stanza">
+          <l>ממרומי שמי התכלת </l>
+          <l>יהל הירח</l>
+          <l>רוך אורהו אל כל ילד </l>
+          <l>וילדה שולח</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נומי ילדתי בערש</l>
+          <l>הרגעי ונומי</l>
+          <l>עד יעיר אותך קו חרס</l>
+          <l>ויקרא לך קומי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>משמיים זך כפיים </l>
+          <l>ידע כרוב אליך </l>
+          <l>רון ירון לך בן שמיים</l>
+          <l>ויגן עלייך </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נומי ילדתי בערש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

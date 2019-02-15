@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לעולם תמיד הים</title>
+        <singer classification="unknown">מופע הארנבות של ד ר קספר</singer>
+        <writer>אורן ברזילי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לעולם תמיד הים</head>
+        <lg number="1" type="stanza">
+          <l>בואי איתי, שבי לידי</l>
+          <l>מה עוד צריך, שואלים</l>
+          <l>למה לבד? למה אחד?</l>
+          <l>שניים זה כייף, אוהבים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נטייל, נרד לים</l>
+          <l>נביט בגלים</l>
+          <l>נשתולל עד שיעיר היום</l>
+          <l>לעולם תמיד הים</l>
+          <l>לעולם תמיד הים</l>
+          <l>לעולם...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מעל הים בין העצים</l>
+          <l>רוח קרה, ציפורים</l>
+          <l>חורף בחוץ, קיץ בפנים</l>
+          <l>יש לנו סוד מאחרים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נטייל, נרד לים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

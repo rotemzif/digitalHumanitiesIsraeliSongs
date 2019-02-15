@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פקיד אפרורי</title>
+        <singer classification="band">שייגעצ</singer>
+        <writer>שייגעצ</writer>
+        <composer>שייגעצ</composer>
+        <album>להפסיק לאכול עוגות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פקיד אפרורי</head>
+        <lg number="1" type="stanza">
+          <l>יש אומרים אהבה מחכה</l>
+          <l>מצידי שתמשיך לחכות</l>
+          <l>יש אומרים אל תפסיק לחלום</l>
+          <l>ואני בחלום בלהות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני פקיד אפרורי</l>
+          <l>חילזון מקומי</l>
+          <l>לא יוצא מהבית</l>
+          <l>כי אין לי בשביל מי</l>
+          <l>הניוון המתוק</l>
+          <l>לא לצעוק או לשתוק</l>
+          <l>משתכשך ברדוד</l>
+          <l>לא נכנס לעמוק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש אומרים שלכל יש תשובה</l>
+          <l>ואותה לא אמצא בלי לשאול</l>
+          <l>המשבצת שלי כבר תפוסה</l>
+          <l>ובניין הקלפים עוד יפול</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני פקיד אפרורי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

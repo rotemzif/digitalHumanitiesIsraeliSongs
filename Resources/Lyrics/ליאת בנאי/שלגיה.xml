@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלגיה</title>
+        <singer classification="unknown">ליאת בנאי</singer>
+        <writer>אבי ביטר</writer>
+        <composer>אבי ביטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלגיה</head>
+        <lg number="1" type="stanza">
+          <l>הרחק הרחק ביער, בתוך ארמון גדול</l>
+          <l>יש מלך ויש גם ממלכה</l>
+          <l>יש נסיכה בשער, ליבה מלא בצער</l>
+          <l>כי המלכה - שונאת אותה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אחח, איזו מסכנה, זוהי שלגיה</l>
+          <l>אחח, איזו מסכנה.</l>
+          <l>זה כואב לי איי איי איי</l>
+          <l>זה גם סיפור חיי</l>
+          <l>גם באגדות, הנסיכות בוכות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הגמדים בוכים גם שלגיה בוכה</l>
+          <l>כי גם באגדות אין גבול לאהבה</l>
+          <l>גם הסיפור שלי כואב מאהבה</l>
+          <l>אני בוכה כמו נסיכה באגדה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כך באגדות, כמו באהבות</l>
+          <l>יש קסמים ויש גם אכזבות</l>
+          <l>ככה החיים, שמחים ומחייכים</l>
+          <l>את דרך הגורל, אין יודעים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אחח, איזו מסכנה, זוהי שלגיה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

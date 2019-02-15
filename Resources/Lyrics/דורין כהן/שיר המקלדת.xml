@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר המקלדת</title>
+        <singer classification="unknown">דורין כהן</singer>
+        <writer>אורלי בינדר</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר המקלדת</head>
+        <lg number="1" type="stanza">
+          <l>מי זו כה מיוחדת,</l>
+          <l>זוהי המקלדת.</l>
+          <l>לה צבעים שחור לבן,</l>
+          <l>צלילים יפים לה כמובן.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>דו, רה, מי, פה, סול,</l>
+          <l>לנגן אני יכול.</l>
+          <l>סול, פה, מי, רה, דו,</l>
+          <l>כל ילד ינגן לבדו.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

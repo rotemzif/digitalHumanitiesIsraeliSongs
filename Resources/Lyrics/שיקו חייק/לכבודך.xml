@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לכבודך 6</title>
+        <singer classification="unknown">שיקו חייק</singer>
+        <writer>בני דקל</writer>
+        <composer>שיקו חייק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לכבודך</head>
+        <lg number="1" type="stanza">
+          <l>לכבודך אשיר ואנגן</l>
+          <l>במילים שאיש עוד לא כתב</l>
+          <l>בלכתך עלייך אני אגן</l>
+          <l>בקיץ, בחורף, באביב ובסתיו.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את ראשי אניח על כתפך</l>
+          <l>ואומר מילים של אהבה</l>
+          <l>על חול הים אצייר את דמותך</l>
+          <l>ותדעי שלא אבדה עוד, התקווה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את שערך באצבעותי אסרק</l>
+          <l>ואלטף את פנייך הרכות</l>
+          <l>מנגינת אהבה אני לך שורק</l>
+          <l>ולא מרגיש איך חולפות הדקות.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את ראשי אניח על כתפך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הפיל 2</title>
+        <singer classification="female singer">שולה חן</singer>
+        <writer>אפרים תלמי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הפיל</head>
+        <lg number="1" type="stanza">
+          <l>פיל זקן שמן כהר</l>
+          <l>מתקלח בנהר</l>
+          <l>מאו מאו מאו מאו</l>
+          <l>מחאו לו כף</l>
+          <l>מאו מאו מאו מאו</l>
+          <l>מחאו לו כף</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>באפו שואב הוא מים</l>
+          <l>אין לו צורך בידיים</l>
+          <l>מאו מאו מאו מאו</l>
+          <l>מחאו לו כף</l>
+          <l>מאו מאו מאו מאו</l>
+          <l>מחאו לו כף</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>נה נה נה נה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אין לו צורך ברגליים</l>
+          <l>כי אפו ארוך כפליים</l>
+          <l>מאו מאו מאו מאו</l>
+          <l>מחאו לו כף</l>
+          <l>מאו מאו מאו מאו</l>
+          <l>מחאו לו כף</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה לא אף כי אם אפיים</l>
+          <l>מחאו לו כף כפיים</l>
+          <l>מאו מאו מאו מאו</l>
+          <l>מחאו לו כף</l>
+          <l>מאו מאו מאו מאו</l>
+          <l>מחאו לו כף</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>נה נה נה נה...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>מאו מאו מאו מאו</l>
+          <l>מחאו לו כף.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה גנובה</title>
+        <singer classification="female singer">זהבה בן</singer>
+        <writer>דני שושן</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה גנובה</head>
+        <lg number="1" type="stanza">
+          <l>לילות אהבה </l>
+          <l>נשמות שמתלכדות יוקדות בחשכה </l>
+          <l>באש להבה </l>
+          <l>לילות אכזבה </l>
+          <l>נשמות שנפרדות בדמעות של אהבה </l>
+          <l>הולכות לדרכן </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהבה גנובה </l>
+          <l>מראש אבודה </l>
+          <l>עייפתי אלי ותן לי רק דרך </l>
+          <l>עייפתי אלי </l>
+          <l>אהבה גנובה </l>
+          <l>פחד עטופה </l>
+          <l>עייפתי אלי ותן לי רק דרך </l>
+          <l>עייפתי אלי </l>
+          <l>אהבה גנובה. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לילות של שתיקה </l>
+          <l>כבדה ומעיקה </l>
+          <l>ואין לנו מוצא </l>
+          <l>אין בלב תקווה </l>
+          <l>שעה מתוקה </l>
+          <l>בגנבה ללב חדרה </l>
+          <l>בדמעות היא חלפה </l>
+          <l>הלכה לדרכה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהבה גנובה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

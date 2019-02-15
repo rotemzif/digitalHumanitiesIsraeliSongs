@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלעדייך מרגיש אבוד</title>
+        <singer classification="male singer">בר כהן</singer>
+        <writer>יוני רועה</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלעדייך מרגיש אבוד</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>זה כבר יום או יומיים שאני לא עוצם עיניים</l>
+          <l>בלעדייך אני מרגיש אבוד</l>
+          <l>זה כבר כל השבוע שאני מת מגעגוע</l>
+          <l>אז למה למה למה עשיתי טעות.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הייתי ארוגנטי ממש אגואיסט</l>
+          <l>חשבתי אגוצנטרי הייתי שובניסט</l>
+          <l>ועכשיו כשאת הולכת האמוציונל חוזר</l>
+          <l>האינטלקט בלעדייך במקום אחר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זה כבר יום או יומיים...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חשבתי אריסטוקרטי הרגשתי פנאומן</l>
+          <l>הייתי אינדיסקרטי מנותק מהשלם</l>
+          <l>ועכשיו שאת הולכת אין לי ארגומנט</l>
+          <l>נשארתי אקסקלוסיבי איבדתי את המומנט</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

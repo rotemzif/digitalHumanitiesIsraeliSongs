@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר יין</title>
+        <singer classification="band">הגבעטרון</singer>
+        <writer>אמנון בקר</writer>
+        <composer>אמנון בקר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר יין</head>
+        <lg number="1" type="stanza">
+          <l>כי מות אמות ביין רחצני נא</l>
+          <l>אחי</l>
+          <l>עלי קברי משא על יין שא!</l>
+          <l>וביום תחיית מתים כי תבקשני </l>
+          <l>על סף בית יין באבק אותי תמצא</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כי מות אמות ביין רחצינו נא</l>
+          <l>אומרים:</l>
+          <l>לגיהנום שיכור תמיד יורד</l>
+          <l>שגיהנום יורשים שותי היין </l>
+          <l>בגן העדן מי שוכן? ענה הגד!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הפעמון 2</title>
+        <singer classification="male singer">רומן שרון</singer>
+        <writer>יוסי בכר</writer>
+        <composer>חיימון אלגרנטי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הפעמון</head>
+        <lg number="1" type="stanza">
+          <l>דינג דונג דינג דונג צלצל פעמון</l>
+          <l>דינג דונג דינג דונג קשה כך לישון</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בא כבר הלילה זמן כבר לישון</l>
+          <l>על המגדל תלוי פעמון</l>
+          <l>הוא מתנדנד לו ימינה ושמאל</l>
+          <l>בקול מצלצל לישון לא יכול</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>דינג דונג...</l>
+          <l>לה לה לה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל השכנים שם שקט ביקשו</l>
+          <l>אך צילצוליו בעוז נמשכו</l>
+          <l>הם לא ידעו כי גם הוא רוצה</l>
+          <l>לשבת לרגע בשקט כזה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>דינג דונג...</l>
+          <l>לה לה לה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אז התברר שרוח שובב</l>
+          <l>בא והניע את ענבליו</l>
+          <l>וכשחלם שתק פעמון</l>
+          <l>ואז כבר אפשר בשקט לישון</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>לה לה לה...</l>
+          <l>דינג דונג...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

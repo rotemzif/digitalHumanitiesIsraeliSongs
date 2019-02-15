@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה זה</title>
+        <singer classification="unknown">הגדת הבריות</singer>
+        <writer>אוהד פרץ</writer>
+        <composer>אוהד פרץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה זה</head>
+        <lg number="1" type="stanza">
+          <l>ובא הרגע... ודיברה היא הבנה</l>
+          <l>ביום של חול שאך הפך לחג</l>
+          <l>באה ברוגע, והיא משוב לתהייה</l>
+          <l>והכל מדבר בקול אחד...</l>
+          <l>מתבהר...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זהו זהו זהו - זה זה</l>
+          <l>זהו זהו זהו - הוא זה</l>
+          <l>אז - זהו זהו זהו... זה זה...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא מרקיעה עם שחר אור לראות את שמעל </l>
+          <l>צופה ליבו של כל בניין אדם</l>
+          <l>קולה שירה בנועם ליל</l>
+          <l>עוטרת היא כסותה... </l>
+          <l>ואורה על כל הוא העניין, הזה... </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זהו זהו זהו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בצעד רם אל בית נפשי לבושה היא בגדי</l>
+          <l>נחה היא עלי במלא טבעה</l>
+          <l>יוצאת איתי לפגוש עולם</l>
+          <l>לדבר בינה</l>
+          <l>לשאת אותה איתי, לומר שירה... הזה...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זהו זהו זהו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

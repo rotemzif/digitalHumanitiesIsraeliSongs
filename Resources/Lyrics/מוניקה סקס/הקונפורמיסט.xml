@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הקונפורמיסט</title>
+        <singer classification="band">מוניקה סקס</singer>
+        <writer>אלדד גואטה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הקונפורמיסט</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>סגרו את קולנוע פריז, ומילאו אותו מלט</l>
+          <l>שהבניין מעליו יהיה יותר יציב,</l>
+          <l>עכשיו ביום שישי, משחק כדורגל</l>
+          <l>זה טוב לרוץ עם חברים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נזכר בשנות השמונים, תמיד שיש גשם</l>
+          <l>כאילו שהיה חורף כל הזמן</l>
+          <l>מה שבטוח שהייתי ילד,</l>
+          <l>ונורית אפשטיין היתה יפה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קונפורמיסט, קונפורמיסט,</l>
+          <l>לא מסתכל על הבסיס</l>
+          <l>קונפורמיסט, קונפורמיסט</l>
+          <l>חי כמו קנגרו בתוך הכיס</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>(תותותולולו)</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>סגרו את קולנוע פריז...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

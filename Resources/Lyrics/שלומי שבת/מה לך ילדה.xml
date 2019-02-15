@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה לך ילדה 7</title>
+        <singer classification="male singer">שלומי שבת</singer>
+        <writer>משה נגר</writer>
+        <composer>משה נגר</composer>
+        <album>להיטי זהב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה לך ילדה</head>
+        <lg number="1" type="stanza">
+          <l>אגדות נרקמות בלילות</l>
+          <l>ציפורים כבר נמות וחולמות</l>
+          <l>חרישי הוא הלילה ואפל</l>
+          <l>כוכבי מלמעלה גם שואל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה לך ילדה</l>
+          <l>מה לך קטנה</l>
+          <l>על מה את חולמת</l>
+          <l>אני גם חולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>סיפורים נספר בלילות</l>
+          <l>אלטף את שיערך בשתי ידי</l>
+          <l>את ביתי את שלי לא אשכח</l>
+          <l>יש לי אמא קטנה ואותך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה לך ילדה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אגדות נרקמות בלילות</l>
+          <l>הינשוף עוד מפר את הדממה</l>
+          <l>חרישי הוא הלילה ואפל</l>
+          <l>כוכבי מלמעלה גם שואל</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מה לך ילדה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

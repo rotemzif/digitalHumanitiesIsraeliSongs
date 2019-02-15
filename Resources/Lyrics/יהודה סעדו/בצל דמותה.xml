@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בצל דמותה</title>
+        <singer classification="male singer">יהודה סעדו</singer>
+        <writer>תמיר חיטמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בצל דמותה</head>
+        <lg number="1" type="stanza">
+          <l>ראיתי כס של מלך, שיכרון המלוכה</l>
+          <l>סערתי בין הרעש, ליבי רצה תשובה</l>
+          <l>חשבתי על הדרך, לאן היא מובילה</l>
+          <l>ברחתי אל השקט כשלא הייתה ברירה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היום אני יודע </l>
+          <l>את סוד האהבה</l>
+          <l>נוגע ודומע - </l>
+          <l>תמיד בצל דמותה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הייתי שם למעלה, זוכר אני הכל</l>
+          <l>שמחתי וצחקתי, לכל אני יכול</l>
+          <l>עולם בשתי ידיים שתיתי בשקיקה</l>
+          <l>הייתי בין שמיים ובין האדמה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היום אני יודע...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>והיא אלי נשקפת כמו אור בחשיכה </l>
+          <l>מרגיש בה את האושר </l>
+          <l>אני כולי שלה </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>היום אני יודע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

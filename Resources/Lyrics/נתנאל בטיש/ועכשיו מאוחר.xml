@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ועכשיו מאוחר</title>
+        <singer classification="unknown">נתנאל בטיש</singer>
+        <writer>נתנאל בטיש</writer>
+        <composer>נתנאל בטיש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ועכשיו מאוחר</head>
+        <lg number="1" type="stanza">
+          <l>שנה, וכלום לא השתנה</l>
+          <l>התחושה המעורפלת</l>
+          <l>ששוב תהיי אחרת</l>
+          <l>קרה, בלי שום בושה</l>
+          <l>את שכחת נתתי לך ורד</l>
+          <l>בכיתי לך כמו ילד.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ועכשיו מאוחר, עולה לו עוד שחר</l>
+          <l>כשאני ער אני שומר</l>
+          <l>שהזיכרון לא יגמר וזה נגמר</l>
+          <l>את אומרת שזה מיותר שאני שר</l>
+          <l>שר עלייך, ועלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ילדה, שכלום לא השתנה</l>
+          <l>כשהיא מדברת, על מה היא חושבת</l>
+          <l>היא יושבת בעולם, שבנתה לה בלי כולם</l>
+          <l>לא יודעת לרדת משם.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ועכשיו מאוחר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

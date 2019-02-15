@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך נתחיל את היום</title>
+        <singer classification="female singer">מאיה אברהם</singer>
+        <writer>אדם פרי</writer>
+        <composer>אדם פרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך נתחיל את היום</head>
+        <lg number="1" type="stanza">
+          <l>איך שהיום נגמר והלילה עוטף וקרב</l>
+          <l>בדיוק נדמה שהקול שממני</l>
+          <l>הולך אליך עכשיו</l>
+          <l>איך שהימים עוברים בלי לדעת כיוון</l>
+          <l>והזמן מסמן לי שהסיפור שהיה לא נגמר</l>
+          <l>הלילה בוכה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך נתחיל את היום כשבלילה הכל חוזר</l>
+          <l>שיר ששובר את הלב מזכיר לי אותך</l>
+          <l>איך שהיית</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש עוד הרבה ללכת</l>
+          <l>השביל שאליו הוא יברח זו אותה הדרך</l>
+          <l>צעדנו אותה כבר מזמן ביחד איתך</l>
+          <l>כל המילים שעוד התנגנו יספרו לי אותך</l>
+          <l>לא ידעו לומר לעולם איך הייתי שלך</l>
+          <l>הייתי שלך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך נתחיל את היום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

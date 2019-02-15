@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך שאת</title>
+        <singer classification="unknown">דויד צור</singer>
+        <writer>גיל שבת</writer>
+        <composer>משה אלביליה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך שאת</head>
+        <lg number="1" type="stanza">
+          <l>בית א</l>
+          <l>אוהבת, רגישה</l>
+          <l>צמודה לאהבה</l>
+          <l>יותר מכול אישה אחרת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יפה וחייכנית</l>
+          <l>מתוקה ואמיתית</l>
+          <l>למרות הכול שברירית והורסת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>פזמון</l>
+          <l>למרות הכול אותך אני מוצא</l>
+          <l>כמו שאת לא מעבר לזה</l>
+          <l>כמו שאת,</l>
+          <l>יותר מכול אותך אני רוצה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בית ב</l>
+          <l>מחבקת וצוחקת</l>
+          <l>לפעמים עצובה</l>
+          <l>אחרי הכול הולכת וחוזרת</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מלאה בחמימות</l>
+          <l>מתגעגעת לילדות</l>
+          <l>יותר מכול מציאות אחרת</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>פזמון</l>
+          <l>למרות הכול אותך אני מוצא</l>
+          <l>כמו שאת לא מעבר לזה</l>
+          <l>כמו שאת,</l>
+          <l>יותר מכול אותך אני רוצה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

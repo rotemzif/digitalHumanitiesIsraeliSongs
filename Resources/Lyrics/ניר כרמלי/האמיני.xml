@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האמיני 4</title>
+        <singer classification="unknown">ניר כרמלי</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>מיכאל וקנין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האמיני</head>
+        <lg number="1" type="stanza">
+          <l>כל המילים הכי יפות יוצאות לדרך מלבי אלייך </l>
+          <l>את היפה במנגינות כתבתי רק למענך </l>
+          <l>כמו השלכת אל הסתיו אלך תמיד בעקבותייך </l>
+          <l>ולעולם אני אתן הכול תמורת אהבתך </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אפריח פרפרים מהפסגות של ההרים אל העולם לחופשי </l>
+          <l>כוכב אחד אצבע בכל צבעי האהבה למענך אם תבקשי </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>האמיני בחלום שלך </l>
+          <l>ותני לי לאהוב אותך </l>
+          <l>לנצח נישאר אם תאמיני </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם נסחף לים סוער ואל האופק הוא יוביל אותנו </l>
+          <l>בין הגלים אמצא כוחות להילחם בסערה </l>
+          <l>וכך ביחד נגלה עוד מקומות שלא ידענו </l>
+          <l>זו מציאות זה לא חלום אני מבטיח נערה </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>האמיני בחלום שלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

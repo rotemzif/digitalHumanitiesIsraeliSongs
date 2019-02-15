@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את היחידה 3</title>
+        <singer classification="unknown">ראובן המלאך</singer>
+        <writer>ראובן המלאך</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את היחידה</head>
+        <lg number="1" type="stanza">
+          <l>רק אהבתי מכל הבנות</l>
+          <l>מחפש לי את הדרך ואת התשובות</l>
+          <l>תני לי סימן תני לי</l>
+          <l>ואותי אל תשכחי את מלכת לבבי</l>
+          <l>תני לי סימן תני לי</l>
+          <l>ואותי אל תשכחי את מלכת לבבי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך שאת צוחקת איך שאת שותקת</l>
+          <l>איך שאת הורסת את כל הטוב שבי</l>
+          <l>למה את צוחקת למה את אומרת</l>
+          <l>שאתה לא בשבילי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את היית לי היחידה מכל הבנות</l>
+          <l>כל זמן שחולף רוצה אני לחיות</l>
+          <l>תני לי סימן תני לי</l>
+          <l>ואותי אל תשכחי את מלכת לבבי</l>
+          <l>תני לי סימן תני לי</l>
+          <l>ואותי אל תשכחי את מלכת לבבי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך שאת צוחקת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ספר שירי</title>
+        <singer classification="unknown">גלעד הישג</singer>
+        <writer>רחל</writer>
+        <composer>תומר הישג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ספר שירי</head>
+        <lg number="1" type="stanza">
+          <l>צְרִיחוֹת שֶׁצָּרַחְתִּי נוֹאֶשֶׁת, כּוֹאֶבֶת</l>
+          <l>בִּשְׁעוֹת מְצוּקָה וְאָבְדָן,</l>
+          <l>הָיוּ לְמַחֲרֹזֶת מִלִּים מְלַבֶּבֶת,</l>
+          <l>לְסֵפֶר שִׁירַי הַלָּבָן.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נִגְלוּ חֶבְיוֹנוֹת לֹא גִלִּיתִי לְרֵעַ,</l>
+          <l>נֶחְשַׂף הֶחָתוּם בִּי בְּאֵשׁ,</l>
+          <l>וְאֶת תּוּגָתוֹ שֶׁל הַלֵּב הַכּוֹרֵעַ</l>
+          <l>יַד כֹּל בִּמְנוּחָה תְּמַשֵּׁשׁ.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

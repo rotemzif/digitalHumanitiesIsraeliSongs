@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קר לי 2</title>
+        <singer classification="unknown">מאור פיניה</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>ניסים גיספן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קר לי</head>
+        <lg number="1" type="stanza">
+          <l>אם נופלים השמיים אני תופס לי ענן</l>
+          <l>רוכב עליו כל הדרך לא אכפת לי לאן</l>
+          <l>אני מדליק ת השקט ומכבה את הזמן</l>
+          <l>אל תעזבי אותי עכשיו, אני עף...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קר לי</l>
+          <l>אני בא אליך חם לי</l>
+          <l>קר לי</l>
+          <l>אני בא עד שנגמר לי</l>
+          <l>עד שתזרקי אותי</l>
+          <l>רוצה שתחבקי אותי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לבדי לא יודע איך לרדת מהר</l>
+          <l>אני נתלה לי על סלע ומחכה למחר</l>
+          <l>מהאופק שומע את קולך המוכר</l>
+          <l>קורא אלי מהמדבר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קר לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

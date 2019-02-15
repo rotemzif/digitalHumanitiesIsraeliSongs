@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו שהיית</title>
+        <singer classification="male singer">שלומי שבת</singer>
+        <writer>עדית פאנק</writer>
+        <composer>שלומי שבת</composer>
+        <album>שלומי שבת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו שהיית</head>
+        <lg number="1" type="stanza">
+          <l>יש מקום בקצה עולם</l>
+          <l>עץ ירוק וחול לבן</l>
+          <l>שם שוב אחכה לך הלילה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>על החול את שמי כתבה</l>
+          <l>על הקיר שלי תמונה</l>
+          <l>שם וכאן שוב לא נישן הלילה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ושוב לבד נשארתי</l>
+          <l>סגור בתוך החדר</l>
+          <l>ומכתבך מונח על הכרית</l>
+          <l>לבד נשארתי סגור בתוך החדר</l>
+          <l>הבטיחי שנשארת כמו שהיית</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

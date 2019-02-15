@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הולכת לאיבוד</title>
+        <singer classification="female singer">קרן לוי</singer>
+        <writer>ג'קי מייקה</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הולכת לאיבוד</head>
+        <lg number="1" type="stanza">
+          <l>מנסה למצוא כיוון ולא לחשוב עליך</l>
+          <l>לא אסתיר את רגשותיי קשה לי בלעדייך</l>
+          <l>אני יודעת זה נגמר ולא אשוב אליך</l>
+          <l>המחשבות לוקחות אותי ארחק מעקבותיך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני הולכת לאיבוד ואין בי את הכוח</l>
+          <l>אני נסחפת לבדידות רוצה אותך לשכוח</l>
+          <l>ממך לברוח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ההיגיון עלי גובר זה לא ילך בינינו</l>
+          <l>אנסה להתגבר הזמן יטיב לשנינו</l>
+          <l>אני יודעת זה נגמר ולא אשוב אליך</l>
+          <l>המחשבות לוקחות אותי ארחק מעקבותיך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני הולכת לאיבוד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

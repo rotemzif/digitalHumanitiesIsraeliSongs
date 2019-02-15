@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה שלא נוח</title>
+        <singer classification="male singer">זיו רובינשטיין</singer>
+        <writer>זיו רובינשטיין</writer>
+        <composer>זיו רובינשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה שלא נוח</head>
+        <lg number="1" type="stanza">
+          <l>שקט,</l>
+          <l>אמצע הלילה,</l>
+          <l>תמיד כשמישהו נירדם ,אחר מתעורר</l>
+          <l>שקט,</l>
+          <l>אף פעם לא די לה,</l>
+          <l>תמיד כשמישהו ניפרד, אחר מתקשר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה שלא נוח,</l>
+          <l>לא יהיה</l>
+          <l>בכל הכח</l>
+          <l>אני לא מוותר..</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שקט,</l>
+          <l>אמצע החורף</l>
+          <l>הרוח שבחוץ נושבת כאב</l>
+          <l>שקט,</l>
+          <l>ידך על העורף</l>
+          <l>היא מסדרת לי את הבלגאן שבלב..</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה שלא נוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תהרסי את הבית</title>
+        <singer classification="male singer">ירמי קפלן</singer>
+        <writer>ירמי קפלן</writer>
+        <composer>ירמי קפלן</composer>
+        <album>בוקר טוב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תהרסי את הבית</head>
+        <lg number="1" type="stanza">
+          <l>אולי אני עייף ולא רגוע</l>
+          <l>קשה לי לנחש, לי קשה להגיע</l>
+          <l>כשאת כמו נזיר זועם -</l>
+          <l>אפשר לדבר, למי זה עוזר?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תהרסי את הבית</l>
+          <l>הזר עדיין יזדקק למים</l>
+          <l>אל תהרסי את הבית</l>
+          <l>יהיה לך קר כשהחלון שבור.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חשבתי שאנוח ואקשיב לחלומך</l>
+          <l>אבל את לא מרפה, את מתעקשת לקנא</l>
+          <l>איך אפשר להבהיר לך,</l>
+          <l>כמה אני אוהב אותך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תהרסי את הבית...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אל תהרסי את הבית</l>
+          <l>אל תהרסי את הבית</l>
+          <l>אל תהרסי את הבית</l>
+          <l>יהיה לך קר כשהחלון שבור...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אולי אני עייף ולא רגוע.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

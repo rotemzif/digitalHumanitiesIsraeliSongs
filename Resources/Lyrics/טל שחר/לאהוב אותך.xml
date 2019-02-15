@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לאהוב אותך 5</title>
+        <singer classification="unknown">טל שחר</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לאהוב אותך</head>
+        <lg number="1" type="stanza">
+          <l>לא אדע</l>
+          <l>מעיני נסתר</l>
+          <l>האם אוכל</l>
+          <l>בלי לאהוב אותך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זו חידה</l>
+          <l>שליבי פתר</l>
+          <l>כי איך אוכל</l>
+          <l>בלי לאהוב אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו הנחלים</l>
+          <l>שזורמים לים</l>
+          <l>שנינו מקבילים</l>
+          <l>מאז ועד עולם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תן לי יד</l>
+          <l>ואעוף איתך</l>
+          <l>ולא אחדל</l>
+          <l>מלאהוב אותך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כמו הנחלים...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תן לי יד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

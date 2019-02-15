@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פה ושם בארץ בן גוריון</title>
+        <singer classification="male singer">יהודה פוליקר</singer>
+        <writer>יהודה פוליקר</writer>
+        <composer>missing</composer>
+        <album>איך קוראים לאהבה שלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פה ושם בארץ בן גוריון</head>
+        <lg number="1" type="stanza">
+          <l>היינו פרחחים קטנים בארץ בן גוריון</l>
+          <l>הביטלס לא נראו בארץ מפא"י בשלטון.</l>
+          <l>נתקענו בבית ספרם, פושטק וסבון</l>
+          <l>חזקים בקולנוע, חלשים בחשבון.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אחד במאי, מגרש הפועל מחוץ לאיצטדיון</l>
+          <l>נתפסנו מעשנים סיגריות אל על וסילון.</l>
+          <l>נזרקנו מבית ספרם, באמצע תיכון,</l>
+          <l>הפושטק מת על גיטרה והסבון מת בשיריון.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>פה ושם כולנו עוד עושים אהבה,</l>
+          <l>פה ושם כולנו עוד עושים מלחמה.</l>
+          <l>אתה מזמן לא גר פה, אני עוד מנגן</l>
+          <l>אתה נשאר צעיר לנצח, ואני מזדקן.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מפא"י נפלה, חירות ומק"י המציאו שם אחר,</l>
+          <l>הכל אותו דבר, אפילו גרוע יותר.</l>
+          <l>חמוץ לא הופך מתוק, מי שמת לא חוזר,</l>
+          <l>זה רק אותו הגעגוע וזה אתה שחסר.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>פה ושם כולנו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המחול</title>
+        <singer classification="band">תופעת דופלר</singer>
+        <writer>ברוך פרידלנד</writer>
+        <composer>ברוך פרידלנד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המחול</head>
+        <lg number="1" type="stanza">
+          <l>מה המחיר לצלם אדם?</l>
+          <l>כמה ממנו טרם שולם?</l>
+          <l>מה ייקח אותי</l>
+          <l>מה ישיב אותי מחר לכאן?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם זה גן עדן או גיהנום</l>
+          <l>אין מה ללכת אין מה ליפול</l>
+          <l>מי יוביל אותי</l>
+          <l>כשפני יהיו סומות מחול?</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>פסיעה אחת לקראת עתיד סתום</l>
+          <l>ואין יודע שום דבר על כלום</l>
+          <l>מה שהיה ידוע</l>
+          <l>מה שהיה בטוח</l>
+          <l>מת עם הנשימה</l>
+          <l>רק מחול המוות נע קדימה עוד פסיעה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שוב החיים חגים מעגל</l>
+          <l>מעל נוצות חסרות כל משקל</l>
+          <l>עוד תפילה אחת</l>
+          <l>עוד שורה נזרקת לחלל</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>פסיעה אחת לקראת עתיד סתום...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>(קול עפר מעל אדם נטמן</l>
+          <l>מי מרקיד אותי ביד אומן?</l>
+          <l>אין עוד פרחים ואין יותר ים</l>
+          <l>כבר נאספתי מן העולם</l>
+          <l>מי חייך אלי</l>
+          <l>כשהדופק החלוש נדם?)</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>פסיעה אחת לקראת עתיד סתום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

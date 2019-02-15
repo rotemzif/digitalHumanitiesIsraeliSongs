@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צוענית יפהפיה</title>
+        <singer classification="unknown">חבורת למרוסיה באהבה</singer>
+        <writer>עממי</writer>
+        <composer>עממי רוסי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צוענית יפהפיה</head>
+        <lg number="1" type="stanza">
+          <l>אל ההר יצאו הצוענים לשוח</l>
+          <l>עמדה לבדה צוענית יפהפיה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את אהובתי צוענית נחמדת</l>
+          <l>עמדה צחקה צוענית יפהפיה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מן ההר חזרו הצוענים עם ערב</l>
+          <l>על ההר נשאר זוג אחד שלא חזר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

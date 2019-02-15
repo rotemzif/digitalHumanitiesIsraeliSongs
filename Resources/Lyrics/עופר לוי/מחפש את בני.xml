@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחפש את בני</title>
+        <singer classification="male singer">עופר לוי</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>לא ידוע</composer>
+        <album>אוהב לחיות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחפש את בני</head>
+        <lg number="1" type="stanza">
+          <l>אמת טעיתי מצטער לך אומר</l>
+          <l>סליחה לך אמרתי רוצה שתכפר</l>
+          <l>לנסות הכל רציתי קשה היה לי לוותר</l>
+          <l>בתוכי פתאום שמעתי הרגשתי באור</l>
+          <l>ראיתי דרך והלכתי חלפו שנים ממ ך הכל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מצטער טעיתי</l>
+          <l>מצטער לך אומר</l>
+          <l>אמת נפגעת את ימי לך שומר</l>
+          <l>יש דברים שעשיתי ובהם טעם מר</l>
+          <l>עיני פקחתי והבנתי מצאתי אב יקר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שאני על כנפיך שאזכה לאור יקר</l>
+          <l>רוצה רק לעבוד אותך כדרך אבותי</l>
+          <l>יש דברים שעשיתי רק אתה זאת תדע</l>
+          <l>מחפש את דרכי לחזור בחזרה</l>
+          <l>מבקש את אבי בדרך יקרה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מצטער טעיתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

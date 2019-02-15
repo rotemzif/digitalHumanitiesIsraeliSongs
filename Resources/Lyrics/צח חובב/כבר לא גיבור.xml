@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כבר לא גיבור 2</title>
+        <singer classification="unknown">צח חובב</singer>
+        <writer>צח חובב</writer>
+        <composer>צח חובב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כבר לא גיבור</head>
+        <lg number="1" type="stanza">
+          <l>בטח הרבה אנשים חשבו שטוב לך, </l>
+          <l>הימים עוברים , אתה עדיין מנסה.. </l>
+          <l>להיות או להיות אתה שואל ואין תשובה </l>
+          <l>ומי בכלל אמר שאלוהים עונה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואת אף פעם לא תדעי </l>
+          <l>אם אהבתי או לא </l>
+          <l>ותלכי לך עם מישהו אחר </l>
+          <l>ואת אף פעם לא תדעי </l>
+          <l>אפילו לא השארת לי פתק קטן שיגיד </l>
+          <l>"אני אוהבת".</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>סוף כל סוף אתה לבד, כמו שרצית </l>
+          <l>וקצת קשה ליצר דכאון </l>
+          <l>עם חיוך של מטומטם על הפנים </l>
+          <l>אתה כבר לא גיבור.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואת אף פעם לא תדעי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מן השמיים</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מן השמיים</head>
+        <lg number="1" type="stanza">
+          <l>לא מבין בכלל איך זה קרה לי</l>
+          <l>זוהי מציאות או סתם דימיון</l>
+          <l>מהיום שבו אותך פגשתי</l>
+          <l>נעלם אצלי ההגיון</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מן השמיים מן השמיים</l>
+          <l>אלוקים החליט אנחנו שניים</l>
+          <l>מן השמיים מן השמיים</l>
+          <l>מאוהב ביום בליל</l>
+          <l>מן השמיים טוב בשניים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש כאלה מרכלים עלינו</l>
+          <l>מנסים בינינו להפריד</l>
+          <l>אבל מה שיש בתוך ליבנו</l>
+          <l>זוהי אהבה גם לעתיד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מן השמיים מן השמיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אוהבת סמבה</title>
+        <singer classification="female singer">ריקי גל</singer>
+        <writer>שייקה פייקוב</writer>
+        <composer>שייקה פייקוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אוהבת סמבה</head>
+        <lg number="1" type="stanza">
+          <l>מגיל צעיר אני רוקדת סמבה</l>
+          <l>אצלנו זה הרגל לרקוד כך סמבה</l>
+          <l>גם אמא, אבא מזמרים בסמבה</l>
+          <l>כי אין ריקוד יותר נפלא מזה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אוהבת סמבה</l>
+          <l>כן, כן רק סמבה</l>
+          <l>בכל דקה בכל שעה</l>
+          <l>ביום בליל</l>
+          <l>רוקדת סמבה</l>
+          <l>כן, כן רק סמבה</l>
+          <l>תראו זה לא קשה</l>
+          <l>צריך להשתדל.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל ידידי לי כבר קוראים, הי סמבה</l>
+          <l>כי כל דבר אני עושה בסמבה</l>
+          <l>כששואלים אני עונה בסמבה</l>
+          <l>אם לדבר מוטב ריקוד כזה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אוהבת סמבה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בבית ספרי פתחו כבר חוג לסמבה</l>
+          <l>אפילו המחנכים רוקדים כבר סמבה</l>
+          <l>בדיסקוטק רוקדים היום רק סמבה</l>
+          <l>כי אין מקצב שישתווה לזה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אוהבת סמבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

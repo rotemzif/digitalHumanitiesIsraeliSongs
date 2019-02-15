@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סולחת למרות הכל</title>
+        <singer classification="unknown">ענבר ישראל</singer>
+        <writer>רויטל מרדכי</writer>
+        <composer>ענבר ישראל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סולחת למרות הכל</head>
+        <lg number="1" type="stanza">
+          <l>לך סולחת למרות כל הדמעות</l>
+          <l>רק אל תחשוב שעיניי יבשות</l>
+          <l>אך מה אעשה אני מכורה</l>
+          <l>לאהוב אותך זה בגורל נקבע</l>
+          <l>אך מה אעשה אני מכורה</l>
+          <l>לאהוב אותך זה בגורל נקבע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רואה אותך ליבי נצבט</l>
+          <l>הלב סולח על הכל כמעט</l>
+          <l>איך אהבנו כמו באגדה</l>
+          <l>רוצה לחוש את ההרגשה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לך כותבת כרגע את המכתב</l>
+          <l>יודעת שלא אשלח לא עכשיו לא מחר</l>
+          <l>הדיו כבר נמחק מהדמעות שזולגות</l>
+          <l>ושוב חוזרות להן אותן האשליות</l>
+          <l>הדיו כבר נמחק מהדמעות שזולגות</l>
+          <l>ושוב חוזרות להן אותן האשליות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רואה אותך ליבי נצבט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

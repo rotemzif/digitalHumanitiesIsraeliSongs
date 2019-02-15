@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תשקר לי</title>
+        <singer classification="female singer">ריטה</singer>
+        <writer>ריטה</writer>
+        <composer>missing</composer>
+        <album>חמצן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תשקר לי</head>
+        <lg number="1" type="stanza">
+          <l>בוא תניח את כף ידך</l>
+          <l>על ליבי הכואב</l>
+          <l>על עיניי העצובות</l>
+          <l>שרואות כל כך הרבה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את כף היד תניח כאן</l>
+          <l>ותשכיח הכל רק הלילה</l>
+          <l>כי אני כל כך עייפה</l>
+          <l>מול העולם שנטרף</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תשקר לי, תשקר עכשיו</l>
+          <l>ותגיד שיסתדר</l>
+          <l>תשקר לי, תשקר עכשיו מהר</l>
+          <l>תשקר לי, תשקר מהר</l>
+          <l>ותגיד שיתבהר</l>
+          <l>תשקר, אני כל כך זקוקה לזה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בכף ידך, ביתי היחידי</l>
+          <l>אניח ראשי ואדמיין</l>
+          <l>שהכל תליו רק בנו ומה שבינינו</l>
+          <l>אף רוע לא יחדור, לא יוכל לנו</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תשקר לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

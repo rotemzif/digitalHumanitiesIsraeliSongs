@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הרוח</title>
+        <singer classification="band">גאיה</singer>
+        <writer>אהוד מנור</writer>
+        <composer>גילי ליבר</composer>
+        <album>נולדנו להמשיך חיים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הרוח</head>
+        <lg number="1" type="stanza">
+          <l>הדגל שלי הוא הקשת</l>
+          <l>וההימנון שלי הוא שיר הרוח</l>
+          <l>המטבע שלי היא השמש</l>
+          <l>והמפה שלי חלון פתוח</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>המים שלי הם הגשם</l>
+          <l>והלחם שלי עץ תפוח</l>
+          <l>המיטה שלי היא הדשא</l>
+          <l>אבל מתי אשכב סוף סוף לנוח</l>
+          <l>מתי אשכב סוף סוף לנוח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הבית שלי הוא עיניך</l>
+          <l>והגג שלי הוא הרקיע</l>
+          <l>העתיד שלי הוא בנייך</l>
+          <l>ואיתך אני יודעת שאגיע</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא לא התבלבלתי</l>
+          <l>הלכתי ישר</l>
+          <l>זה מה שקבלתי</l>
+          <l>זה כל מה שנשאר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>המים שלי הם הגשם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

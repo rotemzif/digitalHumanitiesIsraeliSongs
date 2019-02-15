@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נפרד לנצח</title>
+        <singer classification="male singer">שלומי סרנגה</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>וסיליס קראס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נפרד לנצח</head>
+        <lg number="1" type="stanza">
+          <l>עפר כיסה לי את האופק</l>
+          <l>ועם הגשם ירד האופל</l>
+          <l>אני נפרד לנצח</l>
+          <l>ראיתי יד קרה נשלפת</l>
+          <l>בסערה גבעול קוטפת</l>
+          <l>נבל הפרח, נבל הפרח.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חולפים חיי מול העיניים</l>
+          <l>ומעלי בוכים שמיים</l>
+          <l>האור זוהר, האור זוהר ומסנוור</l>
+          <l>חולפים חיי מול העיניים</l>
+          <l>ומעלי בוכים שמיים</l>
+          <l>והעולם פתאום נדם ונעלם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אדם כעוף נדוד ברוח</l>
+          <l>עד סוף הדרך הכל פתוח</l>
+          <l>האם, האם שובו בטוח</l>
+          <l>בונה ביתו שדה נוטע</l>
+          <l>אך את ימיו האל קובע</l>
+          <l>בא כאורח וכבר בורח.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חולפים חיי מול העיניים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

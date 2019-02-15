@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דף חדש 2</title>
+        <singer classification="male singer">ברי סחרוף</singer>
+        <writer>טל שגב</writer>
+        <composer>טל שגב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דף חדש</head>
+        <lg number="1" type="stanza">
+          <l>הפסקתי להיות מבוהל כל היום מפחד</l>
+          <l>כזה מתגונן שחושב שרק הוא המסכן</l>
+          <l>אולי תעזור לי אולי תתחשב תרחם</l>
+          <l>הפסקתי לברוח הפכתי להיות הלוחם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פזמון:היום אני מבטיח לך</l>
+          <l>מכאן האושר לא יברח</l>
+          <l>ראשון ראשון אהיה מגן שלך</l>
+          <l>אני פותח דף חדש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חיבור המאה בתליון הקשור בליבך</l>
+          <l>שומר על פנייך שומר נשימות בשנתך</l>
+          <l>לוכד הפחדים תקראי לי בליל ייסורי</l>
+          <l>אפשר לשנות ואפשר לעשות תיקונים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פזמון:היום אני מבטיח לך</l>
+          <l>מכאן האושר לא יברח</l>
+          <l>ראשון ראשון אהיה מגן שלך</l>
+          <l>אני פותח דף חדש</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

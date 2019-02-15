@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוח ברוח</title>
+        <singer classification="male singer">מיקי גבריאלוב</singer>
+        <writer>מיכל גבריאלוב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוח ברוח</head>
+        <lg number="1" type="stanza">
+          <l>מישהו בעיר את הריצרץ פתח</l>
+          <l>פה יש סנגריה שחורה כל כך</l>
+          <l>יפה כל כך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כישוף מהיר את הלילה יאיר</l>
+          <l>כשאת לצד המלכים בשיר</l>
+          <l>שמך בסך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>גדי צעיר מחייה את נפשך</l>
+          <l>השחורה בתל אביב</l>
+          <l>רוח ברוח בשערך</l>
+          <l>אש יוקדת בעינייך</l>
+          <l>רוח ברוח בשערך</l>
+          <l>אין איש מלבדך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שומעת היא צעדים חשודים</l>
+          <l>רצה למלא את התככים הישנים</l>
+          <l>היא קורעת מכתבים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שורפת עצים בשדרה הרחוקה</l>
+          <l>ובאה לטכס עצה חשובה</l>
+          <l>עם איש צעיר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>גדי צעיר...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>רואה אותן הולכות אלייך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

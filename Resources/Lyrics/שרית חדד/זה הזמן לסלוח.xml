@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה הזמן לסלוח 6</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>ערה דינקצ'יאן</writer>
+        <composer>ערה דינקצ'יאן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה הזמן לסלוח</head>
+        <lg number="1" type="stanza">
+          <l>עוד ארוכה הדרך אל האושר</l>
+          <l>רצופה היא מכשולים רבים</l>
+          <l>עת לחייך לשמוח גם לדמוע</l>
+          <l>אך מה יפים יפים הם החיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה הזמן לסלוח</l>
+          <l>לוותר לשכוח</l>
+          <l>גם אם זה קשה</l>
+          <l>שנינו יחד את הכל עוד נשנה</l>
+          <l>לא צריך לברוח</l>
+          <l>את האמת למרוח</l>
+          <l>אני ואת לא נשנה את העולם הזה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את שתי עיני נושא אני למעלה</l>
+          <l>מבקש תשובות לשאלות</l>
+          <l>אין מענה ואיש גם לא יודע</l>
+          <l>האם בסוף הדרך ניפגש</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה הזמן לסלוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

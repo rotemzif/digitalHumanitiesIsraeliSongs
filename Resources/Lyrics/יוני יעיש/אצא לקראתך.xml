@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אצא לקראתך</title>
+        <singer classification="unknown">יוני יעיש</singer>
+        <writer>יוני יעיש</writer>
+        <composer>יוני יעיש</composer>
+        <album>זוהי דרכי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אצא לקראתך</head>
+        <lg number="1" type="stanza">
+          <l>זה רק חלום של אחר</l>
+          <l>ראי שבור משקר</l>
+          <l>למרגלות השקט שעבר</l>
+          <l>צל מסתיר לי פנים</l>
+          <l>מכהה פצעים ישנים</l>
+          <l>הם בוכים מאחורי ההר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אצא לקראתך בחשכת מילים ברורות</l>
+          <l>הפחד חותך מבקש מרחק</l>
+          <l>אני מתעקש רגיל לאכזבות</l>
+          <l>לנפילות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה רק חלום של אחר</l>
+          <l>ואני החלש מוותר</l>
+          <l>בראותי את מה שכבר נגמר</l>
+          <l>ההבל ממשיך מסתכל</l>
+          <l>הוא אוחז בי ואז מתנצל</l>
+          <l>ואני שיכור מוכה בערפל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אצא לקראתך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

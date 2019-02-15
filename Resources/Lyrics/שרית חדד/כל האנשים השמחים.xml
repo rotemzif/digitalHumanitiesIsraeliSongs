@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל האנשים השמחים</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>הנרי</writer>
+        <composer>הנרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל האנשים השמחים</head>
+        <lg number="1" type="stanza">
+          <l>כל האנשים השמחים </l>
+          <l>תראו אותנו מחפשים</l>
+          <l>בואו לחלוק איתנו</l>
+          <l>קצת שמחת חיים</l>
+          <l>כל האנשים העצובים</l>
+          <l>תצאו מהבתים</l>
+          <l>תראו את היום הזה</l>
+          <l>מאיר לנו פנים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי להיות עצוב זה קל,</l>
+          <l>מכובד המשקל.</l>
+          <l>מכובד החיים,</l>
+          <l>אנחנו מתקפלים.</l>
+          <l>כי להיות עצוב זה קל.</l>
+          <l>זה סתם עניין של מזל</l>
+          <l>לאן שהחיים אותנו מובילים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל האנשים השמחים,</l>
+          <l>תראו לנו איך שולחים</l>
+          <l>את העצב לחופשה</l>
+          <l>בארץ רחוקה.</l>
+          <l>כל הסיבות הנכונות,</l>
+          <l>תצאו מהפינות</l>
+          <l>ותתנו לנו לראות</l>
+          <l>שהכל יכול לקרות, הכל...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי להיות עצוב זה קל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

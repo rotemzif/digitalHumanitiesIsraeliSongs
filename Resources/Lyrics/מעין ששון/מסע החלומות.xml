@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מסע החלומות</title>
+        <singer classification="unknown">מעין ששון</singer>
+        <writer>ז'ק אגמי</writer>
+        <composer>מאיר יחיא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מסע החלומות</head>
+        <lg number="1" type="stanza">
+          <l>כשהשמש עולה בבקר חמים</l>
+          <l>וקרניה שולחת לי כאור זרקורים</l>
+          <l>אני זוהרת</l>
+          <l>שוב אתחיל את היום עם שיר מתנגן</l>
+          <l>ופזמון בלב שלי אקורד נותן</l>
+          <l>מאוהבת</l>
+          <l>מאוהבת</l>
+          <l>אי שם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בוא תן לי יד ונצא ביחד</l>
+          <l>על מסע החלומות</l>
+          <l>ועל תדאג</l>
+          <l>שם נהיה ביחד</l>
+          <l>בוא תן לי יד ונצא ביחד</l>
+          <l>על מסע החלומות</l>
+          <l>ועל תדאג שם נהיה ביחד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כך חולף לו עוד יום</l>
+          <l>עוד ימים תמים</l>
+          <l>וגם ירח מאיר לי באור זרקורים</l>
+          <l>שוב זוהרת</l>
+          <l>לא אניח ללילה את שירי לסיים</l>
+          <l>וגיטרות מנגנות ת'שיר שמתנגן</l>
+          <l>מאוהבת</l>
+          <l>מאוהבת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בוא תן לי יד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

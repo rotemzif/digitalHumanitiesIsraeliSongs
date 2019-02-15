@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבתי את יופייך</title>
+        <singer classification="male singer">יואב יצחק</singer>
+        <writer>אביחי מליחי</writer>
+        <composer>אביחי מליחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבתי את יופייך</head>
+        <lg number="1" type="stanza">
+          <l>אהבתי את יופייך המשגע</l>
+          <l>אהבתי את קולך המשכנע</l>
+          <l>לא ידעתי אם שלי תהיי לעד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אהבתי זוג עינייך שאמרו לי</l>
+          <l>אהבתי שתי ידייך שהושטת לי</l>
+          <l>אהבתי איך שבאת לקראתי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הן רק אלייך נפשי עורגת</l>
+          <l>לחום שפתייך כשאת נושקת</l>
+          <l>ילדתי, אני בך מאוהב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אהבתי הלילות בהם יצאתי</l>
+          <l>לחפש אותך עד שמצאתי</l>
+          <l>את שאהבה נפשי כל כך רציתי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אהבתי את קולך וכה נעמת לי</l>
+          <l>זוכר את הנשיקות, כדבש היו לי</l>
+          <l>אהבתי כשהיית כאן לידי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הן רק אלייך נפשי עורגת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

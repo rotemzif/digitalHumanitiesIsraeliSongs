@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קנה מה שאין</title>
+        <singer classification="band">החברים של נטאשה</singer>
+        <writer>מיכה שטרית</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קנה מה שאין</head>
+        <lg number="1" type="stanza">
+          <l>בקפה שלי אין קופאין</l>
+          <l>בסיגריה שלי אין ניקוטין</l>
+          <l>בסוכר שלי אין סוכרים</l>
+          <l>בקולה שלי אין קוקאין</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עמוד על שלך</l>
+          <l>אל תוותר, תתעקש</l>
+          <l>קנה מה שאין</l>
+          <l>אל תקנה מה שיש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בסבון שלי אין סבון</l>
+          <l>בגבינות שלי אין שומנים</l>
+          <l>בסטייק שלי אין כולסטרול</l>
+          <l>בבירה שלי אין אלכוהול</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עמוד על שלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

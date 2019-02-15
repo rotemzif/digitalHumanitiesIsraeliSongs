@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שבועה 3</title>
+        <singer classification="female singer">מרגלית צנעני</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שבועה</head>
+        <lg number="1" type="stanza">
+          <l>את קולך שומעת בין קולות הרוח</l>
+          <l>ואני יודעת שתשוב אלי.</l>
+          <l>לבדי יושבת, רוקמת עוד חלום,</l>
+          <l>רוקמת ושואלת מתי יבוא היום</l>
+          <l>ואל חיי תחזור.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אתה לי, אהובי, נשמת-אפיים</l>
+          <l>אליך כל חיי אשא עיניים.</l>
+          <l>לו רק תהיה אתי בכל ימי,</l>
+          <l>תביא אור לביתי ולעיני</l>
+          <l>ובלילות-ירח קחני בדממה</l>
+          <l>ולחש לי אהבה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שמש לו הייתה לי, לו היה לי סהר</l>
+          <l>אז אותם נתתי אך ורק לך.</l>
+          <l>קח גם מה שיש לי, אני כולי שלך</l>
+          <l>וכל מה שרציתי, רק להיות איתך</l>
+          <l>לעד ולעולמים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אתה לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

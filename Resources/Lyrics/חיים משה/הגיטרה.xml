@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הגיטרה 4</title>
+        <singer classification="male singer">חיים משה</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>משה בן מוש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הגיטרה</head>
+        <lg number="1" type="stanza">
+          <l>ישנה אחת מוכרת, כל ערב היא נשלפת </l>
+          <l>ביד אומן נקשרת, ובניגון רועמת </l>
+          <l>את השירים היא מלוה, פותחת ערב בתקוה </l>
+          <l>ומנעימה באהבה, לכל האוהבים אותה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל ערב אל הדרך, בתוך נרתיק של עור </l>
+          <l>אותה שעה בערך, בקיץ ובקור </l>
+          <l>יוצאת היא אל החוגגים </l>
+          <l>אל הרוקדים במעגלים </l>
+          <l>ובשישה מיתרים, היא מנעימה את החיים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כרעם מהדהדת, מהוואל היא מסלסלת </l>
+          <l>ובשירי עצבת, ברוך היא מלטפת </l>
+          <l>ויש בה נשמה לרוב, והצלילים בוקעים בלי סוף </l>
+          <l>תסיר כל עצב ומכאוב, בכל מקום עושה היא טוב </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל ערב אל הדרך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

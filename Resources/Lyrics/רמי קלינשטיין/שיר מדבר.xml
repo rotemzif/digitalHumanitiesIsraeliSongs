@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר מדבר</title>
+        <singer classification="male singer">רמי קלינשטיין</singer>
+        <writer>חנה גולדברג</writer>
+        <composer>רמי קלינשטיין</composer>
+        <album>ביום של הפצצה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר מדבר</head>
+        <lg number="1" type="stanza">
+          <l>חול ורוד</l>
+          <l>מתרפק על קו המים</l>
+          <l>נח</l>
+          <l>ברגלים</l>
+          <l>רך</l>
+          <l>רוח חם</l>
+          <l>מתגנב בין הכנפיים</l>
+          <l>של אוהל אחד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא שומעים</l>
+          <l>עקבות של צעדים</l>
+          <l>בחול</l>
+          <l>לא רואים</l>
+          <l>הכול</l>
+          <l>איש כחול</l>
+          <l>מתנגב אל תוך השמש</l>
+          <l>אל תוך הדממה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז אני רגע רוצה</l>
+          <l>ולפעמים</l>
+          <l>נוגע במים</l>
+          <l>אז אני רגע עוצר</l>
+          <l>ומלקק</l>
+          <l>את קצות הידיים</l>
+          <l>עד סוף הצמא</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש גבעות</l>
+          <l>שיודעות להיות כמו אמא</l>
+          <l>הן מניקות אותי</l>
+          <l>יש ימים</l>
+          <l>שאפשר לראות קדימה</l>
+          <l>עד אלף שנה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אז אני רגע רוצה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>הגלים באו והלכו, באו והלכו,</l>
+          <l>ואני שכבתי על החול וחיכיתי -</l>
+          <l>אין לי מושג למה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

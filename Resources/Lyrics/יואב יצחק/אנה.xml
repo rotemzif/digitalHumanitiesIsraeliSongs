@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אנה 7</title>
+        <singer classification="male singer">יואב יצחק</singer>
+        <writer>אילן גולדהירש</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אנה</head>
+        <lg number="1" type="stanza">
+          <l>אנה, את עצובה הלילה</l>
+          <l>ושערייך נעולים</l>
+          <l>אנה, דימעה נושרת כמו בסתיו</l>
+          <l>ואש בתוך ליבך שרב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אנה, צלילים כהים הלילה</l>
+          <l>וכוכבים אי שם למעלה</l>
+          <l>כל כך נוגים כמו עינייך</l>
+          <l>אנה, פתאום נבלו בגן פרחייך</l>
+          <l>קמלו להם כל חיוכייך</l>
+          <l>ונשיקתך מרה היא</l>
+          <l>כבר לא אומרת עוד אוהבת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אנה, אין אהבה הלילה</l>
+          <l>והדממה איך מעיקה</l>
+          <l>אנה, כל העולם דומע אנה</l>
+          <l>כל העולם חובק אותך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אנה, צלילים כהים הלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

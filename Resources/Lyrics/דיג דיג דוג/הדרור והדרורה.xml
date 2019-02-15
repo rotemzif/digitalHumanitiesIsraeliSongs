@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הדרור והדרורה</title>
+        <singer classification="unknown">דיג דיג דוג</singer>
+        <writer>מיכל חזון</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הדרור והדרורה</head>
+        <lg number="1" type="stanza">
+          <l>הדרור קיפץ</l>
+          <l>מאוד התרוצץ</l>
+          <l>ענף קיצץ</l>
+          <l>ורץ אל העץ.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אמרה הדרורה:</l>
+          <l>"נחמד לי נורא</l>
+          <l>אני מוכנה</l>
+          <l>שתהיה חתונה".</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כן, כן, כן</l>
+          <l>נבנה לנו קן</l>
+          <l>אני אשיר</l>
+          <l>ואתה תנגן.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הדרור ניתר</l>
+          <l>גרגר לו ניקר</l>
+          <l>תלש גבעול</l>
+          <l>ירוק וגדול.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אמרה הדרורה:</l>
+          <l>"זה קן אהבה</l>
+          <l>ובו יזמרו</l>
+          <l>אפרוחינו שבעה"</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כן, כן, כן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

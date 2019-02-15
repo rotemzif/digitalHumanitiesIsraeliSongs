@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין סוף לצרות</title>
+        <singer classification="female singer">זהבה בן</singer>
+        <writer>אבי ביטר</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין סוף לצרות</head>
+        <lg number="1" type="stanza">
+          <l>אין סוף לצרות, אין סוף לדמעות</l>
+          <l>אין סוף לסבל ולאכזבות</l>
+          <l>לבדי כל הלילות, מסתובבת ברחובות</l>
+          <l>בלי אהבה, בלי אושר ותקוות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רציתי לספר, רציתי לדבר </l>
+          <l>על כל האכזבות ועל כל הצרות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל כך לבד, בלי אף אחד</l>
+          <l>הולכת בודדה ומי יושיט לי יד?</l>
+          <l>נשארתי לבד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נולדתי רק לסבול, הסבל כה גדול</l>
+          <l>רוצה לשכוח מהכל</l>
+          <l>איזה עולם מוזר, איזה עולם אכזר</l>
+          <l>הטוב חולף והרע נשאר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רציתי לספר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

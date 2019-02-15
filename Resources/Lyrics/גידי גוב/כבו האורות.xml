@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כבו האורות</title>
+        <singer classification="male singer">גידי גוב</singer>
+        <writer>דן מינסטר</writer>
+        <composer>missing</composer>
+        <album>האלבום הראשון</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כבו האורות</head>
+        <lg number="1" type="stanza">
+          <l>כבו האורות,</l>
+          <l>אין איש ברחובות</l>
+          <l>בא זמן ללכת</l>
+          <l>לומר להתראות</l>
+          <l>ואת שותקת לך</l>
+          <l>ואני נשאר איתך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הכל כבר נאמר</l>
+          <l>אני מרגיש כזר</l>
+          <l>אם לא הלילה</l>
+          <l>אולי אלך מחר</l>
+          <l>ואת שותקת לך</l>
+          <l>ואני נשאר איתך.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>וסיפור מתחיל</l>
+          <l>וסיפור נגמר</l>
+          <l>ואני הולך</l>
+          <l>ואני נשאר</l>
+          <l>נשאר איתך</l>
+          <l>עוד איתך...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ובוקר בא כמעט</l>
+          <l>הכל כל כך מוכר</l>
+          <l>גם אם אלך לי</l>
+          <l>אשוב ודאי מחר</l>
+          <l>ואת שותקת שוב</l>
+          <l>וכמו תמיד - אני נשאר...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>וסיפור מתחיל...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כבו האורות,</l>
+          <l>אין איש ברחובות</l>
+          <l>בא זמן ללכת</l>
+          <l>לומר להתראות</l>
+          <l>ואת שותקת לך</l>
+          <l>וכמו תמיד -</l>
+          <l>אני נשאר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

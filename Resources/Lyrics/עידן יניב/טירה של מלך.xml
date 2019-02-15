@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טירה של מלך</title>
+        <singer classification="male singer">עידן יניב</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>missing</composer>
+        <album>כן לאהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טירה של מלך</head>
+        <lg number="1" type="stanza">
+          <l>אני ואת זה לעולם האל בחר לנו גורל</l>
+          <l>מזל של שנינו באדם  איתך האושר בחיי</l>
+          <l>אם תדעי יפה שלי איך גוברת אהבתי</l>
+          <l>את כל האושר לך אביא כתר לך אהובתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>על הר אבנה טירה של מלך </l>
+          <l>לכבודך כל החיים</l>
+          <l>כמו העולם בשתי עינייך</l>
+          <l>ומלאכים מעל חגים</l>
+          <l>כשאת רוקדת הם רוקדים</l>
+          <l>את מחייכת לך שרים</l>
+          <l>כמו אהבת האלוקים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תני לי יד ואני אוביל אותך לדרך אהבתי</l>
+          <l>מפרי בטנך נהיה גאים לנו שושלת נסיכים</l>
+          <l>אקשיב לכל מה שתאמרי כי הברכה זו את שלי</l>
+          <l>את כל האושר לך אביא כיד המלך אהובתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>על הר אבנה טירה של מלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

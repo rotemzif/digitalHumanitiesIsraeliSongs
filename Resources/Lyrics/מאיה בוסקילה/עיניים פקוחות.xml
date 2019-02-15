@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עיניים פקוחות</title>
+        <singer classification="female singer">מאיה בוסקילה</singer>
+        <writer>מאיר גולדברג</writer>
+        <composer>מאיה בוסקילה</composer>
+        <album>שוברת שתיקה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עיניים פקוחות</head>
+        <lg number="1" type="stanza">
+          <l>שתיקות ארוכות</l>
+          <l>זו סיבה טובה לקום וללכת</l>
+          <l>שנים מתוקות</l>
+          <l>על הגשם ששטף את הדרך</l>
+          <l>מברכת,</l>
+          <l>לא חושבת יותר מדי</l>
+          <l>ונדמה, שזה לא יותר, מעוד סיבה אחת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עיניים פקוחות, נוקבות שאלות</l>
+          <l>שלא שאלתי מעולם</l>
+          <l>ירח מאיר</l>
+          <l>מהצד היפה של העיר</l>
+          <l>על רחוב, שמזכיר לי עוד שיר</l>
+          <l>שנעלם, יחד איתך</l>
+          <l>לאן, אני שואלת אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהבות בין הסדינים</l>
+          <l>וזרים של פרחים מקבלת</l>
+          <l>גם אם יש בי חולשות</l>
+          <l>אני לא בקלות מתמסרת</l>
+          <l>לא נבהלת</l>
+          <l>מכל מה שיכול לקרות</l>
+          <l>ונדמה, שזה לא יותר</l>
+          <l>מעוד סיבה לחיות.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עיניים פקוחות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

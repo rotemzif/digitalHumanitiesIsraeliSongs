@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תחת כובד התפוח</title>
+        <singer classification="female singer">שולה חן</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תחת כובד התפוח</head>
+        <lg number="1" type="stanza">
+          <l>תחת כובד התפוח</l>
+          <l>מי ישכב איתי לנוח</l>
+          <l>וישרוק אלי שריקה</l>
+          <l>כמו ציפורת מתוקה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וישרוק אלי שריקה</l>
+          <l>כמו ציפורת מתוקה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בוא כבר, בוא כבר, בוא כבר, בוא...</l>
+          <l>שום דבר לא יפריענו</l>
+          <l>עד החורף בוא יבוא</l>
+          <l>בוא כבר, בוא כבר, בוא כבר, בוא...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עד החורף בוא יבוא...</l>
+          <l>בוא כבר, בוא כבר, בוא כבר, בוא..</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מי שלא פוחד משמץ</l>
+          <l>טל רטוב ולהט שמש</l>
+          <l>ואיננו מבקש</l>
+          <l>אלא רק את מה שיש -</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בוא כבר, בוא כבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

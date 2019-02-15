@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פגישה על החוף 4</title>
+        <singer classification="female singer">רונית אופיר</singer>
+        <writer>נתן יונתן</writer>
+        <composer>נחצ'ה היימן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פגישה על החוף</head>
+        <lg number="1" type="stanza">
+          <l>הים ניגש בלחש אל החוף</l>
+          <l>אתה זוכר אולי פגישה כזאת כרשת</l>
+          <l>פזורה של שערות אישה לחות</l>
+          <l>דייג אחד השליך חכה מראש הגשר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז עלו דומם</l>
+          <l>עם גאות הים</l>
+          <l>וצללו עם השפל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>השפל, הגאות, האנחות,</l>
+          <l>המלח המלבין תוגת גזעי האשל</l>
+          <l>שולי הקונכיות לוקטים בחוף</l>
+          <l>קינת שחפים טרופה של אהבה נואשת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז עלו דומם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הים נפרד בלחש מן החוף</l>
+          <l>מחר אולי ירצה אליך שוב לגשת</l>
+          <l>גומת החול, שפתייך המלוחות</l>
+          <l>אותו דייג אותה אישה אותה הרשת</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אז עלו דומם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

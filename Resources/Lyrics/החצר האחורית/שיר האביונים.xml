@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר האביונים</title>
+        <singer classification="unknown">החצר האחורית</singer>
+        <writer>יענקל'ה רוטבליט</writer>
+        <composer>תומר יוסף</composer>
+        <album>החצר האחורית</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר האביונים</head>
+        <lg number="1" type="stanza">
+          <l>ומי ישיר את שיר האביונים</l>
+          <l>את שיר הנטושים בצד הדרך</l>
+          <l>שגם להם יש שם ויש פנים</l>
+          <l>ולא רק גב לתת בעבודת הפרך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את שיר המשתכרים אל צרור נקוב</l>
+          <l>כבויי המבטים שחוחי השכם</l>
+          <l>את שיר הדל והמושפל והעזוב</l>
+          <l>שבבתי תמחוי בוצעים את פת הלחם</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ומי ישא קולו לומר כי רע מאד</l>
+          <l>מתי למדנו לא לשמוע לא לראות</l>
+          <l>ולעבור בצעד קל על המראות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כי מי ישיר את שיר האבודים</l>
+          <l>בלויי בגדים ויחפי רגליים </l>
+          <l>הנודדים ברחובות כמנודים</l>
+          <l>ומי ישיר את שיר חסרי הבית</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את שיר הקבצנים פושטי היד</l>
+          <l>אל חלונות המכונית בצומת</l>
+          <l>והנהג עיניו חומקות מן המבט</l>
+          <l>אל הבטחה גדולה בשלט של פרסומת</l>
+        </lg>
+        <lg number="6" type="stanza" />
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>ומי ישא קולו לומר כי רע מאד</l>
+          <l>מתי למדנו לא לשמוע לא לראות</l>
+          <l>ולעבור בצעד קל על המראות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

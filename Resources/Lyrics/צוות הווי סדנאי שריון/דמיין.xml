@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דמיין 2</title>
+        <singer classification="unknown">צוות הווי סדנאי שריון</singer>
+        <writer>ג'ון לנון</writer>
+        <composer>ג'ון לנון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דמיין</head>
+        <lg number="1" type="stanza">
+          <l>דמיין שאין גן עדן </l>
+          <l>תאר לך זה קל </l>
+          <l>ואין לאן לרדת </l>
+          <l>למעלה רק חלל. </l>
+          <l>תאר רק שכולנו </l>
+          <l>בשלום נחיה. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>דמיין שאין כל טעם </l>
+          <l>בגבול ומדינות </l>
+          <l>תאר לך רק פעם </l>
+          <l>איך זה בלי מלחמות. </l>
+          <l>תאר רק שכולנו </l>
+          <l>בלי חשבון נחיה. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואולי תחייך קצת </l>
+          <l>גם תקרא לי חולם </l>
+          <l>אחכה עד הנצח </l>
+          <l>שהנס יתגשם. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>דמיין שאין כל צורך </l>
+          <l>לצבור רכוש בכלל </l>
+          <l>דמיין שעם רצון טוב </l>
+          <l>הכל פשוט וקל </l>
+          <l>תאר רק שכולנו </l>
+          <l>בשוויון נחיה. </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואולי תחייך קצת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>באת עם השקט</title>
+        <singer classification="male singer">דודו טסה</singer>
+        <writer>דודו טסה</writer>
+        <composer>דודו טסה</composer>
+        <album>מתוך בחירה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>באת עם השקט</head>
+        <lg number="1" type="stanza">
+          <l>באת עם השמש, מצאת אותי רטוב</l>
+          <l>אחרי לילה של רעש לא ישנתי</l>
+          <l>יש לי מזכרת ממישהי</l>
+          <l>ועוד מפלצות שאיתן לא התחברתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לך יש איזה אלף או מיליון חברים</l>
+          <l>ולי מה יש</l>
+          <l>לא שיש במה להתבייש</l>
+          <l>אבל חבר אחד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>באת עם השקט, מצאת אותי נסער</l>
+          <l>אחרי לילה של גשם לא ישנתי</l>
+          <l>יש לי מזכרת מהילד</l>
+          <l>ועוד מפלצות שאיתן לא התחברתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לך יש איזה אלף או מיליון חברים</l>
+          <l>ולי מה יש</l>
+          <l>לא שיש במה להתבייש</l>
+          <l>אבל חבר אחד</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>באת עם השקר, מצאת אותי תמים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

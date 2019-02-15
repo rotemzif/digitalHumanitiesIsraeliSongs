@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוח צפונית רוח דרומית</title>
+        <singer classification="unknown">עופרה חזה</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>אדמה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוח צפונית רוח דרומית</head>
+        <lg number="1" type="stanza">
+          <l>היום, היום עולים פרחי הגפן</l>
+          <l>ניצת הרימון מול פרחי התמר.</l>
+          <l>היום התאנה פגיה חונטת</l>
+          <l>ממש כמו שנכתב וכמו שנאמר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רוח צפונית יפה לחיטים</l>
+          <l>אך קשה לזיתים עת ינצו.</l>
+          <l>רוח דרומית קשה לעיתים</l>
+          <l>אך יפה לגפנים עת יקיצו.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היום, היום צומחת השיבולת</l>
+          <l>גדלים גרעיני שעורה וחיטה</l>
+          <l>וגשם אחרון צונח מול שמש</l>
+          <l>ממש כמו בשיעור מולדת בכיתה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רוח צפונית יפה לחיטים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היום, היום אני הולכת ברגל</l>
+          <l>בשביל העולה בין שדות וכרמים</l>
+          <l>היום אני אראה את קרת הסלע</l>
+          <l>ממש כמו אבותי לפני ימים רבים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רוח צפונית יפה לחיטים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

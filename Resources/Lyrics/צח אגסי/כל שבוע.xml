@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל שבוע</title>
+        <singer classification="unknown">צח אגסי</singer>
+        <writer>צח אגסי</writer>
+        <composer>צח אגסי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל שבוע</head>
+        <lg number="1" type="stanza">
+          <l>כל שבוע - אותו הדבר </l>
+          <l>כל שבוע - אותו הדבר </l>
+          <l>לא נותנים לי להיות מאושר </l>
+          <l>כל שבוע אותו הדבר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואי אלי עכשיו </l>
+          <l>חבקי אותי אלייך </l>
+          <l>חבקי אותי אלייך </l>
+          <l>בואי אלי עכשיו </l>
+          <l>חבקי אותי אלייך </l>
+          <l>חבקי אותי אלייך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מקווה ש- את לא תישברי </l>
+          <l>שאלי את לא תיסגרי </l>
+          <l>לא נותנים לי להיום מאושר </l>
+          <l>כל שבוע - אותו הדבר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בואי אלי עכשיו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

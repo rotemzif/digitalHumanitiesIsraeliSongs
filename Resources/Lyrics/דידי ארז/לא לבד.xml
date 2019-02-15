@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא לבד 3</title>
+        <singer classification="unknown">דידי ארז</singer>
+        <writer>דידי ארז</writer>
+        <composer>דידי ארז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא לבד</head>
+        <lg number="1" type="stanza">
+          <l>כבר יומיים מסתובב לך הראש</l>
+          <l>אתה לא ישן</l>
+          <l>יוצא לסיבוב לילי ברגל</l>
+          <l>אתה פוגש אנשים</l>
+          <l>הם מחייכים אליך</l>
+          <l>אבל עדיין מרגיש</l>
+          <l>שכלום לא יחזור להיות </l>
+          <l>כמו פעם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אתה לא לבד</l>
+          <l>גם אם זה מרגיש ככה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חמש בבוקר </l>
+          <l>אתה יושב בבית קפה</l>
+          <l>מנסה להיזכר ...</l>
+          <l>אתה חושב הרבה על אבא </l>
+          <l>שלך</l>
+          <l>אתה נהיה דומה לו</l>
+          <l>מסתכל בשעון</l>
+          <l>ויודע ששוב לא תישן הלילה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אתה לא לבד</l>
+          <l>גם אם זה מרגיש ככה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כשהיא תבוא היא תעזור לך</l>
+          <l>גם אם לא תמיד זה ירגיש ככה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

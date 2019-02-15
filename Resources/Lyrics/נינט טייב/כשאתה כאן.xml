@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשאתה כאן</title>
+        <singer classification="female singer">נינט טייב</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>יחפה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשאתה כאן</head>
+        <lg number="1" type="stanza">
+          <l>כשאתה כאן </l>
+          <l>מנקה את הבוץ שיבש עלי</l>
+          <l>אתה אוהב אותי נקיה </l>
+          <l>אתה אף פעם לא אומר מאיפה באת </l>
+          <l>אני גם לא שואלת אותך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני יושבת ומחכה שעות </l>
+          <l>וכשאתה כאן אז פחות </l>
+          <l>כשאתה כאן אז פחות </l>
+          <l>אני משתוללת </l>
+          <l>כמו חיה פצועה</l>
+          <l>וכשאתה כאן זה נרגע</l>
+          <l>כשאתה כאן זה נרגע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאתה כאן </l>
+          <l>אני מקיאה את כל מה שבלעתי </l>
+          <l>אתה אוהב אותי נקיה</l>
+          <l>אתה אף פעם לא אומר מאיפה באת</l>
+          <l>אני גם לא שואלת אותך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני יושבת ומחכה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

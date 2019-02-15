@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה איתי מה איתך</title>
+        <singer classification="male singer">חיים אל</singer>
+        <writer>רמי לב</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה איתי מה איתך</head>
+        <lg number="1" type="stanza">
+          <l>עוד לילה לא שקט, לא יכול לישון</l>
+          <l>את בכל מקום ואני פתאום</l>
+          <l>את משחקת בי, משנה צורה</l>
+          <l>פעם את טובה, פעם את רעה</l>
+          <l>תני לי סיכוי אחד, תני לי להתקרב </l>
+          <l>לגלות לך את סודות הלב.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה איתי, מה איתך... אני אוהב אותך</l>
+          <l>תני לי רק לדעת אם אני שלך </l>
+          <l>מה איתי, מה איתך... חולם להיות שלך</l>
+          <l>לא יכול יותר, אני לא אוותר על אהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תספרי לי עוד שאת מבינה</l>
+          <l>מה אני עובר כבר כמעט שנה</l>
+          <l>לא מאבד אותך, זז בכל דקה</l>
+          <l>מחפש אותך בלי שום הפסקה</l>
+          <l>תני לי סיכוי אחד, תני להתקרב</l>
+          <l>לגלות לך את סודות הלב.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה איתי, מה איתך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

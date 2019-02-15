@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד אליך 3</title>
+        <singer classification="female singer">סי היימן</singer>
+        <writer>סי היימן</writer>
+        <composer>סי היימן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד אליך</head>
+        <lg number="1" type="stanza">
+          <l>אל תוותר עלי כל כך בקלות</l>
+          <l>זה לא כל יום שאני מוכנה לקרבה</l>
+          <l>אני במסע מתוך בדידות כל כך גדולה</l>
+          <l>על המאזניים הטוב עובר את הרע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עד אליך, עד אליך</l>
+          <l>עשיתי דרך ארוכה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם היה לי קצת אומץ, ודאי הייתי איתך</l>
+          <l>אתה לעולם לא תדע, כמה רציתי אותך</l>
+          <l>והרצון קיים והפחד גם</l>
+          <l>אם היה לי קצת אומץ, אני לא הייתי כאן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עד אליך, עד אליך</l>
+          <l>עשיתי דרך ארוכה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כן, אני הגעתי אחרונה</l>
+          <l>אם היה לי קצת אומץ</l>
+          <l>ודאי הייתי איתך</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>עד אליך, עד אליך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

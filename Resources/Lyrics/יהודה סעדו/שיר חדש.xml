@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר חדש 2</title>
+        <singer classification="male singer">יהודה סעדו</singer>
+        <writer>יהודה סעדו</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר חדש</head>
+        <lg number="1" type="stanza">
+          <l>לשיר לך שיר חדש</l>
+          <l>שימלא את החסר</l>
+          <l>לראות אותך קרובה עכשיו לכאן.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לשכוח מהעיר</l>
+          <l>נקי מכל דמיון אחר</l>
+          <l>לבנות לנו פינה קטנה שקטה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ללמוד איתך לרקוד</l>
+          <l>לעוף מעבר להרים</l>
+          <l>לחזור אל התמימות שכבר אבדה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואם אני ליצן שאין בו כח</l>
+          <l>ואם אני עייפתי מלצחוק</l>
+          <l>תגלי לי סוד ישן</l>
+          <l>שיקח אותי מכאן</l>
+          <l>תגלי לי סוד ישן.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כשתבקשי לצחוק</l>
+          <l>אשא אותך למחוז חפצך</l>
+          <l>פתחי לבך, הביעי משאלה</l>
+          <l>ואם תרצי ליפול</l>
+          <l>שירי ימתיק את כאבך</l>
+          <l>ינוסו אז יגון ואנחה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואם אני ליצן שאין בו כח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

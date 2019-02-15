@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ישר מהחיים</title>
+        <singer classification="male singer">רפי נהרי</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ישר מהחיים</head>
+        <lg number="1" type="stanza">
+          <l>לילות רבים עוברים עלי</l>
+          <l>בהם טרופים חלומותי</l>
+          <l>וגם שנתי נודדת.</l>
+          <l>כואבת היא אהבתי</l>
+          <l>ומה תמימה היא נשמתי -</l>
+          <l>אף פעם לא לומדת.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אך אם תקחי לי את לבי,</l>
+          <l>שימרי עליו לשנינו;</l>
+          <l>הגני את על עולמי</l>
+          <l>ויהיה רק טוב לנו.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מאז ידעתי את לבך,</l>
+          <l>את מלכתי אני מלכך,</l>
+          <l>קשוב למלותייך.</l>
+          <l>בכל מקום אליו אלך</l>
+          <l>אני שבוי בקסמך</l>
+          <l>ומשתוקק אלייך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אך אם תקחי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

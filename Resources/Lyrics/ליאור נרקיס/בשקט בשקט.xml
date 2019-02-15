@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בשקט בשקט</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>מאיר עמר</writer>
+        <composer>missing</composer>
+        <album>מילים שלא אמרת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בשקט בשקט</head>
+        <lg number="1" type="stanza">
+          <l>בשקט בשקט, את סוגרת את האור</l>
+          <l>בשקט בשקט, נשארת מאחור </l>
+          <l>הדלת נסגרת אני פה נשאר,</l>
+          <l>יושב לי בשקט כל כך מאוחר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמה בכיתי בגללך כמה בקשתי עד אלייך,</l>
+          <l>כמה לילות אני אשב ועוד אחכה.</l>
+          <l>כמה איתך אני שלו, כמה קשה לי בלעדייך</l>
+          <l>כמה דמעות אני אבכה ועוד אחכה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אולי רק הפעם אם נרצה זה יסתדר,</l>
+          <l>אולי את יודעת ולך קשה יותר,</l>
+          <l>אני רק מבטיח הכל לנסות.</l>
+          <l>בואי עוד פעם אל תוותרי עלי בקלות כזאת.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמה בכיתי בגללך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני רק מבטיח הכל לנסות</l>
+          <l>בואי עוד פעם אל תוותרי עלי בקלות כזאת.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כמה בכיתי בגללך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

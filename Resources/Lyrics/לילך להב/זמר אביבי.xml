@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זמר אביבי</title>
+        <singer classification="unknown">לילך להב</singer>
+        <writer>אלי רונן</writer>
+        <composer>אלי רונן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זמר אביבי</head>
+        <lg number="1" type="stanza">
+          <l>בשירה ורון חוגגת הפריחה את בוא אביב </l>
+          <l>בו נצא כולנו יחד לטייל סביב סביב, </l>
+          <l>הציפור וגם התכלת מבשרים כי יום הקיץ </l>
+          <l>ואזי נראה כולנו כי שדה, שדה הניץ. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זמר זמר אביבי לי, זמר זמר אביבי </l>
+          <l>שירה לי גני לי, שירה לי גני לי, </l>
+          <l>זמר זמר אביבי...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בהרים כיסה הירק מורדות ואבנים </l>
+          <l>מחרשה הפכה הרגב ויצרה תלמים רבים, </l>
+          <l>אהבת אביב נחוגה נסיעות וטיולים </l>
+          <l>הרועים להשקות צאנם באו באו אל גבים. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זמר זמר אביבי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הצפון והדרום ממלאים ליבנו אור </l>
+          <l>משטחים רחבי ידיים נתמלאו כולם במור, </l>
+          <l>ניצנים פקדו צבר ופריים יבוא מחר </l>
+          <l>עת מגל יפגוש קוצר יכוסה כולו בבר. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זמר זמר אביבי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

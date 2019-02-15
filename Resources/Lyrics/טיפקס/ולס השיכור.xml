@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ולס השיכור</title>
+        <singer classification="band">טיפקס</singer>
+        <writer>קובי אוז</writer>
+        <composer>קובי אוז</composer>
+        <album>האחרון בעשירון התחתון</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ולס השיכור</head>
+        <lg number="1" type="stanza">
+          <l>באיזה בר סרוח</l>
+          <l>ליד חלון פתוח</l>
+          <l>מחזיק אקורדיון</l>
+          <l>בתוך מעיל דובון</l>
+          <l>הוא מתנדנד ברוח</l>
+          <l>שותה משקה דלוח</l>
+          <l>קוראים לו השיכור</l>
+          <l>הוא מפחד מאור.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הוא בחבית של בירה גדולה</l>
+          <l>חי בין גיהוק לשיהוק...</l>
+          <l>שוכח לחיות ושותה כדי לברוח</l>
+          <l>דברים ששכח כבר מזמן...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בדמיונו יש נשף</l>
+          <l>ומשרתים וכסף</l>
+          <l>בתוך טירת זהב</l>
+          <l>אשה אשר אהב</l>
+          <l>בשמלתה הסתירה</l>
+          <l>שוחים בכוס של בירה</l>
+          <l>עדה של ברבורים</l>
+          <l>עם כמה ציירים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הוא בחבית...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

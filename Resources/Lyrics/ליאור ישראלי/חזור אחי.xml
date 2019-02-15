@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חזור אחי</title>
+        <singer classification="unknown">ליאור ישראלי</singer>
+        <writer>רוני אחיאל</writer>
+        <composer>רוני אחיאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חזור אחי</head>
+        <lg number="1" type="stanza">
+          <l>אל השמים עיני נישאות</l>
+          <l>בקול בוכה,אני קורא אליך.</l>
+          <l>אל השמים ידי נפרשות</l>
+          <l>אוזל כוחי,אני רוצה אליך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין לי עוד דרך לפנות</l>
+          <l>לבקש בה, רחמים</l>
+          <l>אין לי עוד רגש פתאום</l>
+          <l>אכזריים הם, החיים</l>
+          <l>הלב כואב רוצה אליך חזור אחי, חזור מהר</l>
+          <l>הקול נדם מאז הלכת,</l>
+          <l>וליבי זועק, וליבי זועק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בשמים זרועים כוכבים</l>
+          <l>אך יש כוכב אשר כבה למעלה</l>
+          <l>העננים מעל אפורים</l>
+          <l>רחק האור אתה אותו לקחת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין לי עוד דרך לפנות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Je chante</title>
+        <singer classification="unknown">רנה פרידג ה</singer>
+        <writer>גי שיש</writer>
+        <composer>עוזי מלמד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Je chante</head>
+        <lg number="1" type="stanza">
+          <l>Je chante, a ceux qui-le-réclament</l>
+          <l>Je chante, pour rendre moin malheureux</l>
+          <l>Je  chante, a ce qui ont l' vague a l' âme</l>
+          <l>Tous les hommes toute les femmes </l>
+          <l>A tous les amoureux</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Je chante, pour toi qui es très loin de-moi</l>
+          <l>Je chante, pour toi qui es dans le noir</l>
+          <l>Je chante, pour te réchauffer du froid </l>
+          <l>Éliminer ton cafard </l>
+          <l>Retrouver  l' espoir </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>Je chante pour vous, mes amis de partout</l>
+          <l>Je chante pour vous qui m'suivez n' importe ou</l>
+          <l>Je chante pour vous, mes amis de partout </l>
+          <l>Je chante pour vous qui m'suivez n' importe ou</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>Je chante, pour la femme qui aime</l>
+          <l>Je chante, pour l' enfant qui a de la peine</l>
+          <l>Je chante, pour l' amour contre la haine </l>
+          <l>Aimez vous sur la terre </l>
+          <l>Aimez vous comme des frères</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>Je chante pour vous, mes amis de partout</l>
+          <l>Je chante pour vous qui m'suivez n' importe ou</l>
+          <l>Je chante pour vous, mes amis de partout </l>
+          <l>Je chante pour vous qui m'suivez n' importe ou</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

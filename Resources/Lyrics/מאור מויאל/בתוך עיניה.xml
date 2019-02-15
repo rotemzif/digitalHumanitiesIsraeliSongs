@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בתוך עיניה</title>
+        <singer classification="unknown">מאור מויאל</singer>
+        <writer>מאור מויאל</writer>
+        <composer>מאור מויאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בתוך עיניה</head>
+        <lg number="1" type="stanza">
+          <l>הימים הקרים מזכירים לי עכשיו את דמותה</l>
+          <l>בשנים שחלפו, מעידים איך אהבתי אותה</l>
+          <l>היא היתה לי קסומה... כה רכה</l>
+          <l>לו יכולתי לשוב אל חייה</l>
+          <l>ולו רק לדקה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עננים מרחוק מלטפים את הצחוק</l>
+          <l>אך דומע, בתוך עיניה</l>
+          <l>הדלתות נסגרות</l>
+          <l>ארוכים הלילות, איך אוכל להגיע אליה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>על החוף מטיילים</l>
+          <l>כוכבים אז ליוו את פניה</l>
+          <l>הנרות שכבו ליטפו את גופי בשתיקה</l>
+          <l>היא היתה לי קסומה.... כה רכה</l>
+          <l>לו יכלתי לשוב אל חייה</l>
+          <l>ולו רק לדקה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עננים מרחוק מלטפים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

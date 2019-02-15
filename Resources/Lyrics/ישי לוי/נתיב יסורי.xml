@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נתיב יסורי</title>
+        <singer classification="male singer">ישי לוי</singer>
+        <writer>משה נגר</writer>
+        <composer>משה נגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נתיב יסורי</head>
+        <lg number="1" type="stanza">
+          <l>פסעתי בנתיב ביסורי</l>
+          <l>טמנתי כאבי עמוק </l>
+          <l>ולא יכולתי לעצור בדמעותי </l>
+          <l>את כאבי גם לא אוכל למחוק </l>
+          <l>צעדי כשלו בין הדרכים </l>
+          <l>קראתי זעקתי אלוקים</l>
+          <l>גחלת אש עברה בתוך גופי </l>
+          <l>הרגשתי כמו בא עלי מותי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>השמש דעכה בתוך ימי</l>
+          <l>כוכבים כבו בלילותי </l>
+          <l>קולי קורא לך אלוקי</l>
+          <l>האר נא דרכי ונתיבי,</l>
+          <l>האר נא את דרכי ונתיבי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פסעתי וקראתי אלוקי </l>
+          <l>האר לי דרך לפני</l>
+          <l>לא הפנה ולא הביט בחטאים </l>
+          <l>הלך ישר בדרך אלוקים </l>
+          <l>צעדי כשלו בין הדרכים </l>
+          <l>קראתי זעקתי אלוקים</l>
+          <l>גחלת אש עברה בתוך גופי</l>
+          <l>הרגשתי כמו בעלמעתי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>השמש דעכה בתוך ימי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

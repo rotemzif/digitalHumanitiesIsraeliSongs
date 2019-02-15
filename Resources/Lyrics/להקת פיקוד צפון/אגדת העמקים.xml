@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אגדת העמקים</title>
+        <singer classification="unknown">להקת פיקוד צפון</singer>
+        <writer>יובב כץ</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אגדת העמקים</head>
+        <lg number="1" type="stanza">
+          <l>ביום השביעי שתקו הרובים</l>
+          <l>הבטנו חולמים זה בזה</l>
+          <l>ביום השביעי עלה על גדותיו</l>
+          <l>הלב ההולם בחזה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ביום השביעי תקוות השלום</l>
+          <l>פרחו כפרחי השושן</l>
+          <l>ביום השביעי החלה האש </l>
+          <l>לוחכת בעמק בית שאן.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>העמק בירק טובע</l>
+          <l>במים בצבע וצליל</l>
+          <l>שלח מהרי הגלבוע</l>
+          <l>דש להרי הגליל</l>
+          <l>קרא לרוחות השמיים</l>
+          <l>צעק צעקה שבלב</l>
+          <l>היום עוד שבעת שבעתיים</l>
+          <l>אני את העמק אוהב.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בעמק בית שאן מוקשים וקרבות</l>
+          <l>המוות אורב על השביל</l>
+          <l>אך עמק בית שאן יוצא לשדות</l>
+          <l>לקצור ולבצור כרגיל</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רמת הגלעד חורצת לשון</l>
+          <l>של אש ושנאה נדושה</l>
+          <l>מול קנה התותח, בעמק בית שאן </l>
+          <l>נבראת אגדה חדשה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>העמק בירק טובע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

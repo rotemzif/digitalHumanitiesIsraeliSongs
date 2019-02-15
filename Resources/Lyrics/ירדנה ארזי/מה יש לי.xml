@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה יש לי</title>
+        <singer classification="female singer">ירדנה ארזי</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה יש לי</head>
+        <lg number="1" type="stanza">
+          <l>אם המוות מתקרב תן לו יד.</l>
+          <l>רק אל תרעד,</l>
+          <l>רק אל תמעד -</l>
+          <l>תן לו יד.</l>
+          <l>עם העצב, עם העצב קום וצעד,</l>
+          <l>מן החושך ,מן החושך, אל תפחד.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה יש לי, מה יש לי - שמש רד</l>
+          <l>בוקר ערב - יום אחד</l>
+          <l>מה אשאיר כבר, מה אשאיר כאן אחרי</l>
+          <l>רק גיטרה רק גיטרה ושירי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תבכה עכשוו תן לי שיר שמח,</l>
+          <l>בן חלוף,</l>
+          <l>עד שתצרח,</l>
+          <l>עד שתשכח</l>
+          <l>את הסוף.</l>
+          <l>את הקצב, את הקצב הך בתוף,</l>
+          <l>את הלילה אש תשרוף</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה יש לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

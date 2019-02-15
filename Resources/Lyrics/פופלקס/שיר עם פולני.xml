@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר עם פולני</title>
+        <singer classification="band">פופלקס</singer>
+        <writer>אייל לינור</writer>
+        <composer>אייל לינור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר עם פולני</head>
+        <lg number="1" type="stanza">
+          <l>עברו שלושים שנה בדרך לבאר שבע</l>
+          <l>הוא לא ידע את שמה, את שמו היא שכחה</l>
+          <l>יושבת בחלוק לבן מול הפסיכיאטר</l>
+          <l>רק מקווה ששוב יקשרו אותה למיטה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רק לפני עשור היתה יושבת במונטנה</l>
+          <l>הילד הגדול כבר חזר מהצבא</l>
+          <l>קיבל שם עין מזכוכית וגם עגיל באוזן</l>
+          <l>בוולבו הוא עושה חרקות בשכונה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יושבים במונטנה וחושבים על תל אביב</l>
+          <l>גלידה אחת זה כנראה לא מספיק</l>
+          <l>הם הולכים לצבא, הם חוזרים אל השכונה</l>
+          <l>הם יושבים בבאר שבע ושרים:</l>
+          <l>זהו שיר עם פולני</l>
+          <l>זהו שיר עם פולני</l>
+          <l>זהו שיר עם פולני</l>
+          <l>זהו שיר עם פולני</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>האמבולנס דוהר בדרך לבאר שבע</l>
+          <l>הוא לא צופר, אז לאף אחד זה לא מזיז</l>
+          <l>הראש שלה מלא בכדורים, אז זה לא אכפת לה</l>
+          <l>שלבחור ההוא רק כדור אחד הספיק</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יושבים במונטנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

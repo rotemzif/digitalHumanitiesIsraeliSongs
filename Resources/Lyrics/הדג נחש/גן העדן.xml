@@ -1,0 +1,36 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גן העדן</title>
+        <singer classification="band">הדג נחש</singer>
+        <writer>הדג נחש</writer>
+        <composer>הדג נחש</composer>
+        <album>לזוז</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גן העדן</head>
+        <lg number="1" type="stanza">
+          <l>נסו נא לנחש , איפה נמצא גן העדן</l>
+          <l>אבל אם תשאלו את החברים שלי על גן העדן</l>
+          <l>הם יספרו לכם, כל מיני מעשיות....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

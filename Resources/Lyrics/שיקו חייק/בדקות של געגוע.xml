@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בדקות של געגוע</title>
+        <singer classification="unknown">שיקו חייק</singer>
+        <writer>שיקו חייק</writer>
+        <composer>שיקו חייק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בדקות של געגוע</head>
+        <lg number="1" type="stanza">
+          <l>אם היית יודעת מה</l>
+          <l>עבר עלי היית בוכה</l>
+          <l>אפילו שנפגעת ממני</l>
+          <l>בתוך ליבך היית מבינה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בדקות של געגוע</l>
+          <l>בדקות של זכרונות</l>
+          <l>הייתי מצלצל אלייך</l>
+          <l>רק לשמוע את קולך</l>
+          <l>לא רציתי בך לפגוע</l>
+          <l>לא הייתה בי כוונה</l>
+          <l>רק לשמוע את קולך</l>
+          <l>רציתי נערה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק הזמן ידעתי</l>
+          <l>שהוא התרופה למכאובים</l>
+          <l>עברו עלי ימים קשים</l>
+          <l>יעידו החברים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בדקות של געגוע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

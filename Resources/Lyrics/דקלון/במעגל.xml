@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>במעגל</title>
+        <singer classification="male singer">דקלון</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>במעגל</head>
+        <lg number="1" type="stanza">
+          <l>אני יושב ומדבר</l>
+          <l>ומנסה להתחבר</l>
+          <l>עם שאר המדברים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הכל מילים, מילים, מילים</l>
+          <l>על הלשון מגלגלים</l>
+          <l>בתוך המעגל</l>
+          <l>מהללים, מקללים</l>
+          <l>לא פלא שמתבלבלים</l>
+          <l>בתוך המעגל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מילים הן חומר משכר</l>
+          <l>הכי קשה וממכר</l>
+          <l>לעד לא נגמלים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הכל מילים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>גם האבק שמגלים</l>
+          <l>עושים אצלנו במילים</l>
+          <l>ואז שוכבים לישון</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הכל מילים...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>תמיד בכל העניינים</l>
+          <l>ימין ושמאל מאוזנים</l>
+          <l>בתיקו הקדוש</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>הכל מילים...</l>
+        </lg>
+        <lg number="9" type="stanza">
+          <l>זמננו תם כך מסתבר</l>
+          <l>ולא הספקנו לדבר</l>
+          <l>בקושי מה נשמע</l>
+        </lg>
+        <lg Chorus="yes" number="10" type="stanza">
+          <l>הכל מילים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

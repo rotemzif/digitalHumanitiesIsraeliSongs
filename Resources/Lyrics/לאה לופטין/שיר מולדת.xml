@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר מולדת</title>
+        <singer classification="female singer">לאה לופטין</singer>
+        <writer>נמרוד טנא</writer>
+        <composer>נמרוד טנא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר מולדת</head>
+        <lg number="1" type="stanza">
+          <l>כאן, בביתי, מול ענפי תפוח</l>
+          <l>התעוררתי לנעם של קול</l>
+          <l>הזמיר, שצליליו נשאו על הרוח</l>
+          <l>אלה, באין אומר, היפים מכל</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ולך השיר מולדת מכולם</l>
+          <l>ויחדיו נרנין את העולם</l>
+          <l>הזמיר ציץ פזמון מוכר</l>
+          <l>לך מולדת שיר יקר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל נא לזמר תיתן מנוח</l>
+          <l>הנותן לחיים עוד לזרום</l>
+          <l>אל תהסס, כי השיר הוא הכוח</l>
+          <l>שיר מבוקר עד זורחים כוכבי מרום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ולך שיר מולדת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הם ששרים בתופים ונבל</l>
+          <l>צועדים הילדים בתקווה</l>
+          <l>שיר אחר שיר יד ביד אוחזים כחבל</l>
+          <l>הם רוקמים קשרי רעות ואהבה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ולך שיר מולדת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

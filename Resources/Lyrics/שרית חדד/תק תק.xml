@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תק תק</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>סוטיס וולניס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תק תק</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>תק תק הלב כמו שעון מתקתק בי</l>
+          <l>תק תק זה איך שאתה מסתכל בי</l>
+          <l>תק תק זה זמן שליבך שוב קורא לי </l>
+          <l>תק תק להיות איתך</l>
+          <l>תק תק ביחד</l>
+          <l>תק תק באהבה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איך שנעצת בי עיניים</l>
+          <l>מיד המסת את ליבי</l>
+          <l>ובדקה אחת או שתיים</l>
+          <l>כבר כבשת את כולי</l>
+          <l>יחד רק שנינו</l>
+          <l>יחד באהבה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תק תק...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חבק אותי בשתי ידיים</l>
+          <l>ותפתח לי את ליבך</l>
+          <l>אוהב אותך עד השמיים</l>
+          <l>ואהיה תמיד שלך</l>
+          <l>יחד רק שנינו </l>
+          <l>יחד באהבה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תק תק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

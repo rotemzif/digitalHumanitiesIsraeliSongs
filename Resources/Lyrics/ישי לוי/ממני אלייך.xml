@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ממני אלייך</title>
+        <singer classification="male singer">ישי לוי</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>האחת שלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ממני אלייך</head>
+        <lg number="1" type="stanza">
+          <l>קול דודי קורא למה את לא עונה </l>
+          <l>מה כמהה נפשי אלייך </l>
+          <l>לך ליבי צמא קורא לך והומה </l>
+          <l>כמו הגוף אל הנשמה </l>
+          <l>קולי חותך את האוויר, געגועיי פוצחים בשיר </l>
+          <l>ממני אלייך </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>למה, למה את מתעללת בי </l>
+          <l>כמה תשחקי עוד בליבי </l>
+          <l>מה, מה עוד תבקשי ולך אתן </l>
+          <l>מתי תגידי לי כן </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בואי אל גני, פעם אחת ודי </l>
+          <l>בוורדים אסגור עלייך </l>
+          <l>שר ומתחנן, אך את בשלך </l>
+          <l>עקשנית באהבה </l>
+          <l>קולי חותך את האוויר, געגועי פוצחים בשיר </l>
+          <l>ממני אלייך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>למה, למה את מתעללת בי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

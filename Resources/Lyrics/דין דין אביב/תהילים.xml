@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תהילים</title>
+        <singer classification="female singer">דין דין אביב</singer>
+        <writer>מתוך תהילים</writer>
+        <composer>אלון יופה</composer>
+        <album>חופשיה בין עולמות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תהילים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>כל הנשמה תהלל-יה</l>
+          <l>כל הנשמה הללו-יה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הללו יה הללו אל בקדשו</l>
+          <l>הללוהו ברקיע עזו</l>
+          <l>הללוהו בגבורתיו</l>
+          <l>הללוהו כרב גדלו</l>
+          <l>הללוהו בתקע שופר</l>
+          <l>הללוהו בנבל וכינור</l>
+          <l>הללוהו בתוף ומחול</l>
+          <l>הללוהו במנים ועוגב</l>
+          <l>הללוהו בצלצלי שמע</l>
+          <l>הללוהו בצלצלי תרועה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כל הנשמה תהלל-יה</l>
+          <l>כל הנשמה הללו-יה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

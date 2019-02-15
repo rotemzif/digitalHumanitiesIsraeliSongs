@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אווירונים</title>
+        <singer classification="unknown">נערות בבל</singer>
+        <writer>איתי בורג</writer>
+        <composer>איתי בורג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אווירונים</head>
+        <lg number="1" type="stanza">
+          <l>אווירונים מתערבבים עם צלילים</l>
+          <l>מחרחרים לסוף הטוב</l>
+          <l>אווירונים הם מתרסקים בלי מילים</l>
+          <l>אני קשה לי לעזוב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אווירונים הם מרעישים את הנשמה</l>
+          <l>כל כך רועש מכדי לכתוב</l>
+          <l>אווירונים הם מפציצים את החומה</l>
+          <l>ונוחתים אצלי ברחוב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בהרמון בחרותי</l>
+          <l>המפקד פורח</l>
+          <l>כי נשות אוננותי</l>
+          <l>מחכות לאורח</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אווירונים מתאווררים למחר</l>
+          <l>מתפוררים וזה טוב</l>
+          <l>אווירונים מתעוררים מאוחר</l>
+          <l>אני החלטתי לעזוב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בהרמון בחרותי</l>
+          <l>המפקד פורח</l>
+          <l>כי נשות אוננותי</l>
+          <l>מחכות לאורח</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

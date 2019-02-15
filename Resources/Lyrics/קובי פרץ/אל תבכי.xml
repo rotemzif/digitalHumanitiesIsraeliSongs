@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תבכי 13</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>קובי פרץ</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תבכי</head>
+        <lg number="1" type="stanza">
+          <l>אם העצב משתלט את נפגעת באמת</l>
+          <l>שום דבר כבר לא הולך וקשה לחייך</l>
+          <l>והלילה לא נגמר ובנינו רגש קר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תבכי בואי חבקי אותי אל תבכי בגללי</l>
+          <l>הדמעות הן בגללי אם תלכי לא אסלח לעצמי</l>
+          <l>אל תבכי בואי חבקי אותי אל תבכי בגללי</l>
+          <l>הדמעות הן בגללי אם תלכי לא אסלח לעצמי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בואי נשב לדבר והלב בי בוער</l>
+          <l>הדקות לא חולפות והכל בגלל שטויות</l>
+          <l>אם נותרה בך אהבה ננסה מהתחלה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תבכי בואי חבקי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

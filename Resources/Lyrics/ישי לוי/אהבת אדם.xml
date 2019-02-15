@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבת אדם</title>
+        <singer classification="male singer">ישי לוי</singer>
+        <writer>זאב נחמה</writer>
+        <composer>זאב נחמה</composer>
+        <album>האחת שלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבת אדם</head>
+        <lg number="1" type="stanza">
+          <l>אהבת אדם, אהבתי אלייך</l>
+          <l>כמו שבועה של דם </l>
+          <l>כמו נדר שאף פעם לא יותר </l>
+          <l>את לי העולם אלך רק אחרייך </l>
+          <l>וקולי יידם ברגע שתביני מה נשאר </l>
+          <l>לא מאוחר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בין כל המילים האלה</l>
+          <l>רק אותך אני אוהב </l>
+          <l>מילים הן רק מילים</l>
+          <l>את כבר יודעת </l>
+          <l>על ליבי ראשך הניחי </l>
+          <l>הקשיבי איך דופק הלב </l>
+          <l>מנגן על שערייך </l>
+          <l>שיר אהבת אדם </l>
+          <l>שלך הוא לעולם </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהבה נצחית, אהבתי אלייך </l>
+          <l>מה עוד תבקש? </l>
+          <l>את כל שתבקשי אני אתן </l>
+          <l>אתן לך מעצמי את חיי בשביל חייך </l>
+          <l>האדם שבי נברא רק בצלמך מתוך הכן </l>
+          <l>אז אמרי לי כן </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בין כל המילים האלה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

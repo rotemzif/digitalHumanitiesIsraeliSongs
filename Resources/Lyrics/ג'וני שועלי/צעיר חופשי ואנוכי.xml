@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צעיר חופשי ואנוכי</title>
+        <singer classification="unknown">ג וני שועלי</singer>
+        <writer>ג'וני שועלי</writer>
+        <composer>ג'וני שועלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צעיר חופשי ואנוכי</head>
+        <lg number="1" type="stanza">
+          <l>זה כמה זמן שאת בוחנת אותי, </l>
+          <l>מתעלמת מכל המתיחות שסביבי.</l>
+          <l>זה כמה זמן שאת רואה רק את עצמך,</l>
+          <l>מתעלמת ממני וכל מי שסביבך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היום כשתיפגעי בעקרונות שלי,</l>
+          <l>היום כשתסדקי את השריון שלי.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>להיות חופשי צעיר ואנוכי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זה כמה זמן שלך אין רגע איתי, </l>
+          <l>מתעלמת ממני וכל מי שסביבי.</l>
+          <l>זה כמה זמן שאת רוצה רק לצאת, </l>
+          <l>כאילו כל מה שחשוב זה רק איך את נראית.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היום כשתספרי  ת'מטלות שלי,</l>
+          <l>היום כשתספרי את התכונות שלי.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>להיות חופשי צעיר ואנוכי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

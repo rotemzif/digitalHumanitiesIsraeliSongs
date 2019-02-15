@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו כולם 2</title>
+        <singer classification="female singer">רונית רולנד</singer>
+        <writer>רונית רולנד</writer>
+        <composer>רונית רולנד</composer>
+        <album>הערות שוליים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו כולם</head>
+        <lg number="1" type="stanza">
+          <l>רק כשמתקרבים רואים את העיניים בלי חשש</l>
+          <l>ואין דרך חזרה מהאין סוף הזה</l>
+          <l>מתכרבלים ומתכסים</l>
+          <l>סדינים לבנים וחלונות אדומים</l>
+          <l>ומתרגשים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שלא נפסיק</l>
+          <l>שלא נהיה כמו כולם</l>
+          <l>כועסים ושותקים</l>
+          <l>וחוזרים ומתקשרים</l>
+          <l>אבודים ומאבדים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וקנינו צבעונים בכל מיני צבעים</l>
+          <l>לקשט את בתינו הזמני</l>
+          <l>ויש זמנים יותר טובים ואלה שפחות</l>
+          <l>ואת יפה ומרגשת כמו הרוח</l>
+          <l>וצוחקים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רק כשמתקרבים רואים את העיניים בלי חשש</l>
+          <l>ואין דרך חזרה מהאין סוף הזה</l>
+          <l>חלומות חוזרים אלי במין דמדום כזה</l>
+          <l>מתערטלים ומתלבשים</l>
+          <l>בניינים אפורים</l>
+          <l>וחבלים מתוחים</l>
+          <l>ומשתנים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שלא נפסיק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פיקניק 3</title>
+        <singer classification="male singer">טרוי</singer>
+        <writer>טרוי</writer>
+        <composer>טרוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פיקניק</head>
+        <lg number="1" type="stanza">
+          <l>בוא אל הארץ היפה</l>
+          <l>תישאר</l>
+          <l>ותארח לי חברה</l>
+          <l>תביא את כל חבריך</l>
+          <l>את אשתך</l>
+          <l>את ילדך</l>
+          <l>ותפרוס את המפה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זהו שביל שמגיע עד הים</l>
+          <l>נתיישב שם תחת עץ ירוק</l>
+          <l>מרחוק עמודי חשמל נופלים</l>
+          <l>מכוניות פולטות רק גז ירוק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בוא אל הטבע</l>
+          <l>בוא אל הטבע</l>
+          <l>תכבה את האורות</l>
+          <l>ותראה את הזריחה</l>
+          <l>לא צריך לשתות יותר מדי קפה</l>
+          <l>בשביל לראות דבר יפה תביט בעצמך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זהו שביל שמגיע עד הים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

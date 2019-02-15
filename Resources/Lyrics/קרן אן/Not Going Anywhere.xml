@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Not Going Anywhere</title>
+        <singer classification="female singer">קרן אן</singer>
+        <writer>קרן אן</writer>
+        <composer>קרן אן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Not Going Anywhere</head>
+        <lg number="1" type="stanza">
+          <l>This is why I always wonder, I'm a pond full of regrets</l>
+          <l>I always try to not remember rather than forget</l>
+          <l>This is why I always whisper when vagabonds are passing by</l>
+          <l>I tend to keep myself away from their goodbyes</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>Tide will rise and fall along the bay</l>
+          <l>And I'm not going anywhere, I'm not going anywhere</l>
+          <l>People come and go and walk away</l>
+          <l>But I'm not going anywhere, I'm not going anywhere</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>This is why I always whisper, I'm a river with a spell</l>
+          <l>I like to hear but not to listen, I like to say but not to tell</l>
+          <l>This is why I always wonder, there's nothing new under the sun</l>
+          <l>I won't go anywhere so give my love to everyone</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>Tide will rise and fall along the bay</l>
+          <l>And I'm not going anywhere, I'm not going anywhere</l>
+          <l>People come and go and walk away</l>
+          <l>But I'm not going anywhere, I'm not going anywhere</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

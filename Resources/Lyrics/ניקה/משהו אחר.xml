@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משהו אחר 2</title>
+        <singer classification="female singer">ניקה</singer>
+        <writer>הנרי</writer>
+        <composer>הנרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משהו אחר</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>משהו אחר עובר עלי פתאום זה מסתדר לי</l>
+          <l>משהו אחר עובר עלי פתאום זה מתחבר לי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הכל נראה כל כך שונה מאז שאני איתך</l>
+          <l>כאילו דלת סגורה נפתחה בפני כשהיכרתי אותך</l>
+          <l>איך לא ראיתי? וכל הזמן זה היה לי מול העיניים...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה לא יודע מה עובר עלי מאז שדיברנו</l>
+          <l>אתה לא יודע מה עובר עלי</l>
+          <l>מאז שדיברנו, אז כשהיכרנו</l>
+          <l>אז כשרציתי עוד, רציתי מאוד, רציתי עוד ממך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>משהו אחר עובר עלי פתאום זה מסתדר לי</l>
+          <l>משהו אחר עובר עלי פתאום זה מתחבר לי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הכל מרגיש כל כך נכון ואמיתי איתך</l>
+          <l>כאילו שמש קטנה מאירה מעלי כשאני איתך</l>
+          <l>איך לא ראיתי</l>
+          <l>וכל הזמן זה היה לי מול העיניים...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אתה לא יודע מה עובר עלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

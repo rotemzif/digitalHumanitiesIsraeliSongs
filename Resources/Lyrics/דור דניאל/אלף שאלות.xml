@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלף שאלות</title>
+        <singer classification="unknown">דור דניאל</singer>
+        <writer>דור דניאל</writer>
+        <composer>דור דניאל</composer>
+        <album>עשרה חודשים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלף שאלות</head>
+        <lg number="1" type="stanza">
+          <l>לבד לומד את הדרך</l>
+          <l>תפילות שומרות על גופי</l>
+          <l>כבר לא הילד הנושא עיניו לתכלת</l>
+          <l>לא שואל מי איתי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שירים מילים שכתבתי</l>
+          <l>דמעות קופאות באוויר</l>
+          <l>גם אם נפלתי, על כל פחדי שמרתי</l>
+          <l>מנקה את נשמתי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יש לי אלף שאלות</l>
+          <l>מזוודות של געגוע</l>
+          <l>מרחוק מושטת יד</l>
+          <l>לא מכיר כבר אף אחד</l>
+          <l>לחבק ולא לברוח</l>
+          <l>רק לעוף הכי גבוה שאפשר</l>
+          <l>לראות את המחר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לחשוף סודות ששמרתי</l>
+          <l>הכל כתוב על הקיר</l>
+          <l>לראות את השמש ולא לבכות את אמש</l>
+          <l>רק לנשום את האוויר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יש לי אלף שאלות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

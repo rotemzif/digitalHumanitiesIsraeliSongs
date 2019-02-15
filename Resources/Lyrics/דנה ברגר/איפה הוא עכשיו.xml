@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איפה הוא עכשיו</title>
+        <singer classification="female singer">דנה ברגר</singer>
+        <writer>דן תורן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איפה הוא עכשיו</head>
+        <lg number="1" type="stanza">
+          <l>הטיח מתקלף על הקיר שאת נשענת</l>
+          <l>המסיבה הזאת נוסעת</l>
+          <l>רק את נשארת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פתאום הוא בא קרוב</l>
+          <l>הוא מודיע לך - הולכים</l>
+          <l>הוא מושך אותך משם</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איפה הוא עכשיו מתוק ומתרגש</l>
+          <l>את זוכרת שאמרת</l>
+          <l>מה שעכשיו זה מה שיש</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>האוטו מזמזם אל תוך הערפל</l>
+          <l>ומה שלא תגידי</l>
+          <l>זה בוער ומחשמל</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ומה אתה אומר</l>
+          <l>שנגנוב ככר לחם</l>
+          <l>נאכל אותו לוהט</l>
+          <l>שתכאב לנו הבטן</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>איפה הוא עכשיו מתוק ומתרגש</l>
+          <l>את זוכרת שאמרת</l>
+          <l>מה שעכשיו זה מה שיש</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

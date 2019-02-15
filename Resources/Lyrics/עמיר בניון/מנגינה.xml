@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מנגינה 16</title>
+        <singer classification="male singer">עמיר בניון</singer>
+        <writer>עמיר בניון</writer>
+        <composer>עמיר בניון</composer>
+        <album>שלכת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מנגינה</head>
+        <lg number="1" type="stanza">
+          <l>אם לא סגרה עלי דרכי</l>
+          <l>ואם אמת הוא בנפשי</l>
+          <l>על כל הרגעים תודה, אני שומע מנגינה</l>
+          <l>היא מתבהרת עד מתוך העננה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואת שבאת אל תוך חיי</l>
+          <l>אני לא יודע מאיין</l>
+          <l>השקט הכובל כאילו מה מינה בינתיים</l>
+          <l>עד שבאת אל תוך חיי לא היה לך לאן לברוח</l>
+          <l>את הטעויות שלי לעולם לא יתנו לך לשכוח</l>
+          <l>עד שתשוב אלי המנגינה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם לא סגרה עלי דרכי</l>
+          <l>ואם אמת הוא בנפשי</l>
+          <l>על כל הרגעים תודה, על כל מילה וכל בריאה</l>
+          <l>על נפילה והמראה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ועד שבאת אל תוך חיי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

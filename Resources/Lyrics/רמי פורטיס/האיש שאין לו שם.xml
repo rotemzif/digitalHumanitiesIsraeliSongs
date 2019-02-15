@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האיש שאין לו שם</title>
+        <singer classification="male singer">רמי פורטיס</singer>
+        <writer>רמי פורטיס</writer>
+        <composer>ברי סחרוף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האיש שאין לו שם</head>
+        <lg number="1" type="stanza">
+          <l>נוסע שעובר בגשם,</l>
+          <l>חולף, ולא משאיר עקבות</l>
+          <l>ויותר אפור ממזג האויר</l>
+          <l>תלוי כמו דג והפוך כמו צב,</l>
+          <l>ומוזר ממה שמכירים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ללא גוף וללא זהות, האיש שאין לו שם</l>
+          <l>לא מכאן ומחוץ לזמן, האיש שאין לו שם</l>
+          <l>רק דרכים קבועות ושנים ארוכות, לצעוד</l>
+          <l>מקומות ישנים, אנשים חדשים, לזכור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מופיע והולך בגשם,</l>
+          <l>חולף, תייר ללא דרישות</l>
+          <l>וקצת יותר בהיר מחיוורון</l>
+          <l>חלול כמו עץ ושקוף כל כך,</l>
+          <l>ומוזר ממה שמבינים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ללא גוף וללא זהות, האיש שאין לו שם</l>
+          <l>לא מכאן ומחוץ לזמן, האיש שאין לו שם</l>
+          <l>רק דרכים קבועות ושנים ארוכות, לצעוד</l>
+          <l>מקומות ישנים, אנשים חדשים, לזכור</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רק דרכים קבועות ושנים ארוכות, לצעוד</l>
+          <l>מקומות ישנים, אנשים חדשים, להיות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

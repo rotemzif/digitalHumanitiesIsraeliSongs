@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הירח חצי חצי</title>
+        <singer classification="unknown">דיאנה גולבי</singer>
+        <writer>יואב אסינג</writer>
+        <composer>יואב אסינג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הירח חצי חצי</head>
+        <lg number="1" type="stanza">
+          <l>הירח חצי חצי</l>
+          <l>לידו כוכב נופל</l>
+          <l>חצי אור - וחצי חושך</l>
+          <l>באוקיאנוס האפל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גם אני בוחר/ת כמוהו</l>
+          <l>בין הטוב ובין הרע</l>
+          <l>מן הבכי והצער</l>
+          <l>יש עוד דרך חזרה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עף למעלה בשמיים</l>
+          <l>והכל הכל רואה</l>
+          <l>את היופי את הפחד</l>
+          <l>אט לאט הוא מתמלא</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גם אני בוחר/ת כמוהו</l>
+          <l>בין הטוב ובין הרע</l>
+          <l>מן הבכי והצער</l>
+          <l>יש עוד דרך חזרה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Beautiful 4</title>
+        <singer classification="unknown">דודו אהרון</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>חריסטוס דאנטיס</composer>
+        <album>אין כמו אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Beautiful</head>
+        <lg number="1" type="stanza">
+          <l>אמרת זה עושה לך טוב,</l>
+          <l>כשאת לרחוב יורדת</l>
+          <l>עוצרת נשימה, כל כך מיוחדת</l>
+          <l>תני רק להבין, לכל הרוחות מדוע</l>
+          <l>את שוב לבד יוצאת, לסיבוב קבוע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בקפה תופסת לך מקום,</l>
+          <l>מזמינה לך את הנס</l>
+          <l>החיוך שלך מלא בחום</l>
+          <l>אני מביט בך ונמס</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל החתיכים לך עושים עיניים,</l>
+          <l>אך בלב שלך יש רק אחד</l>
+          <l>שרואה אותך ומוחא כפיים,</l>
+          <l>חי בסרט ואומר שאת.... Beautiful</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מי זה האיש ההוא,</l>
+          <l>אולי הוא לא נורמלי</l>
+          <l>ואם שואלים אותך,</l>
+          <l>תגידי זה לא אכפת לי</l>
+          <l>תגידי שזה אני, ההוא שחולם עלייך</l>
+          <l>אני מאבד שליטה,</l>
+          <l>למראה פנייך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בקפה תופסת לך מקום,</l>
+          <l>מזמינה לך את הנס</l>
+          <l>החיוך שלך מלא בחום</l>
+          <l>אני מביט בך ונמס</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כל החתיכים לך עושים עיניים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

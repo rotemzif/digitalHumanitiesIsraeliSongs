@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיהיה 9</title>
+        <singer classification="band">צמד רוקט</singer>
+        <writer>אבי עברי</writer>
+        <composer>אבי עברי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיהיה</head>
+        <lg number="1" type="stanza">
+          <l>שיהיה, אף אחד לא יודע איך</l>
+          <l>שיהיה, כדומייה את חשכה</l>
+          <l>שיהיה, אף אחד לא שומע מה</l>
+          <l>שיהיה, את יורדת דומא</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תגידי לי מה קורה איתך</l>
+          <l>בשמיים, ווא או או</l>
+          <l>תגידי לי מה קורה איתך, היום</l>
+          <l>תגידי לי מה קורה איתך,</l>
+          <l>ובינתיים, ווא או או</l>
+          <l>תגידי לי מה קורה איתך, היום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שיהיה, בדרכי שעול ירדת</l>
+          <l>שיהיה, אלטף בכסות ידייך</l>
+          <l>שיהיה, בחברת מלאך המוות איך</l>
+          <l>שיהיה, מתוך כוכב תפלי אלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תגידי לי מה קורה איתך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שיהיה, אך אחד לא יודע איך</l>
+          <l>שיהיה, תגידי את</l>
+          <l>תגידי ביי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

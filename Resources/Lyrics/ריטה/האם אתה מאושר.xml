@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האם אתה מאושר</title>
+        <singer classification="female singer">ריטה</singer>
+        <writer>אריאנה הרן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האם אתה מאושר</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>האם אתה מאושר?</l>
+          <l>האם את מאושרת?</l>
+          <l>יום רודף עוד יום</l>
+          <l>ושנה חמישית עוברת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לפעמים קצת מאושר</l>
+          <l>לפעמים הרבה מאושרת</l>
+          <l>האם חשבנו שכך יהיה?</l>
+          <l>האם חשבנו אחרת?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דמך התערב בדמי</l>
+          <l>ואני בחלומך עוברת</l>
+          <l>איפה אתה מתחיל?</l>
+          <l>ואיפה אני נגמרת?</l>
+          <l>ואיך זה שהמלאכים, המלאכים הטובים</l>
+          <l>הביאו אותך אלי</l>
+          <l>מארץ כל כך אחרת?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>האם אתה מאושר?</l>
+          <l>האם את מאושרת?</l>
+          <l>יום רודף עוד יום</l>
+          <l>ושנה חמישית עוברת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד צהריים</title>
+        <singer classification="unknown">לירז צ רכי</singer>
+        <writer>זיו קוז'וקרו</writer>
+        <composer>זיו קוז'וקרו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד צהריים</head>
+        <lg number="1" type="stanza">
+          <l>עוד צהריים נמסו אל השמש</l>
+          <l>והסוד שבחול נשטף לו אל הים.</l>
+          <l>בשלווה המונחת בין שמים וארץ</l>
+          <l>ממשיכה לחפש את הקסם,</l>
+          <l>מספרים שהוא כאן.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בעולם הזה יש עוד מה לראות</l>
+          <l>זמן חדש לי מגלה עכשיו,</l>
+          <l>פה מותר עדיין סתם לאהוב</l>
+          <l>גם אם הנוף השתנה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>על הגג המפויח האויר עוד מלוח,</l>
+          <l>והרוח שבאה למים מספרת שכאן...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בעולם הזה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

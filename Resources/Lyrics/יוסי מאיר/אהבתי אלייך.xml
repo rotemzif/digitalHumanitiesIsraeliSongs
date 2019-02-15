@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבתי אלייך</title>
+        <singer classification="unknown">יוסי מאיר</singer>
+        <writer>יוני רועה</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבתי אלייך</head>
+        <lg number="1" type="stanza">
+          <l>מה לא אמרתי כבר</l>
+          <l>מה לא ביקשתי </l>
+          <l>כל שירי ומהותי הולכים איתך בדרך</l>
+          <l>אני אוהב אותך כמו שאף פעם לא אהבתי</l>
+          <l>אני מרגיש איתך אחרת</l>
+          <l>רק אל תגידי שזה פשוט נגמר </l>
+          <l>ואל תגידי שאת עוזבת </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם אהבה יש בעולם</l>
+          <l>ואהבתי אלייך</l>
+          <l>אם אהבה היא רגש תם </l>
+          <l>אל תוותרי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה לא אמרתי לך </l>
+          <l>מה לא חשבתי</l>
+          <l>כל רגשותי ניגוני יוצאים מתוך השקט</l>
+          <l>אני מכיר אותך כמו שאף פעם לא הכרתי </l>
+          <l>אני עטוף איתך בנפש</l>
+          <l>רק אל תגידי שזה פשוט עבר</l>
+          <l>ואל תגידי שאת הולכת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם אהבה יש בעולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

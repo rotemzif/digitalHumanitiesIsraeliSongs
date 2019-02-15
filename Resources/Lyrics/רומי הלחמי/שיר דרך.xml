@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר דרך 4</title>
+        <singer classification="female singer">רומי הלחמי</singer>
+        <writer>יהודה בן נחום</writer>
+        <composer>חיים לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר דרך</head>
+        <lg number="1" type="stanza">
+          <l>משכתי עד עכשיו</l>
+          <l>הדרך ארוכה ומפותלת</l>
+          <l>מימין פריחת הרדוף</l>
+          <l>משמאל חמוקי הרים</l>
+          <l>למעלה הירח הזקן</l>
+          <l>מציץ מבין העננים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ומאחור צפיות ואכזבות</l>
+          <l>ומתחת המתנה</l>
+          <l>פרשת דרכים מפתה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המשיכי לחייך</title>
+        <singer classification="male singer">עופר לוי</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>לא ידוע</composer>
+        <album>ציפור השמש</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המשיכי לחייך</head>
+        <lg number="1" type="stanza">
+          <l>יש בך את התכונה של חום והבנה</l>
+          <l>אין תואר שאוכל לתת לך</l>
+          <l>יש בך את התכונה בתוך הנשמה</l>
+          <l>לי תתני את מה שאין לך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תסגרי ליבך, המשיכי לחייך</l>
+          <l>יהיו ימים טובים מאלה</l>
+          <l>אם לפעמים קשה , אני יודע ש...</l>
+          <l>האל אותנו מנסה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את דואגת, ועוזרת</l>
+          <l>את אחת, אין אחרת</l>
+          <l>ונותנת מעצמך כל רגע</l>
+          <l>את כולי, אני אתן לך</l>
+          <l>ואדאג למה שאין לך</l>
+          <l>זה הקצת אשר אתן לך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תסגרי ליבך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יש בך את התכונה של חום והבנה</l>
+          <l>אין תואר שאוכל לתת לך</l>
+          <l>יש בך את התכונה מתוך הנשמה</l>
+          <l>לי תתני את מה שאין לך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אל תסגרי ליבך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

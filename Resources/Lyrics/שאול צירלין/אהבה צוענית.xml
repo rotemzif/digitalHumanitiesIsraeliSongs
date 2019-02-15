@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה צוענית 2</title>
+        <singer classification="male singer">שאול צירלין</singer>
+        <writer>שאול צירלין</writer>
+        <composer>שאול צירלין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה צוענית</head>
+        <lg number="1" type="stanza">
+          <l>יתכן וזה יקרה לנו, כי שנינו עוד חיים</l>
+          <l>אם לא תחליטי על הדרך, שאת רק עם אלוהים</l>
+          <l>כי לא אוכל אותך לקחת, ממקומות מסוימים</l>
+          <l>לא יתחבר לנו היחד, הבחוץ, עם הבפנים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תגעי במה שאת אוהבת, ואני אגע בך גם</l>
+          <l>אמרי את מה שאת חושבת, על דרכו של העולם</l>
+          <l>אם אהבה את מחפשת, תקלפי עצמך עכשיו</l>
+          <l>מאלוהים, הו.. אלוהים, ואז נאהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נכוון אל השמים, ונאהב את הברירות</l>
+          <l>גם ימתקו לנו המים, שנגנוב מבארות</l>
+          <l>אל תכנסי אלי לחדר, אם לא בחרת להיות אתי</l>
+          <l>גם אלוהים, כמו בגדיך, לא יכנסו למיטתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תגעי במה שאת אוהבת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תבואי אליי</title>
+        <singer classification="unknown">מונסון</singer>
+        <writer>מיכאל וקנין</writer>
+        <composer>מיכאל וקנין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תבואי אליי</head>
+        <lg number="1" type="stanza">
+          <l>עובר עוד יום ליד הגשר </l>
+          <l>עיר זרה יש בה אורות אחרים </l>
+          <l>אני יודע שאהבת אותי </l>
+          <l>יותר מכל אחרת </l>
+          <l>אז בימים הקרים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני מרגיש שזה כדאי </l>
+          <l>חשבתי שעכשיו אולי </l>
+          <l>תבואי אלי תבואי אלי </l>
+          <l>תבואי אלי תבואי אלי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יכול להיות כל כך מדהים </l>
+          <l>אולי רק פעם בחיים </l>
+          <l>תבואי אלי תבואי אלי </l>
+          <l>תבואי אלי תבואי אלי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ולפעמים קשה לשכוח </l>
+          <l>עיר זרה כל האורות משקרים </l>
+          <l>אני מרגיש שאת קרובה אלי </l>
+          <l>יפה ומאושרת </l>
+          <l>כמו בימים הקרים </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני מרגיש שזה כדאי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

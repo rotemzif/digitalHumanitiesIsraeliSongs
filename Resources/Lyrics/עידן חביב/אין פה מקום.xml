@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין פה מקום</title>
+        <singer classification="unknown">עידן חביב</singer>
+        <writer>עידן חביב</writer>
+        <composer>עידן חביב</composer>
+        <album>כל פעם קצת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין פה מקום</head>
+        <lg number="1" type="stanza">
+          <l>נשבע שאלחם בכם כמו משוגע קשה </l>
+          <l>בכל כוחי ארוץ אליכם ואין בי רחמים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי אין פה מקום </l>
+          <l>באמת לשיר באמת לחלום </l>
+          <l>ברחובות הצרים חי קבצן עם נסיכה </l>
+          <l>חלומות גדולים עולמות שונים </l>
+          <l>ורק משתי מילים אני הכי פוחד: </l>
+          <l>הראשונה היא "שם" השנייה "נהרג" </l>
+          <l>כמו כוכב שמתאבד ביום </l>
+          <l>לא תראו אותי נופל פתאום </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נשבע אני אלחם בכם כמו משוגע קשה </l>
+          <l>כל אדם זה עולם שלם ולי כבר אין מה להפסיד </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי אין פה מקום... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אל תשכח את הכל אל תיתן לה ליפול מידך </l>
+          <l>תחפש הפוגה התנועה פה כבדה בשבילך </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי אין פה מקום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

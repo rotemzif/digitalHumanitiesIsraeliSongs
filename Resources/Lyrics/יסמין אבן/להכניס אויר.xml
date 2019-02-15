@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>להכניס אויר</title>
+        <singer classification="female singer">יסמין אבן</singer>
+        <writer>חנה גולדברג</writer>
+        <composer>יסמין אבן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>להכניס אויר</head>
+        <lg number="1" type="stanza">
+          <l>השעון הצביע עלי במחוגים ורודים</l>
+          <l>בשביל מה לשאוף אם תכף אני נושפת?</l>
+          <l>בשביל מה להכניס אם תכף אני מוציאה?</l>
+          <l>בשביל מה להיוולד אם תכף אני מתה?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>להכניס אויר, להוציא אויר...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ניגשתי לחלון הפונה לבן יהודה</l>
+          <l>פתחתי אותו, שייכנס קצת אויר</l>
+          <l>קור פברוארי התגנב פנימה</l>
+          <l>והחדר התמלא מוזיקה עצבנית</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>להכניס אויר, להוציא אויר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שומעת צעדים</title>
+        <singer classification="female singer">קרן לוי</singer>
+        <writer>ג'קי אלקיים</writer>
+        <composer>ג'קי אלקיים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שומעת צעדים</head>
+        <lg number="1" type="stanza">
+          <l>אור חדש מאיר היום עם אלף מנגינות</l>
+          <l>אני יודעת יום יבוא התגשמו כל התקוות</l>
+          <l>לא חשוב בכלל בכלל אני אסתדר</l>
+          <l>בסוף הדרך אני יודעת אני אתגבר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני שומעת צעדים של אהובי אשר חוזר</l>
+          <l>אני שומעת צעדים וליבי ליבי בוער</l>
+          <l>אני שומעת צעדים של אהובי אשר חוזר</l>
+          <l>אני שומעת צעדים וליבי בוער</l>
+          <l>ליבי בוער ליבי בוער ליבי בוער שאתה חוזר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה זמן עוד אחכה עד שאשמע קולך</l>
+          <l>כמה זמן עוד אחכה עד שאראה אותך</l>
+          <l>גם ביום וגם בליל אחכה ערה</l>
+          <l>אני רוצה אותך בחזרה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני שומעת צעדים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

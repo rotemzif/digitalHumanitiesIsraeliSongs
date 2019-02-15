@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אולי אתה תגיד לי</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>יגאל בשן</writer>
+        <composer>יגאל בשן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אולי אתה תגיד לי</head>
+        <lg number="1" type="stanza">
+          <l>אולי אתה תגיד לי</l>
+          <l>מה יהיה הסוף</l>
+          <l>אני כבר לא יכול להאמין</l>
+          <l>שיעזור לי אלוהים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אולי אתה תגיד לי</l>
+          <l>לאן פונים מחר</l>
+          <l>לאן כל הדרכים שם מובילות</l>
+          <l>ואיפה זה תמיד נגמר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עוד מנגינה עוברת</l>
+          <l>ואני רק שר</l>
+          <l>עוד מנגינה חוזרת</l>
+          <l>ואני נשאר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני רושם עוד פרק</l>
+          <l>עמוק בתוך הלב</l>
+          <l>לפעמים זה קל לשיר איתו</l>
+          <l>ולפעמים זה קצת כואב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אולי אתה תגיד</l>
+          <l>איפה התשובות</l>
+          <l>אני שואל אותך רק שאלות</l>
+          <l>אחת אחת יותר קשות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עוד מנגינה עוברת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

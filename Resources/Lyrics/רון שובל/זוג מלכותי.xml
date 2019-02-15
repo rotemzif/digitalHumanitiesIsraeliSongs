@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זוג מלכותי</title>
+        <singer classification="male singer">רון שובל</singer>
+        <writer>רון שובל</writer>
+        <composer>רון שובל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זוג מלכותי</head>
+        <lg number="1" type="stanza">
+          <l>כבר מהרגע שאותך פגשתי</l>
+          <l>תהיי מלכה שלי מייד הרגשתי</l>
+          <l>ובכל לילה רק אותך חלמתי</l>
+          <l>כתבתי שיר אהבה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הלב שלי תמיד חושב עלייך</l>
+          <l>רואה את המבט שבעינייך</l>
+          <l>רוצה רק לאחוז בשתי ידייך</l>
+          <l>ורק לתת נשיקה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>קורא לך אהובה בואי איתי</l>
+          <l>אני ואת עכשיו זוג מלכותי</l>
+          <l>בארמון הזה מלך ומלכה</l>
+          <l>אוהבים פה מהנשמה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עכשיו כשאת פה לצידי עומדת</l>
+          <l>ובשמלת מלכות יפה זוהרת</l>
+          <l>כולם לך מריעים שאת עוברת</l>
+          <l>פשוט סיפור אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>קורא לך אהובה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

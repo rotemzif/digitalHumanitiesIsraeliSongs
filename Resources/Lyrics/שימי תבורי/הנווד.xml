@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הנווד</title>
+        <singer classification="male singer">שימי תבורי</singer>
+        <writer>איזי מן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הנווד</head>
+        <lg number="1" type="stanza">
+          <l>כשהאישה נושמת</l>
+          <l>מנגינה</l>
+          <l>אני עובר בחושך, על כתפיצינה</l>
+          <l>ובליבי גיטרה</l>
+          <l>צליל פרוע חרש שרה</l>
+          <l>ומיתרי תמימות בקו חיי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בגבונדו בגבונדו</l>
+          <l>יש מלאך מטייל איתך</l>
+          <l>בגבונדו בגבונדו</l>
+          <l>והחופש עוד בליבך</l>
+          <l>אך אי אפשר לחיות בדד</l>
+          <l>בלי אהבה למות</l>
+          <l>בגבונדו בגבונדו</l>
+          <l>אל הדרך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רגל מושכות קדימה</l>
+          <l>עד אין סוף</l>
+          <l>את כל העיר חציתי כל סימטה ורחוב</l>
+          <l>כשנערה עם פרח</l>
+          <l>תתייצב בצד הדרך</l>
+          <l>אפסיק לעד לנדוד בחלומות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בגבונדו בגבונדו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

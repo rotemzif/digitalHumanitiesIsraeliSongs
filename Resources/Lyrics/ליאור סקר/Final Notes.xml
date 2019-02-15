@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Final Notes</title>
+        <singer classification="male singer">ליאור סקר</singer>
+        <writer>ליאור סקר</writer>
+        <composer>ליאור סקר</composer>
+        <album>Happy Ends</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Final Notes</head>
+        <lg number="1" type="stanza">
+          <l>All these drivers pass me by </l>
+          <l>rushing on , I do my best to catch their eye. </l>
+          <l>All my clothes are soaking wet </l>
+          <l>Raindrops cover my guitar </l>
+          <l>Is it too late </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>I've been so lost </l>
+          <l>So gone , almost </l>
+          <l>Thought I </l>
+          <l>Could Die</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

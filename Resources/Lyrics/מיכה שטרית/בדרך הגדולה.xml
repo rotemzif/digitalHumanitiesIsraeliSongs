@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בדרך הגדולה 3</title>
+        <singer classification="male singer">מיכה שטרית</singer>
+        <writer>נתן אלתרמן</writer>
+        <composer>missing</composer>
+        <album>מיכה שטרית</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בדרך הגדולה</head>
+        <lg number="1" type="stanza">
+          <l>ענבלים במרעה ושריקות </l>
+          <l>ושדה בזהב עד ערב. </l>
+          <l>דומיית בארות ירוקות, </l>
+          <l>מרחבים שלי ודרך. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>העצים שעלו מן הטל, </l>
+          <l>נוצצים כזכוכית ומתכת. </l>
+          <l>להביט לא אחדל ולנשום לא אחדל </l>
+          <l>ואמות ואוסיף ללכת.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

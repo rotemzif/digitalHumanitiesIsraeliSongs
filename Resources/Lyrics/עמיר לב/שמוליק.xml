@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמוליק</title>
+        <singer classification="male singer">עמיר לב</singer>
+        <writer>עמיר לב</writer>
+        <composer>עמיר לב</composer>
+        <album>לפעמים אני מאושר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמוליק</head>
+        <lg number="1" type="stanza">
+          <l>ורד אהבה אותך היינו ילדים</l>
+          <l>דפיקות לב במכולת שנפגשים</l>
+          <l>היא חתכה את הצמות</l>
+          <l>נשארו קוצים</l>
+          <l>יום אחרי שסיפרת שאתה אוהב בנים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בחדר על הגג הייתי בא לבקר</l>
+          <l>תמיד קודם תאכל ואחר כך נדבר</l>
+          <l>החלפת לי את האולסטאר למגפי בוקרים</l>
+          <l>זה מתאים לך אמרת</l>
+          <l>תכתוב שירים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אתה נשאר לשכב אני יוצא אל העיר</l>
+          <l>אתה כותב תשמור את מי שאני מכיר</l>
+          <l>יש לך מפתח</l>
+          <l>תיקח את הכלבים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בלוס אנג'לס היית מעצב בגדים</l>
+          <l>הרים של סיליקון דוגמניות עם קרם</l>
+          <l>נבהלת מהחום מהכאב שלא עובר</l>
+          <l>ולילה אחד משוגע שכל הזמן חוזר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אתה נשאר לשכב...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כולם באים כולם קיבלו המון</l>
+          <l>לנגב את הזעה לסדר את הסלון</l>
+          <l>ורד עם מגש מחלקת תה צמחים</l>
+          <l>ואני עומד בצד עם שני כלבים</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אתה נשאר לשכב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

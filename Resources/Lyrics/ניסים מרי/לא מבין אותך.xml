@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא מבין אותך</title>
+        <singer classification="male singer">ניסים מרי</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא מבין אותך</head>
+        <lg number="1" type="stanza">
+          <l>הכוכב שבשמיים כבר מזמן עצם עיניים למעלה</l>
+          <l>ואני נושך שפתיים בעקיץ חולם עלייך הלילה</l>
+          <l>באביב ובשלכת את אלי היית נמשכת כל רגע</l>
+          <l>ואתמול בסוף הערב את יצאת לך אל הדרך לפתע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא לא מבין אותך איך פתאום שכחת אותנו</l>
+          <l>איך שבועת עולם נשבענו</l>
+          <l>לא לא מבין אותך איך פתאום שכחת אותנו</l>
+          <l>בשבועת עולם נגענו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את השארת לי למזכרת חיוכים בתוך מסגרת של שנינו</l>
+          <l>לא אמרת אם את חוזרת או בכלל את מוותרת עלינו</l>
+          <l>ואני כמו הרוח מחפש מבלי לנוח ידייך</l>
+          <l>המחר אינו בטוח אך ליבי נוטר פתוח אלייך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא לא מבין אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

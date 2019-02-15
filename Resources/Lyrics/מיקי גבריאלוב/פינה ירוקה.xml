@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פינה ירוקה</title>
+        <singer classification="male singer">מיקי גבריאלוב</singer>
+        <writer>רוני סומק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פינה ירוקה</head>
+        <lg number="1" type="stanza">
+          <l>אני לא מבין מה כולם רוצים להיות גון ויין</l>
+          <l>לא מבין לאן כולם יורים</l>
+          <l>לי מקפצונים יש בבטן פרפרים</l>
+          <l>אני פוחד מגוק מרוח ומסתם שוטרים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז רק תשאירו לי פינה לגדל כמה פרחים</l>
+          <l>להרגיש את הירוק את האישה והילדים</l>
+          <l>רק תשאירו לי פינה לשתול כמה עצים</l>
+          <l>להרגיש את הירוק את האישה והילדים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני לא מבין מה כולם חולמים על מרלין מונרו</l>
+          <l>מה כל כך רע בשיער אסוף וקוקיות</l>
+          <l>אני אוהב אותן כשהן חוזרות מהקניות</l>
+          <l>עם הפלפל עם חסה וסל עגבניות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז רק תשאירו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אנשים שוכחים שפעם חפרו עם טוריה</l>
+          <l>ובלי עבודה יהיה לנו פה עסק ביש</l>
+          <l>אני לא מבין למה בזיעת הפשע נוכל לחם</l>
+          <l>ובסוף כל עיסקה משלשלים לכיס עוד בקשיש</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אז רק תשאירו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מעגל פירות הדר</title>
+        <singer classification="unknown">דורין כהן</singer>
+        <writer>עוזי בינדר</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מעגל פירות הדר</head>
+        <lg number="1" type="stanza">
+          <l>במעגל רוקדים </l>
+          <l>פירות הדר רבים</l>
+          <l>אשכוליות ולימונים</l>
+          <l>קלמנטינות תפוזים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בצהוב, בכתום</l>
+          <l>הפרדס חוגג היום,</l>
+          <l>בכתום, בצהוב</l>
+          <l>פרי הדר טעים וטוב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>במעגל רוקדים</l>
+          <l>סיבוב מסתובבים</l>
+          <l>קפיצה קטנה קופצים</l>
+          <l>וכפיים מוחאים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בצהוב, בכתום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

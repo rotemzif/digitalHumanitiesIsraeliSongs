@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כוכב אחר</title>
+        <singer classification="male singer">שם טוב לוי</singer>
+        <writer>צפנת ירון</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כוכב אחר</head>
+        <lg number="1" type="stanza">
+          <l>כוכב אחר מאיר בלילה</l>
+          <l>שדות זהב זוהרים</l>
+          <l>עולם אחר ממנו באתי</l>
+          <l>עולם קסום והרים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רציתי כל כך להיות שייך</l>
+          <l>אבל הם אומרים לך מכאן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני ואת יושבים בשקט</l>
+          <l>הזמן עצר כמו חלום</l>
+          <l>ואת יפה ואת צוחקת</l>
+          <l>אני אוהב אותך פתאום</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רציתי כל כך להיות שייך</l>
+          <l>אבל הם אומרים למה לך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני רוצה לחזור הביתה</l>
+          <l>אל השדות הזוהרים</l>
+          <l>אל העולם ממנו באתי</l>
+          <l>עולם קסום והרים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רציתי כל כך להיות שייך</l>
+          <l>אבל הם אומרים לך מכאן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

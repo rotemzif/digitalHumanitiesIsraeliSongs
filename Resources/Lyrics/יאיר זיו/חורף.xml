@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חורף 12</title>
+        <singer classification="male singer">יאיר זיו</singer>
+        <writer>ארז ברזוליק</writer>
+        <composer>יאיר זיו</composer>
+        <album>זמן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חורף</head>
+        <lg number="1" type="stanza">
+          <l>הבוקר שאחרי נראה מוזר,</l>
+          <l>הרגשת כמו זיכרון שלא נזכר.</l>
+          <l>במה שכן קרה או לא קרה,</l>
+          <l>לרוב את אחראית וזהירה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בחוץ חולון נראית אותו דבר,</l>
+          <l>הגשם שוב נדחה עד למחר.</l>
+          <l>אבל הלב התחיל להיסחב,</l>
+          <l>לרוב לא מתכננים להתאהב.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>Love love - חושבת רק עליו </l>
+          <l>זה משהו בעיניו </l>
+          <l>משהו עצוב כמו הסתיו love</l>
+          <l>רק שלא יכאב, רק שלא יכאב </l>
+          <l>וכמו תמיד ישאיר אותך לבד.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כולן עוברות שנים של חיפושים,</l>
+          <l>כולן יודעות שאין כמעט נסים. </l>
+          <l>תראי, את עוד שנייה כבר בת שלושים</l>
+          <l>ורוב הבחורים מטושטשים,</l>
+          <l>כן, רוב הבחורים מטושטשים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>Love love ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

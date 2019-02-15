@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה רק נדמה לך</title>
+        <singer classification="male singer">שלומי סרנגה</singer>
+        <writer>שלומי סרנגה</writer>
+        <composer>דיקלה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה רק נדמה לך</head>
+        <lg number="1" type="stanza">
+          <l>זה רק נדמה לך</l>
+          <l>זה רק נדמה שלא בכיתי בגללך</l>
+          <l>זה רק נדמה לך</l>
+          <l>זה רק נדמה שעוד שניה אני הולך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני יודע שיהיה בסדר</l>
+          <l>גם אם היא נמצאת כבר עם מישהו אחר</l>
+          <l>אני שומע סיפורים עליה</l>
+          <l>ומתגעגע, אני לא אשבר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני קורא לך</l>
+          <l>אני קורא ולא שומע ממך</l>
+          <l>אני סולח</l>
+          <l>אני סולח כי אותך אני אוהב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני יודע שיהיה בסדר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בעולם שלך</title>
+        <singer classification="male singer">רגב הוד</singer>
+        <writer>רגב הוד</writer>
+        <composer>עדי לאון</composer>
+        <album>אני לא מלך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בעולם שלך</head>
+        <lg number="1" type="stanza">
+          <l>קחי לך עולם שלם ותחשבי,</l>
+          <l>אם את רוצה להיות חלק מליבי.</l>
+          <l>קחי לך רגע לנסות,</l>
+          <l>אני אוהב ולא יכול עוד לחכות.</l>
+          <l>כי את בשבילי האור בקצה המנהרה.</l>
+          <l>העולם שווה יותר כשאת המטרה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בעולם שלך, אני יודע,</l>
+          <l>שאם יש לי עוד סיכוי הלב עוד השתגע.</l>
+          <l>לא כל הנוצץ בשבילי זהב,</l>
+          <l>אבל אני בעולם שלך מאוהב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קחי לך עולם שלם, אם רק תרצי.</l>
+          <l>הכתובת, שעל הקיר כבר בליבי.</l>
+          <l>רק אתך עוד מרגיש חלום.</l>
+          <l>אני אוהב אותך ומחכה ליום,</l>
+          <l>כי את בשבילי האור בקצה המנהרה.</l>
+          <l>העולם שווה יותר כשאת המטרה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בעולם שלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

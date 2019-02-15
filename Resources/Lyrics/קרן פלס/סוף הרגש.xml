@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סוף הרגש</title>
+        <singer classification="unknown">קרן פלס</singer>
+        <writer>קרן פלס</writer>
+        <composer>קרן פלס</composer>
+        <album>מבול</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סוף הרגש</head>
+        <lg number="1" type="stanza">
+          <l>תן לעצמך לצלול לתהומות בודדים</l>
+          <l>לשעמום קר</l>
+          <l>רחוב מנוכר, אתה טועה</l>
+          <l>או מאבד עניין</l>
+          <l>תן לרוח לפזר מחשבות אפורות</l>
+          <l>זרעים של פחד</l>
+          <l>כאב שאף פעם לא עובר</l>
+          <l>ואהבה גם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סוף הרגש מתקרב מתוך אלפי דמעות</l>
+          <l>הנה זה מגיע, הנה זה בא</l>
+          <l>אפשר לראות</l>
+          <l>לא לעשות עניין מכל הצרות</l>
+          <l>קח לך זמן, לשכב על הגב</l>
+          <l>ולא להיות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תן לעצמך ליפול</l>
+          <l>כי בשביל מה לעמוד עם כל היתר</l>
+          <l>כולם מחכים למשהו, למישהו</l>
+          <l>או למה שלא יבוא כבר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סוף הרגש מתקרב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

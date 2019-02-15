@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא כל מי שכותב שירים הוא משורר</title>
+        <singer classification="male singer">מתי כספי</singer>
+        <writer>בועז אפלבאום</writer>
+        <composer>מתי כספי</composer>
+        <album>עולם אחר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא כל מי שכותב שירים הוא משורר</head>
+        <lg number="1" type="stanza">
+          <l>לא כל מי שכתוב שירים</l>
+          <l>הוא משורר</l>
+          <l>לפעמים הוא סתם אדם</l>
+          <l>שליבו שותת דם.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא כל מי שכותב שירים</l>
+          <l>הוא משורר</l>
+          <l>אולי עבר בשדה</l>
+          <l>וראה פרח יפה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא כל מי שכתוב שירים</l>
+          <l>הוא משורר</l>
+          <l>אם חלפה מולו אשה</l>
+          <l>איך יחשה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

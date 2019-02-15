@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יונתן הקטן</title>
+        <singer classification="female singer">שרון חזיז</singer>
+        <writer>אהוד מנור</writer>
+        <composer>פבלו רוזנברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יונתן הקטן</head>
+        <lg number="1" type="stanza">
+          <l>אם בבוקר הוא לא ירוץ לגן</l>
+          <l>אם הוא לא יתפס על ראש אילן</l>
+          <l>יונתן, יונתן הקטן</l>
+          <l>אם בכלל לא יספיק להיות שובב,</l>
+          <l>לעולם לא יקרע את מכנסיו</l>
+          <l>יונתן, יונתן הקטן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נום, נומה נום</l>
+          <l>בחלום לא יקרה לך כלום</l>
+          <l>נום, נומה נום</l>
+          <l>לא אני לא רוצה לקום</l>
+          <l>בלעדיך עכשיו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק אתמול הוא חייך כמו מלאך</l>
+          <l>והיום הוא רחוק רחוק כל כך</l>
+          <l>יונתן, יונתן הקטן</l>
+          <l>עוד אני מחכה בכל מקום</l>
+          <l>עוד אני מחכה לו בחלום</l>
+          <l>יונתן, יונתן הקטן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נום, נומה נום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

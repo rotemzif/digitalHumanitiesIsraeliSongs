@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>How Low</title>
+        <singer classification="unknown">רן יורגנסון</singer>
+        <writer>רן יורגנסון</writer>
+        <composer>רן יורגנסון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>How Low</head>
+        <lg number="1" type="stanza">
+          <l>i know you wanted me to go </l>
+          <l>pretend to smile as if you know </l>
+          <l>and even if you'll point the door </l>
+          <l>i'll stick around, </l>
+          <l>i'm in control </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>so take my hand </l>
+          <l>i'll show you just how low can you go </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>commit myself to be the strong </l>
+          <l>and on my way i see no one </l>
+          <l>cause even when your blood will flow </l>
+          <l>i never cared </l>
+          <l>i'll never stop </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>so take my hand </l>
+          <l>i'll show you just how low can you go</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

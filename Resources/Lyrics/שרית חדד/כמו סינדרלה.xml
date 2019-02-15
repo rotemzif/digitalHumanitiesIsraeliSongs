@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו סינדרלה</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>יוסי בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו סינדרלה</head>
+        <lg number="1" type="stanza">
+          <l>אני לא סינדרלה</l>
+          <l>שמי לא שלגיה</l>
+          <l>כל הסיפורים שלך</l>
+          <l>לא שווים שמיעה</l>
+          <l>לא ביקשתי מלך</l>
+          <l>שיבטיח ארמונות</l>
+          <l>ואותי בכסף לא תוכל</l>
+          <l>לא תוכל לקנות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תקרא לי סנובית</l>
+          <l>כי אני לא מתנשאת</l>
+          <l>לא לוקחת</l>
+          <l>כל מה שאני מוצאת</l>
+          <l>רוצה בחור נחמד</l>
+          <l>לצעוד איתו לעד</l>
+          <l>לתת לו יד</l>
+          <l>לצעוד איתו לעד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אלף פעם מרגישה</l>
+          <l>כמו ספינה טרופה</l>
+          <l>שטה לי לבד</l>
+          <l>ומסביבי הכל סופה</l>
+          <l>סע מכאן חביבי</l>
+          <l>לך תמצא את עצמך</l>
+          <l>אני לא חושבת שהבנתי</l>
+          <l>את הראש שלך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תקרא לי סנובית...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

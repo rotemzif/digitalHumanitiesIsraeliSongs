@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוא נשקוט</title>
+        <singer classification="female singer">מיקה קרני</singer>
+        <writer>מיקי שביב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוא נשקוט</head>
+        <lg number="1" type="stanza">
+          <l>בוא נשקוט עכשיו,</l>
+          <l>ניתן לרוח לפזר עלים</l>
+          <l>שמבשרים את בוא הסתיו</l>
+          <l>כשאנשק את מצחך, אתה תדע</l>
+          <l>שעוד אביב מתוק יפציע אחריו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ותמיד הפחד</l>
+          <l>בלילות של יחד</l>
+          <l>אך ליבי האוהב כל יכול</l>
+          <l>בעולם קרוע</l>
+          <l>לא הכל ידוע</l>
+          <l>בוא אחוז בידי, אתה לא תיפול</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הנח ידך בכף ידי,</l>
+          <l>נשמת אפך, בבת עיני</l>
+          <l>שפתי, תפילות בשערך</l>
+          <l>רציתי לספר לך,</l>
+          <l>שהעולם הזה שלך,</l>
+          <l>רוצה מאוד בדעתך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ותמיד הפחד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נומה ילד, זמן לישון</l>
+          <l>הרי החושך בחלון,</l>
+          <l>עוד ייעלם עם אור ראשון</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

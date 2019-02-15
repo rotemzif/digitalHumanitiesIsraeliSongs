@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מנוחה 2</title>
+        <singer classification="unknown">לירז צ רכי</singer>
+        <writer>זיו קוז'וקרו</writer>
+        <composer>זיו קוז'וקרו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מנוחה</head>
+        <lg number="1" type="stanza">
+          <l>אין לי לאן לנסוע</l>
+          <l>לכל מקום שאסע</l>
+          <l>שם אהיה לבדי</l>
+          <l>כי אין מצפון</l>
+          <l>לארץ המטורפת </l>
+          <l>הקדושה הזאת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אין לי לאן ללכת</l>
+          <l>לכל מקום שאלך</l>
+          <l>שם תהיה</l>
+          <l>כי אין רחמים</l>
+          <l>לעיר המטורפת</l>
+          <l>הקדושה הזאת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מנוחה, תן לי מנוחה</l>
+          <l>תן למחשבות לעוף</l>
+          <l>כמו ציפורים</l>
+          <l>מעלי שרק אוכל לראות</l>
+          <l>לראות אותן באופק </l>
+          <l>מתרחקות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אין לי פינה לישון בה</l>
+          <l>על כל כרית מרוטה</l>
+          <l>ניחוח גופך</l>
+          <l>אין לי עצמי בבית המטורף</l>
+          <l>הקדוש הזה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מנוחה, תן לי מנוחה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

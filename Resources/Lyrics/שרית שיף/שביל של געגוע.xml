@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שביל של געגוע</title>
+        <singer classification="unknown">שרית שיף</singer>
+        <writer>משה קלוגהפט</writer>
+        <composer>משה קלוגהפט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שביל של געגוע</head>
+        <lg number="1" type="stanza">
+          <l>רגעים קטנים של אושר</l>
+          <l>כמו מסגרת לתמונה של חיים אפורים.</l>
+          <l>רגעים קצרים, שעברו מהר</l>
+          <l>אבל בסוף רק אותם זוכרים.</l>
+          <l>יש דברים שמאיתנו לא לוקחים...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וכשנחזור אל היום יום,</l>
+          <l>כשנשוב אל הרגיל,</l>
+          <l>מה ישאר מכל המקומות שהיינו?</l>
+          <l>שביל של געגוע,</l>
+          <l>חוצה את הלב, ולאן, לאן, לאן,</l>
+          <l>לאן הוא מוביל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואולי נותר מאיתנו</l>
+          <l>רק אוסף סיפורים,</l>
+          <l>על הדרך, מתפזרים.</l>
+          <l>להרגיש עוד כמו קטנים אולי,</l>
+          <l>אלה החיים הגדולים,</l>
+          <l>זה הילדון שבפנים,</l>
+          <l>הוא עדיין לא אמת, עדיין לא מת...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וכשנחזור אל היום יום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

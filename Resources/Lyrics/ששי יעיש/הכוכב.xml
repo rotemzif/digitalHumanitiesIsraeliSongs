@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכוכב 17</title>
+        <singer classification="male singer">ששי יעיש</singer>
+        <writer>מיקי אפל</writer>
+        <composer>אביחי מליחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכוכב</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>קח אותנו אליך כוכב</l>
+          <l>ובין העננים שם נאהב</l>
+          <l>משמיים על הארץ נביט </l>
+          <l>לצדינו כוכב ושמו שביט</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בעיניים דומעות מייחל</l>
+          <l>כוכבי שלי איך מנחם</l>
+          <l>התשובי אלי</l>
+          <l>בעיניים דומעות מייחל</l>
+          <l>כוכבי שלי איך מנחם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מחלון ביתי שוב מציץ</l>
+          <l>כוכבי הזוהר הוא מאיץ</l>
+          <l>את פעמי הלב בליל אפל</l>
+          <l>איך קטן סודי לא אספר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קח אותנו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

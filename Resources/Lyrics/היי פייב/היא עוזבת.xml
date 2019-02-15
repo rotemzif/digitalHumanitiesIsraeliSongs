@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היא עוזבת</title>
+        <singer classification="unknown">היי פייב</singer>
+        <writer>חנה גולדברג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היא עוזבת</head>
+        <lg number="1" type="stanza">
+          <l>היא אומרת שהיה לה קשה איתי</l>
+          <l>היא אומרת שאני עסוק רק בעצמי, ורע לי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי היא עוזבת לא עוזבת</l>
+          <l>היא עוזבת לא עוזבת</l>
+          <l>היא עוזבת לא עוזבת אותי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתקרבת</l>
+          <l>מתרחקת</l>
+          <l>היא נעלמה</l>
+          <l>היא אומרת שאני משוגע, ורע לי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי היא עוזבת לא עוזבת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני קם לתת לה את המעיל</l>
+          <l>בִּפנים אני בוכה, אבל עושה פרצוף רגיל</l>
+          <l>פתאום היא נופלת לרצפה, אני מחבק אותה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי היא עוזבת לא עוזבת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

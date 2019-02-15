@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טעם בשפתיה</title>
+        <singer classification="unknown">שר אל</singer>
+        <writer>מאיר גולדברג</writer>
+        <composer>רונן ירקוני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טעם בשפתיה</head>
+        <lg number="1" type="stanza">
+          <l>הכל קשור אליה</l>
+          <l>היא אמרה לי אחרי שבכתה</l>
+          <l>הנחתי ידי על כתפיה</l>
+          <l>רק מעצמי הייתי מופתע</l>
+          <l>דברים שאני כבר יודע</l>
+          <l>אחרים מנקודת מבטה</l>
+          <l>כשאמרה שבסוף אשתגע </l>
+          <l>שמתי שפתי על אלה שלה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש טעם בדבריה</l>
+          <l>יש טעם בשתיקתה </l>
+          <l>יש טעם בשפתיה</l>
+          <l>כל פעם כשאני איתה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אחרי שעה או מאה</l>
+          <l>היא אומרת אתה מלך אתה </l>
+          <l>כשפיה בפי עוד נוגע</l>
+          <l>לתוכי היא לוחשת תודה</l>
+          <l>הכל קשור אליה</l>
+          <l>אני איש קצת יותר טוב איתה</l>
+          <l>כשאמרה שבסוף תשתגע </l>
+          <l>שמתי שפתי על אלה שלה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש טעם בדבריה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר מצב</title>
+        <singer classification="female singer">מיקה קרני</singer>
+        <writer>מיקה קרני</writer>
+        <composer>מיקה קרני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר מצב</head>
+        <lg number="1" type="stanza">
+          <l>איך הייתי מבולבלת</l>
+          <l>עם הלב החשוף, רצתי בחוץ</l>
+          <l>על ספסל מול הכנרת</l>
+          <l>התפללתי לא למות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>להבות ביער שאהבתי</l>
+          <l>שורפות אל מול עיני כל הגיון</l>
+          <l>בחטף, בלי שהרגשתי</l>
+          <l>הושיבו לי בשבי ת'צפון</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>העולם מתהפך</l>
+          <l>טוב ברע מתחלף</l>
+          <l>והזמן נעצר במקום</l>
+          <l>ובחדר רחוק</l>
+          <l>בין בכי לצחוק</l>
+          <l>אני שוב מגלה</l>
+          <l>שגם לי ולך</l>
+          <l>יש המנון</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מלחמה, גם אם צודקת</l>
+          <l>טורפת את הכל בלי הבחנה</l>
+          <l>הניצחון והתפארת</l>
+          <l>משאירים לי על הלחי רק דמעה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>להבות ביער שאהבתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

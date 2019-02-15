@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>למות קצת</title>
+        <singer classification="female singer">רוני אלטר</singer>
+        <writer>רוני אלטר</writer>
+        <composer>אלון לוטרינגר</composer>
+        <album>כיס אוויר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>למות קצת</head>
+        <lg number="1" type="stanza">
+          <l>זה מהדהד במשפחתי </l>
+          <l>זה מהדהד במיטתי </l>
+          <l>ושוב פעם לא ישנתי </l>
+          <l>כלואה בחדר ילדותי </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הדלת נפתחה מזמן </l>
+          <l>אבל אני עוד משתהה </l>
+          <l>הולכת לאיבוד </l>
+          <l>בין השטיח למיטה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איך זה תמיד עובר כל כך לאט </l>
+          <l>חבל שאי אפשר למות לקצת </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>החלון שלי פתוח לבפנים </l>
+          <l>אני נמשכת ואתם לא מרגישים </l>
+          <l>יום אחד תגלו אני אינני </l>
+          <l>רחוקה בלי מילים </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>איך זה תמיד עובר כל כך לאט </l>
+          <l>חבל שאי אפשר למות לקצת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מצב הרוח</title>
+        <singer classification="unknown">עלמה זהר</singer>
+        <writer>עלמה זהר</writer>
+        <composer>עלמה זהר</composer>
+        <album>לחם אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מצב הרוח</head>
+        <lg number="1" type="stanza">
+          <l>עושה את עצמי אידיוט, כדי שתצחקי</l>
+          <l>קופץ כמו מתאבד מחלון פתוח</l>
+          <l>ואת כאילו כלום, כאילו לא ראית</l>
+          <l>איך כל יום משתנה מצב הרוח</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מתוך האלכוהול אני רואה בהיר</l>
+          <l>ואת כל-כך יפה, שערך פרוע</l>
+          <l>יושבת במרפסת כותבת את השיר</l>
+          <l>וכל יום משתנה מצב הרוח</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הולך להתפשט ולעשות לך ילד</l>
+          <l>לכבוש אותך כמו שכובשים מדינת אויב</l>
+          <l>לרוץ בשדות מוקשים ובין אבני בזלת</l>
+          <l>ולקרוע לך ת'לב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רגעים של חסד אחרי הסערה</l>
+          <l>עברנו עוד יום, עוד שבוע</l>
+          <l>אוחזת בידי והיד שלך קרה</l>
+          <l>וכל יום משתנה מצב הרוח </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הולך להתפשט ולעשות לך ילד</l>
+          <l>לכבוש אותך כמו שכובשים מדינת אויב</l>
+          <l>לרוץ בשדות מוקשים ובין אבני בזלת</l>
+          <l>ולקרוע לך ת'לב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

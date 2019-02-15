@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תמונות 3</title>
+        <singer classification="unknown">דור דניאל</singer>
+        <writer>דור דניאל</writer>
+        <composer>דור דניאל</composer>
+        <album>בין החלומות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תמונות</head>
+        <lg number="1" type="stanza">
+          <l>הזמן עוד מקלף, תראו נותרה בי עוד שכבה</l>
+          <l>בגוף שעוטף אותי מצאתי ניצוצות של אכזבה</l>
+          <l>אני נרדם רק בבקרים</l>
+          <l>ובשעות המעטות אני חולם על אנשים קשים, שומע אנקות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואז מחייה את התמונות שייכנס קצת אור לחדר</l>
+          <l>ברחוב עוד משדר, הכל בסדר</l>
+          <l>ובשפתיי נחתו סדקים סדקים, ואין מי שיפריע</l>
+          <l>בפניי התהייה האם אגיע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כולם אמרו אני אהיה גדול, שהם איתי</l>
+          <l>אבל הספינה שלי טובעת בהפלגת הבכורה</l>
+          <l>ובמראה של האמבט, אני מחליף כל יום מבט</l>
+          <l>ויש תחושה שהיא יודעת שאני לא כאן לתמיד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואז מחייה את התמונות...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אז אל תנסו לא לתת לי ללכת</l>
+          <l>אני מחייה את התמונות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>It Ain t Easy</title>
+        <singer classification="band">רוקפור</singer>
+        <writer>מרק לזר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>It Ain't Easy</head>
+        <lg number="1" type="stanza">
+          <l>first thing that I thought of when I saw you walk away </l>
+          <l>was how could someone run so fast on high heels </l>
+          <l>must have been the neighbors saying </l>
+          <l>baby he's a mess </l>
+          <l>look for something better </l>
+          <l>you deserve it </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>it ain't easy when you're gone </l>
+          <l>it ain't easy </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>next thing that I noticed made my throat go cotton dry </l>
+          <l>empty liquor bottles in the cabinet </l>
+          <l>how was I supposed to pass the day? </l>
+          <l>nothing here will take the thirst away </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>it ain't easy when you're gone </l>
+          <l>it ain't easy</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רגשות 3</title>
+        <singer classification="unknown">גולן אברהם</singer>
+        <writer>אופיר כהן</writer>
+        <composer>אופיר כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רגשות</head>
+        <lg number="1" type="stanza">
+          <l>יש לי רגשות אלייך חזקים שזה כואב</l>
+          <l>מה כבר לא אמרו עלייך היא תגנוב לך ת'לב</l>
+          <l>ואת הנשמה שלי אני שלך</l>
+          <l>את כל חיי תדעי אני אוהב אותך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני יודע שאלוהים שומע</l>
+          <l>ליבי מתגעגע לתת לך אהבה</l>
+          <l>אני יודע שאלוהים שומע</l>
+          <l>איך אני מתגעגע אלייך אהובה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל היום חושב עלייך, את לא יוצאת לי מהראש</l>
+          <l>אני רץ עכשיו אלייך רק אותך רוצה לכבוש</l>
+          <l>ואת הנשמה שלי אני שלך</l>
+          <l>את כל חיי תדעי אני אוהב אותך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני יודע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

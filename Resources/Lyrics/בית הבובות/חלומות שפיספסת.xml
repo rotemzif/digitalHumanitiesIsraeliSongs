@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלומות שפיספסת</title>
+        <singer classification="band">בית הבובות</singer>
+        <writer>איתי שיף</writer>
+        <composer>איתי שיף</composer>
+        <album>שוב החיוך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלומות שפיספסת</head>
+        <lg number="1" type="stanza">
+          <l>כבר מזמן שאתה לא זוכר</l>
+          <l>בועט מתבלבל ושואל</l>
+          <l>מי כמוך יודע היטב </l>
+          <l>הזמן גם חבר גם אוייב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשהיבטת עמוק שם בלב</l>
+          <l>הפעם אולי תתמודד</l>
+          <l>לא מיצית דקה של כאב</l>
+          <l>רק שקעת ואתה שוב דועך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>המילים, הימים חלומות שלא פעם פספסת</l>
+          <l>לא עצרת להביט לאחור</l>
+          <l>ולבדוק מה שכחת</l>
+          <l>ואולי לא תפסת הכל</l>
+          <l>ובכל זאת המשכת לחלום...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שים לב טוב לכל יום שעובר</l>
+          <l>אתה מוותר ובוחר </l>
+          <l>אדישות מחלה בלי כאב</l>
+          <l>רק דמעות שהכל מתפורר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יום אחד עוד הכל יתבהר</l>
+          <l>תתחדש תתבגר</l>
+          <l>מי ייתן והשמש תזרח</l>
+          <l>בסוף גם אתה תסתנוור</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>המילים, הימים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

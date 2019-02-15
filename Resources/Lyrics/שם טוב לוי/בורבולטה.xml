@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בורבולטה</title>
+        <singer classification="male singer">שם טוב לוי</singer>
+        <writer>צפנת ירון</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בורבולטה</head>
+        <lg number="1" type="stanza">
+          <l>בוא אלי פרפר</l>
+          <l>בוא אלי פרפר נחמד</l>
+          <l>שב אצלי על כף היד ותנוח</l>
+          <l>ותעוף בחזרה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בוא אלי פרפר</l>
+          <l>בוא אלי פרפר נחמד</l>
+          <l>שב תנוח, אל תירא</l>
+          <l>ותעוף בחזרה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בוא אלי לכפר</l>
+          <l>כך אמר לי הפרפר</l>
+          <l>בוא אל הכפר, לשדה הפתוח</l>
+          <l>כאן ירוק ונהדר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בוא אלי לכפר</l>
+          <l>כאן ירוק ונהדר</l>
+          <l>בוא אלי אתה לכפר</l>
+          <l>כך אמר לי הפרפר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שב אצלי על כף היד ותנוח</l>
+          <l>ותעוף בחזרה</l>
+          <l>בוא אל הכפר, לשדה הפתוח</l>
+          <l>כאן ירוק ונהדר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

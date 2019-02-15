@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בקו החלומות</title>
+        <singer classification="unknown">רוני תורג מן</singer>
+        <writer>אורלי מורג</writer>
+        <composer>רוני תורג'מן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בקו החלומות</head>
+        <lg number="1" type="stanza">
+          <l>את וגיטרה</l>
+          <l>ושיר אהבה</l>
+          <l>עוד כוס של בירה</l>
+          <l>עוד את עצובה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נוף ירושלמי</l>
+          <l>רחוב משתתק</l>
+          <l>הערב פליני</l>
+          <l>בסינמטק</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רגע מוארת</l>
+          <l>ורגע נסתרת</l>
+          <l>שנים שאת מתבגרת</l>
+          <l>סופר לך אותן</l>
+          <l>רגע עוברת</l>
+          <l>ורגע חוזרת</l>
+          <l>בקו החלומות עוצרת</l>
+          <l>אני אפתור לך את כולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את מהססת</l>
+          <l>אולי אשאר</l>
+          <l>כמו מפייסת</l>
+          <l>מישהו אחר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רגע מוארת...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>עוצמת עיניים</l>
+          <l>קרובה אלי כאן</l>
+          <l>מה יום מיומיים</l>
+          <l>מהתל בך הזמן</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>רגע מוארת...</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>את כולם אני אפתור</l>
+          <l>בוקר יאיר אותם באור לבן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

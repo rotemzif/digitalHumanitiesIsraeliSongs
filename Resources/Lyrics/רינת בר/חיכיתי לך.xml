@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חיכיתי לך 6</title>
+        <singer classification="female singer">רינת בר</singer>
+        <writer>יואב צדוק</writer>
+        <composer>ולדיסלב דראגונינסקי</composer>
+        <album>חיכיתי לך / אלבום חפלה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חיכיתי לך</head>
+        <lg number="1" type="stanza">
+          <l>איך באמצע היום כאילו חלום </l>
+          <l>הופעת מולי ככה סתם פתאום </l>
+          <l>איך הכל עצר הכאב נגמר </l>
+          <l>איך תוך שנייה שמחתי כבר </l>
+          <l>איך תוך שנייה שמחתי כבר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני כבר לא יודעת איך זה שאתה הולך</l>
+          <l>ואיך זה שאתה חוזר הלב שלי שוב מחייך</l>
+          <l>איך אני שומעת רק סיפורים נמאס לי כבר </l>
+          <l>אז אם אתה הולך אז אל תחזור מחר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהבתי אותך חיכיתי לך</l>
+          <l>עשיתי הכל רק בשבילך </l>
+          <l>הסתכלת עלי חייכת אלי</l>
+          <l>רציתי אותך קרוב מדי</l>
+          <l>רציתי אותך קרוב אלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני כבר לא יודעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

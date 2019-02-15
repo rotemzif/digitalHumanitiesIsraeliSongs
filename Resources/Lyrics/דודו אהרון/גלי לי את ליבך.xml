@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גלי לי את ליבך</title>
+        <singer classification="unknown">דודו אהרון</singer>
+        <writer>דודו אהרון</writer>
+        <composer>דודו אהרון</composer>
+        <album>אהבה ראשונה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גלי לי את ליבך</head>
+        <lg number="1" type="stanza">
+          <l>אני אלך בשבילך את כל הדרך</l>
+          <l>אתן לך כל שרק תרצי</l>
+          <l>גם אם תבקשי אני אכרע לך ברך</l>
+          <l>אסכים לכל אם את לא תוותרי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את כל העולם אני אכבוש למענך </l>
+          <l>אקטוף גם כוכב הכל בשבילך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גלי לי את ליבך</l>
+          <l>תני לי אהבה</l>
+          <l>עשי כל מה שבא לך</l>
+          <l>תתני קצת אהבה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את יודעת שהלב שלי שבוי לך </l>
+          <l>וכמה הוא אותך אוהב</l>
+          <l>את מהממת ביופייך</l>
+          <l>כשאני מביט בך</l>
+          <l>את מחייכת אני בך מתאהב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את כל העולם אני אכבוש למענך </l>
+          <l>אקטוף גם כוכב הכל בשבילך</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>גלי לי את ליבך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

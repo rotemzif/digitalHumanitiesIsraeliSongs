@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר רועים</title>
+        <singer classification="male singer">דני סנדרסון</singer>
+        <writer>דני סנדרסון</writer>
+        <composer>דני סנדרסון</composer>
+        <album>הטובים לטייס</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר רועים</head>
+        <lg number="1" type="stanza">
+          <l>הכבשים פועות על תל</l>
+          <l>הגדיים עולזים בצל</l>
+          <l>חלילו יחלל</l>
+          <l>שיר נוגה לדליה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הוא רועה והיא רועה,</l>
+          <l>מה יפה וענוגה.</l>
+          <l>בשדות ישא דמותה</l>
+          <l>לילה יום ודליה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לבאר</l>
+          <l>היא תבוא להשקות צאנה</l>
+          <l>הוא יסתכל</l>
+          <l>מה חבל שאינו כבשה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הכבשים פועות על תל...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שם בכפר</l>
+          <l>יתגנב אל חלונה</l>
+          <l>עד מאוחר</l>
+          <l>הוא רואה, היא לא רואה.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>הכבשים פועות על תל...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>להזמינה</l>
+          <l>לסרט הוא מוכרח</l>
+          <l>אך זוהי שטות גמורה</l>
+          <l>כי נמצא הוא בתנ"ך.</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>הכבשים פועות על תל...</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>הוא רואה, היא לא רואה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

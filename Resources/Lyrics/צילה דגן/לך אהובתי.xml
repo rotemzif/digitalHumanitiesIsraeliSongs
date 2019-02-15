@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לך אהובתי</title>
+        <singer classification="female singer">צילה דגן</singer>
+        <writer>ז'אק פרוור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לך אהובתי</head>
+        <lg number="1" type="stanza">
+          <l>הלכתי לשוק הציפורים</l>
+          <l>וקניתי שם ציפורים</l>
+          <l>לך אהובתי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הלכתי לשוק הפרחים</l>
+          <l>וקניתי שם פרחים</l>
+          <l>לך אהובתי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלכתי לשוק הגרוטאות</l>
+          <l>וקניתי שם שלשלאות</l>
+          <l>שלשלאות כבודות,</l>
+          <l>לך אהובתי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואז הלכתי לשוק השפחות</l>
+          <l>וחיפשתי אותך</l>
+          <l>אך לא מצאתי אותך,</l>
+          <l>אהובתי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלושה שירים בפרבר</title>
+        <singer classification="band">הגבעטרון</singer>
+        <writer>נתן אלתרמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלושה שירים בפרבר</head>
+        <lg number="1" type="stanza">
+          <l>פרבר צועק צוען פתוח</l>
+          <l>פרבר מפליא העוויות </l>
+          <l>מציל סוסים משיב תפוח</l>
+          <l>ושר מבטן חביות </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פרבר הדג ועוף המים </l>
+          <l>וצלי האש והקלי</l>
+          <l>גדוש יומך לי מיומיים </l>
+          <l>טוב נמשלך לי ממשלים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מעבריתך המתנפנפת</l>
+          <l>ומפסוקייך הדקים </l>
+          <l>ירחב ליבן של בנות החמד </l>
+          <l>ויסמרו המדקדקים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אתה ולא כתבי החודש</l>
+          <l>ולא שירינו הצמוק </l>
+          <l>זורע על לשון הקודש</l>
+          <l>את הקמון והצימוק </l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

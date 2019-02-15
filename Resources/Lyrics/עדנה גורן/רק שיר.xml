@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק שיר 3</title>
+        <singer classification="female singer">עדנה גורן</singer>
+        <writer>תרצה אתר</writer>
+        <composer>נתן כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק שיר</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>רק שיר חיברתי לי</l>
+          <l>היה זה רגע חם של קיץ</l>
+          <l>ואם הפריעו לי</l>
+          <l>אז הדברים היו פשוטים כל כך שקט ורך</l>
+          <l>לא נורא לא כל כך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק שיר חיברתי לי</l>
+          <l>בחוץ קולות או טלוויזיה</l>
+          <l>זה הפריע לי</l>
+          <l>אך הדברים היו פשוטים כל כך רעש רך</l>
+          <l>לא נורא לא כל כך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רק שיר חיברתי לי</l>
+          <l>כמו בכל הימים </l>
+          <l>רק שעות ירח וחמה אשר מניתי</l>
+          <l>והפכתי למילים</l>
+          <l>כמו בכל הימים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הרחוב הרעיש לקראת הערב</l>
+          <l>וזה הפריע לי</l>
+          <l>אך הדברים היו פשוטים כל כך</l>
+          <l>כמו משחק לא נורא לא כל כך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רק שיר חיברתי לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

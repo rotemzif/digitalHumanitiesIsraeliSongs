@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בדרך מהים</title>
+        <singer classification="unknown">נדב ברנע</singer>
+        <writer>נדב ברנע</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בדרך מהים</head>
+        <lg number="1" type="stanza">
+          <l>בלילה הוא יוצא אל הרחוב, על האופניים.</l>
+          <l>כוכב נופל, הוא מבקש אותה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ידיים אוחזות, ידיים אוחזות, ידיים.</l>
+          <l>"מה הוא מבקש מהכוכב?" היא דואגת, הוא לא יבוא.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ובדרך מהים, הם לא מדברים, נותנים ידיים.</l>
+          <l>תאהב אותי, תאהב אותי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שיכורים מיין זול, עולה בוקר.</l>
+          <l>"אותו ביקשתי מהכוכב" היא לוחשת.</l>
+          <l>"התקשטת לכבודי, שמת שמלה אדומה, ואת יפה" הוא אומר "תבואי אלי".</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ובדרך מהים, הם לא מדברים, נותנים ידיים.</l>
+          <l>תאהב אותי, תאהב אותי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

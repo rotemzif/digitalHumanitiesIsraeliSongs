@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה לעשות 5</title>
+        <singer classification="male singer">שרון לביא</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה לעשות</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אני לא יודע מה לעשות</l>
+          <l>התאהבתי בילדה כזאת</l>
+          <l>אני לא יודע מה לעשות</l>
+          <l>התאהבתי בילדה כזאת</l>
+          <l>היא יפה ומשגעת ויודעת לשחק בנשמתי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היתה לי נערה עם יופי משגע</l>
+          <l>איבדתי את הראש הלכתי אחרייה</l>
+          <l>ביום בהיר אחד לפתע נעלמה לה</l>
+          <l>מאז אני כבר לא יכול לישון בלילה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני לא יודע מה לעשות...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עם אחרות ניסיתי דף חדש לפתוח</l>
+          <l>אך יופי שכזה פשוט קשה לשכוח</l>
+          <l>החברים לא מבינים מה היא עשתה לי</l>
+          <l>לאבד ת'ראש מאהבה זה לא נורמלי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני לא יודע מה לעשות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

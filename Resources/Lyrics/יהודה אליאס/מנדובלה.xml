@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מנדובלה</title>
+        <singer classification="male singer">יהודה אליאס</singer>
+        <writer>דודו ברק</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מנדובלה</head>
+        <lg number="1" type="stanza">
+          <l>מנדובלה, </l>
+          <l>את כבר לא מלכת היופי.</l>
+          <l>מנדובלה, </l>
+          <l>אבל יש לך, יש לך אופי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אלוהים הן נשק לך בסתר.</l>
+          <l>את מלכה גם בלי תואר וכתר.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מנדובלה. </l>
+          <l>מנדובלה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אמר איש חכם. שנון ובוחן,</l>
+          <l>שרק הבל היופי ושקר החן.</l>
+          <l>הוא צודק. האמיני. הכול יתכן.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מנדובלה, </l>
+          <l>הגברים חושקים בך חשק.</l>
+          <l>מנדובלה, </l>
+          <l>את כובשת גם בלי נשק.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אל תתני משפעת חסדייך,</l>
+          <l>לקמים על יופייך וחייך. </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>מנדובלה. </l>
+          <l>מנדובלה.</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>אמר איש נבון, אולי בן מאה:</l>
+          <l>"כול אדם יש מקום לו ויש לו שעה".</l>
+          <l>עוד תבוא שעתך. הסתכלי. את רואה,</l>
+          <l>אהובך בוא יבוא בשנה הבאה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

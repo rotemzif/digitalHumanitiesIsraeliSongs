@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הרגשה טובה</title>
+        <singer classification="female singer">דנה אינטרנשיונל</singer>
+        <writer>דני דותן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הרגשה טובה</head>
+        <lg number="1" type="stanza">
+          <l>כשאני איתו כלום לא נגמר</l>
+          <l>כשאני איתו השקר מיותר</l>
+          <l>כשאני איתו אין לי חלומות</l>
+          <l>כשאני איתו אני רוצה לחיות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא רוצה לחשוב</l>
+          <l>מה יהיה מחר</l>
+          <l>לא רוצה לדעת</l>
+          <l>כמה זמן נשאר</l>
+          <l>לא יודעת</l>
+          <l>מה זאת אהבה</l>
+          <l>הוא עושה לי</l>
+          <l>הרגשה טובה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאני איתו כל דבר נכון</l>
+          <l>כשאני איתו אין לי חשבון</l>
+          <l>כשאני איתו רחוק מכולם</l>
+          <l>כשאני איתו העולם נעלם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא רוצה לחשוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

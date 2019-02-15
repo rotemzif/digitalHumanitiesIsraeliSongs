@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר התמרורים 2</title>
+        <singer classification="unknown">משתתפי המחזמר חלום של נסיעה</singer>
+        <writer>רחל רוזנמן</writer>
+        <composer>יגאל בשן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר התמרורים</head>
+        <lg number="1" type="stanza">
+          <l>בואו נשיר ביחד את שיר התמרורים</l>
+          <l>בואו נשיר ביחד נהיה קצת זהירים</l>
+          <l>בכביש שיש רמזור, זה קל לשמור על חוק</l>
+          <l>באיזה אור עוברים? באור ירוק</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הופה עצור, הופה היי עצור</l>
+          <l>הופה עצור ותן לי לעבור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה הולך בדרך ואין שום מדרכה</l>
+          <l>לך בצד שמאלי והתנועה תהיה מולך</l>
+          <l>בתוך המכונית, צריך תמיד לחגור</l>
+          <l>ובלילה מחזירים של אור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הופה עצור...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בואו נשיר ביחד, את שיר התמרורים</l>
+          <l>כי כולנו יחד את החוקים שומרים</l>
+          <l>החיים יפים אז למה לבזבז</l>
+          <l>בואו נחיה אותם בכייף</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הופה עצור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

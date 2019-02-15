@@ -1,0 +1,40 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הנחש</title>
+        <singer classification="unknown">דיג דיג דוג</singer>
+        <writer>מיכל חזון</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הנחש</head>
+        <lg number="1" type="stanza">
+          <l>שקט הס!</l>
+          <l>מי לחש?</l>
+          <l>הנה בא הנחש!</l>
+          <l>הוא זוחל על גחון</l>
+          <l>מגשש בלשון.</l>
+          <l>הוא זוחל מתפתל</l>
+          <l>מחפש מקום בצל.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

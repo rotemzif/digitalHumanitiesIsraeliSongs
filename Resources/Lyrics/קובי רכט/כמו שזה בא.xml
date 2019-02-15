@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו שזה בא 2</title>
+        <singer classification="male singer">קובי רכט</singer>
+        <writer>קובי רכט</writer>
+        <composer>קובי רכט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו שזה בא</head>
+        <lg number="1" type="stanza">
+          <l>אם כבד לך על הנשמה</l>
+          <l>אם נגמרה הנשימה</l>
+          <l>אם ניסית הכל וזה לא עזר</l>
+          <l>ואתה נשבר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קח את זה בקלות</l>
+          <l>כמו שזה בא</l>
+          <l>ככה זה, לך עם זה</l>
+          <l>קח את זה קל</l>
+          <l>כמו שזה בא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם איבדת את התקווה</l>
+          <l>אם נגמרה האהבה</l>
+          <l>היא עזבה אותך ואתה חולה</l>
+          <l>והחום עולה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קח את זה בקלות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

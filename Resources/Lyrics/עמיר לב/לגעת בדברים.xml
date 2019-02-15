@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לגעת בדברים</title>
+        <singer classification="male singer">עמיר לב</singer>
+        <writer>עמיר לב</writer>
+        <composer>עמיר לב</composer>
+        <album>רוצה לראות אתכם במקומי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לגעת בדברים</head>
+        <lg number="1" type="stanza">
+          <l>מה ששם קרה, ולא בלילה סערה</l>
+          <l>כשהיא מספרת סיפור קטן של עיתונים גדולים</l>
+          <l>שם במתפרה, כשהיא נפלה ונשברה</l>
+          <l>אנחנו דאגנו: הו, מי יתפור לנו בגדים?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לילה בדירה, שכונה כובשת ישנה</l>
+          <l>האש מתלקחת, אתה בוער גם מבפנים</l>
+          <l>יש עוד צעקות: היכן לתת את המכות?</l>
+          <l>ויש גם בורחת, ויש זורקת בקבוקים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אתה לא רוצה יותר לגעת בדברים</l>
+          <l>אתה עונה להם - הם יותר חזק מכים</l>
+          <l>אתה לא מנסה יותר עצות מאחרים</l>
+          <l>מאחורי הגב שלך תמיד שרים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>קמה צעקה: אולי היד לא חזקה?...</l>
+          <l>שמים משקפיים, ומופתעים שלא רואים</l>
+          <l>ים של דיבורים, אנחנו עסוקים</l>
+          <l>נגיד לא ידענו, נגיד היינו סתם ברגים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אתה לא רוצה יותר...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>נגיד לא ידענו, נגיד היינו סתם ברגים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

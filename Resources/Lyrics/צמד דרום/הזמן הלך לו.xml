@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הזמן הלך לו</title>
+        <singer classification="band">צמד דרום</singer>
+        <writer>אהוד מנור</writer>
+        <composer>אפי נצר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הזמן הלך לו</head>
+        <lg number="1" type="stanza">
+          <l>זה היה בחורף או בסתיו,</l>
+          <l>שמעתי רק את הדממה.</l>
+          <l>השעון איבד את מחוגיו,</l>
+          <l>תיקתק אחוז אימה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הזמן הלך לו למקום אחר,</l>
+          <l>ראיתי רק אותך,</l>
+          <l>רק אותך ולא יותר</l>
+          <l>הזמן הלך לו למקום אחר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה היה בבוקר או עם ליל,</l>
+          <l>ראיתי שהאור עלה.</l>
+          <l>הריסים שלך היטילו צל</l>
+          <l>על פני העיר כולה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הזמן הלך לו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה היה רק אמש או מזמן,</l>
+          <l>זכרתי רק את המילים.</l>
+          <l>עם הזמן חלפו הכל מכאן,</l>
+          <l>רק את נשארת איתי.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הזמן הלך לו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

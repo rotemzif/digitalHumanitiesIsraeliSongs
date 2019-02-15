@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר געגועים 5</title>
+        <singer classification="male singer">קובי אפללו</singer>
+        <writer>קובי אפללו</writer>
+        <composer>קובי אפללו</composer>
+        <album>בא מן השתיקה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר געגועים</head>
+        <lg number="1" type="stanza">
+          <l>היום ליבי אלייך יאיר </l>
+          <l>היום קולי עלייך ישיר </l>
+          <l>קרוב אני בדימיוני</l>
+          <l>וזכרוני שומר שנים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בשיר געגועים נוגע </l>
+          <l>ושיר געגועים יודע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היום אני שובר שתיקה </l>
+          <l>היום אני חובק תשוקה </l>
+          <l>ואל הים אני הולך </l>
+          <l>את המילים אני שופך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בשיר געגועים נוגע...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>חולם שהיא תבוא אלי</l>
+          <l>אולי תבין את סודותי</l>
+          <l>אז מסתתר ברגשותי</l>
+          <l>ותפילתי היא געגועי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בשיר געגועים נוגע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

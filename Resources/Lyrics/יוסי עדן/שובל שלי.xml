@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שובל שלי</title>
+        <singer classification="unknown">יוסי עדן</singer>
+        <writer>יוסי עדן</writer>
+        <composer>יוסי עדן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שובל שלי</head>
+        <lg number="1" type="stanza">
+          <l>מי יאהב אותך יותר ממני ילדה קטנה שלי</l>
+          <l>כל החיים רק לך חיכיתי ואת עכשיו פה לידי</l>
+          <l>מלאך קטן מלאך שמיים עושה לי טוב בנשמה</l>
+          <l>אני מביט לך בעניים אבא כל כך אוהב אותך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שובל שלי אני קורא לך מתוך ליבי זועק את שמך</l>
+          <l>יום יבוא ואת תביני מה עשיתי בשבילך</l>
+          <l>שובל שלי אני קורא לך מתוך ליבי זועק את שמך</l>
+          <l>יום יבוא ואת תביני מה עשיתי בשבילך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תמיד אלי את מחייכת הבת לי אור אל החיים</l>
+          <l>כל הזמן אותך ביקשתי בלילות מאלוקים</l>
+          <l>שירים רק לך כתבתי מתוך הלב והנשמה</l>
+          <l>עוד תגדלי ולך יגידו כמה רציתי בך שובל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שובל שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

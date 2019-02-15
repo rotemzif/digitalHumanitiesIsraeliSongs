@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המוצא הישר</title>
+        <singer classification="female singer">גלי עטרי</singer>
+        <writer>שלום חנוך</writer>
+        <composer>שלום חנוך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המוצא הישר</head>
+        <lg number="1" type="stanza">
+          <l>הוא מאוהב בילדה מקסימה</l>
+          <l>יתומה עם צמה על הגב</l>
+          <l>דמות הזויה שאין לה שניה</l>
+          <l>ביופיה שנגלה לעיניו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הוא לא ידע בשבתה לבדה</l>
+          <l>כמו ציפור בשבייה כמו גורל</l>
+          <l>היא נועדה מיום שנולדה</l>
+          <l>כמנהג העדה כמקובל</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כה קרוב ועם זאת כה רחוק</l>
+          <l>כה רחוק ועם זאת כה קרוב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל תקנאו במוצא הישר</l>
+          <l>יש לו הכל ואין לו דבר</l>
+          <l>הוא מאוהב בילדה מקסימה</l>
+          <l>יתומה עם צמה על הגב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כה קרוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

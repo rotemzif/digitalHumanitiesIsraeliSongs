@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גילו גיל</title>
+        <singer classification="unknown">מקהלת צוות</singer>
+        <writer>קרן אביטן</writer>
+        <composer>קרן אביטן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גילו גיל</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>גילו גיל ומחאו כפיים </l>
+          <l>החגיגה עכשיו בעיצומה </l>
+          <l>ריקדו במעגל הרימו הידיים </l>
+          <l>כי ביום הזה נרננה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ליום הזה הגענו כדי לשמוח </l>
+          <l>לשיר ולרקוד לנקות את הראש </l>
+          <l>נלגום כוס של יין וגם נתבדח </l>
+          <l>כי היום הוא יום של דרור </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>גילו גיל ומחאו כפיים...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ביום הזה כולנו נשתה לחיים </l>
+          <l>נצחק נשתולל ונריע בקול </l>
+          <l>הגיע הזמו כבר לעוד כוס של יין</l>
+          <l>לחיי החוגגים כאן היום </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>גילו גיל ומחאו כפיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

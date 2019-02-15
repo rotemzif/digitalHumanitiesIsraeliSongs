@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בדרך אלייך 4</title>
+        <singer classification="male singer">עוזי חיטמן</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>עוזי חיטמן</composer>
+        <album>עכשיו התור לאהבה - חלק ב'</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בדרך אלייך</head>
+        <lg number="1" type="stanza">
+          <l>בדרך אלייך,</l>
+          <l>היו לי המון פרפרים</l>
+          <l>בדרך אלייך,</l>
+          <l>ציירתי המון ציורים - </l>
+          <l>בית כפרי נדנדה בחצר</l>
+          <l>צחוק ילדים ושער סוגר</l>
+          <l>אותך ואותי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עוד יום אל סף דלתך</l>
+          <l>הולך ובא ושוב הולך</l>
+          <l>עומד על יד הפעמון</l>
+          <l>ולא מעיז לגעת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עוד יום אל סף דלתך</l>
+          <l>הולך ובא ושוב הולך</l>
+          <l>האם תצאי אל החלון</l>
+          <l>לראות אותך רק פעם</l>
+          <l>פעם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בדרך אלייך היו לי המון חלומות</l>
+          <l>בדרך אלייך ראיתי המון מקומות</l>
+          <l>בית כפרי נדנדה בחצר</l>
+          <l>צחוק ילדים ושער סוגר</l>
+          <l>אותך ואותי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עוד יום אל סף דלתך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חום גופך 2</title>
+        <singer classification="male singer">מיקי גבריאלוב</singer>
+        <writer>מיקי גבריאלוב</writer>
+        <composer>מיקי גבריאלוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חום גופך</head>
+        <lg number="1" type="stanza">
+          <l>לילה קר העצב מר</l>
+          <l>לפני שאת הולכת ומתרחקת</l>
+          <l>תני לי עוד פעם אחת</l>
+          <l>להרגיש את חום גופך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ידיים מבקשות עיניים רעבות</l>
+          <l>בתשוקה גדולה גופי בוער</l>
+          <l>תני לי עוד פעם אחת</l>
+          <l>להרגיש את חום גופך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כבר אמרת לי וסיפרת לי על אחר</l>
+          <l>אהבה שעוד לא נשכחה</l>
+          <l>כמו יונה חרדה נפשי מרחפת ברוח שלך</l>
+          <l>מתלבטת מול חלונך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אותם הצלילים באים והולכים</l>
+          <l>שיחות ארוכות על אהבה</l>
+          <l>תני לי עוד פעם אחת</l>
+          <l>להרגיש את חום גופך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כבר אמרת לי וסיפרת לי על אחר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

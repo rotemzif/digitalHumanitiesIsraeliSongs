@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נאדיה</title>
+        <singer classification="female singer">עדנה לב</singer>
+        <writer>עדנה לב</writer>
+        <composer>גידי שטרן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נאדיה</head>
+        <lg number="1" type="stanza">
+          <l>ברחובות העיר, עיר שחצויה, </l>
+          <l>קול המואזין מפריע לדממה. </l>
+          <l>ברחובות השוק מהלכת לבדה, </l>
+          <l>מרחוק מביט בה וליבו בה נשבע. </l>
+          <l>ואינה יודעת שאין דרך חזרה. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואי (יה) נאדיה, בואי (יה) נאדיה, </l>
+          <l>עם סליחה ונדר הוא שלך הגבר. </l>
+          <l>בואי נאדיה, בואי (יה) נאדיה, </l>
+          <l>עם סליחה ונדר הוא שלך הגבר. </l>
+          <l>כן (יה), נאדיה! </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בחוצות העיר אין להם מקלט, </l>
+          <l>במפגש חשוף למגע ומבט. </l>
+          <l>עם עלות היום, ילכו הם בדרכם </l>
+          <l>עם האש אשר בוערת בתוך דמם. </l>
+          <l>בני עמים שונים לא יקבלו אהבתה. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בואי (יה) נאדיה... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ברחובות העיר, עיר שחצויה, </l>
+          <l>קול המואזין מפריע לדממה. </l>
+          <l>עם עלות היום, ילכו הם לבדם, </l>
+          <l>לא תכבה האש אשר בוערת בדמם. </l>
+          <l>בני עמים שונים לא יקבלו אהבתם. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בואי (יה) נאדיה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

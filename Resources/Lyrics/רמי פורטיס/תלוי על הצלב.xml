@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תלוי על הצלב</title>
+        <singer classification="male singer">רמי פורטיס</singer>
+        <writer>רמי פורטיס</writer>
+        <composer>יובל שפריר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תלוי על הצלב</head>
+        <lg number="1" type="stanza">
+          <l>אני תלוי על הצלב</l>
+          <l>עם חרב נינג'ה בגב</l>
+          <l>שוחה בתוך המשחה</l>
+          <l>של דם טירוף ושנאה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני תלוי על הצלב</l>
+          <l>בגלל שיש לי זנב</l>
+          <l>חי בעולם מזויף</l>
+          <l>של צבע גזע ודת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שובי שובי אלי</l>
+          <l>השוט השוט מעלי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני תלוי על הצלב</l>
+          <l>רק ילד טוב שנגנב</l>
+          <l>זקוק לקצת אהבה</l>
+          <l>אך את כל כך רחוקה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שובי שובי אלי</l>
+          <l>השוט השוט מעלי</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כשאת איתי הכל משתנה לפתע</l>
+          <l>כמו להיות על סם או כל כך רחוק</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את מנסה אותי</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>שמואל אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את מנסה אותי</head>
+        <lg number="1" type="stanza">
+          <l>אני אומר את האמת וזה פשוט</l>
+          <l>אבל בראש שלך תמיד אני חשוד</l>
+          <l>אני יודע שאת לא מאמינה לי</l>
+          <l>כי את עושה לי בלאגנים מכל שטות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בכל שיחה איתך מרגיש כמו חקירה</l>
+          <l>את כל החשדות שלך את מסגירה</l>
+          <l>אני מזמן כבר לא תלמיד בבית הספר</l>
+          <l>וברור לשנינו שאת לא מורה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את מנסה אותי, את האמת חושפת</l>
+          <l>בכל שעה פנויה עושה לי עוד מבחן</l>
+          <l>את מנסה אותי, אחרי רודפת</l>
+          <l>לא תיתפסי אותי תמיד אני מוכן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם את אוהבת אז עזבי אותי עכשיו</l>
+          <l>כי לי נמאס להמלט כמו גנב</l>
+          <l>אפילו לדקה אחת את לא עוזבת</l>
+          <l>לא מניחה לי, מחוברת כמו זנב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את מנסה אותי, את האמת חושפת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

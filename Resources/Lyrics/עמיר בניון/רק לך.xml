@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק לך 4</title>
+        <singer classification="male singer">עמיר בניון</singer>
+        <writer>עמיר בניון</writer>
+        <composer>עמיר בניון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק לך</head>
+        <lg number="1" type="stanza">
+          <l>תכוון אותי אבא, אפילו רק ברמז דק</l>
+          <l>תראה לי מי אני אבא, תמיד אודה לך על כך</l>
+          <l>מסתבר תמיד היית לי חבר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רק לך תודה מכל הלב,</l>
+          <l>רק לך תודה מכל הלב, אבא</l>
+          <l>גם כשהוא קצת כואב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>האר פנייך אלי אבא, אפילו רק לשניות ספורות</l>
+          <l>גרש את השדים אבא, כדי שאוכל אתך להיות</l>
+          <l>חבר, כמו שאתה לי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

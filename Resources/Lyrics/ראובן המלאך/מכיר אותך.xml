@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מכיר אותך</title>
+        <singer classification="unknown">ראובן המלאך</singer>
+        <writer>אלון צדוק</writer>
+        <composer>אריק זנטי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מכיר אותך</head>
+        <lg number="1" type="stanza">
+          <l>את תמיד עושה מה שאת רוצה,</l>
+          <l>ולך לא אכפת מי נמצא בסביבה,</l>
+          <l>להגיד את הכל את לא פוחדת,</l>
+          <l>ואת הרגשות שלך לעצמך את שומרת.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני מכיר אותך יותר טוב מכולם,</l>
+          <l>רק אני יודע שאת דבר מושלם</l>
+          <l>אני מכיר אותך יותר טוב מכולם,</l>
+          <l>בשבילי תמיד תהיי כל העולם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את כל כך יפה מכל הבנות,</l>
+          <l>את האופי שלך את צריכה לשנות,</l>
+          <l>בלי שום סיבה עלי כועסת,</l>
+          <l>ואת הרגשות שלך לעצמך את שומרת.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני מכיר אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

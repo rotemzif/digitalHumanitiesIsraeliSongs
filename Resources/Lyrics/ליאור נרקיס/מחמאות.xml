@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחמאות</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>מילים שלא אמרת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחמאות</head>
+        <lg number="1" type="stanza">
+          <l>אני שר לך מחמאות שגורמות ללחייך להסמיק.</l>
+          <l>מפזר מילים יפות ולא מתכוון אף פעם להפסיק</l>
+          <l>ואת מתוקה כמו נשיקה, כוכב בשמיים שלי, </l>
+          <l>את לילה ויום מציאות וחלום את כל העולם בשבילי. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את המלכה, את כל מה שרציתי</l>
+          <l>כמו אלף שנים ארוכות לך חיכיתי </l>
+          <l>וכמה הלב השתולל כשראיתי אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ככה לעולם אלך, אחרייך לפרגן ולאהוב.</l>
+          <l>רק המשיכי לחייך החיוך הזה שלך עושה לי טוב.</l>
+          <l>ואת מתוקה כמו נשיקה, כוכב בשמיים שלי,</l>
+          <l>את לילה ויום, מציאות וחלום, את כל העולם בשבילי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את המלכה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

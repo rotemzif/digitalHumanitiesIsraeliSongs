@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלי שלי 2</title>
+        <singer classification="male singer">שריף</singer>
+        <writer>דני שושן</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלי שלי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>שלי, שלי, רק איתי</l>
+          <l>שלי, שלי, אהובתי</l>
+          <l>שלי, שלי, מתוקתי</l>
+          <l>שלי, שלי, בתוך ליבי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אוהב אותך כל החיים</l>
+          <l>אוהב אותך לעולמים</l>
+          <l>ולך אתן את כל חיי</l>
+          <l>איתך אהיה עד סוף ימיי</l>
+          <l>רוצה אותך כל השנים</l>
+          <l>תני לי, תני לעולמים</l>
+          <l>שלי, שלי, רק שלי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שלי, שלי, רק איתי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את צעירה ואת יפה</l>
+          <l>ולך אתן את הנשמה</l>
+          <l>את לי אחת היחידה</l>
+          <l>בואי, תני לי אהבה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אוהב אותך כל החיים</l>
+          <l>אוהב אותך לעולמים</l>
+          <l>רוצה אותך כל השנים</l>
+          <l>בליבי לעולמים</l>
+          <l>שלי, שלי, רק שלי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שלי, שלי, רק איתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

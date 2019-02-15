@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איתי או נגדי</title>
+        <singer classification="unknown">ניר כרמלי</singer>
+        <writer>מאיר עמר</writer>
+        <composer>איתי זילברשטין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איתי או נגדי</head>
+        <lg number="1" type="stanza">
+          <l>רגע אחד את איתי </l>
+          <l>רגע שני זה נגדי </l>
+          <l>איך את בכלל מסבירה </l>
+          <l>שאת אוהבת אותי </l>
+          <l>כמו ספינה בלב הים </l>
+          <l>את מטלטלת את כולם </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמה אפשר למתוח את החבל </l>
+          <l>למה את ממשיכה לגרום לי סבל </l>
+          <l>ככה אני בסוף אפשוט ת'רגל </l>
+          <l>בואי תראי אהבה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל יום ראשון את איתי </l>
+          <l>עוזבת עד יום חמישי </l>
+          <l>כמה אפשר לשחק </l>
+          <l>ככה אני מתפרק </l>
+          <l>כמו ספינה בלב הים </l>
+          <l>את מטלטלת אולי סתם </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמה אפשר למתוח את החבל </l>
+          <l>למה את ממשיכה לגרום לי סבל </l>
+          <l>ככה אני בסוף אפשוט ת'רגל </l>
+          <l>בואי תראי אהבה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

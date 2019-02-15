@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עכשיו זה טוב</title>
+        <singer classification="unknown">שני מאיו</singer>
+        <writer>שגיא הרשקו</writer>
+        <composer>שגיא הרשקו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עכשיו זה טוב</head>
+        <lg number="1" type="stanza">
+          <l>עכשיו אני עוזבת ולא בשביל לחזור</l>
+          <l>ואם אני חוזרת  זה לא כי אין לי שם מקום</l>
+          <l>עכשיו אני יודעת שגם הזמן שלי אוזל</l>
+          <l>אבל עוד יש לי כח לזרוק הכל לעזאזל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עכשיו זה טוב</l>
+          <l>עכשיו זה בא</l>
+          <l>עכשיו זה כבר מרגיש נפלא</l>
+          <l>כי אם הייתה לפה כניסה</l>
+          <l>אז יש מפה גם יציאה</l>
+          <l>עכשיו זה טוב</l>
+          <l>עכשיו זה בא</l>
+          <l>עכשיו זה כבר לא בגללך</l>
+          <l>הדרך שהגעתי בה</l>
+          <l>תהיה הדרך חזרה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכשיו אני עוברת  והדרכים עוברות מולי</l>
+          <l>הרוח מייללת  אבל זה רק מצחיק אותי</l>
+          <l>עכשיו אני זוכרת וגם אתה ודאי זוכר</l>
+          <l>ההתרגשות חוזרת  אבל אותי זה לא שובר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עכשיו זה טוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

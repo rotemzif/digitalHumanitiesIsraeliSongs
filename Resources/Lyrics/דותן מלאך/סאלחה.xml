@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סאלחה</title>
+        <singer classification="unknown">דותן מלאך</singer>
+        <writer>דותן מלאך</writer>
+        <composer>דותן מלאך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סאלחה</head>
+        <lg number="1" type="stanza">
+          <l>ולא שם לא, לא בכפר שלו </l>
+          <l>ולא שם לא, זה לא העם שלו </l>
+          <l>ולא שם לא, ולא שם לא </l>
+          <l>ולא שם לא </l>
+          <l>איפה? </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סלאחה סלאחה </l>
+          <l>תביט בשמיים </l>
+          <l>סלאחה סלאחה </l>
+          <l>תראה כוכבים </l>
+          <l>סלאחה סלאחה </l>
+          <l>ירוק, מים </l>
+          <l>שני אנשים מדברים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אדם נולד אדם, נולד אדם </l>
+          <l>מספרים לו </l>
+          <l>אדם לא רק אדם </l>
+          <l>עכשיו הוא מסמל </l>
+          <l>לאן אפשר ללכת </l>
+          <l>ומה בכלל אפשר כבר לתקן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סלאחה סלאחה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

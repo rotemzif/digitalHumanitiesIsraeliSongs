@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>התעודד אדם</title>
+        <singer classification="unknown">חיים אשואל</singer>
+        <writer>חיים אשואל</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>התעודד אדם</head>
+        <lg number="1" type="stanza">
+          <l>אדם לאוהלו בבוקר ילך,</l>
+          <l>זו משאת נפשו את אלוקיו הוא יברך,</l>
+          <l>פעם הוא שמח ופעם הוא כואב,</l>
+          <l>תמיד יתן תודה ושיר מכל הלב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>התעודד התחזק בן אדם</l>
+          <l>מהעמל והטורח לא חוזר ריקם</l>
+          <l>שא עיניך לבורא עולם </l>
+          <l>הממלא משאלות לבדם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אדם בתפילתו יבקש מאלוקיו,</l>
+          <l>שלומו וטובתו על אושרו ועל בניו,</l>
+          <l>גם אם ימים קשים לפעמים יהיו ימיו</l>
+          <l>וטוב שיבקש וישא את דמעותיו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>התעודד התחזק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

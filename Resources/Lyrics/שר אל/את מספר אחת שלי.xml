@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את מספר אחת שלי</title>
+        <singer classification="unknown">שר אל</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>יוסי בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את מספר אחת שלי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>את מספר אחת שלי, אין עלייך יפתי</l>
+          <l>לך ליבי ונשמתי, רק אימרי הכל תיקחי</l>
+          <l>את מספר אחת שלי, אין עלייך יפתי</l>
+          <l>לך ליבי ונשמתי, רק אימרי הכל תיקחי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את נותנת את הכח להמשיך שאין מנוח</l>
+          <l>מכתיבה לי את הקצב בחיוך איתך אין עצב</l>
+          <l>את אישה מתנת שמיים, את כוכב מאיר עיניים</l>
+          <l>שקולך דבר מודיע בשנייה אני מגיע</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את מספר אחת שלי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רק רציתי להגיד לך ששבור או סתם עצוב לך</l>
+          <l>כמו פריחה שמדבקת גם אני פתאום בסרט</l>
+          <l>לך נשבעתי שביחד אהבה תהיה בלי פחד</l>
+          <l>בגדול אני יודע המבט שלך פורח</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את מספר אחת שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

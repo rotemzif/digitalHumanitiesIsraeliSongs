@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>להימליה</title>
+        <singer classification="male singer">ששי קשת</singer>
+        <writer>שמרית אור</writer>
+        <composer>קובי אושרת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>להימליה</head>
+        <lg number="1" type="stanza">
+          <l>הר גבוה יש בקצה עולם</l>
+          <l>ושבילו נסתר ונעלם</l>
+          <l>אם נמצא רק פעם את השביל</l>
+          <l>הוא אל ראש ההר אותנו יוביל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>להימליה, להימליה</l>
+          <l>באש או מיא </l>
+          <l>עוד נעבור</l>
+          <l>להימליה, עד להימליה</l>
+          <l>עד לפסגה נגיע, ונעבור</l>
+          <l>עד לפסגה</l>
+          <l>ושוב הביתה נחזור.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הר גבוה יש בקצה עולם</l>
+          <l>לא נרפה עד שנבוא לשם</l>
+          <l>רק לנשום מעט מן הגבהים</l>
+          <l>לאויר טהור כולנו באים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>להימליה, להימליה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הר גבוה יש בקצה עולם</l>
+          <l>הר גדול ניצב בפני כולם</l>
+          <l>כל אדם רוצה רק לגלות</l>
+          <l>את הדרך בה אפשר לעלות -</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>להימליה, להימליה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

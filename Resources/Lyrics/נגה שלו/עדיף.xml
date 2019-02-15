@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עדיף 8</title>
+        <singer classification="unknown">נגה שלו</singer>
+        <writer>נגה שלו</writer>
+        <composer>נגה שלו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עדיף</head>
+        <lg number="1" type="stanza">
+          <l>אז מה אם אתה בוכה עכשיו</l>
+          <l>אז מה אם אתה רוצה</l>
+          <l>אז מה אם אתה רוצה עכשיו</l>
+          <l>אז מה אם אתה בוכה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אולי עדיף</l>
+          <l>עדיף שתפסיק</l>
+          <l>עדיף שתתקפל בצד</l>
+          <l>עדיף שתתקפל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז מחר תתעורר</l>
+          <l>ותרוץ לספר</l>
+          <l>איך בכית כל הלילה </l>
+          <l>וכמה שהיה קשה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אולי עדיף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם נרצה</title>
+        <singer classification="male singer">יואב יצחק</singer>
+        <writer>אלי קפה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם נרצה</head>
+        <lg number="1" type="stanza">
+          <l>איך חלפו להם שנים</l>
+          <l>כמו הענן שנמוג</l>
+          <l>איך המזל האיר פנים</l>
+          <l>עד שפנית לאחור</l>
+          <l>בשפתיי הרכות מבקש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם נרצה אם נרצה</l>
+          <l>את הגלגל להחזיר</l>
+          <l>אם נרצה אם רק נרצה</l>
+          <l>תני לי כוחות ואוויר</l>
+          <l>בשפתי הרכות מבקש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שתי ידי חבקו בחום</l>
+          <l>את חמוקי יפתי</l>
+          <l>את שחיכי לי כל היום</l>
+          <l>עד שנשברת והחשיך</l>
+          <l>בשפתי הרכות מבקש</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם נרצה אם נרצה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

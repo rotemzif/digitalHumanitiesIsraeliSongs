@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כנראה שהתאהבתי</title>
+        <singer classification="male singer">שימי תבורי</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כנראה שהתאהבתי</head>
+        <lg number="1" type="stanza">
+          <l>אני לא נרדם בלילה, מסתובב כמו משוגע</l>
+          <l>מהרגע שראיתי את פנייך</l>
+          <l>כנראה שהתאהבתי, ראשי עלי סחרחר </l>
+          <l>ממה שלי עשו עינייך</l>
+          <l>מדמיין אותנו יחד, שנינו רק אני ואת</l>
+          <l>יוצא מדעת בלעדייך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל הלילה מכושף ממבטך</l>
+          <l>והלב שיכור טובע ביופייך</l>
+          <l>לא יודע מה קורה לי בגללך</l>
+          <l>את אשמה, נשמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לו יכולתי להגיע, עד אלייך מתוקה</l>
+          <l>להביט בך ולומר את משגעת</l>
+          <l>אך אני לבד בינתיים ואת שם רחוקה</l>
+          <l>מאוהב בך ואת לא יודעת</l>
+          <l>מדמיין אותנו יחד, שנינו רק אני ואת</l>
+          <l>בלי להרגיש יוצא מדעת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל הלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

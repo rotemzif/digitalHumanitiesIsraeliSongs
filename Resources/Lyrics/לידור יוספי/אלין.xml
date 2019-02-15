@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלין 7</title>
+        <singer classification="male singer">לידור יוספי</singer>
+        <writer>כריסטוף</writer>
+        <composer>כריסטוף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלין</head>
+        <lg number="1" type="stanza">
+          <l>הייתי אבוד מול החושך</l>
+          <l>נול השמיים שלא נפתחו</l>
+          <l>רציתי למות כשמת האושר</l>
+          <l>אך מבטייך אלי נשלחו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הלב קורא, קורא</l>
+          <l>אלין מים עד ים</l>
+          <l>כי את בוראת, בוראת</l>
+          <l>בשביל שנינו את העולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נתת לי חיים נתת לי גם כח</l>
+          <l>יותר לא לברוח לא לוותר</l>
+          <l>אין ספור פלאים יש בשפתייך</l>
+          <l>ובין זרועותייך יש עוד יותר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הלב קורא, קורא...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תני לי לשמור עלי ועלייך</l>
+          <l>על חיוכייך על החום והאור</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הלב קורא, קורא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

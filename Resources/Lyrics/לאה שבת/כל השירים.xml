@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל השירים</title>
+        <singer classification="female singer">לאה שבת</singer>
+        <writer>לאה שבת</writer>
+        <composer>לאה שבת</composer>
+        <album>כל השירים - אוסף</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל השירים</head>
+        <lg number="1" type="stanza">
+          <l>כל השירים </l>
+          <l>סיפורי חיים </l>
+          <l>תחנות בדרך רגעים בזמן </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שיר על תקווה </l>
+          <l>שיר שרוצה אהבה </l>
+          <l>שיר שמתחיל לנסוע </l>
+          <l>שיר שמצא </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני אוהבת לשיר </l>
+          <l>עם השירים אני הגעתי </l>
+          <l>בשביל לתת </l>
+          <l>באמת </l>
+          <l>אני אוהבת לכתוב</l>
+          <l>על כל מה שאני חולמת </l>
+          <l>וזה בא </l>
+          <l>מהלב </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל הצבעים כל הרגש בפנים </l>
+          <l>כל חלון פתוח לימים טובים </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אבן אחת </l>
+          <l>שאחרי שנים </l>
+          <l>המים חרצו בה </l>
+          <l>סימני חיים </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני אוהבת לשיר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

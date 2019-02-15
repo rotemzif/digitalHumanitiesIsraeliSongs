@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תני חיבוק ילדונת</title>
+        <singer classification="male singer">יואב יצחק</singer>
+        <writer>יואב יצחק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תני חיבוק ילדונת</head>
+        <lg number="1" type="stanza">
+          <l>איך החיוך שלך אותי שוב משגע</l>
+          <l>והריקוד איתך היה כל כך סוער</l>
+          <l>ליבי פעם ואת אמרת: אתה נוגע</l>
+          <l>אני נוסע, מקווה לא לאחר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תני חיבוק, ילדונת, נשיקה וכתובת</l>
+          <l>קול צחוקך אני שומע, כבר מתגעגע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני חוזר שוב אל העיר וכבר שומע</l>
+          <l>שאת רוקדת עם אחר וזה כואב</l>
+          <l>אני רציתי לך לקטוף את הירח</l>
+          <l>בחלומות שלי בניתי לנו קן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תני חיבוק, ילדונת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

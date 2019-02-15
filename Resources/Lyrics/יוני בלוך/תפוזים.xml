@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תפוזים</title>
+        <singer classification="male singer">יוני בלוך</singer>
+        <writer>ברק פלדמן</writer>
+        <composer>יוני בלוך</composer>
+        <album>אולי זה אני</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תפוזים</head>
+        <lg number="1" type="stanza">
+          <l>בכית כשדיברנו, אבל לא רצית</l>
+          <l>לומר לי על מה, ולמה בכית</l>
+          <l>אמרת שבגלל שרע לך איתי</l>
+          <l>ורע לך שאת עוד אוהבת אותי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אז הלכתי הצידה, וסחטתי לך</l>
+          <l>שלושים תפוזים שהיו במטבח</l>
+          <l>את חייכת כששאלת אם זה מיץ אמיתי</l>
+          <l>אולי את בכל זאת אוהבת אותי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

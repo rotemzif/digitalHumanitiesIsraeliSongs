@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחרת 6</title>
+        <singer classification="female singer">עדנה לב</singer>
+        <writer>עדנה לב</writer>
+        <composer>אלדד שרים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחרת</head>
+        <lg number="1" type="stanza">
+          <l>הלכתי איתך בדרכים, </l>
+          <l>סבלתי מאה אהבות, </l>
+          <l>החלפתי הרבה כיוונים, </l>
+          <l>שיניתי הרבה החלטות. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>דחיתי המון אבירים, </l>
+          <l>זנחתי כמה חברות. </l>
+          <l>כתבתי אותך בשירים, </l>
+          <l>בכיתי אותך בלילות. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לפעמים פשוט נדמה שזו אחרת, לא אני! </l>
+          <l>ומישהי פשוט שיחקה לה שם את תפקידי! </l>
+          <l>מישהי שיחקה לה את תפקידי, </l>
+          <l>שיחקה אותה שם, במקומי! </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חיפשתי אמת בשירים, </l>
+          <l>שיניתי כיוון בלי מפות, </l>
+          <l>חייתי על "חוקים אבודים", </l>
+          <l>סירבתי להפר הבטחות. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שיקרתי רק שקרים לבנים, </l>
+          <l>ביצעתי רק קצת עבירות, </l>
+          <l>לכישלונות - קראתי "אחרונים", </l>
+          <l>לאהבות - קראתי "יחידות". </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לפעמים פשוט נדמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

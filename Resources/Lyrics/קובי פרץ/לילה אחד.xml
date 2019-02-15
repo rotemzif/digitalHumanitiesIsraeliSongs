@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילה אחד 3</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>שמואל אלבז</composer>
+        <album>איך שבא לי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילה אחד</head>
+        <lg number="1" type="stanza">
+          <l>לילה אחד אהבה מהצד לילה מסובך</l>
+          <l>רגע של פרידה והכל דעך</l>
+          <l>לילה אחד ועכשיו את לבד בבדידות שלך</l>
+          <l>הוא לא יחזור לאהוב אותך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את לא מבינה, זאת לא אהבה, סתם כאב חולף</l>
+          <l>זה קטע אחר, זה בא ועובר, ולפעמים סוחף</l>
+          <l>את לא מוותרת, רוצה עוד לגעת, כמה שאפשר</l>
+          <l>עמוק בליבך, את בטח יודעת, עכשיו זה מאוחר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את לבדך במיטה מפוזרת מנסה לזכור</l>
+          <l>איך הוא נעלם כשעלה האור</l>
+          <l>את לבדך סיגריה בוערת כוס קפה שחור</l>
+          <l>לא מאמינה הוא לא יחזור.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את לא מבינה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

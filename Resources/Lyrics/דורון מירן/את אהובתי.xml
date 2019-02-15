@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את אהובתי</title>
+        <singer classification="unknown">דורון מירן</singer>
+        <writer>א. כרמל</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את אהובתי</head>
+        <lg number="1" type="stanza">
+          <l>שחור עינייך עושה אותי המום מהפנט אותי</l>
+          <l>אודם לשפתיך משאיר אותי שיכור מסחרר ראשי</l>
+          <l>מילה שאת אומרת נשמעת לי מנגינה ובא לי לשיר</l>
+          <l>מביט בך ויודע את לא רגילה את דבר נדיר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בא לי לומר לך בקול גבוה, שהעולם יידע, את אהובתי</l>
+          <l>בא לי לומר לך בקול גבוה, שהעולם יידע, את אהובתי</l>
+          <l>בא לי לומר לך בקול גבוה, שהעולם יידע, את אהובתי</l>
+          <l>בא לי לומר לך בקול גבוה, שהעולם יידע, את אהובתי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד יעברו ימים, את עוד תגדלי </l>
+          <l>כגודל העולם אני אוהב אותך, את לי עולמי </l>
+          <l>עוד פעם ובכל פעם חזק עוד יותר </l>
+          <l>חולה עלייך ואלייך אני חוזר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בא לי לומר לך בקול גבוה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

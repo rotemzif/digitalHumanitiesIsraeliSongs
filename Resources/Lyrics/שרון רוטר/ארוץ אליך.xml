@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ארוץ אליך</title>
+        <singer classification="female singer">שרון רוטר</singer>
+        <writer>ברי סחרוף</writer>
+        <composer>שרון רוטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ארוץ אליך</head>
+        <lg number="1" type="stanza">
+          <l>גם אם תעשה בי עוד</l>
+          <l>גם אם חם מאוד</l>
+          <l>גם אם תתעקש לבוא</l>
+          <l>גם אם לא</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני ארוץ אליך תמיד מעליך</l>
+          <l>אני ארוץ אליך להציץ בעיניך (אם רק תבוא...)</l>
+          <l>כל הציפורים מצייצות בדלת שלך</l>
+          <l>כל הציפורים מבקשות מהפכה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גם אם תעשה בי טוב</l>
+          <l>מים, קרן אור.</l>
+          <l>גם אם תתרגש מאוד</l>
+          <l>גם אם לא.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני ארוץ אליך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כל הציפורים מצייצות בדלת שלך</l>
+          <l>כל הציפורים מצייצות לאהבה</l>
+          <l>כל הציפורים מנסות לגעת בך</l>
+          <l>כל הציפורים מבקשות מהפכה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני ארוץ אליך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

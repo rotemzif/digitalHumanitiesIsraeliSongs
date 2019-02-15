@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חייל וזונה</title>
+        <singer classification="male singer">נינו אורסיאנו</singer>
+        <writer>ארז ברזוליק</writer>
+        <composer>נינו אורסיאנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חייל וזונה</head>
+        <lg number="1" type="stanza">
+          <l>החייל מביא לזונה זר פרחים </l>
+          <l>בבית הקברות הם נפגשים בגניבה </l>
+          <l>הוא חזר מהקרב ושם היא עמדה </l>
+          <l>חייל וזונה עושים אהבה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש לו רובה ודם על מדיו </l>
+          <l>הירח מלמעלה, בבוץ הם שוכבים </l>
+          <l>החייל מזיין לאט ת'זונה. </l>
+          <l>זונה קרה - חיילים אוהבים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הבסיס רחוק המלחמה נגמרה </l>
+          <l>החייל לובש את מדיו הזרים </l>
+          <l>עכשיו הוא חוזר לאמא שלו </l>
+          <l>הזונה מחכה לעוד חיילים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מרסי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

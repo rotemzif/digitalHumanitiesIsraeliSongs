@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Angel Without Wing</title>
+        <singer classification="unknown">גיל כהן</singer>
+        <writer>גלעד כהן</writer>
+        <composer>גלעד כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Angel Without Wing</head>
+        <lg number="1" type="stanza">
+          <l>she's walking the streets of downtown L.A </l>
+          <l>sleeps in a different place everyday </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>she could be anything she wants </l>
+          <l>a little girl lost in the world </l>
+          <l>maybe she'll wait for something good </l>
+          <l>believe in herself if she could </l>
+          <l>an angel without wings, a bird that can't sing </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>often she dreams seldom she wakes </l>
+          <l>reality's been too sour to taste </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>she could be anything she wants... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>may your ways drown your worries</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

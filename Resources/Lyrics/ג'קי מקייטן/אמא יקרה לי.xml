@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמא יקרה לי</title>
+        <singer classification="unknown">ג קי מקייטן</singer>
+        <writer>משה דפנא</writer>
+        <composer>נחום נרדי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמא יקרה לי</head>
+        <lg number="1" type="stanza">
+          <l>אמא יקרה לי, יקרה </l>
+          <l>אמא יקרה לי, יקרה </l>
+          <l>אמא יקרה שלי </l>
+          <l>מאוד אוהבת היא אותי </l>
+          <l>מאוד מאוד</l>
+          <l>מאוד מאוד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שיר קטן אשירה לך </l>
+          <l>כי אני אוהב אותך </l>
+          <l>אוהב אותך </l>
+          <l>אוהב אותך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אחייך אלייך, אחייך</l>
+          <l>אחייך אלייך, אחייך</l>
+          <l>שי קטן אגישה לך</l>
+          <l>כי אני אוהב אותך</l>
+          <l>אוהב אותך</l>
+          <l>אוהב אותך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שיר קטן אשירה לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

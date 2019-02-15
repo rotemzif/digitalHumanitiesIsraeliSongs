@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ליבי איתך 2</title>
+        <singer classification="male singer">תומר חן</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ליבי איתך</head>
+        <lg number="1" type="stanza">
+          <l>הלילה יורד עוד יום שוקע</l>
+          <l>ליבי שוב רועד שבך נוגע</l>
+          <l>לוקח אויר עוצם עיניים</l>
+          <l>ולא מאמין אנחנו בשניים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ליבי איתך</l>
+          <l>כי את היחידה בחיי</l>
+          <l>ליבי איתך ורק לך אתן את עיני</l>
+          <l>ליבי איתך בטוב וברע</l>
+          <l>לעולם לנצח איתך</l>
+          <l>כי רק בזכותך אני קיים</l>
+          <l>כמו גוף לנשמה אנחנו שנינו</l>
+          <l>אני לך נשבע עד סופ חייני</l>
+          <l>לצידך מאיר הבוקר</l>
+          <l>אז יחד נלך (איתך בשביל האושר)</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ליבי איתך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

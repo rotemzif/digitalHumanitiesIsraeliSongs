@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הפרוצה החלוצה</title>
+        <singer classification="band">בצל ירוק</singer>
+        <writer>חיים חפר</writer>
+        <composer>סשה ארגוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הפרוצה החלוצה</head>
+        <lg number="1" type="stanza">
+          <l>לי לא היה אף פעם בית לשבת,</l>
+          <l>לי לא היה אפילו רחוב,</l>
+          <l>אני הייתי מסתובבת</l>
+          <l>ומשדלת בתוך הנוף.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לפועלים בים המלח ואורון</l>
+          <l>תמיד הייתי כמו אמא טובה,</l>
+          <l>אף כי הייתי היחידה שם בדרום</l>
+          <l>שלא קיבלה תוספת ערבה...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כל זה מדוע -</l>
+          <l>כי שם הייתי נחוצה,</l>
+          <l>כן, זה ידוע -</l>
+          <l>זה גורלה של הפרוצה החלוצה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ויום אחד פתאום הופיעה ניידת</l>
+          <l>והשוטר אמר: עלי!</l>
+          <l>היו שלום אדמת מולדת</l>
+          <l>וארץ נגב, ביתי שלי!...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עכשיו עצוב לפועלים במכתשים,</l>
+          <l>אך בבית סוהר עצוב קצת יותר.</l>
+          <l>חכו, חכו! כשאצא אל החופשי -</l>
+          <l>על נוף הנגב שוב לא אוותר...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כל זה מדוע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

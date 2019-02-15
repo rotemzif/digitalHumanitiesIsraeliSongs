@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הדרך פרושה מאחור</title>
+        <singer classification="unknown">תומר בן אפרים</singer>
+        <writer>תומר בן אפרים</writer>
+        <composer>תומר בן אפרים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הדרך פרושה מאחור</head>
+        <lg number="1" type="stanza">
+          <l>נכון תמיד, תמיד היית </l>
+          <l>חבר מועדון, במקום ראשון </l>
+          <l>על הירח כבר ביקרת </l>
+          <l>כבשת פסגות מושלגות </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הכל עובר חביבי </l>
+          <l>נופל ונושר חביבי </l>
+          <l>ואין מעצור חביבי </l>
+          <l>הדרך פרושה מאחור </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>על סיפונה של המשחתת </l>
+          <l>התותחים, הם כבר לא יורים </l>
+          <l>נטשו אותה אנשי הצוות </l>
+          <l>והעכברושים או טו טו קופצים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הכל עובר חביבי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

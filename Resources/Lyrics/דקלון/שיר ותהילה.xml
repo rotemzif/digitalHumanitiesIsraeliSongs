@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר ותהילה</title>
+        <singer classification="male singer">דקלון</singer>
+        <writer>דאגלאס ג'קסון</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר ותהילה</head>
+        <lg number="1" type="stanza">
+          <l>עת אפקח עיניים</l>
+          <l>אראה עולם בשלל צבעים</l>
+          <l>ארץ, ים, שמיים</l>
+          <l>מה טוב ומה נעים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הוא משתנה בלי הרף</l>
+          <l>עונה תרדוף עונה</l>
+          <l>אז נשיר כולנו יחד לשוכן מענה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שיר נשירה יחד, שיר ותהילה</l>
+          <l>יד נושיט כולנו ונישא תפילה</l>
+          <l>שיר חדש נשירה לדר זבולה</l>
+          <l>נהללו בפינו נורא עלילה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בוא איתי ביחד ונעשה תשובה</l>
+          <l>היא תעטוף אותנו חום ואהבה </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יד ביד ניתנה וחבוקים נצעד </l>
+          <l>איש את רעהו יעזורו יחד לא נמעד. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שיר נשירה יחד....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

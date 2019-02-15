@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נכנע 6</title>
+        <singer classification="band">סינרגיה</singer>
+        <writer>רועי גפן</writer>
+        <composer>missing</composer>
+        <album>השתקפות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נכנע</head>
+        <lg number="1" type="stanza">
+          <l>רגעים קשים, מנסה לנשום מעט</l>
+          <l>מחפש דרכים והזמן עובר לאט</l>
+          <l>רציתי לשאול אותם "מתי הסיוט הזה נגמר?"</l>
+          <l>הבטחתי לחזור מכאן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נלחם בעצמי, חוסם זכרונות</l>
+          <l>נקרע מבפנים, פוחד לנסות</l>
+          <l>מרוב הכאב כבר לא מרגישים</l>
+          <l>מביט מהצד ולא מאמין</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הימים עוברים ואולי אחלים איתם</l>
+          <l>מאבד תחושה, מנסה לצעוק, נכנע</l>
+          <l>הכל נעלם עכשיו, השקט חזק יותר מכל</l>
+          <l>אני לא אחזור מכאן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נלחם בעצמי, חוסם זכרונות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עשב ימינו</title>
+        <singer classification="male singer">בני בשן</singer>
+        <writer>בני בשן</writer>
+        <composer>בני בשן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עשב ימינו</head>
+        <lg number="1" type="stanza">
+          <l>יקרה לא תאמיני</l>
+          <l>איך כל השירים יפים לי</l>
+          <l>מול הים יש כותנה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תציירי לי את הקצב </l>
+          <l>תנשמי את הירח</l>
+          <l>מול הים יש כותנה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עשב ימינו </l>
+          <l>נע ברוח חמה</l>
+          <l>כפל ידינו</l>
+          <l>אהבה חלקי אהבה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נוטפים געגועי זכוכית</l>
+          <l>חום וילון עוטף חלון</l>
+          <l>רגשות בניאון</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני אדם ממש מגעיל</l>
+          <l>אך יש לי עור של חצי פיל</l>
+          <l>רגשות בניאון</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עשב ימינו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

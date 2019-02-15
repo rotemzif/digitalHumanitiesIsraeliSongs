@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא רוצה לקום בבוקר 2</title>
+        <singer classification="band">תיסלם</singer>
+        <writer>יאיר ניצני</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא רוצה לקום בבוקר</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>לא רוצה לקום בבוקר</l>
+          <l>יש לי עוד דקה לישון</l>
+          <l>תנו לי עוד שעה של אושר</l>
+          <l>לא רוצה לצאת מהחלום</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בחלום אני בדרך לבית ספר</l>
+          <l>אני מגיע נכנס ומאחר</l>
+          <l>ומדברים שם על עצים ועל בננות</l>
+          <l>אך מסתבר שהחיים הם משהו אחר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא רוצה לקום בבוקר...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ובכיתה שהמורה פתאום נכנסת</l>
+          <l>ומספרת על פרחים שנתרשם</l>
+          <l>אני יודע שהראש שלי בבית</l>
+          <l>אני עצוב ומדוכא ושוב מרגיש אשם</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא רוצה לקום בבוקר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

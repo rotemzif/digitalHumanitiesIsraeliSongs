@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אביר 4</title>
+        <singer classification="band">זקני צפת</singer>
+        <writer>מאור כהן</writer>
+        <composer>מאור כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אביר</head>
+        <lg number="1" type="stanza">
+          <l>יושב לי ומחכה לה כמו מלאך</l>
+          <l>החיים שלי עולים על מסך</l>
+          <l>חולמת על יום שיבוא</l>
+          <l>היא חושבת שהחיים זה כלבו.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם אתה רוצה להיות אביר</l>
+          <l>תשאל את השכן אם הוא נושא כלים</l>
+          <l>אם אתה רוצה, רק אם אתה מוצא.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חושב לי שבא לי פתאום אני מוצא</l>
+          <l>שהחיים זה בעצם מחזה</l>
+          <l>שואל שאלות טובות</l>
+          <l>זה טוב לי או רע לי רואים בתמונות.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם אתה רוצה....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

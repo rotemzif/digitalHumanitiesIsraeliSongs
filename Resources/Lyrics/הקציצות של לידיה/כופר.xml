@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כופר</title>
+        <singer classification="unknown">הקציצות של לידיה</singer>
+        <writer>אביתר אדרי</writer>
+        <composer>אביתר אדרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כופר</head>
+        <lg number="1" type="stanza">
+          <l>ראשי נישא אל על </l>
+          <l>חש בכובד משקלם </l>
+          <l>חש בחולי כסילותם </l>
+          <l>של הרהורי כפירה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא אכנע לבדידותי </l>
+          <l>לא אתבוסס בצדקתי </l>
+          <l>לא אבקש סליחה מאל </l>
+          <l>לא אכפר על חטא גואל </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עומד אני - גופי שפוף </l>
+          <l>חומד אל קרקע מוצקה </l>
+          <l>רוחות קדושה שורפות עורי </l>
+          <l>לא ימגרו אמונתי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בקץ ימים אפתח ידי </l>
+          <l>ודרכי תואר באור כופרים </l>
+          <l>לא אמתין לאיש שומר שכמי </l>
+          <l>אצעד בגאון אל יום מותי </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא אכנע לבדידותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

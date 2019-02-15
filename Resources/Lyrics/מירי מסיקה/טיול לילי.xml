@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טיול לילי 9</title>
+        <singer classification="female singer">מירי מסיקה</singer>
+        <writer>קרן פלס</writer>
+        <composer>קרן פלס</composer>
+        <album>מירי מסיקה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טיול לילי</head>
+        <lg number="1" type="stanza">
+          <l>כמה אמת עוד תוכל לשאת</l>
+          <l>יותר לא אומר</l>
+          <l>אם היית שלה אז אולי היית מאושר</l>
+          <l>ועכשיו האור שונא אותי</l>
+          <l>החושך משקר</l>
+          <l>כל חלומותי השותקים התחילו לדבר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ובמקום ללטף</l>
+          <l>מתחשק לי לשנוא</l>
+          <l>כל חיוך שחולף</l>
+          <l>רק מזכיר לי אותו</l>
+          <l>והעצב הזה רק נותן לי עוד כוח</l>
+          <l>כשהיום יגמר כבר לא נהיה יותר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בוא נצא לטיול לילי ברוח הקרירה</l>
+          <l>נמלא עצמנו בשקרים</l>
+          <l>נשכח שזה קרה</l>
+          <l>וכל מיני חלומות פתוחים שהשארנו מאחור</l>
+          <l>ידלקו בסערה </l>
+          <l>הנה כבר החושך מתרחק - השמש מאירה!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ובמקום ללטף...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הנה כבר החושך מתרחק - השמש מאירה!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

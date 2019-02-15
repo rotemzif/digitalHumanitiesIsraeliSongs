@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הבית שלי 3</title>
+        <singer classification="female singer">שרון עזריה</singer>
+        <writer>שרון עזריה</writer>
+        <composer>גיגה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הבית שלי</head>
+        <lg number="1" type="stanza">
+          <l>יש פינה קטנה לא רחוק, צריף עם הרבה לבד</l>
+          <l>ומסיביב ירוק, יש כיסא נדנדה על המרפסת</l>
+          <l>והרבה רגעים של חסד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הכל תמיד במקומות מונח,</l>
+          <l>בשביל זה פשוט אצלי זה מסובך,</l>
+          <l>הדלת תמיד נשארת פתוחה,</l>
+          <l>יש לי מחשבות לברוח ממך,</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זה הבית שלי, הבית שלי,</l>
+          <l>זה הבית שלי, הבית שלי, הבית שלי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>האהבה בינינו לעיתים ידעה מחסור,</l>
+          <l>כל פעם שהלכתי רק רציתי לחזור,</l>
+          <l>אתה איתי לי שמים</l>
+          <l>וזה נראה לי כמו נס לשאר בשניים,</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זה הבית שלי...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כבר עשר שנים, אנחנו הולכים</l>
+          <l>כמו זוג נעליים ישנות,</l>
+          <l>עם חורים שקשה להסתיר</l>
+          <l>וקשר חזק שקשה להתיר.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>זה הבית שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

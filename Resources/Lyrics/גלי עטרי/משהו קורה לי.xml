@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משהו קורה לי</title>
+        <singer classification="female singer">גלי עטרי</singer>
+        <writer>סגיב כהן</writer>
+        <composer>סגיב כהן</composer>
+        <album>בין האש ובין המים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משהו קורה לי</head>
+        <lg number="1" type="stanza">
+          <l>והים עוד סוער</l>
+          <l>הגלים רוצים יותר להתעורר</l>
+          <l>יותר להסתחרר</l>
+          <l>רק הסיבה משתנה</l>
+          <l>כל דקה היא מתנה להתעורר</l>
+          <l>מתנה, להשתחרר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>משהו קורה לי</l>
+          <l>ואולי זה רק נדמה לי</l>
+          <l>מישהו עונה לי</l>
+          <l>סימנים של אושר</l>
+          <l>מסבירים את הכאב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא תמיד יודעת</l>
+          <l>מה אני שומעת</l>
+          <l>רק הזמן עוד יגלה לי</l>
+          <l>כמה שזה טוב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>והמדבר מדבר</l>
+          <l>החולות רוצים יותר להתמסר</l>
+          <l>לרוח להתפזר</l>
+          <l>כל נשימה נשמה</l>
+          <l>שמקשיבה על מה אתה חושב</l>
+          <l>תנוח, תקשיב ללב!</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>משהו קורה לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

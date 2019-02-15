@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חושך 3</title>
+        <singer classification="band">סינרגיה</singer>
+        <writer>רון הופמן</writer>
+        <composer>missing</composer>
+        <album>צועקים על אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חושך</head>
+        <lg number="1" type="stanza">
+          <l>בתוך המים, מהשמיים</l>
+          <l>עם כל הלחץ, מכת המחץ</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זה קטע סמי, אולי קצת דמי</l>
+          <l>עם כל הפחד, עכשיו ביחד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שכל החושך כבר בא...</l>
+          <l>את שוב נראית עייפה...</l>
+          <l>את כל הזמן בעולם, גם אם זה לא</l>
+          <l>לא מושלם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

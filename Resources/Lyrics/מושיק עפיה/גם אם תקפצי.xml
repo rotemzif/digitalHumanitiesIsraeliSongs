@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גם אם תקפצי</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>ביגי</writer>
+        <composer>ביגי</composer>
+        <album>יש לי אותך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גם אם תקפצי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>גם אם תקפצי לשמיים ותעלי</l>
+          <l>לא יעזור כי את לא בשבילי</l>
+          <l>כך יהיה לי טוב</l>
+          <l>ואז אוכל לחשוב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רציתי אותך לידי</l>
+          <l>להיות לצידך כשיידך בידי</l>
+          <l>לא השארת לי מקום בליבך</l>
+          <l>עכשיו הגלגל התהפך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>גם אם תקפצי לשמיים ותעלי</l>
+          <l>לא יעזור כי את לא בשבילי</l>
+          <l>כך יהיה לי טוב</l>
+          <l>ואז אוכל לחשוב</l>
+          <l>ואז אוכל לחשוב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רציתי אותך את ויתרת</l>
+          <l>אמרת לי שלום ואחר בחרת</l>
+          <l>הייתי רק בך מאוהב</l>
+          <l>תביני עכשיו אין מצב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>גם אם תקפצי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

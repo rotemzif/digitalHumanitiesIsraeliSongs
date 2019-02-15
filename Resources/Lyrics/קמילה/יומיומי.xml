@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יומיומי</title>
+        <singer classification="unknown">קמילה</singer>
+        <writer>צביה אהרוני</writer>
+        <composer>רונן ויטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יומיומי</head>
+        <lg number="1" type="stanza">
+          <l>בוקר, אני קמה, נושמת ומחכה </l>
+          <l>יום חדש מתחיל וצריכה איזו דקה </l>
+          <l>לחפש לי את השביל בין הנפלא ליומיומי </l>
+          <l>ובתוך ההרגלים לגלות שוב את עצמי </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מחדש אני נפגשת עם הדמות שבראי </l>
+          <l>ששואלת, מתבלבלת, מבקשת לו יהי </l>
+          <l>להניח למקסם שווא, לוותר על אשליה </l>
+          <l>לשמח את הלב כך מתוך העשייה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ומודה אני לפניך </l>
+          <l>שהחזרת בי נשמתי בחמלה </l>
+          <l>החזרת בי נשמתי בחמלה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היא קוראת לי מהחדר, ילדתי התעוררה </l>
+          <l>אני באה לחבק, היא פניה מאירה </l>
+          <l>ואותי כמו מברכת, שום דבר אינו סתמי </l>
+          <l>שאמצא את הנפלא גם בתוך היומיומי </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ומודה אני לפניך </l>
+          <l>שהחזרת בי נשמתי בחמלה </l>
+          <l>החזרת בי נשמתי בחמלה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

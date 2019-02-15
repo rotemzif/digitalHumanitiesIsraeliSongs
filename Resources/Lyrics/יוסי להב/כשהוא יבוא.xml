@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשהוא יבוא</title>
+        <singer classification="unknown">יוסי להב</singer>
+        <writer>יוסי להב</writer>
+        <composer>יוסי להב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשהוא יבוא</head>
+        <lg number="1" type="stanza">
+          <l>הוא לא שכח את הגומות על לחייך</l>
+          <l>איך שעינייך זוהרות כשאת שמחה</l>
+          <l>ואם בבוקר השמיכה מונחת לגלייך</l>
+          <l>תדעי שהוא ביקר בחלוך</l>
+          <l>הוא לא ישן כל הלילה בגללך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את לא תדעי את הכאב שבלבו</l>
+          <l>ואם השמש תאיר כשהוא יבוא</l>
+          <l>איך במבט אותך ישיב אליו</l>
+          <l>ולעד תהי את חלק מחייו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ובצחוק שלו שומעים את דמעותייך</l>
+          <l>פוגעות לאט בפניו</l>
+          <l>בלילות קרים חושב עלייך</l>
+          <l>מדמיין שאת אוחזת בידיו</l>
+          <l>וחום גופך המשקר פתאום אחר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את לא תדעי את הכאב שבלבו</l>
+          <l>ואם השמש תאיר כשהוא יבוא</l>
+          <l>איך במבט אותך ישיב אליו</l>
+          <l>ולעד תהי את חלק מחייו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

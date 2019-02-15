@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חמאה</title>
+        <singer classification="male singer">יוני בלוך</singer>
+        <writer>יוני בלוך</writer>
+        <composer>יוני בלוך</composer>
+        <album>הרגלים רעים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חמאה</head>
+        <lg number="1" type="stanza">
+          <l>אני פה כדי למחות על הכל</l>
+          <l>על החושך על הדם ועל השכול</l>
+          <l>על זה שלא הצלחתם להסתדר ביחד</l>
+          <l>על זה שלא הצלחתם להסתדר לבד</l>
+          <l>לבד?</l>
+          <l>לבד</l>
+          <l>אני מוחה על זה</l>
+          <l>אני בוכה על זה</l>
+          <l>עכשיו נותר לי רק לנסות לספור את זה</l>
+          <l>אחת, שתיים, שלוש ו...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עכשיו כשאין לאן ללכת אין לאן</l>
+          <l>וגם אם היה לאן ללכת לא לשם</l>
+          <l>אני עושה מה שאומרים לי כמו תמיד</l>
+          <l>אתם תמשיכו לחפש את העתיד</l>
+          <l>אבל לא אצלי לא</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עכשיו כשאין לאן ללכת אין לאן</l>
+          <l>וגם אם היה לאן ללכת לא לשם</l>
+          <l>אני עושה מה שאומרים לי כמו תמיד</l>
+          <l>אתם תמשיכו לחפש את העתיד</l>
+          <l>אבל לא אצלי לא</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

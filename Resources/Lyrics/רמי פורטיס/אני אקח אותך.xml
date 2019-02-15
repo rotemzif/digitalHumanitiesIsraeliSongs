@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני אקח אותך</title>
+        <singer classification="male singer">רמי פורטיס</singer>
+        <writer>רמי פורטיס</writer>
+        <composer>ברי סחרוף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני אקח אותך</head>
+        <lg number="1" type="stanza">
+          <l>אני אקח אותך איתי לשדות המשי הכחולים</l>
+          <l>תחת אור ירח ושביל זוהר של כוכבים</l>
+          <l>אני אקח אותך איתי, לתפוס ת'רוח הגדולה</l>
+          <l>ביום של ערפל בתוך האש הירוקה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נצלול אל תוך המים הבוכים,</l>
+          <l>נלך על פני שמיים רוטטים,</l>
+          <l>נוגעים, רואים ולא נראים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני אקח אותך איתי מכאן לאן שתבקשי</l>
+          <l>כן, אני אקח אותך איתי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני אקח אותך איתי לראות ת'אופק השותק</l>
+          <l>כשהשמיים נגמרים, הכל נמס ומתרחק</l>
+          <l>אני אקח אותך איתי לתוך החום המלטף</l>
+          <l>לתוך האושר הרטוב, שם נתחלק ונתחבר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נצלול אל תוך המים הבוכים,</l>
+          <l>נלך על פני שמיים רוטטים,</l>
+          <l>נוגעים, רואים ולא נראים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני אקח אותך איתי מכאן לאן שתבקשי</l>
+          <l>כן, אני אקח אותך איתי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

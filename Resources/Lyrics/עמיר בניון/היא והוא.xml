@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היא והוא 2</title>
+        <singer classification="male singer">עמיר בניון</singer>
+        <writer>עמיר בניון</writer>
+        <composer>עמיר בניון</composer>
+        <album>שלכת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היא והוא</head>
+        <lg number="1" type="stanza">
+          <l>כל מה שיכול ומה שלא להאמר עליו נאמר</l>
+          <l>בתוך גופו לנשמתו פעם הוא קרוב ופעם זר</l>
+          <l>ואת תפקחי עיניים תחייכי תאהבי את המחר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואז תפרשי כנפיים</l>
+          <l>כי כולם עכשיו מחכים</l>
+          <l>עוד תצחקי עד לב שמיים</l>
+          <l>כי הוא ואת אתם קשורים</l>
+          <l>עוד מנסים את החיים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>על כל מה שאפשר ועל מה שלא</l>
+          <l>להאשים אותו הוא כבר נשפט</l>
+          <l>ואם תיפלי זה בגללו כי את לא שם כמעט</l>
+          <l>אולי תהיי איתו בינתיים אולי תכירי בו עוד קצת.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואז תפרשי כנפיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

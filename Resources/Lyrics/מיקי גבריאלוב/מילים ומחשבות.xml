@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מילים ומחשבות</title>
+        <singer classification="male singer">מיקי גבריאלוב</singer>
+        <writer>מיקי גבריאלוב</writer>
+        <composer>מיקי גבריאלוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מילים ומחשבות</head>
+        <lg number="1" type="stanza">
+          <l>רחוק רחוק בארץ חלומית</l>
+          <l>מטיילת שם, אהובתי</l>
+          <l>והדרך ארוכה ומתפתלת</l>
+          <l>קוראת אלי, מאבדת את נשמתה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בעיניים עצומות אני הולך</l>
+          <l>לאן אשר תוביל אותי הדרך</l>
+          <l>והאדמה תחתיי כל כך בוערת</l>
+          <l>ואהבתנו לא נדלקת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כל המילים והמחשבות</l>
+          <l>שרוצות לגעת לך עמוק ברגש</l>
+          <l>את אומרת לי, בעזרת השם,</l>
+          <l>הכל יהיה בסדר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כמו עץ בלי מים, במדבר</l>
+          <l>מקור חיי, מתייבש לו</l>
+          <l>מתי יירד עלי, הגשם</l>
+          <l>שיפריח את אהבתנו</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רוצה לחשוב מחשבות טובות</l>
+          <l>את אומרת לי שוב, אתה לא בסדר</l>
+          <l>אני רוצה אותך, את רוצה אותי</l>
+          <l>אבל אהבתנו לא נרגשת</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כל המילים והמחשבות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

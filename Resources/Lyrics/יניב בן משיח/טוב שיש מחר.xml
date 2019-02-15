@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טוב שיש מחר</title>
+        <singer classification="unknown">יניב בן משיח</singer>
+        <writer>איציק אשל</writer>
+        <composer>איציק אשל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טוב שיש מחר</head>
+        <lg number="1" type="stanza">
+          <l>בין עלי שלכת לא מוצא נתיב </l>
+          <l>גם העננים אינם מראים סימן </l>
+          <l>איך עבר החורף וכבר בא אביב </l>
+          <l>השעון אינו מרפה וכך הזמן </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>טוב שיש מחר גם הלב נשבר</l>
+          <l>שמח גם מתעודד לו איך</l>
+          <l>טוב שיש מחר גם הלב נשבר</l>
+          <l>שמח גם מתעודד לו מחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כך הם החיים הכל נראה פשוט </l>
+          <l>קם כל בוקר ויוצא אל המסע </l>
+          <l>יום אחד שמח השני נחות </l>
+          <l>כך אחד רוצה מה שהשם נתן </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>טוב שיש מחר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

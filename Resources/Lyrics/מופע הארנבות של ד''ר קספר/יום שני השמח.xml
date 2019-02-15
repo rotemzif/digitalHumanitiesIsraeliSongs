@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יום שני השמח</title>
+        <singer classification="unknown">מופע הארנבות של ד ר קספר</singer>
+        <writer>אורן ברזילי</writer>
+        <composer>missing</composer>
+        <album>מופע הארנבות של ד"ר קספר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יום שני השמח</head>
+        <lg number="1" type="stanza">
+          <l>את לא קונה אותי בכסף</l>
+          <l>את לא קונה אותי</l>
+          <l>את לא קונה אותי בכסף</l>
+          <l>ישנה את דעתי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את לא שובה אותי ביופי</l>
+          <l>את לא שובה אותי</l>
+          <l>את לא שובה ואת יפה</l>
+          <l>ואת יפה ואת שלי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כי את לבד לא מספיקה</l>
+          <l>אולי תזמיני חברה</l>
+          <l>תבואו שתיכן יחד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש משהו שרוף בבית</l>
+          <l>כן משהו בוער</l>
+          <l>אולי שרפת לי את הגג</l>
+          <l>אולי שרפת לי ת'פסנתר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יושב ליד האח בבית</l>
+          <l>יושב ליד אחות</l>
+          <l>ועוד אחת ועוד אחת</l>
+          <l>כמה מוזר כולן דומות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי את לבד לא מספיקה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

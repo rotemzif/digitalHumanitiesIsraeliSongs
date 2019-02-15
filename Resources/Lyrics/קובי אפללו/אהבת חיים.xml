@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבת חיים</title>
+        <singer classification="male singer">קובי אפללו</singer>
+        <writer>קובי אפללו</writer>
+        <composer>קובי אפללו</composer>
+        <album>בא מן השתיקה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבת חיים</head>
+        <lg number="1" type="stanza">
+          <l>בכל יום היא מהלכת במשעול אל השקיעה</l>
+          <l>ועיניה מבקשות בין ים ליבשה</l>
+          <l>וברחובות מאובקים מול אנשים שקופים</l>
+          <l>היא מחפשת אהבת חיים, היא מחפשת אהבת חיים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בכל לילה היא יושבת עם הספר המצהיב</l>
+          <l>וקוראת על אהבות שבאו באביב</l>
+          <l>ובתמונות של ילדים ותינוקות תמימים</l>
+          <l>היא מחכה לאהבת חיים, היא מחכה לאהבת חיים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רק שיבוא וייקח אותה אל מחוזות האור</l>
+          <l>שיבוא ויאהב אותה ואמונים ישמור</l>
+          <l>שיבוא לחבק בימים הקרים</l>
+          <l>שיבוא לכל החיים, שיבוא לכל החיים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ושוב היא משתוקקת למה שאמיתי</l>
+          <l>לקסם הנסתר ברגש מהותי</l>
+          <l>וכשפורחות תפילות בגן הבודדים</l>
+          <l>היא מבקשת אהבת חיים, היא מבקשת אהבת חיים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רק שיבוא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

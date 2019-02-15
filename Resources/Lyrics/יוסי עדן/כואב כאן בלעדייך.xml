@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כואב כאן בלעדייך</title>
+        <singer classification="unknown">יוסי עדן</singer>
+        <writer>יוסי עדן</writer>
+        <composer>יוסי עדן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כואב כאן בלעדייך</head>
+        <lg number="1" type="stanza">
+          <l>אני רוצה שתהיי עכשיו לידי</l>
+          <l>אך הורייך אמרו שאת לא בשבילי</l>
+          <l>איך שתחליטו שזאת לא אהבה</l>
+          <l>הרי שנינו אהבנו אהבה טהורה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כואב כאן בלעדייך מתי זה יגמר</l>
+          <l>במה אנו חטאנו שהגורל פתאום עוצר</l>
+          <l>נזכר איך שביחד חייכנו לחיים</l>
+          <l>ועכשיו בתוך דמעות אני זועק לאלוקים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>למה קשה שהכל כך קורה</l>
+          <l>למה הם רוצים שלא נתראה</l>
+          <l>אולי עם הזמן הם יבינו אותי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כואב כאן בלעדייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

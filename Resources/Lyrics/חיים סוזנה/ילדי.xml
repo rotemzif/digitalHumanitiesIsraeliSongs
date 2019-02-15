@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילדי 23</title>
+        <singer classification="unknown">חיים סוזנה</singer>
+        <writer>עוזי בוקובזה</writer>
+        <composer>יניב נגאוקר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילדי</head>
+        <lg number="1" type="stanza">
+          <l>מודה לאל כל בוקר ששלח הוא לי אותך </l>
+          <l>מאז שבאת אליי המזל שלי נפתח </l>
+          <l>הארת בענייך את עייני באהבה ,תמיד לך דואג מעומק הנשמה . </l>
+          <l>ואימא ואבא כאן לצידך לנצח נישאר בכנפנו נעטוף כמו מלאך שומר . </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ילדי אני נשבע לעולם לא לאכזב </l>
+          <l>אני תמיד איתך אף פעם לא עוזב </l>
+          <l>אתה כל החיים שלי מהנשמה אותך אוהב . </l>
+          <l>ילדי חבק אותי חזק אם תפלה עמוק בלב. </l>
+        </lg>
+        <lg number="3" type="stanza" />
+        <lg number="4" type="stanza">
+          <l>גדלת לתפארת ,איך שהזמן חולף מהר . </l>
+          <l>גם שתהיה לאיש גדול בני לנצח תישאר, </l>
+          <l>ואימא ואבא כאן לצידך לנצח נישאר , </l>
+          <l>בכנפנו נעטוף כמו מלאך שומר . </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ילדי אני נשבע .........</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

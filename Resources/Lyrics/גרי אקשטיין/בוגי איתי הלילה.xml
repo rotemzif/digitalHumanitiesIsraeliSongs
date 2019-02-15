@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוגי איתי הלילה</title>
+        <singer classification="male singer">גרי אקשטיין</singer>
+        <writer>גרי אקשטיין</writer>
+        <composer>גרי אקשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוגי איתי הלילה</head>
+        <lg number="1" type="stanza">
+          <l>בוגי איתי הלילה</l>
+          <l>בוגי איתי, כדאי לך</l>
+          <l>בוגי איתי, הערב כבר ירד</l>
+          <l>בוגי איתי, כבר אין זמן</l>
+          <l>אל תעשי מזה עניין</l>
+          <l>בוגי איתי, הלילה כבר עבר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היה לי פעם בילוי נעים</l>
+          <l>בבני עקיבא וגם כן בצופים</l>
+          <l>במקום בית ספר הפסקה יומית</l>
+          <l>אבל הפעם זה אחרת</l>
+          <l>זאת השתלמות אישית</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז בוגי איתי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שם בקיבוץ הייתי קצת לחוץ</l>
+          <l>עבודה בלול היתה ממש בלבול</l>
+          <l>ועל הדשא היו שרים בציבור</l>
+          <l>שלושים שירי סוכנות</l>
+          <l>תגידי, זה בידור?</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אז בוגי איתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

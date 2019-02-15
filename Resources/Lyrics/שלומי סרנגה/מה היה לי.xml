@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה היה לי</title>
+        <singer classification="male singer">שלומי סרנגה</singer>
+        <writer>ברק פלדמן</writer>
+        <composer>CHRISTODOULOS NIKOLOPOULOS</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה היה לי</head>
+        <lg number="1" type="stanza">
+          <l>מה היה לי, לא הרבה</l>
+          <l>קצת מזה וקצת מזה</l>
+          <l>ולא ביקשתי שום דבר מלמעלה</l>
+          <l>גם בכעס גם בקור</l>
+          <l>כל הזמן חייב לזכור</l>
+          <l>לא להשאיר דברים פתוחים ללילה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הימים היו עוברים עליי בקושי</l>
+          <l>התרגלתי לא לראות את כל היופי</l>
+          <l>עד שבאת מתוך החושך</l>
+          <l>ופקחת את שתי עיניי</l>
+          <l>את הבאת לי את האושר</l>
+          <l>והחזרת לי את חיי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה היה לי, לא המון</l>
+          <l>לא מספיק בשביל לחלום</l>
+          <l>מה עוד צריך הבן אדם בעצם</l>
+          <l>קצת לשתות קצת לאכול</l>
+          <l>חום בבית זה הכל</l>
+          <l>ולא לשמור דברים כבדים בבטן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הימים היו עוברים עליי בקושי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

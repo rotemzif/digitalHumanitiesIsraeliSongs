@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לבן ושחור</title>
+        <singer classification="female singer">זהבה בן</singer>
+        <writer>דני שושן</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לבן ושחור</head>
+        <lg number="1" type="stanza">
+          <l>נערה טובה מבית טוב</l>
+          <l>את כל כך קרובה אל קצה הסוף</l>
+          <l>הזהרי ילדה העולם אכזר</l>
+          <l>רק אתמול נולדה וכבר אין מחר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כך שנה אחר שנה</l>
+          <l>העולם לא השתנה</l>
+          <l>מי יאמר לה מה יהיה מחר</l>
+          <l>את החיים לא מבינה</l>
+          <l>צעירה ועדינה</l>
+          <l>לא יודעת מה בכלל מותר</l>
+          <l>הלבן הפך שחור</l>
+          <l>השחור הפך אפור</l>
+          <l>נשמתך ילדה מי זה ישמור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נשמה טובה מחפשת יום</l>
+          <l>רק קצת אהבה מבטה נפחד</l>
+          <l>אל נא תתפתי מעולם ורוד</l>
+          <l>אותך ילדתי רוצים לפתות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כך שנה אחר שנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

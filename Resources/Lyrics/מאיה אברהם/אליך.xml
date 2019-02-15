@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אליך 8</title>
+        <singer classification="female singer">מאיה אברהם</singer>
+        <writer>יהודה מסס</writer>
+        <composer>רן אביב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אליך</head>
+        <lg number="1" type="stanza">
+          <l>אור פנס דולק חושך מסלק דרך ארוכה אליך</l>
+          <l>אופק מתפרש רגש מפייס חום שמתפזר אליך</l>
+          <l>גם להתחמק רע ומשתק את כל צעדי אליך</l>
+          <l>אם אתה אוהב די להתרחק כי הלב קרוב אליך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מתי תפתח את הלב בלי הפחד מכאב</l>
+          <l>החיים זה לא דבר קבוע בטח לא מובן</l>
+          <l>אז חייך אלי עכשיו כי זאת דרכי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תן לי רק סיבה לאהוב אותך כי אני כולי אליך</l>
+          <l>ולא רוצה יותר לחפש אחר כי הכל מוביל אליך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מתי תפתח את הלב בלי הפחד מכאב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כי הדרך ארוכה אליך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מתי תפתח את הלב בלי הפחד מכאב...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>לא רוצה יותר לחפש אחר כי הכל מוביל אליך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

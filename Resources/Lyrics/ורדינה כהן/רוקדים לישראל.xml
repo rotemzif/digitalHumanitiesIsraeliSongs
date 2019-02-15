@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוקדים לישראל</title>
+        <singer classification="female singer">ורדינה כהן</singer>
+        <writer>אורלי בינדר</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוקדים לישראל</head>
+        <lg number="1" type="stanza">
+          <l>בשורה כולם עומדים, </l>
+          <l>ילדות, ילדים,</l>
+          <l>במקום כך צועדים, </l>
+          <l>ובחג כולם רוקדים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רגל קדימה מושיטים, אה, אהו, </l>
+          <l>ואחורה מחזירים, אה, אהו</l>
+          <l>שוב תרגל מושיטים, אה, אהו, </l>
+          <l>ואחורה מחזירים. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ידיים יחד נגלגל,</l>
+          <l>יום הולדת ישראל,</l>
+          <l>יחדיו נשיר ונהלל, </l>
+          <l>ילדים מכל קצוות תבל.</l>
+          <l>רגל קדימה מושיטים...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>במקום מסתובבים </l>
+          <l>אותך כולנו אוהבים,</l>
+          <l>עלייך רק תמיד חושבים, </l>
+          <l>וברכות לך פה כותבים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רגל קדימה מושיטים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

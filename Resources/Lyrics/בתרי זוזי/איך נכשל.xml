@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך נכשל</title>
+        <singer classification="unknown">בתרי זוזי</singer>
+        <writer>רם אוריון</writer>
+        <composer>סטיב מריוט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך נכשל</head>
+        <lg number="1" type="stanza">
+          <l>שקטים ודרוכים כמו חתולים על מדרכה חמה</l>
+          <l>קורעים את הכביש ביחד בתוך מכונית שכורה</l>
+          <l>רציתם קיבלתם ואז זרקתם את הכל לפח</l>
+          <l>אכלתם הפרשתם אז מה נשאר לכם עכשיו ביד?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>משקיף אל העתיד מרגיש מפחיד ואתה לא לבד</l>
+          <l>אם לא נבהל איך נכשל?</l>
+          <l>כשאנחנו איתכם וכל השאר אוכלים אבק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ידענו ניחשנו הריחתם את זה כבר בהתחלה</l>
+          <l>הבטחנו אז קיימנו עכשיו הדרך שלכם סלולה</l>
+          <l>רציתם תוספת קיבלתם פתאום עוד קצת תיבאון</l>
+          <l>אז קחו עם קצפת את כל מה שנתקע לי בגרון</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>משקיף אל העתיד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

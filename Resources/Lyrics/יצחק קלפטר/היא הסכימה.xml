@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היא הסכימה</title>
+        <singer classification="male singer">יצחק קלפטר</singer>
+        <writer>יצחק קלפטר</writer>
+        <composer>יצחק קלפטר</composer>
+        <album>יצחק</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היא הסכימה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>היא הסכימה לפגוש אותי הלילה</l>
+          <l>ליד הבימה - כנראה כדאי לה</l>
+          <l>איכשהו זה יסתדר לי</l>
+          <l>כמה טוב שזה קורה, אלי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לו ראיתי יפה יותר אמש</l>
+          <l>אז לא הייתי לוהט כמו שמש</l>
+          <l>כן, אין סוף לאפשרות</l>
+          <l>שתמיד תהיה אחת יותר יפה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אנחנו נפגש</l>
+          <l>אחר כך נתרגש</l>
+          <l>אחר כך נתלחש</l>
+          <l>נגע בלי להתבייש, כן</l>
+          <l>אחר נתאושש, נתלבש</l>
+          <l>והיא תגיד: מחר אצלי בשש</l>
+          <l>הסכימה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היא הסכימה לפגוש אותי הלילה</l>
+          <l>ליד הבימה - כנראה כדאי לה</l>
+          <l>איכשהו זה יסתדר לי</l>
+          <l>כמה טוב שזה קורה, אלי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היא הסכימה</l>
+          <l>היא הסכימה, כן</l>
+          <l>לפגוש אותי הלילה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

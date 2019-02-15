@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קצת אחרת</title>
+        <singer classification="unknown">רוני דלומי</singer>
+        <writer>נתן גושן</writer>
+        <composer>missing</composer>
+        <album>קצת אחרת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קצת אחרת</head>
+        <lg number="1" type="stanza">
+          <l>לאסוף את הדברים שהם שלי </l>
+          <l>ואל תפסיקו בגללי </l>
+          <l>יכול להיות שזו הרוח </l>
+          <l>שתיקח אותי לאן שהיא תלך </l>
+          <l>אולי רוצה שאחייך </l>
+          <l>ומי יודע כמה הסתובבתי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בעולם שלא נתן לי כוח </l>
+          <l>בין קירות שלא נתנו לנשום  </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כל כך הרבה ללכת </l>
+          <l>והעולם אליו אני נמשכת </l>
+          <l>מזכיר לי שתמיד הייתי קצת אחרת </l>
+          <l>כל כך הרבה ללכת </l>
+          <l>והמקום אליו אני נמשכת </l>
+          <l>יהיה מקום שבו השמש תעלה רק בשבילי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לחפש רק את הטעם הנכון </l>
+          <l>לגלגל על הלשון </l>
+          <l>והמתוק הזה </l>
+          <l>הוא כל מה שנראה </l>
+          <l>כמוזר ולא ברור </l>
+          <l>כלתקן את השבור </l>
+          <l>ולדעת שכמעט הגעתי </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>האמת שלי גם היא תגיע </l>
+          <l>עם הזמן אני אבין הכל </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כל כך הרבה ללכת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

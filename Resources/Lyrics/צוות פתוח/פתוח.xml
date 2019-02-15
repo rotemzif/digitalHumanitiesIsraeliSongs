@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פתוח 2</title>
+        <singer classification="unknown">צוות פתוח</singer>
+        <writer>אביגיל אמיר</writer>
+        <composer>צוף פילוסוף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פתוח</head>
+        <lg number="1" type="stanza">
+          <l>כשפותחים את הראש</l>
+          <l>אז כל המחשבות</l>
+          <l>בכלל בלי לבקש רשות</l>
+          <l>באות ומתיישבות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשפותחים את היידים </l>
+          <l>ללטף או לחבק</l>
+          <l>תוך דקה אולי תוך שתיים</l>
+          <l>מרגישים ת'לב צוחק</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז אם מתחשק לכם לשנות את מצב הרוח (מצב הרוח)</l>
+          <l>ואם מתחשק לכם דבר אחד בטוח (מה שבטוח)</l>
+          <l>הכי כדאי</l>
+          <l>שמעכשיו תחשבו פתוח</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשפותחים את האוזניים ועוצרים את הנשימה</l>
+          <l>אפשר פתאום לשמוע את הקול של הדממה</l>
+          <l>כשפותחים את הלב ועולים עם הקצב</l>
+          <l>אם רוצים או לא רוצים נעלם העצב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אז אם מתחשק לכם...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כשפותחים את העיניים ממש חכם</l>
+          <l>אם מתאמצים אפשר לראות</l>
+          <l>באמצע היום כוכב</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אז אם מתחשק לכם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

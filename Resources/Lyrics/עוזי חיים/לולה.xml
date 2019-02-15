@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לולה 3</title>
+        <singer classification="unknown">עוזי חיים</singer>
+        <writer>דני שושן</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לולה</head>
+        <lg number="1" type="stanza">
+          <l>אור באפלה את נותנת</l>
+          <l>את ליבך רק לי את שומרת</l>
+          <l>עולמי רק בך קשרתי</l>
+          <l>תמונתך אשא תמיד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש לי חלום</l>
+          <l>יבוא עוד יום</l>
+          <l>שאלחש לך לולה</l>
+          <l>אהבת אמת</l>
+          <l>יש לי תקווה</l>
+          <l>גם אהבה</l>
+          <l>ובלב בוערת</l>
+          <l>אש הלהבה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>פזמון: לולה לולה לולה לולה...</l>
+          <l>        כל חיי אתן לך לולה</l>
+          <l>        אהבת עולם לך לולה</l>
+        </lg>
+        <lg number="4" type="stanza" />
+        <lg number="5" type="stanza">
+          <l>בדרכים אנדוד שוב אלייך</l>
+          <l>מה יפות יפות  שתי עינייך</l>
+          <l>איך אותך תמיד אהבתי</l>
+          <l>אין מנוח לנפשי</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>יש לי חלום...</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>פזמון: לולה לולה לולה לולה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ציפור בגשם</title>
+        <singer classification="female singer">דורית ראובני</singer>
+        <writer>רחל שפירא</writer>
+        <composer>מוני אמריליו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ציפור בגשם</head>
+        <lg number="1" type="stanza">
+          <l>פעם ראיתי ציפור בגשם, </l>
+          <l>כולה רועדת בקור, </l>
+          <l>לא היה בה כח לעוף, </l>
+          <l>ולא נמצא לה מסתור. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לו היה הדבר בידי, </l>
+          <l>הייתי עושה מעשה, </l>
+          <l>היתי לוקחת אותה אל ביתי, </l>
+          <l>ונותנת לה מחסה. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פעם ראיתי ציפור בגשם, </l>
+          <l>אני זוכרת היטב, </l>
+          <l>איך נותרה בלי כוח לעוף, </l>
+          <l>מרוב חולשה וכאב. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לו היה... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>פעם הייתי ציפור בגשם, </l>
+          <l>כמותה, כמו הציפור, </l>
+          <l>לא היה בי כח לשיר, </l>
+          <l>ולא נמצא לי מסתור. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לו היה הדבר בידך, </l>
+          <l>היית עושה מעשה, </l>
+          <l>היית לוקח אותי אל ביתך, </l>
+          <l>ונותן אף לי מחסה?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

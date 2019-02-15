@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פסיעה אחת קדימה</title>
+        <singer classification="unknown">שרי 3</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פסיעה אחת קדימה</head>
+        <lg number="1" type="stanza">
+          <l>פסיעה אחת קדימה</l>
+          <l>ושתיים לאחור</l>
+          <l>משהו בי פנימה</l>
+          <l>עוצר ומסרב לגמור</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>צעד של לשכוח</l>
+          <l>ושניים של לזכור</l>
+          <l>רגליי רוצות לברוח</l>
+          <l>אבל הלב רוצה לחזור</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אין לי כח</l>
+          <l>אין מנוח - אין</l>
+          <l>איך לשכוח?</l>
+          <l>גם נגד וגם בעד</l>
+          <l>ולעולם לא אלמד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מול עיני האופק</l>
+          <l>הולך ומתרחק</l>
+          <l>לילה בא וחושך</l>
+          <l>את סימני הדרך מוחק</l>
+          <l>פעם ועוד פעם</l>
+          <l>הקרב הזה ניטש</l>
+          <l>רעם ועוד רעם</l>
+          <l>ושוב הכל נתחיל מחדש</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אין לי כח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

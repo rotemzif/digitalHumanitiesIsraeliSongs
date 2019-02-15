@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סוכר 5</title>
+        <singer classification="male singer">נתי לוי</singer>
+        <writer>ציון שרעבי</writer>
+        <composer>ציון שרעבי</composer>
+        <album>שלום נערתי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סוכר</head>
+        <lg number="1" type="stanza">
+          <l>סוכר זה הטעם בשפתייך</l>
+          <l>סוכר זורם בכל גופך</l>
+          <l>סוכר נוצץ בתוך עינייך</l>
+          <l>סוכר ממלא את מעונך</l>
+          <l>משכתיני, חבקתיני</l>
+          <l>נשקתיני וג'יננתיני</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשפתחת לי את הדלת ונתקלנו במבט</l>
+          <l>התאהבתי בך מיד</l>
+          <l>ולטעם שפתותייך התמכרתי במיוחד</l>
+          <l>כמו תינוק אל השד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לפעמים אני הוזה, נאבק ומנסה</l>
+          <l>לפעמים אני הוזה, אוחז בך ויוצא</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>סוכר זה הטעם בשפתייך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הרכות שבך הורגת, תני לי כוח, נערה</l>
+          <l>שאוכל להתגבר</l>
+          <l>לרחף ולהגיע אל רזי האהבה</l>
+          <l>מן החטא להשתחרר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לפעמים אני הוזה, נאבק ומנסה</l>
+          <l>לפעמים אני הוזה, אוחז בך ויוצא</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>סוכר זה הטעם בשפתייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

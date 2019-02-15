@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיכור 5</title>
+        <singer classification="unknown">טוקה</singer>
+        <writer>טוקה</writer>
+        <composer>טוקה</composer>
+        <album>הווה אחר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיכור</head>
+        <lg number="1" type="stanza">
+          <l>כשהוא הולך היא אומרת לו תחזור</l>
+          <l>אבל הוא כבר בסרט ישן על שיכור</l>
+          <l>שמסתובב ברחוב צועק על אנשים</l>
+          <l>הוא מקיא מתוכו את מר החיים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פעם היא הלכה הוא צעק לה לחזור</l>
+          <l>אל תוך מסך היא נבלעה, והוא הפך שיכור</l>
+          <l>שמסתובב ברחוב בוכה לאנשים</l>
+          <l>על אישה שהלכה ושאין אלוהים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עבור, אל תעצור, אל תחזור</l>
+          <l>אל תעצור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חלפו עשרים שנה והוא עוד מסתובב</l>
+          <l>ואת הזיכרון דחק לו הכאב</l>
+          <l>הסרט כבר מזמן נכנס לארכיון</l>
+          <l>והוא נותר בחוץ עם בקבוק ושיגעון</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עבור, אל תעצור, אל תחזור</l>
+          <l>אל תעצור</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

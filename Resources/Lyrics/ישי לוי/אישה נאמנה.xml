@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אישה נאמנה</title>
+        <singer classification="male singer">ישי לוי</singer>
+        <writer>זאב נחמה</writer>
+        <composer>זאב נחמה</composer>
+        <album>ריקוד רומנטי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אישה נאמנה</head>
+        <lg number="1" type="stanza">
+          <l>לדברים שלך אמרתי, </l>
+          <l>אין כל משמעות</l>
+          <l>לחציים לא התכוונתי</l>
+          <l>וכל השאר טיפשות.</l>
+          <l>עד מתי את תקחי</l>
+          <l>את כל מה שאומר לך ברצינות</l>
+          <l>את אולי תסלחי,</l>
+          <l>טעות רדפה טעות.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי אין צייר שמסוגל לצייר לי את יופייך</l>
+          <l>אני גם לא אמצא פסל שייפסל את מבטך</l>
+          <l>כל הכוחות שמחזיקים אותי בתוך הנשמה,</l>
+          <l>הם את אישה נאמנה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד לא מצאתי את השקט</l>
+          <l>את השקט בתוכי</l>
+          <l>זו רק ידך המחבקת </l>
+          <l>שמחזיקה אותי.</l>
+          <l>לא אפול, לא אברח</l>
+          <l>למענך ארצה להשתנות.</l>
+          <l>אני יכול, את מלאך</l>
+          <l>שמרי אותי קרוב.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי אין צייר שמסוגל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

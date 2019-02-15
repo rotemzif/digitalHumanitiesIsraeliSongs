@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>העיניים שלי</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>ליאור נרקיס</composer>
+        <album>הופעה חיה בהיכל התרבות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>העיניים שלי</head>
+        <lg number="1" type="stanza">
+          <l>שמש על הבוקר</l>
+          <l>הרחוב הומה אדם</l>
+          <l>חושב עלייך ועל אור פנייך</l>
+          <l>וכמה את לא יודעת</l>
+          <l>את מזל שהולך איתי לכל מקום</l>
+          <l>את כתר לראשי אהבת חיי</l>
+          <l>את הכל בשבילי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כולם יודעים שאת העיניים שלי</l>
+          <l>את החיים שלי את הכוח שבי</l>
+          <l>כולם יודעים שאת העיניים שלי</l>
+          <l>את החיים שלי את הכוח שבי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איתך הלילה משגע</l>
+          <l>את מולי רוקדת לצליל המנגינה</l>
+          <l>יפה את מדהימה</l>
+          <l>איך כולם רוצים אלייך</l>
+          <l>כמו מסע של כוכבים</l>
+          <l>בדרך אל האור</l>
+          <l>את כתר לראשי אהבת חיי</l>
+          <l>את הכל בשבילי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כולם יודעים שאת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

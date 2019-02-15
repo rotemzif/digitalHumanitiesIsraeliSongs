@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תינוקי</title>
+        <singer classification="male singer">רמי קלינשטיין</singer>
+        <writer>מאיר גולדברג</writer>
+        <composer>רמי קלינשטיין</composer>
+        <album>Live</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תינוקי</head>
+        <lg number="1" type="stanza">
+          <l>מהיום שהיא עוטפת את גופו בזרועותיה</l>
+          <l>עד היום שהיא נופלת על כתפיו</l>
+          <l>היא אומרת לו מילים שאת פישרן הוא לא יודע</l>
+          <l>אבל איך שהוא אוהב שהיא לוחשת לאוזניו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תינוקי, ילדי הקטן</l>
+          <l>שים את ראשך בחיקי</l>
+          <l>אמא שלך תשיר לך שיר</l>
+          <l>שיר אהבה תינוקי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מלאכים שמים בלילה את ראשם בין הכנפיים</l>
+          <l>אפילו הם ממהרים אל החלום</l>
+          <l>ואפילו הפרחים סוגרים ריסים ועפעפיים</l>
+          <l>גם לך הגיע זמן את העיניים לעצום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תינוקי, ילדי הקטן...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מהיום שהיא אוספת את גופו בזרועותיה</l>
+          <l>עד היום שהיא רק דמות בחלומו</l>
+          <l>היא אומרת לו מילים שאת פישרן הוא לא יודע</l>
+          <l>הוא נרדם כשהוא עטוף בשיר הערש של אימו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

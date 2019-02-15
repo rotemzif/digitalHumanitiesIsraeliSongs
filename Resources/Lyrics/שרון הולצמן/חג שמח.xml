@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חג שמח 3</title>
+        <singer classification="male singer">שרון הולצמן</singer>
+        <writer>שרון הולצמן</writer>
+        <composer>שרון הולצמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חג שמח</head>
+        <lg number="1" type="stanza">
+          <l>עוד שנה עברה כאילו שתיים</l>
+          <l>ובחיים שלי הכל אותו דבר</l>
+          <l>מזוודה אחת מלאה בחלומות</l>
+          <l>והפחד ממה יהיה מחר הפחד ממה יהיה מחר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חג שמח, חג שמח</l>
+          <l>בעיתון היה כתוב שהחג הזה יהיה מושלם</l>
+          <l>לו ניתנה לי משאלה הייתי מבקש להיות בטוח </l>
+          <l>שיהיה סיבה לכל זה ולא סתם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ברחוב אנשים נותנים ידיים</l>
+          <l>וכל החיילים חוזרים מהצבא</l>
+          <l>יש מסיבה בחניון של מקדונלדס</l>
+          <l>הם עושים את זה פעם בשנה</l>
+          <l>כן הם עושים את זה פעם בשנה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חג שמח, חג שמח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

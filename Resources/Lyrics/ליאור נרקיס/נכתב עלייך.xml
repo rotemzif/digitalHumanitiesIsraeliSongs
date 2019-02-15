@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נכתב עלייך</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>מייק לוק</writer>
+        <composer>מייק לוק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נכתב עלייך</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>גם אלפי מילים לא יצליחו להסביר</l>
+          <l>את האהבה שלי אלייך</l>
+          <l>לך כתבתי שיר וכל אחד אותו יכיר</l>
+          <l>וידע שהוא נכתב עלייך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>המכתב שאת שלחת עשה לי את היום</l>
+          <l>את כותבת שסלחת ולי זה כמו חלום</l>
+          <l>כמה זמן יכול אדם להיות בלי אהבה</l>
+          <l>אפילו לא דקה גם לא במחשבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ריח בושם שנדף מהמכתב שלך</l>
+          <l>הזכיר את הרגעים את מגעך הרך</l>
+          <l>אין סוף למחשבה כשבך אני נזכר</l>
+          <l>כשאני איתך לעצב אין מחר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גם אלפי מילים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>באולפן אני מקליט את השיר שלך</l>
+          <l>עוצם את העיניים ומדמיין אותך</l>
+          <l>את האש שבי בוערת לילה וגם יום</l>
+          <l>אם במציאות ואם גם בחלום</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>גם אלפי מילים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

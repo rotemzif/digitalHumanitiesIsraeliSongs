@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חיים מיום ליום</title>
+        <singer classification="unknown">רביד גואטה</singer>
+        <writer>רביד גואטה</writer>
+        <composer>שי חנום</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חיים מיום ליום</head>
+        <lg number="1" type="stanza">
+          <l>תמיד תמצא אותנו באותו ספסל</l>
+          <l>מחפשים קומבינות כל אחד מובטל</l>
+          <l>עוד סיגריה מדליקים ומדברים</l>
+          <l>משחקים אותה והכיסים ריקים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חיים מיום ליום</l>
+          <l>ולא עושים חשבון</l>
+          <l>בלילה נפגשים במועדון</l>
+          <l>אין לנו ארמון</l>
+          <l>ולא רוצים ממון</l>
+          <l>דלק וסיגריות זה המון</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אומרים לאבא</l>
+          <l>יאללה תן את המכונית</l>
+          <l>ועוד קופסא של ג'ל</l>
+          <l>על הבלורית</l>
+          <l>בבוקר כשלעבודה אתם קמים</l>
+          <l>אנחנו כוסית לחיים כאן נרים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חיים מיום ליום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

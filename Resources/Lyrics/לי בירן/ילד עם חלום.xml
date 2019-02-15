@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילד עם חלום</title>
+        <singer classification="male singer">לי בירן</singer>
+        <writer>לי בירן</writer>
+        <composer>לי בירן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילד עם חלום</head>
+        <lg number="1" type="stanza">
+          <l>תמיד ידעתי ש... אני ילד קצת שונה </l>
+          <l>אהבתי סתם לבהות בכוכבים הנוצצים </l>
+          <l>ילד של צלילים ילד של שירים </l>
+          <l>הרגשתי שהמוזיקה בוערת בי בפנים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ילד עם חלום אחד להיות כוכב גבוה בשמיים </l>
+          <l>ולראות איך כולם לי מריעים </l>
+          <l>ילד עם סיבה טובה להאמין שכל עוד מנסים </l>
+          <l>מכל הלב חלומות מתגשמים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היכרתי אנשים חלקם גם גיבורים </l>
+          <l>דבר אחד הבנתי שכולם בסוף שווים </l>
+          <l>אם יש אומץ לנסות אז נוכל גם לגלות </l>
+          <l>אוצר חבוי בכל אחד נותר רק לקוות.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ילד עם חלום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

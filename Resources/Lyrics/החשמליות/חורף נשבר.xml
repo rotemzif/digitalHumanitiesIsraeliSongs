@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חורף נשבר</title>
+        <singer classification="band">החשמליות</singer>
+        <writer>עמירם לוי</writer>
+        <composer>עמירם לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חורף נשבר</head>
+        <lg number="1" type="stanza">
+          <l>הימים היו קשים, הכל היה רחוק</l>
+          <l>וחשבתי כבר לחזור חזרה</l>
+          <l>לא צחקנו הרבה, בקושי ידענו לצעוק</l>
+          <l>לא היתה לנו טיפת אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והנה החורף נשבר</l>
+          <l>והאור חוזר לתמונה</l>
+          <l>כשאהבתי אהבתי כל כך</l>
+          <l>בשביל מה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היה לנו קר, היינו רחוקים</l>
+          <l>לא נפגשנו תמיד בפינה</l>
+          <l>אם הייתי חושב, אולי הייתי חושב</l>
+          <l>למרות הכל, הכל בשביל מה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והנה החורף נשבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

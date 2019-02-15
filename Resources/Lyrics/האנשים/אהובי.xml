@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהובי 3</title>
+        <singer classification="band">האנשים</singer>
+        <writer>נירית דמסקי</writer>
+        <composer>נירית דמסקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהובי</head>
+        <lg number="1" type="stanza">
+          <l>אהובי קורא בשמי ומתמלא באור</l>
+          <l>עת אקרא לו אנוכי</l>
+          <l>יהדהד קולי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מול משב נשימותיך</l>
+          <l>שלהבת נר הנני</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הנני מול פניך היפות</l>
+          <l>לומדת להכיל אהבתך אלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מול משב נשימותיך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אש חיה שואפת נושפת מסתחררת מתנועעת</l>
+          <l>לקצב פעימות לבך...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מול...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>לבי לבי קורא אליך</l>
+          <l>אהובי אהובי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

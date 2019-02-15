@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היד שלך הלב שלי</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>מאיר עמר</writer>
+        <composer>missing</composer>
+        <album>יש לי אותך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היד שלך הלב שלי</head>
+        <lg number="1" type="stanza">
+          <l>וזו היד שלך וזה הלב שלי</l>
+          <l>תקחי אותו לאט כל כך תזהרי</l>
+          <l>וזה הגוף שלך וזו היד שלי</l>
+          <l>רוצה לנשום איתך שתנשמי איתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואם צריך אני אוכל לתת הכל</l>
+          <l>רוצה לראות איתך לדעת בלי לשאול</l>
+          <l>לשבת בפינה כשחם וקר וגם כשחשוך</l>
+          <l>לגעת בך עוד נגיעה שטוב ורע</l>
+          <l>וגם כשעצוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני אקטוף ענן שלא ירד עליך גשם</l>
+          <l>ואצנן אותך כשחם ואת כמעט מתייבשת</l>
+          <l>וזו היד שלך וזה הלב שלי</l>
+          <l>תקחי אותו לאט כל כך תזהרי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואם צריך אני אוכל לתת הכל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

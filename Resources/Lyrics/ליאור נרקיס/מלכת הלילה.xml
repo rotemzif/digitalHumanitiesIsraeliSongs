@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלכת הלילה 2</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>יוש גרנות</writer>
+        <composer>אייבי קזס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלכת הלילה</head>
+        <lg number="1" type="stanza">
+          <l>בלילה חמים ובהיר נדדתי בין התפילים</l>
+          <l>בלילה קסום ובהיר עלה הקצף בגלים</l>
+          <l>וכמו בחלום מעורפל מתוך כוכב אשר נפל</l>
+          <l>יצאת מסתורית ושקופה מלכת הלילה היפה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קירבי אלי תני לי את הקצב הסוחף</l>
+          <l>קירבי אלי תני לי קצב לילה מטרף</l>
+          <l>קירבי אלי תני לי את הקצב הסוחף</l>
+          <l>קירבי אלי תני לי קצב לילה מטרף</l>
+          <l>לחוש בעצמי לחוש בדמי את חום גופך המלטף</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בלילה קסום ויפה ירח שט על החופים</l>
+          <l>ליד מטעים של קפה עלה שוב רעם התופים</l>
+          <l>ואז שוב ראיתי אותה יוצאת מתוך העלתה</l>
+          <l>פוסעת אלי יחפה מלכת הלילה היפה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קירבי אלי תני לי את הקצב הסוחף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ביכורי אהבה</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>דודו ברק</writer>
+        <composer>אלי לוזון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ביכורי אהבה</head>
+        <lg number="1" type="stanza">
+          <l>איך עברו וחלפו נעורי</l>
+          <l>איך חלפו נעלמו על פני</l>
+          <l>כל הבכי הצחוק והאור המתוק</l>
+          <l>וההוא שהיה בין אהוביי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הו, מי ישיב הו, מי ישיב</l>
+          <l>את האור שמסביב?</l>
+          <l>את שמש אמש שכבה?</l>
+          <l>מי האוהב מי האוהב</l>
+          <l>שמנגד התייצב</l>
+          <l>עם ביכורי האהבה?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך עברו וחלפו נעורי</l>
+          <l>זכרונות נשארו עד בלי די</l>
+          <l>געגוע עמוק שעשוע רחוק</l>
+          <l>אכזבה שאשא עד סוף ימי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הו, מי ישיב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לעוף 20</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>Zaza Khubukelashvili</composer>
+        <album>שרית חדד</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לעוף</head>
+        <lg number="1" type="stanza">
+          <l>לא בא לי לשמוע על עוד בעיות</l>
+          <l>אני רוצה לחיות הלילה לבלות</l>
+          <l>פשוט מתאים לי איתך לברוח</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בוא בוא לרקוד איתי </l>
+          <l>יחד נעוף</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוף עוף בטירוף</l>
+          <l>תן לנשמה לעוף</l>
+          <l>יש לנו שמחה גדולה </l>
+          <l>כל היתר לא חשוב</l>
+          <l>עוף עוף בטירוף</l>
+          <l>תן לנשמה לעוף</l>
+          <l>יש לנו שמחה גדולה </l>
+          <l>כל היתר לא חשוב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא בא לי לדעת</l>
+          <l>לא בא לי לשאול</l>
+          <l>גם משטויות עושים עניין גדול</l>
+          <l>תקשיב לקצב המשגע</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בוא בוא לרקוד איתי</l>
+          <l>יחד נעוף</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>עוף עוף בטירוף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

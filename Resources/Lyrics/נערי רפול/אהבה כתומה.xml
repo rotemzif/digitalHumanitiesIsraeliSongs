@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה כתומה</title>
+        <singer classification="band">נערי רפול</singer>
+        <writer>מאיר עמר</writer>
+        <composer>איתי זילברשטין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה כתומה</head>
+        <lg number="1" type="stanza">
+          <l>ווירטואלי...לא נורמלי....</l>
+          <l>העולם כבר לא איתי</l>
+          <l>מה שבא לי... הוא ריאלי....</l>
+          <l>זמן מסך כמעט חופשי</l>
+          <l>מחכה לך שתגשי..</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גבר רגליים ואהבה כתומה</l>
+          <l>אי אפשר לגשת זמן של הורדה</l>
+          <l>גבר רגליים ואהבה כתומה</l>
+          <l>אי אפשר לגשת זמן של הורדה</l>
+          <l>אהבה רדומה...</l>
+          <l>גבר רגליים ואהבה כתומה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יום מיטלי, היא עשתה לי</l>
+          <l>מחכה לה שתבוא</l>
+          <l>מחכה לה שתחזור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גבר רגליים ואהבה כתומה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

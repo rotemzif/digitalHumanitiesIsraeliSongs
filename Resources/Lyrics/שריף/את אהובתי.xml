@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את אהובתי 3</title>
+        <singer classification="male singer">שריף</singer>
+        <writer>לא ידוע</writer>
+        <composer>שי ראובני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את אהובתי</head>
+        <lg number="1" type="stanza">
+          <l>שחור העיניים </l>
+          <l>עושה אותי אהוב</l>
+          <l>מהפנט אותי</l>
+          <l>מגודל שפתייך</l>
+          <l>משאיר אותי שיכור</l>
+          <l>מסחרר אותי</l>
+          <l>מילה שאת אומרת </l>
+          <l>נשמעת בלי מנגינה</l>
+          <l>מביט בך ויודע</l>
+          <l>את לא רגילה </l>
+          <l>את דבר נדיר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בא לי לומר לך בקול גבוה </l>
+          <l>שהעולם ידע</l>
+          <l>את אהובתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד יעברו ימים </l>
+          <l>לא תישארי ילדה</l>
+          <l>את אותי תיראי</l>
+          <l>מגודל העולם אני אוהב אותך</l>
+          <l>את לעולמים</l>
+          <l>את עוד פעם ובכל פעם</l>
+          <l>חזק עוד יותר</l>
+          <l>חולה עלייך בעייניך תמיד חוזר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בא לי לומר לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

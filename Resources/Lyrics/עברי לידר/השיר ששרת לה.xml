@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השיר ששרת לה</title>
+        <singer classification="male singer">עברי לידר</singer>
+        <writer>עברי לידר</writer>
+        <composer>עברי לידר</composer>
+        <album>זה לא אותו דבר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השיר ששרת לה</head>
+        <lg number="1" type="stanza">
+          <l>תשיר לי את השיר ששרת לה</l>
+          <l>אולי תראה לי את האור המשוגע</l>
+          <l>אני חושבת שלחשוב זו מחלה</l>
+          <l>בוא תשיר לי את השיר ששרת לה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואם האור הזה הוא אש גדולה</l>
+          <l>אני רוצה אותך שלי ולא שלה</l>
+          <l>אני חושבת שלחשוב זו מחלה</l>
+          <l>בוא תלחש לי את השיר ששרת לה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני רוצה לחיות חיים יותר פשוטים</l>
+          <l>לראות שמיים מעלי ואנשים</l>
+          <l>אני חושבת שלרצות זו מחלה</l>
+          <l>בוא תצעק לי את השיר ששרת לה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אולי תשיר לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

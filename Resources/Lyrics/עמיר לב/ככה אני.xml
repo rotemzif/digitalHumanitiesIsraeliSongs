@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ככה אני 7</title>
+        <singer classification="male singer">עמיר לב</singer>
+        <writer>עמיר לב</writer>
+        <composer>עמיר לב</composer>
+        <album>רוצה לראות אתכם במקומי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ככה אני</head>
+        <lg number="1" type="stanza">
+          <l>מאז שהיא הלכה לה</l>
+          <l>הימים יותר קצרים</l>
+          <l>ובלילות רואים את השמיים</l>
+          <l>קניתי לי את החופש</l>
+          <l>בלי לשלם מיסים</l>
+          <l>עכשיו אפשר לישון בצהריים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמו תמיד</l>
+          <l>תחנה עם שלט</l>
+          <l>והיא התקרבה אלי בלי שארגיש</l>
+          <l>כבר צוחק</l>
+          <l>ומציע לה סרט -</l>
+          <l>"אבל מתוק, אני עושה את זה בכביש"</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ככה אני, את לא תשני</l>
+          <l>זה לא הולך בשניים</l>
+          <l>אולי תלכי לך</l>
+          <l>אל תנסי, אני לעצמי</l>
+          <l>עכשיו עוצם עיניים</l>
+          <l>אולי תלכי לך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל הים</l>
+          <l>רץ לתפוס קצת שמש</l>
+          <l>לחבר, אולי לספור סיפורים</l>
+          <l>מתעורר עם</l>
+          <l>צללית מוכרת</l>
+          <l>חולם מוזר - ואת עדיין לצידי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ככה אני, את לא תשני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתג 18</title>
+        <singer classification="female singer">ירונה כספי</singer>
+        <writer>ירונה כספי</writer>
+        <composer>ירונה כספי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתג</head>
+        <lg number="1" type="stanza">
+          <l>מתג נדלק בתוכי</l>
+          <l>אור מסנוור את מנת חלקי</l>
+          <l>מסנוור את חלקי גופי</l>
+          <l>מתג נסגר, חושך בינך וביני</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חושך כאן, חושך כאן</l>
+          <l>האם אותות קבע נתן</l>
+          <l>והלב נדם </l>
+          <l>וקצר קר </l>
+          <l>והיבהוב מר </l>
+          <l>מתג יצר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתג עקר, מתג קר</l>
+          <l>גרם שמות בתוך בטני</l>
+          <l>מתג נדלק , מתג נדלק</l>
+          <l>בשם העוגמה אתה ואני</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חושך כאן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

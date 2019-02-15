@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלוז העלבונות</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>רוני סומק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלוז העלבונות</head>
+        <lg number="1" type="stanza">
+          <l>אם תעזבי אני אשאר כאן</l>
+          <l>אכין לי קפה, אפרוס ת'עוגה</l>
+          <l>הקרם ישפך כמפל עלבונות</l>
+          <l>רק אלוהים מכין ממחטות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הו אלוהים אתה שלקחת לי צלע</l>
+          <l>אתה שהבטחת לי קלף</l>
+          <l>לוקח אותה עם כל הקופה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם תעזבי אני אשאר כאן</l>
+          <l>אוריד את הבגדים, אלך למיטה</l>
+          <l>הגוף שנשאר בי מכריז על שביתה</l>
+          <l>ואני מנופף לי בדגל של מה שהיה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הו אלוהים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

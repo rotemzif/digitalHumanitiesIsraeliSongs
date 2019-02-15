@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש טבעת</title>
+        <singer classification="male singer">יוני בלוך</singer>
+        <writer>יוני בלוך</writer>
+        <composer>יוני בלוך</composer>
+        <album>על מי אני עובד</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש טבעת</head>
+        <lg number="1" type="stanza">
+          <l>ואת צודקת כשאת לא נותנת</l>
+          <l>וזה טיפשי להתעקש</l>
+          <l>אבל רצית לדעת כשיש טבעת,</l>
+          <l>אז רק תדעי שיש</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני לא רגוע</l>
+          <l>אני לא מבין</l>
+          <l>וזה לא בטוח</l>
+          <l>אם יש עתיד, או אין עתיד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואת צודקת כשאת לא נותנת</l>
+          <l>ואני משחק באש</l>
+          <l>אבל רצית לדעת כשיש טבעת</l>
+          <l>אז רק תדעי שיש</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר לאף אחד</title>
+        <singer classification="unknown">החדשות</singer>
+        <writer>צוק</writer>
+        <composer>צוק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר לאף אחד</head>
+        <lg number="1" type="stanza">
+          <l>דלת נסגרת והיא מאחרת</l>
+          <l>נכנסת מסביב, זה כבר נהיה תחביב</l>
+          <l>בחורף אומרת שתל אביב מתקררת</l>
+          <l>בתוך המעילים מחפשת ריגושים לאנשים קשים...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה שוב אור של בוקר</l>
+          <l>היא תתגנב למיטה, נקמה מתוקה</l>
+          <l>חולמת על אושר בעיר רחוקה, מרה ורכה</l>
+          <l>והעצב מחפש לקוחה, אז עכשיו לפעמים היא בוכה</l>
+          <l>בלילה לבד, יו גרנט ושוקולד</l>
+          <l>שיר לאף אחד..</l>
+          <l>שרה שיר לאף אחד..</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ארבע בבוקר זה עולה לה ביוקר</l>
+          <l>ויש לה יום ארוך, את כל העייפות לשפוך</l>
+          <l>חושבת לברוח, נשארת בכוח</l>
+          <l>שיטפון בלב, הטמבל לא עוזב... הוא מתעכב...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה שוב אור של בוקר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

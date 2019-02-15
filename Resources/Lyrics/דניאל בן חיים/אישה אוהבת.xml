@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אישה אוהבת</title>
+        <singer classification="unknown">דניאל בן חיים</singer>
+        <writer>רמי לב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אישה אוהבת</head>
+        <lg number="1" type="stanza">
+          <l>מי תאהב אותי תחבק אותי אל תוך חייה </l>
+          <l>מי תשמור עלי ותיקח אותי אל סודותיה</l>
+          <l>אני רוצה אליה כל חלק בחייה</l>
+          <l>להרגיש אין טעם להכחיש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יודע איך שאישה אוהבת </l>
+          <l>איך שאת עלי חושבת </l>
+          <l>את העולמות הופכת בשבילי</l>
+          <l>כל רגע.</l>
+          <l>איך שאישה אוהבת </l>
+          <l>את העולמות הופכת בשבילי </l>
+          <l>אישה יפה שלי...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את לי בית חם את האהבה שמנצחת</l>
+          <l>מול כל העולם זה אני ואת רק שנינו יחד</l>
+          <l>אני רוצה אלייך כל חלק בחייך </l>
+          <l>לאהוב ללכת עד הסוף</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יודע איך שאישה אוהבת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

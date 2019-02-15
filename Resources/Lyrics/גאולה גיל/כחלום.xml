@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כחלום 2</title>
+        <singer classification="female singer">גאולה גיל</singer>
+        <writer>עמוס אטינגר</writer>
+        <composer>דובי זלצר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כחלום</head>
+        <lg number="1" type="stanza">
+          <l>פניך טובות כמו היום הגדול,</l>
+          <l>עיניך כחולות כמו הים הכחול,</l>
+          <l>זוהרות כאבני יהלום.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם תלך כמו כולם,</l>
+          <l>לא תשוב לעולם,</l>
+          <l>תישאר בלבבי כחלום.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רציתי היום את שפתיך לנשוק,</l>
+          <l>רציתי גופך הגדול לחבוק,</l>
+          <l>להושיט את ידי לשלום.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם תלך כמו כולם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הלילה אלפי כוכבים לי הביא,</l>
+          <l>אלפי אהבות שנולדו בלבבי</l>
+          <l>מן הדרך יגיעו הלום.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אם תלך כמו כולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

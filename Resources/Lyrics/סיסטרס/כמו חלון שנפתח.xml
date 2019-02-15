@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו חלון שנפתח</title>
+        <singer classification="unknown">סיסטרס</singer>
+        <writer>דורון אלימלך</writer>
+        <composer>שרון אבילחק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו חלון שנפתח</head>
+        <lg number="1" type="stanza">
+          <l>הזמן עובר לה והיא נזכרת הייתה פורחת ומאושרת,</l>
+          <l>הימים שלה אתו ימים שלא איתה..</l>
+          <l>הלב דוחק בה בוער הצורך להיות כמו פעם ללכת אל הדרך,</l>
+          <l>ועכשיו היא מחכה חושבת לעצמה..</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה כמו חלון שנפתח ומספק את כל האושר הישן שהובטח</l>
+          <l>מימינו זיכרונות ולשמאלו האהבה הטהורה שחיכתה</l>
+          <l>הגיע הרגע הזמן הנכון להיאחז בשמחה</l>
+          <l>לנצח אתו עמוק בנשמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הזמן עובר לה ושוב נזכרת היה אומר לה נלך לסרט</l>
+          <l>זה היה ליל חורף קר עכשיו גם הוא נזכר</l>
+          <l>עונה חולפת איתה שלכת כל יום זה יחד ולא רוצים ללכת</l>
+          <l>ודבר אחד ברור זו רק ההתחלה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה כמו חלון שנפתח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

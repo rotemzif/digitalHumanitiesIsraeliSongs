@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אליי 17</title>
+        <singer classification="female singer">סי היימן</singer>
+        <writer>איתן גלס</writer>
+        <composer>יוסי פרץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אליי</head>
+        <lg number="1" type="stanza">
+          <l>בצומת הבא תפנה אל השקיעה</l>
+          <l>תרוץ עם הברושים אל השדות המצהיבים</l>
+          <l>תראה נהר שמתפתל ליד קוצים שנפתחים</l>
+          <l>ועוד מעט תגיע קרוב כל כך קרוב </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אליי</l>
+          <l>פשוט כמו שאהבתי</l>
+          <l>אליי </l>
+          <l>אוהב בזרועותי</l>
+          <l>חבק אותי חבק אותי עכשיו</l>
+          <l>ואשאר איתך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ימים ועוד ימים עמדתי מול הים</l>
+          <l>ליד אבני בזלת ששקעו בחול החם</l>
+          <l>ועצמתי את עיני אל מול הרוח הקרירה</l>
+          <l>וחיכיתי שתגיע קרוב כל כך קרוב </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אליי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

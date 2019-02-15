@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה נשמע בבית</title>
+        <singer classification="male singer">חנן יובל</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה נשמע בבית</head>
+        <lg number="1" type="stanza">
+          <l>בית אחד, שני אורנים.</l>
+          <l>ושלושה חתולים אפורים בחצר</l>
+          <l>שער ברזל, שובך יונים</l>
+          <l>והלילה מתחיל את דרכו במרפסת.</l>
+          <l>על הגדר יש בנות ובנים</l>
+          <l>מדברים ושרים עד שאמא כועסת.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה נשמע</l>
+          <l>בשדה, בכרם,</l>
+          <l>מה נשמע שם באתמולי,</l>
+          <l>מה נשמע</l>
+          <l>בגבעה, בבית</l>
+          <l>מה נשמע ברחוב שלי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גשם ראשון, קשת גדולה</l>
+          <l>מסוכת השומר עד גבעת הפרגים</l>
+          <l>עדר כבשים על המסילה,</l>
+          <l>רק שלא תעבור לה פתאום הרכבת.</l>
+          <l>אבא צוחק ממרומי עגלה</l>
+          <l>עמוסת חמציצים ושקי תערובת.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה נשמע...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>באתי לעיר, באתי צעיר</l>
+          <l>אל האור והצליל בכיכר הנוסעת</l>
+          <l>באתי לכאן, באתי מזמן</l>
+          <l>בעקבות החליל לספינה הטובעת.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מה נשמע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

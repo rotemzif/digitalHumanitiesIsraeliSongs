@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכל איתך אמא</title>
+        <singer classification="unknown">ניסים ברנס</singer>
+        <writer>ניסים ברנס</writer>
+        <composer>ניסים ברנס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכל איתך אמא</head>
+        <lg number="1" type="stanza">
+          <l>יש אחת שתמיד נותנת ועל העתיד שלך חושבת </l>
+          <l>באהבה ובחום עוטפת על הטוב והצלחה חושבת </l>
+          <l>שכואב היא מרגישה תמיד היא באה לעזרה </l>
+          <l>היא היחידה שיש בעולם נותנת אהבה לכולם </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הכל איתך אמא רק בזכותך צועד קדימה </l>
+          <l>הענקת לי תמיד באהבה רוצה להגיד תודה </l>
+          <l>אמא שלי מה עוד אומר מתרגש שאני לך שר </l>
+          <l>רק לך נחת אגרום אמא איתי בכל מקום </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מאושר כשאת שמחה לצידך בשעת צרה </l>
+          <l>את חלומי הגשמתי בזכותך לנצח אהיה לצידך </l>
+          <l>מתרגש שלך שוב שר חוץ ממך אין לי דבר </l>
+          <l>כל יום מודה לאלוקים שיש לי אותך בחיים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הכל איתך אמא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

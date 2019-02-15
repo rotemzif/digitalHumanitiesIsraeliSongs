@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אולי אני אשתגע</title>
+        <singer classification="female singer">לילך עין הבר</singer>
+        <writer>לילך עין הבר</writer>
+        <composer>לילך עין הבר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אולי אני אשתגע</head>
+        <lg number="1" type="stanza">
+          <l>אולי אני אשתגע </l>
+          <l>אולי אני אתמוטט </l>
+          <l>אולי יאשפזו אותי בגהה </l>
+          <l>אולי תצא האמת </l>
+          <l>מת הוא מי שלא חי </l>
+          <l>חי הוא מי שלא מת </l>
+          <l>מת הוא מי שלא חי </l>
+          <l>חי הוא מי שלא מת </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מי שלא מת עדיין </l>
+          <l>חשוף להשפעות </l>
+          <l>אך מי שעצם עיניים </l>
+          <l>יכול בשקט להמשיך לחיות </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז אולי אני אשתגע... </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מי שלא מת עדיין... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אז אולי אני אשתגע </l>
+          <l>אולי אני אתמוטט </l>
+          <l>אולי יאשפזו אותי בגהה </l>
+          <l>אולי פשוט </l>
+          <l>אתמודד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

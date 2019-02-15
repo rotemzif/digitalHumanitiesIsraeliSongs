@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גם בי וגם בך</title>
+        <singer classification="unknown">צח אגסי</singer>
+        <writer>צח אגסי</writer>
+        <composer>צח אגסי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גם בי וגם בך</head>
+        <lg number="1" type="stanza">
+          <l>כשהיינו בהולנד </l>
+          <l>רצית לקנות לי גיטרה בצבע ירוק</l>
+          <l>אמרת שאין מחיר לחיוך הזה </l>
+          <l>שכובש את הפנים מרחוק</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גם בי וגם בך יש חלל של חלומות ושאיפות </l>
+          <l>שלא הצלחנו להגשים </l>
+          <l>גם לי וגם לך יש חשש שלא נצליח לכבוש</l>
+          <l>שלא נצליח להתאים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ועדיין כאן, אותו מקום אותו הזמן</l>
+          <l>אותו משחק של אנשים</l>
+          <l>אבל תמיד היא חוזרת, המציאות ואומרת</l>
+          <l>שיש רצוי ויש מצוי ושאסור לי להגזים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גם בי וגם בך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

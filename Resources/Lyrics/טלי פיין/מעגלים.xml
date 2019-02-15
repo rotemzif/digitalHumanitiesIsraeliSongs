@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מעגלים 2</title>
+        <singer classification="female singer">טלי פיין</singer>
+        <writer>טלי פיין</writer>
+        <composer>אלון אדירי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מעגלים</head>
+        <lg number="1" type="stanza">
+          <l>יש עוד זמןלנשום את העולם</l>
+          <l>זה האור שם, בקצה, לא נעלם</l>
+          <l>מנסה להסתכל מעבר לזמן</l>
+          <l>ומגלה ששם הכול צבוע לבן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והוא בורח, לא נשאר</l>
+          <l>עוזב, לוקח את כל מה שעבר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מעגל של זכרונות מתרחק איתך</l>
+          <l>בעיני יש עוד חיוך בדמותך</l>
+          <l>מעגל של חלומות שעוטף אותך</l>
+          <l>בין ידי יש עוד מקום לליבך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוד מבט אחד מעל לחומה</l>
+          <l>השתיקה הארוכה שהסתיימה</l>
+          <l>זו המלחמה שלי, איש לא יידע</l>
+          <l>שהשקט בסופו אין סערה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>והוא בורח, לא נשאר</l>
+          <l>עוזב, לוקח את כל מה שעבר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

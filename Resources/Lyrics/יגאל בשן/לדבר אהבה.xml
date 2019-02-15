@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לדבר אהבה</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>יגאל בשן</writer>
+        <composer>יגאל בשן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לדבר אהבה</head>
+        <lg number="1" type="stanza">
+          <l>ידענו כבר ימים קשים מאלה</l>
+          <l>ראינו כבר לילות בלי צל של ענן</l>
+          <l>ורק כוכב קטן יאיר לאלה</l>
+          <l>שיש להם מקום בלב מספיק לכולם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם רק נדע לדבר אהבה הכל יסתדר</l>
+          <l>אם רק נדע לדבר אהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאני נפגע כמעט שוכח</l>
+          <l>כשאני אוהב כל כך מתרגש</l>
+          <l>ואם לכל אני כמעט סולח</l>
+          <l>משם בא הכח לתת את כל מה שיש</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם רק נדע לדבר אהבה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם נסתכל ישר בגובה העיניים</l>
+          <l>נוכל לומר הרבה מילים מילים של אהבה</l>
+          <l>אם יש מקום בלי דאגה צריך לומר כפליים</l>
+          <l>לומר הרבה מילים יפות מילים של אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אם רק נדע לדבר אהבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

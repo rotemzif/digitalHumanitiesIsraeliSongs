@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חוזה בנשמה</title>
+        <singer classification="unknown">עומר אדם</singer>
+        <writer>דורון מדלי</writer>
+        <composer>דורון מדלי</composer>
+        <album>נמס ממך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חוזה בנשמה</head>
+        <lg number="1" type="stanza">
+          <l>עוד כשהיינו תמימים קבענו ביום מן הימים </l>
+          <l>ניפגש כמו שני אוהבים</l>
+          <l>אהבה פגשה אותנו, ברגע שלא דמיינו </l>
+          <l>אני מנסה להסדיר את פעימות הלב.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אף פעם לא הרגשתי מאוהב כל כך</l>
+          <l>עד שאת אהבת אותי בחזרה</l>
+          <l>אף פעם לא הרגשתי מיוחד כל כך</l>
+          <l>וביחד ננצח את הרע</l>
+          <l>את אחת ויחידה, אהובה שלי מלכה </l>
+          <l>אני חותם איתך חוזה בנשמה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אנחנו כבר שני אנשים מביטים זה בזו</l>
+          <l>כמו אותם ילדים מבטיחים להישאר ביחד</l>
+          <l>אהבה מצאה אותנו ברגע שלא תכננו</l>
+          <l>אני מנסה להסדיר את פעימות הלב.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אף פעם לא הרגשתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

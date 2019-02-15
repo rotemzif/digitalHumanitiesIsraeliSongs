@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר פנים</title>
+        <singer classification="unknown">צוות בלי סודות</singer>
+        <writer>אילנה לופט</writer>
+        <composer>שלמה יידוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר פנים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>לכל אשר פונים </l>
+          <l>רואים פנים, פנים, פנים. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וזה מזל שלכל אחד </l>
+          <l>יש פרצוף מאוד מיוחד </l>
+          <l>כי לו כולם היו דומים לכולם </l>
+          <l>היה נורא משעמם בעולם. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש פנים של תינוקות </l>
+          <l>ופנים של זקנים </l>
+          <l>פנים של אנשים </l>
+          <l>עם המון נמשים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>פנים עם זקן </l>
+          <l>פנים של ליצן </l>
+          <l>ואם רוצים או לא רוצים </l>
+          <l>פוגשים גם פנים חמוצים </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>פנים עליזות ופנים עצובות </l>
+          <l>(אז מה) מה לעשות יש פנים כועסות </l>
+          <l>פנים רציניות ופנים שובבות </l>
+          <l>והדבר הכי נחמד-פנים של ילד שזלל שוקולד. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לכל אשר פונים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

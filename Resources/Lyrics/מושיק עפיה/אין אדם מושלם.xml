@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין אדם מושלם</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>לא ידוע</composer>
+        <album>סיפור אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין אדם מושלם</head>
+        <lg number="1" type="stanza">
+          <l>לפעמים אני לבד חושב לי</l>
+          <l>כמה פעמים טועים כולנו</l>
+          <l>גם אני טועה וזה קורה לי</l>
+          <l>ככה אלוקים ברא אותנו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין בעולם אדם מושלם</l>
+          <l>וגם אני כמו כולם</l>
+          <l>זה לא נורא גם אם טעיתי</l>
+          <l>לא התכוונתי זה קורה לי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לפעמים טועה וזה קשה לי</l>
+          <l>מתוודה ואת הלב פותח</l>
+          <l>את ההרגשה זה משנה לי</l>
+          <l>אלוקים על טעויות סולח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין בעולם אדם מושלם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

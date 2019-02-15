@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל רגע</title>
+        <singer classification="unknown">יניב שחורי</singer>
+        <writer>יניב שחורי</writer>
+        <composer>יניב שחורי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל רגע</head>
+        <lg number="1" type="stanza">
+          <l>כל רגע שעובר מותיר בי עוד סימן</l>
+          <l>כל רגע שחולף שמיים נפערים</l>
+          <l>בולעים אותי איתם</l>
+          <l>ערום במכאובי חשוף במישורים</l>
+          <l>רק עור ועצמות מול כל השדים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תן בי כוח לא לברוח</l>
+          <l>תן בי כוח לסלוח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הבית אלמוני ריק מזכרונות</l>
+          <l>נפטר מייסוריו מצפין את הסודות</l>
+          <l>שתיקה דקה ממסכת מחשבות</l>
+          <l>מערפלת רצונות מעגנת עלבונות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תן בי כוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טופי והגורילה</title>
+        <singer classification="male singer">שי נובלמן</singer>
+        <writer>רועי צ'יקי ארד</writer>
+        <composer>שי נובלמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טופי והגורילה</head>
+        <lg number="1" type="stanza">
+          <l>הכי כייף בעולם שיש ידידים</l>
+          <l>שיודעים לחבק כשבודדים</l>
+          <l>אם את הסוכריה שלך בלעה מפלצת</l>
+          <l>החבר יכה אותה סטירה מוחצת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם יש טופי, אז יש גורילה</l>
+          <l>שאוהב לעשות שטויות</l>
+          <l>אם יש גורילה,</l>
+          <l>אז יש טופי והרפתקאות מתקתקות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הכי כייף בעולם כשיש ידידים</l>
+          <l>שיודעים לרקוד על עקבים</l>
+          <l>אם את הברווז שלך אישה דורסת</l>
+          <l>החבר יצלוב אותה על המרפסת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם יש טופי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

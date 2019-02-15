@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בשתי עינייך</title>
+        <singer classification="male singer">שלומי שבת</singer>
+        <writer>ניסים מרי</writer>
+        <composer>אבי גוטמן</composer>
+        <album>אני שר אלייך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בשתי עינייך</head>
+        <lg number="1" type="stanza">
+          <l>מהרגע שאותך ראיתי </l>
+          <l>צביטה בלב הרגשתי </l>
+          <l>רציתי רק אותך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>במבט שלך מיד הבנתי </l>
+          <l>את האישה אותה דמיינתי</l>
+          <l>איך התאהבתי בך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בשתי עינייך</l>
+          <l>נתת לי להבין</l>
+          <l>כמה יפות פנייך</l>
+          <l>קשה להאמין</l>
+          <l>חולם עלייך</l>
+          <l>תתני לי רק לטעום</l>
+          <l>מעט משפתותייך</l>
+          <l>הגשימי לי חלום</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לו ידעת כמה לך התמכרתי </l>
+          <l>למבט שלא שכחתי </l>
+          <l>קל להתאהב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תנסי לתת לי רמז דק </l>
+          <l>הכאב בי נאבק</l>
+          <l>עלייך רק חושב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בשתי עינייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לאט לאט 6</title>
+        <singer classification="unknown">עידן חביב</singer>
+        <writer>עידן חביב</writer>
+        <composer>עידן חביב</composer>
+        <album>כל פעם קצת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לאט לאט</head>
+        <lg number="1" type="stanza">
+          <l>כל אשר אכתוב לבטח יעלם </l>
+          <l>כל אשר אומר לא נאמר </l>
+          <l>אותו סיפור של השגחה מונח על השידה </l>
+          <l>על השידה, על השידה </l>
+          <l>על השידה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עכשיו החדר הגדול ובו שתיקה של ים </l>
+          <l>ובעולם הבא אולי דממה, </l>
+          <l>מדליק פנס ואור חלש </l>
+          <l>חותך בעלטה </l>
+          <l>אני לא אטבע, לא אטבע </l>
+          <l>לא אטבע...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לאט לאט אני נסחף </l>
+          <l>כמו מתערבב לו נוף לבן בנוף שרב.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הכוח להבין, האומץ לשנות </l>
+          <l>לדלג מנקודה לנקודה </l>
+          <l>המסע רומז על סיומו </l>
+          <l>ואם אני שלו, איך אני שלו? אם אני שלו?</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לאט לאט אני נסחף </l>
+          <l>כמו מתערבב לו נוף לבן בנוף שרב.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

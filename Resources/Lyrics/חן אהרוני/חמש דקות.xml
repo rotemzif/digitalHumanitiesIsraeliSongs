@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חמש דקות</title>
+        <singer classification="unknown">חן אהרוני</singer>
+        <writer>ג'וני</writer>
+        <composer>ג'וני</composer>
+        <album>נוסע רחוק</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חמש דקות</head>
+        <lg number="1" type="stanza">
+          <l>רוח קרה של חורף לא מוגדר</l>
+          <l>עומד במקום שבור ונפגע</l>
+          <l>הברז נפתח, המוח נשרף</l>
+          <l>הלחי שרוטה מאודם.</l>
+          <l>נפוח, מחכה לרגע הבא.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חמש דקות של אושר מצומצם</l>
+          <l>הרסו לי את הלב</l>
+          <l>חמש דקות של אושר מצומצם</l>
+          <l>גרמו לי לכאב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בגוף שחולם להיות גוף אחר</l>
+          <l>ברגע נשכח או ברגע חוזר</l>
+          <l>אני מתפרק אני מתחנן</l>
+          <l>רוצה לחזור אחורה לתחושה</l>
+          <l>מחכה לה שם בפינה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חמש דקות של אושר מצומצם</l>
+          <l>הרסו לי את הלב</l>
+          <l>חמש דקות של אושר מצומצם</l>
+          <l>גרמו לי לכאב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

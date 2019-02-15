@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני גבר</title>
+        <singer classification="unknown">מישל כהן</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי ערבי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני גבר</head>
+        <lg number="1" type="stanza">
+          <l>אשרי האיש אשר יודה יומם ולילה</l>
+          <l>שנשמתו בלי אהבה לא די לה.</l>
+          <l>רק אל תאמרי שבשבילך אדם אינני</l>
+          <l>הלא תראי שגם אותך אוהב עודני.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני גבר, אני גבר,</l>
+          <l>אני גבר, כן אני גבר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק לי בציבור זכות-הדיבור</l>
+          <l>ובין ידידי כבוד לי שמור</l>
+          <l>אבל בביתך אני משרתך</l>
+          <l>ולא אסרב למשאלתך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נאום הגבר, בי נשבעתי,</l>
+          <l>לא אשוב מכל מה שאמרתי.</l>
+          <l>אני גבר, אני גבר,</l>
+          <l>אני גבר, כן אני גבר.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני עבדך, אני מלכך</l>
+          <l>וכל עמלי רק בשבילך.</l>
+          <l>בכל ימי איתך אלך,</l>
+          <l>אקדיש חיי למענך.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>נאום הגבר...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אותך מרגש, ידך מבקש,</l>
+          <l>אותך מקדש ואיתך מתחדש.</l>
+          <l>אותך מחבק, אותך מנשק,</l>
+          <l>אותך מפנק אם לי מתחשק.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>נאום הגבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

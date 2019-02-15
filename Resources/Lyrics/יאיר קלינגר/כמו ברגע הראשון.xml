@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו ברגע הראשון</title>
+        <singer classification="male singer">יאיר קלינגר</singer>
+        <writer>שמוליק קלוסקי</writer>
+        <composer>יאיר קלינגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו ברגע הראשון</head>
+        <lg number="1" type="stanza">
+          <l>אני חוזר הביתה</l>
+          <l>מלילה מאוחר,</l>
+          <l>האם את מחכה לי בחדרי.</l>
+          <l>אני נרגש כמו ילד</l>
+          <l>עומד על המפתן,</l>
+          <l>עוד רגע תיכנסי אל תוך שירי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואת יפה</l>
+          <l>כמו ברגע הראשון</l>
+          <l>ואת שלי</l>
+          <l>אש צורבת בגרון</l>
+          <l>ובליבי</l>
+          <l>את השיר האחרון,</l>
+          <l>כמו ברגע הראשון.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>האור רוקד בחדר</l>
+          <l>נרות ופרפרים,</l>
+          <l>את שטה חלומית מצל את צל.</l>
+          <l>פורס לך שתי ידיים</l>
+          <l>ניחוח דבש מתוק,</l>
+          <l>יודע שממך לא אגמל.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואת יפה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

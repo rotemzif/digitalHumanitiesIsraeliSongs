@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בעין הסערה</title>
+        <singer classification="male singer">ערן צור</singer>
+        <writer>ערן צור</writer>
+        <composer>ערן צור</composer>
+        <album>כל מה שאנושי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בעין הסערה</head>
+        <lg number="1" type="stanza">
+          <l>נכון שאני גבר, גם אם מביטים על הצד הנשי</l>
+          <l>נכון שזה מכבר אינני ילד, גם אם מדברים על הילד שבפנים</l>
+          <l>נכון, עברתי דברים בחיים, גם אם מביטים בראי הדורות</l>
+          <l>נכון שצימחתי לי עור קצת עבה,</l>
+          <l>כדי שלא להיות כמו ציפור בלי נוצות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבל אני עדין ויש לי רגשות</l>
+          <l>תגידי לי דברים טובים, מילים נעימות</l>
+          <l>ותני לי את הגב, חבקי אותי עכשיו</l>
+          <l>כי קר לי נורא בעין הסערה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נכון שאני אבא, ראיתי אותם מגיחים לעולם</l>
+          <l>מתנתקים מכבל הטבור, דרכו הם היו מחוברים לאימם</l>
+          <l>נכון, למדתי לומר להם - זהו הטוב וזהו הרע</l>
+          <l>אבל דרך כל זה נשארתי אותו האדם, אותה החיה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבל אני עדין ויש לי רגשות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

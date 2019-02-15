@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הנה פתחתי חלון 2</title>
+        <singer classification="female singer">ריקי גל</singer>
+        <writer>נתן זך</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הנה פתחתי חלון</head>
+        <lg number="1" type="stanza">
+          <l>הנה פתחתי חלון</l>
+          <l>אל העולם המואר</l>
+          <l>תקשיב עכשיו איך הוא שר</l>
+          <l>אם לא לי, ודאי לך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הנה מרוץ של אורות</l>
+          <l>כבים ושוב נדלקים.</l>
+          <l>אורות נפרדים מאורות</l>
+          <l>ואנחנו עוד לא נפרדים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גופך שותק לי הלילה</l>
+          <l>וגם גופי התרוקן.</l>
+          <l>לילה עתיק כמו הנצח</l>
+          <l>לוקח כלי ומנגן.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

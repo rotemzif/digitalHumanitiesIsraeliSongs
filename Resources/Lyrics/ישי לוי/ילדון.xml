@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילדון 5</title>
+        <singer classification="male singer">ישי לוי</singer>
+        <writer>זאב נחמה</writer>
+        <composer>זאב נחמה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילדון</head>
+        <lg number="1" type="stanza">
+          <l>אז איך לגבר שלך את אומרת ילדון </l>
+          <l>אני שומע אותך וקשה לי לישון </l>
+          <l>נכון אני לפעמים משחק משחקים </l>
+          <l>איך אני ילד אם יש לנו שני ילדים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את מביטה בי צוחקת שלך יש שלושה </l>
+          <l>כי גם אותי את סופרת ואין לך בושה </l>
+          <l>נכון גברים לפעמים הם כמו ילדים </l>
+          <l>אז אם רצית אותי גבר אז ככה אני </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אל תכעסי עלי, אל תנסי אותי, כי זה הספיק ודי </l>
+          <l>קבלי אותי רק כמו שאני אל תנסי לשנות אותי </l>
+          <l>עוד תגלי את הטוב שבי ואז תדעי מי הגבר שלך. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז תקראי לי ילדון רק בין ארבע קירות </l>
+          <l>בחוץ עשי אותי גבר ותני לי כבוד </l>
+          <l>הרי גברים עסוקים בתדמית כוחנית </l>
+          <l>אהיה לך פודל בבית, אל תהיי עצבנית </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אל תכעסי עלי, אל תנסי אותי, כי זה הספיק ודי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אושר 19</title>
+        <singer classification="band">כנסיית השכל</singer>
+        <writer>רן אלמליח</writer>
+        <composer>רן אלמליח</composer>
+        <album>שורות של אנשים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אושר</head>
+        <lg number="1" type="stanza">
+          <l>ציפורים שרות תפילה לבוקר</l>
+          <l>מגרשות את הכוכבים</l>
+          <l>אני נזכר איך בלילה כשדיברנו</l>
+          <l>אני הלכתי מסביב</l>
+          <l>את מה שלא אמרתי שגרם לך אז ללכת</l>
+          <l>אני לא אכתוב בשיר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אושר קח אותי אליך</l>
+          <l>עד הלילה הקרוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שתינו מהיין הפכנו עצב למתוק</l>
+          <l>זכרון ילדות היכה בי</l>
+          <l>השאיר אותי לבד</l>
+          <l>את מה שלא אמרתי</l>
+          <l>שגרם לך אז לשתוק</l>
+          <l>אני שומר לי לעצמי</l>
+          <l>עכשיו טובה לי השתיקה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אושר קח אותי אליך</l>
+          <l>עד הלילה הקרוב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

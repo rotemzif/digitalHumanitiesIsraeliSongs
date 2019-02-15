@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה לא מתאים</title>
+        <singer classification="unknown">ערן סופר</singer>
+        <writer>ראובן כרמל</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה לא מתאים</head>
+        <lg number="1" type="stanza">
+          <l>את יפה נראית תמימה אך לי זה לא מתאים</l>
+          <l>כי אומרים שהשקטים הכי מסוכנים</l>
+          <l>את יפה ועשירה וכסף לא חסר</l>
+          <l>זה אותי לא מעניין זה לא מתאים יותר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ים של פעמים נפגעתי בחיים</l>
+          <l>מאותן נשים לא זה לא מתאים</l>
+          <l>גם הן היו יפות טובות וחכמות</l>
+          <l>תפסיקי לקוות די אם השטויות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לי לי לי זה לא מתאים</l>
+          <l>זה לא מתאים לי זה לא מתאים</l>
+          <l>לי לי לי זה לא מתאים</l>
+          <l>זה לא מתאים לי זה לא מתאים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא מתאים לי חברה כנה ורצינית</l>
+          <l>שפתאום תתחיל לקבוע וגם להדליק</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ים של פעמים נפגעתי בחיים</l>
+          <l>מאותן נשים לא זה לא מתאים</l>
+          <l>גם הן היו יפות טובות וחכמות</l>
+          <l>תפסיקי לקוות די אם השטויות</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לי לי לי זה לא מתאים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

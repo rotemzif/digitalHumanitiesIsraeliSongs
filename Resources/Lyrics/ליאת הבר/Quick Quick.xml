@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quick Quick</title>
+        <singer classification="unknown">ליאת הבר</singer>
+        <writer>ליאת הבר</writer>
+        <composer>ליאת הבר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Quick Quick</head>
+        <lg number="1" type="stanza">
+          <l>You decided to part</l>
+          <l>When you lost your dart</l>
+          <l>To another woman's heart</l>
+          <l>Because I was smart</l>
+          <l>You decided to part</l>
+          <l>When you lost your dart</l>
+          <l>To another woman's heart</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>You can come or go</l>
+          <l>Stay or leave</l>
+          <l>It's your give</l>
+          <l>Quick quick</l>
+          <l>Quick quick</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>You decided to stray</l>
+          <l>When you lost your way</l>
+          <l>To another woman's play</l>
+          <l>Because I could stay</l>
+          <l>You decided to stray</l>
+          <l>When you lost your way</l>
+          <l>To another woman's play</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>You can come or go</l>
+          <l>Stay or leave</l>
+          <l>It's your give</l>
+          <l>Quick quick</l>
+          <l>Quick quick</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

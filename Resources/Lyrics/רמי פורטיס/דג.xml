@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דג 22</title>
+        <singer classification="male singer">רמי פורטיס</singer>
+        <writer>רמי פורטיס</writer>
+        <composer>רמי פורטיס</composer>
+        <album>פורטיס משולש</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דג</head>
+        <lg number="1" type="stanza">
+          <l>הלכתי לשנקין לקנות כדורים</l>
+          <l>חשמל בעיניים והסקיני לוחצים</l>
+          <l>יפנית פמפנית הרבה יותר תימנית</l>
+          <l>תשוטי אלינו ונשוט לך בפנים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בקצה של בן יהודה לא רואים את העולם</l>
+          <l>אנשים הולכים על מים</l>
+          <l>מלאכים בשמי בת ים</l>
+          <l>ואני רק דג</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הייתי בשנקין לקנות מפרטים</l>
+          <l>אוכל בידיים והאולסטר בוכים</l>
+          <l>הלו טקסי!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בקצה של בן יהודה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

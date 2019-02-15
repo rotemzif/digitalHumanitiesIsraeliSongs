@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ביוב</title>
+        <singer classification="unknown">העיר הגדולה</singer>
+        <writer>זיו הימלפרב</writer>
+        <composer>אורן סניה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ביוב</head>
+        <lg number="1" type="stanza">
+          <l>שותים בביוב ומנגנים בחורים</l>
+          <l>משחיזים סכינים ומלמדים ילדים</l>
+          <l>עובדים ביבוא, מוכרים ספרים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>סופרים מטבעות וחולמים על חוזים</l>
+          <l>משחיזים סכינים ומלמדים ילדים</l>
+          <l>עובדים ביבוא, מוכרים ספרים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אלבומים נמכרים בעשרות עותקים</l>
+          <l>חברים של חברים הופכים מוזמנים</l>
+          <l>מינימום הזמנה שלושים שקלים</l>
+          <l>אין רוקנרול בעברית, כתבו על זה שירים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בלילה, כמו טקס, הם מתכנסים</l>
+          <l>מקטרים, מעשנים, צוחקים, מרוצים</l>
+          <l>מחברים מגברים, מרגיזים שכנים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אלבומים נמכרים בעשרות עותקים</l>
+          <l>חברים של חברים הופכים מוזמנים</l>
+          <l>מינימום הזמנה שלושים שקלים</l>
+          <l>אין רוקנרול בעברית, כתבו על זה שירים</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מינימום הזמנה שלושים שקלים</l>
+          <l>אין רוקנרול בעברית, כתבו על זה שירים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

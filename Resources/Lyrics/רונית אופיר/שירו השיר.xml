@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שירו השיר</title>
+        <singer classification="female singer">רונית אופיר</singer>
+        <writer>מתתיהו שלם</writer>
+        <composer>מתתיהו שלם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שירו השיר</head>
+        <lg number="1" type="stanza">
+          <l>שירו השיר על תירוש דרכו בגת</l>
+          <l>ועל יין ישמח כל לב,</l>
+          <l>שירו על עיר נצורה עמדה בדד</l>
+          <l>ובשער איך נוצח אויב -</l>
+          <l>ה-הריעו נא, ה-הריעו נא.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עיר עוז לנו, עוז ושגב,</l>
+          <l>עוז לנו ומישגב.</l>
+          <l>צר נפל הוכרע בנגב</l>
+          <l>כה תמחאו כף אל כף.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ראש עטרת -</l>
+          <l>בת תפארת -</l>
+          <l>זו הקרת -</l>
+          <l>המשוחררת -</l>
+          <l>זו הקרת</l>
+          <l>המשוחררת -</l>
+          <l>ירושלים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק הלב יודע</title>
+        <singer classification="male singer">פבלו רוזנברג</singer>
+        <writer>פבלו רוזנברג</writer>
+        <composer>פבלו רוזנברג</composer>
+        <album>האוסף</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק הלב יודע</head>
+        <lg number="1" type="stanza">
+          <l>לא פחדתי להתחיל הכל מהתחלה</l>
+          <l>אבל לא שמעתי מצדך אף לא מילה</l>
+          <l>אולי, אז לא ידעתי</l>
+          <l>לא שיקרתי לך אל תכני אותי רמאי</l>
+          <l>רק רציתי להמשיך ולהיות איתך</l>
+          <l>אולי אז לא ידעתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק הלב יודע</l>
+          <l>כמו קוסם להעלם</l>
+          <l>הוא נשבר לרסיסים בתוך תוכו פנימה</l>
+          <l>אבל בחוץ נשאר שלם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא חשבתי אף לרגע לבקש סליחה</l>
+          <l>להכות על חטא שלא חטאתי ממילא</l>
+          <l>אולי אז לא ידעתי</l>
+          <l>לא יכולתי שוב ושוב לרצות שתחבקי</l>
+          <l>לא יכולתי לדבר תמיד רק עם עצמי</l>
+          <l>אולי אז לא ידעתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק הלב יודע...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>במיטה אותה חלקנו היה כבר מישהו אחר</l>
+          <l>אז לא ידעתי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

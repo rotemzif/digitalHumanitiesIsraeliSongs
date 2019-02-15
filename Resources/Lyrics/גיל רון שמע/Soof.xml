@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Soof</title>
+        <singer classification="unknown">גיל רון שמע</singer>
+        <writer>גיל רון שמע</writer>
+        <composer>גיל רון שמע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Soof</head>
+        <lg number="1" type="stanza">
+          <l>את אמונתי את</l>
+          <l>את אהבתי את</l>
+          <l>את בנפשי את</l>
+          <l>את אמונתי, את</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לך חיי הם שיר, אמונתי</l>
+          <l>כל חיי אתן לך</l>
+          <l>את אמונתי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

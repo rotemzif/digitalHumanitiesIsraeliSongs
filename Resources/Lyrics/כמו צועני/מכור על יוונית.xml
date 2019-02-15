@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מכור על יוונית</title>
+        <singer classification="band">כמו צועני</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>עוזי חיטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מכור על יוונית</head>
+        <lg number="1" type="stanza">
+          <l>איך התיוונתי, לא התכוונתי, אל תעזבי אותי</l>
+          <l>צליל הבוזוקי והסירטקי בא ותפס אותי.</l>
+          <l>וכשנגנתי לא האמנתי איך זה סחף אותי</l>
+          <l>עד לאתונה וסלוניקי, עד אל חדרי ליבי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יום רודף לו יום כשאת אינך אני איני</l>
+          <l>בואי עד אלי עשי אותי כמו שאני</l>
+          <l>יום רודף לו יום ברחוב בבית במונית</l>
+          <l>גם אני כמו כולם מכור על יוונית</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך התיוונתי, לא התכוונתי, הו אנא אל תלכי</l>
+          <l>צליל הבוזוקי והסירטקי בא ותפס אותי</l>
+          <l>וכשנגשתי תיכף הרגשתי איך זה פוגע בי</l>
+          <l>הופ חת ושתיים, הופ לרגליים דרך חדרי ליבי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יום רודף לו יום כשאת אינך אני איני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

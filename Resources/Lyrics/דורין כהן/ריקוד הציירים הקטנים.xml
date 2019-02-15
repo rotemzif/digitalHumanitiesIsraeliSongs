@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ריקוד הציירים הקטנים</title>
+        <singer classification="unknown">דורין כהן</singer>
+        <writer>אורלי בינדר</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ריקוד הציירים הקטנים</head>
+        <lg number="1" type="stanza">
+          <l>לנו יש מכחול לנו יש צבעים,</l>
+          <l>אנחנו ציירים קטנים ומכשרים</l>
+          <l>ומה מציירים? פנים אולי וגם נוף</l>
+          <l>תכלת השמים שמש ים וחוף.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ציירים צעירים</l>
+          <l>כאן יושבים ומציירים</l>
+          <l>לנו לוח עם צבעים</l>
+          <l>תערוכת אמן יוצרים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לנו יש מכחול לנו יש צבעים,</l>
+          <l>את עצמנו אנו כולנו מציירים.</l>
+          <l>מה מציירים עם צבע ומשחה</l>
+          <l>אנו מציירים את כל המשפחה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ציירים צעירים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

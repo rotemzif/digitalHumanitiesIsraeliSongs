@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלק מהלהקה</title>
+        <singer classification="unknown">צעירי באר שבע</singer>
+        <writer>נוריאל שבת</writer>
+        <composer>נוריאל שבת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלק מהלהקה</head>
+        <lg number="1" type="stanza">
+          <l>כשהמסך עולה והאושר בתוכנו מתמלא</l>
+          <l>כמה שלזה חיכינו עכשיו זה מתגשם</l>
+          <l>וזה הולך ומתעצם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עכשיו אני ואת בשני קולות</l>
+          <l>ומאחור עוטפות אותנו מקהלות</l>
+          <l>כי כשכולנו כאן ביחד בתוך המנגינה</l>
+          <l>לכל אחד יש חלק בבמה</l>
+          <l>חלק בבמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היום זה אנחנו שרים בתוך מדים</l>
+          <l>ומנסים לכבוש את הבמה</l>
+          <l>גם ברגעי משבר</l>
+          <l>נוכיח שלא נשבר</l>
+          <l>כי כל אחד הוא חלק מהלהקה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>גם אם לפעמים יש מריבות</l>
+          <l>עם קצת אומץ הן יהיו לאהבות</l>
+          <l>כי מה שמאחד אותנו הוא יצר הבמה</l>
+          <l>וזה נותן לנו עוצמה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>היום זה אנחנו... הלהקה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

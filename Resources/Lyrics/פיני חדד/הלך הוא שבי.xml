@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלך הוא שבי</title>
+        <singer classification="male singer">פיני חדד</singer>
+        <writer>אביחי מליחי</writer>
+        <composer>אביחי מליחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלך הוא שבי</head>
+        <lg number="1" type="stanza">
+          <l>הלך הוא שבי אחריה, מותש מאהבה </l>
+          <l>הלך הוא שבי ופניה, עצבו מאכזבה </l>
+          <l>לא ישכח הוא כשאמרה לו </l>
+          <l>אתה חיי אתה הכל </l>
+          <l>איך עולמי היית פעם, נשארת זיכרון </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם היא תשוב אליו, האם תיקח ידיו </l>
+          <l>תאמצנו אל ליבה? </l>
+          <l>אם היא תשוב אליו, תאיר לו את פניו </l>
+          <l>ייטב לו בלבבו </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלך הוא שר בעקבותיה, מנגן לה בלילות </l>
+          <l>אהבתו שם לרגליה, מה נשאר עוד לגלות? </l>
+          <l>לא ישכח הוא כשאמרה לו </l>
+          <l>אתה שלי לעולמים </l>
+          <l>איך עולמי היית פעם, נשארת כה תמים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם היא תשוב אליו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

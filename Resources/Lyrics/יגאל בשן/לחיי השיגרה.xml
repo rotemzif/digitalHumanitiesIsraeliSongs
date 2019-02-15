@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לחיי השיגרה</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>יגאל בשן</writer>
+        <composer>יגאל בשן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לחיי השיגרה</head>
+        <lg number="1" type="stanza">
+          <l>לחבק את השיגרה כשהיא באה</l>
+          <l>לחבק אותה חזק </l>
+          <l>לא לתת לה לעזוב</l>
+          <l>יש בקול שלה גוונים כמו בגיטרה</l>
+          <l>כל אקורד שבא איתה עושה לנו רק טוב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לחיי אותה שיגרה שמתנגנת</l>
+          <l>לחיי אותם שירים שעדיין נכתבים</l>
+          <l>לחיי אותה שיגרה שממכרת</l>
+          <l>לחיי הרגעים שמתפייסים עם החיים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שיגרתי היקרה את שוב נוסעת</l>
+          <l>רק תקחי אותי איתך לאן שלא תלכי</l>
+          <l>מלחמה כמעט שלום את שוב בורחת</l>
+          <l>תישארי אני מוכן לשיר לך קול שני</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לחיי אותה שיגרה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וזה קורה לי כשהיא באה כשהיא באה כשהיא באה</l>
+          <l>וזה קורה לי כשהיא באה כשהיא באה כשהיא באה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

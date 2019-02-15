@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האחר</title>
+        <singer classification="male singer">ברי סחרוף</singer>
+        <writer>ברי סחרוף</writer>
+        <composer>ברי סחרוף</composer>
+        <album>האחר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האחר</head>
+        <lg number="1" type="stanza">
+          <l>תן לפה לדבר</l>
+          <l>שהלשון תשחרר</l>
+          <l>עם הפנים לאחר</l>
+          <l>שלא ידעת</l>
+          <l>הרכבת תשרוק</l>
+          <l>זה הזמן לעלות</l>
+          <l>על קרון הרוחות</l>
+          <l>ששכחת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז אל תפחד</l>
+          <l>ואל תביט מהצד</l>
+          <l>כי אתה לא לבד בעולם</l>
+          <l>עם הפנים אל האחר</l>
+          <l>תגלה את עצמך</l>
+          <l>עם הפנים אל האחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>המחסום יישבר</l>
+          <l>המילה תגשר</l>
+          <l>האויב הוא חבר</l>
+          <l>שזנחת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז אל תפחד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

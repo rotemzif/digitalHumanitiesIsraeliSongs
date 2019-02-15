@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר לילדה שכבר נולדה</title>
+        <singer classification="female singer">חני דינור</singer>
+        <writer>רוני סומק</writer>
+        <composer>חני דינור</composer>
+        <album>משוררים בדואט</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר לילדה שכבר נולדה</head>
+        <lg number="1" type="stanza">
+          <l>ביום שנולדת</l>
+          <l>חממו פועלי האושר את כפות הידיים</l>
+          <l>מול האש שהוצתה בגפרור חייך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לילה , לילה</l>
+          <l>אני מתהפנט מקול נשימתך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו הייתה הבהוב מגדלור</l>
+          <l>למלח שכמעט נטרף</l>
+          <l>בשיני הים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תיקון 3</title>
+        <singer classification="unknown">מור שאול</singer>
+        <writer>חלי אברהם איתן</writer>
+        <composer>ניסן פרידמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תיקון</head>
+        <lg number="1" type="stanza">
+          <l>בכפר החשוך טרם שחר</l>
+          <l>קול שופר מחריד</l>
+          <l>את הלבבות הישנים.</l>
+          <l>סבי ואבי בדממה</l>
+          <l>כמו אברהם ויצחק</l>
+          <l>לובן עטופים ואור גנוז.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ומלאכי, ומלאכי עליון</l>
+          <l>לשחריתם הם משחרים</l>
+          <l>ומלאכי, ומלאכי עליון</l>
+          <l>לאיחוי הכלים ולתיקון המלכות</l>
+          <l>מעל, מעל שבעת הרקיעים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בין גווילים מצהיבים</l>
+          <l>כמו של זוהר עתיק</l>
+          <l>מצא אבי שריד מתימן.</l>
+          <l>מצא הלכות-נשמה</l>
+          <l>להסיר דמעה מעיני,</l>
+          <l>להעלות נשמת, נשמת אחי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ומלאכי, ומלאכי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

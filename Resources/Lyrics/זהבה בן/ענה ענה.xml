@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ענה ענה</title>
+        <singer classification="female singer">זהבה בן</singer>
+        <writer>אהוד מנור</writer>
+        <composer>זאב נחמה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ענה ענה</head>
+        <lg number="1" type="stanza">
+          <l>ענה ענה, אנא אנא</l>
+          <l>אם שמעת בכי אם שמעת קול דממה</l>
+          <l>ענה ענה, אנא אנא</l>
+          <l>האם ראית בכי האם ראית קול דמעה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אתה הראשון, אתה האחרון</l>
+          <l>עוד אמן עוד סלע, כן יהי רצון</l>
+          <l>אתה הראשון, אתה האחרון</l>
+          <l>עוד אמן עוד סלע, כן יהי רצון</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ענה ענה, אנא אנא</l>
+          <l>עד מתי אשקיע? עד מתי עוד אחכה?</l>
+          <l>ענה ענה, אנא אנא</l>
+          <l>עד מתי תגיע? </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אתה הראשון, אתה האחרון</l>
+          <l>עוד אמן עוד סלע, כן יהי רצון</l>
+          <l>אתה הראשון, אתה האחרון</l>
+          <l>עוד אמן עוד סלע, כן יהי רצון</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ענה ענה, אנא אנא</l>
+          <l>האם אתה בינינו? אז נוכל להשמר</l>
+          <l>ענה ענה, אנא אנא</l>
+          <l>זה סיפור חיינו עוד לפני שייגמר</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אתה הראשון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

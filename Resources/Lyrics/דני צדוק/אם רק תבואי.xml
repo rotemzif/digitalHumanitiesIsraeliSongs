@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם רק תבואי 3</title>
+        <singer classification="unknown">דני צדוק</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>דני צדוק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם רק תבואי</head>
+        <lg number="1" type="stanza">
+          <l>תמיד ראיתי אותך מתוך מראה</l>
+          <l>לעיתים חושבת יושבת ובוהה</l>
+          <l>חלומות היו לי איתך להתחבר</l>
+          <l>ואת צריכה גם לדעת לוותר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם רק תבואי אקשט את הרחובות</l>
+          <l>נעוף ביחד נעצור את השעות</l>
+          <l>את כל האושר ואת כל החלומות</l>
+          <l>אשלח אלייך עם אלף נשיקות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שנים חלפו אט ליבי כבר נהרס</l>
+          <l>הסתכלי עלי קצת כי לי זה כבר נמאס</l>
+          <l>מנסה לומר לי משהו אחר</l>
+          <l>אני מוכן לשמוע תתחילי לדבר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם רק תבואי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

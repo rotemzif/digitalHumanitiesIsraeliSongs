@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה הסוד שלי 3</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה הסוד שלי</head>
+        <lg number="1" type="stanza">
+          <l>יושבת לי בבית והמחשבות עולות</l>
+          <l>מתרוצצות בלי סדר ועושות לי בעיות</l>
+          <l>חושבת רק עליך, זה עושה לי טוב בלב</l>
+          <l>אני יודעת שקוראים לזה להתאהב.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני אולי תמימה וזה הסוד שלי</l>
+          <l>אתה בשבילי לא סתם ידיד שלי</l>
+          <l>החברים אמרו אתה לא בשבילי</l>
+          <l>אז אל נא תשחק ברגשות שלי.</l>
+          <l>אני אולי תמימה וזה הסוד שלי</l>
+          <l>אתה בשבילי, חלום מתוק שלי</l>
+          <l>החברים אמרו אתה לא בשבילי</l>
+          <l>אני אולי תמימה וזה הסוד, הסוד שלי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עזוב אותי בינתיים, תן לי הפסקה</l>
+          <l>אני רוצה קצת זמן כדי להירגע ממך</l>
+          <l>החיוך שלך הוא קסם שגורם לי לפיתוי</l>
+          <l>שקשה לי להפריד בין הרצוי והמצוי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני אולי תמימה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

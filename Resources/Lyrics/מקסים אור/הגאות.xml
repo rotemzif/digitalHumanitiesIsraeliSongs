@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הגאות</title>
+        <singer classification="male singer">מקסים אור</singer>
+        <writer>אלי מור יוסף</writer>
+        <composer>אשר עשתון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הגאות</head>
+        <lg number="1" type="stanza">
+          <l>הגאות לקחה את כל הרגשות</l>
+          <l>והשפל שוב מילא לי את הלב</l>
+          <l>בתוך ראשי שטות להן ספינות</l>
+          <l>ובתוכן משא כבד של כאב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אולי את יום אחד תרצי לבוא</l>
+          <l>להיזכר איך הזריחה כשאוהבים</l>
+          <l>אז שתדעי חיכיתי לך שעות</l>
+          <l>אך לבסוף נסחפתי עם הגלים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כמה את חסרה אף פעם לא תדעי</l>
+          <l>וכמה שאהבתי בכל ליבי</l>
+          <l>היית חייבת לנסות דבר חדש</l>
+          <l>ולהשאיר מאחור לב שבור וגוף חלש</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הגאות לקחה את כל הזכרונות</l>
+          <l>אך בשפל לא הייתי לבדי</l>
+          <l>היית איתי קרובה כל כך בחלומות</l>
+          <l>ושוב אהבנו ונתתי את לבי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אולי את יום אחד תרצי לחזור</l>
+          <l>ולספר שגם ליבך נשבר</l>
+          <l>אז שתדעי חלמתי כבר שעות</l>
+          <l>אך לא שמעתי כי היה כבר מאוחר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כמה את חסרה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

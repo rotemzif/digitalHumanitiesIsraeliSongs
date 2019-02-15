@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נבקש משאלה</title>
+        <singer classification="male singer">משה הלל</singer>
+        <writer>שרית הלל</writer>
+        <composer>יהודה בדיחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נבקש משאלה</head>
+        <lg number="1" type="stanza">
+          <l>קולות רחוקים אלינו קרבים</l>
+          <l>קולות בכי של נשים וילדים</l>
+          <l>מלחמות מהומות, אפשר להפסיק</l>
+          <l>הושיטו יד, הנר להדליק.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זו תקוות האדם</l>
+          <l>אות מלאכי שמיים,</l>
+          <l>כוכב נופל, נבקש משאלה</l>
+          <l>שלום שלווה, על פני האדמה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קולות מלאכים אלינו מופנים</l>
+          <l>קולות גרוני מתוכי זועקים,</l>
+          <l>אדמות אוצרות, האם זה הכל?</l>
+          <l>מעט ערכים ישנו את הכל!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זו תקוות האדם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>חפשו אהבה, שקט ושלווה</l>
+          <l>לא עוד חלום, רק מילוי משאלה,</l>
+          <l>משיבה היא לנו אמן למילה</l>
+          <l>השמש מעל, אחת ויחידה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זו תקוות האדם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

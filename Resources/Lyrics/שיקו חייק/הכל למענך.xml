@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכל למענך 2</title>
+        <singer classification="unknown">שיקו חייק</singer>
+        <writer>שיקו חייק</writer>
+        <composer>יוסי פלד כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכל למענך</head>
+        <lg number="1" type="stanza">
+          <l>כתר של זהב אניח על ראשך</l>
+          <l>ארמון של אהבה אבנה למענך</l>
+          <l>את המדבר אהפוך לגן פורח</l>
+          <l>הכל הכל למענך, מלכה שלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רוצה רק לחבק אותך,</l>
+          <l>רוצה רק לפנק אותך,</l>
+          <l>רוצה רק לעטוף אותך,</l>
+          <l>את עושה לי טוב בנשמה.</l>
+          <l>רוצה רק לרגש אותך,</l>
+          <l>רוצה רק לנשום אותך</l>
+          <l>רוצה רק לאהוב אותך</l>
+          <l>אני מלך בזכותך אישה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בכל פעם כשאני נושק שפתייך,</l>
+          <l>בכל פעם כשאני נושק עינייך,</l>
+          <l>אני מביט בך ורואה אהבה</l>
+          <l>כי את שלי, נועדת בשבילי אישה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רוצה רק לחבק אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

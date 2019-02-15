@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשאת באה</title>
+        <singer classification="male singer">מאור כהן</singer>
+        <writer>מאור כהן</writer>
+        <composer>מאור כהן</composer>
+        <album>טוב לנו יחד</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשאת באה</head>
+        <lg number="1" type="stanza">
+          <l>כשאת באה לדקה</l>
+          <l>אין לי מה</l>
+          <l>לראות אותך בהפסקה</l>
+          <l>אין למה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את תמיד אומרת בוא נדחה למחר</l>
+          <l>את מה שכבר תיכננו לחודש שעבר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גם כשיש לך עבודה</l>
+          <l>אני בא</l>
+          <l>לראות אותך כה יעילה</l>
+          <l>לא זאת הבעיה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איך לומר לך אל תראי בי תמיד</l>
+          <l>זה שינקה לך את הרע מהעתיד.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>איך את לא רואה</l>
+          <l>כל מכה זו מכה</l>
+          <l>מה את לא רואה</l>
+          <l>תשאלי גם אותה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>את תמיד אומרת...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>כשאת באה חזרה</l>
+          <l>עייפה</l>
+          <l>לראות אותך באמבטיה</l>
+          <l>אין למה</l>
+          <l>אין לי מה</l>
+          <l>אין למה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

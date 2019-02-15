@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מקווים</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>ארז אלגרבלי</writer>
+        <composer>ארז אלגרבלי</composer>
+        <album>קח לך אישה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מקווים</head>
+        <lg number="1" type="stanza">
+          <l>עכשיו הכל נראה כל כך רחוק</l>
+          <l>משהו מטושטש ועמוק</l>
+          <l>ציפור דואה בשמים כחולים</l>
+          <l>ושמש מאחור פתאום אני מבין</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש מיליונים שם שחיים את החיים</l>
+          <l>יש כמוני כאן שמקווים</l>
+          <l>אני סגור עכשיו בתוך קירות סדוקים</l>
+          <l>מדמיין עולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>סופר עכשיו את כל הכוכבים</l>
+          <l>זה משהו מטומטם ולא רגיל</l>
+          <l>זה מה שקורה לאנשים</l>
+          <l>שמאבדים ת'זמן ונשארים ריקים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש מליונים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

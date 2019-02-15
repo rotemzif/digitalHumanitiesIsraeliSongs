@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה יהיה בסוף 3</title>
+        <singer classification="unknown">בני מזרחי</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה יהיה בסוף</head>
+        <lg number="1" type="stanza">
+          <l>יום רודף יום ובנתיים עולם כמנהגו נוהג </l>
+          <l>המצב קשה פי שניים מה גדול הוא הכאב </l>
+          <l>יום אחד כולו שמח יום אחר והוא עצוב </l>
+          <l>ומי לא רוצה לברוח להביט רק מבחוץ </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז טיפת גשם אין עדיין האדמה צמאה למים </l>
+          <l>ואז כולם עומדים תוהים מתבוננים ושואלים</l>
+          <l>מה יהיה הסוף </l>
+          <l>ואם העם הוא בצרה כולנו באותה סירה שואלים</l>
+          <l>מה יהיה הסוף </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יום רודף יום ונדמה כי הכאב כל כך כואב </l>
+          <l>ומתי יבוא הרגע איש לאיש יומם חבר </l>
+          <l>והזמן לתפוס פינה לקוות ולאחל </l>
+          <l>אמא אדמה שומעת את בניה תרחם </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז טיפת גשם אין עדיין...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה שבינינו</title>
+        <singer classification="unknown">גיא הררי</singer>
+        <writer>גיא הררי</writer>
+        <composer>רפאל סופר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה שבינינו</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>לי אין הרבה</l>
+          <l>רק אהבה אלייך תמלא</l>
+          <l>השאר יבוא למעלה</l>
+          <l>לי אין הרבה</l>
+          <l>תני לי ת'כוח</l>
+          <l>יחד נגלה</l>
+          <l>השאר מזל מאללה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>סוד נשבר</l>
+          <l>אמרת שזה נשאר רק בינינו</l>
+          <l>את יודעת לא קל</l>
+          <l>לחיות כמו שרצינו</l>
+          <l>תני לי יד בלי פחד</l>
+          <l>נהיה לגוף אחד</l>
+          <l>רוצה אותך איתי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לי אין הרבה....</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תני לי יד ביחד</l>
+          <l>נהיה לגוף אחד</l>
+          <l>רוצה אותך איתי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לי אין הרבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

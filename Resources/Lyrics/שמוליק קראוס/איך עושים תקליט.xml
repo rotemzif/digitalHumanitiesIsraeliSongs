@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך עושים תקליט</title>
+        <singer classification="male singer">שמוליק קראוס</singer>
+        <writer>יענקל'ה רוטבליט</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך עושים תקליט</head>
+        <lg number="1" type="stanza">
+          <l>יבי ושמוליק ישבו אצל חזקל כסית</l>
+          <l>יבי צועק למרסל שיביא עוד כוסית</l>
+          <l>משה צועק עד מתי בטלנים</l>
+          <l>קחו קצת מילים וחברו לחנים</l>
+          <l>כאן לא שותים בחינם השתנו הזמנים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>דני חיפש באקורדים את מה שמתאים</l>
+          <l>ליפשיץ רשם עטיפה לתקליט על מפית</l>
+          <l>סמי נסה למזמז חתיכה</l>
+          <l>אמר לצ'פאי הי מה דעתך</l>
+          <l>ניתן להם כסף אמרו יעבדו על תקליט</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איך עושים תקליט</l>
+          <l>איך עושים תקליט</l>
+          <l>בכסית על כוסית</l>
+          <l>איך עושים תקליט</l>
+          <l>איך עושים תקליט</l>
+          <l>בכסית על כוסית</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רוטבליט כתב את השיר על רגל אחת</l>
+          <l>תובל סחב אקורדיאון מתקופת המנדט</l>
+          <l>צביה אמרה תראו איזה כיף</l>
+          <l>יש חמוצים צריך מתופף</l>
+          <l>זוהר הגיע שזוף מחפש עבודה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>איך עושים תקליט...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>יבי ושמוליק יושבים אצל משה כסית</l>
+          <l>מי שרוצה שיזמין גם להם עוד כוסית</l>
+          <l>עוד כוסית</l>
+          <l>בואו כולם ושירו איתם</l>
+          <l>כל השבוע וגם שישי חם</l>
+          <l>ומי שיקנה יקבל חתימה על תקליט.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

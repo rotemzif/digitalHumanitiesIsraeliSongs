@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש 302</title>
+        <singer classification="male singer">רמי פורטיס</singer>
+        <writer>רמי פורטיס</writer>
+        <composer>יובל שפריר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש</head>
+        <lg number="1" type="stanza">
+          <l>רודף אחרי ירח ברגעים קשים</l>
+          <l>אולי אני בורח אך זה משאיר אותי תממים</l>
+          <l>לומד מתי לשכוח לרמות את החושים</l>
+          <l>זה תמיד נותן לי כח בעולם ללא צבעים</l>
+          <l>אוהב לצעוק בחושך לדרוך על הפרחים</l>
+          <l>זה מוציא אותי מלחץ ומגרש את הפחדים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש משהו שמרגש</l>
+          <l>תופס חזק ומתעקש</l>
+          <l>ולא נותן לי מנוחה</l>
+          <l>יש משהו שמבקש</l>
+          <l>שבא ומחשמל כמו אש</l>
+          <l>הוא לא נותן לי מנוחה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בוכה בגלל הטבע שגורם לי להשלים</l>
+          <l>זה מחזיר אותי לרגע לעולם ילדות מדהים</l>
+          <l>רץ אחרי הרוח מול הים והגלים</l>
+          <l>זה עושה אותי רגוע ושפוי כמה ימים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש משהו שמרגש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

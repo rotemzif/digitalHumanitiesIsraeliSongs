@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מוצא בך</title>
+        <singer classification="unknown">בן אל תבורי</singer>
+        <writer>גילי זכאי</writer>
+        <composer>גילי זכאי</composer>
+        <album>מוצא בך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מוצא בך</head>
+        <lg number="1" type="stanza">
+          <l>החברים שלי יגידו שעדיף</l>
+          <l>להיות לבד חופשי ומאושר </l>
+          <l>בלי כאב הראש ובלי תלך תביא </l>
+          <l>כל מה שאסור מותר </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>החברים שלי רוצים הכל להיות </l>
+          <l>מבולבלים כל כך ולא מוצאים עניין</l>
+          <l>הם פשוט עוד לא פגשו אחת כמוך </l>
+          <l>ששווה לחיות למענה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את הכל מוצא בך </l>
+          <l>כלום לא חסר לי </l>
+          <l>את הכח שמחזיק אותי </l>
+          <l>את הכל אתן</l>
+          <l>וכלום לא יקרה לי </l>
+          <l>את האהבה שלי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אין מי שבאמת רוצה להיות בודד </l>
+          <l>זה רק הפחד לאבד את השליטה </l>
+          <l>מוכן ללכת לאיבוד למענך </l>
+          <l>ולא פוחד משום דבר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את הכל מוצא בך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

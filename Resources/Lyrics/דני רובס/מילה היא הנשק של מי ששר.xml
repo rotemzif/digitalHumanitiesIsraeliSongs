@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מילה היא הנשק של מי ששר</title>
+        <singer classification="male singer">דני רובס</singer>
+        <writer>דני רובס</writer>
+        <composer>דני רובס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מילה היא הנשק של מי ששר</head>
+        <lg number="1" type="stanza">
+          <l>רחמו על כל מי שאין בו רחמים</l>
+          <l>נחמו את כל מי שלבו כרע נישבר</l>
+          <l>רחמו על מי ששדיו עליו קמים</l>
+          <l>עכורה אפלה התהום עליה הוא גר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מילה היא הנשק של מי ששר</l>
+          <l>צלולה, נחושה כאיש מאושר</l>
+          <l>צילה מאפיל שובל שנשאר</l>
+          <l>מילה היא הנשק של מי ששר</l>
+          <l>אני שלה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רחמו על כל מי שגס לבו בטוב</l>
+          <l>נחמו את מי שטעמו החצי המר</l>
+          <l>רחמו על כל מי שציפורני הסוף</l>
+          <l>חרוטות בגבו, מובילות בדרך כל בשר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מילה היא הנשק של מי ששר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

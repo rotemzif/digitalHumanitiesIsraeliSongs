@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פרחי לילך</title>
+        <singer classification="unknown">ג קי מקייטן</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פרחי לילך</head>
+        <lg number="1" type="stanza">
+          <l>ירד הערב על פרחי לילך</l>
+          <l>ובא הלילה שבו אני שלך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יד ביד נלך בנחת,</l>
+          <l>חלומות נרקום ביחד,</l>
+          <l>אהבה בלב פורחת</l>
+          <l>ואני לך שר.</l>
+          <l>צוחק גם הירח,</l>
+          <l>כוכב קטן זורח,</l>
+          <l>הגן כולו פורח</l>
+          <l>כי אני שלך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חופשי אני יוצא ובא בתוך ביתך,</l>
+          <l>יין אהבה אשתה, אשתה מתוך ידך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יד ביד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היום טוב לנו, טוב יהיה מחר.</l>
+          <l>ליבך, ילדונת, אל תתני לזר.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יד ביד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

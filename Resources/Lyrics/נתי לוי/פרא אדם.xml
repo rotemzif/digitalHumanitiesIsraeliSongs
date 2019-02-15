@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פרא אדם</title>
+        <singer classification="male singer">נתי לוי</singer>
+        <writer>ציון שרעבי</writer>
+        <composer>ציון שרעבי</composer>
+        <album>שלום נערתי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פרא אדם</head>
+        <lg number="1" type="stanza">
+          <l>ילד מחונן מבטיח צופה אל הפסגות</l>
+          <l>חשבת להגיע אתה.</l>
+          <l>צעד לא נכון עשית, אל תוך עולם תוהה</l>
+          <l>תורת אמך עזבת, חבל.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פרא אדם אני אחיך לא זו דרכך</l>
+          <l>כל העולם לפניך חזור אל עצמך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שכח את כל מה שהיה</l>
+          <l>והתחדש בנפשך, היה בן אדם.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נער יפהפה שוקע, במים עכורים.</l>
+          <l>בחרת להרע, אתה.</l>
+          <l>פרא מרומה נשלחת, אל תוך המרתפים.</l>
+          <l>איך לא התפכחת, חבל.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>פרא אדם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

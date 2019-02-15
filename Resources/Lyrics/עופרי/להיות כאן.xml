@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>להיות כאן 3</title>
+        <singer classification="unknown">עופרי 8</singer>
+        <writer>עופרי</writer>
+        <composer>עופרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>להיות כאן</head>
+        <lg number="1" type="stanza">
+          <l>שמש חול שמשייה וים</l>
+          <l>יום שבת יפה לצאת קצת מכאן</l>
+          <l>להיכנס לשחות בתוך המים</l>
+          <l>להיזרק לקרוא ספר להיות כאן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חשוב כ"כ להיות מורגש</l>
+          <l>להיות כאן</l>
+          <l>להיות כאן</l>
+          <l>להרגיש את השמש מלטפת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הרבה דברים בחיים רציתי</l>
+          <l>לראות עולם לא כמו כולם</l>
+          <l>כשאני כאן ביום נפלא כזה</l>
+          <l>אין עולם יותר מושלם מזה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חשוב כ"כ להיות מורגש</l>
+          <l>להיות כאן</l>
+          <l>להיות כאן</l>
+          <l>להרגיש את השמש מלטפת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

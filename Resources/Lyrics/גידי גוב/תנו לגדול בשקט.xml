@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תנו לגדול בשקט 2</title>
+        <singer classification="male singer">גידי גוב</singer>
+        <writer>אבנר קנר</writer>
+        <composer>missing</composer>
+        <album>תנו לגדול בשקט</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תנו לגדול בשקט</head>
+        <lg number="1" type="stanza">
+          <l>אפונה וגזר ישבו במקרר</l>
+          <l>ויחד עם בטטה התחילו לקטר:</l>
+          <l>"קר לי ברגליים, תדליק ת'מנורה בקיר,</l>
+          <l>כי חושך מצרים, אז בואו נשיר".</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תנו לגדול בשקט בערוגה בכפר.</l>
+          <l>שם תזרח השמש גם מחר</l>
+          <l>תנו לגדול בשקט בלי לקפוא מקור</l>
+          <l>רק קצת זבל, מים וגם אור.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אפונה וגזר, ישבו בתוך מחבת</l>
+          <l>ויחד עם בטטה רצו להיות לבד</l>
+          <l>אך שוד ושבר, מישהו גפרור מדליק</l>
+          <l>ושמן מכל עבר, זה לא מצחיק!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תנו לגדול בשקט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו האמונה</title>
+        <singer classification="female singer">מירי אלוני</singer>
+        <writer>שמוליק קלוסקי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו האמונה</head>
+        <lg number="1" type="stanza">
+          <l>מי שנפשו פתוחה</l>
+          <l>ומי שנפשו קשורה עוד</l>
+          <l>מי שרוח בו והוא עוד בדרכו,</l>
+          <l>מי שאכזבתו</l>
+          <l>ומי שגאוותו נשמרת</l>
+          <l>מי שבידו נשארת אמונה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אתה הולך ועוד הולך</l>
+          <l>תמיד הלאה והלאה</l>
+          <l>אתה עוד מאמין ונאחז כמו אז,</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו השיר הזה</l>
+          <l>כמו השיר הבא</l>
+          <l>כמו האמונה שבליבך איתך,</l>
+          <l>כמו השיר הזה</l>
+          <l>כמו השיר הבא</l>
+          <l>כמו האמונה שבליבך איתך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מי שאהבתו בדרך מחפשת</l>
+          <l>מי שהרגשה כל יום לו חדשה,</l>
+          <l>מי שרוצה לטוב</l>
+          <l>ומי שנשאר בסוף הדרך</l>
+          <l>עוד הולך ובא הוא עוד הולך ובא</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אתה הולך ועוד הולך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

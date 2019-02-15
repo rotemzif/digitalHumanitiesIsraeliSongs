@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נשכב על הבמה</title>
+        <singer classification="unknown">עידן חיים דוד</singer>
+        <writer>עידן חיים דוד</writer>
+        <composer>עידן חיים דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נשכב על הבמה</head>
+        <lg number="1" type="stanza">
+          <l>אני נשכב על הבמה</l>
+          <l>עוצם את העיניים</l>
+          <l>לאט, שיעבור הזמן </l>
+          <l>אני נשכב על הבמה</l>
+          <l>צועק אל השמיים</l>
+          <l>וקול חלש עונה לי – שן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ולא, לא אוותר,</l>
+          <l>גם אתפרץ אל תוך הגן, </l>
+          <l>לא, לא אתעורר</l>
+          <l>עד שייקחו אותי מכאן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני נשכב על הבמה</l>
+          <l>צולל אל תוך המים,</l>
+          <l>נושם את האוויר הצח </l>
+          <l>אני נשכב על הבמה</l>
+          <l>תופס חזק עם הידיים,</l>
+          <l>שלא יחמוק, שלא יברח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ולא, לא אוותר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו הים</title>
+        <singer classification="band">ריקוד של מכשפים</singer>
+        <writer>אסי אברג'יל</writer>
+        <composer>אסי אברג'יל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו הים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>בחולות מדבר צחיח היא עוצרת את הזמן</l>
+          <l>בקפה המתרוקן ישבנו עד שזה גמר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אז הים שכך לנוח, הוא ליטף את הגלים</l>
+          <l>כמו ילדים אהבנו עד שנהיה גדולים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וכמו הזמן, גם אנחנו משתנים</l>
+          <l>אוהבים גדלים ונופלים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כמו הים, החיים גלים גלים</l>
+          <l>הם באים נשברים והולכים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בחולות מדבר צחיח היא עוצרת את הזמן</l>
+          <l>בקפה המתרוקן ישבנו עד שזה גמר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

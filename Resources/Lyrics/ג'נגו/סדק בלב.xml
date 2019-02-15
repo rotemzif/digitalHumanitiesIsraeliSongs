@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סדק בלב</title>
+        <singer classification="unknown">ג נגו</singer>
+        <writer>ג'נגו</writer>
+        <composer>ג'נגו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סדק בלב</head>
+        <lg number="1" type="stanza">
+          <l>יש לי משהו להגיד לך</l>
+          <l>תשמע,</l>
+          <l>כבר חודשיים אני דוחה</l>
+          <l>את השיחה</l>
+          <l>קשה לי לחיות עם המצב,</l>
+          <l>אני לבד</l>
+          <l>ובשביל להירגע</l>
+          <l>אני שותה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש לי סדק בלב</l>
+          <l>ואני שותה..</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ובגלל זה אני רוצה</l>
+          <l>לברוח מכאן</l>
+          <l>לנסוע רחוק, להיעלם</l>
+          <l>תתגעגע אלי..</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש לי סדק בלב</l>
+          <l>ואני שותה..</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

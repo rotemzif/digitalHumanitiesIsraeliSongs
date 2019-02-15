@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבא 72</title>
+        <singer classification="unknown">ערן סופר</singer>
+        <writer>ראובן כרמל</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבא</head>
+        <lg number="1" type="stanza">
+          <l>אבא יקר שמע תפילה</l>
+          <l>שזה כואב כל יום בלב</l>
+          <l>בך נזכר ורק בוכה</l>
+          <l>עד מתי עד מתי</l>
+          <l>עיני נושא אל המרומים</l>
+          <l>ומבקש שמע קולי</l>
+          <l>ותהלל את תפילתי</l>
+          <l>עד מתי עד מתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבא חזור אלי</l>
+          <l>אבא הוא כל חיי</l>
+          <l>אבא אני לבד אחחח</l>
+          <l>אני פורס ידי</l>
+          <l>אלייך אלוקיי</l>
+          <l>רוצה קצת אושר לחיי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלב כואב הראש מלא</l>
+          <l>במחשבות ובלילות</l>
+          <l>איני יכול להירדם</l>
+          <l>עד מתי עד מתי</l>
+          <l>אתה רחוק שומר עלי</l>
+          <l>כמו מלאך ואני</l>
+          <l>ממשיך לבכות ולא יכול</l>
+          <l>עד מתי עד מתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבא חזור אלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

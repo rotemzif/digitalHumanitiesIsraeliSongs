@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלך בשדה</title>
+        <singer classification="male singer">יהודה סעדו</singer>
+        <writer>שחר כהן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלך בשדה</head>
+        <lg number="1" type="stanza">
+          <l>איש קטן, עולם גדול</l>
+          <l>מחפש, מצייר עם המכחול דרך</l>
+          <l>רק כוכב אחד שלו מרקד למעלה</l>
+          <l>שיתעורר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וקולות הכרכרה מעירים</l>
+          <l>כל מי שנרדם לו - קם לו</l>
+          <l>ציפורים שמבשרות</l>
+          <l>כן, היום המלך בא לשדה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עוד שניה, כבר נוגע כמעט</l>
+          <l>מנסה בידי לאחוז רק בך</l>
+          <l>כמו רוח חומקת קוראת לי</l>
+          <l>לבוא ואני מסתתר אני שוב מוותר </l>
+          <l>לא עוזב את העיר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ערב בא והשיכור מתעורר</l>
+          <l>הוא מביט אל הרחוב</l>
+          <l>שקט בו היום</l>
+          <l>הרחובות ריקים מאיש</l>
+          <l>והעיר צוחקת על ליצן שבכה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עוד שניה, כבר נוגע כמעט...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ובאופק סימנים של כרכרה חוזרת</l>
+          <l>גלגלים במרוצה העיר מעפר מתעוררת</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>עוד שניה, כבר נוגע כמעט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוצה להישאר</title>
+        <singer classification="unknown">סמדר אקראי</singer>
+        <writer>סמדר אקראי</writer>
+        <composer>שי צברי</composer>
+        <album>1 באפריל</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוצה להישאר</head>
+        <lg number="1" type="stanza">
+          <l>להרדם</l>
+          <l>מתחת לשמיכות להעלם</l>
+          <l>תמיד הולכת באותו המעגל</l>
+          <l>אני מוצאת ומחזיקה חזק </l>
+          <l>עד שישבר</l>
+          <l>הלב המתעורר</l>
+          <l>צועק בקול</l>
+          <l>האם אתה עדיין ער...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וכמה שיותר קשה</l>
+          <l>כמה שיותר קשה</l>
+          <l>אני רוצה להשאר כאן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תצעק בקול</l>
+          <l>תגיד שאין ממה כאן לפחד</l>
+          <l>צריך לנשוך, </l>
+          <l>לנשוך חזק כשפחד מתקרב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וכמה שיותר קשה</l>
+          <l>כמה שיותר קשה</l>
+          <l>אני רוצה להשאר כאן</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רוצה להשאר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא בנאדם</title>
+        <singer classification="unknown">הקרטל</singer>
+        <writer>יקיר בן טוב</writer>
+        <composer>missing</composer>
+        <album>זימה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא בנאדם</head>
+        <lg number="1" type="stanza">
+          <l>אנשים אומרים לי שאיתה יותר מדי זמן</l>
+          <l>ואיתה אני לא בנאדם </l>
+          <l>בבקרים כשכל האנשים יוצאים לשיגרה</l>
+          <l>תוכניות יושבות במגרה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל היום כל מקום בחלום איתה </l>
+          <l>כל היום בסלון ובמיטה </l>
+          <l>כן אני לא בנאדם אני יודע </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אנשים מפחדים שהיום הולך ונגמר</l>
+          <l>ואני בונה על מחר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל היום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

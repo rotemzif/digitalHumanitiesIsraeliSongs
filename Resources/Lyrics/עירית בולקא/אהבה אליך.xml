@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה אליך</title>
+        <singer classification="female singer">עירית בולקא</singer>
+        <writer>לירון בן שמעון</writer>
+        <composer>נתן כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה אליך</head>
+        <lg number="1" type="stanza">
+          <l>אל מול הציפייה שלי יש פחד </l>
+          <l>אל מול הרצון יש כאב </l>
+          <l>כגודל התשוקה גודל התבוסה </l>
+          <l>אתה מכאיב בשתיקתך הרחוקה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>האהבה אליך לא נותנת שקט </l>
+          <l>ואם עזבת את הסיפור כל כך מהר </l>
+          <l>אולי היינו רק ספינה טרופה </l>
+          <l>בלב ים סוער </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך שוכחים את מה שהלב יודע </l>
+          <l>אתה תחלוף מעל פני ותהפוך לשיר </l>
+          <l>ומה שלא ניתן לאחוז בו </l>
+          <l>ימתק ויתהדר </l>
+          <l>ובקרוב אני אהיה עם איש אחר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>האהבה אליך לא נותנת שקט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

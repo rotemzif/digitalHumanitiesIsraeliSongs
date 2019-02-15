@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מיוחדת 3</title>
+        <singer classification="unknown">סיימון</singer>
+        <writer>אלי קפה</writer>
+        <composer>בנצי מור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מיוחדת</head>
+        <lg number="1" type="stanza">
+          <l>צמא רק אלייך מחפש לי שלווה</l>
+          <l>איך רומזות שתי עינייך שכולך אהבה</l>
+          <l>נותנת לי כח לחיות בחלום</l>
+          <l>כי שנינו ביחד זה פשוט שגעון.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואת יפה והלב שוב קורא לך</l>
+          <l>שתהיא לצידי כל הזמן.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תחלמי עלינו יחד ותהיי המנצחת</l>
+          <l>כל הזמן כל הזמן.</l>
+          <l>את האחת ומיוחדת למה את כה מרוחקת</l>
+          <l>כל הזמן כל הזמן.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לילה של שקט ואני כבר נרדם</l>
+          <l>והרוח לוחשת שירי אהבה.</l>
+          <l>את וודאי לא יודעת שאת כל העולם</l>
+          <l>ואני מאוהב כי אני בן אדם.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את מתוקה ואני עוד חושק בך</l>
+          <l>כל היום כל שניה כל הזמן.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תחלמי עלינו יחד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

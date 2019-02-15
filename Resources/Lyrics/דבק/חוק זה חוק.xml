@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חוק זה חוק</title>
+        <singer classification="band">דבק</singer>
+        <writer>בועז ריינשרייבר</writer>
+        <composer>בועז ריינשרייבר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חוק זה חוק</head>
+        <lg number="1" type="stanza">
+          <l>כששמעתי לחשים כבר הבנתי</l>
+          <l>כשנכנסתי כבר ידעתי שאצא</l>
+          <l>זה המקום שיש בו פחד,</l>
+          <l>זה המקום שאין בו שקט</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשעוצמים את העיניים אז יודעים</l>
+          <l>שתיקה אחת, אלפי מילים</l>
+          <l>יש מקום שאין בו פחד,</l>
+          <l>יש מקום שיש בו שקט.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עד שלא יודעים אסור להפסיק</l>
+          <l>עד שלא יודעים אסור לוותר</l>
+          <l>כי חוק זה חוק </l>
+          <l>וחלום זה חלום</l>
+          <l>חוק זה חוק </l>
+          <l>וחלום זה חלום..</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זאת האהבה אני אומר לך</l>
+          <l>כך מתנהלים העניינים</l>
+          <l>אני אומר לך, </l>
+          <l>יש מקום שאין בו פחד</l>
+          <l>יש מקום שיש בו שקט.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה המקום שיש בו פחד</l>
+          <l>זה המקום שאין בו שקט</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עד שלא יודעים אסור להפסיק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

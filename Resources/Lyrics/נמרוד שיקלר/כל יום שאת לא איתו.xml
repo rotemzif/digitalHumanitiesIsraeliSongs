@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל יום שאת לא איתו</title>
+        <singer classification="unknown">נמרוד שיקלר</singer>
+        <writer>נמרוד שיקלר</writer>
+        <composer>נמרוד שיקלר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל יום שאת לא איתו</head>
+        <lg number="1" type="stanza">
+          <l>כבר לא יודע נשמה טובה, מתגעגע</l>
+          <l>אולי זה לילה אחרון</l>
+          <l>מזמן לא בא לו בלעדייך, לא כדאי לו</l>
+          <l>בשום דבר אין פתרון</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וכל יום שאת לא איתו</l>
+          <l>היום עובר לו לידו</l>
+          <l>וכל יום שאת לא איתו</l>
+          <l>מה הטעם?!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קריר בינתיים, ראש קטן, עוצם עיניים</l>
+          <l>מוכן לבלוע את הכל</l>
+          <l>על הברכיים מחווה ללב מתמוסס לו ביין</l>
+          <l>יכול לראות אותך דרכו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וכל יום שאת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כבר לא יודע נשמה טובה, מתגעגע</l>
+          <l>אולי זה לילה אחרון</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>וכל יום שאת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

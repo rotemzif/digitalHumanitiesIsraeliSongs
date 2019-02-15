@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דומינו 3</title>
+        <singer classification="male singer">צביקה פיק</singer>
+        <writer>מירית שם אור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דומינו</head>
+        <lg number="1" type="stanza">
+          <l>היינו שניים, ים ושמיים </l>
+          <l>בתל אביב המשקיפה על שפת הים </l>
+          <l>הייתי ילד, היית זוהרת </l>
+          <l>והמשחק היה כולו שחור לבן </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>העיר חולמת לילות של קיץ </l>
+          <l>והתשוקה האסורה המתוקה </l>
+          <l>היית זוהרת כמו בסרט </l>
+          <l>זה רק משחק של דומינו ישן </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>דומינו, דומינו, </l>
+          <l>החיים הם משחק של פחות או יותר </l>
+          <l>דומינו, דומינו, </l>
+          <l>פעם שלך ופעם של אחר </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>דואט בשניים, ובעיניים </l>
+          <l>תמיד נדלק אותו ניצוץ ישן </l>
+          <l>ושוב נפגשנו, ושוב אהבנו </l>
+          <l>אך המשחק עדיין לא נגמר </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אנחנו יחד, את מנצחת </l>
+          <l>בתל אביב המשקיפה על שפת הים </l>
+          <l>דואט בשניים, ים ושמיים </l>
+          <l>זה רק משחק של דומינו ישן </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>דומינו, דומינו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

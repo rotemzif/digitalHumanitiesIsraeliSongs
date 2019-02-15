@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אתה מאוהב</title>
+        <singer classification="unknown">תמיר סולטנה</singer>
+        <writer>ירמי קדושי</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אתה מאוהב</head>
+        <lg number="1" type="stanza">
+          <l>רואה אותך יושב בפינה ובורח מהשגרה</l>
+          <l>בתוך ליבך בוערת אש אתה כולך נראה כמו אש</l>
+          <l>על מה אתה כבר חושב רואים עליך שאתה אוהב...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אתה מאוהב, אתה מאוהב</l>
+          <l>גם אני הייתי באותה מצב,</l>
+          <l>אתה מאוהב, אתה מאוהב</l>
+          <l>גם אני הייתי באותה מצב.</l>
+          <l>לא כדאי לברוח, את האמת לשכוח</l>
+          <l>כולם רואים עלייך שאתה מאוהב,</l>
+          <l>לא כדאי לברוח, את האמת לשכוח</l>
+          <l>כולם רואים עלייך שאתה מאוהב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את הכאב מסתיר בלב כולם יודעים שאתה אוהב</l>
+          <l>הרגשות נותנים בך ולא חוזר לעצמך</l>
+          <l>מחזיק ביד את תמונתה ורוצה לחיות איתה...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אתה מאוהב, אתה מאוהב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

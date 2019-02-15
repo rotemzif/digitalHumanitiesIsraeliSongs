@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אך ליבי יוצא</title>
+        <singer classification="male singer">חיים משה</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אך ליבי יוצא</head>
+        <lg number="1" type="stanza">
+          <l>כל הוני נתתי לזו שאהבתי </l>
+          <l>רק בה האמנתי, כה תמים הייתי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אך ליבי יוצא אם רחוק אני ממנה, איך אוהבנה? </l>
+          <l>וליבי יוצא מבקש לשוב אליה, אל אוהליה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ידידיי אמרו לי, לא יאה לך היא </l>
+          <l>היא אינה אוהבת, בך היא משחקת </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אך ליבי יוצא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

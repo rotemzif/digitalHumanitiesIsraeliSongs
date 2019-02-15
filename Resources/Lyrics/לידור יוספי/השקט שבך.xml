@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השקט שבך</title>
+        <singer classification="male singer">לידור יוספי</singer>
+        <writer>נחום מוכיח</writer>
+        <composer>לידור יוספי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השקט שבך</head>
+        <lg number="1" type="stanza">
+          <l>השקט שבך מלטף לילותי</l>
+          <l>הרוגע שלך ארס חלומותי</l>
+          <l>מסתורייך אשמור</l>
+          <l>אני חי את סודך</l>
+          <l>אבקש רק למצוא</l>
+          <l>פינה בנפשך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואי אלי כמו שאת בלי מילים</l>
+          <l>בואי אלי כמו שאת מבפנים</l>
+          <l>בואי אלי כמו שאת לפעמים</l>
+          <l>בואי אלי, בואי אלי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>השקט שבך מלפטף את גופי</l>
+          <l>הרוגע שבך מחלחל לגופי</l>
+          <l>מסתורייך אשמור</l>
+          <l>אני חי את סודך</l>
+          <l>אבקש רק למצוא</l>
+          <l>פינה בנפשך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בואי אלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

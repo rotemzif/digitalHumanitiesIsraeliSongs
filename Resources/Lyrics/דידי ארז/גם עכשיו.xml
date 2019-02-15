@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גם עכשיו</title>
+        <singer classification="unknown">דידי ארז</singer>
+        <writer>דידי ארז</writer>
+        <composer>דידי ארז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גם עכשיו</head>
+        <lg number="1" type="stanza">
+          <l>גם עכשיו</l>
+          <l>כשאני שוכב</l>
+          <l>אני עוצם עיניים</l>
+          <l>אבל לא יכול לישון</l>
+          <l>גם עכשיו </l>
+          <l>כשהלילה כבר מפיל אותי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גם עכשיו</l>
+          <l>כשאני חושב</l>
+          <l>יושב מול טלוויזיה</l>
+          <l>אבל לא יכול לראות</l>
+          <l>גם עכשיו כשהחושך כבר מציף אותי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רק כשאני כותב</l>
+          <l>אני פותח </l>
+          <l>דלת לרחוב</l>
+          <l>ואז אוויר נכנס</l>
+          <l>שמש מלווה אותי</l>
+          <l>בין החדרים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>גם עכשיו</l>
+          <l>כשאני שוכב</l>
+          <l>אני פוקח עין</l>
+          <l>אבל לא יכול לקום</l>
+          <l>גם עכשיו</l>
+          <l>כשהבוקר כבר מעיר אותי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רק כשאני כותב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

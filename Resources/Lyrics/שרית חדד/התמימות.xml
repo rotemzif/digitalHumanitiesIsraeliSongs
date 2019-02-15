@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>התמימות</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>התמימות</head>
+        <lg number="1" type="stanza">
+          <l>למשחקים שלך אין כוונות</l>
+          <l>אתה אצלי שהיא איננה</l>
+          <l>באהבה שלי אין גבולות</l>
+          <l>אתה יכול לחזור אליה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>התמימות נעלמה, התמימות נעלמה</l>
+          <l>ראיתי אותך בא ממנה</l>
+          <l>הטיפשות נעלמה, הטיפשות נעלמה</l>
+          <l>מצדי לך מחר גם אליה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יום יבוא ואתה תצטער</l>
+          <l>אז תבין מה שהפסדת</l>
+          <l>יום יבוא וגם לה תספר</l>
+          <l>את הסיפורים שלי סיפרת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>התמימות נעלמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

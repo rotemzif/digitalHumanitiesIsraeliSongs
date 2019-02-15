@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יחד נתגבר</title>
+        <singer classification="band">סינרגיה</singer>
+        <writer>בנואה</writer>
+        <composer>missing</composer>
+        <album>מרגיש אחר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יחד נתגבר</head>
+        <lg number="1" type="stanza">
+          <l>אתה מביט בי מהצד, </l>
+          <l>מרגיש ומסתתר.</l>
+          <l>כל כך רוצה לשלוח יד,</l>
+          <l>שכל זה יגמר, אני לא אוותר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אתה סוגר את עצמך בדיוק כמו בעבר,</l>
+          <l>תבין, כל כך קשה לי שוב לראות אותך נשבר,</l>
+          <l>ולמרות האכזבה שלקחה לנו הכל,</l>
+          <l>אם רק תביט סביב תבין שאין לאן ליפול.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הגיע זמן להתעורר</l>
+          <l>לא לפחד לצאת שוב לעולם</l>
+          <l>שנינו יחד נתגבר,</l>
+          <l>לשכוח מהכל ומכולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>וגם אני בוכה בשקט,</l>
+          <l>מוכרח להילחם.</l>
+          <l>ואז בסוף היום נשאר שם</l>
+          <l>רק אני לבד עם הדמעות,</l>
+          <l>אין מי שינחם.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אתה סוגר את עצמך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

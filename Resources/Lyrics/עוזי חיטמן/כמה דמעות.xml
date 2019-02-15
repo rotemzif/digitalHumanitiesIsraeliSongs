@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה דמעות</title>
+        <singer classification="male singer">עוזי חיטמן</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>עוזי חיטמן</composer>
+        <album>עכשיו התור לאהבה - חלק ב'</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה דמעות</head>
+        <lg number="1" type="stanza">
+          <l>כמה מילים ביזבזתי עלייך</l>
+          <l>כמה מנגינות פיזרתי לכבודך</l>
+          <l>כמה תפילות עלו לשמיים</l>
+          <l>כשהרוחות סערו בתוך ליבך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמה דמעות שפכתי עלייך</l>
+          <l>כמה עלבונות ספגתי ממך</l>
+          <l>כמה טיפות מלאני היין</l>
+          <l>כשבלילות לא נרדמתי בגללך.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>וכשאני נוסע לארץ נוכרייה,</l>
+          <l>אני מתגעגע כלה יפהפייה -</l>
+          <l>ואם זר בך פוגע ומוציא את דיבתך,</l>
+          <l>אני ניצב כמו חומה</l>
+          <l>ונותן את הנשמה למענך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כמה כוחות איבדתי עליך.</l>
+          <l>כמה מכות חטפתי בגללך.</l>
+          <l>כמה פרחים השקיתי במים</l>
+          <l>כשהקברים כיסו את אדמתך.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>וכשאני נוסע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

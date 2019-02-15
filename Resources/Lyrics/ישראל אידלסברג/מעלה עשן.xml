@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מעלה עשן</title>
+        <singer classification="male singer">ישראל אידלסברג</singer>
+        <writer>ישראל אידלסברג</writer>
+        <composer>ישראל אידלסברג</composer>
+        <album>בשורות טובות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מעלה עשן</head>
+        <lg number="1" type="stanza">
+          <l>השמיים נפלו עלי כרעם ביום בהיר</l>
+          <l>את השמש כיסה ענן,לא היה לי אוויר</l>
+          <l>כולם כבר הלכו רק נשארתי אני</l>
+          <l>הרגשתי שמשהו מת בתוכי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הדמיון בתעתועיו לקח אותי איתו</l>
+          <l>קצת שכחנו שהוליווד לגמרי זה לא פה</l>
+          <l>אבל את הרוב הדומם זה מרדים</l>
+          <l>האם הכל זה דוגמניות וסרטים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רוצה לצרוח – כולם עיוורים זה מטורף</l>
+          <l>אולי לברוח – הבעיה שאין לאן</l>
+          <l>כולם יושבים בבית מעלה עשן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה שרק יספרו לכם תאכלו בתיאבון</l>
+          <l>ותמשיכו להיות שפוטים פנאטים של העיתון</l>
+          <l>כשאתם מקבלים את האמת בפנים</l>
+          <l>אתם אומרים מייד לא תודה והולכים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רוצה לצרוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מטוטלת</title>
+        <singer classification="unknown">דיג דיג דוג</singer>
+        <writer>מיכל חזון</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מטוטלת</head>
+        <lg number="1" type="stanza">
+          <l>דין דין דון, דין דין דון</l>
+          <l>מטוטלת של שעון</l>
+          <l>מטוטלת מצלצלת</l>
+          <l>כבר הגיע זמן לישון.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>דון דון דין, שמאל ימין</l>
+          <l>דין דין דון, ימין ושמאל</l>
+          <l>מטוטלת שוב שואלת</l>
+          <l>מי הולך עכשיו לישון?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

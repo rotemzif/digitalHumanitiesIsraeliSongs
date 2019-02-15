@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לוחם בשם האהבה</title>
+        <singer classification="male singer">לי בירן</singer>
+        <writer>לי בירן</writer>
+        <composer>לי בירן</composer>
+        <album>כיסים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לוחם בשם האהבה</head>
+        <lg number="1" type="stanza">
+          <l>רחוב מלא ברעשים ללא שום מטרה </l>
+          <l>נמנע מיצר רע ותאווה</l>
+          <l>המון מיואשים הולך ללא טיפת תקווה </l>
+          <l>מחפשים הם להכיר רק במיטה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אה אה אה אה </l>
+          <l>אני לוחם בשם האהבה</l>
+          <l>אה אה אה אה </l>
+          <l>לוחש תפילה </l>
+          <l>אה אה אה אה </l>
+          <l>אני לעולם לא אכנע </l>
+          <l>אין שום סיבה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איפה החשיבות בלכבד את עצמך </l>
+          <l>אתה זה שאחראי על גורלך </l>
+          <l>העם הזה צועק לעזרה, זו לא בדיחה </l>
+          <l>מצב שמחמיר בכל דקה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אה אה אה אה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

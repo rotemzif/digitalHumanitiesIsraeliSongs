@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הגבעות הכחולות</title>
+        <singer classification="female singer">גאולה גיל</singer>
+        <writer>אוריאל אופק</writer>
+        <composer>דובי זלצר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הגבעות הכחולות</head>
+        <lg number="1" type="stanza">
+          <l>הערב ירד לגבעות הכחולות</l>
+          <l>ירח עלה מרחף על חולות</l>
+          <l>עוד רגע ושוב יידלק הכוכב</l>
+          <l>יאיר את שבילי החלב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הו, הו, מה יפים הלילות</l>
+          <l>בין הגבעות הכחולות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלילה כיסה את הנוף באפור</l>
+          <l>האיר כוכבים הרבים מני ספור</l>
+          <l>לכל איש ואיש יש כוכב בעולם</l>
+          <l>שלנו יפה מכולם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הו, הו....</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אהבתי לקצור בשדות רחבים</l>
+          <l>אהבתי לבצור אשכולות כוכבים</l>
+          <l>אבל מכל אלה אוהב בלילות</l>
+          <l>לבוא לגבעות הכחולות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הו, הו....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

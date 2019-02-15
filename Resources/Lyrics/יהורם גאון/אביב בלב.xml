@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אביב בלב 4</title>
+        <singer classification="male singer">יהורם גאון</singer>
+        <writer>מנוס חאג'ידאקיס</writer>
+        <composer>מנוס חאג'ידאקיס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אביב בלב</head>
+        <lg number="1" type="stanza">
+          <l>בבוסתן לבלב תפוח</l>
+          <l>שיבולים קדות ברוח</l>
+          <l>בחוצות קולות של ילדים</l>
+          <l>ושרידי דמעות הגשם</l>
+          <l>נוצצות על כר הדשא</l>
+          <l>אך קרני חמה בין עננים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>העצים לבשו שוב מעטה ירוק</l>
+          <l>שוב פורחות להן האהבות</l>
+          <l>כי האביב שב אלינו מרחוק</l>
+          <l>ועימו חוזרות החסידות</l>
+          <l>כי האביב שב אלינו מרחוק</l>
+          <l>ועימו חוזרות החסידות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רוח אביבית נושבת</l>
+          <l>מבריחה את העצב</l>
+          <l>העולם עליז ללא סיבה</l>
+          <l>אך הנפש משתוקקת</l>
+          <l>רק לומר פשוט בשקט</l>
+          <l>לאביב ששב ברוך הבא</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>העצים לבשו שוב מעטה ירוק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

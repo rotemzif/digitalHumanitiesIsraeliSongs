@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה ילד</title>
+        <singer classification="male singer">עופר כלף</singer>
+        <writer>דודו ברק</writer>
+        <composer>אבי בן דב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה ילד</head>
+        <lg number="1" type="stanza">
+          <l>לא היה  כמוני ילד מאושר</l>
+          <l>ילד עיר ילדון רחוב וילד כפר</l>
+          <l>קל כנפיים כפרפר עשוי לחופש</l>
+          <l>מנושק ומחובק רוקד ושר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא היה תמים ממני למראה</l>
+          <l>כשהייתי בגינת ביתי דואה</l>
+          <l>ומצל האנשים כלל לא חששתי</l>
+          <l>לא הבחנתי איך בינם אני תועה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ילד מאושר</l>
+          <l>מרקד ושר</l>
+          <l>כמה ילד עוד בך נשאר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>והנה הכל חלף הכל עבר</l>
+          <l>כמו ענן לבן בפאתי ההר</l>
+          <l>אך האם אי שם הרחק הרחק באופק</l>
+          <l>עוד רוקד אותו הילד וגם שר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ילד מאושר</l>
+          <l>מרקד ושר</l>
+          <l>כמה ילד עוד בך נשאר</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>בשדה פתוח באביב מואר</l>
+          <l>שם פרחתי לתומי כפרח בר</l>
+          <l>איך עם עפיפון לעננה נקשרתי</l>
+          <l>ילד קט מתוך ציור של רנואר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשהמזל נוגע</title>
+        <singer classification="male singer">ישי לוי</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>שי ראובני</composer>
+        <album>האחת שלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשהמזל נוגע</head>
+        <lg number="1" type="stanza">
+          <l>הייתי לבדי </l>
+          <l>עד לפני שבאת יפה שלי</l>
+          <l>הצעתי את ליבי </l>
+          <l>וקיבלת אותי איך שאני</l>
+          <l>רציתי רק שתהיי שלי</l>
+          <l>ואת סודך תגלי רק לי</l>
+          <l>רציתי שתדעי כמה</l>
+          <l>אני אוהב אותך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כשהמזל נוגע</l>
+          <l>הלב את זה יודע</l>
+          <l>כולם לנענע</l>
+          <l>לרקוד איתי</l>
+          <l>להשתגע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אקח אותך איתי</l>
+          <l>אל האהבה שבליבי                </l>
+          <l>ואגשים איתך</l>
+          <l>את החלומות שתחלמי</l>
+          <l>אוהב אותך ובכל כוחי</l>
+          <l>אני אשמור על אהבתי</l>
+          <l>כי את היחידה </l>
+          <l>שמאירה את עולמי  </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כשהמזל נוגע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמיים אפורים</title>
+        <singer classification="unknown">יניב דרור</singer>
+        <writer>יניב דרור</writer>
+        <composer>יניב דרור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמיים אפורים</head>
+        <lg number="1" type="stanza">
+          <l>אני הולך בחוץ שמיים אפורים </l>
+          <l>מחפש תשובה שואל סיבה חוקר לא קל לי להבין </l>
+          <l>שחם מאוד היום ושמיים אפורים </l>
+          <l>במקום אחר הוא הגיוני יותר היה עכשיו קריר </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עוד רגע בא הסתיו יהיו כאן שלוליות </l>
+          <l>בכל העיר עוד מדברים על איך צריך לחיות </l>
+          <l>על איך צריך לחיות וכמה שזה טוב </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני רואה שוחים במים אפורים </l>
+          <l>מחפש תשובה שואל סיבה חוקר לא קל לי להבין </l>
+          <l>שכבר הולך בשוק על מים אפורים </l>
+          <l>ודורך על מה שלא רקוב היה והוא חצי מחיר </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זה גשם שחלף כמו רוב האשליות </l>
+          <l>בכל העיר עוד מדברים על איך צריך לחיות </l>
+          <l>על איך צריך לחיות וכמה שזה טוב </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שמיים אפורים ומים אפורים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

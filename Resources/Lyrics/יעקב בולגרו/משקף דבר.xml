@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משקף דבר</title>
+        <singer classification="unknown">יעקב בולגרו</singer>
+        <writer>דרור כהן</writer>
+        <composer>נדב ביטון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משקף דבר</head>
+        <lg number="1" type="stanza">
+          <l>אני מתחיל לי</l>
+          <l>את כל מה שהרסת כמו אתמול</l>
+          <l>הרסת</l>
+          <l>את מה שבך אהבתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza" />
+        <lg number="3" type="stanza">
+          <l>אני אוסף לי</l>
+          <l>כל חתיכה שבתוכי שברת</l>
+          <l>את מי אשמור לי</l>
+          <l>אם רק אותך אהבתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza" />
+        <lg number="5" type="stanza">
+          <l>בואי, תבואי אלי</l>
+          <l>בואי, תבואי מתי?</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מביטה בי</l>
+          <l>מביטה כמו מראה</l>
+          <l>לא את, לא את</l>
+          <l>לא משקפת שום דבר</l>
+          <l>לא את, לא את</l>
+          <l>לא משקפת שום דבר</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אני מתחיל לי</l>
+          <l>את כל מה שהרסת כמו אתמול</l>
+          <l>הרסת</l>
+          <l>את מה שבך אהבתי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

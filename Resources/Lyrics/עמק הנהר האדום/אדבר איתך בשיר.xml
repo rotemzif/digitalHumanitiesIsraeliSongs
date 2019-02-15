@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אדבר איתך בשיר</title>
+        <singer classification="unknown">עמק הנהר האדום</singer>
+        <writer>ג'ים קרוצ'י</writer>
+        <composer>ג'ים קרוצ'י</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אדבר איתך בשיר</head>
+        <lg number="1" type="stanza">
+          <l>סלחי לי אם את ישנה</l>
+          <l>ואם אותך הערתי</l>
+          <l>אבל אני פשוט חייב</l>
+          <l>לומר לך שתי מילים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וכל פעם שניסיתי הלכו לי המילים</l>
+          <l>אז אגיד מה שרציתי עם השיר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ברגע שאני</l>
+          <l>עומד קרוב אלייך</l>
+          <l>המילים נתקעות בפנים</l>
+          <l>ולא מוצאות אותך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וכל פעם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>סלחי לי אם ישנת</l>
+          <l>ואם אותך הערתי</l>
+          <l>אבל אני חייב לומר מה</l>
+          <l>שיושב לי על הלב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>וכל פעם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

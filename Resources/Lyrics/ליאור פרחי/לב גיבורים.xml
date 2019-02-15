@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לב גיבורים</title>
+        <singer classification="male singer">ליאור פרחי</singer>
+        <writer>מיקי אפל</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לב גיבורים</head>
+        <lg number="1" type="stanza">
+          <l>בנים שגדלו</l>
+          <l>והפכו לחומות מגן</l>
+          <l>הם שהלכו וחלומם התגשם</l>
+          <l>ריחם הפך לריח מלחמה</l>
+          <l>שמרו בליבם את אמא באדמה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כשושנים נקטפו לוחמים</l>
+          <l>נדם קולם</l>
+          <l>ואינם בשביל פוסעים</l>
+          <l>יחד צעדו בזה אחר זה</l>
+          <l>ידעו כי רק כך</l>
+          <l>הארץ תבנה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בנים שהחלו ברוחם להילחם</l>
+          <l>הם שלעד בקשו</l>
+          <l>אל תבקי אם</l>
+          <l>עוד תמשיך ותנשב לה הרוח</l>
+          <l>ולב כל אדם</l>
+          <l>אותם לעולם לא שוכח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כשושנים נקטפו לוחמים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

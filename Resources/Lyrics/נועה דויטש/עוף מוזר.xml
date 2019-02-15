@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוף מוזר 2</title>
+        <singer classification="unknown">נועה דויטש</singer>
+        <writer>נועה דויטש</writer>
+        <composer>נועה דויטש</composer>
+        <album>ביום שנולדתי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוף מוזר</head>
+        <lg number="1" type="stanza">
+          <l>לא עושה בנים זה עושה לי צרבת</l>
+          <l>לא הולכת לקולנוע ,אין לי שם מקום לשבת</l>
+          <l>לא זוכרת את הפעם הראשונה ששאלתי אפשר</l>
+          <l>לא יודעת מה רציתי להגיד זה בטח היה מיותר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז אני עוף מוזר לא כזה של מרק</l>
+          <l>עוף מוזר שונאת חדשות ודיבורי סרק</l>
+          <l>עוף מוזר .....</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>טיולים בטבע עושים לי חרדות</l>
+          <l>זה לא מוסרי אבל עשיתי ילדות</l>
+          <l>אף פעם אני לא בודקת מה יש לי בכיסים</l>
+          <l>אני לא מחכה למשיח אני עושה</l>
+          <l>את הניסים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>פזמון: </l>
+          <l>כי אני עוף מוזר לא כזה של מרק</l>
+          <l>עוף מוזר שונאת חדשות ודיבורי סרק</l>
+          <l>עוף מוזר עוף מוזר אז אני </l>
+          <l>עוף עוף עוף .....</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אז אני עוף ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

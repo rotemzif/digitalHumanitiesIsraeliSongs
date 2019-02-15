@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נרניה 3</title>
+        <singer classification="female singer">טל גורדון</singer>
+        <writer>טל גורדון</writer>
+        <composer>טל גורדון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נרניה</head>
+        <lg number="1" type="stanza">
+          <l>אור ליום ועוד יום </l>
+          <l>כמו אותו המקום. </l>
+          <l>שני צדדים לכל סיפור: </l>
+          <l>מה מותר, מה אסור. </l>
+          <l>אור ליום ועוד יום </l>
+          <l>חולף כחץ עד שייפול. </l>
+          <l>חדר ריק עומד מוכן. </l>
+          <l>פתח אל עולם ישן. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואתה מתוך חלום, </l>
+          <l>אל הבוקר שפתאום </l>
+          <l>מתגנב לתוך היום. </l>
+          <l>מתגנב לתוך היום. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אור ליום ועוד יום. </l>
+          <l>שוב אותו המקום. </l>
+          <l>עד לסוף הסיפור </l>
+          <l>אין מותר, אין אסור. </l>
+          <l>אור ליום ועוד יום. </l>
+          <l>עוד מבט לאחור. </l>
+          <l>אם באמת הכל זמני, </l>
+          <l>מי אתה, מי אני? </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואתה מתוך חלום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

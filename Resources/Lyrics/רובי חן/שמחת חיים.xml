@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמחת חיים</title>
+        <singer classification="male singer">רובי חן</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>רובי חן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמחת חיים</head>
+        <lg number="1" type="stanza">
+          <l>מה שיש לי, מה שאין לי,</l>
+          <l>העיקר תנו לי קצת שמחת חיים.</l>
+          <l>אם עייפתי, אם נשרפתי,</l>
+          <l>העיקר בא לי שיהיה נעים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תנו לי קצב, קצב מאושר.</l>
+          <l>כל הלילה שירו עד מחר.</l>
+          <l>כל הלילה, כל הלילה </l>
+          <l>עד הבוקר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם כואב לה, אם לא כיף לה,</l>
+          <l>העיקר תנו לה קצת שמחת חיים.</l>
+          <l>אם קשה לה, לא נאה לה,</l>
+          <l>תנו לה כוס יין שיהיה נעים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תנו לי קצב....</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מי ברח, מי? מי שכח, מי?</l>
+          <l>העיקר יש פה קצת שמחת חיים.</l>
+          <l>אם אמרתי שנשברתי</l>
+          <l>אז היום בא לי שיהיה נעים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תנו לי קצב...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אל תבכי לי, אל תפלי לי</l>
+          <l>כי היום יש לי קצת שמחת חיים.</l>
+          <l>אם כולנו לא ידענו</l>
+          <l>אז עכשיו בואו שיהיה נעים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

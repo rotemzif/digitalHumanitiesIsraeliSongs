@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רונה 2</title>
+        <singer classification="male singer">סמיר שוקרי</singer>
+        <writer>יפית אביטן</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רונה</head>
+        <lg number="1" type="stanza">
+          <l>רונה שלי רונה</l>
+          <l>רונה אותך אוהב</l>
+          <l>אבא אלייך ישובה</l>
+          <l>עם געגועים בלב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הולך מכאן רונה</l>
+          <l>חוזר לשם רונה</l>
+          <l>משם לכאן רונה</l>
+          <l>רונה שלי את רונה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שעון מראה שלוש</l>
+          <l>מתי מתי כבר שמונה</l>
+          <l>רוצה אותך לראות</l>
+          <l>רוצה קולך לשמוע</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>קולך אלי קורא</l>
+          <l>אי שם אני טועה</l>
+          <l>קולך אלי קורא</l>
+          <l>אי שם אני טועה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

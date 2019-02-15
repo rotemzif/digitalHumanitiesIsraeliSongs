@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רחוק רחוק 8</title>
+        <singer classification="band">כנסיית השכל</singer>
+        <writer>רן אלמליח</writer>
+        <composer>missing</composer>
+        <album>ידיים למעלה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רחוק רחוק</head>
+        <lg number="1" type="stanza">
+          <l>רחוק רחוק</l>
+          <l>רחוק מילד יחף בשדה,</l>
+          <l>קוצים בשיער, ברברי בלב.</l>
+          <l>נשכב ביום קיץ חם על אדמה שסועה.</l>
+          <l>ועף ועף...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לעוף ליפול</l>
+          <l>לצחוק לבכות</l>
+          <l>לחלום את החלום ולא להתעורר.</l>
+          <l>לעוף ליפול</l>
+          <l>לצחוק לבכות</l>
+          <l>לחלום את החלום ולא להתעורר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רחוק רחוק,</l>
+          <l>רחוק מנער, נוצות בשער,</l>
+          <l>סכין בג'ינס, אהבה ראשונה.</l>
+          <l>נשכב ביום קיץ על אדמה שסועה.</l>
+          <l>ועף ועף.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לעוף ליפול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

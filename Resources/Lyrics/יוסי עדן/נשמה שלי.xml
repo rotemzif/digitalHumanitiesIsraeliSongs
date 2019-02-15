@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נשמה שלי</title>
+        <singer classification="unknown">יוסי עדן</singer>
+        <writer>יוסי עדן</writer>
+        <composer>יוסי עדן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נשמה שלי</head>
+        <lg number="1" type="stanza">
+          <l>את הבטחת לי הבטחות שתגשימי חלומות</l>
+          <l>איך לפתע הישתנת לי ופגעת כך בליבי</l>
+          <l>אם הייתי יודעת כמה את שלך אני אהבתי</l>
+          <l>כמו נר אני הלכתי אל האהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הנשמה שלי כואבת הנשמה אותך אוהבת</l>
+          <l>הנשמה רוצה אליך תחזרי בבקשה</l>
+          <l>הנשמה שלי כואבת הנשמה אותך אוהבת</l>
+          <l>הנשמה כבר לא צוחקת היא רוצה אותך קרובה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל מילה שאת אמרת מורידה עכשיו דמעות</l>
+          <l>מחשבות הם רק עליך למה אין לך רגשות</l>
+          <l>את לא יודעת מה עובד בי איך העצב רק חודר בי</l>
+          <l>יום יבוא ואת תביני שעשית טעות גדולה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הנשמה שלי כואבת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

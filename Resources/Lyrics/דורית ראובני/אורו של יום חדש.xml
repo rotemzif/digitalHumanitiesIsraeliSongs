@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אורו של יום חדש</title>
+        <singer classification="female singer">דורית ראובני</singer>
+        <writer>זרובבלה ששונקין</writer>
+        <composer>יאיר מילר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אורו של יום חדש</head>
+        <lg number="1" type="stanza">
+          <l>השיר שבקשתי לשיר כאן לכם</l>
+          <l>הוא על אדם תמהוני עד מאד</l>
+          <l>מוכיח בשער, הוזה וחולם</l>
+          <l>שזמר נהג לזמר ברחובות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עם שחר שוב פורש כנף</l>
+          <l>אורו של יום חדש</l>
+          <l>והוא נושק ראשי כולם</l>
+          <l>ומברך את העולם</l>
+          <l>ברכת שלום</l>
+          <l>עם שחר שוב פורש כנף</l>
+          <l>אורו של יום חדש</l>
+          <l>והוא נושק ומברך</l>
+          <l>פה את כולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היו שעברו ואמרו משוגע הוא</l>
+          <l>היו שבקשו שילך לו מפה</l>
+          <l>באם יום אחד בדרכים תפגשוהו</l>
+          <l>עצרו רק לרגע, זמרו נא איתו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עם שחר שוב פורש כנף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

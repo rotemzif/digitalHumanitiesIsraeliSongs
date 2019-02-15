@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שחורת עיניים</title>
+        <singer classification="male singer">משה פרץ</singer>
+        <writer>משה פרץ</writer>
+        <composer>משה פרץ</composer>
+        <album>מביט אל המרומים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שחורת עיניים</head>
+        <lg number="1" type="stanza">
+          <l>שחורת עיניים מה יפה הוא צווארה</l>
+          <l>ברק שפתיים וכמה היא מתוקה</l>
+          <l>גומה קטנה בכל לחי מונחה</l>
+          <l>היא נכנסה אל תוך הלב והנשמה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היא מסתובבת לבושה בשמלתה</l>
+          <l>ומפזרת חויכים באהבה</l>
+          <l>אני יושב ומסתכל לי מהבר</l>
+          <l>אם היא תגש אני אהיה כה מאושר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>היא רוקדת לצלילי המנגינה </l>
+          <l>אני קם לרקוד איתה ברחבבה</l>
+          <l>היא מחייכת ואוחזת בידי</l>
+          <l>עושה סיבוב נצמדת לגופי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היא רוקדת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נגמר הערב וכולנו עייפים</l>
+          <l>אני מביט בה היא קוראת לי בקלפים</l>
+          <l>את הריקוד מיד היא מפסיקה</l>
+          <l>נותנת חיבוק כל כך גדול עם נשיקה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>היא רוקדת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

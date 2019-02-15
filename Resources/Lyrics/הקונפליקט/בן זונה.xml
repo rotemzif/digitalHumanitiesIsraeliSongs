@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בן זונה</title>
+        <singer classification="unknown">הקונפליקט</singer>
+        <writer>דודי גבאי</writer>
+        <composer>דודי גבאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בן זונה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>יושב בסדר עם עצמי </l>
+          <l>כבר לא מותש מדמיוני </l>
+          <l>זה לא אני </l>
+          <l>אני חושב שאת כולי </l>
+          <l>הקדשתי למצב רוחי </l>
+          <l>זה אנוכי </l>
+          <l>נראה שבסיבוב הבא </l>
+          <l>יהיה כאן "בן זונה" </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני נגנב האור שלך </l>
+          <l>מזכיר לי סתיו </l>
+          <l>אני נבהל </l>
+          <l>רק אל תתמוססי עכשיו </l>
+          <l>אני נגנב </l>
+          <l>צובט לי את היום </l>
+          <l>רק שזה לא חלום </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יושב בסדר עם עצמי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

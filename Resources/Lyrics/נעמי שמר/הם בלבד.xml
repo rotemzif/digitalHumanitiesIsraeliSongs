@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הם בלבד</title>
+        <singer classification="female singer">נעמי שמר</singer>
+        <writer>רחל</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הם בלבד</head>
+        <lg number="1" type="stanza">
+          <l>הֵם בִּלְבַד נוֹתְרוּ לִי, רַק בָּהֶם בִּלְבַד </l>
+          <l>לֹא יִנְעַץ הַמָּוֶת סַכִּינוֹ הַחַד. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בְּמִפְנֵה הַדֶּרֶךְ, בַּעֲרֹב הַיּוֹם </l>
+          <l>יַקִּיפוּנִי חֶרֶשׁ, יְלַוּוּנִי דֹּם. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בְּרִית אֱמֶת הִיא לָנוּ, קֶשֶׁר לֹא נִפְרָד </l>
+          <l>רַק אֲשֶׁר אָבַד לִי – קִנְיָנִי לָעַד.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

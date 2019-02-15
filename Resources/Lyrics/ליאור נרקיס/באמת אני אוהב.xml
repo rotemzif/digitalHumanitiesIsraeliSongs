@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>באמת אני אוהב</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>נתי לוי</writer>
+        <composer>נתי לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>באמת אני אוהב</head>
+        <lg number="1" type="stanza">
+          <l>אמרת שלום הלכת ממני, לא יודע מה לעשות</l>
+          <l>האל יודע מה גרם לך סערת רגשות.</l>
+          <l>כל הזמן את מתייחסת לאנשים ולשמועות,</l>
+          <l>לא מבין מה את כועסת ועל מה הן הדמעות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>באמת אני אוהב וזה יוצא מתוך הלב,</l>
+          <l>אז תחשבי לפני שאת הולכת</l>
+          <l>כי בלעדייך בלי אור פנייך ומגע ידייך - אני מת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>השמיים לך יעידו לא עשיתי שום דבר</l>
+          <l>את הרי ודאי יודעת שאני בחור ישר</l>
+          <l>אם תביטי לאחור ותראי מהעבר</l>
+          <l>אולי תצילי כך את שנינו ותבואי כבר מחר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>באמת אני אוהב וזה יוצא מתוך הלב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

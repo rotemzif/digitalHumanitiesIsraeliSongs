@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שירי נהדרת 2</title>
+        <singer classification="male singer">דקלון</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>אביהו מדינה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שירי נהדרת</head>
+        <lg number="1" type="stanza">
+          <l>שירי נהדרת פיצחי קולך בשיר</l>
+          <l>יחד נעבורה ביער ובניר</l>
+          <l>שחקי לי, רוני, עילזי באביבך</l>
+          <l>זה אני הנער הולך ומחייך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי לא ימים רבים עוד הן תתעלמי</l>
+          <l>ויום אחד תבואי ולי תאמרי:</l>
+          <l>"קח ידי, הו עלם חן,</l>
+          <l>בוא מיד ונתחתן</l>
+          <l>שם בהר טובל בירק</l>
+          <l>לי תבנה הקן"</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את הרי יודעת ויודע כל אדם</l>
+          <l>שאני אהיה לך ואת תהיי לי גם.</l>
+          <l>בעיני הביטי, אמרי מה בליבך,</l>
+          <l>ידעתי, האמיני, ידעתי את סודך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי לא ימים רבים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אנה את הולכת?</l>
+          <l>הישארי, תמה</l>
+          <l>גם כי בינתיים שקעה לה החמה.</l>
+          <l>עוד מעט ינצו כוכב ולבנה</l>
+          <l>ועם בוא הלילה</l>
+          <l>אלחש לך אהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי לא ימים רבים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

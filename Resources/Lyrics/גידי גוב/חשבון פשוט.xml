@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חשבון פשוט</title>
+        <singer classification="male singer">גידי גוב</singer>
+        <writer>יעקב גלעד</writer>
+        <composer>missing</composer>
+        <album>האלבום הראשון</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חשבון פשוט</head>
+        <lg number="1" type="stanza">
+          <l>אם את חושבת לשחק איתי במחבואים</l>
+          <l>אני מרים ידיים, כי לי אין סיכויים</l>
+          <l>לא אצא מדעתי החוצה לחפש</l>
+          <l>חכי לנצח מצידי, אולי יקרה לך נס</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני יודע שמצאת מקום להסתתר</l>
+          <l>אם נוח שם וטוב לך - תוכלי להישאר</l>
+          <l>אל תבואי שוב לכאן. תודה, את לא צריכה</l>
+          <l>אני רציתי כבר מזמן לקחת מנוחה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא מתגעגע, טוב לי עם עצמי</l>
+          <l>אם לא אני אז מי?</l>
+          <l>מי היה נשאר פה במקומי?</l>
+          <l>תגידי, מי?</l>
+          <l>לא שיש לי סבלנות</l>
+          <l>אבל עשיתי חשבון פשוט</l>
+          <l>שלא תהיה פה שום טעות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את חושבת שאני יכול תמיד לשתוק</l>
+          <l>בזמן שאת בעצם עושה ממני צחוק</l>
+          <l>לא איכפת לי להפסיק, אבל זו לא חוכמה</l>
+          <l>חכי שרק נחליף תפקיד בפעם הבאה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא מתגעגע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

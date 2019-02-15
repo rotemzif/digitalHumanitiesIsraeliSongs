@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה פעמים 4</title>
+        <singer classification="female singer">שירי מימון</singer>
+        <writer>רועי לביא</writer>
+        <composer>רועי לביא</composer>
+        <album>שירי מימון</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה פעמים</head>
+        <lg number="1" type="stanza">
+          <l>כמה פעמים עוד אצטרך להסתובב ולגלות</l>
+          <l>שאני בכלל לא מתקרבת לסיבוב האחרון</l>
+          <l>אז תן לי רק סימן קטן לטוות לי דרך בה ללכת</l>
+          <l>אני לא מבטיחה הרבה אבל רוצה רק לנסות </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז תן לי עוד סיבה ללכת</l>
+          <l>תן לי עוד סיבה לינשום</l>
+          <l>תן לי רק אותך, תן לי מנוחה</l>
+          <l>להיות איתך כל היום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה פעמים אני עוד אסתכל סביב ואגלה</l>
+          <l>שזה לא המקום אותו זכרתי בחלום</l>
+          <l>הכל סביב היה שונה הכל היה עטוף בסרט</l>
+          <l>אני לא מתקדמת אני כאן צועדת במקום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז תן לי עוד סיבה ללכת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כמה פעמים עוד אצטרך ליפול לפני שאתקדם שוב</l>
+          <l>ולפעמים נמאס לי כבר להסתובב סתם סביב עצמי</l>
+          <l>רוצה כיוון ברור להסתפק במה שיש לי</l>
+          <l>רוצה כל כך רחוק אבל בינתיים פה רק לבדי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תן לי עוד סיבה ללכת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

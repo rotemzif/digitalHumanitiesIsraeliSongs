@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בידיים 3</title>
+        <singer classification="female singer">שולה חן</singer>
+        <writer>אבי קורן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בידיים</head>
+        <lg number="1" type="stanza">
+          <l>חַנָּהלֶ'ה אוֹפָה קְטַנָּה</l>
+          <l>יֵשׁ לָהּ קֶמַח, מַיִם</l>
+          <l>כָּל הַיּוֹם הִיא לָשָׁה, לָשָׁה</l>
+          <l>בָּצֵק בַּיָּדַיִם.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הִיא אוֹפָה עוּגוֹת, חַלּוֹת</l>
+          <l>וַאֲפִלּוּ לֶחֶם,</l>
+          <l>וּכְשֶׁשָּׂמָה בַּתַּנּוּר</l>
+          <l>הַכֹּל נִהְיֶה לְפֶחֶם.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

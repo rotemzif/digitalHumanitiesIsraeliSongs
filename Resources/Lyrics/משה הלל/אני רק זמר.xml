@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני רק זמר</title>
+        <singer classification="male singer">משה הלל</singer>
+        <writer>ג'קי וולץ</writer>
+        <composer>ג'קי וולץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני רק זמר</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אני מביא לך זמר, מילים ומנגינה</l>
+          <l>כי רק זמר אני וזה מה שיש לי,</l>
+          <l>אני מביא לך זמר, מילים ומנגינה</l>
+          <l>כי אני רוצה לתת לך מתנה. </l>
+          <l>אני מביא לך זמר, מילים ומנגינה</l>
+          <l>כי רק זמר אני וזה מה שיש לי,</l>
+          <l>אני מביא לך זמר, מילים ומנגינה</l>
+          <l>כי אני רק זמר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אך אם סנדלר אני</l>
+          <l>זוג נעלי ריקוד נתתי לך</l>
+          <l>ואם צורף בתכשיטים אני</l>
+          <l>אז יהלום לך אשלח רק לך</l>
+          <l>או אם נגר אני</l>
+          <l>כסא של מלוכה רק לך אשמור</l>
+          <l>ואם חייט צמרת זהו שמי</l>
+          <l>כי אז שמלת חופה רק לך אתפור, אתפור...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני מביא לך זמר...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אך אם צייד אני </l>
+          <l>אצוד פילים ולך אביא שנהב</l>
+          <l>או אם בנאי כל כך מוכשר אני</l>
+          <l>אבנה ארמון אשר כולו זהב, זהב...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני מביא לך זמר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

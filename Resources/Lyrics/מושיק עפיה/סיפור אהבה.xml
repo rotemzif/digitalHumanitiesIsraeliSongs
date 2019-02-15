@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סיפור אהבה 10</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עממי</composer>
+        <album>סיפור אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סיפור אהבה</head>
+        <lg number="1" type="stanza">
+          <l>לילה כבד ירד, והשמיים התעטפו בעננים</l>
+          <l>ברחובות הדליקו את הפנסים</l>
+          <l>ובשלכת גם הצהיבו העלים, ורוח סתיו</l>
+          <l>מול ביתך עובר, יש אור בחלונך</l>
+          <l>עוד לא כבה הנר, ולאורו אהבת לך מישהו אחר</l>
+          <l>ואת ידעת ילדה, שזה אותי שובר, וזה כואב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כן זה כואב, כואב לי ומוזר</l>
+          <l>ואיך סיפור של אהבה נגמר</l>
+          <l>נתת הכל, לגבר זר</l>
+          <l>אני לבד בוכה, לבד בסתר</l>
+          <l>פגעת ילדה, בלב של גבר</l>
+          <l>כאן הכל נגמר, אני הולך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לילה מאוחר, את צל גופך רואה מבעד לחלונך</l>
+          <l>אני הולך ילדה, מבלי לומר שלום</l>
+          <l>אלך מכאן, ולא אראה אותך לעד, מסך ירד</l>
+          <l>הכל הרסת, מעולמך אני יוצא ונעלם</l>
+          <l>וכל סיפור האהבה בינינו תם</l>
+          <l>אני הולך ולא אשוב עוד לעולם, אני נשבע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כן זה כואב, כואב לי ומוזר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

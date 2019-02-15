@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כדי לחיות</title>
+        <singer classification="unknown">דיויד ברוזה</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>missing</composer>
+        <album>ברוזה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כדי לחיות</head>
+        <lg number="1" type="stanza">
+          <l>אתה יוצא לדרך, עם מפרשים בלי רוח</l>
+          <l>אומרים לך שהעולם עגול ולא שטוח</l>
+          <l>ארבע רוחות שמיים, שבעה שצבעים לקשת</l>
+          <l>כחול הוא ים הבית וירוק הדשא</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>השמש היא אור האלוהים</l>
+          <l>והגשם הקריר בורא שדות וגשרים</l>
+          <l>כל תינוק שלך, כל אישה היא אישתך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לחיות, כדי לחיות</l>
+          <l>טוב רק לחיות, כדי להיות, כדי לחיות</l>
+          <l>טוב רק לחיות, כדי לחיות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הכל עוד לפנייך והעולם פתוח</l>
+          <l>וכל חיוך הוא עגל צוף, בים דמעות מלוח</l>
+          <l>רתום את ההרים לעגלת הרוח</l>
+          <l>וקרא בסוף הנוף את קו האופק המתוח</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>השמש היא אור האלוהים</l>
+          <l>והגשם הקריר בורא שדות וגשרים</l>
+          <l>כל תינוק שלך, כל אישה היא אישתך</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לחיות, כדי לחיות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

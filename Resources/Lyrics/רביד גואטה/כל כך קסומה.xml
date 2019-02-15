@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל כך קסומה</title>
+        <singer classification="unknown">רביד גואטה</singer>
+        <writer>רחל שפירא</writer>
+        <composer>שמעון בוסקילה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל כך קסומה</head>
+        <lg number="1" type="stanza">
+          <l>על השחר המפציע בעינייך</l>
+          <l>על הלילה השוכב בהן לישון</l>
+          <l>ועל שפת גופך והבעת פנייך</l>
+          <l>כאשר את משתקפת בחלון</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל השקע החמים שבכתפייך</l>
+          <l>מתגנבת קרן שמש אחרונה</l>
+          <l>על מילת האהבה שבשפתייך</l>
+          <l>מתעכבת ואוהבת מנגינה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כל כך קסומה</l>
+          <l>בכף ידך טמונה</l>
+          <l>פנינה של טעם</l>
+          <l>ורגש וחוכמה</l>
+          <l>ושוב עלייך מתעכבת מנגינה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואני מביט ומתרגש עוד פעם</l>
+          <l>ואני קולט כל זה ומתפלל</l>
+          <l>שהיופי יישמר וגם הנועם</l>
+          <l>ושלא ניתן לטוב להתקלקל</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כל כך קסומה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

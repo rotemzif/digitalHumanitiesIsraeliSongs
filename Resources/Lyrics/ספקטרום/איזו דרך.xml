@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איזו דרך</title>
+        <singer classification="unknown">ספקטרום</singer>
+        <writer>דרור דרורי</writer>
+        <composer>דרור דרורי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איזו דרך</head>
+        <lg number="1" type="stanza">
+          <l>הכל נראה כל כך קרוב. </l>
+          <l>מזרח תיכון חדש פורה. </l>
+          <l>חלום נרקם להתגשם, </l>
+          <l>אך בעצם מה קורה. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כשעדיין נרצחים גברים נשים וילדים </l>
+          <l>לאן הדרך מובילה </l>
+          <l>מי קבע את המחיר </l>
+          <l>מה שילמנו עבור מה </l>
+          <l>אדמה לאנשים או אנשים לאדמה. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מחיר כבד למריבה </l>
+          <l>וכן הדרך לפיוס. </l>
+          <l>האם ניתן פה ליישב, </l>
+          <l>לסגור חשבון של שנות איבה. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כשעדיין נרצחים גברים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

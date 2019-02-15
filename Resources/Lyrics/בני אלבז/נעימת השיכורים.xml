@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נעימת השיכורים</title>
+        <singer classification="male singer">בני אלבז</singer>
+        <writer>בני אלבז</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נעימת השיכורים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>ספרדים בוכים אתך יא אריה</l>
+          <l>ספרדים שמחים אתך יא אריה</l>
+          <l>מלאכים בוכים אתך יא אריה</l>
+          <l>מלאכים בוכים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל העם העם בוכה לך יא אריה</l>
+          <l>שתחזור מהר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ספרדים בוכים...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל העם רוצה אותך יא אריה</l>
+          <l>כל העם בוכה</l>
+          <l>ישראל רוצים אותך יא אריה</l>
+          <l>שתחזור מהר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

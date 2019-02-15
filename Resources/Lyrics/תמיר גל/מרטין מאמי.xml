@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מרטין מאמי</title>
+        <singer classification="male singer">תמיר גל</singer>
+        <writer>דני שושן</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מרטין מאמי</head>
+        <lg number="1" type="stanza">
+          <l>מנעורי אותך אהבתי את חלומי מאור עיני</l>
+          <l>מיופייך עוד לא רוויתי עוד לא רוויתי די</l>
+          <l>מצופך אנא השקיני המתוק כדבש נוטף</l>
+          <l>חיוכך אנא הביני את ליבי סובב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וכשאת ברחוב עוברת חולפת על פני</l>
+          <l>זו דמותך אשר נשארת תמיד אל מול עיני</l>
+          <l>מרטין תני לי צ'אנס מרטין די נמאס</l>
+          <l>מאמי מרטין תני לי תני מרטין תני לי צ'אנס</l>
+          <l>מרטין מאמי  תני לי תני מרטין תני לי צ'אנס</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ידידי רמזו אמרו לי לאחר נתנה ליבה</l>
+          <l>אך בתוך תוכי שאלתי אמרי מה הסיבה</l>
+          <l>לאהבה אין גבול אין ערך במדבר או בשממה</l>
+          <l>אל הלב חודרת חרש מתוך הנשמה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וכשאת ברחוב עוברת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

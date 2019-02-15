@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לי שתי עיניים</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>יוסי בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לי שתי עיניים</head>
+        <lg number="1" type="stanza">
+          <l>בכל ערב בשעה כה זוהרת</l>
+          <l>אני מתיפה ומתגנדרת</l>
+          <l>לפני כל יציאה</l>
+          <l>את המראה שואלת</l>
+          <l>אני כבר מוכנה</l>
+          <l>או עוד לא מסודרת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לי שתי עיניים לראות ולסמן</l>
+          <l>לי שתי אוזניים לשמוע ולזמר</l>
+          <l>לי שתי רגליים לרקוד ולקפץ</l>
+          <l>לי שתי ידיים אותך רק לחבק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אור של בוקר משתלב בין עננים</l>
+          <l>אל ביתי חוזרת מליל האוהבים</l>
+          <l>עוד רווקה ועוד לא מאורסת</l>
+          <l>אליך בתפילה כל יום אני מתפללת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לי שתי עיניים לראות ולסמן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

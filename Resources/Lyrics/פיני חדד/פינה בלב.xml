@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פינה בלב 2</title>
+        <singer classification="male singer">פיני חדד</singer>
+        <writer>אביחי מליחי</writer>
+        <composer>אביחי מליחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פינה בלב</head>
+        <lg number="1" type="stanza">
+          <l>היא נותנת מעצמה את הלב</l>
+          <l>והנשמה רק איתה רוצה לגדול</l>
+          <l>להיות תמיד בחלומה היא רוקדת</l>
+          <l>לפעמים מצחקקת עם בנים אך</l>
+          <l>איתי תמיד תהיה הילדה שלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עושה לי טוב בנשמה תמיד</l>
+          <l>שומרת לעצמה פינה בלב ורק</l>
+          <l>חמה אהבתה זכה תמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לפעמים איתה רוקד משתולל</l>
+          <l>עד סוף הליל אך לעיתים אני</l>
+          <l>בודד נשאר גלמודתמיד שואל</l>
+          <l>יום עובר כמו שנה אצלה דבר</l>
+          <l>לא השתנה שומר עליה בלילות</l>
+          <l>אהבתה אין לגלות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עושה לי טוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

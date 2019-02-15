@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ארץ אהובה 3</title>
+        <singer classification="male singer">חיים משה</singer>
+        <writer>אילן גולדהירש</writer>
+        <composer>יאיר קלינגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ארץ אהובה</head>
+        <lg number="1" type="stanza">
+          <l>רגלי נושאות אותי עכשיו אל ארץ לא נודעת</l>
+          <l>פוסע בשבילים העלומים</l>
+          <l>מעל זורחת בזהב השמש הנוגעת</l>
+          <l>קרניה מלטפות את התלמים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>דרכים רבות אתור בלהט</l>
+          <l>עד אלייך בת חוה</l>
+          <l>את כמו ארץ לא נודעת</l>
+          <l>ארץ אהובה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>משעול למעלה מתפתל, הרוח מתעוררת</l>
+          <l>וכוכבים קורצים לעומתי</l>
+          <l>בתום מסע של יום וליל בארץ לא מוכרת</l>
+          <l>נוגע בפסגת אהבתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>דרכים רבות אתור בלהט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

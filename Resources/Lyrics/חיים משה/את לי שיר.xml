@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את לי שיר</title>
+        <singer classification="male singer">חיים משה</singer>
+        <writer>אביחי מליחי</writer>
+        <composer>אביחי מליחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את לי שיר</head>
+        <lg number="1" type="stanza">
+          <l>אם אמרתי לא אלך, נא האמיני</l>
+          <l>אם עמדתי בדרכך, אל תעזביני</l>
+          <l>אם אשלח לך זר פרחים, נא אל תשליכי</l>
+          <l>זכרי אותי בטוב, עזבי הכל.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הן את לי אור כמו ירח בלילה שמאיר</l>
+          <l>את כל חדרי הלב </l>
+          <l>כי את לי שיר</l>
+          <l>הן את לי אור כמו ירח בלילה שמאיר </l>
+          <l>את כל חדרי הלב </l>
+          <l>כי את לי שיר</l>
+          <l>את לי שיר..</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם כעסתי מן הסתם אנא הביני</l>
+          <l>נא קראי מחשבותי, רק אז תחכימי</l>
+          <l>לעשות כראות עינייך</l>
+          <l>להיות איתי קמעה</l>
+          <l>הן שלחתי לך פרחים מאהבה..</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הן את לי אור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

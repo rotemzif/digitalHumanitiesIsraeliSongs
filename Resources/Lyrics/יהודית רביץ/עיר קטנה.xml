@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עיר קטנה</title>
+        <singer classification="female singer">יהודית רביץ</singer>
+        <writer>יהלי סובול</writer>
+        <composer>יהלי סובול</composer>
+        <album>עיר קטנה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עיר קטנה</head>
+        <lg number="1" type="stanza">
+          <l>נולדה בעיר קטנה כל כך לא מיוחדת</l>
+          <l>שאם לא היו נותנים לה שם הייתה בזה יותר אמת</l>
+          <l>תמיד הלכה לטייל על פסי הרכבת</l>
+          <l>בין אקליפטוסים שלא רצו להיות שם בעצמם</l>
+          <l>אבל בלב תפילה קטנה הלכה איתה את כל הדרך </l>
+          <l>בגדים שחורים שיער שחור</l>
+          <l>שלא יראו לה את העור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש כזאת תהום</l>
+          <l>בין העולם בחוץ לזה בפנים</l>
+          <l>אנחנו מכוסים עננים</l>
+          <l>מזל שיש לי מדרגות </l>
+          <l>שחצובות בתוך תוכי</l>
+          <l>שמוליכות למקום סודי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גדלה להיות סוכן סמוי כל כך לא מיוחדת</l>
+          <l>מבחוץ רק עוד קונה בעולם של לקוחות</l>
+          <l>אבל בפנים היא כבר הייתה מלכה ומאהבת</l>
+          <l>הסתחררה בנשפים בארמונות מכושפים</l>
+          <l>ואותה תפילה קטנה הלכה איתה את כל הדרך</l>
+          <l>למצוא לה נפש תאומה</l>
+          <l>היא תיפתח לה כמו פנינה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש כזאת תהום... </l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

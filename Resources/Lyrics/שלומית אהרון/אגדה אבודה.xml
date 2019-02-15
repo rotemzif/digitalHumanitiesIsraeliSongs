@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אגדה אבודה 4</title>
+        <singer classification="female singer">שלומית אהרון</singer>
+        <writer>יובל דור</writer>
+        <composer>קיימים 3 ביצועים נוספים לשיר זה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אגדה אבודה</head>
+        <lg number="1" type="stanza">
+          <l>שקט עכשיו, רוח של סתיו</l>
+          <l>באה לכאן ממרחק</l>
+          <l>רוח קלה, רוח כחולה</l>
+          <l>שנינו בסוף המשחק.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם בשמיים נותרו מלאכים</l>
+          <l>מה הם ראו משם</l>
+          <l>ומה הם יודעים</l>
+          <l>אולי הם ראו מה שאיש לא ידע</l>
+          <l>היינו ילדים באגדה אבודה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו שני עלים</l>
+          <l>שנינו דואים איש לדרכו עם הסתיו</l>
+          <l>רוח קלה שוב מתחילה</l>
+          <l>כמה אהבתי אותך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם בשמיים נותרו מלאכים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

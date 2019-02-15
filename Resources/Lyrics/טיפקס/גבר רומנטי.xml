@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גבר רומנטי</title>
+        <singer classification="band">טיפקס</singer>
+        <writer>קובי אוז</writer>
+        <composer>קובי אוז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גבר רומנטי</head>
+        <lg number="1" type="stanza">
+          <l>הוא דווקא גבר רומנטי</l>
+          <l>הוא דווקא גבר רומנטי</l>
+          <l>הוא דווקא גבר רומנטי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רוצה בלב להביא פרחים וקופסאות עם ממתקים</l>
+          <l>אפילו אמוציונלי</l>
+          <l>ולפעמים הוא מתעקש להסתיר את זה שמתרגש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ויש סיכוי יותר מסביר שהוא אוהב אותך כל כך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הוא דווקא גבר רומנטי</l>
+          <l>כשהוא רואה בוידיאו סרט כמעט נפלטת לו דמעה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ויש סיכוי יותר מסביר שהוא אוהב אותך כל כך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רוצה בלב להביא פרחים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

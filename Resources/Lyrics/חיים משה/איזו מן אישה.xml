@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איזו מן אישה</title>
+        <singer classification="male singer">חיים משה</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>ציון שרעבי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איזו מן אישה</head>
+        <lg number="1" type="stanza">
+          <l>כשיורד הערב היא יוצאת לבר </l>
+          <l>מחפשת גבר רק לזמן קצר </l>
+          <l>מזמינה כוס יין מביטה לצד </l>
+          <l>וקורצת עין לצעיר נחמד </l>
+          <l>הוא אצלה ביד ממבט אחד </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איזו מן אישה </l>
+          <l>אין לה כל בושה </l>
+          <l>איזו מן אישה </l>
+          <l>מה היא מרגישה </l>
+          <l>מה שהיא עושה </l>
+          <l>איזו מן אישה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאותו בוחרת הוא שלה מיד </l>
+          <l>בקלות עוברת שוב מיד ליד </l>
+          <l>אליה היא מושכת את כל הסביבה </l>
+          <l>לכולם מחייכת גם ללא סיבה </l>
+          <l>וכשבא האור לבד תחזור </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איזו מן אישה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

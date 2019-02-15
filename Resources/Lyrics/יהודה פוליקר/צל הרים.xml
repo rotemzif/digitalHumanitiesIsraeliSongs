@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צל הרים</title>
+        <singer classification="male singer">יהודה פוליקר</singer>
+        <writer>יהודה פוליקר</writer>
+        <composer>יהודה פוליקר</composer>
+        <album>אהבה על תנאי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צל הרים</head>
+        <lg number="1" type="stanza">
+          <l>השארת מכתב במטבח</l>
+          <l>הגשם לא נח</l>
+          <l>והעיר שוב לובשת שחורים</l>
+          <l>ונדמה צל הרים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עכשיו כשהלכת מכאן</l>
+          <l>כלום לא מובן</l>
+          <l>פנסים הפוכים בלילות</l>
+          <l>מאירים שלוליות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שכחנו מזמן איך לגעת, לדעת</l>
+          <l>איך להרגיש</l>
+          <l>ועכשיו אהבה בי נכנעת</l>
+          <l>ואתה שאדיש איזה איש</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הִנה עולה בי הכעס</l>
+          <l>רגש אשמה</l>
+          <l>געגוע עמוק וחונק </l>
+          <l>מנבא מלחמה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>סכר חיינו נסדק ונפרץ</l>
+          <l>טיפה לטיפה</l>
+          <l>אוקיאנוס גדול ורוגש </l>
+          <l>בנפשי מתנגש</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שכחנו מזמן איך לגעת, לדעת </l>
+          <l>איך להרגיש</l>
+          <l>ועכשיו אהבה בי נכנעת</l>
+          <l>ואתה שאדיש איזה איש</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

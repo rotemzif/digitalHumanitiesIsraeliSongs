@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עומד על קו רקיע</title>
+        <singer classification="unknown">להקת פיקוד מרכז</singer>
+        <writer>רמי קידר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עומד על קו רקיע</head>
+        <lg number="1" type="stanza">
+          <l>עומד על קו רקיע, על קו הרכסים</l>
+          <l>הרוח בעיני מכה, נשבר על הריסים</l>
+          <l>עומד על קו רקיע, הולך על קו האור</l>
+          <l>הולך ישר, שומר כיוון, ולא מביט אחור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שומר על הכיוון, שומר שלא למעוד</l>
+          <l>הדרך מתפתלת, הגשר צר מאוד</l>
+          <l>שומר על הכיוון, שומר שלא למעוד</l>
+          <l>הדרך מתפתלת, הגשר צר מאוד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עומד על החומה, צופה מראש מגדל</l>
+          <l>רואה את המחול, סובב-סובב המעגל</l>
+          <l>עומד על הר גבוה, שומע פעמון</l>
+          <l>בתוכי הולם בכוח, כמטוטלת השעון</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שומר על הכיוון...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רואה בקו האופק, מבין הענפים</l>
+          <l>העשן עוד מיתמר מבין גגות ורעפים</l>
+          <l>עומד על קו רקיע, על קו הרכסים</l>
+          <l>עוד כוכב אחד מאיר אלי כאלף פנסים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שומר על הכיוון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

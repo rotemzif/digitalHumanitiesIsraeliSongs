@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הופה היי</title>
+        <singer classification="male singer">גידי גוב</singer>
+        <writer>יגאל בשן</writer>
+        <composer>יגאל בשן</composer>
+        <album>תנו לגדול בשקט</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הופה היי</head>
+        <lg number="1" type="stanza">
+          <l>אני כל כך אוהב שמספרים לי סיפורים</l>
+          <l>ולפעמים שירים יפים עושים לי משהו בלב</l>
+          <l>וכשאני לבד אז כל החברים</l>
+          <l>באים אל החלון וצועקים לי הופה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הופה הופה הופה הופה היי</l>
+          <l>תשיר איתנו הופה הופה הופה היי</l>
+          <l>וכשאתה עצוב כל כך</l>
+          <l>תמיד ת'הופה אל תשכח</l>
+          <l>תיקח איתך ת'הופה הופה הופה היי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני כל כך אוהב ילדה אחת מהכיתה</l>
+          <l>והיא שולחת לי עיניים בלי לומר לי אף מילה</l>
+          <l>אני כל כך נרגש</l>
+          <l>וגם קצת מיואש</l>
+          <l>ואז החברים שלי שרים לי הופה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הופה הופה הופה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני יושב לי וחושב איך הימים חולפים</l>
+          <l>ובלי ההופה לא היו לי חברים כל כך טובים</l>
+          <l>תמיד זה לי עזר</l>
+          <l>אותו פזמון מוכר</l>
+          <l>נסו אתם איתי את המילים והופה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הופה הופה הופה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

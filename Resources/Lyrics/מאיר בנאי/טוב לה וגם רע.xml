@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טוב לה וגם רע</title>
+        <singer classification="male singer">מאיר בנאי</singer>
+        <writer>מאיר בנאי</writer>
+        <composer>מאיר בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טוב לה וגם רע</head>
+        <lg number="1" type="stanza">
+          <l>זה הרגע ההוא</l>
+          <l>שחלף ועבר</l>
+          <l>התבונן בי ואז נעצר</l>
+          <l>זה הלילה הקר</l>
+          <l>השביר המוזר</l>
+          <l>שעדיין בתוכי נשאר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שום דבר לא חשוב, רק הביטי בי שוב</l>
+          <l>כדי שאוהב את יופייך העצוב</l>
+          <l>עיר רחוקה שם יש ילדה</l>
+          <l>טוב לה וגם רע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לעולם אין לי די,</l>
+          <l>העצוב הוא החי</l>
+          <l>היא אמרה לי כשהאור עלה</l>
+          <l>היא נגעה בפני</l>
+          <l>והיתה מנגינה</l>
+          <l>שאזכור רק אם אראה אותה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שום דבר לא חשוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אולי את תגידי לי</title>
+        <singer classification="male singer">מייק שרון</singer>
+        <writer>אביחי מליחי</writer>
+        <composer>דוד חלפון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אולי את תגידי לי</head>
+        <lg number="1" type="stanza">
+          <l>אולי את תגידי לי מה בלעדייך</l>
+          <l>אעשה בעולם הזה לבדי מתייסר</l>
+          <l>אל תספרי לי שבלעדייך אסתדר</l>
+          <l>לאן אפנה אלך אני בעקבותייך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין לי מקום בעולם</l>
+          <l>שבו אמצא את אהבתך</l>
+          <l>אין לי מקום אחר בעולם</l>
+          <l>ששם האושר מושלם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אולי את תגידי לי מה בלעדייך</l>
+          <l>אעשה בחלקך מחסה אמצא לעולם </l>
+          <l>נא האמיני לי אנא זכרי לי </l>
+          <l>את חסדי נעורייך אבקש</l>
+          <l>הן רק ארצה לראות פנייך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין לי מקום בעולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אנא אלי 3</title>
+        <singer classification="unknown">דורון מירן</singer>
+        <writer>איתן גלס</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אנא אלי</head>
+        <lg number="1" type="stanza">
+          <l>הנה יום חדש מתקרב אלי</l>
+          <l>והשמש החמה שוב תאיר פני</l>
+          <l>אתמול היה קשה אבל נגמר</l>
+          <l>בכל זאת אל יאוש יש גם מחר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה שלא יהיה יהיה רק טוב</l>
+          <l>מה שלא תגיד האור קרוב</l>
+          <l>אם לפעמים יש בלב מכאוב</l>
+          <l>תאמין שיהיה רק טוב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אנא אלי אנא ענני אלי</l>
+          <l>אם קשה לי אנא חזקני אלי</l>
+          <l>אנא אלי אנא ענני אלי</l>
+          <l>אם קשה לי אנא חזקני</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הנה יום חדש עולה מן מזרח</l>
+          <l>רק שב אחי אל פחד אל חשש</l>
+          <l>מותר להעצר רק לא לחדול</l>
+          <l>יש לב אחד שבו תמצא הכל</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מה שלא יהיה יהיה רק טוב...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אנא אלי אנא ענני אלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

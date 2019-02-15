@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אנשים מושלמים</title>
+        <singer classification="band">כנסיית השכל</singer>
+        <writer>יורם חזן</writer>
+        <composer>missing</composer>
+        <album>ידיים למעלה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אנשים מושלמים</head>
+        <lg number="1" type="stanza">
+          <l>לא יכול לספק את האשליה הזו.</l>
+          <l>להגיד שטוב לדעת שסוף.</l>
+          <l>להתמסטל, להיזרק.</l>
+          <l>לצחוק בלי סיבה, לרקוד לקצב, לצלילים, בלי מילם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אנשים מושלמים אני מכבה את הטלויזיה,</l>
+          <l>את שמה תקליט שמזכיר לך את אמא.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא יכול לספק את הנחמה הזו.</l>
+          <l>שבקרבה הזאת להגיד שטוב..טוב</l>
+          <l>לא לראות חדשות להסתכל מהחלון </l>
+          <l>להגיד שאושר קיים האושר הוא כאן.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אנשים מושלמים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

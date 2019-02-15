@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הימים שאהבנו</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עממי יווני</composer>
+        <album>סיפור אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הימים שאהבנו</head>
+        <lg number="1" type="stanza">
+          <l>אם את עוד אוהבת,</l>
+          <l>אם את עוד זוכרת</l>
+          <l>אם את לבדך ילדה</l>
+          <l>אם את, יש בך אהבה,</l>
+          <l>באתי עד לכאן, לבקש סליחה</l>
+          <l>אם את, יש בך אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כח לא יהיה בי לשכוח,</l>
+          <l>את חייבת לסלוח את תשובי אלי</l>
+          <l>כמו אז בימים שאהבנו,</l>
+          <l>זה לזו אז נשבענו שלנצח נאהב</l>
+          <l>אם את באמת אהבת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם את עוד אוהבת,</l>
+          <l>אם את עוד זוכרת</l>
+          <l>אם את עוד שלי ילדה</l>
+          <l>תני רק רמז שאת כאן,</l>
+          <l>שאת מוכנה לחזור אלי</l>
+          <l>תני רק רמז שאת כאן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כח לא יהיה בי לשכוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

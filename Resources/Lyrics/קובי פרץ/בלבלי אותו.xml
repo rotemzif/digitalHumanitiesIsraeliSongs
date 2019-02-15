@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלבלי אותו</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>ביגי</writer>
+        <composer>ביגי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלבלי אותו</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>בלבלי אותו אל תעשי לו חשבון</l>
+          <l>בלבלי אותו עד שלא יוכל לישון</l>
+          <l>בלבלי אותו כמו שבלבלת אותי</l>
+          <l>בלבלי אותו בלבלי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמה פעמים אני אומר לך</l>
+          <l>שזה הבחור לא בשבילך</l>
+          <l>כמה רגעים אני אזכיר לך</l>
+          <l>שבכית לו עד צאת נשמתך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>באנשים הוא נשבע לך</l>
+          <l>שהוא מרגיש כך בגללך</l>
+          <l>כל הזמן הוא מבטיח</l>
+          <l>שלא יפגע בך או בליבך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בלבלי אותו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הסיפורים שלך אני שמעתי</l>
+          <l>וכל מעלליו ידעתי</l>
+          <l>לא האמנתי ולא הבנתי</l>
+          <l>איך פתאום בך אני חשקתי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בלבלי אותו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

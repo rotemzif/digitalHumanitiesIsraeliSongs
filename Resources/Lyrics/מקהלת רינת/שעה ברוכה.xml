@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שעה ברוכה</title>
+        <singer classification="band">מקהלת רינת</singer>
+        <writer>מרים שנייד</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שעה ברוכה</head>
+        <lg number="1" type="stanza">
+          <l>מרחף ודואה</l>
+          <l>משב רוח קל</l>
+          <l>מנחם את ליבי</l>
+          <l>העיף מעמל</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לשחקים אנשא</l>
+          <l>עם ציפור אתרונן</l>
+          <l>למחר אחייך בקרבי</l>
+          <l>ערב מה רך וצונן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

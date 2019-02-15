@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כישוף 3</title>
+        <singer classification="unknown">שרון זריהן</singer>
+        <writer>יוש גרנות</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כישוף</head>
+        <lg number="1" type="stanza">
+          <l>אימרי לי איך הטלת עלי כישוף</l>
+          <l>אני חושק בך בכל פעם שוב ושוב</l>
+          <l>לא מבין עוד איך ולמה זה קורה לי</l>
+          <l>שלא נותר לי שום דבר יותר חשוב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את הפלת אותי לרשת</l>
+          <l>לך פתאום נפשי רוגשת</l>
+          <l>איך אותי את מכשפת</l>
+          <l>על ליבי את משתלטת</l>
+          <l>לך שבלילות ירח</l>
+          <l>כל הגוף שלי קודח</l>
+          <l>את הפכת אותי לעבד</l>
+          <l>את מחשבותי רודפת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עד שהכרנו עוד הייתי מאושר</l>
+          <l>ועפתי בעולם כמו פרפר</l>
+          <l>וכשהגעת בבת אחת חיי הרסת לי</l>
+          <l>ולא יכול להיות חופשי ומשוחרר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את הפלת אותי לרשת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

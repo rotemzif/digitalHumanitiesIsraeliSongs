@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כדי לחיות 2</title>
+        <singer classification="band">נערי רפול</singer>
+        <writer>מאיר עמר</writer>
+        <composer>איתי זילברשטין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כדי לחיות</head>
+        <lg number="1" type="stanza">
+          <l>אם תמלאי איתי את החסר</l>
+          <l>אני אקח אותך ואשאר</l>
+          <l>אם תבקשי ביחד לעולם</l>
+          <l>כאילו יחד זה הכל קיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כדי לחיות</l>
+          <l>כדי לחיות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם נמלא את התמונה הזו</l>
+          <l>נלך ביחד ננסה לחזור</l>
+          <l>ונבקש ביחד לעולם</l>
+          <l>כאילו יחד זה הכל קיים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כדי לחיות</l>
+          <l>כדי לחיות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

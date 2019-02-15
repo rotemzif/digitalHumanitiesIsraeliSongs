@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבתי אוהבת אהבה</title>
+        <singer classification="female singer">לאה שבת</singer>
+        <writer>לאה שבת</writer>
+        <composer>לאה שבת</composer>
+        <album>כל השירים - אוסף</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבתי אוהבת אהבה</head>
+        <lg number="1" type="stanza">
+          <l>אני יודעת זה דמיון,</l>
+          <l>אני יודעת זה לא נכון, </l>
+          <l>זה ילדותי וזה הלב המתעקש </l>
+          <l>אני יודעת שכדאי</l>
+          <l>שאברח מכאן ודי </l>
+          <l>כי הסוף ידוע כבר מהתחלה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהבתי אוהבת אהבה, </l>
+          <l>אני עדיין מקווה,</l>
+          <l>כמו שבסרט </l>
+          <l>הבנתי שלום לך אשליה </l>
+          <l>גם עם זה יכאב נורא </l>
+          <l>אהבה היא תגיע באמת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וזה משחק של רגשות,</l>
+          <l>שמבלבל כאן את הכל</l>
+          <l>וזה מול זה בראת את העולמות</l>
+          <l>אני יודעת שכדאי שאברח</l>
+          <l>מכאן ודי</l>
+          <l>כי הסוף ידוע כבר מהתחלה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהבתי אוהבת אהבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

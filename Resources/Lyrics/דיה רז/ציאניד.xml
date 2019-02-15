@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ציאניד</title>
+        <singer classification="unknown">דיה רז</singer>
+        <writer>דיה רז</writer>
+        <composer>דיה רז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ציאניד</head>
+        <lg number="1" type="stanza">
+          <l>יש לי חום בכל הגוף </l>
+          <l>עוד מעט אני אתחיל לעוף </l>
+          <l>אסתובב בין עננים </l>
+          <l>אויר חדש בעורקים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ארחף לי בנופים </l>
+          <l>כמה טוב להרגיש חיים </l>
+          <l>כאן לא ימצאו אותי </l>
+          <l>זה החלום שלי </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואתה מולי </l>
+          <l>מוקף צבעים כחולים </l>
+          <l>תסתובב אלי</l>
+          <l>חיוך בלי מילים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בוא אתי </l>
+          <l>רק תחייך אל תצחק </l>
+          <l>תסתכל עליי </l>
+          <l>תראה אותך נאבק </l>
+          <l>בתנועות שוות </l>
+          <l>נשחה את הימים </l>
+          <l>בדרך אל הים שבפנים </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואתה מולי... </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>עוד מעט כבר אתעורר </l>
+          <l>אולי במקום אחר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

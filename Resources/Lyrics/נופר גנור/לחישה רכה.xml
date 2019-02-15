@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לחישה רכה</title>
+        <singer classification="female singer">נופר גנור</singer>
+        <writer>נופר גנור</writer>
+        <composer>יואב אהרוני</composer>
+        <album>נופר גנור</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לחישה רכה</head>
+        <lg number="1" type="stanza">
+          <l>כשזה נגמר זה נגמר בלחישה רכה </l>
+          <l>בלי תרועות חצוצרה. </l>
+          <l>כשזה נגמר זה נגמר בלחישה רכה </l>
+          <l>להבת האהבה הלכה ודעכה. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשזה נגמר אתה הלכת </l>
+          <l>למקום רחוק מדי </l>
+          <l>ובבוקר התעוררתי </l>
+          <l>מיטה גדולה לבד בלי אף אחד. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>העשן כיסה את זכרונות העבר </l>
+          <l>וכך בלחישה רכה זה נגמר </l>
+          <l>האורת כבו והנר דעך </l>
+          <l>והאור שבינינו ברח. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשזה נגמר זה נגמר בלחישה רכה </l>
+          <l>בלי מבול של דמעות </l>
+          <l>וכשהמשכתי ללכת </l>
+          <l>לא ידעתי למה עוד לקוות. </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>העשן כיסה את זכרונות העבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

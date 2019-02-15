@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תלמד למחול</title>
+        <singer classification="male singer">מוש בן ארי</singer>
+        <writer>מוש בן ארי</writer>
+        <composer>מוש בן ארי</composer>
+        <album>תסתכל לי בעיניים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תלמד למחול</head>
+        <lg number="1" type="stanza">
+          <l>יש אדם הולך עם כאבו</l>
+          <l>והפחד מנתב דרכו</l>
+          <l>והצער מחלחל בנשמתו</l>
+          <l>תוהים חייו, מה לו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נאחז ברוח משעולים</l>
+          <l>ונקמה וכעסיו עולים</l>
+          <l>רדוף המון הוא בשדות זרים</l>
+          <l>צרים חייו צרים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תלמד למחול, קבל הכל</l>
+          <l>תמשיך לשיר, אתה לא תיפול</l>
+          <l>לטף אור יום, גע בחלום</l>
+          <l>תאהב לצחוק</l>
+          <l>באמת תדבוק</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כה עמוס חוזר הוא אל ביתו</l>
+          <l>ומתכנס עמוק אל תוך עצמו</l>
+          <l>ומלטף טיפה בנשמתו</l>
+          <l>אולי תרגע איתו</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תלמד למחול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

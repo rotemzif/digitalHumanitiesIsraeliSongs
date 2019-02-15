@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מגש של כסף</title>
+        <singer classification="male singer">יואב יצחק</singer>
+        <writer>אבנר צברי</writer>
+        <composer>אבנר צברי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מגש של כסף</head>
+        <lg number="1" type="stanza">
+          <l>קיבלת הכל על מגש של כסף</l>
+          <l>חשבת אולי זה מגיע לך</l>
+          <l>אמרתי לך זאת בפעם האלף</l>
+          <l>לא אוכל להמשיך איתך</l>
+          <l>לא יודע איך אלייך לגשת</l>
+          <l>יודע רק לחפש את הטוב</l>
+          <l>אולי חשבת שנפלתי ברשת</l>
+          <l>תיראי אותי כאן רוצה לעזוב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אוהב אוהב אותך</l>
+          <l>לא יכול איתך</l>
+          <l>רוצה אותך כל כך</l>
+          <l>טוב לי רק איתך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ידעת היטב שלרגש יש ארץ</l>
+          <l>אבל שכחת שיש גם היגיון</l>
+          <l>נראה כאילו אבדת את הדרך</l>
+          <l>אבל אסור לאבד את הצפון</l>
+          <l>עקשנות לא כל כך משתלמת</l>
+          <l>תנסי לראות באמת מה נכון</l>
+          <l>אל תעשי את עצמך מתעלמת</l>
+          <l>התפקחי כבר אני לא יכול</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אוהב אוהב אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

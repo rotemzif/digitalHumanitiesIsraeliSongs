@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלום 26</title>
+        <singer classification="unknown">ג נגו</singer>
+        <writer>ג'נגו</writer>
+        <composer>ג'נגו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלום</head>
+        <lg number="1" type="stanza">
+          <l>יש לי חלום</l>
+          <l>אני רוצה לחלום היום</l>
+          <l>בודק את הגבולות</l>
+          <l>אני רוצה לנסות להיות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש לי חלום</l>
+          <l>לראות את הדברים נכון</l>
+          <l>סוגר את האור</l>
+          <l>שקט בחוץ בסוף היום</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>קצת שיטה וביטחון</l>
+          <l>זה סיפור בלי הגיון</l>
+          <l>אני חי קצת לא נכון</l>
+          <l>שלח לי חלום</l>
+          <l>שלח לי חלום</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש לי מקום</l>
+          <l>לא של אחד שכולם סביבו</l>
+          <l>קטן ונכון</l>
+          <l>היום זה היום האחרון</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>קצת שיטה וביטחון</l>
+          <l>זה סיפור בלי הגיון</l>
+          <l>אני חי קצת לא נכון</l>
+          <l>שלח לי חלום</l>
+          <l>שלח לי חלום</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ניצחתי</title>
+        <singer classification="female singer">דנה אינטרנשיונל</singer>
+        <writer>דני דותן</writer>
+        <composer>missing</composer>
+        <album>החלום האפשרי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ניצחתי</head>
+        <lg number="1" type="stanza">
+          <l>הטוב והרע</l>
+          <l>נראים די דומה</l>
+          <l>אחרי כל הדברים שעברתי</l>
+          <l>מכל האהבות</l>
+          <l>וכל הזכרונות</l>
+          <l>מאיך שהתחלתי על איך שגמרתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני לא יודעת</l>
+          <l>מה חושבים אחרים</l>
+          <l>על הדרך שבא הלכתי</l>
+          <l>לא חשוב לי</l>
+          <l>מה אומרים</l>
+          <l>אני ניצחתי</l>
+          <l>הצלחתי-נכשלתי-נפלתי וקמתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הצדק והפשע</l>
+          <l>נראים די דומה</l>
+          <l>אחרי כל הדברים שעשיתי</l>
+          <l>ביום ובלילה</l>
+          <l>אותם כוכבים</l>
+          <l>מעל חומות שבניתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני לא יודעת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הייתי הכי רעה בעולם</l>
+          <l>עשיתי את המסע המושלם</l>
+          <l>רציתי הכל נגעתי בכל</l>
+          <l>אני ניצחתי</l>
+          <l>הצלחתי-נכשלתי-נפלתי וקמתי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

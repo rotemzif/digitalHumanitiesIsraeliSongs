@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היית שם איתי</title>
+        <singer classification="unknown">יוני פוליקר</singer>
+        <writer>יוני פוליקר</writer>
+        <composer>יוני פוליקר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היית שם איתי</head>
+        <lg number="1" type="stanza">
+          <l>לא ניסיתי לשקר בכך </l>
+          <l>שלא ידעתי להגיד לך את האמת </l>
+          <l>אם האהבה תהיה מחר </l>
+          <l>מי יודע מה יביא המחר באמת </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רציתי לחיות, רציתי למות </l>
+          <l>עם מה שהרגע הביא בטעות </l>
+          <l>וכמו שאני הייתי איתך </l>
+          <l>בסרט שלי, בסרט שלך </l>
+          <l>ירדנו גבוה, עלינו נמוך </l>
+          <l>היית שם איתי וזה מה שחשוב </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא רציתי לאכזב אותך </l>
+          <l>כששאלת אם תמיד אני אשאר </l>
+          <l>באמת שלא הייתה לי תשובה </l>
+          <l>מרחוק אני מבין כבר מה זה אומר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רציתי לחיות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

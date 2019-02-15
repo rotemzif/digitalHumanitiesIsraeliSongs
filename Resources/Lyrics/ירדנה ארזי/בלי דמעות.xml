@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלי דמעות</title>
+        <singer classification="female singer">ירדנה ארזי</singer>
+        <writer>יעקב גלעד</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלי דמעות</head>
+        <lg number="1" type="stanza">
+          <l>הוא עוזב, כבר בידיו הוא נוגע זר, </l>
+          <l>כבר בעיניו הוא מביט מוזר. </l>
+          <l>הוא עוזב. </l>
+          <l>אף מילה, כל המילים לא יאמרו דבר, </l>
+          <l>מה יש לומר כשהכל נגמר? </l>
+          <l>אף מילה! </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וידיו מגששות והמגע רפוי, </l>
+          <l>המילים והדמעות כבר לא באות, </l>
+          <l>ועיניו מבויישות והמבט כבוי, </l>
+          <l>בלי מילים ובלי דמעות, </l>
+          <l>"להתראות"! </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד מעט, רגע נוסף אחרון ודי, </l>
+          <l>רגע אחד וארוך מדי, עוד מעט. </l>
+          <l>הוא הולך, </l>
+          <l>כלום לא נשבר והכל ארוז, </l>
+          <l>כלום לא נותר זה הזמן לזוז. </l>
+          <l>הוא הולך, </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וידיו מגששות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

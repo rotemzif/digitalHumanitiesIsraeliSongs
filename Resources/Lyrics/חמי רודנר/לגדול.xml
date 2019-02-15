@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לגדול 2</title>
+        <singer classification="male singer">חמי רודנר</singer>
+        <writer>חמי רודנר</writer>
+        <composer>חמי רודנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לגדול</head>
+        <lg number="1" type="stanza">
+          <l>לגדול זה הכי כואב</l>
+          <l>זה כל כך קשה זה צובט בלב</l>
+          <l>רק אתמול היית ילדה</l>
+          <l>עם הסוכריות עם השגעונות</l>
+          <l>חילופי אופנות</l>
+          <l>חטפה אותך האהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עוד לא התחילו החיים</l>
+          <l>ובתוכך צומחים חיים חדשים</l>
+          <l>עוד לא פתרת ת'יחסים</l>
+          <l>עם העולם עם ההורים</l>
+          <l>ובתוכך צומחים חיים חדשים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לגדול זה הכי כואב</l>
+          <l>זה כל כך קשה זה צובט בלב</l>
+          <l>עוד לא ענית לשאלה</l>
+          <l>מה תרצי להיות שתהיי גדולה</l>
+          <l>ופתאום אישה</l>
+          <l>לא מוכרת במראה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עוד לא התחילו החיים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>והוא הוא אוהב אותך</l>
+          <l>אבל לא תמיד הוא מבין אותך</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כן הוא יכול להישאר</l>
+          <l>כמו כל הגברים</l>
+          <l>שחצי בחוץ וחצי בפנים</l>
+          <l>כל כך אוהב ולא מבין</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>עוד לא התחילו החיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עכשיו את פה</title>
+        <singer classification="unknown">נועם פנחסוב</singer>
+        <writer>נועם פנחסוב</writer>
+        <composer>נועם פנחסוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עכשיו את פה</head>
+        <lg number="1" type="stanza">
+          <l>עכשיו את פה, כל כך יפה</l>
+          <l>עוטפת אותי בזריחה</l>
+          <l>עכשיו את לא עצובה</l>
+          <l>תעבירי לי את אותה התחושה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ובלילה כשהכל שקט</l>
+          <l>אלחש לך בסוד את השיר</l>
+          <l>שאף אחד לא ישמע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכשיו את פה, כל כך יפה</l>
+          <l>מוסיפה לי חיים חדשים למגירה</l>
+          <l>עכשיו את פה, כל כך עייפה</l>
+          <l>וכל מילותי יהיו לך שמיכה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ובלילה כשהכל שקט...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את כל כך מרגיעה</l>
+          <l>אולי תשארי לישון</l>
+          <l>תחבקי אותי עד שתרדמי</l>
+          <l>ותחלמי עלי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

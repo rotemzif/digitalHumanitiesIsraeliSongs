@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני זוכר את הכל</title>
+        <singer classification="male singer">מאור כהן</singer>
+        <writer>מאור כהן</writer>
+        <composer>מאור כהן</composer>
+        <album>טוב לנו יחד</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני זוכר את הכל</head>
+        <lg number="1" type="stanza">
+          <l>אני זוכר את הכל מאז שעזבתי</l>
+          <l>את הימים היפים ואת מה שנתת לי</l>
+          <l>לא יכולתי לתפוס. להבין את כל מה שעשינו</l>
+          <l>כשהלכת היה לי נדמה שעוד כלום לא מיצינו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יכולתי לומר שהיה זה רק פרק</l>
+          <l>אבל אחרי זה לא מצאתי תדרך</l>
+          <l>ואיך לחפש פתאום מישהי אחרת</l>
+          <l>כשכל בחורה מזכירה לי, את  לא חוזרת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>והיה אם תראי שם אותי</l>
+          <l>הו חייכי, בשבילי</l>
+          <l>והיה אם תרצי אז מתי</l>
+          <l>אור חיי בלעדיי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז לקחתי אוויר וסידרתי תחדר</l>
+          <l>בלעדייך הכל נראה לא בסדר</l>
+          <l>הזמן לא זז. נשאר כאילו קבוע</l>
+          <l>אפילו אם מחר מתחיל עוד שבוע</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>והיה אם תראי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

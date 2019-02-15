@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הנבל</title>
+        <singer classification="unknown">להקת פיקוד צפון</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הנבל</head>
+        <lg number="1" type="stanza">
+          <l>השמש פיזר בסימטה את צלליו</l>
+          <l>בערב של קיץ והבל,</l>
+          <l>ופתע נישאו עם הרוח צליליו</l>
+          <l>של הנבל.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>דום דולי דום דולי דום.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מעבר לכנף הוילון הניסתר</l>
+          <l>דמותה משכתני כחבל,</l>
+          <l>עת קרן של שמש פרטה על מיתר</l>
+          <l>של הנבל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>דום דולי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אהבתי אותה כל הקיץ כולו,</l>
+          <l>כל ערב קראני הלב אל</l>
+          <l>זהב השקיעה בסימטה וקולו</l>
+          <l>של הנבל.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>דום דולי...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>חלפו השנים, ימי חול וחגים,</l>
+          <l>כוחי כבר כיליתי להבל,</l>
+          <l>אך עוד בי נוגנים מיתריו הנוגים</l>
+          <l>של הנבל.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>דום דולי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

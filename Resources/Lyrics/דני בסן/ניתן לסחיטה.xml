@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ניתן לסחיטה</title>
+        <singer classification="male singer">דני בסן</singer>
+        <writer>יענקל'ה רוטבליט</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ניתן לסחיטה</head>
+        <lg number="1" type="stanza">
+          <l>לגן הציבורי עושה דרכו עקלקלות</l>
+          <l>נבהל מפנסי מכונית אשר עברה</l>
+          <l>נחבא אל הכלים כך לילה בלילו</l>
+          <l>אל סימטאות האהבה האסורה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הוא ניתן לסחיטה</l>
+          <l>הפחד מרחף עליו</l>
+          <l>כל פעם שחולף הוא בסימטה</l>
+          <l>הוא ניתן לסחיטה</l>
+          <l>הפחד מרחף עליו</l>
+          <l>פוחד שיחשף, שיתגלה, פן יוודע</l>
+          <l>כל פעם שחולף הוא בסימטה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אדם שיש לו מעמד וגם עמדה</l>
+          <l>שבמשרד שורר כמו מלך בעמו</l>
+          <l>פוחד שיחשף, פוחד שיתגלה</l>
+          <l>פן יוודע ויאבד את עולמו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הוא ניתן לסחיטה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הנה הנערים דקי הגב, אתה אוהב</l>
+          <l>כאן בני תשחורת שריריים לתאווה</l>
+          <l>בחשכה הם יחכו לך שתתקרב</l>
+          <l>הבהוב סיגריה באגרוף קמוץ נחבא</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

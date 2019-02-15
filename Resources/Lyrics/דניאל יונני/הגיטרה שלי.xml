@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הגיטרה שלי</title>
+        <singer classification="unknown">דניאל יונני</singer>
+        <writer>יוסי גנון</writer>
+        <composer>עממי מקסיקני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הגיטרה שלי</head>
+        <lg number="1" type="stanza">
+          <l>אם תשתו לי את היין</l>
+          <l>לא אמות, לא אשתולל</l>
+          <l>אם תקחו לי את הבית</l>
+          <l>לא אבכה יומם וליל</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רק אל תגעו לי בגיטרה</l>
+          <l>יקרה היא מאשתי</l>
+          <l>את סיפור חיי היא שרה</l>
+          <l>בלעדיה טוב מותי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אי, אי, אי, אי</l>
+          <l>נגנו מיתרי</l>
+          <l>רק זה השיר</l>
+          <l>יישאר אחרי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היא שולחת את שיריה</l>
+          <l>ישירות אל תוך הלב</l>
+          <l>מרעידים כל מיתריה</l>
+          <l>את צליליו של הכאב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בחיקי היא מאושרת</l>
+          <l>יש בה חן ונשמה</l>
+          <l>אם אשיר בה עם אחרת</l>
+          <l>תישבר היא מעצמה...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אי, אי, אי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

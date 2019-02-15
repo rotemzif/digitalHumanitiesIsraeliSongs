@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זאת את 4</title>
+        <singer classification="male singer">עידן יניב</singer>
+        <writer>סהר חגי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זאת את</head>
+        <lg number="1" type="stanza">
+          <l>מה יותר חזק אהבה או פחד</l>
+          <l>מהו המחרחק הנכון</l>
+          <l>למה כשלבד מבקש ביחד</l>
+          <l>הכח להפסיד לרצון</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זאת את הכח להמשיך</l>
+          <l>ויודע שצריך אותך איתי</l>
+          <l>כדי לראות כדי לשמוע</l>
+          <l>איתך יכול לצבוע </l>
+          <l>את החושך בצבע אור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה שניקח זה יהיה שלנו</l>
+          <l>למה שנמשיך לחכות</l>
+          <l>איך שהימים ישנו אותנו</l>
+          <l>הכח לעמוד במקום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זאת את הכח להמשיך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

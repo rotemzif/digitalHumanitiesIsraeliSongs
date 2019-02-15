@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה זה אשלם לדודי</title>
+        <singer classification="unknown">להקת כתונת הפסים</singer>
+        <writer>שמואל הנגיד</writer>
+        <composer>ציונה לירון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה זה אשלם לדודי</head>
+        <lg number="1" type="stanza">
+          <l>מה זה אשלם לדודי על כי יפלח כבדי?</l>
+          <l>אם אחליפו באחר - אמיר בקלון כבודי,</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה, מה, לדודי</l>
+          <l>מה זה אשלם לדודי לדודי...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הנה אגלה צפוני לו ואביאו בסודי:</l>
+          <l>אם בא ועמד לנגדי אקוד ואשק לידי!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה, מה, לדודי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתנה מהשמיים</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>שרית חדד</composer>
+        <album>משוגע עלייך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתנה מהשמיים</head>
+        <lg number="1" type="stanza">
+          <l>יש לך זוג עיניים מתנה מהשמיים </l>
+          <l>את פשוט הכי יפה שיש</l>
+          <l>גן עדן קטן שלך ושלי</l>
+          <l>יושבים על ענן רק את ואני</l>
+          <l>הלילה חלף נעלם</l>
+          <l>איתך אני מרגיש מלך העולם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הבוקר בא כל כך מהר</l>
+          <l>שלעולם לא יגמר</l>
+          <l>הרגש והאש</l>
+          <l>כי את הכי יפה שיש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שמש צהריים השעה כמעט שתיים</l>
+          <l>והזמן עובר כל כך מהר</l>
+          <l>צחקנו הרבה שתינו קפה</l>
+          <l>איתך החיים מסתדרים לי יפה</l>
+          <l>וכל דקה היא חגיגה</l>
+          <l>כי את הכי יפה אני נשבע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הבוקר בא כל כך מהר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

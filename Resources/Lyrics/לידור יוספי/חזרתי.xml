@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חזרתי 2</title>
+        <singer classification="male singer">לידור יוספי</singer>
+        <writer>ברק רוני</writer>
+        <composer>ברק רוני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חזרתי</head>
+        <lg number="1" type="stanza">
+          <l>חזרתי....</l>
+          <l>עברו הרבה שנים מאז הלכתי</l>
+          <l>רציתי לנסות את העולם לראות</l>
+          <l>עד קצה האופק</l>
+          <l>אבל שכחתי אותך מאחור</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חזרתי....</l>
+          <l>וכלום לא השתנה הכל הכרתי</l>
+          <l>קיוויתי שאולי יש בליבך אלי</l>
+          <l>קצת אהבה</l>
+          <l>חשבתי שאיתך אפשר להחזיר הכל</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אין לאן לחזור</l>
+          <l>הכל נראה שחור ולא מוכר</l>
+          <l>את כבר לא לבד</l>
+          <l>ומאחור גם לא השארתי דבר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חזרתי....</l>
+          <l>עייפתי נדודים התגעגעתי</l>
+          <l>רציתי לחבקך לחוש את חום גופך</l>
+          <l>לחיות לצידך</l>
+          <l>לו רק יכולת אותי כמו פעם לאהוב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אין לאן לחזור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

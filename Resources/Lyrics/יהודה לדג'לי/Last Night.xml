@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Last Night</title>
+        <singer classification="unknown">יהודה לדג לי</singer>
+        <writer>אלי בריקמן</writer>
+        <composer>אלי בריקמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Last Night</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>And I know it's easy to forget me </l>
+          <l>And I know it's hard to understand </l>
+          <l>And I hope you like what you find </l>
+          <l>And I hope I stick in your mind </l>
+          <l>And that you think of me sometimes </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Remember what you told me last night... </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>I had such a good time </l>
+          <l>We had the best time </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>And I know... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>Morning sun shines through my window </l>
+          <l>Evening comes and I'm still waiting here </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>I get up and read the paper </l>
+          <l>I'm just trying to move on</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אישה בוגרת</title>
+        <singer classification="unknown">עופר דהאן</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אישה בוגרת</head>
+        <lg number="1" type="stanza">
+          <l>היה זה קשר נאמן,</l>
+          <l>היינו יחד כל הזמן</l>
+          <l>וכך עברו שנים.</l>
+          <l>פתאום הפכה היא לאישה</l>
+          <l>ומה קשה ההרגשה,</l>
+          <l>אך היא שמרה לי אמונים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ילדה אוהבת שהיתה לי,</l>
+          <l>אישה בוגרת נהייתה לי</l>
+          <l>אך מה הופתעתי ושמחתי</l>
+          <l>שהיא נתנה לי הכל:</l>
+          <l>את שתי עיניה ופניה,</l>
+          <l>את שפתותיה וחיוכיה,</l>
+          <l>את שתי ידיה ודודיה -</l>
+          <l>כן, היא נתנה לי הכל.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פתאום הבנתי איך אפשר</l>
+          <l>לקום בבקר מאושר</l>
+          <l>בזמן שיש לי אישה.</l>
+          <l>לתת לה פרח ריחני</l>
+          <l>ושוב לומר לה שאני</l>
+          <l>נורא אוהב רק אותה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ילדה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

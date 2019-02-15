@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לחלום 4</title>
+        <singer classification="unknown">יעל נעים</singer>
+        <writer>יעל נעים</writer>
+        <composer>יעל נעים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לחלום</head>
+        <lg number="1" type="stanza">
+          <l>רציתי כנפיים אל האופק בינתיים </l>
+          <l>רציתי לגשת מעבר לקשת </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תני לו לחלום בנאדם </l>
+          <l>הוא צריך לחלום </l>
+          <l>תני לו לנשום בנאדם </l>
+          <l>מבקש לנשום </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יש לי עצב </l>
+          <l>ובא לי פתאום להפליג על המים </l>
+          <l>יש לי קסם </l>
+          <l>ובא לי פתאום להמריא לשמים </l>
+          <l>יש לי זמן להביט ולחלום </l>
+          <l>על היום על שלשום </l>
+          <l>ועל מחרתיים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רציתי לגעת באושר שלנו </l>
+          <l>רציתי לדעת מאיפה באנו </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תן לה לצחוק בנאדם </l>
+          <l>היא צריכה לצחוק </l>
+          <l>תן לה לראות את לבך </l>
+          <l>הוא רוצה לחיות </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יש לי עצב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

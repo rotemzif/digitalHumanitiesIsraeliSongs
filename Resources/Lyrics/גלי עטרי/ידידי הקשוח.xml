@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ידידי הקשוח</title>
+        <singer classification="female singer">גלי עטרי</singer>
+        <writer>דפנה אילת</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ידידי הקשוח</head>
+        <lg number="1" type="stanza">
+          <l>פעם הייתי ככה ממהרת כל הזמן</l>
+          <l>כמותך אהה</l>
+          <l>פעם הייתי ככה מחליטה בשביל כולם</l>
+          <l>כמותך אהה</l>
+          <l>לא לא אני לא מטיפה לך</l>
+          <l>רוצה רק שתתפוס שלווה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עד מתי תמשיך לברוח</l>
+          <l>הרגע וצחק</l>
+          <l>אולי תפסיק להיות חזק</l>
+          <l>ומתי תתחיל לשמוח</l>
+          <l>די להיות גיבור</l>
+          <l>הגבורה הזאת את ליבך תשבור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פעם הייתי רצה עם הראש בעננים</l>
+          <l>כמותך אהה</l>
+          <l>ולא ידעתי טעם של שלווה ומרחבים</l>
+          <l>כמותך אהה</l>
+          <l>אל תתעקש להיות לבד</l>
+          <l>אל תתבייש ותן לי יד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עד מתי תמשיך לברוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

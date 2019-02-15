@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בדרך התבור</title>
+        <singer classification="male singer">דקלון</singer>
+        <writer>בנימין אביגל</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בדרך התבור</head>
+        <lg number="1" type="stanza">
+          <l>בדרך התבור הלכתי לבדי</l>
+          <l>מאחורי שמעתי קול פרסה.</l>
+          <l>הפניתי את ראשי, ראיתי לידי</l>
+          <l>רוכב צעיר ישוב על גב סוסה.</l>
+          <l>שאל: "לאן ילדה?" - עניתי: "להרים"</l>
+          <l>והוא אותי על סוסתו הרים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ומיני אז נגלה לי רז</l>
+          <l>כי זה שבמשעול דהר את לבבי שבה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דהרנו בהרים כרוח סערה</l>
+          <l>עד אפלה כיסתה גם הר וגיא</l>
+          <l>לפתע נעצר ושח לי: "נערה,</l>
+          <l>אני כעת חוזר אל עדרי.</l>
+          <l>חכי אשובה כאן למחרת שנית" -</l>
+          <l>ונעלם בדהרה פראית.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ומיני אז נגלה לי רז...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>והוא חזר שנית ביום המחרת</l>
+          <l>מאחוריו פסעו ראשי בקר</l>
+          <l>הוא לעברי רכב ולצידי עמד</l>
+          <l>מאוכפו ניער את העפר</l>
+          <l>ושח: "חזרתי שוב אלייך, עלמתי,</l>
+          <l>עלי שנית, נדהר על סוסתי".</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ומיני אז נגלה לי רז...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

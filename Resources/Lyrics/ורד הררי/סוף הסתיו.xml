@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סוף הסתיו</title>
+        <singer classification="female singer">ורד הררי</singer>
+        <writer>ורד הררי</writer>
+        <composer>מירב רוט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סוף הסתיו</head>
+        <lg number="1" type="stanza">
+          <l>העיר קבלה גוון ורוד</l>
+          <l>של סוף הסתיו,</l>
+          <l>העצים ערומים עכשיו,</l>
+          <l>שומעת איש צועק</l>
+          <l>את שמי ברחוב</l>
+          <l>הוא קורא לשווא.</l>
+          <l>רוצה לאהוב ללא גבולות,</l>
+          <l>בלי שאלות,</l>
+          <l>השמיים רועדים.</l>
+          <l>רוצה לשמוח בלי סיבה,</l>
+          <l>בלי מעצורים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שרה לך.</l>
+          <l>שרה כדי לא להיות לבד.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>העיר ציירה לי ים כחול</l>
+          <l>בסוף הסתיו,</l>
+          <l>השמיים אדומים,</l>
+          <l>ציירה לי אהבה</l>
+          <l>ודג זהב.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שרה לך.</l>
+          <l>שרה כדי לא להיות לבד.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>"מתי תהיה פה?" השקט שואל,</l>
+          <l>"אולי גם אתה פוחד להיות לבד?"</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דמעות באפלה</title>
+        <singer classification="male singer">רמי קלינשטיין</singer>
+        <writer>אורן נאמן</writer>
+        <composer>רמי קלינשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דמעות באפלה</head>
+        <lg number="1" type="stanza">
+          <l>דמעות על הריסים </l>
+          <l>והלחש השבור </l>
+          <l>את בפינה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בשרוולים פרושים</l>
+          <l>מתעטף הסיפור </l>
+          <l>ילדה קטנה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כמה צעקות </l>
+          <l>מתאפקות בשתיקתך </l>
+          <l>כמה מכות </l>
+          <l>ובחלומך </l>
+          <l>את יפה כל כך </l>
+          <l>בעינייך החיוך נפקח </l>
+          <l>את עפה ועולה</l>
+          <l>אל מקום רחוק נפלא </l>
+          <l>ופתאום נקרעת שנתך </l>
+          <l>והיד באפלה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>על עור גופך החם </l>
+          <l>האימה חרטה צלקת </l>
+          <l>תמיד היא שם </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>במבטך התם </l>
+          <l>בוערים לילות בלי שקט </l>
+          <l>את אדישה </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כמה צעקות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

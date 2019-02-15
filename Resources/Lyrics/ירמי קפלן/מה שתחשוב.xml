@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה שתחשוב</title>
+        <singer classification="male singer">ירמי קפלן</singer>
+        <writer>ירמי קפלן</writer>
+        <composer>ירמי קפלן</composer>
+        <album>לרע ולטוב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה שתחשוב</head>
+        <lg number="1" type="stanza">
+          <l>מסביב יש אלוהים, בפנים יש רק אני</l>
+          <l>ובינינו יש שטן שמתגרה, קח מזה וקח מזה</l>
+          <l>יש לו מרגלים, הם מדווחים לו על כל צעד</l>
+          <l>מחפשים את החולשות שלך ואז מספרים לו סוד דבר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל מה שתחשוב</l>
+          <l>אלף מלאכים עומדים מעלי, רואים הכל</l>
+          <l>כל מה שתחשוב</l>
+          <l>אלף מלאכים עומדים מעלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מסביב יש אלוהים, בפנים יש רק אני</l>
+          <l>מתלבט על כל בחירה</l>
+          <l>שמא תקבע אם לגן עדן או לגיהנום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל מה שתחשוב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מתלבט על כל בחירה</l>
+          <l>שמא תקבע אם לגן עדן או לגיהנום</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כל מה שתחשוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

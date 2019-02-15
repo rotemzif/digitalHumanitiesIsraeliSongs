@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נעזבים</title>
+        <singer classification="band">מלכת הפלקט</singer>
+        <writer>ברק גביזון</writer>
+        <composer>אמיתי אשר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נעזבים</head>
+        <lg number="1" type="stanza">
+          <l>דגל מפלגה מואר בשני צבעים</l>
+          <l>אוהל פלסטיק מאובטח יש שם תקציבים</l>
+          <l>צועד לאט כאילו לאורכו של חדר</l>
+          <l>ממש כמו שאמרת לי אנחנו רק שורדים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נעזבים...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כבר מזמן שכחתי איזה כדור לקחתי</l>
+          <l>זה בטח מעודד שהוא כבר לא כאן</l>
+          <l>הזדמנות גדולה נפלה לי לכפות ת'עצמי</l>
+          <l>ממש כמו שאמרת לי אנחנו רק שורדים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נעזבים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

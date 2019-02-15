@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עומד על הרגליים</title>
+        <singer classification="male singer">משה פרץ</singer>
+        <writer>משה פרץ</writer>
+        <composer>קובי פרץ</composer>
+        <album>אלייך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עומד על הרגליים</head>
+        <lg number="1" type="stanza">
+          <l>לפעמים אני יודע איך</l>
+          <l>לשטות ברגשותייך</l>
+          <l>כמו שאראה אותו איתך יושב</l>
+          <l>אז יכאב לי קצת אולי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מחכה שיעבור הזמן</l>
+          <l>וליבי שוב יתמלא באושר</l>
+          <l>לעשות הכל אני מוכן</l>
+          <l>ועל זה את תשלמי ביוקר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תראי איך שאני עומד על הרגליים</l>
+          <l>אני רוקד עכשיו ועף אל השמיים </l>
+          <l>תראי איך שאני עומד על הרגליים</l>
+          <l>אני רוקד עכשיו ועף אל השמיים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לפעמים נראה לי קצת קשה</l>
+          <l>לעשות הכל לבד</l>
+          <l>התרגלתי ליותר מזה</l>
+          <l>אך בסך הכל נחמד</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מחכה שיעבור הזמן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

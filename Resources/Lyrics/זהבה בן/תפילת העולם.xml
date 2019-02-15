@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תפילת העולם</title>
+        <singer classification="female singer">זהבה בן</singer>
+        <writer>יואב גינאי</writer>
+        <composer>עממי הודי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תפילת העולם</head>
+        <lg number="1" type="stanza">
+          <l>הפלגתי לים הפתוח, נסעתי רחוק כמו הרוח</l>
+          <l>מעבר הרם נערה היא, חציתי מדבר וגם מים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הגעתי לארץ העצב, חניתי לנוח עם ערב</l>
+          <l>בדנהר הדמעות אז טבלתי, ואל אלוהי התפללתי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תפילת העולם מהדהדת, בסוף החולות והמים</l>
+          <l>ושני מלאכים מהתכלת, נושאים את הקול לשמים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הנחתי ראשי מעל אבן, ציפור אלופה מגן עדן</l>
+          <l>המריאה בכל כוחותיה נשאה חלומי בכנפיה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תפילת העולם מהדהדת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

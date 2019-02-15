@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צור מנתי</title>
+        <singer classification="female singer">גילה בשארי</singer>
+        <writer>רבי שלום שבזי</writer>
+        <composer>עממי תימני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צור מנתי</head>
+        <lg number="1" type="stanza">
+          <l>צור מנתי וחמדת חלקי</l>
+          <l>צור מנתי</l>
+          <l>צור מנתי וחמדת חלקי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>צור מנתי וחמדת חלקי, חלקי</l>
+          <l>צור מנתי וחמדת חלקי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>צור מנתי וחמדת חלקי, חלקי</l>
+          <l>צור מנתי וחמדת חלקי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הגברת שבטי חזקי, חזקי</l>
+          <l>הגברת שבטי חזקי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הגברת שבטי חזקי, חזקי</l>
+          <l>הגברת שבטי חזקי</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>צור מנתי וחמדת חלקי, חלקי</l>
+          <l>צור מנתי וחמדת חלקי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

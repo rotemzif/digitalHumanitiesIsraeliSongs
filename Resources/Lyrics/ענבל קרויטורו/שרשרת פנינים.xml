@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שרשרת פנינים</title>
+        <singer classification="unknown">ענבל קרויטורו</singer>
+        <writer>ענבל קרויטורו</writer>
+        <composer>נועם פנחסוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שרשרת פנינים</head>
+        <lg number="1" type="stanza">
+          <l>מראה על הקיר</l>
+          <l>מוצבת מולה</l>
+          <l>והיא לא רואה</l>
+          <l>טלוויזיה שקטה</l>
+          <l>ברעש גובר</l>
+          <l>אבל היא מזמן לא מקשיבה</l>
+          <l>זמן לוותר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מדברים, היא שומעת</l>
+          <l>וכבר הספיקה לשכוח</l>
+          <l>הוא לא יכול לסלוח</l>
+          <l>היא איבדה עניין</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הכל זה עניין</l>
+          <l>של רגע מוטעה</l>
+          <l>פעם פשוטה</l>
+          <l>אשליה מתוקה</l>
+          <l>מערה של פחדים</l>
+          <l>מסתתרת בתוך מה שחושבים</l>
+          <l>שרשרת פנינים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מדברים, היא שומעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

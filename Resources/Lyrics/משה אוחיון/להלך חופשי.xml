@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>להלך חופשי</title>
+        <singer classification="unknown">משה אוחיון</singer>
+        <writer>משה אוחיון</writer>
+        <composer>משה אוחיון</composer>
+        <album>ריבוי העדין</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>להלך חופשי</head>
+        <lg number="1" type="stanza">
+          <l>תֵּן לְזֶה לְהַלֵּךְ חָפְשִׁי</l>
+          <l>לִיצֹר בְּזֶה שְׁכָבוֹת</l>
+          <l>לְמָלֵא אֶת הֶחָלָל</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תֵּן לְזֶה לְהִתְנַגֵּן אִטִּי</l>
+          <l>זֶה מִסְתַּמֵּן לְפֶתַע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תֵּן לְזֶה לְהַרְהֵר נָקִי</l>
+          <l>מִישֶׁהוּ מְוַתֵּר וְיֶשְׁנָהּ תְּחוּשָׁה</l>
+          <l>שֶׁזֶּה נוֹלַד כָּכָה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תֵּן לְזֶה לְהִשְׁתָּאוֹת</l>
+          <l>זֶה נוֹגֵעַ</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תֵּן לְזֶה לְהַלֵּךְ עָדִין</l>
+          <l>גַּם הָרַכּוּת עֵרָה לִרְחָשִׁים שֶׁנִּשְׁתַּכְּחוּ</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תֵּן לְזֶה לְהִשְׁתָּאוֹת</l>
+          <l>זֶה נוֹגֵעַ</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

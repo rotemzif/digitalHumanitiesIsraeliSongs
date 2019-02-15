@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אדומים ברוח</title>
+        <singer classification="male singer">רמי פורטיס</singer>
+        <writer>רמי פורטיס</writer>
+        <composer>ברי סחרוף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אדומים ברוח</head>
+        <lg number="1" type="stanza">
+          <l>כן, הדמעות יבשו כבר</l>
+          <l>והכל רחוק וזר</l>
+          <l>ורק עלי שלכת</l>
+          <l>אדומים ברוח</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כן, השקרים כבר כבו,</l>
+          <l>מהקינאה נשאר הצל</l>
+          <l>ורק עקבות בדרך</l>
+          <l>מוליכים לשום מקום</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עוד עונה חולפת,</l>
+          <l>משאירה אותך יבש,</l>
+          <l>ושואל מדוע</l>
+          <l>עוד עונה חולפת,</l>
+          <l>משאירה אותך צוחק,</l>
+          <l>ואומר, יהיה בסדר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אתה מסיר את התלבושת</l>
+          <l>שהתהלכת בה שנים</l>
+          <l>פותח שני עיניים</l>
+          <l>ומיישר את הקמטים</l>
+          <l>סתם פועל של בית חרושת</l>
+          <l>שנקרא חיים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עוד עונה חולפת,</l>
+          <l>משאירה אותך יבש,</l>
+          <l>ושואל מדוע</l>
+          <l>עוד עונה חולפת,</l>
+          <l>משאירה אותך צוחק,</l>
+          <l>ואומר, יהיה בסדר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קונפטי</title>
+        <singer classification="unknown">ליהי עטר</singer>
+        <writer>מאיר גולדברג</writer>
+        <composer>אסף אברבוך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קונפטי</head>
+        <lg number="1" type="stanza">
+          <l>על חוף הים עם ארטיק</l>
+          <l>ופופקורן בקולנוע</l>
+          <l>אני תמיד אמרתי </l>
+          <l>כולם יורים גבוה</l>
+          <l>עולם שלא הכרתי </l>
+          <l>באופק השתרע</l>
+          <l>אני תמיד אמרתי </l>
+          <l>שעוד נתגעגע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שדות של קונפטי</l>
+          <l>ריקוד קצת פאתטי</l>
+          <l>אבל האמת היא </l>
+          <l>שעוד נתגעגע לאייטיז</l>
+          <l>כמעט שהבראתי</l>
+          <l>וגם התוודיתי </l>
+          <l>אבל האמת היא </l>
+          <l>שעוד נתגעגע לאייטיז</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דברים שלא סיפרתי</l>
+          <l>גם לא נעים לשמוע</l>
+          <l>אמרו שהתמכרתי לרעש המנוע</l>
+          <l>נגיד שהתבגרתי</l>
+          <l>בינינו מי יודע</l>
+          <l>אני תמיד אמרתי </l>
+          <l>שעוד נתגעגע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שדות של קונפטי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

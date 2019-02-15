@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יותר מדי 8</title>
+        <singer classification="male singer">משה פרץ</singer>
+        <writer>משה פרץ</writer>
+        <composer>דודו אהרון</composer>
+        <album>אלייך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יותר מדי</head>
+        <lg number="1" type="stanza">
+          <l>כשאת נוגעת זה בוער בפנים</l>
+          <l>שאת צוחקת זה מצחיק אותי</l>
+          <l>רק את גורמת לי לחיות באהבה, שאין לה דעת</l>
+          <l>את מבלבלת לי את החושים ומנסה כל פעם להרשים</l>
+          <l>אבל זה לא קונה אותי את כבר צריכה לדעת...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אולי אני אוהב אותך יותר מדי</l>
+          <l>אולי אולי...</l>
+          <l>אולי אם תוותרי עלי זה לא יהיה כדאי אולי...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז אם תנסי רק פעם להקשיב</l>
+          <l>ואת הטוב אלינו להשיב,</l>
+          <l>זה רק יגרום לנו לאושר ושמחה כמו פעם</l>
+          <l>את מבלבלת לי את החושים</l>
+          <l>ומנסה כל פעם להרשים</l>
+          <l>אבל זה לא קונה אותי את כבר צריכה לדעת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אולי אני אוהב אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

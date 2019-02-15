@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את 299</title>
+        <singer classification="unknown">להקת סהרה</singer>
+        <writer>סמי שלום שטרית</writer>
+        <composer>שמעון בוסקילה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את</head>
+        <lg number="1" type="stanza">
+          <l>אתה ששרת שירים להמס לבבי.</l>
+          <l>אתה ששזרת חרוזי אהבה בשערי.</l>
+          <l>אתה שקידשת נעורי עד תום נערי.</l>
+          <l>אתה שרשמת הבטחה בלשונך על גופי:</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חכי אהובה, לי תהיי אחת ויחידה</l>
+          <l>חכי אהובה, לי תהיי אחת ויחידה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ובחלומי עודני,</l>
+          <l>מחבקת לא מרפה.</l>
+          <l>כל השנים הריני,</l>
+          <l>חיה בשבילך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עכשיו שחזרת עייף מתוך סבך השנים.</l>
+          <l>עכשיו אתה בא ואיש כבר ישן לצידי.</l>
+          <l>עכשיו אתה בא ושנות דור חרותות בפנים.</l>
+          <l>עכשיו אתה כאן אך קולך נאלם נערי:</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>חכי אהובה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

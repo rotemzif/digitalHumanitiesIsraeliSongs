@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גן עדן 8</title>
+        <singer classification="female singer">מרגלית צנעני</singer>
+        <writer>יואב גינאי</writer>
+        <composer>מרגלית צנעני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גן עדן</head>
+        <lg number="1" type="stanza">
+          <l>מאז לעד גורש אדם</l>
+          <l>הוא עוד מייחל לשם - לגן עדן</l>
+          <l>אלפי דורות עברו מכאן</l>
+          <l>ורק שם עצר הזמן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ציפורים מכושפות עוד שרות לנשמה</l>
+          <l>שם עולה תמיד זריחה אין מדבר ואין שממה</l>
+          <l>מלאכים מרחפים ברקיע הקסום</l>
+          <l>והחרב עוד שומרת על השער החסום בגן עדן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ובין הלילה והיום</l>
+          <l>מרחוק רואים פתאום - את גן עדן</l>
+          <l>וכשהאושר מתקרב</l>
+          <l>אז הלב כל כך רעב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ציפורים מכושפות...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ורק כשאדם אוהב</l>
+          <l>אור גדול אותו שוטף - מגן עדן</l>
+          <l>ואז לפתע רגע קט</l>
+          <l>הוא טועם אותו מעט</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ציפורים מכושפות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

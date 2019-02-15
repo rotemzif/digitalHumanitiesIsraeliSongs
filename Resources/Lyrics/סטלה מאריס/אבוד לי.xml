@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבוד לי</title>
+        <singer classification="band">סטלה מאריס</singer>
+        <writer>פבלו רוזנברג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבוד לי</head>
+        <lg number="1" type="stanza">
+          <l>שבע ילדות שיחקו שם,</l>
+          <l>ואני לבד עמדתי בצד.</l>
+          <l>היא הושיטה יד, עם כפית זהב,</l>
+          <l>הסתנוורתי לא הבנתי כיצד.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כינורות ירדו מתוך השמיים,</l>
+          <l>ועימם גם עשרה גמדים.</l>
+          <l>הם ניגנו מיד, עד שזה כאב,</l>
+          <l>אחר כך הסתלקו בצמדים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אבוד לי בלי שום מקום,</l>
+          <l>אבוד לי בלי שום מקום.</l>
+          <l>לא מבין מה שלא מוכר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איך שהם הלכו היא קראה לי,</l>
+          <l>ואני בכלל רציתי לחזור,</l>
+          <l>איפה הכיוון? זה לא הגיוני!</l>
+          <l>שמישהו כבר יבוא לעזור.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אבוד לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בשקט 9</title>
+        <singer classification="unknown">שירלי נוב</singer>
+        <writer>סהר חגי</writer>
+        <composer>ניצן קייקוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בשקט</head>
+        <lg number="1" type="stanza">
+          <l>לוקחת הכל, משאירה לך אוויר.</l>
+          <l>נוסעת רחוק,</l>
+          <l>לא תמצא אותי בעיר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הבית נקי, ממני אין כלום</l>
+          <l>תשובות על הקיר</l>
+          <l>תגלה כשתקום.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בשקט,</l>
+          <l>מדלת הכניסה יוצאת</l>
+          <l>אוויר כחול, נקי בועט</l>
+          <l>ללכת,</l>
+          <l>לרוץ לאט בכביש מהיר</l>
+          <l>לשכוח את מה שמזכיר אותך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בלילה הזה, מחקנו חיוך</l>
+          <l>טיפסנו לאט למקום הכי נמוך.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>סודות על שולחן, אתה בשלך.</l>
+          <l>ליד המבט יש קמט של סליחה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בשקט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

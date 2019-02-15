@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלום שחוזר</title>
+        <singer classification="unknown">משה חוף</singer>
+        <writer>שלמה כישור</writer>
+        <composer>שלמה כישור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלום שחוזר</head>
+        <lg number="1" type="stanza">
+          <l>מכל החלומות אותם אני חולם,</l>
+          <l>נשאר חלום אחד שהוא תמיד חוזר</l>
+          <l>ובו אני חולם שיש לי נערה</l>
+          <l>ויש לי גם חבר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה חלום שחוזר </l>
+          <l>כל הזמן ובוער</l>
+          <l>בתוכי כאש-להבה.</l>
+          <l>מימי ילדותי</l>
+          <l>מלווה הוא אותי,</l>
+          <l>מלווה באהבה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ולפעמים אני חוזר ומהרהר,</l>
+          <l>חולם לי בהקיץ על כל החלומות</l>
+          <l>ואז אני מבין שטוב שיש חבר</l>
+          <l>ויש גם נערות.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה חלום...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אסור להישאר סגור ומבודד,</l>
+          <l>אפילו שאדם תמיד נולד לבד.</l>
+          <l>צריך להיפתח, להיות בין אנשים</l>
+          <l>ולראות את העולם.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה חלום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי זה 4</title>
+        <singer classification="unknown">בן אלקיים</singer>
+        <writer>בן אלקיים</writer>
+        <composer>בן אלקיים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי זה</head>
+        <lg number="1" type="stanza">
+          <l>מי זה שגורם לך לחייך</l>
+          <l>מי זה שגורם לי להתהפך בלילה</l>
+          <l>ומה אני בשבילך חוץ מהבכי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז אל תגידי לי שאת סתם עייפה</l>
+          <l>כבר חודשיים את עם אותו מבט</l>
+          <l>ואל תגידי לי שסתם היה לך יום רע</l>
+          <l>אני מכיר את הפרצוף הזה שלך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מי זה שגורם לך להתרחק</l>
+          <l>ומי זה שאת חוזרת מאוחר בלילה?</l>
+          <l>ומה אני בשבילך חוץ מהבכי?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז אל תגידי לי שאת סתם עייפה</l>
+          <l>כבר חודשיים את עם אותו מבט</l>
+          <l>ואל תגידי לי שסתם היה לך יום רע</l>
+          <l>אני מכיר את הפרצוף הזה שלך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

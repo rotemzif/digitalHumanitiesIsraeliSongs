@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כוכב כבוי</title>
+        <singer classification="female singer">גליה ירון</singer>
+        <writer>גליה ירון</writer>
+        <composer>גליה ירון</composer>
+        <album>אף מילה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כוכב כבוי</head>
+        <lg number="1" type="stanza">
+          <l>רוב הזמן על רטט רוב הזמן כוכב כבוי</l>
+          <l>לעזאזל ממה הזמן שלך עשוי</l>
+          <l>הלב מודבק חזק אבל נשאר חצוי</l>
+          <l>זה אביתר שאמר שיש לי סיכוי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רוב הזמן על רטט רוב הזמן בממתינה</l>
+          <l>לעזאזל מתי תחליפי תחנה</l>
+          <l>במקום לרוץ מהר הולכת על סיכות</l>
+          <l>דוקר אותך וזה דוקר שבא לבכות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>דוהרת בלי מושכות על הכביש הפתוח</l>
+          <l>משנה צורות, מתחרזת עם רוח</l>
+          <l>ניצוצות על הכביש הפתוח</l>
+          <l>משנה צורות מתחרזת עם רוח</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל הלילה במיטה סופרת לזריחה</l>
+          <l>תבוא או לא תבוא את כבר לא בטוחה</l>
+          <l>לקחת אך ורק את מה שאת צריכה</l>
+          <l>על המרפסת מתכננת ת'בריחה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>דוהרת בלי מושכות על הכביש הפתוח</l>
+          <l>משנה צורות, מתחרזת עם רוח</l>
+          <l>ניצוצות על הכביש הפתוח</l>
+          <l>משנה צורות מתחרזת עם רוח</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

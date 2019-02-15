@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אתמול 6</title>
+        <singer classification="unknown">עלמה זהר</singer>
+        <writer>עלמה זהר</writer>
+        <composer>עלמה זהר</composer>
+        <album>לחם אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אתמול</head>
+        <lg number="1" type="stanza">
+          <l>אתמול היה יום טוב</l>
+          <l>טיילנו עד לקצה הרחוב</l>
+          <l>שדה של חרציות שפורחות</l>
+          <l>אלף שמשות שזורחות</l>
+          <l>נפלנו בניהן</l>
+          <l>ואי אפשר לראות אותנו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שפתיים מלוחות</l>
+          <l>עיניים שפקוחות לרווחה</l>
+          <l>ראיתי רק אותך מקרוב</l>
+          <l>בתוך השדה הצהוב</l>
+          <l>צחקנו בלי לחשוב</l>
+          <l>כי אי אפשר למצוא אותנו</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עוד מעט יגמר הזמן</l>
+          <l>תן לי יד ונברח מכאן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אתמול היה יום טוב</l>
+          <l>החלטנו לעזוב את הכל</l>
+          <l>נלך בלי להביט לאחור</l>
+          <l>ולא נחזור לעולם</l>
+          <l>אם נצא מוקדם</l>
+          <l>הם לא יוכלו לתפוס אותנו </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עוד מעט יגמר הזמן</l>
+          <l>תן לי יד ונברח מכאן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

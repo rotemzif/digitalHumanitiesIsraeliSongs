@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>במבט לאחור</title>
+        <singer classification="male singer">לידור יוספי</singer>
+        <writer>רענן שרעבי</writer>
+        <composer>לידור יוספי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>במבט לאחור</head>
+        <lg number="1" type="stanza">
+          <l>תשעה חודשים קרוב לליבך</l>
+          <l>מביט בעינייך ומלטף את שערך</l>
+          <l>כשאת נמצאת את נגשת אלי</l>
+          <l>חובקת אותי, אך יוצאת מחיי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>במבט לאחור את נראית לי שונה</l>
+          <l>אני לא יכול את לא מבינה</l>
+          <l>מביטה בעיניי ואומרת שלום</l>
+          <l>כל זה היה ונדמה כחלום.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מדוע הינך מסרבת לחזור</l>
+          <l>חייך שונו מלבן לשחור</l>
+          <l>כשאת מחליטה בדרך לבחור</l>
+          <l>מעדיפה את החושך על פני האור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>במבט לאחור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמונה 16</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>הנרי</writer>
+        <composer>הנרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמונה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אמונה מילה גדולה</l>
+          <l>אמונה כל כך שונה כל כך דומה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לפעמים אתה, לפעמים אני</l>
+          <l>לפעמים זה רק בדמיוני</l>
+          <l>כמה זמן אתה כמה זמן אני</l>
+          <l>כמה עוד נעבור פתרון זמני</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אמונה מילה גדולה</l>
+          <l>אמונה כל כך שונה, כל כך דומה</l>
+          <l>אמונה שתהיה לך</l>
+          <l>אמונה בעצמך שתחזיק אותך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כזה מצב מוזר</l>
+          <l>אתה מקומי או זר</l>
+          <l>אחד שלם שני משלים</l>
+          <l>אנשים שונים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אמונה מילה גדולה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

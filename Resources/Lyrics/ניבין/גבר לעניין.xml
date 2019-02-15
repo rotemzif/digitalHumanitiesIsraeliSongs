@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גבר לעניין 2</title>
+        <singer classification="unknown">ניבין</singer>
+        <writer>מרטין גל</writer>
+        <composer>מרטין גל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גבר לעניין</head>
+        <lg number="1" type="stanza">
+          <l>מחפשת אהבה,</l>
+          <l>גבר שמזיל דמעה.</l>
+          <l>לא מאצ'ו ומנופח,</l>
+          <l>שבסוף תמיד יברח.</l>
+          <l>לא חשוב מה שיגיד,</l>
+          <l>רק הרגש הוא יעיד.</l>
+          <l>אם זה גבר אמיתי,</l>
+          <l>ישאר תמיד איתי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואני עושה מה שבא לי,</l>
+          <l>עד שהוא יבחר,</l>
+          <l>יבחר בי.</l>
+          <l>רק שיהיה הגבר,</l>
+          <l>גבר לעניין.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא רוצה אחד שחקן,</l>
+          <l>שיבטיח לי עולם,</l>
+          <l>פה זה לא הוליווד,</l>
+          <l>אחד כזה אצלי אבוד.</l>
+          <l>שיבוא גם עם פרחים,</l>
+          <l>אלי כך מתנהגים,</l>
+          <l>שזה יהיה אצלו הרגל</l>
+          <l>לבוא אלי כל יום עם זר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואני עושה מה שבא לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

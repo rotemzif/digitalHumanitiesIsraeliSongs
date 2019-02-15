@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יומולדת 3</title>
+        <singer classification="male singer">ברי סחרוף</singer>
+        <writer>ברי סחרוף</writer>
+        <composer>ברי סחרוף</composer>
+        <album>חם על הירח</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יומולדת</head>
+        <lg number="1" type="stanza">
+          <l>היום יום הולדת</l>
+          <l>תראי יש פה סוד ישן חדש</l>
+          <l>לפרוס את הלחם</l>
+          <l>לגעת במשהו קצת מושלם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כבר אמצע הלילה</l>
+          <l>חשבתי אולי כדאי לישון</l>
+          <l>אבל משהו תקוע</l>
+          <l>תקוע עמוק בתוך הגרון</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>נכון את יודעת</l>
+          <l>כל כך משגעת</l>
+          <l>לפני שאת בורחת</l>
+          <l>בואי בלי פחד</l>
+          <l>קחי אותי ככה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היום יום הולדת</l>
+          <l>חשבתי כמעט על כל הפרטים</l>
+          <l>הזמנתי לך חדר</l>
+          <l>שמיים כחולים עם כוכבים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>נכון את יודעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

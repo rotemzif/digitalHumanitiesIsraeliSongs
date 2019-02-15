@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תגידי את אוהבת</title>
+        <singer classification="unknown">יוסי עדן</singer>
+        <writer>יוסי עדן</writer>
+        <composer>יוסי עדן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תגידי את אוהבת</head>
+        <lg number="1" type="stanza">
+          <l>בלילות אני חולם שאנחנו חברים</l>
+          <l>אך בבוקר מתעורר לבדי בין הסדנים</l>
+          <l>גורלי הוא גורלך, מזלי הוא מזלך</l>
+          <l>כל שתבקשי אתן הכל למענך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם תגידי את אוהבת</l>
+          <l>לך אתן את נשמתי</l>
+          <l>ביופייך את משגעת</l>
+          <l>וחודרת אל ליבי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לפעמים מתוך שינה אני קורא בשמך</l>
+          <l>את ילדה יפה כל כך אין ילדה יפה ממך</l>
+          <l>הסתכלתי אל עינייך ושקעתי בקסמייך</l>
+          <l>לך הגשים חלומותייך ביום וגם בליל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם תגידי את אוהבת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

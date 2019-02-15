@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סיפור קטן</title>
+        <singer classification="male singer">גיא מרוז</singer>
+        <writer>גיא מרוז</writer>
+        <composer>גיא מרוז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סיפור קטן</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אנשים טובים בסרנדות,</l>
+          <l>וילדים רוצים בובות.</l>
+          <l>היא חלמה על יופי עם קצת רגש,</l>
+          <l>והוא הבטיח ארמונות.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הוא רצה לחיות איתה והיא חשבה על מה היא,</l>
+          <l>הוא רצה איתה להיות והיא לבדה.</l>
+          <l>הוא הבטיח לה והיא אותו סרבה לשמוע,</l>
+          <l>ופה נגמר סיפור קטן.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אנשים טובים בסרנדות...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אנשים שטים ביחד על ספינה של פחד,</l>
+          <l>היא רצתה להיות רחוק מכאן.</l>
+          <l>אנשים שטים בזה רק בלי לדעת למה,</l>
+          <l>ופה נגמר סיפור קטן.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אנשים טובים בסרנדות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

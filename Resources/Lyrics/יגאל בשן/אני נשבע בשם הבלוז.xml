@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני נשבע בשם הבלוז</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>יגאל בשן</writer>
+        <composer>יגאל בשן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני נשבע בשם הבלוז</head>
+        <lg number="1" type="stanza">
+          <l>אני נשבע</l>
+          <l>שאת המנגינה</l>
+          <l>שמעתי כבר בעיר זרה</l>
+          <l>לא יודע</l>
+          <l>אולי זה טוב</l>
+          <l>אולי זה רע</l>
+          <l>כן אם תרצו</l>
+          <l>תקחו בחזרה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כאן יש מקום להורה</l>
+          <l>ויש מקום לג'ז</l>
+          <l>ויש מקום אחורה</l>
+          <l>אני זקוק לעוד חרוז</l>
+          <l>אני זקוק לעוד חרוז</l>
+          <l>יש לי בלוז</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בלוז יהודי</l>
+          <l>מכל הלב</l>
+          <l>לא מקורי אבל כואב</l>
+          <l>אוי אוי אוי אוי</l>
+          <l>הכל עובר</l>
+          <l>הכל זורם</l>
+          <l>ת'שיר הזה</l>
+          <l>אני תורם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כאן יש מקום להורה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני נשבע</l>
+          <l>בשם הבלוז</l>
+          <l>שאף תפוז</l>
+          <l>פה לא יזוז</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כאן יש מקום להורה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

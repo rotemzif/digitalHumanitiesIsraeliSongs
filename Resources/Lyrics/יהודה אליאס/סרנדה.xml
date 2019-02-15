@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סרנדה 10</title>
+        <singer classification="male singer">יהודה אליאס</singer>
+        <writer>אילן גולדהירש</writer>
+        <composer>מיקי גבריאלוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סרנדה</head>
+        <lg number="1" type="stanza">
+          <l>כבר כתבו על אהבה</l>
+          <l>עד אשר כבה הנר</l>
+          <l>מה נותר לי עוד לומר</l>
+          <l>אין כמוני מאושר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשאני רואה אותה</l>
+          <l>אור גדול בעלטה</l>
+          <l>בליבי נדלקת אש</l>
+          <l>ואתן לה מה שיש</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שמש אל תוך הים ירדה</l>
+          <l>חושך בתוך האור משתלב</l>
+          <l>אז אני שר לה סרנדה</l>
+          <l>כי רק אותה אני אוהב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שיר הוא שיר שלה</l>
+          <l>כי לילי הוא גם לילה</l>
+          <l>כי האהבה היא שי</l>
+          <l>שמתאים לי בחיי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם רק תתן לי יד</l>
+          <l>העולם שלי לעד</l>
+          <l>את כולי אני נותן</l>
+          <l>כי כמוה אין ליל אין</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שמש אל תוך הים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

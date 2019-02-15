@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כחול וירוק</title>
+        <singer classification="male singer">עמיר לב</singer>
+        <writer>עמיר לב</writer>
+        <composer>עמיר לב</composer>
+        <album>פעם בחיים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כחול וירוק</head>
+        <lg number="1" type="stanza">
+          <l>איך שלא תסתכלי על זה אנחנו מתרחקים</l>
+          <l>לא בא לארוחות לא שומר על קשר עם כולם</l>
+          <l>ואת לא הולכת לים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את רוצה שיהיה לי נוח שאני אגור בגבעתיים</l>
+          <l>אני אמות שם במרפסת באחד החגים</l>
+          <l>למטה יתאספו השכנים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>היית קונה לי ממתקים שאפסיק לצעוק</l>
+          <l>יד ביד היינו הולכים כחול וירוק</l>
+          <l>כחול וירוק</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את תאהבי אותי תמיד גם אם תהיה לי כרס</l>
+          <l>התאכזבת מהאישה שלי היא לא לבשה שמלה</l>
+          <l>ואני רוצה אותה רק אותה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>היית קונה לי ממתקים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אגדת שינה</title>
+        <singer classification="band">גמאגמא</singer>
+        <writer>טל וייצמן</writer>
+        <composer>גל הרפז גורודיסקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אגדת שינה</head>
+        <lg number="1" type="stanza">
+          <l>שמש בוקר מתעוררת</l>
+          <l>את ריסיה מפזרת</l>
+          <l>מלטפת את הערב</l>
+          <l>בצבעי אדום וחלב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמה צבע, כמה קסם</l>
+          <l>פעם ראשונה, בעצם</l>
+          <l>אומרים שמלך ופיה קטנה</l>
+          <l>באים מאגדת שינה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הו, בדרך קסם, משאלה</l>
+          <l>של לב וצער תלווה</l>
+          <l>אגדת שינה כחולה</l>
+          <l>אלפי גוונים להתמלא</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רמזים של אמת, בחירות של שקר</l>
+          <l>מרתקים את הדמיון</l>
+          <l>בארץ רוח מעורפלת</l>
+          <l>ומחוסרת הגיון</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>גם אתה מחזיר בינתיים</l>
+          <l>את הצבע לעיניים</l>
+          <l>ונכנס לתוך סיפור</l>
+          <l>שבו דבר אינו ברור</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הו, בדרך קסם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

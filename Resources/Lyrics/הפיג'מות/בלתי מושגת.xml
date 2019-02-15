@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלתי מושגת</title>
+        <singer classification="unknown">הפיג מות</singer>
+        <writer>רובי דואניאס</writer>
+        <composer>אילן רוזנפלד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלתי מושגת</head>
+        <lg number="1" type="stanza">
+          <l>גם אם מחר השמש לא תזרח</l>
+          <l>ויום לא יאיר</l>
+          <l>וגם אם מחר מדבר סיני יקפא</l>
+          <l>ופסל החירות יתחיל לשיר</l>
+          <l>גם אם יתהפכו ימין ושמאל</l>
+          <l>והאחורה ממולך</l>
+          <l>גם אם תתחנן</l>
+          <l>אני לא אהיה שלך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רד מזה, לא לעניין</l>
+          <l>לך אחורה כרגיל</l>
+          <l>אני לא רק קשה להשגה</l>
+          <l>אני בלתי מושגת</l>
+          <l>בלתי מושגת בעליל</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רד מזה, לא לעניין</l>
+          <l>לך אחורה כרגיל</l>
+          <l>אני לא רק קשה להשגה</l>
+          <l>אני בלתי מושגת</l>
+          <l>בלתי מושגת בעליל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני בלתי מושגת,</l>
+          <l>בלתי מושגת בעליל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

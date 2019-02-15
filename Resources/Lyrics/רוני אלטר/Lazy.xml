@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lazy</title>
+        <singer classification="female singer">רוני אלטר</singer>
+        <writer>רוני אלטר</writer>
+        <composer>רוני אלטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Lazy</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>My laziness occurs </l>
+          <l>Every day it burns </l>
+          <l>Covers me and pulls me down </l>
+          <l>Too lazy to protest </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Sneaks into my bed </l>
+          <l>Caught me unprepared </l>
+          <l>Once again it strikes me down </l>
+          <l>Another day is Dead </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Just close the door when you go out </l>
+          <l>Don’t let the light Reveal it all </l>
+          <l>That I’m Wrapped inside my own </l>
+          <l>And only want to be alone </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>My laziness occurs </l>
+          <l>Every day it burns </l>
+          <l>Covers me and pulls me down </l>
+          <l>Too lazy to protest</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את יודעת 4</title>
+        <singer classification="unknown">נאור אורמיה</singer>
+        <writer>דורון אלימלך</writer>
+        <composer>דורון אלימלך</composer>
+        <album>נאור אורמיה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את יודעת</head>
+        <lg number="1" type="stanza">
+          <l>את שותקת ואני יודע, </l>
+          <l>מעלינו אור גם בלילות </l>
+          <l>את צוחקת ואני בטוח </l>
+          <l>שנועדנו יחד להיות, </l>
+          <l>כמו טיפה בים נמצא תשובה </l>
+          <l>וניתן סיכוי לאהבה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את יודעת שאני שלך </l>
+          <l>משמיים שקט מבורך </l>
+          <l>יחד שנינו בעולם הזה, </l>
+          <l>יחד שנינו בואי ננסה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את שואלת ואני בלחש </l>
+          <l>מספר לך סוד של חלומות, </l>
+          <l>את הולכת ואני קורא לך </l>
+          <l>בידינו כוח לשנות, </l>
+          <l>כמו טיפה בים נמצא תשובה </l>
+          <l>וניתן סיכוי לאהבה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את יודעת שאני שלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

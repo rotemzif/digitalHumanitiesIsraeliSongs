@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוטשילד</title>
+        <singer classification="band">מרסדס בנד</singer>
+        <writer>גל תורן</writer>
+        <composer>גל תורן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוטשילד</head>
+        <lg number="1" type="stanza">
+          <l>אולי שכחתי את הגז,</l>
+          <l>אולי שברתי את הכד, </l>
+          <l>בטעות </l>
+          <l>אולי עישנתי יותר מדי </l>
+          <l>אולי שכחתי לטלפן אלייך </l>
+          <l>בטעות בטעות </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה לא בכוונה זה </l>
+          <l>את לא מאמינה לי </l>
+          <l>זה ככה זה אני זה </l>
+          <l>רק שעכשיו מאוחר מדי</l>
+          <l>מיותר מדי </l>
+          <l>מנוכר מדי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני שונא שקר </l>
+          <l>צועק לך ברוטשילד </l>
+          <l>איפה את </l>
+          <l>צועק לך ברוטשילד </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אולי לא שמתי מספיק לב אלייך </l>
+          <l>אולי נגעתי בחברותייך </l>
+          <l>בטעות </l>
+          <l>ברכות </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זה לא בכוונה זה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

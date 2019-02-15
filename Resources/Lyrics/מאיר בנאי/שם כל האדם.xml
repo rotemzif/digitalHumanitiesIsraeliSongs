@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שם כל האדם</title>
+        <singer classification="male singer">מאיר בנאי</singer>
+        <writer>מאיר בנאי</writer>
+        <composer>מאיר בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שם כל האדם</head>
+        <lg number="1" type="stanza">
+          <l>פוכח את עיני,</l>
+          <l>בתוך אותה חידה גדולה,</l>
+          <l>בתוך אותה סירה,</l>
+          <l>שבה אני שט כל חיי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הרחוב עדיין ריק,</l>
+          <l>מהמולה ומעשן.</l>
+          <l>ורק כלב מייבב,</l>
+          <l>באור הבוקר הלבן.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רגע אני כאן,</l>
+          <l>ורגע אני שם.</l>
+          <l>מעבר לרקיע,</l>
+          <l>ואז שוב בעולם.</l>
+          <l>רגע אני כאן,</l>
+          <l>ורגע אני שם.</l>
+          <l>היכן שמחשבתו נמצאת,</l>
+          <l>שם כל האדם.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>פותח את הרדיו,</l>
+          <l>הרבה קולות עוברים ליד.</l>
+          <l>עדיין אין שום דגל,</l>
+          <l>אשר אליו אני נצמד.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רגע אני כאן...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>שולח את עצמי גבוה,</l>
+          <l>על כנף תפילה ונעלם.</l>
+          <l>בחוץ הכלב המייבב,</l>
+          <l>אולי בעצם לא קיים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

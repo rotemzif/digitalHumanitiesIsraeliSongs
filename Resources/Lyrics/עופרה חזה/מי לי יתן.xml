@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי לי יתן 2</title>
+        <singer classification="unknown">עופרה חזה</singer>
+        <writer>בצלאל אלוני</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי לי יתן</head>
+        <lg number="1" type="stanza">
+          <l>מי לי יתן שתי אהבות כקדם</l>
+          <l>כך אתחזק בעצב הנעורים</l>
+          <l>מי לי יתן שתי אבוקות של זהר</l>
+          <l>כך אדלק כנוער האהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גלגל הזמן גולש</l>
+          <l>ואיש לאיש לוחש</l>
+          <l>תראה הזמן עבר</l>
+          <l>הזמן עבר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מי לי יתן שתי עלמות של חמד</l>
+          <l>שתי עלמות בחסד השקיעה</l>
+          <l>מי לי יתן חטא מחייך בבוקר</l>
+          <l>חטא מחייך באושר האהבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גלגל הזמן גולש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

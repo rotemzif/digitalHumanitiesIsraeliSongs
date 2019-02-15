@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק עוד יום 3</title>
+        <singer classification="male singer">רן עפרון</singer>
+        <writer>רן עפרון</writer>
+        <composer>רן עפרון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק עוד יום</head>
+        <lg number="1" type="stanza">
+          <l>הנה בוקר עולה, שוב אני מתעורר</l>
+          <l>ויוצא לרחוב</l>
+          <l>אין לי פחד מכלום, שום דבר לא בוער</l>
+          <l>רוצה רק לחיות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק עוד יום</l>
+          <l>רק עוד יום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את אומרת תמיד, לא צריך להגזים</l>
+          <l>מה הפחד לחלום?</l>
+          <l>לא קורא בעיתון, לא חושב מה נכון</l>
+          <l>רוצה רק לחיות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רק עוד יום</l>
+          <l>רק עוד יום</l>
+          <l>ולא אכפת לי, זה לא חשוב לי</l>
+          <l>זה לא בוער לי כאן כל כך</l>
+          <l>זה לא אומר כלום, זה לא חשוב כלום,</l>
+          <l>זה לא חשוב גם ממה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רק עוד יום</l>
+          <l>רק עוד יום</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

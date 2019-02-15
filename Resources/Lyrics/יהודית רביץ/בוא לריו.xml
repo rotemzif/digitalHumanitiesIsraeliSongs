@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוא לריו</title>
+        <singer classification="female singer">יהודית רביץ</singer>
+        <writer>ג'ורג'י בן</writer>
+        <composer>ג'ורג'י בן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוא לריו</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>בוא נרקוד עד אור הבוקר</l>
+          <l>בוא נשיר חזק עד השמיים</l>
+          <l>בוא נרקוד עד אור הבוקר</l>
+          <l>בוא נשיר חזק עד השמיים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בוא נרקוד לאור הירח</l>
+          <l>בוא הקרנבל כבר מתחיל</l>
+          <l>בוא איתי, עכשיו הזמן בורח</l>
+          <l>בוא איתי עד לאן שהלב לוקח</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בוא נרקוד עד אור הבוקר...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בוא נברח ליום או יומיים</l>
+          <l>בוא ניקח מטוס לברזיל</l>
+          <l>בוא לריו, נשכח הכל בינתיים</l>
+          <l>בוא נשמח עם כל הברזילאים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בוא נרקוד עד אור הבוקר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

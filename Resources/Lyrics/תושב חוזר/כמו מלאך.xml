@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו מלאך 3</title>
+        <singer classification="band">תושב חוזר</singer>
+        <writer>דרור לוקץ'</writer>
+        <composer>רונן ציוני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו מלאך</head>
+        <lg number="1" type="stanza">
+          <l>כמו מלאך, אם היית כאן לידי, אשמור אותך בסוד</l>
+          <l>איך הלכת, רצית להיות חופשי, כמו שאת</l>
+          <l>עוד תפילה, מתנגנת מקולך הבתולי</l>
+          <l>שולח יד, נותן את נשמתי, כמו שאת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מנסה לשכוח, מנסה בכוח שזה יעלם</l>
+          <l>מנסה לשכוח, מנסה בכוח שזה יעלם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד תפילה... תנגנת בתוכי... לעולם</l>
+          <l>נוגעת יד... נכנסת לתוכי, לעולם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מנסה לשכוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

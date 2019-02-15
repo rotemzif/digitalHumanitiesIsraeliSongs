@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גלים של אהבה</title>
+        <singer classification="male singer">רגב הוד</singer>
+        <writer>יוש גרנות</writer>
+        <composer>אביחי מליחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גלים של אהבה</head>
+        <lg number="1" type="stanza">
+          <l>אני אוהב את ילדתי בנישמתי שלה</l>
+          <l>היא פוסעת לידי אני מרגיש נפלא</l>
+          <l>אין כמוהה בנשים יפה ומתוקה</l>
+          <l>זוג שפתיה אש נוצרו לנשיקה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני רוצה את לבבה כי לבבי שלה</l>
+          <l>האם תחזיר היא לי אהבה לעד</l>
+          <l>אני רוצה את לבבה כי לבבי שלה</l>
+          <l>האם תחזיר היא לי אהבה לעד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>על החוף ומטיילים אנחנו</l>
+          <l>בשלווה חשים את הגלים כמהים לאהבה</l>
+          <l>מעלינו כוכבים ומסביב דממה</l>
+          <l>כי בעניה אש אש בתוך ליבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני רוצה את לבבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

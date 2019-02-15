@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המסע 2</title>
+        <singer classification="unknown">בן סנוף</singer>
+        <writer>יוגב סמינה</writer>
+        <composer>יוגב סמינה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המסע</head>
+        <lg number="1" type="stanza">
+          <l>בוא וצא אל המסע איתי </l>
+          <l>שמתארך ונוגע, מפרך מייגע</l>
+          <l>ואיך כל יום הופך לעוד סימן </l>
+          <l>לשביל שבדרך שנותן לך ערך </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לחיות עם עצמך בשלום </l>
+          <l>להסתכל לשמיים ביראה של כבוד </l>
+          <l>ולחכות, ולחכות לטוב </l>
+          <l>שרק הוא יגיע ויקח אותנו רחוק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בוא וצא אל המסע איתי </l>
+          <l>שמתארך ונוגע, מפרך מייגע</l>
+          <l>בסוף הדרך היא מחכה, </l>
+          <l>אמת משחררת שתיתן לך ערך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לחיות עם עצמך בשלום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

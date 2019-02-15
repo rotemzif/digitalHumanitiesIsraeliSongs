@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גג</title>
+        <singer classification="unknown">ג ירפות</singer>
+        <writer>גלעד כהנא</writer>
+        <composer>אקורדים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גג</head>
+        <lg number="1" type="stanza">
+          <l>אל תעשו תנועה טיפשית</l>
+          <l>היא עלולה להבהל</l>
+          <l>מתנועה אחת חזקה</l>
+          <l>את יכולה להשתחרר</l>
+          <l>עייפה מדי כדי להבחין</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והיא עולה לגג</l>
+          <l>באמונה שלמה</l>
+          <l>שהיא עשתה טעות</l>
+          <l>קשה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד שניה</l>
+          <l>הכל עומד להשתפר</l>
+          <l>אני נשבע</l>
+          <l>רק תזוזי מהגדר</l>
+          <l>אני נשבע</l>
+          <l>רק תזוזי מהגדר</l>
+          <l>מהר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והיא עולה לגג...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

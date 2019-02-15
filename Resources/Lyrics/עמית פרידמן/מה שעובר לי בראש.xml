@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה שעובר לי בראש</title>
+        <singer classification="male singer">עמית פרידמן</singer>
+        <writer>עמית פרידמן</writer>
+        <composer>עמית פרידמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה שעובר לי בראש</head>
+        <lg number="1" type="stanza">
+          <l>אולי את עכשיו עלי מספרת</l>
+          <l>בחדר של מישהו אחר</l>
+          <l>זה לא שעכשיו את צריכה מישהו</l>
+          <l>את רק רוצה לדבר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אולי הוא נראה יפה בעיניה </l>
+          <l>כל מה שיאמר יצחיק</l>
+          <l>אולי הכאב הלך לו לרגע</l>
+          <l>כמה נעים להדחיק</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זה מה שעובר לי בראש עכשיו</l>
+          <l>עובר ולא עוזב</l>
+          <l>זה מה שעובר לי בראש עכשיו</l>
+          <l>היכן את נמצאת?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שמישהו יגיד לי היכן את נמצאת</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אולי הוא ישים תקליט שאהבת</l>
+          <l>לשמוע כשאת עצובה</l>
+          <l>עכשיו הוא מביט ישר בעיניה</l>
+          <l>בולע כל מילה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>פתאום עננים יבכו בשמיים</l>
+          <l>הוא יקום ויסגור חלון</l>
+          <l>זאת לא העונה להיות לא בשניים</l>
+          <l>אולי את נשארת לישון</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>זה מה שעובר לי בראש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

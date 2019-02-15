@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה השיר שמזכיר לי אותך</title>
+        <singer classification="female singer">נופר גנור</singer>
+        <writer>נופר גנור</writer>
+        <composer>נופר גנור</composer>
+        <album>יום שקט היום</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה השיר שמזכיר לי אותך</head>
+        <lg number="1" type="stanza">
+          <l>זה השיר שמזכיר לי אותך </l>
+          <l>שיר שלא אוכל למחוק. </l>
+          <l>זה השיר שמחזיר לי אותן </l>
+          <l>למרות שאתה כל כך רחוק. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קיץ כחול על חוף הים </l>
+          <l>היינו רק שנינו מול כל העולם. </l>
+          <l>קיץ רחוק וגלים של שקיעה </l>
+          <l>רשרוש הגלים וחום נגיעה. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה השיר שמזכיר לי ימים </l>
+          <l>שרציתי כל כך לחבק </l>
+          <l>זה השיר שמחזיר לי ימים </l>
+          <l>שרצית רק לנשק. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קיץ כחול על חוף הים... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה השיר שחרטנו ביחד </l>
+          <l>בשקט בחול הרך. </l>
+          <l>זה השיר שהיה רק שלנו </l>
+          <l>ועכשיו הוא זיכרון נשכח. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>קיץ כחול על חוף הים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

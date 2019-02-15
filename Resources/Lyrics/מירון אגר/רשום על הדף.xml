@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רשום על הדף</title>
+        <singer classification="male singer">מירון אגר</singer>
+        <writer>מירון אגר</writer>
+        <composer>מירון אגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רשום על הדף</head>
+        <lg number="1" type="stanza">
+          <l>את רושמת את שירייך בעלי הצפצפה, </l>
+          <l>וברוח, בסופה, ובגלים. </l>
+          <l>בפריחות של האביב, והריחות שמסביב למדרכות, </l>
+          <l>ובשירת הפועלים. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את אוספת אל הדף סיפורים על עם נרדף ששרד, </l>
+          <l>את רושמת את שירייך בעט הרועדת ביד. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את רושמת את שירייך בשנים של מלחמות , </l>
+          <l>ובילדה עם הצמות והמבט. </l>
+          <l>בדמם של ילדים, ששמם הפך לעמודים, </l>
+          <l>לאבנים מסותתות, בבת-אחת. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את אוספת אל הדף... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני שר לך את שירייך מול הרוח התוססת </l>
+          <l>כשאת שוב מתבוססת בדמך. </l>
+          <l>בלי גיטרה, בלי חליל, רק במיתר שבקולי </l>
+          <l>שעוד נותר כשהשבילים קראו בשמך, </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אני אוסף את כוחותי</l>
+          <l>ושואל שוב- "עד מתי תהיי? </l>
+          <l>עד מתי אוכל לשיר לך בדמייך חיי?" </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>את אוספת אל הדף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

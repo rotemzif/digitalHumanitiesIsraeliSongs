@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משתגע 8</title>
+        <singer classification="male singer">שימי גל</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משתגע</head>
+        <lg number="1" type="stanza">
+          <l>בכוסית שוקע ומתגעגע</l>
+          <l>ונורא עצוב לי ומשתגע</l>
+          <l>כי אני חולם על הימים ההם,</l>
+          <l>בים הזיכרונות אני טובע.</l>
+          <l>מה נותר לי מאז זה עדיין רז</l>
+          <l>ורק צל מן העבר אתי פוסע.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היתה לי אהבה שאמרה שלום,</l>
+          <l>היו לי חברים, איפה הם היום?</l>
+          <l>כל יום עובר לי כחלום-בלהות,</l>
+          <l>לא יודע מה הפירוש לחיות.</l>
+          <l>רק משתגע מחיים כואבים</l>
+          <l>ומתגעגע לימים טובים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בלילות-ירח אני קודח,</l>
+          <l>לדמיון כנפיים והוא בורח</l>
+          <l>אל מעבר-ים להביא משם</l>
+          <l>משהו שיעשה אותי שמח.</l>
+          <l>משהו חשוב, משהו אהוב</l>
+          <l>כמו חיים מאושרים ולב שמח.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היתה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

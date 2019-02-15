@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הוא שלי</title>
+        <singer classification="unknown">קרולינה</singer>
+        <writer>קרולינה</writer>
+        <composer>קרולינה</composer>
+        <album>מה אעשה עכשיו</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הוא שלי</head>
+        <lg number="1" type="stanza">
+          <l>הוא שלי כל כך</l>
+          <l>אתה לא צריך ללכת</l>
+          <l>תישאר איתי פה</l>
+          <l>רוצה סיגריה או קפה</l>
+          <l>רוצה לשיר איתי עוד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואם שוב יחזור הרגע שחשבתי שהכל עצוב</l>
+          <l>תגיד לי עוד את המילים שלך</l>
+          <l>הכול יחזור להיות טוב שוב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כמה שאני אפחד שלא תהיה כאן מהצד</l>
+          <l>שלא ארגיש אותך קרוב</l>
+          <l>כל יום שאתה הולך, כל יום שלא תחייך,</l>
+          <l>אני ארגיש כאב חד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואם שוב יחזור הרגע שחשבתי שהכל עצוב</l>
+          <l>תגיד לי עוד את המילים שלך </l>
+          <l>הכל יחזור להיות טוב שוב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אתה גורם לי לצחוק והעיניים מחייכות דרכי</l>
+          <l>אתה ילד השלווה</l>
+          <l>מסתיר אותי בתוך ליבך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כמה שאני אפחד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האחרון שיגיד</title>
+        <singer classification="unknown">בטי</singer>
+        <writer>בטי</writer>
+        <composer>בטי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האחרון שיגיד</head>
+        <lg number="1" type="stanza">
+          <l>אני האחרון שיגיד לך שאת טועה</l>
+          <l>אני אותו האיש שמאמין בך</l>
+          <l>ואוהב אותך אוהב נורא</l>
+          <l>זה לא קשור אליך,</l>
+          <l>זאת רק תקופה שתעבור</l>
+          <l>בתוכי אני אבוד מזה חודשיים לא מוצא את האור.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תהיי עצובה</l>
+          <l>שמחת החיים שלך אותי מחזיקה</l>
+          <l>לא מסתדר לי עכשיו </l>
+          <l>מנסה אך לשווא</l>
+          <l>לצאת מהמצב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני האחרון שיגיד לך שאת אשמה</l>
+          <l>כשהביתה בא ורואה את זיו פנייך </l>
+          <l>זה משכיח את היום הרע</l>
+          <l>לא קשור אלייך,</l>
+          <l>רק תקופה שתגמר</l>
+          <l>ומול עינייך אני נזכר שכלום לא חסר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תהיי עצובה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם יכולתי הייתי מכבה הכל עכשיו</l>
+          <l>שלא תרגישי כלום</l>
+          <l>ומדליק גם אותך מחדש</l>
+          <l>כשהאושר יפציע שוב </l>
+          <l>אני האחרון שירצה שגם לך יהיה עצוב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

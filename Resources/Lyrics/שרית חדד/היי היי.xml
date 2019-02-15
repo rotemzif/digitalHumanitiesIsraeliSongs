@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היי היי 4</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היי היי</head>
+        <lg number="1" type="stanza">
+          <l>אם תקבל קצת אומץ</l>
+          <l>ותסתכל לעומק</l>
+          <l>אל תפגע ממני</l>
+          <l>כי אין קשה ממני</l>
+          <l>אני לא משוחררת</l>
+          <l>אני לא בת של מלך</l>
+          <l>אל תפגע ממני</l>
+          <l>אני קשה ואין כמוני</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל תיקח אותי קשה</l>
+          <l>גם אתה מוזר כזה</l>
+          <l>בוא ונדבר על זה </l>
+          <l>חביבי חביבי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>היי היי היי אתה כאן לימיני</l>
+          <l>היי היי היי אתה כאן לשמאלי</l>
+          <l>היי היי היי אתה כאן כל הזמן</l>
+          <l>מצטערת אם פגעתי</l>
+          <l>זוהי רוח שעברה בי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הכל עובר חביבי</l>
+          <l>גם אם אתה לא נאיבי</l>
+          <l>אם תסתכל לעומק</l>
+          <l>שגעת אותי חומד</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>היי היי היי אתה כאן לימיני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סופת הבגידה</title>
+        <singer classification="unknown">עדן חכם</singer>
+        <writer>רוני בכר</writer>
+        <composer>ירון בכר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סופת הבגידה</head>
+        <lg number="1" type="stanza">
+          <l>מזג אויר כבד יורד</l>
+          <l>אין קול במדבר, רק הד בודד</l>
+          <l>אתה הלכת בחור בשביל האסור</l>
+          <l>נגעת באש, נפלת בפח כמו טיפש הו לא</l>
+          <l>נפלת בפח הו לא</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לילות בכיתי</l>
+          <l>ימים חיכיתי</l>
+          <l>איך לא חשבתם עליי בלילה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שבוי בידה קורבן תמים</l>
+          <l>אני מחכה לילות ימים</l>
+          <l>אתה שבוי בקסמה והיא החומה</l>
+          <l>רק בי הכאב, עיוור הוא הלב האוהב הו לא</l>
+          <l>עיוור הוא הלב הו לא</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לילות בכיתי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>סופת הבגידה אותי טרפה</l>
+          <l>חולת אהבה והיא יחפה </l>
+          <l>הלכת שולל בשביל המקולל</l>
+          <l>והיא צחקה...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לילות בכיתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

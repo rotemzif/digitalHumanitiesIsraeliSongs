@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תבין עניין</title>
+        <singer classification="unknown">ניבין</singer>
+        <writer>מרטין גל</writer>
+        <composer>מרטין גל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תבין עניין</head>
+        <lg number="1" type="stanza">
+          <l>למה אתה מתעקש</l>
+          <l>לא רוצה אותך וזה מה יש</l>
+          <l>אתה מזמן לא מה שבא לי</l>
+          <l>מותק ממך כבר נשבר לי</l>
+          <l>כמה לך אומר זאת תבין עניין</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז מותק מתי תבין כבר</l>
+          <l>שהעולם לא סובב סביבך</l>
+          <l>היה לי שיגעון וזה עבר לי</l>
+          <l>תכניס לראש שאני לא שלך</l>
+          <l>חביבי אולי תבין</l>
+          <l>שהסיפור הזה סיפור ישן</l>
+          <l>היה לי שיגעון וזה עבר לי</l>
+          <l>אז חבל לך על הזמן</l>
+          <l>כמה לך אומר זאת תבין עניין</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לי ולך אין עתיד</l>
+          <l>אתה צריך ללמוד גם להפסיד</l>
+          <l>לא משנה מה תעשה</l>
+          <l>כסף אותי לא קונה</l>
+          <l>כמה לך אומר זאת תבין עניין</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז מותק מתי ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

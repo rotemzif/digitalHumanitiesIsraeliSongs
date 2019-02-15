@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה את נושאת</title>
+        <singer classification="male singer">דניאל סלומון</singer>
+        <writer>דניאל סלומון</writer>
+        <composer>דניאל סלומון</composer>
+        <album>רבות הדרכים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה את נושאת</head>
+        <lg number="1" type="stanza">
+          <l>מה את נושאת על גבך?</l>
+          <l>מה את נושאת על גבך?</l>
+          <l>את שק זכרונות חייך</l>
+          <l>את מי שרצה עד אלייך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה את נושאת על גבך?</l>
+          <l>מה את נושאת על גבך?</l>
+          <l>את שק הדמעות של חייך</l>
+          <l>קשים הם היו לילותייך.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ושקט יורד אצלך</l>
+          <l>הניחי קלות את ראשך על הכר</l>
+          <l>אני מבטיח לך שוב אהובה</l>
+          <l>אני נשאר עד הבוקר,</l>
+          <l>נשאר עד הבוקר הבא.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה את נושאת בלבך,</l>
+          <l>מה את נושאת בלבך?</l>
+          <l>את שק הסודות של חייך</l>
+          <l>ולפעמים הם באים שוב אלייך.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ושקט יורד אצלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

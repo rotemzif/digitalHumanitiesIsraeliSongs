@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שש בש</title>
+        <singer classification="male singer">רגב הוד</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>missing</composer>
+        <album>התינשאי לי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שש בש</head>
+        <lg number="1" type="stanza">
+          <l>אני בחוף גל כמו נוצה</l>
+          <l>ולך יש ראש כבד כבד נורא</l>
+          <l>תמיד נתקעת לך עם המילים</l>
+          <l>עושה לי דווקא לשנות לי ת'חיים</l>
+          <l>וכך הורסת חיים משותפים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שחקי בשש בש או בדמקה</l>
+          <l>אל תנסי לעשות לי דווקא</l>
+          <l>לך אתן את עולמי רק אל תשחקי איתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תמיד יש לה סיפור לי לספר</l>
+          <l>אם רק תתחיל היא לא תפסיק לדבר</l>
+          <l>יש לה מראה שכובש כמו בסרטים</l>
+          <l>שהיא עוברת נדלקים הכוכבים</l>
+          <l>וכשהיא נרדמת החיים שלי יפים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שחקי בשש בש או בדמקה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

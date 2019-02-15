@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>העולם הזה מספר סיפור</title>
+        <singer classification="male singer">בן ארצי</singer>
+        <writer>בן ארצי</writer>
+        <composer>בן ארצי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>העולם הזה מספר סיפור</head>
+        <lg number="1" type="stanza">
+          <l>ילדים בורחים מבית הספר אל הים</l>
+          <l>מבוגרים הולכים שפופים אל העבודה</l>
+          <l>יש אהבות אליהן אין דרכי קיצור</l>
+          <l>ואם תשים לב העולם הזה מספר סיפור</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הר געש מתפרץ כמו מישהו ששמר בבטן</l>
+          <l>אל תחפש את האמת פשוט תסיר את השקר</l>
+          <l>החיים הם רק המסדרון שמוביל אל החדר</l>
+          <l>יום שעובר כמו דף שנתלש מהספר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ימי הולדת מסמנים שהזמן אוזל</l>
+          <l>האהבה מורכבת גם מתלות ומהרגל</l>
+          <l>כל שתשמע הוא שיר וכל מה שתראה ציור</l>
+          <l>ואם תשים לב העולם הזה מספר סיפור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל זעוף פנים נולד כדי לאהוב</l>
+          <l>כולם בפונטציאל הם קבצני רחוב</l>
+          <l>כל מפגש תמיד מביא איתו שיעור</l>
+          <l>ואם תשים לב העולם הזה מספר סיפור</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ימי הולדת מסמנים שהזמן אוזל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

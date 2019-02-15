@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילי 5</title>
+        <singer classification="unknown">רמי מור</singer>
+        <writer>רונן מיכאלוב</writer>
+        <composer>רונן מיכאלוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילי</head>
+        <lg number="1" type="stanza">
+          <l>לילי הפך ליום, את עיניי איך אעצום</l>
+          <l>לילי, לילי, ארוך כל כך ובלי חלום</l>
+          <l>נשים נשים נשים, לא יפה להאשים</l>
+          <l>אבל זאת האמת, היא שלחה ת'מבטים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לילי לילי לילי, אל תאמרי את לא שלי</l>
+          <l>לילי לילי לילי, זאת רק טעות אז תסלחי</l>
+          <l>וואלה וואלה וואלה, נשבע שכל זה בגללה</l>
+          <l>את לא מאמינה, אז לכי תשאלי אותה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לילי ארוך נורא, מחפש בכל פינה</l>
+          <l>אותך אותך, ואת בכלל לא מבינה</l>
+          <l>יפה יפה יפה, מלאה באהבה</l>
+          <l>כי אין לך מחליפה את אחת ויחידה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לילי לילי לילי, אל תאמרי את לא שלי</l>
+          <l>לילי לילי לילי, זאת רק טעות אז תסלחי</l>
+          <l>וואלה וואלה וואלה, נשבע שכל זה בגללה</l>
+          <l>את לא מאמינה, אז לכי תשאלי אותה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

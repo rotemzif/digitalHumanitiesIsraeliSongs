@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא מצליחה לנשום</title>
+        <singer classification="unknown">מור מנדל</singer>
+        <writer>איה כורם</writer>
+        <composer>מור מנדל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא מצליחה לנשום</head>
+        <lg number="1" type="stanza">
+          <l>זה רק הלילה הראשון, לבד בחדר בית מלון</l>
+          <l>הזמן עצר גם הוא כבר לא איתי</l>
+          <l>רגש משתק, כל הגוף פתאום צועק</l>
+          <l>רחוב סואן בהילוך איטי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני עומדת במקום</l>
+          <l>אני לא מצליחה לנשום</l>
+          <l>פחד מנצח היגיון</l>
+          <l>הרי הכל אצלי בראש</l>
+          <l>תמיד מוצאת ממה לחשוש</l>
+          <l>ושוב לצלול אל תוך השיגעון</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני קוראת במחברות, אני קוראת בין השורות</l>
+          <l>כל כך יפה חיכיתי לתורי</l>
+          <l>אני אומרת לעצמי תעצרי ותחשבי</l>
+          <l>מה מסתתר מתחת לפחדים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני עומדת במקום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

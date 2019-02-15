@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אנשים משתנים</title>
+        <singer classification="male singer">יצחק קלפטר</singer>
+        <writer>יצחק קלפטר</writer>
+        <composer>יצחק קלפטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אנשים משתנים</head>
+        <lg number="1" type="stanza">
+          <l>הים כחול, שחפים מעל</l>
+          <l>סירת מפרש - לבן</l>
+          <l>ואני כאן מביט מהחלון ותוהה</l>
+          <l>כמה זמן העולם קיים? </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רחוב סואן, המון אדם</l>
+          <l>ובפינה יש שוטר</l>
+          <l>בקולנוע הדברים פשוטים... כמובן</l>
+          <l>אבל מציאות היא דבר אחר. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>העונות מתחלפות </l>
+          <l>אנשים משתנים לפעמים</l>
+          <l>חדשות שבאות מניעות גלגלים. </l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

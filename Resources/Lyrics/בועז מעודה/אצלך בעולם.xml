@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אצלך בעולם</title>
+        <singer classification="unknown">בועז מעודה</singer>
+        <writer>מאיר בנאי</writer>
+        <composer>מאיר בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אצלך בעולם</head>
+        <lg number="1" type="stanza">
+          <l>כל הלילה היינו תחת כישוף</l>
+          <l>כל הלילה גילינו סודות של הגוף</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תני לי יד תני לי מקום</l>
+          <l>תני לי יד תני לי מקום </l>
+          <l>אצלך בעולם</l>
+          <l>תני לי יד תני לי מקום</l>
+          <l>תני לי יד תני לי מקום </l>
+          <l>אצלך בעולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>השדים של הלילה יוצאים כבר לרקוד</l>
+          <l>הם נוגעים בי נוגעים בך נוגעים עוד ועוד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תני לי יד תני לי מקום...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה אני מנגן לך מנגן לך ניגון</l>
+          <l>זה אני שלוקח אותך לטיול</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תני לי יד תני לי מקום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

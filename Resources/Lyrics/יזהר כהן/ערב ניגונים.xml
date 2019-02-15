@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ערב ניגונים</title>
+        <singer classification="male singer">יזהר כהן</singer>
+        <writer>יזהר כהן</writer>
+        <composer>יזהר כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ערב ניגונים</head>
+        <lg number="1" type="stanza">
+          <l>ולפעמים בחלומות נושבת רוח פרא</l>
+          <l>כל התקוות,</l>
+          <l>החזיונות המתוקים של הילדות</l>
+          <l>נושאים עימם, נושאים עימם את כל הפלא</l>
+          <l>את כל הפלא שוב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ולפעמים בחלומות אני יוצא אלייך</l>
+          <l>לנטוע כאן,</l>
+          <l>את הפירות המתוקים האסורים</l>
+          <l>לנגוע שם, לנגוע שם בחולותייך</l>
+          <l>לשוב ממרחקים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רוח ים, בלילה חם</l>
+          <l>והלב מבקש לצאת לשם</l>
+          <l>ערב ניגונים בשדות הסביונים</l>
+          <l>כאילו חי, כאילו חי שנים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ולפעמים כשהכרמים אומרים לי סוד בסתר</l>
+          <l>אשכול ענב, וכף תמר אני קוטף לי בחשאי</l>
+          <l>דומה כי אין, דומה כי אין לזה הליל</l>
+          <l>לערב ניגונים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רוח ים, בלילה חם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

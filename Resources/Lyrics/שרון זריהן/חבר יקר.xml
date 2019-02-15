@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חבר יקר 2</title>
+        <singer classification="unknown">שרון זריהן</singer>
+        <writer>שרון זריהן</writer>
+        <composer>שרון זריהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חבר יקר</head>
+        <lg number="1" type="stanza">
+          <l>איך הזמן חולף ורץ ואני לא מאמין</l>
+          <l>איך גדלנו ושיחקנו כמו היינו שני אחים</l>
+          <l>ומלאך אותך לקח אל מקום שהוא מוסתר</l>
+          <l>וללב לא נותר זיכרון מר שנשאר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תספר לי איך למעלה</l>
+          <l>תספר לי מה אתה מרגיש</l>
+          <l>אני תמיד חושב עליך</l>
+          <l>הכל שונה לי בלעדיך</l>
+          <l>הלב כואב לא מאמין</l>
+          <l>איך נקטפת כה צעיר</l>
+          <l>לגורל אין רחמים</l>
+          <l>הוא קוטף רק ת'טובים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק תמונות שמזכירות את החוויות איתך</l>
+          <l>כה קשה לי ומוזר שהלכת לעולמך</l>
+          <l>ואותך חבר יקר לנצח לא אשכח</l>
+          <l>כי בשבילי אתה היית קרוב יותר מאח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תספר לי איך...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תספר לי איך למעלההה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

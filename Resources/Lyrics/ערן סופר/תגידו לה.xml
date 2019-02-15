@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תגידו לה 3</title>
+        <singer classification="unknown">ערן סופר</singer>
+        <writer>אלי קפה</writer>
+        <composer>ברוך לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תגידו לה</head>
+        <lg number="1" type="stanza">
+          <l>תגידו לה</l>
+          <l>שאין יותר דמעות</l>
+          <l>רק אש מלחשת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היא רחוקה</l>
+          <l>מדוע לא אמרה לאן</l>
+          <l>לאן היא הולכת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין לי אויר</l>
+          <l>ביקשתי אל תלכי</l>
+          <l>ואת לא חוזרת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק תגידו לה לא יכול יותר</l>
+          <l>שתחזור אלי שתחזור מהר</l>
+          <l>כי הדרך אל ליבה אבדה לי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תגידו לה</l>
+          <l>איך זה שהיא פצעה אותי</l>
+          <l>האש בי שורפת</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>תגידו לה</l>
+          <l>שזה לא מגיע לי</l>
+          <l>על מי היא כועסת</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>רק תגידו לה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

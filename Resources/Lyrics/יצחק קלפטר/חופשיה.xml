@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חופשיה 2</title>
+        <singer classification="male singer">יצחק קלפטר</singer>
+        <writer>יצחק קלפטר</writer>
+        <composer>יצחק קלפטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חופשיה</head>
+        <lg number="1" type="stanza">
+          <l>אין לי חשק לשמוע </l>
+          <l>על האחרים שהכרת בעבר </l>
+          <l>למה על טעויות שלך </l>
+          <l>אני צריך לשלם את השטר </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גם אני התנסיתי </l>
+          <l>ויש לי עבר שקשה לי לסחוב </l>
+          <l>ואינני בטוח בקשר </l>
+          <l>לעתיד שממתין ברחוב </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז תני לי תכף לדעת </l>
+          <l>אם את לא רוצה אותי יותר </l>
+          <l>אז אני אלך ולא אחזור </l>
+          <l>ותוכלי לחיות עם מישהו אחר </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא אל תמשכי אותי </l>
+          <l>ליד אחרים את כל כך שונה </l>
+          <l>אם את לא רוצה אותי אז תגידי </l>
+          <l>תוכלי להיות כבר מעכשיו חופשייה </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אין לי חשק לשמוע... </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אז תני לי תכף לדעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

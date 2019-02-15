@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קיץ 9</title>
+        <singer classification="unknown">העברית</singer>
+        <writer>ערן פרץ</writer>
+        <composer>אורון שרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קיץ</head>
+        <lg number="1" type="stanza">
+          <l>קיץ </l>
+          <l>כולם הולכים לים בקיץ </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קיץ </l>
+          <l>כולם הולכים לרחוץ בים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בית </l>
+          <l>אני לא רוצה להיות בבית </l>
+          <l>לא </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>קיץ </l>
+          <l>כל הבנות קופצות עכשיו למים </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>קיץ </l>
+          <l>כולם הולכים לרחוץ בים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

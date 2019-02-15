@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אישה הרה</title>
+        <singer classification="female singer">קורין אלאל</singer>
+        <writer>מירה מאיר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אישה הרה</head>
+        <lg number="1" type="stanza">
+          <l>עיתים אני נדמית לי, אדמה. </l>
+          <l>אני חמה, אני סודות זרעים וקש, </l>
+          <l>אני נמצאת תמיד בתוך דממה. </l>
+          <l>אני אומרת, ואתה - לא חש. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עיתים אני נדמית לי כחיה, </l>
+          <l>כולי כבדות, רפיון - חשש. </l>
+          <l>אני דואגת לנוחות ולמחיה, </l>
+          <l>אני אומרת, ואתה - לא חש. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני יוצרת משהו שלא היה, </l>
+          <l>כי בי נרקם כעת אדם חדש. </l>
+          <l>אני אומרת זאת, אני בוכה, </l>
+          <l>אני אומרת, ואתה - לא חש. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עיתים אני נדמית לי, אלוהים. </l>
+          <l>אני יוצרת בי חיים, דבר חדש. </l>
+          <l>בלילה, בין שמיכות לכוכבים, </l>
+          <l>אני אומרת, ואתה - לא חש. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני יודעת שאתה דואג, </l>
+          <l>אתה אומר "אשתי", נושק, נרגש, </l>
+          <l>אך איך אסביר את הנרקם והחוגג? </l>
+          <l>אני אומרת, ואתה - לא חש. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני יוצרת משהו שלא היה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

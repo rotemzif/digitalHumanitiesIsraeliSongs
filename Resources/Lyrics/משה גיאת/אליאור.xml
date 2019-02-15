@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אליאור 2</title>
+        <singer classification="male singer">משה גיאת</singer>
+        <writer>שלמה כישור</writer>
+        <composer>חוליו וילאר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אליאור</head>
+        <lg number="1" type="stanza">
+          <l>ילדי הקט והיקר הנה הבאת</l>
+          <l>את כל האור והשמחה אלי הבייתה.</l>
+          <l>רואה אותי, צוחק אלי וגם נוגע בפני</l>
+          <l>ובידך הקטנטנה ראשי פורע.</l>
+          <l>לו רק תחוש מה בלבי,</l>
+          <l>לו רק ידעת, אהובי,</l>
+          <l>כי משהו חסר היה לי עד שבאת.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אליאור, אליאור, אליאור,</l>
+          <l>אתה שלי, אותך אקח על הידיים.</l>
+          <l>אליאור, אליאור,אליאור,</l>
+          <l>אתה הטוב לנשמתי ואור-עיניים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חיוך מתוק, מתוק מדבש יש על פניך</l>
+          <l>ומה קטנות וענוגות הן שתי ידיך.</l>
+          <l>איתך עובר הזמן מהר ולא ארגיש איך השעות</l>
+          <l>בורחות ממני כשאני חושב עליך.</l>
+          <l>מבט שואל נישא אלי מתוך עיניך הרכות,</l>
+          <l>אתה הוא בני וטוב לי כי אני אביך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אליאור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

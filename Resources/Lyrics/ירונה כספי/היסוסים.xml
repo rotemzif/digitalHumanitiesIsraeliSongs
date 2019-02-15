@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היסוסים</title>
+        <singer classification="female singer">ירונה כספי</singer>
+        <writer>ירונה כספי</writer>
+        <composer>ירונה כספי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היסוסים</head>
+        <lg number="1" type="stanza">
+          <l>על פניך אני רואה היסוסים</l>
+          <l>ואור פחד דולק מסגיר את הילד</l>
+          <l>הייתי רוצה לצרוב בזיכרונך</l>
+          <l>נשיקה אחת</l>
+          <l>ועוד</l>
+          <l>נשיקה אחת אדומה כחותמת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לאפשר לך אור ירוק</l>
+          <l>לגבור על מסכת השדים</l>
+          <l>בכל פעם שאתה מביט בעיני</l>
+          <l>היסוסים... היסוסים...</l>
+          <l>היסוסים... היסוסים...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אולי כדאי שנעצור כאן</l>
+          <l>שמחה לא מתגלה בפתח</l>
+          <l>או אולי נכנס למיטה</l>
+          <l>נפתור תעלומות בחושך</l>
+          <l>האור בחדר מסנוור -</l>
+          <l>לא מוסיף לחידה</l>
+          <l>מה אותה רואה?</l>
+          <l>מה אני רואה?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לאפשר לך אור ירוק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

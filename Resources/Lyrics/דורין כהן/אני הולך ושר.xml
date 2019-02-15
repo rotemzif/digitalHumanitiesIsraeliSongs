@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני הולך ושר</title>
+        <singer classification="unknown">דורין כהן</singer>
+        <writer>אורלי בינדר</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני הולך ושר</head>
+        <lg number="1" type="stanza">
+          <l>אני הולך ושר, אני הולך ושר</l>
+          <l>אני הולך על קו ישר.</l>
+          <l>לה, לה, לה, לה...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ומה אני עושה עכשיו? </l>
+          <l>ומה אני עושה עכשיו?</l>
+          <l>אני הולך מסביב לקו.</l>
+          <l>לה, לה, לה, לה...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ומה אני עושה עכשיו? </l>
+          <l>ומה אני עושה עכשיו?</l>
+          <l>אני מדלג מעל לקו.</l>
+          <l>מדלג מימין לשמאל </l>
+          <l>לדלג אני יכול, לדלג אני יכול.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אפשר לתקן 2</title>
+        <singer classification="female singer">דליה כהן</singer>
+        <writer>מתוך שיר השירים</writer>
+        <composer>בני נגרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אפשר לתקן</head>
+        <lg number="1" type="stanza">
+          <l>איזה מזל שאפשר בדרך כלל </l>
+          <l>לנסות ולעשות בזהירות לאט לאט. </l>
+          <l>לנסות ולתקן כמעט הכל, </l>
+          <l>הכל כמעט. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אבל, אם נפלה לך מנה של גלידה </l>
+          <l>איך תוכל זאת לתקן, הגידה? </l>
+          <l>אם נפלה לך גלידה, חבר, </l>
+          <l>קנה אחרת - או וותר.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

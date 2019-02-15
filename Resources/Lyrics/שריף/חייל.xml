@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חייל 38</title>
+        <singer classification="male singer">שריף</singer>
+        <writer>דני שושן</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חייל</head>
+        <lg number="1" type="stanza">
+          <l>חייל על המשמר הלילה לא נגמר מתי יבציע כבר השחר</l>
+          <l>חופשה של יום אחד כמה יהיה נחמד להיות איתך שוב יחד</l>
+          <l>מכפור הלבנון אל גופך החם חוזר הביתה והלב נפעם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את חסרה לי ילדה את חסרה לי</l>
+          <l>את חסרה לי ילדה את חסרה...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אצלנו בפלוגה לילות בלי הפוגה</l>
+          <l>חוזרים מדרך ארוכה</l>
+          <l>הביתה נכספים כולנו מצפים רק לחופשה המתוקה</l>
+          <l>מכפור הלבנון אל גופך גופך החם</l>
+          <l>חוזר הביתה והלב נפעם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את חסרה לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

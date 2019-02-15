@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אישה על החוף</title>
+        <singer classification="female singer">דורית פרקש</singer>
+        <writer>נעמי שמר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אישה על החוף</head>
+        <lg number="1" type="stanza">
+          <l>אם תתבונן היטב בלילה קר</l>
+          <l>אל עבר הנהר</l>
+          <l>במרינה הנשכחת</l>
+          <l>בטח תראה אישה עוטה שחורים</l>
+          <l>ברוח ההומה</l>
+          <l>ממתינה לבוא השחר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כך עד סוף הלילה על המזח היא ניצבת</l>
+          <l>כנף צעיף שחורה שלה ברוח הנושבת</l>
+          <l>ככה מצפה היא אל האיש שהיא אוהבת</l>
+          <l>שאולי הלילה יחזור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מי אהובה היה ומי האיש</l>
+          <l>אשר אותה נטש</l>
+          <l>אי הפליג ובאיזו דרך</l>
+          <l>מול נהמת הים היא בשחורים</l>
+          <l>כל לילה מחדש</l>
+          <l>את חידת ליבה פותרת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כך עד סוף הלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

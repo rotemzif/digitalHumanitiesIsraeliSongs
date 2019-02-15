@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתוקה ואוהבת</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>missing</composer>
+        <album>מילים שלא אמרת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתוקה ואוהבת</head>
+        <lg number="1" type="stanza">
+          <l>את מתוקה ואוהבת</l>
+          <l>וממלאה את ליבי</l>
+          <l>כל פעם שאת מחייכת</l>
+          <l>את מחייה גם אותי</l>
+          <l>רק רציתי שתהיה לי </l>
+          <l>כל הזמן פה לצידי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני אהיה שלך אהיה לך מלך</l>
+          <l>ויחד נעבור את כל הדרך</l>
+          <l>על הכל תמיד אנחנו נתגבר</l>
+          <l>ועל האהבה לא נוותר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יופייך אותי משגע</l>
+          <l>תפס חזק את ליבי</l>
+          <l>ובשבילך בכל רגע</l>
+          <l>אני אתן את כולי</l>
+          <l>רק תראי לי ותתני לי</l>
+          <l>אהבה יפה שלי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני אהיה שלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

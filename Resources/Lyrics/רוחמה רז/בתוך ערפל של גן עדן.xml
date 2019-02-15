@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בתוך ערפל של גן עדן</title>
+        <singer classification="female singer">רוחמה רז</singer>
+        <writer>חדוה הרכבי</writer>
+        <composer>עוזי אסנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בתוך ערפל של גן עדן</head>
+        <lg number="1" type="stanza">
+          <l>בחדר שלי, בפינה של החדר</l>
+          <l>ציפור ישנה מתייפחת מסתר</l>
+          <l>אבל בראשי, באגם, ברקיע</l>
+          <l>ציפור מרהיבה מתחילה להופיע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עייפה מרוחקת אני רק חולמת </l>
+          <l>החיים הם חלום. מה רב החלום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ציפור לעיני ואני לעיניה</l>
+          <l>ציפור בידי ואני בידיה</l>
+          <l>אני כבר כמעט יציבה לרגליה</l>
+          <l>אבל השמיים אבל שתיקותיה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עייפה מרוחקת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בחודך בתוך ערפל גן עדן</l>
+          <l>כמה עוד עלי, עוד לפל ולסגת</l>
+          <l>אותך על הכל ובלבד שתאבי</l>
+          <l>רק עוד פעם אחת לשוחח איתי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עייפה מרוחקת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

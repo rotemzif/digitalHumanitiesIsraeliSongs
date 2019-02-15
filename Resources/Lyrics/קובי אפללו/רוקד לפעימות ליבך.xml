@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוקד לפעימות ליבך</title>
+        <singer classification="male singer">קובי אפללו</singer>
+        <writer>קובי אפללו</writer>
+        <composer>קובי אפללו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוקד לפעימות ליבך</head>
+        <lg number="1" type="stanza">
+          <l>שירי הופך למקודש</l>
+          <l>כשלך מוקדש ומתענג באור הלבנה</l>
+          <l>לילות שלמים של מחשבות</l>
+          <l>תמונות קטנות מסע אל תוך רזי המנגינה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואני - אני עבד לצלילים שלך בכל ניגון</l>
+          <l>אני חי טיפה יותר</l>
+          <l>ואני - שנבראתי לחבק אותך בתו הרך</l>
+          <l>רוקד לפעימות ליבך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו להלחין חיים שלמים</l>
+          <l>לסגור סודות בתוך מילים, לשיר את הכאב</l>
+          <l>כשאת רואה אותי כבה</l>
+          <l>את מאירה את ההווה - כי זמן להתאהב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואני - אני עבד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

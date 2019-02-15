@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בעצבות שקטה</title>
+        <singer classification="male singer">ישי לוי</singer>
+        <writer>יאיר מדינה</writer>
+        <composer>יהודה בדיחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בעצבות שקטה</head>
+        <lg number="1" type="stanza">
+          <l>ערפל סמיך ממרום שמיים</l>
+          <l>מתפזר אט אט</l>
+          <l>לב הולם כפטיש כבד</l>
+          <l>עוד חזון למועד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בעצבות שקטה ללא כל רחש</l>
+          <l>פוסע בין הדקויות</l>
+          <l>הרוח נושבת חיש בלחש</l>
+          <l>וקולה לי סודות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תמרות עשן עולים מנגד</l>
+          <l>מצללים תלולים</l>
+          <l>גם ברק ורעם חזק</l>
+          <l>ולבבות פועמים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בעצבות שקטה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יחידי סגולה ממרום שמיים</l>
+          <l>עד ימי התום</l>
+          <l>שם הרחק עד היכן אלך</l>
+          <l>עוד אדם מהלך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בעצבות שקטה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

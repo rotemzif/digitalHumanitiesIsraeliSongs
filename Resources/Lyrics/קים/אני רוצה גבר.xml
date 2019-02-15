@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני רוצה גבר</title>
+        <singer classification="unknown">קים</singer>
+        <writer>נינו אורסיאנו</writer>
+        <composer>נינו אורסיאנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני רוצה גבר</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אני רוצה גבר </l>
+          <l>אני רוצה גבר </l>
+          <l>אני רוצה גבר </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני רוצה גבר שיאהב אותי </l>
+          <l>אני רוצה גבר שיבין אותי </l>
+          <l>מצאתי את אהבתי בסתיו </l>
+          <l>בחור שרירי עם שרשרת זהב </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני רוצה גבר </l>
+          <l>אני רוצה גבר </l>
+          <l>אני רוצה גבר </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני רוצה גבר שיאהב אותי </l>
+          <l>גבר שיפנק אותי </l>
+          <l>גבר שהוא גבר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>העצב עבר לגור כאן</title>
+        <singer classification="band">טיפקס</singer>
+        <writer>קובי אוז</writer>
+        <composer>קובי אוז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>העצב עבר לגור כאן</head>
+        <lg number="1" type="stanza">
+          <l>העצב עבר לגור כאן אצלנו בבניין</l>
+          <l>והוא שכן די טוב, דופק בדלת, מעוניין</l>
+          <l>לדעת מה שלומנו, נגמר לו הסוכר</l>
+          <l>תמיד הוא מתקשר, אפילו מאוחר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>העצב גר כאן כבר הרבה שנים</l>
+          <l>אפילו יש לו ילדים קטנים</l>
+          <l>אחד קוראים לו כעס והשני אשמה</l>
+          <l>והם גרים אצלנו בדירה שכורה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>העצב בוועד הבית והוא מקפיד לגבות כספים</l>
+          <l>ואם לא תשלם הוא יצלצל עד שתסכים</l>
+          <l>העצב הוא הכי חזק אצלנו בשכונה</l>
+          <l>ואם תראה אותו ברחוב, תגיד שלום והוא יתן קריצה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>העצב גר כאן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

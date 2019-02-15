@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמור לי את יום המחר</title>
+        <singer classification="female singer">שולה חן</singer>
+        <writer>דודו ברק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמור לי את יום המחר</head>
+        <lg number="1" type="stanza">
+          <l>אנא, שמור לי את יום המחרת</l>
+          <l>שיהא כמו אתמול, כמו שלשום</l>
+          <l>כל רגע הולם בי ונחרת</l>
+          <l>מה חבל שמחר אינו היום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל השניות נאספו לדום</l>
+          <l>שותקות בשעון השעות</l>
+          <l>כי לו ציפייה רק היתה חולם</l>
+          <l>הן כדאי לחכות</l>
+          <l>הן כדאי לחכות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>למחר תן את רוח הלילות</l>
+          <l>ברחובות בסמטאות ובגנים</l>
+          <l>הדלק לדקות האפלות</l>
+          <l>כוכבים ושמים ופנים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל השניות נאספו לדום...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כתמיד את השקט לי אסוף</l>
+          <l>בין חיוך שליו לבין מגע היד</l>
+          <l>ולא יהיה לרגע סוף</l>
+          <l>והזמן לא יברח יותר לעד</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כל השניות נאספו לדום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

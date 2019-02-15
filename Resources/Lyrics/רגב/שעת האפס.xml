@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שעת האפס</title>
+        <singer classification="unknown">רגב 2</singer>
+        <writer>רגב</writer>
+        <composer>רגב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שעת האפס</head>
+        <lg number="1" type="stanza">
+          <l>לא מדברים על זה</l>
+          <l>לא מספרים על זה</l>
+          <l>סותמים את הפה ומרגישים</l>
+          <l>לא מבינים את זה</l>
+          <l>לאט מתקרבים לזה</l>
+          <l>כולם כבר יודעים זו העת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואני התמכרתי</l>
+          <l>לברקים, לחשמל ולעצמי</l>
+          <l>ואולי לא הבנתי</l>
+          <l>מה אמיתי, מה לא אמיתי...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שעת האפס הגיע אלינו</l>
+          <l>שעת האפס הגיעה, הגיעה, הגיעה היום</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בוא ונפסיק עם זה</l>
+          <l>עם מופע האורות הזה</l>
+          <l>הזמן ירפא את הכל...(את הכל)</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יכלותי לגמור עם זה</l>
+          <l>יכולתי לסבול את זה</l>
+          <l>בוא נעמיד פנים שזה הכל (יא אהה...)</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואני התמכרתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

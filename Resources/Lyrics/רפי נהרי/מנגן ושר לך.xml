@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מנגן ושר לך</title>
+        <singer classification="male singer">רפי נהרי</singer>
+        <writer>ציון חדד</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מנגן ושר לך</head>
+        <lg number="1" type="stanza">
+          <l>קרן סהר את פנייך מלטפת,</l>
+          <l>בזרועותייך אותי עוטפת.</l>
+          <l>אלייך קורץ ממעל כוכב,</l>
+          <l>בוהק מכסף, נוצץ מזהב.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מנגן ושר לך,</l>
+          <l>על גופך ידי פורטות אש להבה.</l>
+          <l>פי אל פיך נושא לך שיר ים-אהבה,</l>
+          <l>מנגן ושר לך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בזר-ורדים את שמך שוזר,</l>
+          <l>כפרפר אלייך נמשך, לא מוותר.</l>
+          <l>צליל צחוקך אותי לוכד,</l>
+          <l>הומה נפשי, גופי רועד.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מנגן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קטע מעבר</title>
+        <singer classification="band">בית הבובות</singer>
+        <writer>אמיר אטיאס</writer>
+        <composer>אמיר אטיאס</composer>
+        <album>שוב החיוך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קטע מעבר</head>
+        <lg number="1" type="stanza">
+          <l>את אף פעם לא תדעי מה באמת קרה</l>
+          <l>יד הגורל באה ולקחה את הדבר הכי יקר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואת מי שואלים את הלמה, למה, למה?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את בוחרת שלא להתמודד</l>
+          <l>כן הסיפור הזה יותר מדי כבר עלייך</l>
+          <l>אבל הכל מבפנים נשרף ומתפוצץ</l>
+          <l>כמה ניסית ואף אחד כבר לא מבין אותך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז ניתן לספר לגיטרה, לגיטרה, איך היא שרה...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ויש את הקול שאומר להמשיך הלאה, הלאה, הלאה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר של שלום</title>
+        <singer classification="band">הכוכבים הכחולים</singer>
+        <writer>גרי אקשטיין</writer>
+        <composer>גרי אקשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר של שלום</head>
+        <lg number="1" type="stanza">
+          <l>יום יבוא ועוד אשיר לך שיר </l>
+          <l>שיר עגום על מלחמה </l>
+          <l>מלחמה שכך חלפה לה </l>
+          <l>ואין כמותה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יום יבוא, יהיה זה יום בהיר </l>
+          <l>פינו כבר מלאי שמחה </l>
+          <l>יספרו לדור יותר צעיר </l>
+          <l>היתה מלחמה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שיר של שלום </l>
+          <l>שיר של אהבה </l>
+          <l>שיר של חזון </l>
+          <l>נבואה שהתגשמה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז נשיר כולנו פה אחד </l>
+          <l>שיר של גיל ושל שלום </l>
+          <l>שיר עליז על אהבה לעד </l>
+          <l>אחווה ותום </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ושכן ערבי יאמר לך אז </l>
+          <l>אהלן וסהלן </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שיר של שלום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

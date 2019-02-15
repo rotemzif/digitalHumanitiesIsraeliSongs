@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני כאן המלכה</title>
+        <singer classification="unknown">שיר בובליל</singer>
+        <writer>יעל סולדינגר</writer>
+        <composer>אסף בוכמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני כאן המלכה</head>
+        <lg number="1" type="stanza">
+          <l>עכשיו תשתוק ותשמע כי אני כאן המלכה</l>
+          <l>תשכל ת'הרגליים ותפתח ת'אוזניים</l>
+          <l>כן אני בשליטה ולך אין ברירה</l>
+          <l>אל תשלח את הידיים, רסן אותן בינתיים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תהיה רומנטיקן, לא עוד סתם מטומטם</l>
+          <l>אל תבוא שיכור, אל תבוא מסומם</l>
+          <l>שלא תעז לדפוק פוזות מול כולם</l>
+          <l>למיטה אל תמהר כי תחטוף אותה, חבר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז תפסיק ת'שקרים, תפסיק ת'משחקים</l>
+          <l>דבר אמיתי פנים מול פנים</l>
+          <l>אל תגיד לי זרמי, אל תגיד לי תרגיעי</l>
+          <l>אני ארגע שלא תלחץ אותי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני אולי מפונקת בעינייך ילדה</l>
+          <l>אך בלעדי לא תוכל, קבל אזהרה</l>
+          <l>צופה מלמעלה אתה נמצא בבועה,</l>
+          <l>תתרגל ידידי, אני הרעה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אז תפסיק ת'שקרים...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>סך הכל אני בחורה רגישה, אתה מבין.</l>
+          <l>מתחבאת כל יום, מתחבאת בדמויות</l>
+          <l>מדפדפת אותך לפרק הבא</l>
+          <l>שם הכל הופך, אהבה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה היא הדרך</title>
+        <singer classification="male singer">יצחק קלפטר</singer>
+        <writer>יצחק קלפטר</writer>
+        <composer>יצחק קלפטר</composer>
+        <album>יצחק</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה היא הדרך</head>
+        <lg number="1" type="stanza">
+          <l>מה היא הדרך</l>
+          <l>לשבת על הברך בלי לכופף אותה</l>
+          <l>אני יודע שזה נשמע פי מאה מוזר</l>
+          <l>כי אין תשובה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבל בינתיים מתבונן בנוף</l>
+          <l>מנסה למצות עד הסוף</l>
+          <l>את מבטך השובה לנצח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו שהיין</l>
+          <l>עוצם את העיניים בלי לתת ברירה</l>
+          <l>ככה החורף מטיל צמרמורת בעורף</l>
+          <l>לאורך חוט השדרה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבל בינתיים מתבונן בנוף...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>המסקנה פה</l>
+          <l>לסגור את העניין טוב, נכון וכראוי</l>
+          <l>אין זאת אומרת שככה או אחרת</l>
+          <l>השיר הזה פיצוי.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אבל בינתיים מתבונן בנוף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

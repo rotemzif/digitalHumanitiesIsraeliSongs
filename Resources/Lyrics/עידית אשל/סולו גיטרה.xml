@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סולו גיטרה</title>
+        <singer classification="female singer">עידית אשל</singer>
+        <writer>יענקל'ה רוטבליט</writer>
+        <composer>עידית אשל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סולו גיטרה</head>
+        <lg number="1" type="stanza">
+          <l>נושמת הלילה אויר מחושמל</l>
+          <l>נישאת מעלה מעלה כמו שטה על גל</l>
+          <l>מיתר מתכוון בי הלב מתופף</l>
+          <l>אתה מתנגן בי והעונג עוטף</l>
+          <l>אני צומחת אתך פורחת אני נפתחת ברכות </l>
+          <l>עולה בי שלהבת אני מתאהבת עד שבא לי למות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בכל מאודי אני שרה אני סולו, סולו גיטרה</l>
+          <l>בכל מאודי אני שרה אני סולו, סולו גיטרה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חכה לי חכה אני באה לשם</l>
+          <l>אתה מה עושה ממלא אותי </l>
+          <l>פורשת כנפיים דואה כמו ציפור</l>
+          <l>גבוה גבוה נוגעת באור</l>
+          <l>אני נאנחת מתלקחת אני נפתחת ברכות,</l>
+          <l>עולה בי שלהבת אני מתאהבת עד שבא לי למות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בכל מאודי אני שרה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נדם כל עוף</title>
+        <singer classification="male singer">דקלון</singer>
+        <writer>יעקב כהן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נדם כל עוף</head>
+        <lg number="1" type="stanza">
+          <l>נדם כל עוף על עץ</l>
+          <l>נרדם כל שיח באגם</l>
+          <l>לילה ירד ירד</l>
+          <l>ולמה למה, למה זה</l>
+          <l>אחרו פעמי דודי</l>
+          <l>אחרו מבוא.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רוח בעשב שט</l>
+          <l>זלזל נע בחלומו</l>
+          <l>קול מרחוק רחוק</l>
+          <l>שעטות פרסות אביר</l>
+          <l>עולות ממרחב שדה</l>
+          <l>דודי הוא יטוש אלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שעטות פרסות אביר</l>
+          <l>גוועות ממרחב שדה</l>
+          <l>דממה דממה.</l>
+          <l>צולל היקום בדממה</l>
+          <l>ליבי כקבר קופא</l>
+          <l>לא בא דודי דודי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רוח בעשב שט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

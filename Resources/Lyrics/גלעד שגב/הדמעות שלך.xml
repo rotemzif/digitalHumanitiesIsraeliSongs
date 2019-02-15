@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הדמעות שלך</title>
+        <singer classification="male singer">גלעד שגב</singer>
+        <writer>גלעד שגב</writer>
+        <composer>גלעד שגב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הדמעות שלך</head>
+        <lg number="1" type="stanza">
+          <l>אם נוותר על משמעות,</l>
+          <l>מה יישאר, לתת אל המחר.</l>
+          <l>אם את חוזרת על טעות,</l>
+          <l>אז איך נפסיק לחיות אותו דבר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואם את כאן, שנישאר,</l>
+          <l>אל תעשי שאשבר...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>והדמעות שלך,</l>
+          <l>קורעות אותי מבפנים,</l>
+          <l>פוגעות בי, משנות בי</l>
+          <l>את כל מה שעוד נשאר.</l>
+          <l>והדמעות שלך,</l>
+          <l>קורעות אותי מבפנים,</l>
+          <l>סוגרות לי את היום שלי איתך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם נוותר על מציאות,</l>
+          <l>איך נתגבר על רגש לא מוכר.</l>
+          <l>אם את נופלת בקלות,</l>
+          <l>אז איך נחזיק מול כוח העבר.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואם את כאן שנישאר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

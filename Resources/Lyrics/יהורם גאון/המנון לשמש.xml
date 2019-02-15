@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המנון לשמש</title>
+        <singer classification="male singer">יהורם גאון</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המנון לשמש</head>
+        <lg number="1" type="stanza">
+          <l>אדיר בקומו ברוך חומו</l>
+          <l>גדול במקומו דגול ביומו</l>
+          <l>שמש</l>
+          <l>הדור בחמתו ורוד בלכתו</l>
+          <l>זהוב בשקיעתו חתן במותו</l>
+          <l>שמש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שא עלינו שמש</l>
+          <l>בוא עלינו שמש</l>
+          <l>שים עלינו שמש</l>
+          <l>להאיר</l>
+          <l>שא עלינו שמש</l>
+          <l>בוא עלינו שמש</l>
+          <l>שים עלינו שמש</l>
+          <l>ונשיר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>טלול בקומו יחיד בחומו</l>
+          <l>כביר במקומו לביא ביומו</l>
+          <l>שמש</l>
+          <l>מולך בחמתו נסיך בלכתו</l>
+          <l>סוגד בשקיעתו ענוג במותו</l>
+          <l>שמש</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שא עלינו שמש...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>פוחז בקומו צוחק בחומו</l>
+          <l>קצין במקומו ראשון ביומו</l>
+          <l>שמש</l>
+          <l>שואג בחמתו תמים בלכתו</l>
+          <l>שכול בשקיעתו תינוק במותו</l>
+          <l>שמש</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שא עלינו שמש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

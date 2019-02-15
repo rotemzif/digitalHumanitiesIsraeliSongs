@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני יכול לעזור</title>
+        <singer classification="male singer">בני אמדורסקי</singer>
+        <writer>ביל סוון</writer>
+        <composer>ביל סוון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני יכול לעזור</head>
+        <lg number="1" type="stanza">
+          <l>אם את לא נרדמת כשיורד האור</l>
+          <l>השמיעי קול, אני יכול לעזור ועוד איך</l>
+          <l>יש לי שתי זרועות בשבילך</l>
+          <l>מה שטוב בשבילך</l>
+          <l>עושה לי טוב ועוד איך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בדידות היא מן מלכודת ועצב הוא מוקש</l>
+          <l>ולאישה כמוך אסור להתיאש</l>
+          <l>לא אלך - יש לי גב רחב בשבילך</l>
+          <l>מה שטוב בשבילך</l>
+          <l>עושה לי טוב ועוד איך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כשאני שוכב לישון את באה אלי בחלום</l>
+          <l>ומביאה לי אהבה ושלום</l>
+          <l>כל היום</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>למה את שוכחת היכן למצוא עידוד</l>
+          <l>אני כאן בלעדייך הולך לי לאיבוד ועוד איך</l>
+          <l>אני חי רק בשבילך</l>
+          <l>מה שטוב בשבילך עושה לי טוב ועוד איך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כשאני שוכב לישון את באה אלי בחלום</l>
+          <l>ומביאה לי אהבה ושלום</l>
+          <l>כל היום</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>למה את שוכחת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

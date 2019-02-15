@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עולמי</title>
+        <singer classification="unknown">חלי לוי</singer>
+        <writer>חלי לוי</writer>
+        <composer>חלי לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עולמי</head>
+        <lg number="1" type="stanza">
+          <l>מודה אני לפניך</l>
+          <l>ששלחת לי את שאהבה נפשי</l>
+          <l>שלח לנו אור ושמחה</l>
+          <l>בית של אהבה</l>
+          <l>נושאת תפילה שתשמור עלינו</l>
+          <l>שתמיד נהיה מאושרים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>האיש שכבש את ליבי</l>
+          <l>עולמי ועולמך נקשרים היום</l>
+          <l>צועדים אל החופה היום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מחזק אותי בכל רגע</l>
+          <l>תמיד לצידי</l>
+          <l>הוא לא יעצום את עיניו</l>
+          <l>עד שהכל מסתדר</l>
+          <l>נושאת תפילה שתשמור עלינו</l>
+          <l>שתמיד נהיה מאושרים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>האיש שכבש את ליבי</l>
+          <l>עולמי ועולמך נקשרים היום</l>
+          <l>צועדים אל החופה היום</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נשבעים את השבועה הזאת לעולמים</l>
+          <l>מתקרבים, מרגישים זאת באוויר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

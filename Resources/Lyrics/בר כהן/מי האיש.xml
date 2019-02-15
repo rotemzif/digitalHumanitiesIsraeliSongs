@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי האיש</title>
+        <singer classification="male singer">בר כהן</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>ברי אקיס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי האיש</head>
+        <lg number="1" type="stanza">
+          <l>אם יש דבר בעולם ששינה לי את חיי</l>
+          <l>שתי עיני שקד יוקדות וחיוך כובש מבט</l>
+          <l>את נושאת אותי תמיד בעקבותייך</l>
+          <l>מסתובב ברחובות חושב עלייך</l>
+          <l>את כמו סופה חולפת חודרת מבפנים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מי האיש אשר חדר אל תוך חדרי ליבך אמרי לי</l>
+          <l>מי האיש אותו את מסתירה מסוד האהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הימים להם עוברים ואת שוב בחיי</l>
+          <l>רק הזכרונות עולים כשאת ניצבת מול עיני</l>
+          <l>בלילות על מיטתי שוכב ולא נרדם</l>
+          <l>מנסה לשבור כאב שבי נשאר</l>
+          <l>את כמו סופה חולפת חודרת מבפנים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מי האיש אשר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

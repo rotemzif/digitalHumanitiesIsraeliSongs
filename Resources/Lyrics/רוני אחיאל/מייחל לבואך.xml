@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מייחל לבואך</title>
+        <singer classification="unknown">רוני אחיאל</singer>
+        <writer>רוני אחיאל</writer>
+        <composer>רוני אחיאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מייחל לבואך</head>
+        <lg number="1" type="stanza">
+          <l>כשהלכת והשארת דממה</l>
+          <l>עצב מסביב פתאום הותרת</l>
+          <l>אני לא הבנתי על מה</l>
+          <l>ולמה כל המהומה?</l>
+          <l>למה כל המהומה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך אני מייחל שוב לבואך</l>
+          <l>עצוב אני את כולי נתתי למענך</l>
+          <l>כואב אני על מה שעובר בי בגללך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשהלכת לא הותרת סימן</l>
+          <l>הזיכרון מכיר בנשמה</l>
+          <l>אני לא הבנתי על מה</l>
+          <l>ולמה כל המהומה?</l>
+          <l>למה כל המהומה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך אני מייחל שוב לבואך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

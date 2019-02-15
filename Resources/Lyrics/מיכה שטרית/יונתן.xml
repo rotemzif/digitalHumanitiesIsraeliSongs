@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יונתן 5</title>
+        <singer classification="male singer">מיכה שטרית</singer>
+        <writer>מיכה שטרית</writer>
+        <composer>מיכה שטרית</composer>
+        <album>מסמרים ונוצות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יונתן</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>יונתן טיפס על עץ ושכח לרדת</l>
+          <l>בינתיים אמא הזדקנה ואבא מת</l>
+          <l>אין מי שיגיד לילד</l>
+          <l>יונתן, יונתן רד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>העץ הנדיב פורש ענפיו מחבק את הילד</l>
+          <l>שניהם מביטים איך הנוף הופך לנדל"ן</l>
+          <l>אהיי! - צועק יונתן</l>
+          <l>אהיי! - מחזיר לו ההד</l>
+          <l>יונתן יונתן רד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תבוא הביתה תראה ערבים ערבים</l>
+          <l>תבוא הביתה תראה יהודים יהודים</l>
+          <l>ומה שבינהם זה אתה שתקוע פה באמצע</l>
+          <l>יונתן יונתן רד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יונתן טיפס...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

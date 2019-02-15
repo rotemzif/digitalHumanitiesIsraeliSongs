@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טוב על הלב</title>
+        <singer classification="male singer">פיני חדד</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עממי ערבי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טוב על הלב</head>
+        <lg number="1" type="stanza">
+          <l>זה היום שלנו אז בואי חבקיני </l>
+          <l>לך את חיי אתן</l>
+          <l>מלאכים אומרים תפילה בשמיים </l>
+          <l>והלב עונה אמן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שתמיד יהיה לנו טוב על הלב</l>
+          <l>נשמה יחד בשניים</l>
+          <l>נשכח מכל העולם</l>
+          <l>נפליג בים של אהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>החיים יפים והאושר</l>
+          <l>הלילה מביט לתוך עיני</l>
+          <l>המחר יביא לנו טוב את אומרת</l>
+          <l>ואני עונה הלוואי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שתמיד יהיה לנו טוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

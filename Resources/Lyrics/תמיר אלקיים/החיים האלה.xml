@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>החיים האלה</title>
+        <singer classification="unknown">תמיר אלקיים</singer>
+        <writer>שלמה כישור</writer>
+        <composer>שלמה כישור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>החיים האלה</head>
+        <lg number="1" type="stanza">
+          <l>החיים סופרים ימים בלחש,</l>
+          <l>השעון אף פעם לא עוצר.</l>
+          <l>הזמן כוזב, סובב הכל בכחש -</l>
+          <l>איש לא מרגיש איך פתע יתבגר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>החיים האלה חולפים הם כחלום;</l>
+          <l>עולה ובא השמש ונגמר היום.</l>
+          <l>עוד עונה עוברת, עוברת ואינה</l>
+          <l>והנה לפתע, תמה עוד שנה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חלומות רבים ירקום הלילה,</l>
+          <l>ציפיות מקננות בלב</l>
+          <l>ותפילות עולות בלאט למעלה</l>
+          <l>ומבקשות עוד גלגול-חוזר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>החיים האלה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ילדתי, מה עוד נשאר עדיין?</l>
+          <l>רק לקום לחיות את הנותר</l>
+          <l>ובריקוד ועם כוסית של יין,</l>
+          <l>שוב לא נרגיש איך שהזמן עבר.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>החיים האלה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

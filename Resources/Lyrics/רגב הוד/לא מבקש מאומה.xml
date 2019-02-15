@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא מבקש מאומה</title>
+        <singer classification="male singer">רגב הוד</singer>
+        <writer>דורית מוגרבי</writer>
+        <composer>אביחי מליחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא מבקש מאומה</head>
+        <lg number="1" type="stanza">
+          <l>מן תחושת ריקנות שכזו</l>
+          <l>מים רבים לא ימלאוה</l>
+          <l>גלים לא ברורים של דכדוך עמוק</l>
+          <l>כבאר עניה שיבשה</l>
+          <l>אל השקט יש גודש געגוע</l>
+          <l>והלב לא מפסיק לכאוב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא מבקש מאומה</l>
+          <l>רק את האור הגדול</l>
+          <l>שנמצא בתוך עיניה</l>
+          <l>ומשכיח הכל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לבדידות יש טעם גרוע</l>
+          <l>היא צובעת את הכל במרירות</l>
+          <l>וכמו פיתיון בים הפתוח</l>
+          <l>מנותק מכל המציאות</l>
+          <l>כמו עלה שנידף לו ברוח</l>
+          <l>מייחל שיגיע הטוב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא מבקש מאומה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

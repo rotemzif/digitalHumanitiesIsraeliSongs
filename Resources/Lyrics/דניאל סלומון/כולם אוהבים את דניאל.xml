@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כולם אוהבים את דניאל</title>
+        <singer classification="male singer">דניאל סלומון</singer>
+        <writer>דניאל סלומון</writer>
+        <composer>דניאל סלומון</composer>
+        <album>דניאל סלומון</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כולם אוהבים את דניאל</head>
+        <lg number="1" type="stanza">
+          <l>כל הילדים משחקים בחוץ</l>
+          <l>דניאל בפנים מנגן פסנתר</l>
+          <l>כל הילדים קוראים לדניאל לצאת</l>
+          <l>דניאל בפנים...רוצה לצאת לא רוצה לצאת</l>
+          <l>כולם אוהבים את דניאל</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל הילדים קוראים לדניאל לבוא</l>
+          <l>דניאל רוצה להשאר בפנים, להתאמן</l>
+          <l>עכשיו הם מקללים הם קוראים לו שמן</l>
+          <l>דניאל נפגע, עד היום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דניאל רוצה שאמא ואבא דווקא לא יחבקו</l>
+          <l>ולא יחזיקו יד ולא ילטפו</l>
+          <l>אבל אמא ואבא דווקא כן מחבקים חזק נורא</l>
+          <l>ודניאל רוצה לצאת לא רוצה לצאת</l>
+          <l>כולם אוהבים את דניאל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל הילדים משחקים בחוץ</l>
+          <l>דניאל בפנים מנגן פסנתר</l>
+          <l>כל הילדים קוראים לדניאל לצאת</l>
+          <l>דניאל בפנים..</l>
+          <l>והוא אומר: לעזאזל...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>איך כולם אוהבים את דניאל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

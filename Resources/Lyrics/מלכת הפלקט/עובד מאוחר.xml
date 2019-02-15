@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עובד מאוחר</title>
+        <singer classification="band">מלכת הפלקט</singer>
+        <writer>ברק גביזון</writer>
+        <composer>אמיתי אשר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עובד מאוחר</head>
+        <lg number="1" type="stanza">
+          <l>קם, אני קם מוקדם </l>
+          <l>עולה להסעה עם כולם </l>
+          <l>ואז בדרך נרדם.</l>
+          <l>הבושה כל כך קשה </l>
+          <l>משכורת של פועל </l>
+          <l>שמספיקה לי לסדנה לגישה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עובד מאוחר, </l>
+          <l>אני עבד של מיסים ומשטר</l>
+          <l>עכשיו נצא לשתות יין.</l>
+          <l>עובד מאוחר, </l>
+          <l>שותה פה את עצמי על הבר</l>
+          <l>הכל מרגיש לי בינתיים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מספר, אני רק מספר</l>
+          <l>כרטיס במערכת משומנת </l>
+          <l>כשהיום נגמר.</l>
+          <l>נסתר, חשוך וקר</l>
+          <l>ונשק ותחמושת שיספיקו לי</l>
+          <l>לשרוד עד מחר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עובד מאוחר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

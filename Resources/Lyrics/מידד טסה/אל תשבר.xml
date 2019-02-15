@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תשבר 2</title>
+        <singer classification="unknown">מידד טסה</singer>
+        <writer>אדיר מור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תשבר</head>
+        <lg number="1" type="stanza">
+          <l>תדע תמיד לאהוב בכל הכוח</l>
+          <l>גם עם טיפה של מכאוב צריך לשמוח</l>
+          <l>לא ליפול לתהום לא לברוח</l>
+          <l>הגעת כבר עד הלום תלמד לשכוח </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תשבר לעולם מול הרוח</l>
+          <l>כי זה טמון בליבך כל הכוח</l>
+          <l>אתה יודע שזה מגיע</l>
+          <l>הלב פועם חזק ולא רגוע </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מילה טובה לא תזיק זה ידוע</l>
+          <l>אם לא מצאת תקווה שב לנוח</l>
+          <l>לפעמים מאוכזב קצת פגוע</l>
+          <l>הגעת כבר עד הלום תלמד לשכוח </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תשבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר אהבה לך</title>
+        <singer classification="male singer">מתי כספי</singer>
+        <writer>מתי כספי</writer>
+        <composer>מתי כספי</composer>
+        <album>עולם אחר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר אהבה לך</head>
+        <lg number="1" type="stanza">
+          <l>לישון לחלום לצלול לשחות</l>
+          <l>לשוט רחוק רחוק</l>
+          <l>לקום לרוץ לראות לנשום</l>
+          <l>לטעום מתוק מתוק</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שנות ילדותי נדדו</l>
+          <l>מבלי לדעת לאן ומתי</l>
+          <l>חלומותייך תמימים</l>
+          <l>העירו את חלומותי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מבט תנועה מגע רכות של יד נאצלה</l>
+          <l>חיבוק מיזוג של גוף בגוף</l>
+          <l>באהבה שלמה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שנות ילדותי נדדו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לחוש כיצד האושר מתפשט</l>
+          <l>בגוף הנח</l>
+          <l>ושוב לדעת עד כמה</l>
+          <l>אני אוהב אותך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

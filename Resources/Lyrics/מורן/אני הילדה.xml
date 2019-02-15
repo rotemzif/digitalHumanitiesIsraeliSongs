@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני הילדה</title>
+        <singer classification="unknown">מורן 14</singer>
+        <writer>רוני אחיאל</writer>
+        <composer>יעקב שלומוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני הילדה</head>
+        <lg number="1" type="stanza">
+          <l>תכלת השמיים וים כחול</l>
+          <l>הכל מסביבי שקט ורגוע</l>
+          <l>זו ילדותי אותה אוהבת מאוד</l>
+          <l>אך כשאגדל אני מאוד אתגעגע, אתגעגע.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני הילדה שמאוהבת בחיים</l>
+          <l>אני הילדה שמאוהבת בשירים</l>
+          <l>אני הילדה להורים מדהימים</l>
+          <l>אך כשאגדל אתגעגע לילדותי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אור ירח ובשמיים כוכבים</l>
+          <l>מאירים לי ברוך את הלילה</l>
+          <l>זו ילדותי שתאיר את דרכי</l>
+          <l>לעולם יפה, עולם רגוע, עולם רגוע.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני הילדה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

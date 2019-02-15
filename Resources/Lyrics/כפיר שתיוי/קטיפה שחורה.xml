@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קטיפה שחורה</title>
+        <singer classification="male singer">כפיר שתיוי</singer>
+        <writer>כפיר שתיוי</writer>
+        <composer>כפיר שתיוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קטיפה שחורה</head>
+        <lg number="1" type="stanza">
+          <l>קטיפה שחורה </l>
+          <l>כל כך מכוערת </l>
+          <l>חיכיתי חריף וטעון כאקדח </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קטיפה שחורה </l>
+          <l>כל כך מכוערת </l>
+          <l>יצאתי מצריף כנוע </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>על השער נתלינו </l>
+          <l>נבלה ניקבתי </l>
+          <l>חרסינה הדבקנו את אפי סתמתי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עדיין לא שמתי </l>
+          <l>קפה בקופסא </l>
+          <l>בעיניה קסמתי </l>
+          <l>קפה מקולקל </l>
+          <l>אין גלידה </l>
+          <l>היא משקרת </l>
+          <l>אני תוהה </l>
+          <l>להיוותר או ללכת </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>על השער נתלינו... </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>בבית סגור </l>
+          <l>עשרים אגדות </l>
+          <l>מיטל בנחל </l>
+          <l>גילתה לי סודות </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>זה היה כמו חלום </l>
+          <l>הרבה שמש </l>
+          <l>הקיץ האמצע </l>
+          <l>ותם אמש </l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>על השער נתלינו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

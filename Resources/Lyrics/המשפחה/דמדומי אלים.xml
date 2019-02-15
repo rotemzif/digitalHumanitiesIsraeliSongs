@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דמדומי אלים</title>
+        <singer classification="band">המשפחה</singer>
+        <writer>גלעד מאירי</writer>
+        <composer>יובל יבנה</composer>
+        <album>המשפחה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דמדומי אלים</head>
+        <lg number="1" type="stanza">
+          <l>כבר קניתי, אך טרם הספיקותי לעיין, כן </l>
+          <l>הייתי במסיבה טבטונית פרועה </l>
+          <l>אצל השכן, כן, כן </l>
+          <l>אבל מי סיפר אותך ככה? </l>
+          <l>מי סיפר אותך ככה? </l>
+          <l>תדע, כולם קצוצי שיער </l>
+          <l>בספרטה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם היו שואלים אותי </l>
+          <l>מה אני באמת רוצה </l>
+          <l>הייתי מבקש שישדרו בלויין </l>
+          <l>את מה שאני חושב לכל העולם </l>
+          <l>אבל עד אז, מי בכלל ידע </l>
+          <l>שאני חי וקיים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שוב מתאחדים כל התולעים </l>
+          <l>לדרקון של אש </l>
+          <l>תראה איך אתה מתלבש </l>
+          <l>תדע, לובשים קצר כשקר </l>
+          <l>ארוך כשחם </l>
+          <l>אל תהיה סתם אחד </l>
+          <l>כמו כולם </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם היו שואלים אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

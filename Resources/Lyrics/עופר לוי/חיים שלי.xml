@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חיים שלי 8</title>
+        <singer classification="male singer">עופר לוי</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>שי ראובני</composer>
+        <album>בדרך שבחרתי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חיים שלי</head>
+        <lg number="1" type="stanza">
+          <l>הלב שלי נוסע</l>
+          <l>לאן  אנ'לא  יודע</l>
+          <l>רק חכי לי ותתני לי</l>
+          <l>את ליבך ותאמיני</l>
+          <l>אם רק תחייכי לי</l>
+          <l>ואותי תביני </l>
+          <l>ת'נשמה שלי אני אתן לך</l>
+          <l>כי הלב שלי רוצה בך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לעולם אני פה אחכה לך</l>
+          <l>ת'חיים שלי אני אתן לך </l>
+          <l>ואוהב כמו שאני יודע</l>
+          <l>לך יפה שלי מתגעגע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איתך אני נוגע</l>
+          <l>באור  המשגע </l>
+          <l>כמו מלאך איתי הולכת</l>
+          <l>ועלי תמיד שומרת</l>
+          <l>כשאת בי נוגעת</l>
+          <l>את ליבי פותחת</l>
+          <l>איך תמיד רק את יודעת</l>
+          <l>עד הסוף אותי לקחת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לעולם אני פה אחכה לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

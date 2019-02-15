@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתיש</title>
+        <singer classification="unknown">דיה רז</singer>
+        <writer>דיה רז</writer>
+        <composer>דיה רז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתיש</head>
+        <lg number="1" type="stanza">
+          <l>אני לא רוצה להיות פה </l>
+          <l>ואתה יושב מולי </l>
+          <l>לא רוצה אולי יותר משאני </l>
+          <l>כבר שנתיים אנחנו סביב אותו השולחן </l>
+          <l>אז למה לא קמנו מזמן </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה מתיש </l>
+          <l>בנקודה הזאת זה מביש </l>
+          <l>זה מתיש </l>
+          <l>בנקודה הזאת זה מביש </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאני עם אחר אתה מתאבל </l>
+          <l>כשאני לבד אתה מסתדר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה מתיש </l>
+          <l>בנקודה הזאת זה מביש </l>
+          <l>זה מתיש </l>
+          <l>בנקודה הזאת זה מביש</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

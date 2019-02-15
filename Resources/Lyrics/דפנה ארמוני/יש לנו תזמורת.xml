@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לנו תזמורת</title>
+        <singer classification="female singer">דפנה ארמוני</singer>
+        <writer>דתיה בן דור</writer>
+        <composer>דתיה בן דור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לנו תזמורת</head>
+        <lg number="1" type="stanza">
+          <l>אנחנו לא צריכים פסנתר ולא כינור או חלילית,</l>
+          <l>אנחנו לא צריכים תופים ולא גיטרה חשמלית,</l>
+          <l>אנחנו לא צריכים אף פעם, סיבה למסיבה,</l>
+          <l>כי אנחנו מנגנים על מה שבא!</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ויש לנו תזמורת, תזמורת,</l>
+          <l>תזמורת שעוד לא הייתה כמוה,</l>
+          <l>תזמורת, תזמורת,</l>
+          <l>תזמורת שכדאי לכם לשמוע.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז הצטרפו כולכם אלינו, כל אחד מכם מוזמן,</l>
+          <l>כי חגיגה כל-כך מוצלחת לא הייתה כאן כבר מזמן,</l>
+          <l>ואם אתם רוצים לדעת בדיוק את הסיבה,</l>
+          <l>אז אנחנו הסיבה הכי טובה!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ויש לנו תזמורת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

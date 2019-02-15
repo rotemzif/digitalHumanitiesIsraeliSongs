@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה אני 4</title>
+        <singer classification="unknown">יוסי עדן</singer>
+        <writer>יוסי עדן</writer>
+        <composer>יוסי עדן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה אני</head>
+        <lg number="1" type="stanza">
+          <l>נמצא לבדי מנותק מהחיים</l>
+          <l>עכשיו את לא נמצאת מי יבין אותי</l>
+          <l>לא יכול לשכוח אותך נשמה</l>
+          <l>זה קשה מתגעגע לחיבוקים שלך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זה אני שבוכה בגלל מה שקרה</l>
+          <l>זה אני שסובל לבדי ילדה</l>
+          <l>כמה שאהבתי איש לא ידע</l>
+          <l>כל גבר שאוהב זקוק לאהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>התרגלתי רק אליך לא רוצה עוד אהבה</l>
+          <l>אך את לא מקשיבה לי ליבך כמו חומה</l>
+          <l>סגרת לי את הדלתות כבר אין בי אמונה</l>
+          <l>לא יכול להתאהב שוב פעם נערה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

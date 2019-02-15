@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמא מדברת לעצמה</title>
+        <singer classification="male singer">דודו טסה</singer>
+        <writer>דודו טסה</writer>
+        <composer>דודו טסה</composer>
+        <album>בסוף מתרגלים להכל</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמא מדברת לעצמה</head>
+        <lg number="1" type="stanza">
+          <l>כל כך פוחד מהים</l>
+          <l>כל כך פוחד מהגשם</l>
+          <l>מהדמעות שלך</l>
+          <l>הנה זה מגיע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל כך פוחד מעמודי חשמל</l>
+          <l>ליהשאר לבד ללא מגע</l>
+          <l>מהדמעות שלך</l>
+          <l>הנה זה מגיע</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אמא מדברת לעצמה</l>
+          <l>מדברת לעצמה</l>
+          <l>צריך לקחת אחריות</l>
+          <l>כבר לא ילד</l>
+          <l>אבל כל כך רוצה לישון</l>
+          <l>וזה בוקר יום ראשון</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל כך דואג מהזמן</l>
+          <l>הדאגות זזות מהלב לגוף</l>
+          <l>הדיכאון שלך</l>
+          <l>הנה זה מגיע</l>
+          <l>חושך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אמא מדברת לעצמה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מאיפה מתחילים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשאת אינך</title>
+        <singer classification="male singer">יזהר כהן</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשאת אינך</head>
+        <lg number="1" type="stanza">
+          <l>אבל כשאת אינך שומם וקר</l>
+          <l>בא החורף סתיו נגמר</l>
+          <l>העצים בחצר עייפים לא יותר</l>
+          <l>כאילו פתאום מעולם אחר</l>
+          <l>אלי את מביאה את האביב</l>
+          <l>מפזרת מסביב ניצנים בפריחה</l>
+          <l>בכל פרח ברכה, בכל שמחה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשאת פה...</l>
+          <l>את לפעמים עוצמת פנים</l>
+          <l>יוצאת בפריחה</l>
+          <l>לא האמנתי שמלכת האביב</l>
+          <l>בתוך השמחה בעצם בוכה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תמיד שאת אינך שומם וקר...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את יוצאת ואיתך אביבי שנשכח</l>
+          <l>הגשם חוזר אלי</l>
+          <l>לביתי לגינה ואלי </l>
+          <l>איך את לא מבינה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כשאת אינך אצלי שומם וקר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sun 5</title>
+        <singer classification="female singer">תמר אייזנמן</singer>
+        <writer>תמר אייזנמן</writer>
+        <composer>תמר אייזנמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Sun</head>
+        <lg number="1" type="stanza">
+          <l>Don’t take away my sun </l>
+          <l>Take away what once I called home </l>
+          <l>Don’t take away my light </l>
+          <l>Take away the brighter days I once knew </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Don’t take away my life </l>
+          <l>Take away my love I’ve never met </l>
+          <l>Don’t take away my shining knight </l>
+          <l>Take away my sight take away my tide </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>All this time I thought I could get away </l>
+          <l>All this time I thought I could get away </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>Don’t take away my tries </l>
+          <l>Take away what’s left from all I wondered </l>
+          <l>Don’t take away my sky </l>
+          <l>Take away the laughters I forgot all about </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>All this time I thought I could get away </l>
+          <l>All this time I thought I could get away </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>Don’t take away my trust </l>
+          <l>Take away my heart </l>
+          <l>Take away my truth </l>
+          <l>Take away the lies </l>
+          <l>Take away these eyes I’ve fallen into</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

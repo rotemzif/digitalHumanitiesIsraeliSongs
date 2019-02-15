@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלום שכחה</title>
+        <singer classification="male singer">דני בסן</singer>
+        <writer>חנה גולדברג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלום שכחה</head>
+        <lg number="1" type="stanza">
+          <l>הסדין קריר</l>
+          <l>הגוף כבד</l>
+          <l>שוכב על הגב וכבר לא חושב</l>
+          <l>הזרמים בגב</l>
+          <l>ההזיות</l>
+          <l>פרפר לבן מתחבא בין השמיכות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל חלום שכחה</l>
+          <l>אני נופל</l>
+          <l>מפקיר את כולי</l>
+          <l>לרוחות</l>
+          <l>הידיים שלך</l>
+          <l>הרכות</l>
+          <l>נותנות לי סיבה לחיות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הדלתות שלי סגורות עכשיו</l>
+          <l>ואני חולם שאני מדבר</l>
+          <l>הפרפר שלי</l>
+          <l>הלבן</l>
+          <l>לוקח אותי רחוק מכאן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל חלום שכחה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נביחה קטועה</l>
+          <l>שיעול רחוק</l>
+          <l>את זורמת אלי</l>
+          <l>ממשיכה לשתוק</l>
+          <l>הפרפר אומר שכבר מאוחר</l>
+          <l>ומבטיח לחזור מחר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אל חלום שכחה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוא 181</title>
+        <singer classification="unknown">לאה זלוטניק</singer>
+        <writer>לאה זלוטניק</writer>
+        <composer>לאה זלוטניק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוא</head>
+        <lg number="1" type="stanza">
+          <l>מי כיבה את השמש בעולמי</l>
+          <l>מי סדק את הירח בלילות</l>
+          <l>מי אחז בכפו את נפשי</l>
+          <l>גורם לי ליפול בכבדות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בוא בוא בוא בוא בוא </l>
+          <l>בוא בוא נו כבר בוא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מי שמע את קולי מרחוק</l>
+          <l>והושיט לי יד בחלומות</l>
+          <l>מי זה סילק רוחות רעות</l>
+          <l>פתח לי חלון ותקוות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בוא בוא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

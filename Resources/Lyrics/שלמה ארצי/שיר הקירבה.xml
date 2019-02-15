@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הקירבה</title>
+        <singer classification="male singer">שלמה ארצי</singer>
+        <writer>שלמה ארצי</writer>
+        <composer>שלמה ארצי</composer>
+        <album>צימאון</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הקירבה</head>
+        <lg number="1" type="stanza">
+          <l>שוב שנינו בחדר ואיש לא שם לב,</l>
+          <l>המבט שלך שוב, מסגיר מין כאב,</l>
+          <l>יש נשים שאוספות את שערן,</l>
+          <l>יש גברים שבוכים על נשים,</l>
+          <l>הלב שלי חם, הרגשתי קרבה,</l>
+          <l>איך אסביר את עצמי?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שוב שנינו נוסעים ואיש לא שם לב,</l>
+          <l>מההגה יש פיפ, ציפצוף של כאב,</l>
+          <l>יש נשים שנותנות את עצמן,</l>
+          <l>יש גברים שתמיד נשברים.</l>
+          <l>כך אני מתקרב, איך אסביר את עצמי,</l>
+          <l>כך אני מתקרב.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עוד מעט - עצבותי תהפוך לכיף,</l>
+          <l>עוד מעט - שימחתי תהיה שימחתך,</l>
+          <l>עוד מעט - אפגוש אותך במקרה.</l>
+          <l>במטבח במיטה אחכה...</l>
+          <l>איש לא מת מקירבה,</l>
+          <l>אז בואי אלי,</l>
+          <l>איש לא מת מקירבה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הערב יורד, האושר מורכב,</l>
+          <l>מפוצץ לי הראש, אבל יש לי אותך,</l>
+          <l>ברחתי ממך כמו מאש,</l>
+          <l>עכשיו אני שוב מתרגש...</l>
+          <l>נושף לתוך יד, שיהיה יותר חם,</l>
+          <l>עוד מעט נתקרב.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עוד מעט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

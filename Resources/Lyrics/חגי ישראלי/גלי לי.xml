@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גלי לי 2</title>
+        <singer classification="male singer">חגי ישראלי</singer>
+        <writer>דניאל בן יוסף</writer>
+        <composer>דניאל בן יוסף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גלי לי</head>
+        <lg number="1" type="stanza">
+          <l>אֶת כל היופי בעינייך, בך מצאתי אהובה</l>
+          <l>לו רק היית יודעת כמה את יקרה</l>
+          <l>איתך אני מרגיש קרוב, </l>
+          <l>להיות איתך עושה רק טוב</l>
+          <l>כי את הדרך בחיי, את התקווה שלי כל יום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גלי לי את הסוד שלך</l>
+          <l>לחבק אותך אלי</l>
+          <l>את דרכי הראי</l>
+          <l>נתבי את כל חיי</l>
+          <l>מותק את היחידה</l>
+          <l>לך נתתי אהבה</l>
+          <l>כי אני אוהב אותך</l>
+          <l>לעד אני שלך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מכל הלב אותך אהבתי, לך שמרתי את הכל</l>
+          <l>ולא שווה כלום בלעדייך, את הכל..</l>
+          <l>לנשום אותך זה ממכר</l>
+          <l>את כמו החץ שבי בוער</l>
+          <l>ואת כולי את מטריפה </l>
+          <l>יש בעינייך אהבה...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גלי לי את הסוד שלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בחורף הזה</title>
+        <singer classification="female singer">מור שטייגל</singer>
+        <writer>מור שטייגל</writer>
+        <composer>מור שטייגל</composer>
+        <album>מחשבות יכולות לשנות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בחורף הזה</head>
+        <lg number="1" type="stanza">
+          <l>בחורף הזה נוולד מחדש</l>
+          <l>במקום שני קווים ישרים נהיה משולש</l>
+          <l>נתעטף בגלימה אדומה</l>
+          <l>אני ואתה בחורף הזה נכנס למקדש</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בחורף הזה ירדו גשמים חזקים</l>
+          <l>נחלים יתמלאו, הזרם ישטוף את הפצעים</l>
+          <l>שלי ושלך, דמי בדמך, ממני ממך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כשתבוא המלכה הקרח יימס</l>
+          <l>יופיע פתאום אושר חדש</l>
+          <l>קשת גדולה, צבעונית תנצנץ</l>
+          <l>תיתן לנו אות משמיים</l>
+          <l>תיתן לנו אש</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בחורף הזה נרפד את הפינות</l>
+          <l>נחליף מקומות, נשנה החלטות</l>
+          <l>נתכרבל במיטה כמו שני חתולים</l>
+          <l>אני ואתה בחורף הזה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כשתבוא המלכה הקרח יימס</l>
+          <l>יופיע פתאום אושר חדש</l>
+          <l>קשת גדולה, צבעונית תנצנץ</l>
+          <l>תיתן לנו אות משמיים</l>
+          <l>תיתן לנו אש</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

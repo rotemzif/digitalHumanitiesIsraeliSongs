@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלטף ת כרית</title>
+        <singer classification="unknown">שלומי נחמני</singer>
+        <writer>שי אלמגור</writer>
+        <composer>דוד נעים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלטף ת'כרית</head>
+        <lg number="1" type="stanza">
+          <l>זה עוד לילה קר שאני ישן בלעדייך</l>
+          <l>מנסה להדחיק ת'געגוע אלייך</l>
+          <l>ביום ובליל אני חושב רק עלייך</l>
+          <l>אבל זה קשה כי רוצה שוב אלייך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פיזמון:</l>
+          <l>מתוך שינה מלטף ת'כרית</l>
+          <l>בחלומות כמו תמיד את היית</l>
+          <l>מתעורר בכל בוקר מחפש לי סימן</l>
+          <l>והעיניים בורקות מהדמעות שזולגות מעצמן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתעורר מחלום למציאות הכואבת</l>
+          <l>נזכר שהבטחת שאת אותי לא עוזבת</l>
+          <l>בתוכי יודע שאת אותי עוד אוהבת</l>
+          <l>גם כשאת לצידו רק עליי את חושבת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פיזמון:</l>
+          <l>מתוך שינה מלטף ת'כרית</l>
+          <l>בחלומות כמו תמיד את היית</l>
+          <l>מתעורר בכל בוקר מחפש לי סימן</l>
+          <l>והעיניים בורקות מהדמעות שזולגות מעצמן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

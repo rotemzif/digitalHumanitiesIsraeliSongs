@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואי לנוח</title>
+        <singer classification="male singer">דקלון</singer>
+        <writer>שרה שובל</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואי לנוח</head>
+        <lg number="1" type="stanza">
+          <l>אותך ראיתי באה מן הבוקר</l>
+          <l>בסרפן ובידך ילקוט</l>
+          <l>את צמותייך אז ראיתי על כתפייך</l>
+          <l>ברק שחור בזיכרוני חרוט</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואי לנוח</l>
+          <l>נוחי על כתפי</l>
+          <l>אלטף את שיערך האפור</l>
+          <l>יחד נחלום</l>
+          <l>ונזכור עד תום</l>
+          <l>של כל אותם זמנים שמאחור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אותך ראיתי באה מן השחר</l>
+          <l>אני נצבתי שם מעט נבוך</l>
+          <l>אמרת אלי שלום ואז עוד לא ידענו</l>
+          <l>שיחד עוד נלך בשביל ארוך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בואי לנוח...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ביתנו הראשון היה האוהל</l>
+          <l>ומהצריף עברנו לשיכון</l>
+          <l>אך באותם זמנים קשה היה לדעת</l>
+          <l>כיצד נוכל לבחור את הכיוון</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בואי לנוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

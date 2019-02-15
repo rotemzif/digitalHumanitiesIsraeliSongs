@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין לאן לברוח 4</title>
+        <singer classification="unknown">נתנאל 2</singer>
+        <writer>דודו ברק</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין לאן לברוח</head>
+        <lg number="1" type="stanza">
+          <l>לאן פנית לך אהובה</l>
+          <l>הרי אותך אני אוהב</l>
+          <l>כה רחוקה וכה קרובה</l>
+          <l>לך מחכה בלב חרב.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חכי חכי לי בת בלי בית</l>
+          <l>חכי חכי לי בת החן</l>
+          <l>אצלי יש אור וגג לשניים</l>
+          <l>אין לאן לברוח אין.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין לאן לברוח אין.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אולי נמלטת מעצמך</l>
+          <l>אולי ממני וממך</l>
+          <l>הולך אני ומסתבך</l>
+          <l>אין אהבה לי מלבדך.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>חכי חכי לי בת בלי בית...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

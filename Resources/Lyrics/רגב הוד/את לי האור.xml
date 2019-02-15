@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את לי האור</title>
+        <singer classification="male singer">רגב הוד</singer>
+        <writer>אלון צדוק</writer>
+        <composer>אריק זנטי</composer>
+        <album>מרגיש בטוח</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את לי האור</head>
+        <lg number="1" type="stanza">
+          <l>כשחלמתי על אישה זה היה עלייך</l>
+          <l>לא ביקשתי דבר רק מבט מעינייך</l>
+          <l>את שלחת יד ללטף את פני</l>
+          <l>זה גרם לי אושר ולדמעה בקצה עיני</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את לי האור שמאיר את דרכי</l>
+          <l>את לי האור שממלא את עולמי</l>
+          <l>בלעדייך אני חצי ואיתך אני הכל</l>
+          <l>את כל חיי את צבעת בסגול</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא כסף וזהב אצלך אני חיפשתי</l>
+          <l>חשוב לי שתדעי שאותך אני אהבתי</l>
+          <l>לא אחליף אותך באף אחת בעולם</l>
+          <l>כי את בשבילי הדבר כי מושלם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את לי האור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

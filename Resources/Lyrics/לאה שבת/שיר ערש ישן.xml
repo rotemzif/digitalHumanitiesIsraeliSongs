@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר ערש ישן 2</title>
+        <singer classification="female singer">לאה שבת</singer>
+        <writer>יעקב גלעד</writer>
+        <composer>לאה שבת</composer>
+        <album>כל השירים - אוסף</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר ערש ישן</head>
+        <lg number="1" type="stanza">
+          <l>קומי, אל תרדמי עכשיו</l>
+          <l>תני לשיר לך שיר ערש ישן</l>
+          <l>יפה שלי חיוורות ידייך</l>
+          <l>מבט עינייך נמלט מכאן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ליבי יוצא אלייך</l>
+          <l>ועל פנייך צעיף לבן</l>
+          <l>בואי נלך לישון עכשיו</l>
+          <l>באתי לשיר לך</l>
+          <l>שיר ערש ישן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

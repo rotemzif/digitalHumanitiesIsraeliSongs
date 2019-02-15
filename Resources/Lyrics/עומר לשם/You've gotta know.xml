@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>You ve gotta know</title>
+        <singer classification="unknown">עומר לשם</singer>
+        <writer>עומר לשם</writer>
+        <composer>עומר לשם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>You've gotta know</head>
+        <lg number="1" type="stanza">
+          <l>You gotta know </l>
+          <l>When it’s time to let go </l>
+          <l>You gotta know </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>You gotta know </l>
+          <l>When it’s time to let go </l>
+          <l>You gotta grow </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>You gotta grow </l>
+          <l>When it’s time to let go </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>A spunge of love </l>
+          <l>A brush of laughter </l>
+          <l>A soap for anger </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>You gotta know </l>
+          <l>When it’s time to let go </l>
+          <l>You gotta know </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>You gotta know </l>
+          <l>When it’s time to let go </l>
+          <l>You gotta grow </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>You gotta grow </l>
+          <l>When it’s time to let go </l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>A drop of water </l>
+          <l>rains and saves you </l>
+          <l>from me.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

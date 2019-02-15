@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני קוראים לי כפיר</title>
+        <singer classification="unknown">כפיר עטיה</singer>
+        <writer>שרון אסולין</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני קוראים לי כפיר</head>
+        <lg number="1" type="stanza">
+          <l>חושב עלייך ויכול להשתגע</l>
+          <l>את ממרמרת ות'חיים עושה קשים</l>
+          <l>אני הלכתי בשבילך עד הירח,</l>
+          <l>הוא אמר לי הירח לך תתפוס כוכב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני, קוראים לי כפיר</l>
+          <l>אל תעשי לי שריר</l>
+          <l>זה משחק שביר</l>
+          <l>שכל אחד יתפוס פינה שקטה בעיר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלכתי וקניתי לנו קילו תותים,</l>
+          <l>רציתי להמתיק את העולם שלך</l>
+          <l>אבל פתחתי ת'עיניים, התעוררתי,</l>
+          <l>בכל בוקר יש לי ג'וקר, לא סופר אותך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני, קוראים לי כפיר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

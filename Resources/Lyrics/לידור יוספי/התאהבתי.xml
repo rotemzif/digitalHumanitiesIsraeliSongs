@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>התאהבתי 4</title>
+        <singer classification="male singer">לידור יוספי</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>התאהבתי</head>
+        <lg number="1" type="stanza">
+          <l>חשבתי שאת נוגעת לי ברגשות</l>
+          <l>ידך מלטפת אותי בנחת.</l>
+          <l>חשבתי שאת נוגעת לי ברגשות</l>
+          <l>ידעתי שאיתך אוכל לחיות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לפעמים אני שואל מהי אהבה</l>
+          <l>ואיך עושים אותה פורחת ונוגה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כן, התאהבתי בך לגעת</l>
+          <l>להתאהב מכל הלב</l>
+          <l>ולתת לך כל מה שבא לך</l>
+          <l>לוותר לך ולקבל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חשבתי שאת יודעת עד כמה אהבות</l>
+          <l>מכאיבות הן ונוגעות בלבבות</l>
+          <l>חשבתי שאת נוסעת לנדוד בין החוצות</l>
+          <l>לספור ת'כוכבים שם בלילות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לפעמים אני שואל מהי אהבה</l>
+          <l>ואיך עושים אותה פורחת ונוגה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כן, התאהבתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

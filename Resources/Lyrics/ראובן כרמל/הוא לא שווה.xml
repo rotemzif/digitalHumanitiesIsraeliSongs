@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הוא לא שווה 3</title>
+        <singer classification="unknown">ראובן כרמל</singer>
+        <writer>ראובן כרמל</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הוא לא שווה</head>
+        <lg number="1" type="stanza">
+          <l>ספרי ילדה את כל אשר אומר ליבך </l>
+          <l>גלי ילדה לא אל תבכי כי זה כואב בנשמה בנשמה </l>
+          <l>הוא לא שווה את סבלך אשר בלב הוא לא שווה </l>
+          <l>עוד תראי שהוא יחזור ויבקש ממך סליחה... </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בגלל אישה שפיטתה אליה הוא הלך </l>
+          <l>מה הוא כבר יודע איך הוא הפסיד </l>
+          <l>איתך ילדה אין לו כבר ילדה אין לו כבר עתיד.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>למענו, את הלב שלך נתת </l>
+          <l>רק בשבילו, הכל עשית שהוא ישמח </l>
+          <l>את דמעתך הוא לא שווה </l>
+          <l>ואת ילדה בוכה על אהבה שמתה </l>
+          <l>בגללו את סובלת מיוסרת </l>
+          <l>את דמעתך הוא לא שווה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בגלל אישה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

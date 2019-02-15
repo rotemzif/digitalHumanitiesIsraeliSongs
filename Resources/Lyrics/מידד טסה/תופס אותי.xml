@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תופס אותי</title>
+        <singer classification="unknown">מידד טסה</singer>
+        <writer>אביעד גיל</writer>
+        <composer>דורון אלימלך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תופס אותי</head>
+        <lg number="1" type="stanza">
+          <l>כשהדרך נעלמת ובחוץ אפור כל כך</l>
+          <l>אמונה בלב יוקדת</l>
+          <l>קרן אור עולה מהמזרח</l>
+          <l>כשהדרך מתמשכת</l>
+          <l>ומחר בא יום חדש</l>
+          <l>התקווה בלב זורמת</l>
+          <l>בתוכי אני כל כך נרגש</l>
+          <l>עומד אני כאן ושואל</l>
+          <l>אומר כל יום תודה לאל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך אתה תופס אותי ומכוון אותי</l>
+          <l>איך אתה נותן את התקווה</l>
+          <l>איך אתה שומר אותי ומחזק אותי</l>
+          <l>תמיד כל יום מהתחלה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשהדרך מתפתלת </l>
+          <l>ועכשיו קשה כל כך</l>
+          <l>אור יבוא מתוך התכלת</l>
+          <l>אהבה גדולה עכשיו תפרח</l>
+          <l>עומד אני כאן ושואל</l>
+          <l>אומר כל יום תודה לאל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך אתה תופס אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

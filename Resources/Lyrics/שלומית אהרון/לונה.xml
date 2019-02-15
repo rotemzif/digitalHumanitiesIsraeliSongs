@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לונה 6</title>
+        <singer classification="female singer">שלומית אהרון</singer>
+        <writer>אהוד מנור</writer>
+        <composer>עממי צועני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לונה</head>
+        <lg number="1" type="stanza">
+          <l>שוב עולה הלבנה </l>
+          <l>כסופה ומכשפת </l>
+          <l>בי היא שמה את עינה </l>
+          <l>ליבי בסכנה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הו, לונה </l>
+          <l>בת שטן רכת מראה </l>
+          <l>מערפלת את מוחי </l>
+          <l>יקרה מה שיקרה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זוהי שעת הלבנה </l>
+          <l>ונפשי נטרפת </l>
+          <l>הקללה הישנה </l>
+          <l>אותי שוב מענה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הו, לונה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>במצוות הלבנה </l>
+          <l>רוחי שוב מרחפת </l>
+          <l>ועכשיו היא מוכנה </l>
+          <l>לבוא אל אובדנה </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הו, לונה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

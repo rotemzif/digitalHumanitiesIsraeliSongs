@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>למה למה 4</title>
+        <singer classification="male singer">תמיר גל</singer>
+        <writer>יוש גרנות</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>למה למה</head>
+        <lg number="1" type="stanza">
+          <l>למה למה אחריה</l>
+          <l>כעיוור אני פוסע</l>
+          <l>לא יודע לא יודע</l>
+          <l>איך כבשה את לבבי</l>
+          <l>למה למה אחריה</l>
+          <l>נשמתי יוצאת אליה</l>
+          <l>לעיניה לשפתיה</l>
+          <l>לצחוקה האמיתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נערה חמודה ומתולתלת</l>
+          <l>בחיוך ילדות מסתכלת</l>
+          <l>בידי מחזיקה ושואלת</l>
+          <l>שאומר לה מה זאת אהבה</l>
+          <l>נערה חיננית ופורחת</l>
+          <l>לא יודעת לתת ולקחת</l>
+          <l>רק עכשיו את עיניה פוקחת </l>
+          <l>ולומדת שיש בעולם אהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>למה למה אחריה</l>
+          <l>מאוהב אני פוסע</l>
+          <l>ואף פעם לא שבע</l>
+          <l>מלהיות בחברתה</l>
+          <l>למה למה אחריה</l>
+          <l>לא רואה ולא שומע</l>
+          <l>רק פוסע וגומע</l>
+          <l>את פרחי אהבתה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נערה חמודה ומתולתלת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

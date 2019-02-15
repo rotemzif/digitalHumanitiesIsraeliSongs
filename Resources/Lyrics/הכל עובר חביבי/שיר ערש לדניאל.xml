@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר ערש לדניאל</title>
+        <singer classification="band">הכל עובר חביבי</singer>
+        <writer>יובל דור</writer>
+        <composer>יובל דור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר ערש לדניאל</head>
+        <lg number="1" type="stanza">
+          <l>נום דניאל שן בשקט</l>
+          <l>חיבוק לאבא ולישון</l>
+          <l>אולי יבוא מלאך קטון</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בוא נכפתר ת'פיג'מה</l>
+          <l>אולי הרוח תנשב</l>
+          <l>שם על הברוש מלאך יושב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>נומה נומה נום ילד טוב</l>
+          <l>נומה נומה שקט ברחוב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נום דניאל שן בשקט</l>
+          <l>עצום עינים וחלום</l>
+          <l>אולי יבוא מלאך שלום</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אין גמדים פה בחדר</l>
+          <l>וגם החושך לא מפחיד</l>
+          <l>תמיד יבוא מלאך</l>
+          <l>תמיד</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>נומה נומה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

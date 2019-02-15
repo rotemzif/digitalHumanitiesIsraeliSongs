@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>החיים יפים 5</title>
+        <singer classification="unknown">משה חוף</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>החיים יפים</head>
+        <lg number="1" type="stanza">
+          <l>היו לך ימים עצובים</l>
+          <l>שאותם את זוכרת</l>
+          <l>ועם זכרונות כואבים,</l>
+          <l>לבדך מסתגרת.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יפים החיים כמו שמיים אז למה תרימי ידיים?</l>
+          <l>אין שמחה בדמעות ולא נחת-רוח</l>
+          <l>לא נמצא נחמה אם נאמר רק לברוח.</l>
+          <l>בתוך הבית את מסתגרת</l>
+          <l>ולא יוצאת משם ומתבדרת.</l>
+          <l>כן, יפים החיים כמו שמיים</l>
+          <l>ואת עדיין עוצמת עיניים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חבל על הזמן שעובר</l>
+          <l>בעודך מסתגרת</l>
+          <l>כי עוד יום יבוא ויתברר</l>
+          <l>כי אפשר גם אחרת.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יפים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

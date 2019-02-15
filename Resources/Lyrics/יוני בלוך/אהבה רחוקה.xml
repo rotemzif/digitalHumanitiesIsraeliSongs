@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה רחוקה 3</title>
+        <singer classification="male singer">יוני בלוך</singer>
+        <writer>ברק פלדמן</writer>
+        <composer>יוני בלוך</composer>
+        <album>על מי אני עובד</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה רחוקה</head>
+        <lg number="1" type="stanza">
+          <l>אם תרצי אהיה לך שביל עפר, לא מוכר</l>
+          <l>ממורדות ים המלח אל הגן, שבהר</l>
+          <l>אתפתל לרגלייך כנחש מאוהב</l>
+          <l>וארקום באוזנייך סיפורי זהב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהבה רחוקה, צל ענן שחור</l>
+          <l>עוד שניה, עוד דקה, יעלה האור</l>
+          <l>האויר מתמלא רסיסים של טל</l>
+          <l>ותראי שזה קל, שזה כל כך קל </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם תרצי, אהיה לך שביל קטן, מסוכן</l>
+          <l>אגלה לך בסלע עץ תמר, מעיין </l>
+          <l>תעצמי את עינייך ואוביל את דרכך</l>
+          <l>למקומות שעדיין איש אינו הולך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהבה רחוקה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

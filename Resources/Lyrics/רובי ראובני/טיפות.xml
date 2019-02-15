@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טיפות 16</title>
+        <singer classification="male singer">רובי ראובני</singer>
+        <writer>רובי ראובני</writer>
+        <composer>רובי ראובני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טיפות</head>
+        <lg number="1" type="stanza">
+          <l>טיפות קטנות של גשם</l>
+          <l>על חלון בתוך מזנון קטן</l>
+          <l>וסימנים של ערב ביום חול בסתיו</l>
+          <l>רעב וזה לא פלא המגע איתך לקח די זמן</l>
+          <l>מבחינתי זה בסדר קשר בלי רומן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אנשים ממהרים כמו מכונה</l>
+          <l>מטפסים אל סף הסבל בלי תבונה</l>
+          <l>וזה מצחיק אותי כל פעם</l>
+          <l>כי מה הטעם</l>
+          <l>במיטת פאר אם אין בה שלווה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>טיפות קטנות של גשם</l>
+          <l>איזה כיף נגמר הקיץ כבר</l>
+          <l>ורוח מלטפת אותי ליטוף מוכר</l>
+          <l>תמשיכי ללטף</l>
+          <l>אני אוהב את זה ויש לי זמן</l>
+          <l>מזמין לי עוד קפה עם קצת חלב בצד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אנשים ממהרים כמו מכונה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

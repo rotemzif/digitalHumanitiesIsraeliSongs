@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר מחאה</title>
+        <singer classification="band">כוורת</singer>
+        <writer>יוני רכטר</writer>
+        <composer>missing</composer>
+        <album>פוגי בפיתה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר מחאה</head>
+        <lg number="1" type="stanza">
+          <l>שלום אזרחים</l>
+          <l>לא מזמן חזרתי מביקור בכורדיסטן</l>
+          <l>ובדרום סאוות' אפריקה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שוחחתי עם האיכרים קלות</l>
+          <l>ועם איכרות כבדות </l>
+          <l>ולמדתי דבר אחד:</l>
+          <l>אנשים הם גם בני אדם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כבר שנתיים לא ישן, ובמוחי המתרוקן</l>
+          <l>מחשבות מתרוצצות והנה המסקנות עולות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני אומר שכחול זה לא שחור</l>
+          <l>אני אומר שלצחוק זה לא לבכות</l>
+          <l>אני אומר שאהבה אין בעולם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

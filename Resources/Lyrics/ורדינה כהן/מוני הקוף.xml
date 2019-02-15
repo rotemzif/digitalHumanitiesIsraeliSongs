@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מוני הקוף</title>
+        <singer classification="female singer">ורדינה כהן</singer>
+        <writer>אורלי בינדר</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מוני הקוף</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אני הוא קוף שקוראים לו מוני </l>
+          <l>כשאני אומר אתם עושים כמוני</l>
+          <l>כמוני? לא כמוני! אה... </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני מושך באוזניים </l>
+          <l>ומוציא לשון אחת ושתיים</l>
+          <l>על האף עכשיו לוחצים </l>
+          <l>והלשון בפנים!</l>
+          <l>אני הוא קוף...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני צובט בלחיים </l>
+          <l>וסוגר את העיניים</l>
+          <l>אני לוחץ על הסנטר </l>
+          <l>ובעיני לראות חוזר</l>
+          <l>אני הוא קוף...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני המון אויר לוקח </l>
+          <l>את הלחיים מנפח </l>
+          <l>באגרופים על הלחיים </l>
+          <l>ומפוצץ אחת ושתיים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני הוא קוף שקוראים לו מוני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

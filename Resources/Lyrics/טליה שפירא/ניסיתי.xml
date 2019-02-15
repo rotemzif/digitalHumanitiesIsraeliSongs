@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ניסיתי 2</title>
+        <singer classification="female singer">טליה שפירא</singer>
+        <writer>יהודה אטלס</writer>
+        <composer>רביב גזית</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ניסיתי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>ניסיתי אלף פעמים לפחות,</l>
+          <l>להחזיק את העיניים פתוחות עד הסוף בשביל לדעת,</l>
+          <l>סוף סוף</l>
+          <l>מה באמת מרגיש הבן אדם...</l>
+          <l>בדיוק ברגע שהוא נרדם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ניסיתי אלף פעמים לפחות,</l>
+          <l>להחזיק את העיניים פתוחות עד הסוף בשביל לדעת,</l>
+          <l>סוף סוף</l>
+          <l>מה באמת מרגיש הבן אדם...</l>
+          <l>בדיוק ברגע שהוא נרדם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה באמת מרגיש הבן אדם...</l>
+          <l>בדיוק ברגע שהוא נרדם.</l>
+          <l>ניסיתי המון ותמיד סתם...</l>
+          <l>כי ברגע האחרון! ברגע האחרון!</l>
+          <l>ברגע האחרון אני נרדם... </l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שתי ציפורים 2</title>
+        <singer classification="unknown">רן כהן</singer>
+        <writer>רן כהן</writer>
+        <composer>רן כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שתי ציפורים</head>
+        <lg number="1" type="stanza">
+          <l>שתי ציפורים ואנחנו יושבים פה בגן,</l>
+          <l>אישה אחת וכלב וילד קטן</l>
+          <l>משחקים אחד לשני בשיער,</l>
+          <l>מרגישים שזה עוד לא נגמר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שתי ציפורים ואנחנו יושבים פה בגן,</l>
+          <l>אישה אחת וכלב וילד קטן</l>
+          <l>מחבקים חזק את מה שנותר,</l>
+          <l>אוהבים נורא זה עוד לא נגמר.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בדרך אל הלב שלך אני נמצא,</l>
+          <l>מטפס במדרגות אל הקומה האחרונה,</l>
+          <l>אדבר אתו ביחידות לב אל לב</l>
+          <l>והוא בטח יבין את הכאב שלי אליך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ועכשיו ערב אני ואת בגן,</l>
+          <l>הציפורים עפו מזמן שמיים כתומים וקצת מעונן,</l>
+          <l>משחקים אחד לשני בשיער,</l>
+          <l>מרגישים שזה עוד לא נגמר.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בדרך אל הלב שלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

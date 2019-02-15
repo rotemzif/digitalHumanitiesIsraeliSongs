@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ביקור מולדת 3</title>
+        <singer classification="female singer">רונית אופיר</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>דיויד ברוזה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ביקור מולדת</head>
+        <lg number="1" type="stanza">
+          <l>חזרתי הביתה אחרי עשרים שנה</l>
+          <l>במבט ראשון דבר לא השתנה</l>
+          <l>שני סוסים קשורים לעץ התאנה</l>
+          <l>קרטון על הבטון עם "חץ לחתונה"</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רקפות עוטפות זרי סלעים כהים</l>
+          <l>שלוליות מקרקרות את שיר הצפרדעים</l>
+          <l>הזקנים יושבים בחוץ ומדברים</l>
+          <l>ספלים סדוקים של תה, בסקוויטים עם חורים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אבל לאן נעלמו הילדים</l>
+          <l>ששיחקתי איתם</l>
+          <l>איפה כל הילדים</l>
+          <l>איפה הם כולם</l>
+          <l>מי לקח לי אותם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תרנגולות, פרות ופה ושם כבשים</l>
+          <l>שפן בורח כמו שפן לתוך הפרדסים</l>
+          <l>מרבד תלתן רטוב נוצץ באור ירוק</l>
+          <l>שועל שקרן בוכה בואדי לא רחוק</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אבל לאן נעלמו הילדים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שוברת שתיקה 2</title>
+        <singer classification="female singer">מאיה בוסקילה</singer>
+        <writer>טל שגב</writer>
+        <composer>יעקב למאי</composer>
+        <album>שוברת שתיקה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שוברת שתיקה</head>
+        <lg number="1" type="stanza">
+          <l>היום אני עוזבת את כל מה שאהבתי</l>
+          <l>היום אני פוצעת את כל מה שיקר לי</l>
+          <l>עכשיו אני שומרת על כל מה שאבד לי</l>
+          <l>עכשיו אני שוברת שתיקה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פתאום אני שומעת את כל מה שחלש לי</l>
+          <l>ואל תגיד ידעתי שיום אחד תקומי</l>
+          <l>מכאן אני צובעת את כל מה שעבר בי</l>
+          <l>היום אני שוברת שתיקה ארוכה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שמע, היום אני עוזבת אותך</l>
+          <l>אני כבר לא שלך או של גופך</l>
+          <l>שמע, היום אני פוגעת בך</l>
+          <l>ליבי זר ללבך</l>
+          <l>תתחיל לוותר עלי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היום אני צומחת מכל מה שנבל בי</l>
+          <l>פתאום הכל ברור לי כאילו שנולדתי</l>
+          <l>עכשיו אני אוהבת את כל מה שהרחקתי</l>
+          <l>עכשיו אני שוברת שתיקה ארוכה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שמע, היום אני עוזבת אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סיכוי נוסף</title>
+        <singer classification="unknown">פאר טסי</singer>
+        <writer>שמואל אלבוחר</writer>
+        <composer>שמואל אלבוחר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סיכוי נוסף</head>
+        <lg number="1" type="stanza">
+          <l>אתה תמצא עוד אהבה כך היא אמרה ונעלמה</l>
+          <l>לא צריך להתייאש תהיה חזק</l>
+          <l>שיער זהוב ומקורזל עוטף ראשה </l>
+          <l>ומבטה המתנשא אל על משיב לשאלה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חשבתי שנצליח לאחד את שנינו לעולם</l>
+          <l>ובליבנו תישאר האהבה</l>
+          <l>רציתי לנסות אך לא נתת לזה סיכוי נוסף</l>
+          <l>אמרת שזה לא יסתדר וזה נגמר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז איך זה שדברים קורים לאנשים מסויימים </l>
+          <l>שמסתדרים כמו שרוצים ולנו לא</l>
+          <l>האם אפשר עוד לנסות נסי לחשוב עוד יום אחד</l>
+          <l>ותחשבי שזה יכול להיות גם טוב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חשבתי שנצליח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

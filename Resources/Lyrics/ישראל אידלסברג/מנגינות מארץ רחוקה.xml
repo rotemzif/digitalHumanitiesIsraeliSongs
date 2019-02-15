@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מנגינות מארץ רחוקה</title>
+        <singer classification="male singer">ישראל אידלסברג</singer>
+        <writer>ישראל אידלסברג</writer>
+        <composer>ישראל אידלסברג</composer>
+        <album>בשורות טובות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מנגינות מארץ רחוקה</head>
+        <lg number="1" type="stanza">
+          <l>אור סוף של יום</l>
+          <l>הרקיע כתום</l>
+          <l>ים גדול, עמוק</l>
+          <l>קו האופק רחוק</l>
+          <l>כוכב למעלה</l>
+          <l>ורוח קרירה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יושב מול הגלים,מביט על החיים</l>
+          <l>מתחיל לשיר אל תוך הלילה</l>
+          <l>מנגינות מארץ רחוקה</l>
+          <l>מתחבר אל הקולות אל הצבעים</l>
+          <l>לפלא כשהנשמה קורנת</l>
+          <l>העולם כולו שירה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גל,שיטפון</l>
+          <l>געגוע לתום</l>
+          <l>זר פרחים אדום</l>
+          <l>מעלה זיכרון</l>
+          <l>מביא ניחוח</l>
+          <l>של גשם ראשון</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יושב מול הגלים,מביט על החיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

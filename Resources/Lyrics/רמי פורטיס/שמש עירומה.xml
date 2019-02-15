@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמש עירומה</title>
+        <singer classification="male singer">רמי פורטיס</singer>
+        <writer>רמי פורטיס</writer>
+        <composer>גיל סמטנה</composer>
+        <album>פורטיס משולש</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמש עירומה</head>
+        <lg number="1" type="stanza">
+          <l>ניצוצות ורעם כל כלבי הזעם</l>
+          <l>מר וסגור כל כך</l>
+          <l>אותן קליפות מפעם וטקסים בלי טעם</l>
+          <l>זר ושקוף כל כך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה שזוהר לא מסנוור יותר משמש עירומה או יהלום סינטטי</l>
+          <l>מי שחופר לא ימצא יותר משמץ בשממה או מילה טובה ברגע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דחלילים ברוח הכל בלון נפוח</l>
+          <l>עף וצפוי כל כך</l>
+          <l>כל מלמול בטוח מתגלגל שטוח</l>
+          <l>צף ואפוי כל כך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה שזוהר לא מסנוור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

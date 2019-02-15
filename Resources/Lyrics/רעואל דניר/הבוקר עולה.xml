@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הבוקר עולה</title>
+        <singer classification="unknown">רעואל דניר</singer>
+        <writer>רעואל דניר</writer>
+        <composer>רעואל דניר</composer>
+        <album>רעואל דניר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הבוקר עולה</head>
+        <lg number="1" type="stanza">
+          <l>הבוקר עולה, מבין סדינים עיניים שוב שמחות </l>
+          <l>זה יום של חג עכשיו ברחובות </l>
+          <l>לחלום את החיים איתך </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza" />
+        <lg number="3" type="stanza">
+          <l>הבוקר עולה, יד אל יד נמשכת למגע </l>
+          <l>חלון נפתח לעיר הרטובה </l>
+          <l>לחלום את החיים איתך </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza" />
+        <lg number="5" type="stanza">
+          <l>הבוקר עולה, האור מתגלה </l>
+          <l>תראי איך שהיום זוהר </l>
+          <l>משהו בנו משתחרר </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>הבוקר עולה, האור מתגלה </l>
+          <l>מה שלמדנו בכאב </l>
+          <l>נחלוק עכשיו עם לב אוהב </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>הבוקר עולה, יד אל יד נמשכת למגע </l>
+          <l>חלון נפתח לעיר העייפה </l>
+          <l>לחלום את החיים איתך </l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>הבוקר עולה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

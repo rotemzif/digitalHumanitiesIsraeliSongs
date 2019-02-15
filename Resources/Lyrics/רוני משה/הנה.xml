@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הנה 63</title>
+        <singer classification="unknown">רוני משה</singer>
+        <writer>רוני משה</writer>
+        <composer>רוני משה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הנה</head>
+        <lg number="1" type="stanza">
+          <l>געגוע בי רודף צדק מבקש</l>
+          <l>אני הוא שאשם בשקט מתוודה</l>
+          <l>געגוע למילים לידיים הרכות</l>
+          <l>מותיר אותי שבוי לא יכול להשתנות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הנה אני עומד פה לפניך</l>
+          <l>מתחפש לעיוור משתיקותיך</l>
+          <l>הנה אני מוטל פה לרגליך</l>
+          <l>מחפש את האמת - שבדבריך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>געגוע במחול כטרף קל בלי קול</l>
+          <l>אליו אני הולך אל ידיו המפתות</l>
+          <l>געגוע כזאב לא שבע לא רעב</l>
+          <l>בחושך מזדנב פצוע וכואב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הנה אני עומד פה לפניך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>געגוע משתולל מתפלל ומתפתל</l>
+          <l>רוצה להגאל צועק ומקלל</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הנה אני עומד פה לפניך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

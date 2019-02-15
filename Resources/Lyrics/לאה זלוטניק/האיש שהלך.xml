@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האיש שהלך</title>
+        <singer classification="unknown">לאה זלוטניק</singer>
+        <writer>לאה זלוטניק</writer>
+        <composer>דורון פיקר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האיש שהלך</head>
+        <lg number="1" type="stanza">
+          <l>חכי לי אמרת מחר ימים המתנתי</l>
+          <l>כל זיכרון כבר נשבר אך האמנתי</l>
+          <l>מבט אל האופק נישא שם רק צללים</l>
+          <l>כל דמיון זה אתה כמו ההוזים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גם אם עכשיו תעלה מראש ההר הזה</l>
+          <l>אני לך לא כבר, לא אחכה יותר</l>
+          <l>גם אם עכשיו תבקש סלחי לי זה לא יקרה</l>
+          <l>אני למענך כבר לא אמות יותר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עלה ברוח נידף ואני ביקשתי</l>
+          <l>קח את גופי שכחש לאיש שהלך לי</l>
+          <l>שם בטללים כך אומר ממך נתלשתי</l>
+          <l>לא עוד אמתינה מחר הכל נגמר כי...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גם אם עכשיו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

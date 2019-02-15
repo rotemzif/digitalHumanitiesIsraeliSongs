@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חיים שכאלה</title>
+        <singer classification="unknown">חוה דולב</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>דוד זיגמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חיים שכאלה</head>
+        <lg number="1" type="stanza">
+          <l>מה שיש לי בלב אני לא שומרת</l>
+          <l>ממש מיותר לשחק משחקים</l>
+          <l>אתה האביר שחשבתי שיש לי</l>
+          <l>טעיתי איתך ואין לי מילים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אייה יה יא ייהי נשמה טוב שלי</l>
+          <l>אייה יה יא ייהי לא אתה לא בשבילי</l>
+          <l>חפש לך אחרת במקומי</l>
+          <l>אני רוצה את החיים שלי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את כל הבדיחות מזמן כבר שמעתי</l>
+          <l>וגם הבטחות מפה עד אילת</l>
+          <l>עכשיו לפחות בטוח הבנתי</l>
+          <l>שאין לי ממך ממה לצפות.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אייה יה יא ייהי נשמה טוב שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

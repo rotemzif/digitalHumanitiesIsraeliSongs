@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שחורות עיניה</title>
+        <singer classification="male singer">שלמה ארצי</singer>
+        <writer>משה אלימלך</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שחורות עיניה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>שחורות עיניה פיה ארגמן</l>
+          <l>אבל מראה פניה השתכח מזמן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נערה אוהבת מחכה לי שם</l>
+          <l>גל שערה שלהבת ויופיה שושן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חרש עזבתיה בצאתי לים</l>
+          <l>מחר ודאי אגיע אל ביתה החם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל הבית באתי אוי להפתעה</l>
+          <l>הבת אשר אהבתי לאחר נישאה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שחורות עיניה פיה ארגמן</l>
+          <l>אבל מראה פניה השתכח מזמן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

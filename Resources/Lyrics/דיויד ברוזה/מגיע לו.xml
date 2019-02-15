@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מגיע לו</title>
+        <singer classification="unknown">דיויד ברוזה</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>missing</composer>
+        <album>ברוזה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מגיע לו</head>
+        <lg number="1" type="stanza">
+          <l>הוא לא היה בבית כבר עשרים שנה</l>
+          <l>ורק צרות היו לו בכל פינה</l>
+          <l>הוא לא ישן חודשיים, שבוע לא אכל</l>
+          <l>שתה חבית של יין, אחר כך הוא נפל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תלכי אצלו, תקחי אותו</l>
+          <l>פרשי עליו כנפיים, מגיע לו</l>
+          <l>תלכי אצלו, תקחי אותו</l>
+          <l>הראי לו את קסמייך, מגיע לו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חיפשו אותו בלילה, סיפרו שהוא ברח</l>
+          <l>אמרו שהוא נשק לה, למרות שרק נבח</l>
+          <l>מצאו אותו מרוח מתחת עץ התות</l>
+          <l>והוא עבר ניתוח, עכשיו הוא כמו סמרטוט</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תלכי אצלו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תפסו את הפושע, והוא יצא על תנאי</l>
+          <l>ראו אותו טובע, אבל הוא צף וחי</l>
+          <l>הרגו לו את החשק, כיוונו אליו אקדח</l>
+          <l>סגרו לו את העסק, עכשיו הוא לא שלך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תלכי אצלו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

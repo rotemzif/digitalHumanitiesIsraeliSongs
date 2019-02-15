@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נימני בבית ר</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>דידי הררי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נימני בבית"ר</head>
+        <lg number="1" type="stanza">
+          <l>בין המחנות, בין השחקנים, בין העצבים שלנו</l>
+          <l>כלום לא נותר, נימני בבית"ר</l>
+          <l>בין היציאים, בין יותר דגלים, עם כל הסמלים שלנו</l>
+          <l>כלום לא נותר, נימני בבית"ר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הזמן עובר, הזמן עבר ונימני בבית"ר</l>
+          <l>קיץ, חורף, סתיו, אביב, שלום לך תל אביב</l>
+          <l>ני ני ני נימני, ני ני ני נימני בבית"ר</l>
+          <l>ני ני ני נימני, ני ני ני נימני בבית"ר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כבר שלוש שנים שכאן נטענים, איפה הקבוצה שלנו?</l>
+          <l>לא נשאר כבר שום דבר</l>
+          <l>אין אליפויות, אין שום תארים, איפה הגביעים שלנו</l>
+          <l>עכשיו נגמר, נימני בבית"ר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הזמן עובר, הזמן עבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלכוהוליסט</title>
+        <singer classification="female singer">זהבה בן</singer>
+        <writer>רמי ברזל</writer>
+        <composer>רמי ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלכוהוליסט</head>
+        <lg number="1" type="stanza">
+          <l>שתיים בלילה, עולה בן אדם</l>
+          <l>מסטול, זרוק מאלכוהול</l>
+          <l>עונה כמוכן למערכה</l>
+          <l>שנמשכת כבר שלושים שנה</l>
+          <l>נכנס הביתה, והילדים רועדים ובוכים</l>
+          <l>אותו לא מעניין, שולף ת'חגורה</l>
+          <l>הם מסתירים את הפנים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלכוהוליסט, אתה תמות אלכוהוליסט</l>
+          <l>אלכוהוליסט, אתה תמות אלכוהוליסט</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הבוקר הגיע, והוא כמו חדש</l>
+          <l>לא זוכר מה היה</l>
+          <l>נחמד לכולם, אדם חדש </l>
+          <l>אז למה מסתכלים עליו בחשש?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלכוהוליסט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

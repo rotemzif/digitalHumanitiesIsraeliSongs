@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נערה מדליקה</title>
+        <singer classification="unknown">דורון מירן</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נערה מדליקה</head>
+        <lg number="1" type="stanza">
+          <l>את כמו פרח, כה עדינה ונהדרת</l>
+          <l>וכמו יין כל חושי את מסחררת.</l>
+          <l>אני נשבע לך, תמיד אהיה שלך, אהובתי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את נערה שמדליקה</l>
+          <l>ואותי את מסובבת במבט שובב.</l>
+          <l>את נערה שמדליקה,</l>
+          <l>בלבי האש בוערת, אני מאוהב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את כה אוהבת ומתוקה ומרגשת.</l>
+          <l>את סודותייך אל תסתירי ותאמיני,</l>
+          <l>רק אני ואת נשב יחד, אהובתי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את נערה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נעצמות עיניים</title>
+        <singer classification="band">תערובת אסקוט</singer>
+        <writer>אסף אמדורסקי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נעצמות עיניים</head>
+        <lg number="1" type="stanza">
+          <l>נכנס לחיים פחות קשים</l>
+          <l>סוגר אחרי את הדלת</l>
+          <l>פושט את הבגדים</l>
+          <l>פושט את הבגדים...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מתבונן במראה שמנגד</l>
+          <l>והמים זורמים</l>
+          <l>אני שוקע לתוכה</l>
+          <l>שוקע לתוכה...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>פושט את הפצעים מעלי</l>
+          <l>את כל הכאבים</l>
+          <l>את כל הכאבים </l>
+          <l>מעלי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נכנס לחיים פחות קשים</l>
+          <l>סוגר אחרי את הספר</l>
+          <l>נעצמות עיניים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>פושט את הפצעים מעלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

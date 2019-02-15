@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכל יכול 3</title>
+        <singer classification="unknown">העיר הגדולה</singer>
+        <writer>זיו הימלפרב</writer>
+        <composer>אורן סניה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכל יכול</head>
+        <lg number="1" type="stanza">
+          <l>שלוש בלילה או שלוש בבוקר</l>
+          <l>מתקשה להירדם או מסרב להתמכר</l>
+          <l>לחלומות המפחידים לחולומות המוכיחים</l>
+          <l>למציאות האחרת שיש לך בפנים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לכתוב שירים ולזיין את עצמך</l>
+          <l>לקרוא עיתונים ולהיתלות בשביב תקווה</l>
+          <l>להיות זונה של הייטק ועבד של רוקנרול</l>
+          <l>ובכל בוקר להבין שאתה לא הכל יכול.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רצפות מתפרקות ומטענים מתפוצצים</l>
+          <l>כאילו לא מספיק מה שקורה לך בפנים</l>
+          <l>הפסקת אש או עליית מדרגה</l>
+          <l>ואתה בכלל עוד מתקשה בנשימה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לכתוב שירים ולזיין את עצמך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמרי לי כן</title>
+        <singer classification="male singer">שיר לוי</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>יוסי גיספן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמרי לי כן</head>
+        <lg number="1" type="stanza">
+          <l>יש כאלה שחולמים על בית משפחה </l>
+          <l>אחרים עפים באשליות על הצלחה </l>
+          <l>ואני רוצה אותך ולא מבין על מה </l>
+          <l>ממני את חומקת כמו מאש חמה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אמרי לי כן ,אמרי אולי </l>
+          <l>תגידי איפה ומתי </l>
+          <l>אני אבוא אלייך עם זר של שושנים </l>
+          <l>ואם תרצי אני אוריד לך את העננים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את איילת חן יפה כמוך אין בשירים </l>
+          <l>את פורטת בתוכי על כל המיתרים </l>
+          <l>למה את סוגרת את ליבך אלי ילדה  </l>
+          <l>אם לא תגידי לי אף פעם לא אדע </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אמרי לי כן ,אמרי אולי </l>
+          <l>תגידי איפה ומתי </l>
+          <l>אני אבוא אלייך עם זר של שושנים </l>
+          <l>ואם תרצי אני אוריד לך את העננים </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מה חטאתי מה פשעתי באהבתי  </l>
+          <l>לא יודע למה את מענישה אותי </l>
+          <l>בכרמים פרחה הגפן הרימון הנץ </l>
+          <l>וליבי מאהבה אלייך מתפוצץ</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הקנאה</title>
+        <singer classification="male singer">יהודה פוליקר</singer>
+        <writer>יעקב גלעד</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הקנאה</head>
+        <lg number="1" type="stanza">
+          <l>מי יעצור את ים הדמעות </l>
+          <l>תנו לי לשכוח תנו לי לבכות </l>
+          <l>מי ירפא את שבר הלב </l>
+          <l>פצע פתוח מר וכואב </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הקנאה שבי </l>
+          <l>מרעילה את נשמתי </l>
+          <l>הקנאה </l>
+          <l>מטריפה את דעתי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק אהבה </l>
+          <l>מה היא עשתה לי </l>
+          <l>איך האמנתי </l>
+          <l>איך היא שיקרה לי </l>
+          <l>אם היא נחשקת </l>
+          <l>טוב שאינני </l>
+          <l>אם היא צוחקת </l>
+          <l>זה בטח ממני </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הקנאה שבי... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>פעם ליבי ניצת וכבה </l>
+          <l>פעם נשרף באש ונכווה </l>
+          <l>פעם גופי נסחף וטבע </l>
+          <l>פעם אחת הייתה אהבה </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הקנאה שבי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תדאגי 8</title>
+        <singer classification="male singer">עמיר לב</singer>
+        <writer>עמיר לב</writer>
+        <composer>עמיר לב</composer>
+        <album>לפעמים אני מאושר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תדאגי</head>
+        <lg number="1" type="stanza">
+          <l>לפעמים אני מאושר</l>
+          <l>נשארנו צמאים</l>
+          <l>ואין לך מאהב</l>
+          <l>ואנחנו עוד מתנשקים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ארוחות כבדות הורסות אותי</l>
+          <l>אין לי כוח לסמים</l>
+          <l>כורסא נוחה זה התחלה של סוף</l>
+          <l>הכי חשוב זה הילדים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אל תדאגי אני סתם יושב</l>
+          <l>את יודעת כמה אני אוהב</l>
+          <l>נשבע שום דבר רע</l>
+          <l>את יודעת העצב בא ועוזב</l>
+          <l>עכשיו הוא בא</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שניות מפרידות בין שמחה וצער</l>
+          <l>כדורים וכתובות זעה קרה</l>
+          <l>אולי הפסקתי להקשיב</l>
+          <l>אולי עשיתי משהו רע</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אל תדאגי אני סתם יושב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה הן המילים</title>
+        <singer classification="male singer">שלמה ארצי</singer>
+        <writer>משה בן שאול</writer>
+        <composer>missing</composer>
+        <album>חצות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה הן המילים</head>
+        <lg number="1" type="stanza">
+          <l>מה הן המילים אם לא שתיקה</l>
+          <l>תמיד נוסעים איתן לארץ רחוקה.</l>
+          <l>מגדל נופל, הגשר הוא חבר.</l>
+          <l>לעוד גשרים  - אותם אתה עובר לשווא.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה הם הגשרים אם לא עכשיו?</l>
+          <l>עכשיו ועוד עכשיו</l>
+          <l>הוא זמן, הולך ושב</l>
+          <l>על עקבותיו.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מהו הסיפור בילקוטך?</l>
+          <l>מעט מחר, מעט היום, וילדותך.</l>
+          <l>אני מביט, עפר ויהלום,</l>
+          <l>זה מתפורר, וזה מבריק פתאום באור.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה הן המילים - אם לא לזכור</l>
+          <l>אתמול ועוד אתמול, הזמן שיעבור איתך,</l>
+          <l>תמיד הולכת לפניך שתיקתך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

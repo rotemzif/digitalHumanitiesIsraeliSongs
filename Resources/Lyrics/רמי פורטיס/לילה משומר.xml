@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילה משומר</title>
+        <singer classification="male singer">רמי פורטיס</singer>
+        <writer>רמי פורטיס</writer>
+        <composer>יובל שפריר</composer>
+        <album>איפה הסוסים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילה משומר</head>
+        <lg number="1" type="stanza">
+          <l>מדת לדת ומאל לאל</l>
+          <l>הרעל נשפך והדם משתולל</l>
+          <l>מקרב לקרב ואקדח לאקדח</l>
+          <l>הזמן אוזל והחבל נמתח</l>
+          <l>מאדם לאדם ומפה לפה</l>
+          <l>הרוע נכנס הרוע ויוצא</l>
+          <l>מגיבור לחלאה מכבוד לשנאה</l>
+          <l>מרחק גדול אך הדרך קצרה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עוד לילה משומר</l>
+          <l>מתנחם ושוב נשבר</l>
+          <l>עוד לילה מיותר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד לילה משומר</l>
+          <l>מנמנם ושוב נזכר</l>
+          <l>עוד לילה מיותר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מתחנה לתחנה</l>
+          <l>הלילה דוהר ועומד בלי תנועה</l>
+          <l>ממורה למורה מאחורי המילה</l>
+          <l>נמחק המוסר נעלמה התבונה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עוד לילה משומר</l>
+          <l>מתנחם ושוב נשבר</l>
+          <l>עוד לילה מיותר</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>עוד לילה משומר</l>
+          <l>מתנמנם ושוב נשבר</l>
+          <l>עוד לילה מיותר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

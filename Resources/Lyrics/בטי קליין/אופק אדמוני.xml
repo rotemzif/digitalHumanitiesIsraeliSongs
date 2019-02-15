@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אופק אדמוני</title>
+        <singer classification="unknown">בטי קליין</singer>
+        <writer>ירון לונדון</writer>
+        <composer>צבי בן פורת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אופק אדמוני</head>
+        <lg number="1" type="stanza">
+          <l>רוח קל נושב מים</l>
+          <l>וציפורים עפות לשם.</l>
+          <l>אופק אדמוני כדם</l>
+          <l>רוח, רוח יום שתם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ערב, ערב ליל כוכב,</l>
+          <l>ערב, ערב ליל של סתיו</l>
+          <l>וברחוב קטן של עיר</l>
+          <l>זוג הולך ושר לו שיר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>על החוף ניצת מיגדל</l>
+          <l>גל לוחש לו אלי גל:</l>
+          <l>נוחי, נוחי לך עירי,</l>
+          <l>נומי, נומי בת שירי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ערב, ערב ליל כוכב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

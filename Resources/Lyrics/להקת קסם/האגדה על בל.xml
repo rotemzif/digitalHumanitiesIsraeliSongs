@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האגדה על בל</title>
+        <singer classification="unknown">להקת קסם</singer>
+        <writer>ענת שרים</writer>
+        <composer>אלדד שרים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האגדה על בל</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>בל רוקדת, בל רוקדת</l>
+          <l>ופעמון גדול נותן לה קצב מבפנים</l>
+          <l>בל אחרת, בל זוהרת</l>
+          <l>רק שם רחוק קוראים לה</l>
+          <l>בל, בל, בל, בל</l>
+          <l>פעמונים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קוראים לה בל זו שרוקדת לעצמה</l>
+          <l>בדרכי בחדר ריק</l>
+          <l>כשאף אחד אינו רוקד</l>
+          <l>והם קוראים לה בל זו שרוקדת לעצמה</l>
+          <l>ורק בפנים נותן לה קצב</l>
+          <l>פעמון בודד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בל רוקדת...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>קראו לה בל זו שרוקדת לעצמה</l>
+          <l>אמרו כולם שיש בה שד</l>
+          <l>ועם עצמו הוא בגופה רוקד</l>
+          <l>והם קראו לה בל, קינאו חזק בפעמון</l>
+          <l>נגעו בכל גופה מבט</l>
+          <l>נגעו בפעמון כמעט</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בל רוקדת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכל שירה</title>
+        <singer classification="female singer">חוה אלברשטיין</singer>
+        <writer>נדב לויתן</writer>
+        <composer>אבי לייבוביץ'</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכל שירה</head>
+        <lg number="1" type="stanza">
+          <l>פסל חייל קטן ניצב עירום</l>
+          <l>פסל חייל עשוי בטון</l>
+          <l>בגומחת טיח לכרכוב </l>
+          <l>גם הוא שירה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הכל שירה, לפחות היום</l>
+          <l>הכל שירה, לפחות היום</l>
+          <l>יום סתיו, כאן ועכשיו, בפריז.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זונה מבוגרת עומדת בכיכר</l>
+          <l>מתחת לאותו כרכוב מעוטר</l>
+          <l>שואלת עובר אורח: </l>
+          <l>"מסיה, רוצה קצת סימפטיה?"</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שירה שמעתי, שירת הרחוב</l>
+          <l>שירה שמעתי,</l>
+          <l>יום סתיו, כאן ועכשיו, בפריז.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ובני הזוג שיוצאים כחוטאים </l>
+          <l>ממלון 'כוכב אחד', אבל זורחים, </l>
+          <l>אבל זורחים כמי שראו</l>
+          <l>תקרה מלאה כוכבים</l>
+          <l>גם זו שירה, שירת החיים</l>
+          <l>שירת החיים.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>פסל חייל קטן מעל כרכוב, </l>
+          <l>זונה שעומדת מתחת לכרכוב, </l>
+          <l>בני הזוג שיוצאים כחוטאים לרחוב</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>שירה שמעתי, שירת הרחוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

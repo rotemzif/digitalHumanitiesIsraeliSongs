@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אנעים זמירות</title>
+        <singer classification="unknown">נעמי טפלו</singer>
+        <writer>רבי יהודה החסיד</writer>
+        <composer>נעמי טפלו</composer>
+        <album>כמעיין המתגבר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אנעים זמירות</head>
+        <lg number="1" type="stanza">
+          <l>אנעים זמירות ושירים אארוג</l>
+          <l>כי אליך נפשי תערוג</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נפשי חמדה בצל ידיך</l>
+          <l>לדעת כל רז סודך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מידי דברי בכבודך</l>
+          <l>הומה לבי את דודיך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>על כן אדבר בך נכבדות</l>
+          <l>ושמך אכבד בשירי ידידות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

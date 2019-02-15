@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חיוך של מלאכים</title>
+        <singer classification="male singer">יואב יצחק</singer>
+        <writer>אברהם לוי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חיוך של מלאכים</head>
+        <lg number="1" type="stanza">
+          <l>מתבדר לו שיערך ברוח</l>
+          <l>מהלכת את בין שושנים</l>
+          <l>את ליבי הותרת שבור פצוע</l>
+          <l>מאותו חיוך של מלאכים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מחייכת את</l>
+          <l>כשאותך רודפים המבטים</l>
+          <l>האהבות כך לי אמרת</l>
+          <l>מן הסתם פורחות רק בסרטים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מתבדר לו שיערך ברוח</l>
+          <l>מהלכת את בין החוחים</l>
+          <l>את ליבי הותרת שבור פצוע</l>
+          <l>מאותו חיך של מלאכים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואולי אולי</l>
+          <l>את מקסם חולף שלא נתפש</l>
+          <l>את חומקת מידי</l>
+          <l>ופתאום חוזרת שוב בלי חשש</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מתבדר לו שיערך ברוח</l>
+          <l>מהלכת את בין החוחים</l>
+          <l>את ליבי הותרת שבור פצוע</l>
+          <l>מאותו חיך של מלאכים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחול הרועה</title>
+        <singer classification="male singer">גדעון זינגר</singer>
+        <writer>עודד אבישר</writer>
+        <composer>אריה לבנון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחול הרועה</head>
+        <lg number="1" type="stanza">
+          <l>אל העמק מן ההרים</l>
+          <l>יגלשו העדרים</l>
+          <l>בנאות דשא, במדבר</l>
+          <l>ישבעו חציר ובר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה מה מה יפעו טלאים</l>
+          <l>מה מה מה יגעו גדיים</l>
+          <l>מסביבי כדור הם לי</l>
+          <l>יענו לחלילי</l>
+          <l>לי לי לי לי</l>
+          <l>יענו לחלילי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תחת סלע צור מסתור</l>
+          <l>נים ינומו עד יום אור</l>
+          <l>מן העין מי משאב</l>
+          <l>יגמעו ביום שרב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה מה מה יפעו טלאים....</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וביום קודש לברכה</l>
+          <l>אעלה שי ומנחה</l>
+          <l>גדי עזים ופרי גנות</l>
+          <l>ליפה בין הבנות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מה מה מה יפעו טלאים....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

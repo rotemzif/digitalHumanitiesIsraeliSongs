@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תן לי 35</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תן לי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>מה שהיה תשכח מזה</l>
+          <l>מה שיהיה לא משנה</l>
+          <l>מה שאבקש בעולם כזה -</l>
+          <l>תן לי את היום הזה!</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תן לי שמש על הבוקר</l>
+          <l>ויונה מעל הגג</l>
+          <l>תן לי תכלת ברקיע</l>
+          <l>תן לי יום אחד של חג.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מה שהיה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תן לי אהבה חולפת</l>
+          <l>תן לי אהבת עולם</l>
+          <l>תן לי יד שמלטפת</l>
+          <l>רק אותי מבין כולם.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מה שהיה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לי פנאי</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>אבי קורן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לי פנאי</head>
+        <lg number="1" type="stanza">
+          <l>לא איכפת לי לערוב לך</l>
+          <l>בקצווי כל העולם</l>
+          <l>לא איכפת לי להראות לך</l>
+          <l>שאני לא כמו כולם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שלא תגידי לי רק לא</l>
+          <l>בגלל ההוא או בגללו</l>
+          <l>כי את יודעת זאת הלו</l>
+          <l>שיש לי פנאי</l>
+          <l>לי לא איכפת בכלל גם אם</l>
+          <l>אחרים יותר נעים</l>
+          <l>הרי תמיד את תחזירי אלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שתדעי לך, יש בי כח</l>
+          <l>יש לי זמן , גם זה נכון</l>
+          <l>לא תוכלי בכלל לברוח</l>
+          <l>השיגך בכל מקום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שלא תגידי לי רק לא...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יש לי סבלנות עדיין</l>
+          <l>עד בכלל ועד ועד</l>
+          <l>אחכה לך גם שנתיים</l>
+          <l>עד שתגדלי מעט</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שלא תגידי לי רק לא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

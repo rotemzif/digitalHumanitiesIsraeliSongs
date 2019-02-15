@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תאורת חצר 4</title>
+        <singer classification="band">שוקולד מנטה מסטיק</singer>
+        <writer>רחל שפירא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תאורת חצר</head>
+        <lg number="1" type="stanza">
+          <l>יש משהו עצוב בתאורת חצר</l>
+          <l>ונעשה דחוף לראות אחד שנעצר</l>
+          <l>ולו לשתוק איתו מול צבא הכוכבים</l>
+          <l>כאילו זה לזה אנחנו ערבים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל פעם שאתה ניצב גלמוד מול כוכבים</l>
+          <l>תזכור שזה לזה היינו, היינו ערבים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אולי אתה משלים עם חלק הבדידות</l>
+          <l>כמו עם האהבה והקנאה והידידות</l>
+          <l>בגוש החשכה עץ, בית וגדר</l>
+          <l>אולי נשתוק מעט אחר כך נדבר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל פעם שאתה ניצב גלמוד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

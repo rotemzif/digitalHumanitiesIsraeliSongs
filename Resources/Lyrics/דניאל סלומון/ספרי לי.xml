@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ספרי לי 4</title>
+        <singer classification="male singer">דניאל סלומון</singer>
+        <writer>דניאל סלומון</writer>
+        <composer>דניאל סלומון</composer>
+        <album>רבות הדרכים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ספרי לי</head>
+        <lg number="1" type="stanza">
+          <l>ספרי לי את הסודות של חייך</l>
+          <l>מדוע אין בעינייך ניצוץ כמו של יהלום</l>
+          <l>ספרי לי את הגרועים בפחדייך</l>
+          <l>מדוע בלילותייך אין אף אחד בחלום</l>
+          <l>ספרי לי, בכל זאת באתי אלייך</l>
+          <l>הולך יחף על חופייך, הולך על שפת התהום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ימים ארוכים מתכסים בלילות בלי ירח</l>
+          <l>כשאת בוכה...</l>
+          <l>ימים ארוכים מתנפצים על לילות בלי ירח</l>
+          <l>בלי אהבה...</l>
+          <l>את מחכה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ספרי לי על היפים בימייך</l>
+          <l>איך אין בזכרונותייך ניצוץ אחר של הזמן</l>
+          <l>ספרי לי את כל סודות תפילותייך</l>
+          <l>כה עדינות על שפתייך כשאת לוחשת אותן</l>
+          <l>ספרי לי, בכל זאת באתי אלייך</l>
+          <l>הולך יחף על חופייך ולא יודע לאן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ימים ארוכים מתכסים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

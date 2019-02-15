@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שנה טובה לכולם</title>
+        <singer classification="male singer">עמוס ברזל</singer>
+        <writer>עמוס ברזל</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שנה טובה לכולם</head>
+        <lg number="1" type="stanza">
+          <l>ראש השנה הגיע,</l>
+          <l>נגמרה לה שנה</l>
+          <l>קול שופר מריע,</l>
+          <l>נשמע בכל פינה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שנה טובה לך אמא,</l>
+          <l>ולאבא גם</l>
+          <l>שנה טובה הגיעה,</l>
+          <l>שנה טובה לכולם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אמא שוב הכינה</l>
+          <l>ארוחה כה מתוקה,</l>
+          <l>הדוור מרינה</l>
+          <l>הביא שנה טובה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שנה טובה לך אמא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

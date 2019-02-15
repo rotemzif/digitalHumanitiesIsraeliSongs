@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שחור לבן 2</title>
+        <singer classification="female singer">גליה ירון</singer>
+        <writer>גליה ירון</writer>
+        <composer>גליה ירון</composer>
+        <album>אף מילה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שחור לבן</head>
+        <lg number="1" type="stanza">
+          <l>הייתי פעם בשחור לבן </l>
+          <l>היום אני בצבע </l>
+          <l>מחלקת את הזמן </l>
+          <l>מכפילה בשבע </l>
+          <l>רציתי פעם להראות </l>
+          <l>והיום להישמע </l>
+          <l>הייתי פעם שקט </l>
+          <l>היום אני עוצמה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הייתי פעם בשחור לבן </l>
+          <l>היום אני בצבע </l>
+          <l>מחלקת את הזמן </l>
+          <l>מחזירה לטבע </l>
+          <l>רציתי פעם להראות </l>
+          <l>והיום להיטמע </l>
+          <l>הייתי פעם שבר </l>
+          <l>עמוק באדמה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שורש אני מכה </l>
+          <l>הרגליים עשו דרך ארוכה </l>
+          <l>אפשר לנוח </l>
+          <l>שורש אני מכה </l>
+          <l>השמיים שלחו נס של חנוכה </l>
+          <l>הכל פתוח </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את כל מה שיש לך לתת </l>
+          <l>היום אני לוקחת </l>
+          <l>אם לומר את האמת </l>
+          <l>כבר לא אותה אחת </l>
+          <l>רציתי פעם לנסות </l>
+          <l>והיום להימנע </l>
+          <l>הייתי פעם עדר </l>
+          <l>היום אני שונה </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שורש אני מכה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

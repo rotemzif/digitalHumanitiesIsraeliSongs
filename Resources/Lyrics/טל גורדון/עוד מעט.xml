@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד מעט 12</title>
+        <singer classification="female singer">טל גורדון</singer>
+        <writer>טל גורדון</writer>
+        <composer>טל גורדון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד מעט</head>
+        <lg number="1" type="stanza">
+          <l>הערב יורד, צל העץ מלטף</l>
+          <l>בתנועה לא מורגשת, ספסל מכשף</l>
+          <l>הגן צבוע כחול, בדל סיגריה לוחש</l>
+          <l>מנחש את סופה של האש.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עוד מעט זה בא</l>
+          <l>עוד מעט חוזר</l>
+          <l>קסם באוויר בשמי העיר זוהר</l>
+          <l>זמן שנעלם </l>
+          <l>כל מה שנרדם מתעורר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בגן נעלם מסתתרים סודותי</l>
+          <l>תחת אבן נחש מסתתרים מפני</l>
+          <l>אני הולכת לאט תיירת בעיר</l>
+          <l>מחפשת סימן באוויר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עוד מעט זה בא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

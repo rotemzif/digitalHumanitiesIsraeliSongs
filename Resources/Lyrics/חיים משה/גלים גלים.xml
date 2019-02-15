@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גלים גלים 2</title>
+        <singer classification="male singer">חיים משה</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>שלמה אקוה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גלים גלים</head>
+        <lg number="1" type="stanza">
+          <l>כאן מול ביתי בשעות הערב </l>
+          <l>עם איש אחר את שוב עוברת </l>
+          <l>אותי רואה וממשיכה </l>
+          <l>ואני נותר לבד בחשיכה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גלים גלים הם החיים </l>
+          <l>יום מלטפים ויום מכים </l>
+          <l>רואה אותך ושוב נמשך </l>
+          <l>לא יכול לוותר גם כשאת עם אחר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>האם בכלל את עוד זוכרת </l>
+          <l>אותם לילות שחשת אחרת </l>
+          <l>אני ואת כגוף אחד </l>
+          <l>והאש שבתוכי נותרה לעד </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גלים גלים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

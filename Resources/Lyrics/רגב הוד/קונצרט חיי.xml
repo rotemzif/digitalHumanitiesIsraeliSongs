@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קונצרט חיי</title>
+        <singer classification="male singer">רגב הוד</singer>
+        <writer>שרון אסולין</writer>
+        <composer>שרון אסולין</composer>
+        <album>מהפך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קונצרט חיי</head>
+        <lg number="1" type="stanza">
+          <l>אני האיש שאת חייו תמיד אתן לך </l>
+          <l>כמו מנגינה שאין לה סוף </l>
+          <l>את פעימות הלב שלך אני שומע </l>
+          <l>קורא לך את המחשבות </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה החלום שלך החלום שלנו </l>
+          <l>תני לי לאבד את הגבולות </l>
+          <l>ריקוד סוחף איתך מחבר בינינו </l>
+          <l>יוצר את כל הנפלאות </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את קונצרט של חיי </l>
+          <l>אנגן ואפרוט לך על כל מיתרי </l>
+          <l>את האור בעיני מנגינת ניצחון </l>
+          <l>הקונצרט של חיי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני מודה לך על כל מה שאת נותנת </l>
+          <l>חולם עלייך בלילות </l>
+          <l>אהובתי את שונה ומיוחדת </l>
+          <l>איתך לעוד שנים יפות </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זה החלום שלך החלום שלנו </l>
+          <l>תני לי לאבד את הגבולות </l>
+          <l>ריקוד סוחף איתך מחבר בינינו </l>
+          <l>יוצר את כל הנפלאות </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>את קונצרט של חיי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

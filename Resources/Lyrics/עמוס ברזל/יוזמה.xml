@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יוזמה</title>
+        <singer classification="male singer">עמוס ברזל</singer>
+        <writer>אורלי בינדר</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יוזמה</head>
+        <lg number="1" type="stanza">
+          <l>אנו הילדים, לנו יש יוזמה,</l>
+          <l>גם אם אנו צעירים, לא משנה אז מה.</l>
+          <l>אנו יכולים לשנות הרבה דברים,</l>
+          <l>את העולם שלנו, כולנו משפרים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יוזמה, יוזמה, לנו יש יוזמה,</l>
+          <l>גם אם אנו צעירים, לא חשוב אז מה.</l>
+          <l>יוזמה, יוזמה, לנו יש יוזמה,</l>
+          <l>גם אם אנו צעירים, לא חשוב אז מה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לקחת יוזמה זה אומר להתנסות,</l>
+          <l>לקחת יוזמה זה לקחת החלטות,</l>
+          <l>לקחת יוזמה זה לקום לעשות,</l>
+          <l>לקחת יוזמה - זו כל החוכמה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יוזמה, יוזמה, לנו יש יוזמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד יש תקווה</title>
+        <singer classification="male singer">דקלון</singer>
+        <writer>דודו ברק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד יש תקווה</head>
+        <lg number="1" type="stanza">
+          <l>על מה ליבך כבד?</l>
+          <l>על מה זה תתלונן?</l>
+          <l>השמש בכל יום תרד,</l>
+          <l>עליך לגונן.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שמיים נפרשים עליך,</l>
+          <l>מקבלים את תפילותיך.</l>
+          <l>כל שלא ניתן,</l>
+          <l>עוד יבוא ויינתן.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>גם אם היום גווע,</l>
+          <l>הנר עוד לא כבה.</l>
+          <l>תמיד, תמיד תזכור,</l>
+          <l>עוד יש לך תקווה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אתה נושא מכבר,</l>
+          <l>רחיים על צוואר.</l>
+          <l>במעלה ההר עולה,</l>
+          <l>שנים לאין מספר.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אתה שואל באין מנוח,</l>
+          <l>מהיכן אקח עוד כוח.</l>
+          <l>אם יביא לי המחר,</l>
+          <l>תקווה ליום מואר?</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>גם אם היום גווע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

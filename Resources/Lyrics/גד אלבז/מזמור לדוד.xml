@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מזמור לדוד 3</title>
+        <singer classification="male singer">גד אלבז</singer>
+        <writer>מן המקורות</writer>
+        <composer>גד אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מזמור לדוד</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>מזמור לדוד ה'</l>
+          <l>רועי לא אחסר</l>
+          <l>בנאות דשא ירביצני</l>
+          <l>על מי מנוחות ינהלני</l>
+          <l>נפשי ישובב</l>
+          <l>ינחני במעגלי צדק</l>
+          <l>למען שמו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גם כי אלך בגיא צלמוות לא אירא רע </l>
+          <l>כי אתה עמדי </l>
+          <l>שבטך ומשענתך</l>
+          <l>המה ינחמוני</l>
+          <l>תערוך לפניי שולחן נגד צורריי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דישנת בשמן ראשי</l>
+          <l>כוסי רוויה</l>
+          <l>אך טוב וחסד</l>
+          <l>ירדפוני כל ימי חיי</l>
+          <l>ושבתי בבית ה'</l>
+          <l>לאורך ימים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מזמור לדוד ה'...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

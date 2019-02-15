@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אישה 59</title>
+        <singer classification="male singer">משה פרץ</singer>
+        <writer>משה פרץ</writer>
+        <composer>משה פרץ</composer>
+        <album>אלייך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אישה</head>
+        <lg number="1" type="stanza">
+          <l>שנינו מרגישים עכשיו תחושה שלא עוברת ולא מוגדרת</l>
+          <l>מנסים לצעוד יחדיו, קשה ללכת וזה בסדר</l>
+          <l>זה אמיתי וזה הזמן לומר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אישה, מאוהב ורוצה רק אלייך כל כך</l>
+          <l>אישה, עם דמעות של שמחה בעינייך</l>
+          <l>שתהיי רק שלי לעולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך עינייך מבריקות וזוהרות כמו פעם </l>
+          <l>ואת נוגעת במקומות שלא היינו</l>
+          <l>אפשר עוד להגיע ולהודיע לכולם על אהבה גדולה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אישה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוץ ילד</title>
+        <singer classification="band">כנסיית השכל</singer>
+        <writer>רן אלמליח</writer>
+        <composer>missing</composer>
+        <album>רוץ ילד</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוץ ילד</head>
+        <lg number="1" type="stanza">
+          <l>רוץ ילד רוץ</l>
+          <l>אל תעצור לשאול</l>
+          <l>המראה לא משקרת</l>
+          <l>אתה כבר ילד גדול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חלומות נמסים שבשמש</l>
+          <l>אל תתן לזה לקרות</l>
+          <l>חלומות נקרבים בגשם</l>
+          <l>אל תתן לזה לקרות</l>
+          <l>רוץ ילד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תהיה רוח בצמרות העצים</l>
+          <l>תהייה דרקון של מים עמוקים</l>
+          <l>תיקח אותה מחוץ לעיר</l>
+          <l>תראה לה עטלפים עפים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חלומות נמסים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היום הם ימי שרב</l>
+          <l>מוצא את עצמי</l>
+          <l>לבד</l>
+          <l>הריקנות והרעב</l>
+          <l>הזאב והצייד</l>
+          <l>השוטר והגנב</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>רוץ ילד רוץ</l>
+          <l>אל תעצור לשאול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

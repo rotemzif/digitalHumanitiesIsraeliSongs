@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הפטפוט</title>
+        <singer classification="female singer">נורית גלרון</singer>
+        <writer>מיכל סנונית</writer>
+        <composer>יעל גרמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הפטפוט</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>פיטי פיטי פיטי פיטי</l>
+          <l>פיט פיטפוט</l>
+          <l>אל תקחו אותי ללב</l>
+          <l>כי הפיטפוט הוא שטות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כבר מזמן מאז החלטתי</l>
+          <l>הפיטפוט -</l>
+          <l>הוא אמנם שרמנטי</l>
+          <l>אבל יש בו גם צרות,</l>
+          <l>צרות בגלל מלים מיותרות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>המילה המיותרת</l>
+          <l>היא נחשבת לממזרת</l>
+          <l>אז מוטב לקוד קידה</l>
+          <l>לכבודה של השתיקה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פיטי פיטי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>השתיקה תמיד עוזרת</l>
+          <l>שום מילה לא מיותרת</l>
+          <l>זוהי גברת שנזהרת</l>
+          <l>לנפשה תמיד נשמרת</l>
+          <l>השתיקה...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>פיטי פיטי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

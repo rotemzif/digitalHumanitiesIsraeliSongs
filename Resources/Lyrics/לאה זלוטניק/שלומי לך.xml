@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלומי לך</title>
+        <singer classification="unknown">לאה זלוטניק</singer>
+        <writer>רבי שלום שבזי</writer>
+        <composer>לאה זלוטניק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלומי לך</head>
+        <lg number="1" type="stanza">
+          <l>שלומי לך ידיד נפשי </l>
+          <l>עטרת חן עלי ראשי </l>
+          <l>ומכלולי ומלבושי </l>
+          <l>צבע שני ושש משי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לאק אלאחסאן יא ודי לך הנדיבות ידידי </l>
+          <l>וכל אלפצל ואלגודי וכל הטוב והחסד </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>משוך חסד לדל נפזר </l>
+          <l>אשר ליבו בך נעזר </l>
+          <l>ולא יזכור לבילתך זר </l>
+          <l>אבל מחזיק בקו שישי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לאק אלאחסאן יא ודי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שלומי לך ידיד נפשי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

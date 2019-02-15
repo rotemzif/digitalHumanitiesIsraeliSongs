@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר לאח קטן</title>
+        <singer classification="male singer">בן ארצי</singer>
+        <writer>בן ארצי</writer>
+        <composer>בן ארצי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר לאח קטן</head>
+        <lg number="1" type="stanza">
+          <l>עכשיו אנחנו משלמים מחיר על טעויות עבר</l>
+          <l>ופרק חדש בחיים שלי מתחיל</l>
+          <l>כשפרק ישן נגמר</l>
+          <l>ואח קטן אני עוזב אותך לבד וילדותך האבודה</l>
+          <l>כשתסתובב עם אופניים בשכונה</l>
+          <l>אני כבר לא משגיח והולך מאחורייך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בטלפון אתה שואל מתי אשוב הביתה</l>
+          <l>אני אותך הכי אוהב מכל מרחק אתה יודע</l>
+          <l>אבל אני עכשיו מנסה לחיות חיים של איש צעיר</l>
+          <l>וזה לא קל כי אני לך מתגעגע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכשיו אנחנו כאן, נראה, נמשיך</l>
+          <l>נמשיך כי אין ברירה</l>
+          <l>אני אלמד לחיות כמו כל בני גילי, פה בדירה שכורה</l>
+          <l>ואתה תלמד להתגבר על הפחדים תלך לחוג במתנס</l>
+          <l>וכשתצא ויהיה כבר דיי חשוך</l>
+          <l>אני לא מחכה שם לקבל את פנייך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בטלפון אתה שואל...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וזה שנינו ששוחים עכשיו בים של החיים</l>
+          <l>תקרא בשמי אם אתה מרגיש שאתה טובע</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>עכשיו אנחנו משלמים מחיר על טעויות עבר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

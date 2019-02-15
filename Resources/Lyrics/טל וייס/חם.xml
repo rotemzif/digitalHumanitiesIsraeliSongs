@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חם 50</title>
+        <singer classification="female singer">טל וייס</singer>
+        <writer>טל וייס</writer>
+        <composer>טל וייס</composer>
+        <album>backcaTALog</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חם</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>היה לי פעם חם</l>
+          <l>היה לי חם ונעלם</l>
+          <l>היה לי פעם חם</l>
+          <l>עכשיו קר לי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זה לא החורף רק</l>
+          <l>זה גם לא בדמיון שלי</l>
+          <l>אתה הלכת ועכשיו קר לי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תחזור לרדוף אותי - אני צורחת</l>
+          <l>אין לי ספק בכלל - אני חולה</l>
+          <l>כמה שקר לי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היה לי פעם חם</l>
+          <l>היה לי חם ונעלם</l>
+          <l>היה לי פעם חם</l>
+          <l>עכשיו קר לי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היה לי פעם חם</l>
+          <l>היה רק קצת ונעלם</l>
+          <l>עכשיו לא טוב וגם</l>
+          <l>עכשיו קר לי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

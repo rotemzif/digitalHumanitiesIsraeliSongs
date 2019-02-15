@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היי שלום מולדת</title>
+        <singer classification="unknown">הופה היי</singer>
+        <writer>דורי בן זאב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היי שלום מולדת</head>
+        <lg number="1" type="stanza">
+          <l>שלום שלום לך מולדת</l>
+          <l>קרב הנני בא</l>
+          <l>לכבוד יום ההולדת</l>
+          <l>עשיתי לי מסיבה</l>
+          <l>נסעתי לטיול עוד עולמות לראות</l>
+          <l>אחרי שכבר יצאתי כמה קשה לנדוד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תכלת שמיים מכאן ומכאן</l>
+          <l>שלום לך מולדת השיר שלך מוכן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כיסי אויר מילאוני</l>
+          <l>בבוקר חורף קר</l>
+          <l>כנפיים שחיבקוני</l>
+          <l>עכשיו הריני שר</l>
+          <l>מעל חופי יבשת אני יודע ש...</l>
+          <l>עכשיו עלי לגשת לראות מה התגשם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תכלת שמיים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עם מזוודה וילד לארץ הניסים</l>
+          <l>תהלוכה עוברת כולנו מחפשים</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אוי...תיקחו אותי הביתה</l>
+          <l>נמאס לי בדרכים</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>תכלת שמיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

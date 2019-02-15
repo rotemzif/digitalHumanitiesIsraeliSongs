@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יום אפור</title>
+        <singer classification="female singer">טל וייס</singer>
+        <writer>טל וייס</writer>
+        <composer>טל וייס</composer>
+        <album>backcaTALog</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יום אפור</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>הו, יום אפור</l>
+          <l>מאיפה באת?</l>
+          <l>הו, יום אפור</l>
+          <l>במיוחד לכבודי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הו, יום אפור</l>
+          <l>אין לי הכוח</l>
+          <l>הו, מקולל</l>
+          <l>לכבודך לשמוח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני חיכיתי למישהו - יום אפור לא לך</l>
+          <l>אני חלמתי על מישהו - אבל באת אתהƔ</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הו, יום אפור</l>
+          <l>מאיפה באת?</l>
+          <l>הו, יום אפור</l>
+          <l>במיוחד לכבודי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הו, יום אפור</l>
+          <l>לך כמו שבאת</l>
+          <l>הו, יום אפור</l>
+          <l>לך אליו במקומי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

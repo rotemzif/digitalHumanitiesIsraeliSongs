@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עשיר 2</title>
+        <singer classification="unknown">לוס כפרוס</singer>
+        <writer>דן תורן</writer>
+        <composer>אנטון קוליאדקו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עשיר</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>מותק, אני עשיר!</l>
+          <l>מותק, אני עשיר!</l>
+          <l>עשיר, עשיר - תקשיבי לשיר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מותק, אני עשיר!</l>
+          <l>מותק, אני עשיר!</l>
+          <l>עשיר, עשיר - תקשיבי לשיר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש לי את כל זה,</l>
+          <l>יש לי את כל זה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כוכב הצפון, חמצן לנשום,</l>
+          <l>ללכת, לחזור, לחלום, לישון,</l>
+          <l>להאבק, לאהוב, לקחת, לתת.</l>
+          <l>יש לי אותך, גם אם רק מעת לעת.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

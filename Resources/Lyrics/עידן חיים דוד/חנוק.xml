@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חנוק</title>
+        <singer classification="unknown">עידן חיים דוד</singer>
+        <writer>עידן חיים דוד</writer>
+        <composer>עידן חיים דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חנוק</head>
+        <lg number="1" type="stanza">
+          <l>תדברי איתי, </l>
+          <l>תלטפי אותי, </l>
+          <l>תרחמי עלי... </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אנ'לא יכול לראות </l>
+          <l>הכל חנוק בחדר שלי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תגלי לי, </l>
+          <l>תעני לי </l>
+          <l>תתפשטי... </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אנ'לא יכול לראות </l>
+          <l>הכל חנוק בחדר שלי </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אנ'לא יכול לראות </l>
+          <l>הכל חנוק בחדר שלי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

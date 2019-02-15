@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מבטיח לך חגיגית</title>
+        <singer classification="male singer">מייק שרון</singer>
+        <writer>ורה קריגל</writer>
+        <composer>אביחי מליחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מבטיח לך חגיגית</head>
+        <lg number="1" type="stanza">
+          <l>מסתכל עלייך רואה שוב את עצמי </l>
+          <l>מתבונן ילדונת רואה בך עולמי </l>
+          <l>אימרי היכן טעיתי אחרת לא מכיר </l>
+          <l>אימרי היכן סטיתי תני לי להבין </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מבטיח לך חגיגית שאם שלי תהיי </l>
+          <l>אהבתי רק לך אוקיר לנצח שמך אזכיר </l>
+          <l>מבטיח לך חגיגית שאם שלי תהיי </l>
+          <l>אהבתי רק לך אוקיר לנצח שמך אזכיר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חולם אני עלייך ליבי הוא כמו חלום </l>
+          <l>דרכו אותי תיראי תמיד תחת עץ אלון </l>
+          <l>אלייך התמכרתי האירי את ימי </l>
+          <l>אהבתי שמרתי את עולמי חיי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מבטיח לך חגיגית שאם שלי תהיי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

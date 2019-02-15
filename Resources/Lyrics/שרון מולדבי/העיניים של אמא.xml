@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>העיניים של אמא</title>
+        <singer classification="unknown">שרון מולדבי</singer>
+        <writer>שרון מולדבי</writer>
+        <composer>שרון מולדבי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>העיניים של אמא</head>
+        <lg number="1" type="stanza">
+          <l>השמש השחורה שרפה אותי עד כלות</l>
+          <l>העיניים של אמא לא רואות</l>
+          <l>אלפי שנות קרח מאבנות ומשמרות</l>
+          <l>העיניים של אמא הדמעות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מי ישחרר נשמות בעיניים </l>
+          <l>מי יעזור להן לראות</l>
+          <l>מי מכיר אותן כמוני</l>
+          <l>העיניים של אמא הדמעות</l>
+          <l>העיניים של אמא הדמעות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>העתיד תמיד חוזר אלי בחלומות</l>
+          <l>העיניים של אמא לא רואות</l>
+          <l>הכל כוסה נמחק נסחף בשטפונות</l>
+          <l>העיניים של אמא הדמעות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מי ישחרר נשמות בעיניים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

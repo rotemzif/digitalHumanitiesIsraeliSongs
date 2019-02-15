@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכוכבת</title>
+        <singer classification="male singer">נתי לוי</singer>
+        <writer>נתי לוי</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכוכבת</head>
+        <lg number="1" type="stanza">
+          <l>איך החיוך שלך אותי לוקח </l>
+          <l>לעולם יפה כל כך של אהבה </l>
+          <l>והמבט שלך שוב אותי מנצח </l>
+          <l>וכובש אותי כל פעם מחדש, </l>
+          <l>וכובש אותי כל פעם מחדש </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את מיוחדת, </l>
+          <l>איתך האהבה שלי אינה נגמרת </l>
+          <l>אני אוהב אותך אישה כי את אחרת </l>
+          <l>החיים שלי איתך הם כמו בסרט </l>
+          <l>כן את אחרת </l>
+          <l>ובשבילי תמיד תהיה הכוכבת </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו מטורף הוזה חולם עלייך </l>
+          <l>והלב שלי תמיד נוגע בך </l>
+          <l>במחשבות שלי תמיד רץ אחרייך </l>
+          <l>לא מוותר על שום דקה להיות איתך </l>
+          <l>אני אוהב, אוהב, אוהב אותך </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את מיוחדת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

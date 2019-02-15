@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Postcard 2</title>
+        <singer classification="male singer">עמית ארז</singer>
+        <writer>עמית ארז</writer>
+        <composer>עמית ארז</composer>
+        <album>Amit Erez</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Postcard</head>
+        <lg number="1" type="stanza">
+          <l>I'm going to make the same mistake </l>
+          <l>same thing I did just yesterday </l>
+          <l>I know I'm running out of time </l>
+          <l>this is the wrong place for my kind </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>say what you want to, </l>
+          <l>I don't care what you're thinking </l>
+          <l>send me a postcard </l>
+          <l>I don't care what you're writing </l>
+          <l>always been talking about making dreams come true </l>
+          <l>I won't be there to take it away from you </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>nobody wanted you to go </l>
+          <l>even your daddy told me so </l>
+          <l>but you're so eager in your way </l>
+          <l>I change the subject every day </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>say what you want to...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

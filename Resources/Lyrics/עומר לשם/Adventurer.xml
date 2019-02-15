@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Adventurer</title>
+        <singer classification="unknown">עומר לשם</singer>
+        <writer>עומר לשם</writer>
+        <composer>עומר לשם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Adventurer</head>
+        <lg number="1" type="stanza">
+          <l>Adventurer, you are forever there </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Unexpected, You exhaust yourself doing it </l>
+          <l>Rejected, Immerse yourself in to it </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>Adventurer, you are forever there </l>
+          <l>Adventurer, its time to be a bear </l>
+          <l>And hibernate while the winter thaws off </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>Adventurer, you are forever there </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>Extreme, That’s what they call you </l>
+          <l>A bit more than you’re worth </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>Adventurer, you are forever there </l>
+          <l>Adventurer, its time to be a bear </l>
+          <l>And hibernate while the winter thaws off</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

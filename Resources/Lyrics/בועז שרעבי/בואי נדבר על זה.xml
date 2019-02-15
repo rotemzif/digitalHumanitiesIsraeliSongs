@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואי נדבר על זה</title>
+        <singer classification="unknown">בועז שרעבי</singer>
+        <writer>עמית צח</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואי נדבר על זה</head>
+        <lg number="1" type="stanza">
+          <l>בואי, בואי נדבר על זה</l>
+          <l>בואי נשאיר מקום לחבק את הלהט</l>
+          <l>בואי, בואי נשחרר את זה</l>
+          <l>בואי נמצא ביחד רגע של של מקלט</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי קל לשבור את הכלים</l>
+          <l>להתחבא שוב בצללים</l>
+          <l>ולנסות למחוק את השבילים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז בואי נדבר על זה הלילה</l>
+          <l>נבחר את המילים אחת אחת</l>
+          <l>ובואי נקלף הכל הלילה</l>
+          <l>לרגע נשאר אני ואת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בואי, בואי נלטף את זה</l>
+          <l>בואי נתהלך שוב ביד ויד</l>
+          <l>בואי, בואי נדבר על זה</l>
+          <l>לא רוצה לדעת שוב את הלבד</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כי קל לשבור את הכלים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

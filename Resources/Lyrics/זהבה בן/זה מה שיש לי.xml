@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה מה שיש לי 2</title>
+        <singer classification="female singer">זהבה בן</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה מה שיש לי</head>
+        <lg number="1" type="stanza">
+          <l>אתה רוצה אותי שונה ומיוחדת</l>
+          <l>לא מאמין שאני כמו כולם</l>
+          <l>אתה לא מכיר אותי אתה עוד לא יודע</l>
+          <l>שבחיים אין שום דבר מושלם</l>
+          <l>אז אם אתה רוצה את האמת לדעת</l>
+          <l>אל תתבייש אותי לשאול</l>
+          <l>כי יש דברים שרק אני יודעת</l>
+          <l>בוא ואספר לך הכל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה מה שיש לי, קצת מכל דבר </l>
+          <l>מגע של קסם לב שלא נגמר </l>
+          <l>אני בעצם בחורה פשוטה שמחפשת אהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עצור לרגע הסתכל לי ביעניים</l>
+          <l>תביט בפנים לנשמה יש חלונות</l>
+          <l>תהיה מציאותי וקח אותי ריאלית</l>
+          <l>פשוט תפסיק לחיות באשליות</l>
+          <l>אז אם אתה רוצה את האמת לדעת</l>
+          <l>אל תתבייש אותי לשאול</l>
+          <l>כי יש דברים שרק אני יודעת</l>
+          <l>בוא ואספר לך הכל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה מה שיש לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

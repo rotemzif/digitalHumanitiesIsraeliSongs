@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גלגלי השנים</title>
+        <singer classification="male singer">יואב יצחק</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גלגלי השנים</head>
+        <lg number="1" type="stanza">
+          <l>גלגלי השנים, שחקו אותנו</l>
+          <l>לא ידענו לעצור בזמן</l>
+          <l>איך דברים משתנים, עד לאן הגענו</l>
+          <l>יש לנו הכל אך אין עניין</l>
+          <l>וזה צובט לי את הלב, להיות איתך ולא להתקרב</l>
+          <l>וזה הלב שמבקש, להיות איתך ושוב להתרגש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה איתי מה איתך זה עוד לא נגמר</l>
+          <l>אם אני כאן איתך, יש לנו מחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא מבין, לא תופס מה קרה לשנינו</l>
+          <l>איפה החלום הכי מתוק</l>
+          <l>את איתי ולא כאן יש מרחק בינינו</l>
+          <l>למה החלום נשאר רחוק</l>
+          <l>וזה צובט לי את הלב, להיות איתך ולא להתקרב</l>
+          <l>וזה הלב שמבקש, להיות איתך ושוב להתרגש</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה איתי מה איתך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

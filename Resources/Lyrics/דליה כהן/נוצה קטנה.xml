@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נוצה קטנה</title>
+        <singer classification="female singer">דליה כהן</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נוצה קטנה</head>
+        <lg number="1" type="stanza">
+          <l>ציפור השאירה לי נוצה </l>
+          <l>על עדן חלוני </l>
+          <l>והנוצה התעופפה </l>
+          <l>ונחה על אזני </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נוצה קטנה כמו תלתל </l>
+          <l>ולבנה כמו ביצה </l>
+          <l>רכה כמו ענן </l>
+          <l>נוצה קטנה כמו תלתל </l>
+          <l>ולבנה כמו ביצה </l>
+          <l>קלה כמו נוצה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>על הנוצה הזאת אשמור </l>
+          <l>כעל בבת עיני </l>
+          <l>כשהיא תגדל ותתבגר </l>
+          <l>אעוף בה גם אני </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נוצה קטנה כמו תלתל... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אעוף אל ארץ אגמים </l>
+          <l>אל יערות בהר </l>
+          <l>עם חסידות ועגורים </l>
+          <l>ואם אווזי הבר </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אמצא את כל המקומות </l>
+          <l>שאיש עוד לא מצא </l>
+          <l>וכשאשוב אשאיר לכם </l>
+          <l>על החלון נוצה </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>נוצה קטנה כמו תלתל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

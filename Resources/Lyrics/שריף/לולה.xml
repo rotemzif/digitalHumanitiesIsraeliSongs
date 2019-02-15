@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לולה 4</title>
+        <singer classification="male singer">שריף</singer>
+        <writer>ג'קי עובד</writer>
+        <composer>ג'קי עובד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לולה</head>
+        <lg number="1" type="stanza">
+          <l>עיני התכלת שיער שחור</l>
+          <l>כשהיא מחייכת אני שיכור</l>
+          <l>כשהיא עוברת אמות עליה</l>
+          <l>היא משקרת איזו אישה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לטעום אותך לולה</l>
+          <l>חולם אותך לולה</l>
+          <l>את ואני יחד</l>
+          <l>אוי לילויטה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל העיניים בוחנות אותה</l>
+          <l>כשהיא רוקדת איך היא מזיזה</l>
+          <l>ג'ינס הליוויס צמוד צמוד</l>
+          <l>אין פה גבר שלא ימות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשהיא עוברת אמות עליה</l>
+          <l>היא משקרת איזו אישה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לטעום אותך לולה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

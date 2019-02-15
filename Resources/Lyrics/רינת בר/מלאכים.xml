@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלאכים 10</title>
+        <singer classification="female singer">רינת בר</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלאכים</head>
+        <lg number="1" type="stanza">
+          <l>קראת לי ביתי, נשמתי</l>
+          <l>וקטפת את חלומות ילדותי</l>
+          <l>קלעת לי צמות ובנית סביבי חומות</l>
+          <l>יושבת מולך ובוכה לא רוצה את המלוכה</l>
+          <l>רק אותו רוצה הוא אוהב הוא מאיר לי את הלב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מלאכים בוכים בשמיים והגשם שוב יורד</l>
+          <l>בוא נעצום עיניים ולעולם לא ניפרד</l>
+          <l>מלאכים בוכים בשמיים והגשם שוב יורד</l>
+          <l>בוא נעצום עיניים ולעולם לא ניפרד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מחשבות עמוסות רגשות</l>
+          <l>מובילות אותי עכשיו אליו</l>
+          <l>ידי ורגלי נחלשות</l>
+          <l>נופלות לזרועותיו</l>
+          <l>אחוז אותי חזק אל תרפא ולו לרגע</l>
+          <l>עשה שאצחק לפני שאשתגע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מלאכים בוכים בשמיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

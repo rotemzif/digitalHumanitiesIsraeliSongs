@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלכת 10</title>
+        <singer classification="unknown">הנוטשים</singer>
+        <writer>רוי יפרח</writer>
+        <composer>רוי יפרח</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלכת</head>
+        <lg number="1" type="stanza">
+          <l>איך הכל כמו שלכת מנסה להסביר </l>
+          <l>שהייתי בסרט, אבל את הכל כבר מכיר </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וזו את שנושרת כמו התו שבשיר </l>
+          <l>ואני שבסרט מנסה להסביר </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שאת שוב מסתבכת מחפשת אותי בשתיקה </l>
+          <l>שהכל כמו שלכת איך אני שוב אלייך בא </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>וזה שוב מסתבך לי מנסה להחזיר </l>
+          <l>את אותה השלכת שאולי היא תסביר </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שאת שוב מסתבכת מחפשת אותי בשתיקה </l>
+          <l>שהכל כמו שלכת איך אני שוב אלייך בא</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

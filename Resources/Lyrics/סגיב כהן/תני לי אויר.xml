@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תני לי אויר 2</title>
+        <singer classification="male singer">סגיב כהן</singer>
+        <writer>סגיב כהן</writer>
+        <composer>סגיב כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תני לי אויר</head>
+        <lg number="1" type="stanza">
+          <l>תני לי אוויר</l>
+          <l>לחבק אותך בשיר</l>
+          <l>לדעת שאני מתגעגע</l>
+          <l>זה כבר שנים</l>
+          <l>שניסיתי להסתיר</l>
+          <l>עכשיו אני הולך ומשתגע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שחררי אותי</l>
+          <l>אני פה מיותר</l>
+          <l>תני לי להיות עוד פעם זר</l>
+          <l>שחררי אותנו</l>
+          <l>לעולם אחר</l>
+          <l>ונאהב עוד פעם מחדש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תתני לי דבש</l>
+          <l>שהעוקץ בו פורח</l>
+          <l>אל תהיי קשה</l>
+          <l>רק היי לי לאישה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תני לי את השקט</l>
+          <l>כזה שלא ניסית</l>
+          <l>לדעת אם אני באמת שומע</l>
+          <l>ותתפלאי אני אפילו עוד אקשיב</l>
+          <l>זה רק עניין של זמן אני יודע</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שחררי אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

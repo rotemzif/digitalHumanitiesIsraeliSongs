@@ -1,0 +1,40 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר ערש לנור</title>
+        <singer classification="male singer">שם טוב לוי</singer>
+        <writer>שהם סמיט</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר ערש לנור</head>
+        <lg number="1" type="stanza">
+          <l>נומי נומי בת</l>
+          <l>כמה שונים הימים מאז שבאת</l>
+          <l>העולם התכווץ אל חדרך</l>
+          <l>החמים, כחיק</l>
+          <l>ואני מהלך בו כמעט</l>
+          <l>מאושר, ונושק</l>
+          <l>לפלומת ראשך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

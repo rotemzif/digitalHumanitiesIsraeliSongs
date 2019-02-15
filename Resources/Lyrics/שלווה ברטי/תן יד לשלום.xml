@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תן יד לשלום</title>
+        <singer classification="female singer">שלווה ברטי</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>אנדראה בוצ'אלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תן יד לשלום</head>
+        <lg number="1" type="stanza">
+          <l>עוד נושבות מעלינו רוחות מלחמה</l>
+          <l>מבוקר עד ערב</l>
+          <l>ובינינו עדיין ניצבת חומה</l>
+          <l>לאורך הדרך</l>
+          <l>שוב מבטך קר ,רחוק וזר</l>
+          <l>איך ומדוע נעלם געגוע ונגמר</l>
+          <l>שנינ מהלכים על גשר צר</l>
+          <l>והסוף לא ידוע.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תן יד לשלום, תן צ'אנס לאהבה</l>
+          <l>ביחד נגיע היום אל סוף המריבה.</l>
+          <l>תן יד לשלום עכשיו בא זמן אהבה</l>
+          <l>ביחד נגיע היום אל סוף המריבה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז בוא ניפגש ואולי נדבר</l>
+          <l>על מה שבינינו</l>
+          <l>על מה שעלינו עובר</l>
+          <l>בוא נפתח את הלב קצת יותר</l>
+          <l>ותראה שביחד אפשר לבנות עולם אחר. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תן יד לשלום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

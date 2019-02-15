@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר לכת</title>
+        <singer classification="male singer">מיכה שטרית</singer>
+        <writer>מיכה שטרית</writer>
+        <composer>מיכה שטרית</composer>
+        <album>מסמרים ונוצות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר לכת</head>
+        <lg number="1" type="stanza">
+          <l>קח את התוף ילד, קח את התוף</l>
+          <l>תופף וצעד, צעד ותופף במורד הרחוב</l>
+          <l>ושיר את השיר, ילד, בקול צלול, טהור</l>
+          <l>שיר את השיר, תופף וצעד, אל האור.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חלילי הרוח, המרחב הפתוח</l>
+          <l>התקוות, התהילה וחוסר המנוח</l>
+          <l>ושיר את השיר, ילד,  תופף וצעד קדימה</l>
+          <l>שיר את השיר, תופף וצעד, מלאך קטן של אמא.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

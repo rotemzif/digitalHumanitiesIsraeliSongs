@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נקפוץ בכיף</title>
+        <singer classification="male singer">עמוס ברזל</singer>
+        <writer>עמוס ברזל</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נקפוץ בכיף</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>קופצים לפנים, כפיים מוחאים, </l>
+          <l>קופצים לאחור, במקום צועדים. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פיסוק ברגליים, נטפח על הברכיים, </l>
+          <l>שתי ידי עולות, מצד לצד נעות. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>קופצים לפנים, כפיים מוחאים, </l>
+          <l>קופצים לאחור, במקום צועדים. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>פיסוק ברגליים, נטפח על הלחיים, </l>
+          <l>שתי ידי עולות, מצד לצד נעות.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

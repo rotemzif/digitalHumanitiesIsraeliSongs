@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עולה 6</title>
+        <singer classification="male singer">ערן צור</singer>
+        <writer>ערן צור</writer>
+        <composer>missing</composer>
+        <album>חותך בחתך הזהב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עולה</head>
+        <lg number="1" type="stanza">
+          <l>רוכב על הטופ של הביט, רוכב, רוכב</l>
+          <l>רוכב על הקוק של הפיט, רוכב, רוכב</l>
+          <l>רוכב על הקוק של הפיט, רוכב, רוכב</l>
+          <l>רוכב על הטופ של הביט, רוכב, רוכב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עולה עולה עולה עולה</l>
+          <l>עולה עולה עולה עולה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חותך בחתך הזהב, חותך, חותך</l>
+          <l>נחטף בציפור הכחולה, חוטף, חותר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עולה עולה עולה עולה</l>
+          <l>עולה עולה עולה עולה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נחטפתי בתוך הציפור הכחולה</l>
+          <l>החוטף החליף מהלכים במהירות, עודדתי אותו לטיסה</l>
+          <l>בתחילת העליה על הגבעה הוא קפץ ממושב הטייס החוצה</l>
+          <l>ואני במושב הקדמי הימני לבד</l>
+          <l>תאוצה אדירה במעלה הגבעה</l>
+          <l>הפכה להמראה שבחובה סכנה של צלילה</l>
+          <l>או אולי נפילה לתהום</l>
+          <l>מוכרח להתעשת למשוך את הידית,</l>
+          <l>כן זו השמאלית, הידית של הגז</l>
+          <l>והיד שלי יכולה יכולה למשוך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עולה עולה עולה עולה</l>
+          <l>עולה עולה עולה עולה</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>עולה דואה צולל קופץ</l>
+          <l>נופל בולם נוסק חולף</l>
+          <l>עובר חותך מושך גולש</l>
+          <l>עולה עולה עולה עולה</l>
+          <l>עולה דואה קופץ נופל</l>
+          <l>בולם נוסק חוף עובר</l>
+          <l>עולה עולה עולה עולה</l>
+          <l>עולה עולה עולה עולה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

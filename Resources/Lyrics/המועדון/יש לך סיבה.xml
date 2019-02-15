@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לך סיבה</title>
+        <singer classification="unknown">המועדון</singer>
+        <writer>רועי דותן</writer>
+        <composer>נועם ורדי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לך סיבה</head>
+        <lg number="1" type="stanza">
+          <l>יום אחד תראו זה יתקלף</l>
+          <l>הצבע שוב יתחלף</l>
+          <l>זה יגע בי וילטף</l>
+          <l>יהיה לי טוב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עוד ועוד תמיד אותו אקורד</l>
+          <l>מתנגן וקורא לי עוד </l>
+          <l>ומתי זה כבר יעבוד</l>
+          <l>זה ייתחבר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אל דאגה, היום עבר אחר כבר בא</l>
+          <l>למה לחיות? חיים בהמתנה</l>
+          <l>יש לך סיבה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>דיבורים ודיבורים עזוב אותך מתירוצים</l>
+          <l>עכשיו זה הזמן להפוך מצב</l>
+          <l>לטפס אל מעל הקו</l>
+          <l>לנשום אוויר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אל דאגה, היום עבר אחר כבר בא</l>
+          <l>למה לחיות? חיים בהמתנה</l>
+          <l>יש לך סיבה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אל דאגה, היום עבר אחר כבר בא</l>
+          <l>למה לחיות? חיים בהמתנה</l>
+          <l>אל דאגה, היום עבר אחר כבר בא</l>
+          <l>למה לחיות? חיים בהמתנה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

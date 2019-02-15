@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פזמון קטן על אהבה</title>
+        <singer classification="male singer">משה פרץ</singer>
+        <writer>דדי מועלם</writer>
+        <composer>אופיר שמעוני</composer>
+        <album>מהשמיים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פזמון קטן על אהבה</head>
+        <lg number="1" type="stanza">
+          <l>במחול שלך השיר נגמר </l>
+          <l>בריקוד שלי הצעד תם</l>
+          <l>המילים קופאות בינינו קר</l>
+          <l>והלב בין השורות נרדם</l>
+          <l>את שותקת אין לך מה לומר</l>
+          <l>גם אני באותיות נשבר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא יכול כי אין לי מילים לתאר לך</l>
+          <l>זה כואב לא יכול כי אין לי מילים </l>
+          <l>נעזר בלוח שבלב שם אני אותך אלי כותב</l>
+          <l>מצייר לך שאני אוהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>החלום שלי שורף לילות</l>
+          <l>ואיתו אני תמיד חוזר</l>
+          <l>כל היום שבו אמרת לי לא</l>
+          <l>בשבילי תמיד היה עוזר</l>
+          <l>אם היית עונה ולו בעוד</l>
+          <l>אם הייתי שב בך לגלות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא יכול כי אין לי מילים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

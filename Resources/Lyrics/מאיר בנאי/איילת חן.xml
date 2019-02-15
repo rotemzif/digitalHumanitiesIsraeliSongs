@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איילת חן 2</title>
+        <singer classification="male singer">מאיר בנאי</singer>
+        <writer>רבי שלום שבזי</writer>
+        <composer>missing</composer>
+        <album>שמע קולי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איילת חן</head>
+        <lg number="1" type="stanza">
+          <l>אילת חן בגלות תסמכני</l>
+          <l>ובלילה, ובלילה בתוך חיקה מלוני</l>
+          <l>לכוס יינה אני תמיד מזומן</l>
+          <l>ונתערב חמד יינה בייני</l>
+          <l>שתו דודים לעומתי ושכרו</l>
+          <l>והעירו לשכל רעיוני</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אילת חן, אילת חן, אילת חן</l>
+          <l>בגלות תסמכני</l>
+          <l>ובלילה בתוך חיקה</l>
+          <l>בתוך חיקה מלוני</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זמן הפריד לכל רעים ודודים</l>
+          <l>אבל דודי באהבה ימשכני</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אילת חן, אילת חן, אילת חן</l>
+          <l>בגלות תסמכני</l>
+          <l>ובלילה בתוך חיקה</l>
+          <l>בתוך חיקה מלוני</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

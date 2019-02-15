@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה תנצח</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>עממי יווני</composer>
+        <album>כל מה שיש בי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה תנצח</head>
+        <lg number="1" type="stanza">
+          <l>אלייך שוב נוסע</l>
+          <l>וכבר מתגעגע</l>
+          <l>רוצה אותך כל רגע</l>
+          <l>לאהוב בלי סוף</l>
+          <l>זו אהבה אחרת</l>
+          <l>כמו אש אצלי בוערת</l>
+          <l>רוצה איתך ללכת</l>
+          <l>עד הסוף</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פעם את אוהבת</l>
+          <l>פעם את כועסת</l>
+          <l>ועלינו לא מוותרת</l>
+          <l>לא בורח ולא שוכח</l>
+          <l>יש אהבה והיא תנצח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הכל כמעט עברנו</l>
+          <l>גם טוב גם רע ידענו</l>
+          <l>להישאר נשבענו</l>
+          <l>יחד לעולם</l>
+          <l>אלך רק אחרייך</l>
+          <l>אשמור על צעדייך</l>
+          <l>לא אוותר עלייך</l>
+          <l>לעולם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פעם את אוהבת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

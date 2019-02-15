@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אגדה לילדה</title>
+        <singer classification="unknown">נאוה גפן</singer>
+        <writer>נאוה גפן</writer>
+        <composer>נאוה גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אגדה לילדה</head>
+        <lg number="1" type="stanza">
+          <l>אומרים שמעבר להר</l>
+          <l>צומחים דובדבנים כחלחלים</l>
+          <l>ציפורים נרדמות שם עם בוקר</l>
+          <l>וילדים ככה סתם לא בוכים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נומי נום נומי נום</l>
+          <l>נומי נומי ילדונת</l>
+          <l>נומי נום...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אומרים עוד על עיר הפלאות</l>
+          <l>השמן כבד בה מנחושת</l>
+          <l>הזהב שמה זול מפרוטות</l>
+          <l>וילדות לא יראות מהחושך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נומי נום....</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רואה את, זו ארץ של תמה</l>
+          <l>שחור כלבן בה נדמה</l>
+          <l>אוצרי, בוכיה את, ושמא</l>
+          <l>לסיפור תום ליבך יהמה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>נומי נום....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

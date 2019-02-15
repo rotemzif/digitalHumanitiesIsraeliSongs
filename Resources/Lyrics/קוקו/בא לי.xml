@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בא לי 20</title>
+        <singer classification="DJ">קוקו</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>שי ראובני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בא לי</head>
+        <lg number="1" type="stanza">
+          <l>בלילות הקרים שכשאת פה לצידי</l>
+          <l>מחזיקה בידי וסוחפת אותי</l>
+          <l>את שלי והלב מבקש רק אותך</l>
+          <l>וכל כך מתרגש להיות רק שלך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בא לי לאהוב עד הסוף</l>
+          <l>בא לי אחרייך לרדוף</l>
+          <l>בא לי ואני לא אפול</l>
+          <l>בא לי לתת לך הכל</l>
+          <l>גם אם את נשברת</l>
+          <l>תמיד את נלחמת</l>
+          <l>הכל את נותנת</l>
+          <l>ולא מוותרת, עלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך כולם מנסים ורוצים רק אותך</l>
+          <l>הם עוד לא מבינים שאני רק שלך</l>
+          <l>לא צריך שום דבר בעולם מלבדך</l>
+          <l>איך אני מאושר זה הכל בזכותך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בא לי לאהוב עד הסוף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Plastic Heart</title>
+        <singer classification="male singer">עמרי לוי</singer>
+        <writer>עמרי לוי</writer>
+        <composer>עמרי לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Plastic Heart</head>
+        <lg number="1" type="stanza">
+          <l>Got your little heart </l>
+          <l>in my blue jeans pocket </l>
+          <l>so i won't forget you </l>
+          <l>every time i sing this song </l>
+          <l>and you'll always be there </l>
+          <l>to show me the way </l>
+          <l>you're my little angel </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>the girl i'll never have</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

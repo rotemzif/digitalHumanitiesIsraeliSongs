@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלינקי ופינקי</title>
+        <singer classification="unknown">יעל קרוון</singer>
+        <writer>זיו סידי</writer>
+        <composer>זיו סידי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלינקי ופינקי</head>
+        <lg number="1" type="stanza">
+          <l>יום אחד קיבלתי חבילה</l>
+          <l>ששקעה בים לפני שלושים שנה</l>
+          <l>בפנים היתה מונחת הפתעה</l>
+          <l>ולא תאמינו מה שם היה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בלינקי ופינקי מאוד חמודים</l>
+          <l>בסוד אשמור אותם מההורים</l>
+          <l>אני והם ביחד נהנים</l>
+          <l>ומשחקים במחבואים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בלינקי הוא שובב קטן וזללן</l>
+          <l>פינקי הורודה שדואגת כל הזמן</l>
+          <l>בלינקי בשבילי הוא מאוד חשוב</l>
+          <l>אך פינקי רוצה הביתה לשוב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בלינקי ופינקי מאוד חמודים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

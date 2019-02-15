@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד תוסס היין</title>
+        <singer classification="unknown">העמרנים</singer>
+        <writer>עדנה פלג</writer>
+        <composer>מוני אמריליו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד תוסס היין</head>
+        <lg number="1" type="stanza">
+          <l>שמש לי קורצת מכחול זוהר</l>
+          <l>ופורצת במחול סוער</l>
+          <l>צליל מיתר פרוע</l>
+          <l>בי יש געגוע</l>
+          <l>אל ברק ורעם, אל סערה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הכל פתוח ולא אנוח</l>
+          <l>אני אניף מפרש ברוח</l>
+          <l>אני אכניף כמעוף יונה</l>
+          <l>ואבוא אליך ובזרועותיך</l>
+          <l>שם אני אסער</l>
+          <l>ושם ארגע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד תוסס היין ואני עוד חי</l>
+          <l>ותשוקה פועמת בעורקי</l>
+          <l>צליל מיתר פרוע</l>
+          <l>בי כמו געגוע</l>
+          <l>כמו ברק ורעם, כמו סערה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הכל פתוח ולא אנוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

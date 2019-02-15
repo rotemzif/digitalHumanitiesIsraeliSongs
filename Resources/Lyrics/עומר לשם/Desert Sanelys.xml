@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Desert Sanelys</title>
+        <singer classification="unknown">עומר לשם</singer>
+        <writer>עומר לשם</writer>
+        <composer>עומר לשם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Desert Sanelys</head>
+        <lg number="1" type="stanza">
+          <l>Desert greens, sunny clean </l>
+          <l>Wake up machine with a scoutly grin </l>
+          <l>Solarizer walking scene </l>
+          <l>Four-legged mountain mystifying fin. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>Desert sanelys, despite of the fact </l>
+          <l>Drowsy weary furry pack </l>
+          <l>The sound of two million tasks </l>
+          <l>At once became a sneak attack. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Desert blacks, moon intact </l>
+          <l>Gear in a sack and nothing to lack </l>
+          <l>Lunarizer in a back-pack track </l>
+          <l>Climbing mountain guarding crack. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>Desert sanelys, despite of the fact </l>
+          <l>Drowsy weary furry pack </l>
+          <l>The sound of two million tasks </l>
+          <l>At once became a sneak attack.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

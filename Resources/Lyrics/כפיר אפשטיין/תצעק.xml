@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תצעק</title>
+        <singer classification="male singer">כפיר אפשטיין</singer>
+        <writer>כפיר אפשטיין</writer>
+        <composer>כפיר אפשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תצעק</head>
+        <lg number="1" type="stanza">
+          <l>תקום אולי מחר מוקדם</l>
+          <l>אל תהיה אחד שסתם</l>
+          <l>שומר דברים במגירה</l>
+          <l>מפגין קשיחות כשאין ברירה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תחשוף אותך באור היום</l>
+          <l>אל תפחד מן התהום</l>
+          <l>תיקח אויר, תראה זה קל</l>
+          <l>לומר הכל אל מול קהל.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תצעק תצעק</l>
+          <l>מה שאתה חושב חזק</l>
+          <l>ולא אכפת מה שיגידו אנשים.</l>
+          <l>תצחק תצחק</l>
+          <l>על העולם שזז לאט</l>
+          <l>ולא חשוב שזה שורף עמוק בפנים.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תפתח אוזניים ותקשיב</l>
+          <l>זה יעזור, פחות יכאיב</l>
+          <l>אל תאבד את התחושה</l>
+          <l>אל תתאהב בעצמך.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תצעק תצעק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

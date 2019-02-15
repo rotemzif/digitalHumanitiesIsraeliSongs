@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה הבעיה</title>
+        <singer classification="male singer">טל שגב</singer>
+        <writer>טל שגב</writer>
+        <composer>טל שגב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה הבעיה</head>
+        <lg number="1" type="stanza">
+          <l>זה לא יאומן שאין פה בית</l>
+          <l>זה לא יאומן כמה שיש פה כלום</l>
+          <l>זה לא יאומן איך התגלגלנו</l>
+          <l>אני ואת לאן הגענו?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה הבעיה? מה הבעיה שלך? אה?</l>
+          <l>רק ליום אחד שיחליטו בשבילך</l>
+          <l>אז מה הבעיה? מה הבעיה שלך בנאדם?</l>
+          <l>רק ליום אחד שיחליטו בשבילך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שבעים פנים לדף אחד</l>
+          <l>עושה בדיקה בערב חג</l>
+          <l>לשים בצד את כל מה שחשבנו</l>
+          <l>המובן מאליו כבר לא איתנו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז מה הבעיה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

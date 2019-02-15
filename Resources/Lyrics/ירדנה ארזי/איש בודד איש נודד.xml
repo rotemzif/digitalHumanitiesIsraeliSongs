@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איש בודד איש נודד</title>
+        <singer classification="female singer">ירדנה ארזי</singer>
+        <writer>שמוליק צ'יזיק</writer>
+        <composer>שמוליק צ'יזיק</composer>
+        <album>אתה לי ארץ</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איש בודד איש נודד</head>
+        <lg number="1" type="stanza">
+          <l>עשרים שנות יגון וצער</l>
+          <l>עבר שלא נגמר</l>
+          <l>אתה כבר אינך אותו נער</l>
+          <l>המחפש את המחר</l>
+          <l>מעט זכרונות ילדות קשה</l>
+          <l>השאירו בך משקע</l>
+          <l>וחלום ספוג רצון עז</l>
+          <l>להגשים את השאיפה .</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איש בודד איש נודד</l>
+          <l>ספר מאיפה באת</l>
+          <l>איש בודד איש נודד</l>
+          <l>מתי תחזור הביתה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>האלילים להם סגדת</l>
+          <l>נעלמו מהעולם</l>
+          <l>חברים בהם בטחת</l>
+          <l>הפנו לך גבם</l>
+          <l>וכך אתה ממשיך לנדוד</l>
+          <l>בתוך נבכי לבך</l>
+          <l>בחיפוש מתמיד אחר עתיד</l>
+          <l>שלא נועד לך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איש בודד איש נודד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

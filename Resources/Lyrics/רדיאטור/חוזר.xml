@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חוזר 30</title>
+        <singer classification="unknown">רדיאטור</singer>
+        <writer>רועי רגב</writer>
+        <composer>רועי רגב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חוזר</head>
+        <lg number="1" type="stanza">
+          <l>חוזר אל העיר </l>
+          <l>לא מוצא כלום </l>
+          <l>משהו שיוכל </l>
+          <l>להשאיר אותי איתך </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני מתגעגע </l>
+          <l>כשהייתי מגיע </l>
+          <l>את היית מחייכת </l>
+          <l>אני הייתי שוקע </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יהיו לי עוד </l>
+          <l>כמה פעמים </l>
+          <l>שאני אלך אל הים </l>
+          <l>ואחזור אל החוף </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני מתגעגע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

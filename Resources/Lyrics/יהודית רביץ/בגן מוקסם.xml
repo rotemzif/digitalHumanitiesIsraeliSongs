@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בגן מוקסם</title>
+        <singer classification="female singer">יהודית רביץ</singer>
+        <writer>יהודה עמיחי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בגן מוקסם</head>
+        <lg number="1" type="stanza">
+          <l>בגן מוקסם יושב איש מפוכח,</l>
+          <l>חציו מואר, חציו שכח.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אמו קראה לו מחלון של שינה,</l>
+          <l>אך הוא לא ישן ולכן לא פנה,</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ויצא לבדו אל מחוץ לגדר,</l>
+          <l>חציו הוא, חציו אחר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואהב סיפור אהבה מפורסם.</l>
+          <l>ומאז לא שב אל הגן המוקסם.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וחי בטוב וחי בכאב</l>
+          <l>ואם לא מת הוא עדיין אוהב.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

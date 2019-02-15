@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הגבר של חיי 3</title>
+        <singer classification="female singer">לינט</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>שמואל אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הגבר של חיי</head>
+        <lg number="1" type="stanza">
+          <l>כל לילה כאן מול חלוני</l>
+          <l>מביט בי נער אלמוני</l>
+          <l>ושתי עיניו כאש הלהבה</l>
+          <l>הוא מסתובב לו סביב ביתי</l>
+          <l>כמעט מטריף את דעתי</l>
+          <l>ושר לי סרנדות אהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם אתה יודע לאהוב</l>
+          <l>מעומק נשמתך</l>
+          <l>אם תרצה לתת מעצמך</l>
+          <l>רק מטוב לבך</l>
+          <l>אל תפחד להתקרה אלי</l>
+          <l>אולי אתה הגבר של חיי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הוא מחזר בלי הפסקה</l>
+          <l>והוא לרגע לא נרגע</l>
+          <l>ולא נותן מרגוע לנפשי</l>
+          <l>קורא לי בואי מתוקה</l>
+          <l>שולח לי עוד נשיקה</l>
+          <l>ועד הבוקר לא יפסיק לשיר. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם אתה יודע לאהוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

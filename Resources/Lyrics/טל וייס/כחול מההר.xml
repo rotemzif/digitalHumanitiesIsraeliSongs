@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כחול מההר</title>
+        <singer classification="female singer">טל וייס</singer>
+        <writer>טל וייס</writer>
+        <composer>טל וייס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כחול מההר</head>
+        <lg number="1" type="stanza">
+          <l>לא משנה לאן אני נוסעת</l>
+          <l>אין לי כיוון ולא רוצה לדעת</l>
+          <l>מה מחכה לי שם לא משנה בעצם</l>
+          <l>יש לי כבר הכל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי אין שום דבר</l>
+          <l>אדום מהים</l>
+          <l>כחול מההר שלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גם אם אני לבד בתוך החדר</l>
+          <l>והקירות סוגרים - אני בסדר</l>
+          <l>לא מוכרחה לצאת ולא צריכה ללכת</l>
+          <l>אני נמצאת כבר שם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי אין שום דבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

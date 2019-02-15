@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זר ורדים</title>
+        <singer classification="unknown">קובי עדן</singer>
+        <writer>דייב מאיר</writer>
+        <composer>דייב מאיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זר ורדים</head>
+        <lg number="1" type="stanza">
+          <l>רציתי איתך, לפרוט על מיתרי,</l>
+          <l>רציתי אותך לאהוב.</l>
+          <l>רציתי שאת, תיעני לחיזורי,</l>
+          <l>רציתי אותך קרוב קרוב.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זר ורדים לך אקטוף,</l>
+          <l>אלטף את פנייך ברוך,</l>
+          <l>אז אומר לך כמה, חשובה אהבתך,</l>
+          <l>רוצה לחיות בקירבתך עד אין סוף.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את האישה שבה חשקה נפשי,</l>
+          <l>אישה אשר שבתה את לבבי,</l>
+          <l>זר פרחים אקטוף, אהבתי אחשוף,</l>
+          <l>לנצח אוהבך, עד אין סוף.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זר ורדים לך אקטוף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

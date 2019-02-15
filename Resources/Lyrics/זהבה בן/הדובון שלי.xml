@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הדובון שלי</title>
+        <singer classification="female singer">זהבה בן</singer>
+        <writer>יוני רועה</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הדובון שלי</head>
+        <lg number="1" type="stanza">
+          <l>משוחח איתי על קו הטלפון,</l>
+          <l>הוא הבטיח לי שהוא יקנה לי דובון</l>
+          <l>יש לי יומולדת והשמחה גדולה</l>
+          <l>סוף כל סוף, יהיה לי דובון משלי</l>
+          <l>שאוכל להתפנק איתו במיטתי</l>
+          <l>עשור שנים מלאו לי, מאז נולדתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הדובון שלי, הוא יחלום איתי</l>
+          <l>הדובון שלי, הוא יהיה איתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אשיר לו שירים, אספר סודותי</l>
+          <l>אחבק אותו חזק בשתי ידי</l>
+          <l>אחלום אותו בלילה, אוהב אותו בלי די</l>
+          <l>אתן לו גם שם לדובון הקטן</l>
+          <l>דובי, או שמעון, אבי, או דן</l>
+          <l>אקנה לו מתנה, אטייל איתו בגן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הדובון שלי, הוא יחלום איתי</l>
+          <l>הדובון שלי, הוא יהיה איתי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

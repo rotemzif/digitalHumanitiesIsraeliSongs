@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך שאת יפה</title>
+        <singer classification="male singer">משה פרץ</singer>
+        <writer>משה פרץ</writer>
+        <composer>משה פרץ</composer>
+        <album>מהשמיים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך שאת יפה</head>
+        <lg number="1" type="stanza">
+          <l>בצעדייך לעברי מתרגשת</l>
+          <l>ואני מחכה שתאחזי בשתי ידי</l>
+          <l>מהלכת לצידי </l>
+          <l>ומבטי בך לא פוסקים </l>
+          <l>תמיד אזכור דבר ושניים מהיום </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ולא צריך לדאוג כי יש הכל </l>
+          <l>וכשאני איתך אני הכל יכול </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך שאת יפה </l>
+          <l>ובעינייך עוד מילה של אושר </l>
+          <l>בתוך הנשמה שלך </l>
+          <l>שלי ושלך. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>והתמימות הטהורה </l>
+          <l>הביישנות בנשימה </l>
+          <l>והפשטות וכל היופי בעולם </l>
+          <l>והפנים המסמיקות </l>
+          <l>המתוקות המשונות </l>
+          <l>והלב שמתקתק לי פעימות </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ולא צריך לדאוג כי יש הכל </l>
+          <l>וכשאני איתך אני הכל יכול </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>איך שאת יפה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

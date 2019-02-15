@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הומיה</title>
+        <singer classification="male singer">יואב יצחק</singer>
+        <writer>אלי קפה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הומיה</head>
+        <lg number="1" type="stanza">
+          <l>הרוח היא שלי אבל כמו שלך</l>
+          <l>בתוך כנפיה היא נוצרת את סודה</l>
+          <l>לאוהבי פריחה תביא ניחוח</l>
+          <l>ולאחר תיקח את התקווה</l>
+          <l>אך לביתי תביא רק אהבה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני ממתין עכשיו לרוח מסתורית</l>
+          <l>שתאסוף את השברים מתוך חדרי</l>
+          <l>כמו סערה שלא אחסום בכח</l>
+          <l>זו הסופה ממנה לא אברח</l>
+          <l>זו רוח סתיו שמביאה שלוה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הומיה, הומיה כוחותייך גברו</l>
+          <l>מה יפית הומיה, את שברייך אספו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הערב רד היא נחה לה שם גבעה</l>
+          <l>ואיש גם לא ידע את דרך מסעה</l>
+          <l>היא ממתינה לאות כדי לנוע</l>
+          <l>לצאת לעיר ולרקד סביבה</l>
+          <l>אך לביתי תביא רק אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הומיה, הומיה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

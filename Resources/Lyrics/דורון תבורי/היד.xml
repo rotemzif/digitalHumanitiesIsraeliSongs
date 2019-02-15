@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היד 3</title>
+        <singer classification="male singer">דורון תבורי</singer>
+        <writer>זרובבל גלעד</writer>
+        <composer>דוד זהבי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היד</head>
+        <lg number="1" type="stanza">
+          <l>נוחי, נוחי, יד אוהבת,</l>
+          <l>הרגעי, הנסערה:</l>
+          <l>שדה הלחם המזהבת</l>
+          <l>לפנייך פה כרעה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חלומות לא שווא דיברו.</l>
+          <l>מכאובינו את תישאי</l>
+          <l>(סער, סער יום וליל),</l>
+          <l>את זרעת - ותאספי!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מבט מהפנט</title>
+        <singer classification="male singer">יואב יצחק</singer>
+        <writer>יוסי גרציאני</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מבט מהפנט</head>
+        <lg number="1" type="stanza">
+          <l>זוכר את המבט שרמז לי </l>
+          <l>אלך איתך עד הסוף </l>
+          <l>מרגיש נגיעות מלטפות בי </l>
+          <l>ובלב תופסות לי מקום </l>
+          <l>אם רק תקראי את הלב </l>
+          <l>כמה אותך עוד אוהב </l>
+          <l>והאם את שומעת </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את כל המילים באותן התיבות </l>
+          <l>את כל השירים בשינוי מגינות, אלייך </l>
+          <l>בכל הזדמנות בשעות הקטנות </l>
+          <l>רק מבט מהפנט לשניה רק לראות, עינייך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זוכר איך בסתר מסרת לי </l>
+          <l>אהבה ללא גבולות </l>
+          <l>נפגשנו מיד כבר הבנתי </l>
+          <l>שביחד נוכל עוד לבנות </l>
+          <l>אם רק תקראי את הלב </l>
+          <l>כמה אותך עוד אוהב </l>
+          <l>והאם את שומעת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את כל המילים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

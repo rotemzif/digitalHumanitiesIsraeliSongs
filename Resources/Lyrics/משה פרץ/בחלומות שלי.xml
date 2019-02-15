@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בחלומות שלי</title>
+        <singer classification="male singer">משה פרץ</singer>
+        <writer>משה פרץ</writer>
+        <composer>משה פרץ</composer>
+        <album>אש</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בחלומות שלי</head>
+        <lg number="1" type="stanza">
+          <l>תני לי לשכוח את הזמן</l>
+          <l>לברוח גם מכאן לימים טובים</l>
+          <l>תני לי לצבוע בלבן</l>
+          <l>את האפור שהשתלט על החיים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם יש כאן אהבה שלנו היא ניתנה</l>
+          <l>עם עוד קצת אמונה כמו שבליבי</l>
+          <l>חבקי אותי מעט, נפסע לאט לאט</l>
+          <l>אל דרך בטוחה לאהבה טובה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בחלומות שלי אני רואה אותך מולי</l>
+          <l>בחלומות שלי גופך נוגע בגופי</l>
+          <l>בחלומות את לי אהבתי היחידה </l>
+          <l>ובלעדייך תישאר נפשי כה בודדה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בואי ניסע לנו מכאן </l>
+          <l>לבית הישן בו נפגשנו</l>
+          <l>בואי נחזור להתחלה</l>
+          <l>נבנה כאן אהבה לה נועדנו</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עכשיו אני הולך יודע מה ואיך</l>
+          <l>אין טעם לחכות אז תבואי</l>
+          <l>הפסיקי את קולך השמיעי את ליבך</l>
+          <l>אימרי את האמת ותהיי שלי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בחלומות שלי אני רואה אותך מולי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את יודעת 3</title>
+        <singer classification="unknown">מנחם מרחום</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי ערבי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את יודעת</head>
+        <lg number="1" type="stanza">
+          <l>שמעי ילדה והקשיבי לי,</l>
+          <l>את מוכרחה להיות שלי</l>
+          <l>ולא יעזור לך שום-דבר,</l>
+          <l>ממני לא עוד תברחי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גלי מהר סודך חרש,</l>
+          <l>מפה לאוזן לחשי:</l>
+          <l>עם מי היית בליל-אמש,</l>
+          <l>אתי יותר לא תשחקי.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>נמאס לי כבר, את יודעת,</l>
+          <l>תמיד לצאת מן הדעת.</l>
+          <l>רוצה רק בך, את שומעת,</l>
+          <l>רוצה אותך.</l>
+          <l>אז מה דעתך, אולי תאמרי</l>
+          <l>מתי תהיי סוף-סוף שלי?</l>
+          <l>אני רוצה שתתבגרי,</l>
+          <l>שתבלי הרבה אתי,</l>
+          <l>איתך אהיה תמיד מבסוט.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אולי צריך להיות קשוח,</l>
+          <l>לצעוק עלייך ולאיים?</l>
+          <l>אבל רוצה אני לנוח,</l>
+          <l>בזרועותייך לנמנם.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>נמאס לי...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>את שובבה, לי כבר ידוע</l>
+          <l>ורק בגלל זה אהבתיך.</l>
+          <l>איתך אפסיק להיות פרוע,</l>
+          <l>את חטאי הרחק אשליך.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>נמאס לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

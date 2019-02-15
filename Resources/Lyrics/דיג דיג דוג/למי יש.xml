@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>למי יש</title>
+        <singer classification="unknown">דיג דיג דוג</singer>
+        <writer>מיכל חזון</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>למי יש</head>
+        <lg number="1" type="stanza">
+          <l>למי יש למי יש </l>
+          <l>שתי עיניים כוכבים?</l>
+          <l>לחיים תפוחים?</l>
+          <l>אף קטן כמו דובדבן</l>
+          <l>והפה ניצת שושן?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>למי יש את כל אלה?</l>
+          <l>לתינוק שלי</l>
+          <l>מי זה אוצר יקר?</l>
+          <l>מי מתוק שלי?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>למי יש למי יש</l>
+          <l>שערות רכות רכות?</l>
+          <l>ואוזניים עדינות?</l>
+          <l>וביטנונת מתוקה</l>
+          <l>שאתן לה נשיקה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>למי יש את כל אלה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

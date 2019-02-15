@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מדבר בלי מילים</title>
+        <singer classification="male singer">ליאור פרחי</singer>
+        <writer>איזי מן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מדבר בלי מילים</head>
+        <lg number="1" type="stanza">
+          <l>בתוך השקט שמעתי לב</l>
+          <l>עונה לקול לחישותי</l>
+          <l>הולך רחוק ומתקרב</l>
+          <l>מוצא מקלט בזרועותי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה שבנינו אהבה</l>
+          <l>והאצבעות רוקדות לאט</l>
+          <l>שמבקשות את הקרבה</l>
+          <l>והתשובה היא כף היד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני אומר לך שאוהב</l>
+          <l>ואת יודעת את שלי</l>
+          <l>אני שותק ורק הלב</l>
+          <l>מדבר בלי מילים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בתוך השקט הנשימה</l>
+          <l>ועל הקר חיוך של תום</l>
+          <l>האהבה כך מעצמה</l>
+          <l>פוקחת תריס של עין אל היום</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני אומר לך שאוהב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

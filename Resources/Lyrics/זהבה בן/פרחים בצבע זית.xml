@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פרחים בצבע זית</title>
+        <singer classification="female singer">זהבה בן</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פרחים בצבע זית</head>
+        <lg number="1" type="stanza">
+          <l>אני רואה אלפי פרחים בצבע זית</l>
+          <l>הם צועדים אל מול עיני והם יפים אחד אחד</l>
+          <l>רואה איך הברק שבעיניים</l>
+          <l>חודר לתוך ליבי לאט לאט</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני רואה את גיבורי התהילה</l>
+          <l>וחושבת לעצמי אם הייתי יכולה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני הייתי מחבקת את כולם</l>
+          <l>מהטוראי ועד לרמטכ"ל</l>
+          <l>השיר הזה ממני מוקדש באהבה</l>
+          <l>לכל החיילים שבצבא</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא משנה אם זה בשק"מ או בשטח</l>
+          <l>הם נותנים את הנשמה מגלגלים את הפז"מ</l>
+          <l>ישראל תהיי גאה שיש לך</l>
+          <l>את הצבא הכי טוב בעולם</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני רואה את גיבורי התהילה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>השיר הזה תפילה שישמור אותם האל,</l>
+          <l>את כל צבא ההגנה לישראל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

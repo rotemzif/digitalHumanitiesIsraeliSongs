@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוא קח אותי</title>
+        <singer classification="unknown">לירז אביטל</singer>
+        <writer>דני שושן</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוא קח אותי</head>
+        <lg number="1" type="stanza">
+          <l>כל דקה שאני איתך נחשבת בעיני כמו שנה</l>
+          <l>המבט שאתה אלי שולח בשבילי הוא שי ומתנה</l>
+          <l>כל מילה שלי אמרת כמו חדרה אל תוך הנשמה</l>
+          <l>ובעינייך לא ראיתי ים כנות וים של אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בוא קח אותי</l>
+          <l>בוא שא אותי</l>
+          <l>איך שאתה יודע</l>
+          <l>כי לי תהיה ת'אהבה</l>
+          <l>שמטריפה לי את הלב ואת חושי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הימים הם ציפיה ללילות יפים של אהבה</l>
+          <l>מתפרקת ומחכה והלב שבתוכי מלא תקווה</l>
+          <l>כל חיוך שלך מאיר עלי בים של כוכבים</l>
+          <l>את זה הרגע אשמור בתוך הלב לעולמי עולמים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בוא קח אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

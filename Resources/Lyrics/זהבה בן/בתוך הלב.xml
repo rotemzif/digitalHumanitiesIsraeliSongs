@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בתוך הלב</title>
+        <singer classification="female singer">זהבה בן</singer>
+        <writer>מיכאל וקנין</writer>
+        <composer>שמעון בוסקילה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בתוך הלב</head>
+        <lg number="1" type="stanza">
+          <l>אתה מושך אותי אליך</l>
+          <l>אני רואה את הכאב</l>
+          <l>שלא עוזב בתוך הלב</l>
+          <l>אתה מביט לי בעיניים</l>
+          <l>תגיד לי מה אתה חושב</l>
+          <l>ומה יושב לך בלב.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני חיכיתי עד שבאת</l>
+          <l>להאיר לי את הדרך</l>
+          <l>אבל עכשיו הכל אחרת</l>
+          <l>ואור פניך נעלם</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אל תתחמק, אל תישבר</l>
+          <l>אתה תבין את הסיפור שמסתתר</l>
+          <l>אל תתפלא, אל תשקר</l>
+          <l>אתה תראה את האמת ותישאר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אתה אוחז בי בידיך</l>
+          <l>זה הבטחה שתתחשב</l>
+          <l>ותתקרב מכל הלב</l>
+          <l>אני פוחדת בלעדיך</l>
+          <l>רק אל תומר לי שאתה</l>
+          <l>אותי עוזב ותתקרב</l>
+          <l>אני חיכיתי כל הלילה</l>
+          <l>שיאירו לי פניך</l>
+          <l>אתה חושב שכבר נשברת</l>
+          <l>אבל יש אור שעוד נשאר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אל תתחמק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

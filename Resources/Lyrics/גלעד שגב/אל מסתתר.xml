@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל מסתתר</title>
+        <singer classification="male singer">גלעד שגב</singer>
+        <writer>גלעד שגב</writer>
+        <composer>גלעד שגב</composer>
+        <album>נועדנו</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל מסתתר</head>
+        <lg number="1" type="stanza">
+          <l>אם יש אמת אחת,</l>
+          <l>אז איך שיש כל כך הרבה?</l>
+          <l>אם לב לא חי לעד,</l>
+          <l>אז איך אני כל כך אוהב?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל מסתתר בשפריר חביון,</l>
+          <l>הלב נפתח לכל רעיון,</l>
+          <l>גלה לי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם יש לי שורשים,</l>
+          <l>אז איך אני עוד לא שייך?</l>
+          <l>ואיך זה ילדים,</l>
+          <l>יודעים יותר מכל אדם?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל מסתתר בשפריר חביון,</l>
+          <l>הלב נפתח לכל רעיון,</l>
+          <l>גלה לי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אל מסתתר בשפריר חביון,</l>
+          <l>הלב מעל לכל היגיון,</l>
+          <l>גלה לי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הקהל שלי</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>יואב גינאי</writer>
+        <composer>צביקה פיק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הקהל שלי</head>
+        <lg number="1" type="stanza">
+          <l>את השיר הזה מקדישה לכם הקהל שלי</l>
+          <l>שהולך איתי לאורך כל הדרך</l>
+          <l>מתאהב איתי מתרגש איתי הקהל שלי</l>
+          <l>וחולם איתי כשהמוזיקה גוברת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אתם ורק אתם הכוכבים שלי</l>
+          <l>מולכם ורק מולכם אני יודעת</l>
+          <l>את השעות הכי יפות, על הבמה ללא תנאים</l>
+          <l>איתכם אני נוגעת בחיים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את השיר הזה מפליגה איתכם הקהל שלי</l>
+          <l>אל עולם מילים מכושף עטוף בלהט</l>
+          <l>החמצן שלי הנשמה שלי הקהל שלי</l>
+          <l>ששומר עלי בליבו ואין בי פחד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אתם ורק אתם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

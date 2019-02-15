@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האדמירל</title>
+        <singer classification="male singer">שלומי שבת</singer>
+        <writer>יוני רועה</writer>
+        <composer>לא ידוע</composer>
+        <album>להיטי זהב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האדמירל</head>
+        <lg number="1" type="stanza">
+          <l>ברחובות העיר הולך הוא, עם מגבעת וכינור</l>
+          <l>ובידו בקבוק אוחז הוא, הם קוראים לו השיכור.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הוא היה אז אדמירל, איש לוחם ומהולל</l>
+          <l>איך ביום אחד נשבר הוא, והפך למקולל.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מנגן לסלרוסה...</l>
+          <l>הוא לא ידע שזה יקרה לה.</l>
+          <l>הוא לא ידע שכך תלך לה.</l>
+          <l>מנגן לסלרוסה...</l>
+          <l>מה עשית לו סלרוסה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בבגדים בלויים נודד הוא, אין לו איש ואין לו גג</l>
+          <l>הילדים בגנאי קוראים לו, הפך ללעג האומלל.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>על ספסל נטוש שוכב הוא, רעב, יגע ומכורבל</l>
+          <l>בשדרות הכרך גוסס הוא, איך נדם האדמירל.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מנגן לסלרוסה...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>היי...איך הוא ניגן לה</l>
+          <l>איך המסכן התאהב בה</l>
+          <l>איך המיתר לא ינגן לה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

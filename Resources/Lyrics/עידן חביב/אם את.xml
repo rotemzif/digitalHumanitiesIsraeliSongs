@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם את 31</title>
+        <singer classification="unknown">עידן חביב</singer>
+        <writer>עידן חביב</writer>
+        <composer>עידן חביב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם את</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אם את אוהבת, אל תחכי</l>
+          <l>ואם את כואבת, לא אל תבכי</l>
+          <l>בלילה לבד, על מה תחשבי</l>
+          <l>כותבת המון, איפה הלב שלי</l>
+          <l>ואיפה אני?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם את הולכת, עוזבת אותי</l>
+          <l>הדלת פתוחה, כי אולי תתחרטי</l>
+          <l>וכשהלילה יבוא, תזכירי את שמי</l>
+          <l>לליבך הפצוע שפצע גם אותי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה נגמר שוב בים, זה בין הגלים</l>
+          <l>יחף על החוף, כי המים קרים</l>
+          <l>משקפיים כהים ובכלל עננים</l>
+          <l>הדמעות כמו צדפים, שלא נגמרים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם את אוהבת, אל תחכי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את לא טובה</title>
+        <singer classification="band">האריות</singer>
+        <writer>יהושע אלגרנטי</writer>
+        <composer>יהושע אלגרנטי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את לא טובה</head>
+        <lg number="1" type="stanza">
+          <l>כששנינו ברחוב עוברים</l>
+          <l>האנשים עוצרים ומרכלים</l>
+          <l>והם תמיד עלייך אומרים</l>
+          <l>אותו דבר, את לא מה שנקרא ילדה טובה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את לא טובה</l>
+          <l>את לא טובה</l>
+          <l>את לא טובה</l>
+          <l>את לא טובה שלי, אך את שלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>והם אומרים את משונה כי לבושך מהאופנה</l>
+          <l>אז תני להם שידברו שירכלו שיספרו שאת רעה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את לא טובה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את מעשנת סיגריות וכל חייך בדיסקוטק</l>
+          <l>עם החיפושיות או האריות</l>
+          <l>אז תתבישי ילדה רעה כי לבושך מן האופנה</l>
+          <l>ותני להם שידברו שירכלו שיספרו שאת רעה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>את לא טובה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

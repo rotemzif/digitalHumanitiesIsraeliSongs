@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אתה לבד</title>
+        <singer classification="male singer">דני סנדרסון</singer>
+        <writer>דני סנדרסון</writer>
+        <composer>דני סנדרסון</composer>
+        <album>לא יפריד דבר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אתה לבד</head>
+        <lg number="1" type="stanza">
+          <l>כביש ארוך </l>
+          <l>מתפתל לנצח </l>
+          <l>המכונית נוסעת לאנשהו מהר </l>
+          <l>בראי האתמול גווע </l>
+          <l>על הלילה הזה היית מוותר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואתה לבד </l>
+          <l>מתגלגל בדרכך </l>
+          <l>אתה לא לבד </l>
+          <l>אחרים לבד איתך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את ליבך </l>
+          <l>השותת השארת </l>
+          <l>בפונדק דרכים אי שם במלחמה </l>
+          <l>היא דיברה </l>
+          <l>אתה דיברת </l>
+          <l>מה זה משנה כבר לא חשוב על מה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואתה לבד </l>
+          <l>מתגלגל בדרכך </l>
+          <l>אתה לא לבד </l>
+          <l>אחרים לבד איתך </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>פנסים </l>
+          <l>אלומות בחושך </l>
+          <l>מאירים את סוד האופק השחור </l>
+          <l>בסיבוב תסתכל קדימה </l>
+          <l>לפעמים נותנים לבנאדם לבחור </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואתה לבד </l>
+          <l>מתגלגל בדרכך </l>
+          <l>אתה לא לבד </l>
+          <l>אחרים לבד איתך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

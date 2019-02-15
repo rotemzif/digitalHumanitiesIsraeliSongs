@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאמי 10</title>
+        <singer classification="male singer">גלעד שגב</singer>
+        <writer>גלעד שגב</writer>
+        <composer>גלעד שגב</composer>
+        <album>האהבה נשארת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאמי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>את לא ברורה לי,</l>
+          <l>את לא ברורה וזה גומר,</l>
+          <l>את כל הכוח, </l>
+          <l>את כל הכוח שבלב,</l>
+          <l>בטלוויזיה תמיד רואה אותה תמונה</l>
+          <l>אז לא רואה ש..</l>
+          <l>שאת זה זאת שמשתנה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את כל הזמן בוכה</l>
+          <l>וזה כל יום כואב יותר,</l>
+          <l>זה לא עובר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מאמי, אם אפשר</l>
+          <l>תני לי קצת זמן </l>
+          <l>לסדר ת'מחשבות</l>
+          <l>שאיבדתי,</l>
+          <l>מאמי, אם אפשר</l>
+          <l>את לא יכולה </l>
+          <l>לחבק עם הדמעות</l>
+          <l>שכל הזמן חוזרות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את לא ברורה לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קרוסלה 5</title>
+        <singer classification="female singer">שרון חזיז</singer>
+        <writer>ארז ברזוליק</writer>
+        <composer>שרון חזיז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קרוסלה</head>
+        <lg number="1" type="stanza">
+          <l>המלאכים למעלה עלי שוב צוחקים,</l>
+          <l>מותחים את הכנפיים ואז מפהקים.</l>
+          <l>תגיד לי מה לקחת, ניסית את הכל,</l>
+          <l>עד לאן הלכת, עד לאן תצלול?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>על קרוסלה שוב מסתובבת</l>
+          <l>מה רציתי שיהיה לי</l>
+          <l>חלום קטן באמצע היום יום</l>
+          <l>כמו סינדרלה, שוב מתגנבת</l>
+          <l>כל מה שאולי יקרה לי</l>
+          <l>למה לא קורה היום?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>המלאכים למעלה נראים קצת אבודים.</l>
+          <l>הבטחת שתשמור לי שמיים די כבדים.</l>
+          <l>תגיד את מי אהבת, עם מי תלך לישון,</l>
+          <l>עד לאן ברחת בתוך השיגעון?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>על קרוסלה שוב מסתובבת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

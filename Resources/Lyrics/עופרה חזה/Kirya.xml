@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kirya</title>
+        <singer classification="unknown">עופרה חזה</singer>
+        <writer>בצלאל אלוני</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Kirya</head>
+        <lg number="1" type="stanza">
+          <l>KIRYA YEFEFIA MASOS LE ARA YICH </l>
+          <l>KIRYA YEFEFIA MASOS LE ARA YICH </l>
+          <l>ER NE MA NA AT LE MAL CEH, MAL CEH VE SA RA YICH </l>
+          <l>ER NE MA NA AT LE MAL CEH, MAL CEH VE SA RA YICH </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>YOM EZ CE RA IF AT RA BAT SE VA AYICH </l>
+          <l>YOM EZ CE RA IF AT RA BAT SE VA AYICH </l>
+          <l>LACH CA LE TA NAF SHI LISH CAN HA SE RA YICH </l>
+          <l>LACH CA LE TA NAF SHI LISH CAN HA SE RA YICH </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>KIRYA YEFEFIA </l>
+          <l>MI OD YID ME LACH MI </l>
+          <l>MI OD YID ME LACH MI </l>
+          <l>MI OD YID ME LACH MI </l>
+          <l>YOM YOM NOF LIM BA NIM </l>
+          <l>YOM YOM NOF LIM BA NIM </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ER NEMANA AT LE MAL CEH VE SA RA YICH </l>
+          <l>ER NEMANA AT LE MAL CEH VE SA RA YICH </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>KIRYA YEFEFIA </l>
+          <l>MI OD YID ME LACH MI </l>
+          <l>MI OD YID ME LACH MI </l>
+          <l>MI OD YID ME LACH MI </l>
+          <l>YOM YOM NOF LIM BA NIM </l>
+          <l>YOM YOM NOF LIM BA NIM </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>KIRYA YEFEFIA</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

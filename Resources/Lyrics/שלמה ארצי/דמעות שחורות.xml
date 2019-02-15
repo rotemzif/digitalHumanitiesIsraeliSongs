@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דמעות שחורות</title>
+        <singer classification="male singer">שלמה ארצי</singer>
+        <writer>מיגואל מטמורוס</writer>
+        <composer>missing</composer>
+        <album>שפויים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דמעות שחורות</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אפילו אם השארת אותי לבדי זנוח</l>
+          <l>אפילו אם הרגת את כל אשליותי</l>
+          <l>במקום לקלל אותך, ובצדק</l>
+          <l>אני חולם אותך ובשקט, חי את חיי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני סובל מאוד מצער מאז שעזבת אותי</l>
+          <l>אני קרוע לי ככה, בגלל עזיבתך</l>
+          <l>אני בוכה מבלי שתדעי שיש לי בבכי</l>
+          <l>דמעות שחורות על הלחי</l>
+          <l>מהחיים בלעדייך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את רוצה לעזוב אותי</l>
+          <l>אני לא רוצה מזה לסבול</l>
+          <l>אלך איתך כשאת הולכת</l>
+          <l>אפילו כדי למות בחול</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אפילו אם השארת אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

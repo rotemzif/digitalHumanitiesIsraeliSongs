@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נסי אותי</title>
+        <singer classification="male singer">שימי רון</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נסי אותי</head>
+        <lg number="1" type="stanza">
+          <l>נסי, נסי רק עוד פעם,</l>
+          <l>נסי, נסי ותראי</l>
+          <l>שכל דבר שוב מסתדר</l>
+          <l>והכל זורם בנחת.</l>
+          <l>אנא נסי אותי, לא אאכזב אותך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נסי ילדונת, נסי הפעם</l>
+          <l>כי בשבילך לא מאוחר.</l>
+          <l>את מאוהבת ומאוכזבת,</l>
+          <l>אבל כעת אם תנסי לא תתחרטי.</l>
+          <l>נסי ילדונת, נסי הפעם</l>
+          <l>נסי אותי, נסי אותי לא תתחרטי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אותי היי שוב אוהבת,</l>
+          <l>אותי חבקי ונשקי.</l>
+          <l>חשבי שכל מה שקרה היה חלום בלילה,</l>
+          <l>שובי לימי-עבר ואל האהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נסי ילדונת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

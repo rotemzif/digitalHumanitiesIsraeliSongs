@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חייל של עץ</title>
+        <singer classification="male singer">מולי שי</singer>
+        <writer>מולי שי</writer>
+        <composer>מולי שי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חייל של עץ</head>
+        <lg number="1" type="stanza">
+          <l>הוא לא שומע שום דבר חדש </l>
+          <l>לא צוחק ולא בוכה ממש </l>
+          <l>חייל של עץ </l>
+          <l>אוסף את כל החפצים ויוצא </l>
+          <l>חייל של עץ </l>
+          <l>מתקרב אל הפסלים </l>
+          <l>שבנו לו אחרים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אחר כך אתה נשאר </l>
+          <l>חייל של עץ </l>
+          <l>רוצה להיגמל </l>
+          <l>מתוך האש </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הוא לא פוסע על החול הרך </l>
+          <l>לא מרגיש איך שהזמן נמרח </l>
+          <l>חייל של עץ </l>
+          <l>לוקח שוב את האקדח ויורה </l>
+          <l>חייל של עץ </l>
+          <l>לא רואה את החיים </l>
+          <l>לא מקשיב לאחרים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אחר כך אתה נשאר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה שתבקשי 3</title>
+        <singer classification="male singer">לידור יוספי</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>אלי זולטא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה שתבקשי</head>
+        <lg number="1" type="stanza">
+          <l>בעקבות ליבך תמיד אלך</l>
+          <l>כל יום מבקש אלייך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את ראשך בחום על כתפי הניחי</l>
+          <l>ואותך אנשום כשאלי תביטי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מה שתבקשי אהובתי</l>
+          <l>אני אתן לך מליבי</l>
+          <l>אשא אותך עד סוף עולם</l>
+          <l>כי בזכותך אני קיים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רק תבקשי אהובתי</l>
+          <l>ולך אתן את נשמתי</l>
+          <l>כי לצידך אני נכנע</l>
+          <l>כמו אוויר לנשמה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שנינו כאן היום</l>
+          <l>מגשימים חלום</l>
+          <l>והאל ישמור עלינו</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>את ידך פתאום בלי מילים לוקח</l>
+          <l>את כמו יהלום ואני כמו פרח</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>מה שתבקשי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

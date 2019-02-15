@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זרימה אינסופית</title>
+        <singer classification="unknown">הדס דגול</singer>
+        <writer>הדס דגול</writer>
+        <composer>הדס דגול</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זרימה אינסופית</head>
+        <lg number="1" type="stanza">
+          <l>מים זורמים בארון שאת פותחת</l>
+          <l>ושטים אליך בצורה של זמן</l>
+          <l>והעיניים שלך מסתכלות</l>
+          <l>מנסות להבין מה יביא המחר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זרימה אינסופית</l>
+          <l>של דקות בלי מעש</l>
+          <l>של בריחה לכרית</l>
+          <l>בלי לדעת מתי יבוא השינוי</l>
+          <l>שיראה לך הפעם</l>
+          <l>שטוב שהיה וטוב שנגמר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ועכשיו כשאת שטה בחלל החדר </l>
+          <l>את זוכרת את פעם ואת ים הזמן</l>
+          <l>וטובלת אצבעותיך ממרום מעשים</l>
+          <l>מתגעגעת לים לצלילה לבפנים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זרימה אינסופית...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

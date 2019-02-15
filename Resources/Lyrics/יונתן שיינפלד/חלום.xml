@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלום 60</title>
+        <singer classification="unknown">יונתן שיינפלד</singer>
+        <writer>רמי לב</writer>
+        <composer>שרון אבילחק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלום</head>
+        <lg number="1" type="stanza">
+          <l>בלילות באים חלומות</l>
+          <l>מתי אותם אגשים</l>
+          <l>יש חלום מפחיד ונורא</l>
+          <l>ויש חלום מקסים</l>
+          <l>אבל כשאפקח עיניים</l>
+          <l>יגיע בוקר של תקווה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ככה אבא אומר</l>
+          <l>תחייך זה עובר </l>
+          <l>כן יפים החיים</l>
+          <l>כשתגדל ודאי תבין .</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בלילות לפני השינה</l>
+          <l>מזמין חלום יפה</l>
+          <l>אך פתאום ללא הזמנה </l>
+          <l>חלום עצוב עולה </l>
+          <l>אבל כשאפקח עיניים</l>
+          <l>יגיע בוקר של תקווה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ככה אבא אומר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק אגדה</title>
+        <singer classification="female singer">רינת בר</singer>
+        <writer>יואב צדוק</writer>
+        <composer>עממי יווני</composer>
+        <album>חיכיתי לך / אלבום חפלה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק אגדה</head>
+        <lg number="1" type="stanza">
+          <l>אני פשוט יודעת את כל מה</l>
+          <l>שאתה חושב, אתה חושב</l>
+          <l>למרות הכל יודעת שרק אותי</l>
+          <l>אתה אוהב, אתה אוהב</l>
+          <l>גם שהלכת ידעתי שתחזור</l>
+          <l>כי רק אותך אני רוצה לזכור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כולם סיפרו לי שזאת רק אגדה</l>
+          <l>תמיד אמרו לי שאתה בי תפגע</l>
+          <l>אני ידעתי שזה לא נכון</l>
+          <l>הלכתי באתי ואתה הראשון</l>
+          <l>כולם סיפרו לי שזאת רק אגדה</l>
+          <l>תמיד אמרו לי שאתה בי תפגע</l>
+          <l>אז שיגידו רק שיגידו</l>
+          <l>שידברו כולם אני איתך לעולם לכל חיינו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כי רק אני יודעת מה קורה</l>
+          <l>אצלי בלב, אצלי בלב</l>
+          <l>איך זה תמיד קורה לי שאלי</l>
+          <l>הוא מתקרב, הוא מתקרב</l>
+          <l>גם כשהלך ידעתי שיחזור</l>
+          <l>כי רק איתו אני רואה את האור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כולם סיפרו לי שזאת רק אגדה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

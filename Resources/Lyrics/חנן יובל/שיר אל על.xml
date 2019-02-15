@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר אל על</title>
+        <singer classification="male singer">חנן יובל</singer>
+        <writer>זאב ז'בוטינסקי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר אל על</head>
+        <lg number="1" type="stanza">
+          <l>שא אל על מבט עיניים</l>
+          <l>ומצבע השמיים</l>
+          <l>דרכך תלמד</l>
+          <l>כגלות שחור הליל</l>
+          <l>עת הרת כל עוז כל חיל</l>
+          <l>שמחר יולד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פס שחור</l>
+          <l>פס צחור</l>
+          <l>פס כחול כתכלת אור</l>
+          <l>עוז חייל</l>
+          <l>נס עמל</l>
+          <l>יגביהונו עד אל-על</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אך תלבין פאת רקיע</l>
+          <l>קום לריב יהיר מריע</l>
+          <l>צא ולחום וסלול</l>
+          <l>עד ירונו השמים</l>
+          <l>צוהר-צוהר צהרים</l>
+          <l>הוד כולו תכול.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פס שחור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

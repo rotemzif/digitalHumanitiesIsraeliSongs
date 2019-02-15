@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שימי יד 2</title>
+        <singer classification="unknown">ג נגו</singer>
+        <writer>ג'נגו</writer>
+        <composer>ג'נגו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שימי יד</head>
+        <lg number="1" type="stanza">
+          <l>אין איתם מה לעשות</l>
+          <l>אינ חוזר אליך</l>
+          <l>כל היום מסתובב</l>
+          <l>וחושב עליך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואי</l>
+          <l>שימי לי יד</l>
+          <l>על העיניים</l>
+          <l>אני רוצה ללכת לישון</l>
+          <l>לא לחשוב בינתיים</l>
+          <l>לא לחשוב על כלום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בדיחות רעות</l>
+          <l>חברים מספרים</l>
+          <l>לא צוחק עליך</l>
+          <l>עוברת שנים</l>
+          <l>אני מבין</l>
+          <l>שאין לי סיכוי בלעדייך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בואי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא עוצרת 4</title>
+        <singer classification="female singer">רוני</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>לא עוצרת - מהדורה מלאה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא עוצרת</head>
+        <lg number="1" type="stanza">
+          <l>עוד מסתובבת בקצב המסחרר</l>
+          <l>בי מתעורר שוב פיתוי חדש </l>
+          <l>הרגש משתחרר</l>
+          <l>רק תגביר את השיר</l>
+          <l>או או או או</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זוז עם הביט</l>
+          <l>כשהלב פועם בקצב</l>
+          <l>תתעורר זה להיט</l>
+          <l>לא עוצרת מכורה לך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה משתלט על הגוף שלי זה כמו פריחה </l>
+          <l>היא מדבקת, זה מתפשט </l>
+          <l>אני רוצה אותך</l>
+          <l>רק תגביר את השיר</l>
+          <l>או או או או</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זוז עם הביט...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זוז איתי</l>
+          <l>עוד מסתובבת</l>
+          <l>עם הביט</l>
+          <l>לא משתלטת</l>
+          <l>זה להיט</l>
+          <l>שוב מתמכרת</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זוז עם הביט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

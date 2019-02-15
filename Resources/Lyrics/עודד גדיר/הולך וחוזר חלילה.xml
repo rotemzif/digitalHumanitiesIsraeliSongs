@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הולך וחוזר חלילה</title>
+        <singer classification="male singer">עודד גדיר</singer>
+        <writer>עודד גדיר</writer>
+        <composer>עודד גדיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הולך וחוזר חלילה</head>
+        <lg number="1" type="stanza">
+          <l>אני אוהב אותה </l>
+          <l>והזמן מפלס לי דרכים </l>
+          <l>ואנחנו הולכים ביחד </l>
+          <l>וזאת לא חוכמה </l>
+          <l>לעמוד כמו דייג על החוף</l>
+          <l>כמו צייד לחכות לטרף. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כיבוש חריף, מה שאסור עדיף</l>
+          <l>והדם מציף, אני בא בא בא </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הולך וחוזר חלילה, איך אני אגיד לה </l>
+          <l>אבקש מחילה </l>
+          <l>הולך וחוזר חלילה והנפש פנימה אויה אויה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני מכיר אותה </l>
+          <l>והיא לא תרצה להבין </l>
+          <l>הן ברור כי טעה טעית </l>
+          <l>אתה לא חיה </l>
+          <l>אתה לא הצייד שקראת עליו </l>
+          <l>ואם כן אז תחיה לבד כמוהו </l>
+          <l>כיבוש חריף, מה שאסור עדיף והדם מציף </l>
+          <l>אני בא בא בא </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הולך וחוזר חלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

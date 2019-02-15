@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו צועני 2</title>
+        <singer classification="band">כמו צועני</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>עוזי חיטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו צועני</head>
+        <lg number="1" type="stanza">
+          <l>פתאום נפלה עלי מן הרגשה כזאת של צועני</l>
+          <l>עגלה נדודים כינור וניגונים בדמיוני</l>
+          <l>לנדוד מעיר לעיר ולנגן לי שיר</l>
+          <l>כינור שמייבב מרעיד מיתר בלב</l>
+          <l>והוא ממש בנשמתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמו צועני מסתובב לי בעולם</l>
+          <l>והעולם כולו ביתי</l>
+          <l>כמו צועני מסתובב לי בעולם</l>
+          <l>והשירים בנשמתי</l>
+          <l>לה, לה, לה...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>פתאום נפלה עלי מן הרגשה כזאת של נדודים</l>
+          <l>לשיר לאנשים ולנשים לשיר לילדים</l>
+          <l>לקחת אדמה ושמש אדומה</l>
+          <l>להיות כמו צועני פשוט כמו שאני</l>
+          <l>כי זה ממש בנשמתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמו צועני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

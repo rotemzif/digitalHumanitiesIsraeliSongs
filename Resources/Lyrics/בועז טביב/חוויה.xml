@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חוויה</title>
+        <singer classification="male singer">בועז טביב</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>אריה ברקוביץ'</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חוויה</head>
+        <lg number="1" type="stanza">
+          <l>החיים נראים אחרת ילדתי</l>
+          <l>בין ידייך הם גן עדן אמיתי</l>
+          <l>כמו ילד מאוהב אני נקשר</l>
+          <l>רוצה לשמור כל רגע מאושר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חוויה, המבטים האוהבים שבעיניים</l>
+          <l>חוויה, הנשיקה מתוך הלב על השפתיים</l>
+          <l>חוויה זו התשוקה המתוקה המטרפת</l>
+          <l>שאליך אהובה אותי סוחפת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יום ולילה את שוכנת בלבבי</l>
+          <l>ותמיד חושש שפעם תעזבי</l>
+          <l>נולדנו שנינו לגורל אחד</l>
+          <l>אמרי לי שדרכנו היא לעד.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חוויה, המבטים האוהבים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

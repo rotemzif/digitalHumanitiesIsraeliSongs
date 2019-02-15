@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את הופעת פתאום</title>
+        <singer classification="male singer">לי בירן</singer>
+        <writer>לי בירן</writer>
+        <composer>לי בירן</composer>
+        <album>כיסים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את הופעת פתאום</head>
+        <lg number="1" type="stanza">
+          <l>איפה שתהיי אהיה אני </l>
+          <l>מה שתבקשי אני אביא </l>
+          <l>אל תפני מבט, תסתכלי </l>
+          <l>כמה אוהב אותך </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את הופעת פתאום </l>
+          <l>שברת קירות</l>
+          <l>הפלת חומות אצלי </l>
+          <l>חצית גבולות שלי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אשמור עלייך תמיד גם מעצמי </l>
+          <l>אומר תמיד אמת אם תשאלי </l>
+          <l>כתר על הראש אוסיף לך גם </l>
+          <l>את המלכה שלי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את הופעת פתאום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

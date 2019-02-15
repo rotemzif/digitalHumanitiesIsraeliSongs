@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד מאה עשרים</title>
+        <singer classification="male singer">מייק בורשטיין</singer>
+        <writer>מייק בורשטיין</writer>
+        <composer>עמוס אטינגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד מאה עשרים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>עד מאה ועשרים עד מאה ועשרים </l>
+          <l>עד מאה ועשרים שתהיה צעיר </l>
+          <l>עד מאה ועשרים עד מאה ועשרים </l>
+          <l>עד מאה ועשרים יהודים לשיר </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נרימה כוס משקה שהחיינו </l>
+          <l>ונשתה בלי די </l>
+          <l>על אף כל הצרות שעברנו </l>
+          <l>עם ישראל חי אי אי </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עד מאה ועשרים... </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוד יום יבוא יבוא משחינו </l>
+          <l>לא נשאל מתי </l>
+          <l>וכך נשא אל על תפילתינו </l>
+          <l>עוד אבינו חי אי אי </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עד מאה ועשרים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

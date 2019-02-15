@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פס ליום אחד</title>
+        <singer classification="male singer">יוסי אזולאי</singer>
+        <writer>יוסי אזולאי</writer>
+        <composer>יוסי אזולאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פס ליום אחד</head>
+        <lg number="1" type="stanza">
+          <l>קרן אור, ריח של בוקר </l>
+          <l>כל רגע עולה לי ביוקר, עוזב מוקדם את המיטה</l>
+          <l>מתלבש וטס אל הדלת, אל התחנה המוכרת</l>
+          <l>אני חוזר אל הבית שאני כל כך אוהב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כן, את כבר לא לבד, יש לי פס ליום אחד</l>
+          <l>בואי נגלה את הסודות בינינו</l>
+          <l>אני רוצה, הלילה הזה, שנאהב עד הקצה</l>
+          <l>מחר, מחר אני חוזר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתקרב בדרך אלייך, ורגע נוסף בלעדייך</l>
+          <l>מזכיר לי כמה את יפה</l>
+          <l>ושוב אותו ריח של בוקר, כבר לא עולה לי ביוקר</l>
+          <l>עכשיו אני פה, איתך להישאר </l>
+          <l>אין מצב אחר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כן, את כבר לא לבד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עכשיו הזמן שלנו, ואין עוד מעצור,</l>
+          <l>את התשוקות שבנו, צבא לא יעצור</l>
+          <l>עד שאחזור.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כן, את כבר לא לבד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

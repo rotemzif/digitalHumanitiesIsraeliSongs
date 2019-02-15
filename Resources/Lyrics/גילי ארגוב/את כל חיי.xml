@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את כל חיי</title>
+        <singer classification="male singer">גילי ארגוב</singer>
+        <writer>איתן גלס</writer>
+        <composer>שי דקל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את כל חיי</head>
+        <lg number="1" type="stanza">
+          <l>הסתכלי נא ילדתי אל תוך עיני</l>
+          <l>אני מרגיש אותך קרוב אלי</l>
+          <l>אמרי לי למה עצוב לך</l>
+          <l>הלב שלך שותק אל מול פני</l>
+          <l>ואם לא קל לך לומר לי</l>
+          <l>חבקי אותי חזק עכשיו</l>
+          <l>גם בשתיקה בחושך</l>
+          <l>אני שומע את קולך אישה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את כל חיי</l>
+          <l>נשמה שלי, מכור לך</l>
+          <l>את כל חיי</l>
+          <l>נשמה שלי, אוהב אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם תקשיבי היטב ללב שלך,</l>
+          <l>ולא תפחדי לגעת</l>
+          <l>אל תשמעי בחיים לאף אחד</l>
+          <l>תהיי כמו שאת יודעת</l>
+          <l>רק את יודעת מה טוב לך</l>
+          <l>בדרך עם הרצון שלך</l>
+          <l>אל תעצרי יש בך כח</l>
+          <l>להמשיך עד שהאהבה תפרח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את כל חיי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

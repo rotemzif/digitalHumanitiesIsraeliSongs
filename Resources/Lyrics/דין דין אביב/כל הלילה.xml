@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל הלילה 3</title>
+        <singer classification="female singer">דין דין אביב</singer>
+        <writer>לאה שבת</writer>
+        <composer>לאה שבת</composer>
+        <album>סודותי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל הלילה</head>
+        <lg number="1" type="stanza">
+          <l>מים מים לשתות, בית בו לחיות</l>
+          <l>איך זה יכול להיות שעוד הולכים במדבר?</l>
+          <l>בגד בגד ללבוש, סנדלים לנעול</l>
+          <l>העיקר המשפחה ועד 120 שנה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואם פוגשים את האחד שהלב בו נקשר, ומתחילים ללכת</l>
+          <l>אז לא לעזוב את היד, לא לעזוב, להישאר.</l>
+          <l>כל הלילה, עד הלילה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בקולה דוממת, היא לא מדברת</l>
+          <l>מחכה לנו אמא אדמה</l>
+          <l>והיא הרי יודעת שנשוב אליה</l>
+          <l>ואצלה נמצא את התשובה לשאלה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואם פוגשים את האחד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

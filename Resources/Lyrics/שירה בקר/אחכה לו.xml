@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחכה לו</title>
+        <singer classification="unknown">שירה בקר</singer>
+        <writer>שירה בקר</writer>
+        <composer>עוזי אסנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחכה לו</head>
+        <lg number="1" type="stanza">
+          <l>אחכה לו, גם אם חולפות שנים </l>
+          <l>לא אכפת לי, שככה משתנים</l>
+          <l>אחכה לו, לא בלב נשבר</l>
+          <l>לא אומר לו, זה נגמר. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קן אבנה לו, אהבה וחום </l>
+          <l>קן אבנה לו ואגשים חלום. </l>
+          <l>לא אכעס, כי לא קרה דבר </l>
+          <l>לא אכעס, כי גם ליבו נשבר. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יד הושט לי, כל רגע מחיי </l>
+          <l>יד הושט לי, קח את דמעותי</l>
+          <l>יד הושט לי, גם אם איני רואה </l>
+          <l>כי איתך איני טועה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אחכה לו, כי אין לי כל ברירה </l>
+          <l>אחכה לו, לא זה לא עושה לי רע </l>
+          <l>אחכה לו, אין בי יותר דמעות </l>
+          <l>לא רואה יותר שחורות. </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יד הושט לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר של אהבה</title>
+        <singer classification="female singer">שרון חזיז</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר של אהבה</head>
+        <lg number="1" type="stanza">
+          <l>אם אתה לסבל מתרגל </l>
+          <l>סגור עיניים, קור בין שניים. </l>
+          <l>עורפך נחל מתפתל </l>
+          <l>וסופו בקצה שמיים שם... </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נעמוד במפגשים ונחזיק ידיים, </l>
+          <l>תחזק את מצפוני. </l>
+          <l>בשורות מסודרות מול אלפי עיניים, </l>
+          <l>אתה ואני. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז נכון שלא אזכור... </l>
+          <l>תעלם בערפל, </l>
+          <l>פתח לי צוהר, שלח לי אור </l>
+          <l>ותרפה מהר, תרפה מהר. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>על שולחן שיר של אהבה, </l>
+          <l>כוס עם יין, פקח עיניים. </l>
+          <l>ותראה איך אני קרובה. </l>
+          <l>יחד שנינו בשמיים שם... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אהבה היא מאורות כשצינה חודרת, </l>
+          <l>אחזק את מצפונך. </l>
+          <l>כמו אבק של כוכבים נתאחד ברוח, </l>
+          <l>אני שוב איתך. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אז נכון שלא אזכור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

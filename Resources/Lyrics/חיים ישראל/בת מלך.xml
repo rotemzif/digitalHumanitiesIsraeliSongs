@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בת מלך 2</title>
+        <singer classification="male singer">חיים ישראל</singer>
+        <writer>ישי לפידות</writer>
+        <composer>קיימים 3 ביצועים נוספים לשיר זה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בת מלך</head>
+        <lg number="1" type="stanza">
+          <l>רק רציתי להגיד לך ילדה שלי</l>
+          <l>אני רואה את דמעותייך</l>
+          <l>את ליבך המבקש לא על עצמך</l>
+          <l>על אחייך שסובלים עדיין</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא, אל תדאגי ילדה הכל יהיה בסדר</l>
+          <l>תפילותייך מתקבלות שם במרומים</l>
+          <l>אלוקים לא משיב ריקם דמעותיה של בת מלך</l>
+          <l>שבוקעות את כל הרקיעים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תפילתך ילדה שלי אל תעצרי</l>
+          <l>שומעים אותך עד לשמיים</l>
+          <l>כל השערים, כולם, גם הנעולים</l>
+          <l>נפתחים עכשיו כבד לשמיים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא, אל תדאגי ילדה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

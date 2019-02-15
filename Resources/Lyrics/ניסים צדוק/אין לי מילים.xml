@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין לי מילים 2</title>
+        <singer classification="unknown">ניסים צדוק</singer>
+        <writer>עודד גולדשמידט</writer>
+        <composer>טל הפטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין לי מילים</head>
+        <lg number="1" type="stanza">
+          <l>בסלון יושב, יום שישי קצר מדי לך</l>
+          <l>אני בענייני, קורא עיתון מדליק סיגריה</l>
+          <l>מבט שולחת שאומר את הכל</l>
+          <l>לא יאומן אנחנו יחד ממשיכים לגדול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין לי מילים לדבר נחמה</l>
+          <l>אל תשכחי יש בי מנגינה</l>
+          <l>יום רודף יום והיא עוד עולה עולה עולה</l>
+          <l>אין לי מילים לדבר אהבה</l>
+          <l>אל תשכחי יש בי מנגינה</l>
+          <l>יום רודף יום והיא עוד עולה עולה עולה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ובסוף היום על המיטה לאט נרדמת</l>
+          <l>עינייך נעצמות נופלת ברכות אל תוך חלום</l>
+          <l>בסדין מתעטפת סוגר את האור</l>
+          <l>באפילה גמורה אנחנו ממשיכים לזהור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין לי מילים...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לדבר נחמה</l>
+          <l>אל תשכחי</l>
+          <l>אין לי מילים לדבר נחמה</l>
+          <l>אל תדאגי</l>
+          <l>יום רודף יום והיא עוד עולה עולה עולה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

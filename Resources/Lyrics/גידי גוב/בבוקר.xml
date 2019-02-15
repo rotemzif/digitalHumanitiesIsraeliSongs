@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בבוקר</title>
+        <singer classification="male singer">גידי גוב</singer>
+        <writer>יהודה עמיחי</writer>
+        <composer>missing</composer>
+        <album>האלבום הראשון</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בבוקר</head>
+        <lg number="1" type="stanza">
+          <l>בבוקר אני עומד ליד מיטתך</l>
+          <l>צילי נופל על פנייך</l>
+          <l>ומעמיק את שנתך</l>
+          <l>ועושה לך תוספת לילה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כאצבעות מעשן</l>
+          <l>נפשך כהתה</l>
+          <l>מכורה לאהבה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני אוהב אותך</l>
+          <l>בכל מאודי</l>
+          <l>ובכל אודי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

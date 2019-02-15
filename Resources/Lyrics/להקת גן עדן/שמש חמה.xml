@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמש חמה</title>
+        <singer classification="band">להקת גן עדן</singer>
+        <writer>ארז נץ</writer>
+        <composer>ארז נץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמש חמה</head>
+        <lg number="1" type="stanza">
+          <l>שמש חמה מלטפת את החדר</l>
+          <l>הגן שוב יוצא במחול</l>
+          <l>החורף נגמר, צבע תכלת שוב במודה</l>
+          <l>אז בואי נשכח את יום אתמול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את תקבלי את פני הקיץ באהבה ונשיקות</l>
+          <l>אז בואי איתי, נתפנק בין הגלים</l>
+          <l>העיר באפור מאחור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שמש חמה נעלמת אל האופק</l>
+          <l>הלילה יורד על החוף</l>
+          <l>נרד אל היום, נשתולל עד אור הבוקר</l>
+          <l>ביחד נשכח את יום אתמול</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את תקבלי את פני הקיץ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

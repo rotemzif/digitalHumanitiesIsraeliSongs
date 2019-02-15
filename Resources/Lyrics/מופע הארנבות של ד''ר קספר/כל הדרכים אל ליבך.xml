@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל הדרכים אל ליבך</title>
+        <singer classification="unknown">מופע הארנבות של ד ר קספר</singer>
+        <writer>אורן ברזילי</writer>
+        <composer>missing</composer>
+        <album>סוף לא טוב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל הדרכים אל ליבך</head>
+        <lg number="1" type="stanza">
+          <l>על רחובות עשויים מפלדה אני הולך</l>
+          <l>ומחפש מסביבי משמעות לעולם שכל יום מסתבך</l>
+          <l>לאהבה אין חוקים בשירים כבר אין תקווה</l>
+          <l>אם רק היו כנפי מלאכים אולי הייתי מת מאהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי לי לא אכפת מחלום שבועט</l>
+          <l>הוא בלילה בא משאיר אותי רועד</l>
+          <l>אני חייב להכיר כל חלק ממך</l>
+          <l>את כל הדרכים אל ליבך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את החשמל שעמד באוויר אני זוכר</l>
+          <l>כי כשרקדנו וצחקנו חיכינו למחר שלא חזר יותר</l>
+          <l>במציאות מלאת אשליות עם לב אטום</l>
+          <l>על אדמה ערומה הם שוב נובלים</l>
+          <l>ומתים כל יום משעמום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי לי לא אכפת מחלום שבועט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

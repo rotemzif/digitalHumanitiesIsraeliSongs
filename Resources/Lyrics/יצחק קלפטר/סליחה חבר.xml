@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סליחה חבר</title>
+        <singer classification="male singer">יצחק קלפטר</singer>
+        <writer>יצחק קלפטר</writer>
+        <composer>יצחק קלפטר</composer>
+        <album>לבד</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סליחה חבר</head>
+        <lg number="1" type="stanza">
+          <l>סליחה חבר, סליחה</l>
+          <l>פגעתי בך עם טפשות יהירה</l>
+          <l>הבן אדם לפעמים נכשל</l>
+          <l>רק אלוהים הוא תמיד מעל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תשכח</l>
+          <l>אתה יקר לי כמו אח</l>
+          <l>אנא סלח לי, אנא סלח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>סליחה חבר, סליחה</l>
+          <l>נהגתי בך לא כשורה</l>
+          <l>יש לי חולשות כמו לכל אחד</l>
+          <l>אז התנצלות היא מוצא מכובד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תשכח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

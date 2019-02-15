@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין זמן 3</title>
+        <singer classification="unknown">מיקסולידי</singer>
+        <writer>ליאור כהן</writer>
+        <composer>ליאור כהן</composer>
+        <album>אין אבל - יש שכנים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין זמן</head>
+        <lg number="1" type="stanza">
+          <l>אין זמן וצריך להמשיך ואסור לעצור מלכת</l>
+          <l>לא קל לפעמים קצת קשה זאת עונת מעבר, זו שלכת</l>
+          <l>מנסה לטפס על הרים נאחז בשירים שאהבתי</l>
+          <l>ושואל את אותן שאלות אם טעיתי בדרך שבאתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שבאתי לכאן </l>
+          <l>אין זמן, אין זמן</l>
+          <l>מחפש לי סימן </l>
+          <l>אין זמן, אין זמן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין זמן וצריך להבין חלומות יקרים כשאין כסף</l>
+          <l>לא קל ובסוף אור נראה השמחה תתגבר על העצב</l>
+          <l>מנסה לרחף באוויר משחרר ת'פחדים שאספתי</l>
+          <l>ושואל את אותן שאלות אם טעיתי בדרך שבאתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שבאתי לכאן...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אין זמן וצריך להמשיך</l>
+          <l>אין זמן וצריך להבין </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שבאתי לכאן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

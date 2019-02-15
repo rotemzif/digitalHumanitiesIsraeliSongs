@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איפה אבא</title>
+        <singer classification="unknown">נמרוד והבודדים</singer>
+        <writer>נמרוד שיקלר</writer>
+        <composer>נמרוד שיקלר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איפה אבא</head>
+        <lg number="1" type="stanza">
+          <l>האם אתה רואה</l>
+          <l>זה אני שעכשיו בוכה</l>
+          <l>האם אתה אוהב</l>
+          <l>זה אני ששואל את זה בלב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איפה האבא שחיבק</l>
+          <l>שאהב לנשק ולפנק</l>
+          <l>איפה האבא שאוהב</l>
+          <l>מדוע הפכת לאויב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לאן נעלמת עם הימים</l>
+          <l>לאן התרחקת עם השנים</l>
+          <l>איפה קפאת מבפנים</l>
+          <l>ולמה הפכנו לאויבים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איפה האבא שחיבק</l>
+          <l>שאהב לנשק ולפנק</l>
+          <l>איפה האבא שאוהב</l>
+          <l>מדוע הפכת לאויב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

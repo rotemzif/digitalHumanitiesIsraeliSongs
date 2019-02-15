@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עשן בעיני</title>
+        <singer classification="male singer">דניאל סלומון</singer>
+        <writer>דניאל סלומון</writer>
+        <composer>דניאל סלומון</composer>
+        <album>רבות הדרכים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עשן בעיני</head>
+        <lg number="1" type="stanza">
+          <l>עשן בעיני מהסיגריה בשפתייך</l>
+          <l>משאירה בי סימנים של אש.</l>
+          <l>שריטה על פני</l>
+          <l>כן זו בדיוק אותה צלקת</l>
+          <l>המגלה את חולשותי לכל המתבונן...עלי...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם לא היית אוהבת</l>
+          <l>וודאי היית רוצה שוב במותי</l>
+          <l>אם לא היית אוהבת</l>
+          <l>וודאי היית רוצה את שתיקתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עשן בעיני מהסיגריה בשפתייך</l>
+          <l>נושפת בי, הנה אני הולך</l>
+          <l>ולא התפללת,</l>
+          <l>אך נענו בקשותייך,</l>
+          <l>החזרת ת'שד אל הבקבוק</l>
+          <l>ומישהו אחר...יפתח...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם לא היית אוהבת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

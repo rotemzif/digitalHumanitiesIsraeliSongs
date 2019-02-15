@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>החולם 4</title>
+        <singer classification="male singer">עמיר בניון</singer>
+        <writer>עמיר בניון</writer>
+        <composer>עמיר בניון</composer>
+        <album>שלכת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>החולם</head>
+        <lg number="1" type="stanza">
+          <l>שקוף בתוך החושך כמו עוד סתם אחד</l>
+          <l>והטועים שמחפשים דבר שלא קיים</l>
+          <l>והחולם דואג רוצה לדעת מה עוד יאסוף</l>
+          <l>עד שישכב לישון, ישכב לישון</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה ביקש הוא משאלה ולא אכפת לו איך</l>
+          <l>רק יושב אל מול הנר רואה איך הוא דועך</l>
+          <l>והוא חולם עכשיו בוחר לו בית</l>
+          <l>מאלתר מידה איך ידו בתוך ידה</l>
+          <l>אז היתה, אז היתה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כאן עוברים כולנו דרך שערים שנפרצו מזמן</l>
+          <l>גל של גאווה חרב מעיקה</l>
+          <l>לנו מחכה, לנו מחכה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חברות לא נחוצה והמצפון כבר מת</l>
+          <l>האהבה פה למכירה קשה להתקרב,</l>
+          <l>עכשיו נדמה שהוא חי בכדי למות</l>
+          <l>שמש וענן כביש ספסל ואדם</l>
+          <l>רק עוד יום, רק עוד יום</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כאן עוברים כולנו דרך שערים שנפרצו מזמן</l>
+          <l>גל של גאווה חרב מעיקה</l>
+          <l>לנו מחכה, לנו מחכה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

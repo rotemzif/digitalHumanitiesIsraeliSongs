@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כנגד הזמן</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כנגד הזמן</head>
+        <lg number="1" type="stanza">
+          <l>אם בלב הכאב מכה וצורב</l>
+          <l>אם אתה אותי יותר לא אוהב</l>
+          <l>ויכוח קטן ואתה לא כאן</l>
+          <l>נלחמת לבד כנגד הזמן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כאבתי וסבלתי עד שאותך הכרתי</l>
+          <l>על זאת האהבה כמו על עיני שמרתי</l>
+          <l>נילחמתי לא ויתרתי לילות שלמים דאגתי</l>
+          <l>אותך ורק אותך לעד ליבי שלך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין כל סיבה לניתוק הזה</l>
+          <l>איך יצרנו שנינו מצב כזה</l>
+          <l>לו ידעתי מה אתה חושב</l>
+          <l>זה היה חוסך הרבה כאב בלב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כאבתי וסבלתי עד שאותך הכרתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

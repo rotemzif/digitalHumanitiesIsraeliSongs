@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Six Days</title>
+        <singer classification="male singer">עמרי לוי</singer>
+        <writer>עמרי לוי</writer>
+        <composer>עמרי לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Six Days</head>
+        <lg number="1" type="stanza">
+          <l>Television's on again </l>
+          <l>need a cigarette </l>
+          <l>need a cup of coffee </l>
+          <l>a girl to love and hate </l>
+          <l>city makes me sick </l>
+          <l>with all those phony smiles </l>
+          <l>"oh ,what a lovely morning" </l>
+          <l>"what a fucked up day you had at work" </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>six days on the run </l>
+          <l>from camden town to soho </l>
+          <l>where am i today </l>
+          <l>where we gonna be tomorrow </l>
+          <l>city makes me sick </l>
+          <l>with all those phony smiles </l>
+          <l>"oh ,what a lovely morning" </l>
+          <l>"what a fucked up day you had at work" </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>go pack your life again </l>
+          <l>the airplane is waitin', </l>
+          <l>guitar on your back </l>
+          <l>not sure where you are heading, </l>
+          <l>airports make me sick </l>
+          <l>with all those plastic emotions, </l>
+          <l>"oh what a lovely day" </l>
+          <l>"a lovely day to get out of here" </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>six days on the run...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מעיל אחד בגשם</title>
+        <singer classification="unknown">שבי בר</singer>
+        <writer>שחר כהן</writer>
+        <composer>אסף צרויה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מעיל אחד בגשם</head>
+        <lg number="1" type="stanza">
+          <l>מעיל אחד בגשם, לילה של אפריל</l>
+          <l>נפתח כמו ענן, ורעם אז מאיר</l>
+          <l>מעיל אחד בגשם, לילה חם וקר</l>
+          <l>נפרס כמו חופה, ומתחת אני שר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מעיל אחד בגשם, רטוב, למי אכפת</l>
+          <l>אני לא על הארץ, איתך למעלה שט</l>
+          <l>רוח בפנים, טיפות הגשם האחרונות</l>
+          <l>נוגעות בלחיים, בפנייך משחקות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אמצע הרחוב, כולם כבר ישנים</l>
+          <l>הייתה עדה הרוח ועוד שני כוכבים</l>
+          <l>אמצע הרחוב, כולם כבר ישנים, </l>
+          <l>הייתה עדה הרוח ועוד שני כוכבים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ראיתי זוג עיניים, מסרבות להיפתח </l>
+          <l>צוללת אל עצמך עמוק בים שלך, </l>
+          <l>מדי פעם את עולה, לוקחת קצת אויר</l>
+          <l>לא רוצה להיסחף, מכירה את המחיר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אמצע הרחוב, כולם כבר ישנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

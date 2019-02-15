@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צחוק הגורל</title>
+        <singer classification="male singer">פיטר רוט</singer>
+        <writer>דן תורן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צחוק הגורל</head>
+        <lg number="1" type="stanza">
+          <l>את נתת לי ללכת</l>
+          <l>עזבתי ביום יפה של חורף קר</l>
+          <l>זה הרגיש כמו בסרט</l>
+          <l>הייתי הגיבור הרע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>צחוק הגורל מלטף את פני</l>
+          <l>בדרך רוח דולק אחרי</l>
+          <l>לו רק היה ניתן להשיב אלי</l>
+          <l>את אהבת נעורי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא, בכלל לא קשה לי</l>
+          <l>בערב לבד</l>
+          <l>חלון קומה שנייה</l>
+          <l>הן עושות לי עיניים</l>
+          <l>רק את פה חסרה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>צחוק הגורל...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>באהבות אסור לטעות</l>
+          <l>אני האידיוט שנשאר</l>
+          <l>ביום יפה של חורף קר</l>
+          <l>זה נגמר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>צחוק הגורל מלטף את פני</l>
+          <l>בדרך רוח דולק אחרי</l>
+          <l>לו רק היה ניתן להשיב אותך אלי</l>
+          <l>את אהבת נעורי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

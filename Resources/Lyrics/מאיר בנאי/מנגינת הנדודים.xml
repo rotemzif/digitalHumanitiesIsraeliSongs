@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מנגינת הנדודים</title>
+        <singer classification="male singer">מאיר בנאי</singer>
+        <writer>מאיר בנאי</writer>
+        <composer>מאיר בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מנגינת הנדודים</head>
+        <lg number="1" type="stanza">
+          <l>בגינה אור של ירח</l>
+          <l>הוא מביט ומבין</l>
+          <l>שהיא בו שוב מתנגנת</l>
+          <l>מנגינת הנדודים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הוא נכנס ושם בבית</l>
+          <l>ריח טוב של תבשילים</l>
+          <l>אבל היא לא מניחה לו</l>
+          <l>מנגינת הנדודים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הפעם אם תלך</l>
+          <l>אהובתו בוכה</l>
+          <l>הפעם שוב לא אחכה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הנהר שט אל הקשת</l>
+          <l>בין עצי ערמונים</l>
+          <l>התחושה המתחלפת</l>
+          <l>מנגינת הנדודים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הפעם אם תלך...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ובסוף הוא לא נוסע</l>
+          <l>הוא נשאר ומבין</l>
+          <l>לעולם היא תתנגן בו</l>
+          <l>מנגינת הנדודים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

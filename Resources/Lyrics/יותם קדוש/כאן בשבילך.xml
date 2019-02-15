@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כאן בשבילך</title>
+        <singer classification="unknown">יותם קדוש</singer>
+        <writer>יותם קדוש</writer>
+        <composer>יותם קדוש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כאן בשבילך</head>
+        <lg number="1" type="stanza">
+          <l>מנסה להילחם מנסה לא ליפול</l>
+          <l>לא להתחכם ואותך שוב לשאול</l>
+          <l>האם זה ייפסק האם תחדלי</l>
+          <l>ומתי כבר נתנשק ואדע את שלי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני כאן בשבילך</l>
+          <l>אתמוך בך אם רק תבקשי אותי הלילה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מנסה להתמודד מנסה לא לזכור</l>
+          <l>איך נטשת אותי והישארת הכל מאחור</l>
+          <l>האם זה יסתדר האם תחזרי</l>
+          <l>ומתי כבר נתפייס ואדע את שלי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני כאן בשבילך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

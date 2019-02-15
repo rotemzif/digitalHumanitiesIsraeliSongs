@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה לך 5</title>
+        <singer classification="male singer">סגיב כהן</singer>
+        <writer>סגיב כהן</writer>
+        <composer>סגיב כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה לך</head>
+        <lg number="1" type="stanza">
+          <l>מה לך מלאך</l>
+          <l>כי חרש התעלמת ממני</l>
+          <l>מה לי</l>
+          <l>אבדה לי אהבה תמה</l>
+          <l>אוהב אותך יותר</l>
+          <l>ואת רק משתנה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה לך מלאך</l>
+          <l>כי עננים כיסו עיניים</l>
+          <l>מים הציפו את נחלתי</l>
+          <l>ואת מנוחתי הפרה תמתי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בואי בואי יפתי</l>
+          <l>והשיבי לי אהבתי</l>
+          <l>בואי שובי אל חיקי</l>
+          <l>אל תגידי ששכחת</l>
+          <l>לא רק אל תגידי שעבר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה לך כל כך</l>
+          <l>חזקו ממני שתיקותייך</l>
+          <l>מה לי</l>
+          <l>חזקה ממך תשוקתי</l>
+          <l>כמו רוח מליבך</l>
+          <l>סוערת בתוכי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בואי בואי יפתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

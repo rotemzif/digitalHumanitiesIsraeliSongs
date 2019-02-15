@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחד 34</title>
+        <singer classification="unknown">שחם אוחנה</singer>
+        <writer>שחם אוחנה</writer>
+        <composer>שחם אוחנה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחד</head>
+        <lg number="1" type="stanza">
+          <l>אחד </l>
+          <l>נולד </l>
+          <l>יצא </l>
+          <l>מתוך הרחם יצא החוצה </l>
+          <l>צורות צבעים ריחות </l>
+          <l>של אושר </l>
+          <l>פרחים </l>
+          <l>סמים </l>
+          <l>נותנים </l>
+          <l>קצת אושר בעצבות </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך הכל נראה </l>
+          <l>איך הכל נשמע </l>
+          <l>איך הוא מלטף </l>
+          <l>איך היא מחבקת אותך </l>
+          <l>חזק </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואיך ביום בהיר אחד נפלת </l>
+          <l>והיא יפה כמו ים </l>
+          <l>אותך הצילה באהבה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך הכל נראה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

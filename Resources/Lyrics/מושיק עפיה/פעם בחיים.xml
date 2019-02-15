@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פעם בחיים 2</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>לא ידוע</composer>
+        <album>אין הגיון באהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פעם בחיים</head>
+        <lg number="1" type="stanza">
+          <l>לקחת אותי רחוק איתך</l>
+          <l>אל תוך סיפור שלא אשכח</l>
+          <l>היינו כמה רגעים</l>
+          <l>וזה ניראה מיליון שנים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נתת לי את הכח שוב את הלב לפתוח</l>
+          <l>זאת אהבה שבאה רק פעם בחיים</l>
+          <l>עלייך לא ויתרתי ועד הסוף הלכתי</l>
+          <l>להישאר נישבעתי איתך כל החיים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הביטי איך יורד היום</l>
+          <l>ונעלם הוא כמו חלום</l>
+          <l>כל יום שבא לו ועובר</l>
+          <l>אני רוצה אותך יותר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נתת לי את הכח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

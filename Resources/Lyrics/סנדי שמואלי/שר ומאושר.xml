@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שר ומאושר</title>
+        <singer classification="unknown">סנדי שמואלי</singer>
+        <writer>סנדי שמואלי</writer>
+        <composer>סנדי שמואלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שר ומאושר</head>
+        <lg number="1" type="stanza">
+          <l>לא גמרתי דוקטורט</l>
+          <l>גם לא עשיתי סטאז'</l>
+          <l>אין לי עסק מפואר</l>
+          <l>אפילו לא גראז'</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבל יש לי מנגינה</l>
+          <l>יוצאת מהנשמה</l>
+          <l>אני מודה לה'</l>
+          <l>ומה שבא ברוך הבא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואני שר, שר ומאושר</l>
+          <l>והניגון עולה לו לשמיים</l>
+          <l>ואני שר, שר ומאושר</l>
+          <l>לראות אתכם רוקדים, מוחאים כפיים</l>
+          <l>בואו לשיר איתי נשיר בשניים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא מבין במניות ולא בכלכלה</l>
+          <l>אין לי תואר בחשבון </l>
+          <l>ולא בהנדסה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אבל יש לי מנגינה</l>
+          <l>יוצאת מהנשמה</l>
+          <l>אני מודה לה'</l>
+          <l>ומה שבא ברוך הבא</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

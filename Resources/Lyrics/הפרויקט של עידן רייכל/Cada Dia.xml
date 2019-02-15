@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Cada Dia</title>
+        <singer classification="band">הפרויקט של עידן רייכל</singer>
+        <writer>מרתה גומז</writer>
+        <composer>missing</composer>
+        <album>הביתה, הלוך חזור</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Cada Dia</head>
+        <lg number="1" type="stanza">
+          <l>Cada dia alguien me habla de ti </l>
+          <l>intentando sacar el dolor de mi alma </l>
+          <l>Cada dia alguien me habla de ti </l>
+          <l>intentando explicarme que ya no volveras </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>Pero de noche cuando ya no hay luz </l>
+          <l>cuando todos se van </l>
+          <l>Tu caminas despacio entre mis suenos y estas </l>
+          <l>No eres solo un recuerdo </l>
+          <l>yo te siento tan cerca que pareces real </l>
+          <l>y después te vas </l>
+          <l>Cando yo despierte tu ausencia vendra </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Cada dia alguien me habla de ti </l>
+          <l>y me dice que el tiempo es una rueda girando </l>
+          <l>Cada dia yo podria subir </l>
+          <l>después de tocar fondos y girara tambien </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>Pero de noche...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הפצצה הכי יפה</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הפצצה הכי יפה</head>
+        <lg number="1" type="stanza">
+          <l>את עוצרת נשימה כשאת אל הרחוב יורדת</l>
+          <l>וקשה לי להחליט אם את חלום או אמיתית</l>
+          <l>ואני מרגיש פתאום איך השפיות שלי בוגדת</l>
+          <l>בגללך יוצא מדעתי זה קורה לי רק בגלל שאת יפה ומיוחדת</l>
+          <l>את יודעת להדליק אותי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הפצצה הכי יפה אותי את מדליקה</l>
+          <l>מתוקה כזאת שבא לתת לך נשיקה</l>
+          <l>לחבק אותך אלי קרוב ללב ללכת לאיבוד להתאהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא יכול להתאפק אני רוצה פתאום לגשת</l>
+          <l>לחבק אותך ולהרגיש חשמל בכל הגוף</l>
+          <l>לשחק אותה דייג ולתפוס אותך ברשת</l>
+          <l>לספר לך בדיבור צפוף שאני אוהב אותך</l>
+          <l>ואיך שאת אותי כובשת בגללך אני על סף טירוף</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הפצצה הכי יפה אותי את מדליקה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

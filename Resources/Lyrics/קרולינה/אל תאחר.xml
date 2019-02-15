@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תאחר</title>
+        <singer classification="unknown">קרולינה</singer>
+        <writer>קרולינה</writer>
+        <composer>אורי בראונר כנרות</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תאחר</head>
+        <lg number="1" type="stanza">
+          <l>אל אהובי תאחר מדי אלי. </l>
+          <l>כמה טוב לחשוב שבקרוב  </l>
+          <l>אנשום את חום גופך.</l>
+          <l>אני יודעת שאתה כבר בדרכך אלי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהובי אל תאחר מדי אלי. </l>
+          <l>אהובי אל תאחר אלי. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מבטך שלו כמו תמונה ישנה </l>
+          <l>שקט ואומר אין סוף אהבה. </l>
+          <l>הלוואי ותביא מהשקט איתך. </l>
+          <l>תרומם את רוחי, </l>
+          <l>כשאבוא לקראתך.  </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהובי אל תאחר מדי אלי. </l>
+          <l>אהובי אל תאחר אלי. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אז בשעה של אור אחרון עם רדת יום</l>
+          <l>ייפול עלינו מטר זיכרונות מתוקים</l>
+          <l>כמו קרני החמה שנופלות</l>
+          <l>על מי הים בזוהר מאי שם.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

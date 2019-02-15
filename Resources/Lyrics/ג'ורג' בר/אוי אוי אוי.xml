@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אוי אוי אוי 2</title>
+        <singer classification="unknown">ג ורג בר</singer>
+        <writer>יוש גרנות</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אוי אוי אוי</head>
+        <lg number="1" type="stanza">
+          <l>ילדתי, שמעי והקשיבי</l>
+          <l>את דלתך סגרי והגיפי</l>
+          <l>ועל הגברים אל תשקיפי</l>
+          <l>כל אחד יודע, כל אחד שומע</l>
+          <l>כל ידיד ורע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רוצה בך, אוי אוי אוי...</l>
+          <l>חושק בך, אוי אוי אוי...</l>
+          <l>חושב על אוי אוי אוי...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ילדתי, הקשיבי, שמעי לי</l>
+          <l>את דבריי זכרי והביני</l>
+          <l>לגברים של אור תאמיני</l>
+          <l>כל אחד יודע, כל אחד שומע</l>
+          <l>כל ידיד ורע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רוצה בך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אבל את זאת לא שמעה היא</l>
+          <l>ורק לבלות, כך רצתה היא</l>
+          <l>ועם הגברים חגגה היא</l>
+          <l>ועכשיו יודע ועכשיו שומע</l>
+          <l>כל ידיד ורע</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>שהיא לא אוי אוי אוי...</l>
+          <l>והיא כבר אוי אוי אוי...</l>
+          <l>ויש לה אוי אוי אוי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

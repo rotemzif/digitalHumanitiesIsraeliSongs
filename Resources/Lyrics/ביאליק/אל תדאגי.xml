@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תדאגי 4</title>
+        <singer classification="unknown">ביאליק</singer>
+        <writer>ביאליק</writer>
+        <composer>ביאליק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תדאגי</head>
+        <lg number="1" type="stanza">
+          <l>יושבת לבדך, העיניים עצומות</l>
+          <l>ומפליגה בחלומות</l>
+          <l>שוקעת בעצמך, לחוף אגם רחוק</l>
+          <l>ועל שפתייך חיוך מתוק</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תדאגי לשום דבר</l>
+          <l>תראי הכול יהיה רק טוב</l>
+          <l>אני מבטיח לך תמיד לאהוב</l>
+          <l>אל תדאגי לשום דבר</l>
+          <l>תראי נהיה מאושרים</l>
+          <l>ואם נרצה תמיד נוכל לברוח להרים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וגם אני לבד, מפליג בדמיוני </l>
+          <l>רואה אותך שוב לידי</l>
+          <l>ושוב אנחנו שם, לחוף אגם רחוק</l>
+          <l>ועל שפתינו יש רק צחוק</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תדאגי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

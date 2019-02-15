@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Everything I know</title>
+        <singer classification="female singer">יעל דקלבאום</singer>
+        <writer>יעל דקלבאום</writer>
+        <composer>יעל דקלבאום</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Everything I know</head>
+        <lg number="1" type="stanza">
+          <l>Sky is at my feet</l>
+          <l>The clouds are sinking low into the streets </l>
+          <l>And all the birds are crawling </l>
+          <l>And everything I know is gone</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>It's fading into gray</l>
+          <l>The angels have not one more word to say</l>
+          <l>The lights are dimming </l>
+          <l>And everything I know is gone</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>So keep your child </l>
+          <l>Running wild</l>
+          <l>It's just how it's meant to be</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

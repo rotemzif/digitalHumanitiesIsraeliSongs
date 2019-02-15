@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמועה 3</title>
+        <singer classification="male singer">עוזי חיטמן</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>עוזי חיטמן</composer>
+        <album>עכשיו התור לאהבה - חלק א'</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמועה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>יש שמועה בעיר הזאת,</l>
+          <l>משהו עומד לקרות,</l>
+          <l>משהו אנ'לא יודע מה.</l>
+          <l>רוח באה מן הים,</l>
+          <l>מה היא מבאה משם,</l>
+          <l>רוח של פיוס או מלחמה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל תחכי לי,</l>
+          <l>לא אל תבכי לי,</l>
+          <l>כי מחר אני עוזב.</l>
+          <l>אין לך לא לילה,</l>
+          <l>לא לא כדאי לך,</l>
+          <l>אם מחר אני עוזב.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יש שמועה בעיר הזאת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

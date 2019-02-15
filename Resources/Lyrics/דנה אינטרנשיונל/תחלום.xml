@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תחלום</title>
+        <singer classification="female singer">דנה אינטרנשיונל</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>החלום האפשרי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תחלום</head>
+        <lg number="1" type="stanza">
+          <l>תחלום תחלום</l>
+          <l>אתה תמשיך לראות כשתישן</l>
+          <l>תחלום תחלום</l>
+          <l>תראה שהכל יראה מובן</l>
+          <l>שום דבר אותך שם לא יפתיע</l>
+          <l>שום דבר אותך שם לא ירתיע</l>
+          <l>אתה תחיה שם עם זרים</l>
+          <l>מנותק מהרגלים וחברים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תחלום תחלום</l>
+          <l>זה כדאי</l>
+          <l>אם אתה חולם</l>
+          <l>אתה עוד חי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תחלום תחלום</l>
+          <l>בחלומות אנחנו לא צבועים</l>
+          <l>תחלום תחלום</l>
+          <l>תראה כמה טוב לשחק עם הרעים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שום דבר...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תחלום תחלום</l>
+          <l>זה כדאי</l>
+          <l>אם אתה חולם</l>
+          <l>אתה עוד חי</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>תחלום תחלום</l>
+          <l>מותר לך להשתגע</l>
+          <l>בלילה...וביום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

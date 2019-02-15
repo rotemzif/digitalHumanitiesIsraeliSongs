@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חצי צוחק</title>
+        <singer classification="male singer">זאב טנא</singer>
+        <writer>זאב טנא</writer>
+        <composer>זאב טנא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חצי צוחק</head>
+        <lg number="1" type="stanza">
+          <l>שבוי במלחמת החומר, תועה בממלכת החטא</l>
+          <l>לא פעם גמרתי כבר אומר, לא פעם אמרתי לצאת</l>
+          <l>אוחז בשולי המדרכת, שרק לא אפול באמת</l>
+          <l>רושם בין דפי המחברת, כופר בממלכת החטא</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גולה ביבשת אחרת, כואב את כאב האומה</l>
+          <l>חוזר בכל פעם אליה, אותה אמת ערומה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בתוך המצב הזה, משתנה כל הזמן</l>
+          <l>אף פעם לא לגמרי, לא לכאן ולא לכאן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יכולתי לא פעם יכולתי, יכולתי יכול עוד הכל</l>
+          <l>שבוי בממלכת החומר, מושך במסגרת העול</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בתוך המצב הזה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>חצי צוחק, חצי בוכה, חצי צוחק, חצי בוכה</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>יכולתי לא פעם יכולתי, יכולתי יכול עוד אולי</l>
+          <l>משחק שאותו שיחקתי, שיחקתי, שברו את כלי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מילניום</title>
+        <singer classification="male singer">מיכה שטרית</singer>
+        <writer>מיכה שטרית</writer>
+        <composer>missing</composer>
+        <album>מסמרים ונוצות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מילניום</head>
+        <lg number="1" type="stanza">
+          <l>תצחק את זה או תבכה, אל תתגעגע</l>
+          <l>עוד שנתיים סוגרים עוד אלף</l>
+          <l>העתיד לבוא יחלוף גם הוא, </l>
+          <l>תצחק את זה או תבכה</l>
+          <l>עברת כבר כמה כאלה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אז איך הלב? איך הבריאות?</l>
+          <l>איך בנשמה?</l>
+          <l>האם אתה שמח?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תצחק את זה, צחק את זה, פרוע</l>
+          <l>אתה הרי יודע מי אתה, מאיפה ולאן</l>
+          <l>צחק את זה כמו שהיית קטן ואמא היתה גבוהה</l>
+          <l>ואל תתגעגע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז איך בלב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תצחק את זה, צחק את זה, אל תבכה</l>
+          <l>תצחק את זה, צחק את זה, אל תבכה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

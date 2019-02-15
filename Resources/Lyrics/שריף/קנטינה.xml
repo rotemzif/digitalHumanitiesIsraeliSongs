@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קנטינה 2</title>
+        <singer classification="male singer">שריף</singer>
+        <writer>שריף</writer>
+        <composer>שריף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קנטינה</head>
+        <lg number="1" type="stanza">
+          <l>אני יושב בתא עם כל החברים</l>
+          <l>אני תמיד צוחק הראש בעננים</l>
+          <l>הסוהרים עוברים עלינו מסתכלים</l>
+          <l>כולם פתאום הופכים לילדים טובים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בלילות אני יושב וחושב על אמא</l>
+          <l>מתנחם בחלום שמזכיר אותך</l>
+          <l>אמא תמיד עטפת אותי בחום ואהבה</l>
+          <l>לא אשכח לעולם אמא יקרה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כולם נוסעים ביחד בפוסטה אחת</l>
+          <l>ומסתכלים בלחץ מצד לצד</l>
+          <l>וחושבים על עוד קומבינה קומבינה</l>
+          <l>במקום לחשוב על הקנטינה קנטינה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בלילות אני יושב וחושב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

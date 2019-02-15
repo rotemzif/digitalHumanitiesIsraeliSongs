@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר חדש</title>
+        <singer classification="unknown">חגי טרייטל</singer>
+        <writer>חגי טרייטל</writer>
+        <composer>חגי טרייטל</composer>
+        <album>דלתות נפתחות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר חדש</head>
+        <lg number="1" type="stanza">
+          <l>שיר חדש נולד מאהבה</l>
+          <l>כתבתי בשבילך.</l>
+          <l>שיר חדש נולד מאהבה</l>
+          <l>כתבתי בשבילך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את השמש שבי</l>
+          <l>האור הגדול. שבחיי..</l>
+          <l>את השמש שבי</l>
+          <l>האור הגדול</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שיר חדש נולד מאהבה</l>
+          <l>כתבתי בשבילך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

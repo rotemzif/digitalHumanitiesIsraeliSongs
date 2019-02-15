@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עלי בריקדות</title>
+        <singer classification="unknown">הבנימינים</singer>
+        <writer>מיכאל אשבל</writer>
+        <composer>אלי טיטלבוים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עלי בריקדות</head>
+        <lg number="1" type="stanza">
+          <l>היום שרה הקטנה</l>
+          <l>ניפגש בצאתי למלחמה</l>
+          <l>את המדינה לכונן</l>
+          <l>משתי גדות הירדן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גיזזי צמתך</l>
+          <l>וחיגרי את חגורתך</l>
+          <l>חבקיני קחי מיקלע</l>
+          <l>ואיתי לשורה!</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עלי בריקדות ניפגש, ניפגש!</l>
+          <l>עלי בריקדות חרות נישא בדם ואש</l>
+          <l>רובה אל רובה, קנה יצדיע</l>
+          <l>כדור אל כדור יריע</l>
+          <l>עלי בריקדות, עלי בריקדות ניפגש!</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואם בתליה</l>
+          <l>אמסור את חיי לאומה,</l>
+          <l>אל נא אל תבכי</l>
+          <l>כי כך ניגזר גורלי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מחי דימעתך,</l>
+          <l>לחצי המיקלע אל ליבך</l>
+          <l>בחרי לך שני</l>
+          <l>מאנשי גונדתי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עלי בריקדות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

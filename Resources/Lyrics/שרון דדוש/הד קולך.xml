@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הד קולך</title>
+        <singer classification="unknown">שרון דדוש</singer>
+        <writer>אופיר כהן</writer>
+        <composer>אופיר כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הד קולך</head>
+        <lg number="1" type="stanza">
+          <l>אותך אני אוהבת, גם אם לפעמים נדמה שאין סימן לרגש</l>
+          <l>לך אני כותבת, את כל שירי הנשמה הטהורה</l>
+          <l>אותי קבלת צעירה, הן מאז אהבתי לך שמורה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הד קולך בחשכה, שוב גורם לשתי רגלי לנוע אל ביתך</l>
+          <l>יום חדש בחלונך, עוד מחמם אותנו ושומר אלינו </l>
+          <l>ומזכיר לך, אני שלך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איתך אני חומקת, מכל תלאות היום המטורף, אל השפיות שבנו</l>
+          <l>ואם אני שותקת, זה לא לשווא קולי נבלע כאן בדממה</l>
+          <l>פשוט רוצה רק שתשמע, איך איתך ליבי פועם לו בעוצמה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הד קולך בחשכה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

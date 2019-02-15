@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קצה הגבול</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>מאיר עמר</writer>
+        <composer>missing</composer>
+        <album>משוגע עלייך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קצה הגבול</head>
+        <lg number="1" type="stanza">
+          <l>זה לא שאת הולכת</l>
+          <l>זה רק לוקחת עוד מעט מרחק</l>
+          <l>זה לא שאת חייבת</l>
+          <l>זה רק אני רוצה להיות על יד</l>
+          <l>זה לא שאין בי רגש</l>
+          <l>זה רק הפחד מלהיות נחשף</l>
+          <l>זה לא שאין לי דרך</l>
+          <l>זה רק רוצה למצוא אותה איתך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואם בכל זאת באת אז</l>
+          <l>אולי תרשי לי להראות</l>
+          <l>מעט ממה שיש בי</l>
+          <l>כל כך רוצה לתת לך</l>
+          <l>עוד על קצה הגבול אין כח</l>
+          <l>אני אלך גם בשבילך</l>
+          <l>ולא אדע מנוח</l>
+          <l>עד שתתני לי את כולך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה לא שזה הבכי</l>
+          <l>זו רק דמעה אחת ברחה לאט</l>
+          <l>לעולם אני מוכן</l>
+          <l>ללוות אותך לצעוד ליד.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואם בכל זאת באת אז...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

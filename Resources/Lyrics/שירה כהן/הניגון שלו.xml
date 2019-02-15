@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הניגון שלו</title>
+        <singer classification="unknown">שירה כהן</singer>
+        <writer>מורן גמליאל</writer>
+        <composer>שירה כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הניגון שלו</head>
+        <lg number="1" type="stanza">
+          <l>הוא בא אלי</l>
+          <l>הוא בא אלי מתוך החושך</l>
+          <l>הוא בא אלי מתוך הצללים</l>
+          <l>לראות אם נעלם בי הפחד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>להישאר, </l>
+          <l>להישען עליו או לברוח</l>
+          <l>למצוא במקומות אחרים</l>
+          <l>זה זמן שרק רציתי לשכוח</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>האהבה שלו נשארת</l>
+          <l>הוא לא יכול לראות את הדברים</l>
+          <l>בניגון אחד כתבת</l>
+          <l>מקשיבה בשקט לצללים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הוא בא אלי</l>
+          <l>הוא בא אלי באמצע הדרך</l>
+          <l>אוסף איתו את כל השקרים</l>
+          <l>הוא בא אלי באמצע הדרך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הוא נעלם</l>
+          <l>ונעלם אותו געגוע </l>
+          <l>בנשימה אחת ארוכה</l>
+          <l>זה זמן שרק רציתי לשכוח</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>האהבה שלו נשארת</l>
+          <l>הוא לא יכול לראות את הדברים</l>
+          <l>בניגון אחד כתבת</l>
+          <l>מקשיבה בשקט לצללים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

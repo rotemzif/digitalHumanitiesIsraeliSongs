@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו אויר לנשימה</title>
+        <singer classification="male singer">שיר לוי</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>אריק זנטי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו אויר לנשימה</head>
+        <lg number="1" type="stanza">
+          <l>אלף מנגינות מתוך הלב יוצאות אלייך</l>
+          <l>מספרות לך שאני אוהב את שתי עינייך </l>
+          <l>שוב ושוב רוצה איתך לעוף כל כך גבוה</l>
+          <l>רק איתך הנפש והגוף מוצאים מרגוע </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את כל הטוב שבעולם אני אביא לך </l>
+          <l>כי את היופי המושלם בעולמי </l>
+          <l>את כל הטוב שבעולם רק לך מבטיח </l>
+          <l>כי בזכותך אני קיים אהובתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>העולם שלי מונח אצלך בשתי ידייך</l>
+          <l>וליבי הולך רק לקראתך רוצה אלייך</l>
+          <l>שנינו כמו אויר לנשמה את כבר יודעת </l>
+          <l>כי את אהבה כל כך גדולה שמשכנעת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את כל הטוב שבעולם אני אביא לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

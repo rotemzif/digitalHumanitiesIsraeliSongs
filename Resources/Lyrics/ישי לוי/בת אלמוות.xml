@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בת אלמוות</title>
+        <singer classification="male singer">ישי לוי</singer>
+        <writer>אברהם לוי</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בת אלמוות</head>
+        <lg number="1" type="stanza">
+          <l>נתיב חיי שומרת את</l>
+          <l>ודאי קשה לך ולא קל</l>
+          <l>את כל אשר בך לי נתת</l>
+          <l>איך לך אשיב ולו במעט</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בת אלמוות את</l>
+          <l>מימים אשר עברו</l>
+          <l>לידי ניצבת שכוחותי חסלו</l>
+          <l>בת אלמוות את</l>
+          <l>למכאוב את לועגת</l>
+          <l>וידעתי כי חלקת הכל איתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את המילים שלי אמרת</l>
+          <l>אל תוך ליבי חודרות בלאט</l>
+          <l>על השעות שלי שמרת</l>
+          <l>איך לך אשיב ולו במעט</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בת אלמוות את...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

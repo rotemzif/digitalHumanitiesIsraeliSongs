@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איגרת 3</title>
+        <singer classification="male singer">עופר לוי</singer>
+        <writer>חמוטל בן זאב</writer>
+        <composer>עממי טורקי</composer>
+        <album>שמע בני מוסר אביך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איגרת</head>
+        <lg number="1" type="stanza">
+          <l>שמע בני מוסר אביך</l>
+          <l>ואל תיטוש תורת אמך</l>
+          <l>השם אחד ושמו אחד</l>
+          <l>הסר כל פחד מליבך</l>
+          <l>תשמח תמיד בחלקך</l>
+          <l>השם אחד לעדי עד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ביושר לב ימי שניך</l>
+          <l>בענווה השפל עיניך</l>
+          <l>כבודו מלא עולם</l>
+          <l>ואם טעית וכשלת</l>
+          <l>אל תתייאש גם אם נפלת</l>
+          <l>כי הוא האבא של כולם</l>
+          <l>ביושר לב ימי שניך</l>
+          <l>בענווה השפל עיניך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אשא תפילה אל השמים</l>
+          <l>ילדי שלי, תפקח עיניים</l>
+          <l>עשה טוב וסור מרע</l>
+          <l>כוון את מעשה ידיך</l>
+          <l>השם אוהב את תפילותיך</l>
+          <l>עמוד מולו בוש ונכלם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ביושר לב ימי שניך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

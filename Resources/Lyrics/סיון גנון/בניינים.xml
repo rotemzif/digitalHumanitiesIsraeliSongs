@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בניינים 2</title>
+        <singer classification="unknown">סיון גנון</singer>
+        <writer>גילי זכאי</writer>
+        <composer>גילי זכאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בניינים</head>
+        <lg number="1" type="stanza">
+          <l>ואם יהיו לי בניינים,</l>
+          <l>אולי אסע במכונית שלא כל יום רואים</l>
+          <l>אולי אגור על ראש של גג</l>
+          <l>ולעולם כבר לא אדאג</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואם יהיו לי שני גברים</l>
+          <l>לימות החול ועוד אחד כי לפעמים חגים</l>
+          <l>אולי תהיה גם אהבה </l>
+          <l>אחת על כל יום שעבר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>פזמון:</l>
+          <l>כולם מנסים לעוף</l>
+          <l>לא יודעים איך לנחות</l>
+          <l>לא יודעים לאהוב</l>
+          <l>לא למדו איך לבכות</l>
+          <l>ואין הזדמנות שנייה</l>
+          <l>רק מה שיש היום</l>
+          <l>לא אהיה כאן מחר</l>
+          <l>אולי כבר מאוחר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואם אמצא בלי לחפש</l>
+          <l>אולי אמשיך לרוץ ולעולם לא אתעייף</l>
+          <l>אולי אחיה מיליון שנה</l>
+          <l>ועד עכשיו עברה רק שעה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כולם מנסים לעוף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

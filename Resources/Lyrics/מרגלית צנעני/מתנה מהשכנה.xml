@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתנה מהשכנה</title>
+        <singer classification="female singer">מרגלית צנעני</singer>
+        <writer>גוסטו</writer>
+        <composer>גוסטו</composer>
+        <album>דווקא היום</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתנה מהשכנה</head>
+        <lg number="1" type="stanza">
+          <l>ממקום למקום מארץ לארץ</l>
+          <l>נגעתי בשמיים באש וגם במים</l>
+          <l>ניצוץ שבעיניים ובלב תפילה</l>
+          <l>שהכל יהיה כמו שזה נראה כמו שזה נדמה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בתוך תוכי ישנה אותה ילדה קטנה</l>
+          <l>שרצה בשכונה יחפה וממתינה</l>
+          <l>למתנה של השכנה היא הבטיחה</l>
+          <l>אם אהיה בשקט </l>
+          <l>אם אשמור על שקט</l>
+          <l>אם אהיה בשקט</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מחלום אל חלום בדרך לא דרך</l>
+          <l>חושבת פעמיים להיות אחת ושתיים</l>
+          <l>חוששת בינתיים ובלב תפילה</l>
+          <l>שהכל יהיה כמו שזה נראה כמו שזה נדמה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בתוך תוכי ישנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

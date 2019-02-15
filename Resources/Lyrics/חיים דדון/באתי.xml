@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>באתי 7</title>
+        <singer classification="unknown">חיים דדון</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>עממי בולגרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>באתי</head>
+        <lg number="1" type="stanza">
+          <l>הלילה את עוזבת ויוצאת מתוך ביתי</l>
+          <l>אבל נשארת שם עמוק בתוך ליבי</l>
+          <l>כל רגע בלעדייך זה כמו נצח בשבילי</l>
+          <l>בבקשה ממך אולי תישארי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>באתי אלייך והבנתי</l>
+          <l>שרק אותך אהבתי</l>
+          <l>שאת זה הדבר הכי מושלם</l>
+          <l>באתי קרוב אלייך באתי</l>
+          <l>ובך אני מצאתי</l>
+          <l>את מה שלא היה לי מעולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלילה לא עובר לי כשאני כאן לבדי</l>
+          <l>אני רגיל שאת תמיד כאן בשבילי</l>
+          <l>טעיתי שנתתי לך לצאת מתוך ביתי</l>
+          <l>חזרי אלי מהר אל תשברי אותי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>באתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

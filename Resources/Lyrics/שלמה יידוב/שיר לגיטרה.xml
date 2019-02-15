@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר לגיטרה</title>
+        <singer classification="male singer">שלמה יידוב</singer>
+        <writer>רוברטו ספיולה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר לגיטרה</head>
+        <lg number="1" type="stanza">
+          <l>בוכיה לבד בלילה ליד מדורה דולקת</l>
+          <l>הגיטרה בצליליה מנפצת את השקט</l>
+          <l>היא מלכת הקרנבלים ומעל הזמן היא גשר</l>
+          <l>עם החלומות של פעם מחדשת את הקשר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שברירית ורגישה, מנחמת ותומכת</l>
+          <l>בשמחה וגם בעצב אחרי תמיד הולכת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בקלות היא מתמסרת באקורד היא מלטפת</l>
+          <l>אל גופי כך היא נצמדת ובצליל אותו עוטפת</l>
+          <l>שום דבר כבר לא יצליח להפריד עוד בינינו</l>
+          <l>מיתרים קושרים בכוח, מחברים לעד את שנינו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שברירית ורגישה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

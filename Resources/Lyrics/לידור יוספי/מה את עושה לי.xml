@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה את עושה לי</title>
+        <singer classification="male singer">לידור יוספי</singer>
+        <writer>רמי לב</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה את עושה לי</head>
+        <lg number="1" type="stanza">
+          <l>את, זה כל העולם והעולם שלי זו את</l>
+          <l>בלעדייך אין חלום ואיתך הכל נולד</l>
+          <l>את, כמו לחן יפה שמתחבר אל נשמתי</l>
+          <l>בגללך אני מרגיש שעוד אצא מדעתי</l>
+          <l>תביני, אל תשחקי ברגשות שלי </l>
+          <l>אין לי שקט, את לוקחת את כולי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תגידי לי מה את עושה לי</l>
+          <l>שאני בך מאוהב?</l>
+          <l>הלב שלי כבר לא נורמלי </l>
+          <l>לא תופס את המצב!</l>
+          <l>תגידי לי מה את עושה לי</l>
+          <l>שאני בך מאוהב?</l>
+          <l>את לא מבינה, כמה עוד אוהב אותך! </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כן, כל רגע איתך מתוק יותר משהיה</l>
+          <l>החיים רצים מהר, כל דקה היא חוויה</l>
+          <l>יש חלום מלטף ויש חלום שמרגש</l>
+          <l>אבל את הכי יפה מכל החלומות שיש </l>
+          <l>תביני, אל תשחקי ברגשות שלי</l>
+          <l>אין לי שקט, את לוקחת את כולי. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תגידי לי מה את עושה לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תלכי לי 4</title>
+        <singer classification="unknown">להקת שמן</singer>
+        <writer>יריב גז'נדה</writer>
+        <composer>יריב גז'נדה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תלכי לי</head>
+        <lg number="1" type="stanza">
+          <l>את יודעת שאני מכור </l>
+          <l>את יודעת שאני גמור </l>
+          <l>אל תשאירי אותי פה סגור </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את יודעת שאני משוגע </l>
+          <l>את כל היום מסתובבת בוכה </l>
+          <l>השארת אותי בלילה לבד במיטה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אל תלכי לי עכשיו מפה </l>
+          <l>תישארי ביחד </l>
+          <l>אל תגידי לא </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את יודעת שאני שבור </l>
+          <l>את יודעת שאני גמור </l>
+          <l>אנ'לא רוצה לשחק ת'משחק המכור </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עובד שבוע ללא הפסקה </l>
+          <l>שכחתי איך נראית המיטה </l>
+          <l>רציתי רק לומר לך את מבינה </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אל תלכי לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

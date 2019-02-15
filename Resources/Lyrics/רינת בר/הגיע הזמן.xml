@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הגיע הזמן 3</title>
+        <singer classification="female singer">רינת בר</singer>
+        <writer>רינת בר</writer>
+        <composer>רינת בר</composer>
+        <album>חיכיתי לך / אלבום חפלה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הגיע הזמן</head>
+        <lg number="1" type="stanza">
+          <l>שנים שאתה יודע עלי</l>
+          <l>שנים שאתה לא מבחין ברגשותי</l>
+          <l>הגיע הזמן </l>
+          <l>אני מודה בפנייך על אהבתי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אוהבת רק אותך </l>
+          <l>אתה קרוב אלי</l>
+          <l>רק לחבק אותך </l>
+          <l>חזק בתוך ידי</l>
+          <l>ואיך שאתה יודע הכל עלי</l>
+          <l>ובליבי נוגע ומחייך אלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני ואתה זה סיפור אהבה </l>
+          <l>אני אתן כל מה שרק תרצה </l>
+          <l>אני כאן בשבילך </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הגיע הזמן </l>
+          <l>אני מודה בפנייך על אהבתי </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אוהבת רק אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

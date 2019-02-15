@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בתוך 38</title>
+        <singer classification="unknown">ניצן אשל</singer>
+        <writer>ניצן אשל</writer>
+        <composer>תומר גיל אור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בתוך</head>
+        <lg number="1" type="stanza">
+          <l>אתה בתוך הדם שלי </l>
+          <l>ולא מפסיק לזרום בתוך הגוף</l>
+          <l>כי יש מקום לפצוע</l>
+          <l>אתה בתוך הראש שלי</l>
+          <l>ולא רוצה לצאת מתוך הראש</l>
+          <l>כי יש מקום לשמוע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני אמצא מקום חדש הרבה יותר נקי</l>
+          <l>אתה יכול לצעוק חזק</l>
+          <l>אני אמצא לי מנגינה שקטה</l>
+          <l>מוכרת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה בתוך חדרי עכשיו</l>
+          <l>ולא רוצה לצאת מתוך ביתי</l>
+          <l>כי יש מקום לפגוע</l>
+          <l>אתה בתוך רוחי עכשיו</l>
+          <l>ולא רוצה לצאת מתוך תוכי</l>
+          <l>כי יש מקום לנגוע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני אמצא מקום חדש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

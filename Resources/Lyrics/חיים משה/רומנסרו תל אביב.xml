@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רומנסרו תל אביב</title>
+        <singer classification="male singer">חיים משה</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רומנסרו תל אביב</head>
+        <lg number="1" type="stanza">
+          <l>בחצר אחת בתל אביב מצאתי</l>
+          <l>עץ לימון עתיק</l>
+          <l>פורח בלבן.</l>
+          <l>בחצר אחת בתל אביב מצאתי</l>
+          <l>את העיר אשר</l>
+          <l>איבדתי מזמן.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לתל אביב, תל אביב רומנסרו</l>
+          <l>לתל אביב שירו שיר אהבה</l>
+          <l>לתל אביב של לימון לימונרו</l>
+          <l>לתל אביב בימי אביב!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פעם עוד היו פה פרדסים וכרם</l>
+          <l>ונשאר מהם</l>
+          <l>רק חול וזיכרון</l>
+          <l>פעם פה הייתה אהבתי בעורת</l>
+          <l>ונותרה פה רק</l>
+          <l>חצר עם עץ לימון.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לתל אביב, תל אביב רומנסרו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בחצר אחת בתל אביב מצאתי</l>
+          <l>את עקבות רגליה</l>
+          <l>של תקופה ונוף.</l>
+          <l>בחצר הזאת אותה שעה ידעתי:</l>
+          <l>האביב חזר</l>
+          <l>צריך אותו לחטוף.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לתל אביב, תל אביב רומנסרו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

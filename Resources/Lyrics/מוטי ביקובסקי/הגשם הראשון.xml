@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הגשם הראשון 5</title>
+        <singer classification="male singer">מוטי ביקובסקי</singer>
+        <writer>מוטי ביקובסקי</writer>
+        <composer>מוטי ביקובסקי</composer>
+        <album>מוטי ביקובסקי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הגשם הראשון</head>
+        <lg number="1" type="stanza">
+          <l>הגשם הראשון מטפטף</l>
+          <l>במכנסיים קצרים וחולצה ארוכה</l>
+          <l>אני מכניס את הקיץ הביתה</l>
+          <l>אני חושב</l>
+          <l>עליה ועלי</l>
+          <l>על כל מה שלפני</l>
+          <l>על אופרות ברדיו</l>
+          <l>על אוטובוס עובר משפריץ לצדדים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמו כל השכנים</l>
+          <l>אני מרים את הראש לשמיים</l>
+          <l>ומשהו פה בתוכי קורה</l>
+          <l>השנה זה משפיע</l>
+          <l>ואין אף אחד</l>
+          <l>ואין למי להודיע</l>
+          <l>גשם שוטף</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ישטוף...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הגשם הראשון מטפטף</l>
+          <l>על היד על הרגל על היד</l>
+          <l>אני מכניס את הקיץ הביתה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

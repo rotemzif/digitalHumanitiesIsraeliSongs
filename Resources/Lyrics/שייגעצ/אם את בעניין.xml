@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם את בעניין 2</title>
+        <singer classification="band">שייגעצ</singer>
+        <writer>יובל מנדלסון</writer>
+        <composer>יובל מנדלסון</composer>
+        <album>להפסיק לאכול עוגות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם את בעניין</head>
+        <lg number="1" type="stanza">
+          <l>אני אוהב אותך</l>
+          <l>כי את יפה כל כך</l>
+          <l>אני חושב שזה הכי טוב שהרגשתי כבר שנים</l>
+          <l>רוצה לראות אותך</l>
+          <l>רוצה לתפוס אותך</l>
+          <l>אנ'לא אתן לך לעזוב אותי אף פעם בחיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ולא חשוב לי כלום</l>
+          <l>אנ'לא רוצה לקום</l>
+          <l>אני רוצה להישאר איתך</l>
+          <l>ואם את בעניין</l>
+          <l>אני לא זז מכאן</l>
+          <l>רק לנשק את הפרצוף שלך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני הולך לישון</l>
+          <l>ואת כמו פטיפון</l>
+          <l>שמנגן את השירים הכי יפים שנכתבו</l>
+          <l>אני יוצא מפה</l>
+          <l>אם את רוצה לבוא</l>
+          <l>אני אקח אותך לבארים מלאים שיסתכלו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ולא חשוב לי כלום...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואם את בעניין</l>
+          <l>אני לא זז מכאן</l>
+          <l>אני כבר לא רוצה להיות לבד, לא</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

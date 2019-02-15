@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בין שתי ערים</title>
+        <singer classification="male singer">דני גרנות</singer>
+        <writer>דודו ברק</writer>
+        <composer>מוני אמריליו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בין שתי ערים</head>
+        <lg number="1" type="stanza">
+          <l>בין שתי ערים ימי חולפים כרוח,</l>
+          <l>אחת קדושה, שנייה תיגע בים.</l>
+          <l>אחת - ראשה בעננים ינוח,</l>
+          <l>והשנייה עוטרת כתר דם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ובין שתי ערים -</l>
+          <l>אני גורף שירים,</l>
+          <l>אני צורף שירים,</l>
+          <l>אני עוטף לך חן וחסד וזרים, </l>
+          <l>בין שתי ערים,</l>
+          <l>שתי ערים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בין שתי ערים אבנה טירת תפארת,</l>
+          <l>אחת היא חוק, שנייה היא החרות.</l>
+          <l>אחת שבת וחג היא ומזכרת,</l>
+          <l>ובשנייה בריתי איתך תמות.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ובין שתי ערים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בין שתי ערים נודד אני עד נצח,</l>
+          <l>אחת שלום, שנייה ליבה גלוי.</l>
+          <l>אחת היא הר, כאב היא לי ופצע,</l>
+          <l>שנייה היא גיא ובה אני שבוי.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ובין שתי ערים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

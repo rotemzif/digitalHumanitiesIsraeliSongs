@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משתגע 5</title>
+        <singer classification="male singer">פיני חדד</singer>
+        <writer>סגיב כהן</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משתגע</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>איך את מרגשת כשאותי את מחבקת</l>
+          <l>מבטך זורח לי בתוך הלב</l>
+          <l>איך את מתעקשת את ליבי תמיד כובשת</l>
+          <l>ואיתך אני כבר משתגע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מהיום שבו אני איתך</l>
+          <l>כוכבים האירו את חיי</l>
+          <l>מהיום שבו אני שלך</l>
+          <l>מיופייך עוד לא ידעתי די</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איך את מרגשת...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא רוצה לא כסף ולא זהב</l>
+          <l>מחפש למצוא רק אהבה</l>
+          <l>רק אותך ארצה אותך אוהב</l>
+          <l>כי ליבי נשרף בלהבה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>איך את מרגשת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

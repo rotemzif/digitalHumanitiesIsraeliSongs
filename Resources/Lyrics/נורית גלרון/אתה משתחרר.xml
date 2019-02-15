@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אתה משתחרר</title>
+        <singer classification="female singer">נורית גלרון</singer>
+        <writer>שילה פרבר</writer>
+        <composer>שילה פרבר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אתה משתחרר</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>איך פתאום לכל יום יש שם חדש</l>
+          <l>איך להסביר, איך לא להגדיר את זה שאתה כאן</l>
+          <l>אתה עוד לא בטוח שמותר, מנסה לברוח חזרה</l>
+          <l>להסתגר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איך פתאום לכל יום יש נוף חדש</l>
+          <l>הרפתקאה</l>
+          <l>תנסה גם אתה, תטעם, תטעה, תיפול</l>
+          <l>ותקום חזרה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כי עכשיו זה כבר נגמר</l>
+          <l>תהיה חזק היום וגם מחר</l>
+          <l>אתה משתחרר</l>
+          <l>אבל עכשיו זה כבר נגמר</l>
+          <l>כל הזמן הוא רק שלך</l>
+          <l>וכל החיים רק אליך</l>
+          <l>רק אליך, בשבילך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך פתאום לכל יום יש שם חדש...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אבל עכשיו זה כבר נגמר</l>
+          <l>תהיה חזק היום וגם מחר</l>
+          <l>אתה משתחרר</l>
+          <l>זה לא יחזור יותר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

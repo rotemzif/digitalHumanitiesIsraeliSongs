@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין לי כח</title>
+        <singer classification="male singer">יובל פרי</singer>
+        <writer>שיקו חייק</writer>
+        <composer>שיקו חייק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין לי כח</head>
+        <lg number="1" type="stanza">
+          <l>חוזר הבית אחרי יום עבודה</l>
+          <l>אני עיף רוצה קצת מנוחה</l>
+          <l>שואלת שאלות של שבת </l>
+          <l>יא-רבק מאיפה עלי נפלת?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין לי כח אין לי כח</l>
+          <l>שגעת לי כבר את המוח</l>
+          <l>אין לי כח אין לי כח </l>
+          <l>ממך הייתי צריך לברוח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זורקת לי פה ושם מילים</l>
+          <l>אז עולים לי לראש העצבים</l>
+          <l>שואל אותך רוצה זרקת אהבה?</l>
+          <l>וכשקיבלת את שוב בי מתגרה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין לי כח אין לי כח...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יא ליילי יא ליילי יא ליילי</l>
+          <l>יא ליילי אהה יא ליילי</l>
+          <l>יא ליילי אהה יא ליל</l>
+          <l>יא פא יא פא יא פא יא פא אך יא פא</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אין לי כח אין לי כח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

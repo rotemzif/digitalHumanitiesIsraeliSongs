@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלום 60</title>
+        <singer classification="female singer">מאיה בוסקילה</singer>
+        <writer>מאיה בוסקילה</writer>
+        <composer>מאיה בוסקילה</composer>
+        <album>שוברת שתיקה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלום</head>
+        <lg number="1" type="stanza">
+          <l>זו אותה תחושה של פעם</l>
+          <l>כשאיבדתי את הטעם</l>
+          <l>לאהוב אותך.</l>
+          <l>זה הזמן שלא עובר בי</l>
+          <l>מתארך ומתקצר לי</l>
+          <l>זה מסביר הכל.</l>
+          <l>אני כבר לא נוטה לסבול.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שלום, אני הולכת היום</l>
+          <l>ולא אכפת לי מה אומרים</l>
+          <l>ולא חשוב לי מה אמרת.</l>
+          <l>שלום, אני הולכת היום</l>
+          <l>ולא יודעת אם אחזור</l>
+          <l>אולי אמשיך ללכת הלאה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זו אותה תחושה של טעם</l>
+          <l>שאיבדתי כבר פעם</l>
+          <l>איך אסביר לך?</l>
+          <l>הדמעות כבר לא זולגות לי</l>
+          <l>רק השקט שביקשתי</l>
+          <l>שוב הציף הכל.</l>
+          <l>איך לא ראיתי זאת אתמול?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שלום, אני הולכת היום...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זו אותה תחושה של פעם</l>
+          <l>כשאיבדתי את הטעם</l>
+          <l>לאהוב אותך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ניגודים</title>
+        <singer classification="unknown">הדור האחרון</singer>
+        <writer>זמיר גולן</writer>
+        <composer>דני ויצפלד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ניגודים</head>
+        <lg number="1" type="stanza">
+          <l>‫בין מה שחשוך, למה שזורח‬ </l>
+          <l>‫בין מה שאפל למה שמואר‬ </l>
+          <l>‫כל דבר חייב לג דול משני קטבים‬ </l>
+          <l>‫בין שני הפכים משהו נולד‬ </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>‫בחיים יש‬ </l>
+          <l>‫עת לתפור ועת לקרוע‬ </l>
+          <l>‫עת לבכות ועת לצחוק‬ </l>
+          <l>‫עת לנטוע, עת לגדוע‬ </l>
+          <l>‫עת לשנוא עת לאהוב‬ </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>‫בין מה שנותן למה שלוקח‬ </l>
+          <l>‫בין מה שחסר למה שנשלם‬ </l>
+          <l>‫כל א דם חייב לב נות משני קווים‬ </l>
+          <l>‫בין שמאל לימין, כוח אחד‬ </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>‫בחיים יש...‬ </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>‫כל מה שקיים, נמצא בתוכנו‬ </l>
+          <l>‫כלום לא משתנה, רק הרצון‬ </l>
+          <l>‫כל אדם חייב לבנות בתוך ליבו‬ </l>
+          <l>‫בין שני הפכים, קשר נכון‬ </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>‫בחיים יש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

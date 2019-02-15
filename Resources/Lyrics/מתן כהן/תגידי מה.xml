@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תגידי מה 3</title>
+        <singer classification="unknown">מתן כהן</singer>
+        <writer>מתן כהן</writer>
+        <composer>מתן כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תגידי מה</head>
+        <lg number="1" type="stanza">
+          <l>אני יודע שאני קצת משתטה</l>
+          <l>מכל האהבות כמו אש בורח</l>
+          <l>לצאת כך סתם בכיף</l>
+          <l>לחיות ממה שיש</l>
+          <l>לשיר לעולם ולשמח</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואת יודעת אני קשור אלייך</l>
+          <l>אז למה אותי את מטריפה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פזמון: תגידי מה מה מה / כואב לך נשמה</l>
+          <l>ים אהבה רק לך שולח</l>
+          <l>תגידי מה מה מה / כואב לך נשמה</l>
+          <l>חייכי לפני שאשתגע</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עכשיו אולי קשה</l>
+          <l>אבל יודע שמכל המחשבות</l>
+          <l>אני שוכח</l>
+          <l>ואם רק ננסה אז שנינו נגלה</l>
+          <l>שהעולם הרבה יותר שמח</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואת יודעת אני קשור אלייך</l>
+          <l>אז למה אותי את מטריפה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>פזמון: תגידי מה מה מה / כואב לך נשמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

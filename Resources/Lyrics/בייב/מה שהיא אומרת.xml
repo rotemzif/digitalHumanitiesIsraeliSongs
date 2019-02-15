@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה שהיא אומרת</title>
+        <singer classification="band">בייב</singer>
+        <writer>אביב כהן</writer>
+        <composer>אביב כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה שהיא אומרת</head>
+        <lg number="1" type="stanza">
+          <l>מה שהיא אומרת קורה</l>
+          <l>ידיים גוף ופנים</l>
+          <l>לאט לאט מוצא את הדרך פנימה</l>
+          <l>והיא אומרת תהיה רגוע רגוע</l>
+          <l>הנה לאט זה בא אני רגוע</l>
+          <l>מה שהיא אומרת קורה</l>
+          <l>נשאר לי רק להקשיב</l>
+          <l>לנשימות שלה לנשימות שלי</l>
+          <l>ואני כל כך כבד אני כנוע</l>
+          <l>שתפרק אותי כמו מגדל של קלפים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני חושב אולי היא מסוכנת מדי</l>
+          <l>שתצייר שדים מה אכפת לי מה</l>
+          <l>היא מציירת על הגב שלה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה שהיא אומרת קורה</l>
+          <l>נשאר לי רק להקשיב</l>
+          <l>לנשימות שלה לנשימות שלי</l>
+          <l>ואני כל כך כבד אני כנוע</l>
+          <l>שתפרק אותי שתפרק אותי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני חושב אולי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

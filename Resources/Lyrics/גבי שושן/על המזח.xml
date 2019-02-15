@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>על המזח</title>
+        <singer classification="male singer">גבי שושן</singer>
+        <writer>אהוד בנאי</writer>
+        <composer>גבי שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>על המזח</head>
+        <lg number="1" type="stanza">
+          <l>אין סיכוי למצוא אותך עכשיו</l>
+          <l>אתה ודאי רחוק מכאן</l>
+          <l>מסתובב בצפת או ביפן</l>
+          <l>כחול עינייך כענן עשן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בלי עבר ובלי עתיד פלילי</l>
+          <l>אבל תמיד קצת בשוליים</l>
+          <l>סמטאות לוקחות אותך רחוק</l>
+          <l>מרחף כמו דג במים, עמוק</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שוב אני יושב כאן על המזח הישן</l>
+          <l>וזוכר אותך כמו נר - כל הלילה זה בוער</l>
+          <l>הזמנים שהתגלגלנו, כל היופי שחלמנו</l>
+          <l>איך אני כבר מסודר ואתה תמיד נשאר</l>
+          <l>לא נוגע, לא פוגע</l>
+          <l>רק נוסע</l>
+          <l>ונוסע</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אחותך שואלת מה יהיה</l>
+          <l>אני אומר: יהיה בסדר</l>
+          <l>על המזח אני מחכה</l>
+          <l>אולי פתאום תחזור לכאן היום</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שוב אני יושב כאן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

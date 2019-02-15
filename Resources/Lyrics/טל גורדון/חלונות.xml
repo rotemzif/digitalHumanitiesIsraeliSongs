@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלונות</title>
+        <singer classification="female singer">טל גורדון</singer>
+        <writer>טל גורדון</writer>
+        <composer>טל גורדון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלונות</head>
+        <lg number="1" type="stanza">
+          <l>אני בתוך המעגל ומביטה</l>
+          <l>ואין שם צל על הרצפה, אין צל</l>
+          <l>רוצה לשלוח יד לצאת מהתמונה</l>
+          <l>לקרוע פתח יציאה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מידי חזק, אולי יותר מידי בוער</l>
+          <l>אתה אומר בעייפות כל כך גדולה</l>
+          <l>אולי חלם אותנו מישהו אחר</l>
+          <l>כמו סיפור הפוך מהתחלה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בסרט, בלי סיבה, בלילה מאוחר</l>
+          <l>הייתי מול עצמי נמצאת, לא שם</l>
+          <l>כשהוא צילם אותי לא ראיתי שום דבר</l>
+          <l>והתמונה היתה ריקה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מידי חזק, אולי יותר מידי בוער...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

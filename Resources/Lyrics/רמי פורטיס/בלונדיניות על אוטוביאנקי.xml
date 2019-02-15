@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלונדיניות על אוטוביאנקי</title>
+        <singer classification="male singer">רמי פורטיס</singer>
+        <writer>רמי פורטיס</writer>
+        <composer>רמי פורטיס</composer>
+        <album>פורטיס משולש</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלונדיניות על אוטוביאנקי</head>
+        <lg number="1" type="stanza">
+          <l>סעי לסיציליה מותק</l>
+          <l>מאוחר זה תמיד מחר</l>
+          <l>אי ודאות ואושר במקום שאסור מותר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>סעי לסיציליה מותק</l>
+          <l>החיים הם ממתק יקר</l>
+          <l>אי משמעות וחומר בוער בליבו של הר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בלונדיניות על אוטוביאנקי</l>
+          <l>El mundo maniania que</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>סעי לסיציליה מותק</l>
+          <l>מאוחר זה תמיד מחר</l>
+          <l>אי ודאות ואושר במקום שאסור מותר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בלונדיניות על אוטוביאנקי</l>
+          <l>El mundo maniania que</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>חול וכל כך כחול</l>
+          <l>חול וממשיך לצלול</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>בלונדיניות על אוטוביאנקי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

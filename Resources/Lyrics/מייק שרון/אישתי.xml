@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אישתי 2</title>
+        <singer classification="male singer">מייק שרון</singer>
+        <writer>דודו אשכנזי</writer>
+        <composer>צביקה פיק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אישתי</head>
+        <lg number="1" type="stanza">
+          <l>אני רוצה לשיר לך שיר אישתי היקרה</l>
+          <l>שיר שבא מתוך ההכרה</l>
+          <l>אני מצאתי בחיקך את היופי בעולם</l>
+          <l>העצב שהיה בי נעלם </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני רוצה לשיר לך שיר אישתי היקרה</l>
+          <l>שיר שבא מתוך הנשמה</l>
+          <l>אני מצאתי בקירבך את האושר הנכסף</l>
+          <l>הרגש העמוק אותי סחף</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את אישתי לעזרי, בך זכיתי את איתי</l>
+          <l>את אישתי יפה שלי, שלך באהבה כולי</l>
+          <l>את...את...את...את שלי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ולך תמיד נמשיך לשיר אישתי הנפלאה</l>
+          <l>שיר שבא מתוך זו השבועה</l>
+          <l>תמיד אהיה שם בשבילך</l>
+          <l>לך אודה בכל שניה</l>
+          <l>לחיות איתך פשוט זו חוויה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את אישתי לעזרי, בך זכיתי את איתי</l>
+          <l>את אישתי יפה שלי, שלך באהבה כולי</l>
+          <l>את...את...את...את שלי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

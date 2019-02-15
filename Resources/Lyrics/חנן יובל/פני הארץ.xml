@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פני הארץ</title>
+        <singer classification="male singer">חנן יובל</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פני הארץ</head>
+        <lg number="1" type="stanza">
+          <l>אתה שואל אותי לשמה</l>
+          <l>ומבקש שאתאר את פני אהבתי</l>
+          <l>את סוד יופיה באור חמה</l>
+          <l>ומה אומרות פניה של ארץ תקוותי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אתה שואל אותי האם</l>
+          <l>דמעות עיניה הן דמעות של עצב או שמחה</l>
+          <l>ומה פשרם של הצבעים</l>
+          <l>ברקותיה, בלחייה, במצחה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הן פני הארץ הם פניך</l>
+          <l>פני אחיך ושכניך,</l>
+          <l>פני בנותיך ובניך,</l>
+          <l>פני הארץ הם פניך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מראש הרים, מסוף מדבר</l>
+          <l>את כל פלאיה אבקש זו אהבה בלי תנאי</l>
+          <l>ואיש עדיין לא פתר</l>
+          <l>חידת פניה ופניך ופני.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הן פני הארץ...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אתה שואל אותי לשמה</l>
+          <l>ומבקש שאתאר את פני אהבתי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

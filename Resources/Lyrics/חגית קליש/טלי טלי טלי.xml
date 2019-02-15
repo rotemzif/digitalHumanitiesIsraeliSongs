@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טלי טלי טלי</title>
+        <singer classification="unknown">חגית קליש</singer>
+        <writer>רוני סומק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טלי טלי טלי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>טלי טלי טלי היא ציפור טרופה</l>
+          <l>על תחבוש ברחמים את שברי גופה</l>
+          <l>נתקעו כנפיה בענן חולף</l>
+          <l>השמיים מספרים לי עוד סיפור כואב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל תרימי את ראשך למעלה</l>
+          <l>מי הבטיח לצייר לך קשת בענן</l>
+          <l>שם הזמן רוקד לו וואלס פרוע</l>
+          <l>את חולפת עם הרוח הקרה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>טלי טלי טלי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל תצאי לדרך המוכרת</l>
+          <l>אש בוערת בשדות העמק הירוק</l>
+          <l>שם הזמן הוא כמו לוליין ברוח</l>
+          <l>הנופל לו מחבל העולם</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>טלי טלי טלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

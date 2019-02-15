@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מכאן והלאה</title>
+        <singer classification="male singer">לידור יוספי</singer>
+        <writer>ביגי</writer>
+        <composer>ביגי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מכאן והלאה</head>
+        <lg number="1" type="stanza">
+          <l>רק אותך אני אוהב </l>
+          <l>את יודעת זה מהלב </l>
+          <l>אל תתני לה לחכות </l>
+          <l>פשוט מין אהבה כזאת </l>
+          <l>את יודעת אני שביר </l>
+          <l>לפעמים קשה לי להסביר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני מת עלייך מת </l>
+          <l>ואת יודעת זאת אמת </l>
+          <l>שהכל כתוב מלמעלה </l>
+          <l>ומעכשיו זה מכאן והלאה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לעולם אהיה שלך </l>
+          <l>את יודעת אני איתך </l>
+          <l>חולם עליך בלילות </l>
+          <l>לא יודע מה לעשות </l>
+          <l>את חייבת רק להבין </l>
+          <l>לנסות ובי להאמין </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני מת עלייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

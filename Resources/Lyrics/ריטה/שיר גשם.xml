@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר גשם</title>
+        <singer classification="female singer">ריטה</singer>
+        <writer>רחל שפירא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר גשם</head>
+        <lg number="1" type="stanza">
+          <l>הגשם אף פעם</l>
+          <l>לא מתחרט</l>
+          <l>חשבתי על זה היום</l>
+          <l>הפרח אף פעם</l>
+          <l>לא מתלבט</l>
+          <l>לא מפרש יופיו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אין פרי בעולם</l>
+          <l>ששואל את עצמו</l>
+          <l>מה זה להיות מתוק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואני מבולבלת</l>
+          <l>בלי סוף מתנצלת</l>
+          <l>אני עוד</l>
+          <l>צריכה הצדקות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואני לכודה</l>
+          <l>כמעט אבודה</l>
+          <l>בסבך רגשות סותרים</l>
+          <l>אם הבנת אותי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם הבנתי אותך</l>
+          <l>אם אנחנו</l>
+          <l>בכלל מכירים</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ואני עצובה</l>
+          <l>ועוד אין לי תשובה</l>
+          <l>אם זאת כן</l>
+          <l>אם זאת לא אהבה</l>
+          <l>רוצה להשען על כתפך</l>
+          <l>ולא להסביר שום דבר</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>ולמה אני</l>
+          <l>מענה את עצמי</l>
+          <l>לא מפסיקה לשאול</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>מהססת לקחת</l>
+          <l>אני מתווכחת</l>
+          <l>נבהלת מאושר גדול</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>ואני לכודה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

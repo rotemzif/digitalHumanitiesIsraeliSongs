@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני באה 2</title>
+        <singer classification="unknown">יפעת בוגנים</singer>
+        <writer>יפעת בוגנים</writer>
+        <composer>יפעת בוגנים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני באה</head>
+        <lg number="1" type="stanza">
+          <l>מול עיניך עומדת </l>
+          <l>מתבוננת בעומכן</l>
+          <l>לוחשות לי בואי בואי </l>
+          <l>אני כאן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מול עיניך עומדת </l>
+          <l>נשאבת בתוכן </l>
+          <l>מרמזות הן בואי בואי </l>
+          <l>אני גם</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני באה ,אני באה</l>
+          <l>אל תלך לשום מקום </l>
+          <l>חכה לי,אני באה </l>
+          <l>אני באה מרחוק</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רציתי שתדע</l>
+          <l>עוד לא אבדה בי התקווה</l>
+          <l>עודי נושמת נשימתך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מדמיינת את דמותך </l>
+          <l>משתוקקת למגע</l>
+          <l>כמו נוגעות הן </l>
+          <l>בתכלת ילדותי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני באה...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>תן לי להרגיש </l>
+          <l>את חום גופך </l>
+          <l>לגעת בשערך</l>
+          <l>לחוש מגע ידך</l>
+          <l>ללכוד מחשבותך</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>אני באה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

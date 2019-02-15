@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו רוח 4</title>
+        <singer classification="band">נובמבר</singer>
+        <writer>שרון רביבו</writer>
+        <composer>שרון רביבו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו רוח</head>
+        <lg number="1" type="stanza">
+          <l>כמו רוח נושבת על המים</l>
+          <l>כמו קרן אור בתוך עשן</l>
+          <l>פוסע, הכל רחוק ממני</l>
+          <l>עוזב עוד געגוע ישן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מתחלק על העצב</l>
+          <l>מתחמק מהקצב</l>
+          <l>מתפתל, ונשאר מוגן</l>
+          <l>מתנפץ אל המים</l>
+          <l>לא עוצם את העיניים</l>
+          <l>לא עוזב</l>
+          <l>ולא מרגיש מכאן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נוגע, ליטוף מהשמיים</l>
+          <l>יונק עוד כוס ועוד עשן</l>
+          <l>אנטנה, מאפרה שדיים</l>
+          <l>בורח לקולנוע ישן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מתחלק על העצב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

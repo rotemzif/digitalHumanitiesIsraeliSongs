@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כן לציפור</title>
+        <singer classification="male singer">ערן צור</singer>
+        <writer>ערן צור</writer>
+        <composer>missing</composer>
+        <album>חותך בחתך הזהב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כן לציפור</head>
+        <lg number="1" type="stanza">
+          <l>בוקר אחד בתוך שדה עזוב נחתה לידי ציפור</l>
+          <l>ולי הציעה הצעה - אני אשיר לך על סבל הקיום</l>
+          <l>אתה תלך ותפרסם את השיר כאילו הוא שלך</l>
+          <l>ואז תנחל הצלחה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אמרתי כן לציפור</l>
+          <l>עכשיו אני אשיר</l>
+          <l>זאת יכולה להיות סיבה טובה לשיר</l>
+          <l>אבל הסיפור שלי מריר, מריר, מתוק, מריר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אחרי שאמרתי כן לציפור היא התחילה לשיר</l>
+          <l>לה לה לה לה...</l>
+          <l>כשהיא שרה חיכתה לי הפתעה - השיר היה עלי</l>
+          <l>השיר היה על אלה שקרובים אלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אמרתי כבר כן לציפור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

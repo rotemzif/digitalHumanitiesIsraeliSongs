@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא נמס 2</title>
+        <singer classification="band">נעליים</singer>
+        <writer>שחר אבן צור</writer>
+        <composer>אייל אבן צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא נמס</head>
+        <lg number="1" type="stanza">
+          <l>אני נהנה משום דבר</l>
+          <l>שום דבר לא יעזור עדיין</l>
+          <l>הדלת נשארה סגורה</l>
+          <l>כשחשבתי פעמיים</l>
+          <l>לובש מעיל בצבע חום</l>
+          <l>עם או בלי אבזם, כי קר לי</l>
+          <l>את אמרת לי שהכל פשוט</l>
+          <l>הגביע הוא שלנו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עוד יום</l>
+          <l>לא אני לא נמס</l>
+          <l>יש לי זמן</l>
+          <l>עצוב לי קצת לבד</l>
+          <l>חדר על הגג</l>
+          <l>עוד יום...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה מחכה לי בפינה</l>
+          <l>מה חשוב לי מה משאיר סימן</l>
+          <l>חשבתי פעם כמו בובה</l>
+          <l>החיים הם בטריה</l>
+          <l>ארמון בחול ובחלום</l>
+          <l>לא נשאר לי כסף לעוד ארטיק</l>
+          <l>הבנק שלח מכתב אדום</l>
+          <l>הפנקס הוא שלנו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עוד יום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

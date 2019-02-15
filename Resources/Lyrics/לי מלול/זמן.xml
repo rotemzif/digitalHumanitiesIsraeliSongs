@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זמן 45</title>
+        <singer classification="unknown">לי מלול</singer>
+        <writer>לי מלול</writer>
+        <composer>לי מלול</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זמן</head>
+        <lg number="1" type="stanza">
+          <l>תתנו לי רק עוד קצת זמן </l>
+          <l>לפעמים אני נראית קשה </l>
+          <l>כולכם חושבים איזו בושה </l>
+          <l>חוץ ממך </l>
+          <l>ביקשתי רק עוד קצת זמן </l>
+          <l>כי נשאר לי עוד עניין קטן </l>
+          <l>לא הקשבתם, ואתה נשארת כאן.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וגם אם תיסע הרחק מכאן </l>
+          <l>יהיה זה כה מובן </l>
+          <l>לדעת, </l>
+          <l>שתחזור אלי </l>
+          <l>וגם אם תחצה חצי עולם,</l>
+          <l>ארגיש שאתה שם,</l>
+          <l>עדיין,</l>
+          <l>קרוב אלי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לפעמים אתה נראה נחנק </l>
+          <l>תנסה לנשום עמוק עוד קצת </l>
+          <l>נשאר לנו כל כך מעט,</l>
+          <l>נו מה אכפת </l>
+          <l>הם עדיין לא מאמינים </l>
+          <l>ששרדנו את כל השנים </l>
+          <l>ואנחנו בלתי נפרדים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וגם אם תיסע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

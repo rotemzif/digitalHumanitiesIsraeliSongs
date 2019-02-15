@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי פגע במי</title>
+        <singer classification="unknown">תומר יונה</singer>
+        <writer>תומר יונה</writer>
+        <composer>תומר יונה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי פגע במי</head>
+        <lg number="1" type="stanza">
+          <l>אתה בחור נחמד תעמוד בצד</l>
+          <l>את אישה יפה אין בך אמונה</l>
+          <l>אתה בחור מתוק תשתדל לשתוק</l>
+          <l>ואת כה מתוקה למה עסוקה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש לי בשבילם רעיון כזה מושלם</l>
+          <l>אז בואו תשמעו כולם</l>
+          <l>מי פגע במי שיקום ויצעק אני</l>
+          <l>מי פגע במי וזה לא אני</l>
+          <l>מי פגע במי שיקום ויצעק אני</l>
+          <l>מי פגע במי נשבע זה לא אני</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא אומרת לו אל תקום מפה</l>
+          <l>יש גם אנשים לא תמיד עוזבים</l>
+          <l>אני בחור מתוק משתדל לשתוק</l>
+          <l>והיא כה מתוקה למה עסוקה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש לי בשבילם רעיון כזה מושלם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אתה בחור נחמד תעמוד בצד</l>
+          <l>את אישה יפה אין בך אמונה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יש לי בשבילם רעיון כזה מושלם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

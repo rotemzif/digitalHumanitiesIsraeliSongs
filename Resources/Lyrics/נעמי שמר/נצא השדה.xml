@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נצא השדה</title>
+        <singer classification="female singer">נעמי שמר</singer>
+        <writer>מתוך שיר השירים</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נצא השדה</head>
+        <lg number="1" type="stanza">
+          <l>נצא השדה</l>
+          <l>נלינה בכפרים</l>
+          <l>נשכימה לכרמים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נראה</l>
+          <l>אם פרחה הגפן</l>
+          <l>פתח הסמדר</l>
+          <l>הנצו הרימונים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הו עורי צפון,</l>
+          <l>ובואי תימן,</l>
+          <l>הפיחי גני.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הו עורי צפון,</l>
+          <l>ובואי תימן,</l>
+          <l>יזלו בשמיו.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>נראה אם פרחה הגפן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

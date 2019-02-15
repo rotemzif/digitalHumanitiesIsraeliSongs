@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ברכני</title>
+        <singer classification="unknown">דורון ברדא</singer>
+        <writer>ניסים מרי</writer>
+        <composer>דורון ברדא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ברכני</head>
+        <lg number="1" type="stanza">
+          <l>בתפילה כל בוקר פותח את היום</l>
+          <l>מתפלל לאלוקים מודה אני בחום</l>
+          <l>על הטוב שהוא נותן לי כל יום מחדש</l>
+          <l>אב הרחמים אני אותך כל רגע חש </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ברכני ושמע את תפילותי, אנא ענני</l>
+          <l>אותך אעבוד אלמד עוד ועוד</l>
+          <l>בך לעולם לא אבגוד </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>האמונה נותנת לי את הטעם החיים</l>
+          <l>ומקרבת את הנשמה לאלוקים</l>
+          <l>להבין ולחקור כל אות וכל מילה</l>
+          <l>להרגיש ת'משמעות ברגע של תפילה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ברכני ושמע את תפילותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

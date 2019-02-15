@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Love Control</title>
+        <singer classification="female singer">ענת דמון</singer>
+        <writer>ענת דמון</writer>
+        <composer>ענת דמון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Love Control</head>
+        <lg number="1" type="stanza">
+          <l>Surrounded by the cloud you live in </l>
+          <l>I can't control this love you're feeling </l>
+          <l>You're looking at me </l>
+          <l>So why don't you see </l>
+          <l>That I'm gonna break your broken heart </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>Don't let me do this to you </l>
+          <l>Don't help me ruin you </l>
+          <l>No, I won't wrap my arms around you </l>
+          <l>No </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>You're gonna hate me so </l>
+          <l>You're gonna come and go </l>
+          <l>You're gonna come - and go </l>
+          <l>I won't let you see how good it could be with me </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>Don't let me do this to you...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

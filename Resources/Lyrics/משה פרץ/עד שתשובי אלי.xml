@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד שתשובי אלי</title>
+        <singer classification="male singer">משה פרץ</singer>
+        <writer>משה פרץ</writer>
+        <composer>משה פרץ</composer>
+        <album>מהשמיים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד שתשובי אלי</head>
+        <lg number="1" type="stanza">
+          <l>לא אחכה שתגיעי עד אלי</l>
+          <l>לראות אם אני חי</l>
+          <l>עד שתשובי אלי</l>
+          <l>לא אעצור את עצמי מלכאוב עכשיו</l>
+          <l>לא אעצור דקה</l>
+          <l>עד שתשובי אלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמה טוב היה מזמן</l>
+          <l>כמו בסיפור הישן</l>
+          <l>בואי אלי ואישן</l>
+          <l>לא אנוח לשניה</l>
+          <l>עד שתשובי אלי</l>
+          <l>עד שתשובי אלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא אחכה שתגיעי עד אלי</l>
+          <l>לראות אם אני חי</l>
+          <l>עד שתשובי אלי</l>
+          <l>לא אעצור את עצמי מלכאוב</l>
+          <l>עכשיו לא אעצור דקה</l>
+          <l>עד שתשובי אלי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמה טוב היה מזמן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

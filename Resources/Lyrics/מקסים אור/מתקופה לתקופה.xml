@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתקופה לתקופה</title>
+        <singer classification="male singer">מקסים אור</singer>
+        <writer>אלי מור יוסף</writer>
+        <composer>אשר עשתון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתקופה לתקופה</head>
+        <lg number="1" type="stanza">
+          <l>ובחוץ רוחות נושבות</l>
+          <l>ובלילבך ישנה סופה</l>
+          <l>אז את באה מחבקת ונופלת עייפה</l>
+          <l>וכך בזרועותי עוברת לה תקופה</l>
+          <l>שתקומי תגלי אוויר ובליבך פריחה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ומתקופה לתקופה</l>
+          <l>את נהיית יותר יפה</l>
+          <l>והלב נקש עם ליבך</l>
+          <l>ואם בחוץ חשוך וקר</l>
+          <l>את פוחדת ממחר</l>
+          <l>שתדעי אהיה שם לצידך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ובבית האורות כבר ובנינו דלת מפרידה</l>
+          <l>אז את באה מחבקת </l>
+          <l>כי הרגשת קצת בודדה</l>
+          <l>ועכשיו את לצידי והזמן לא נעצר</l>
+          <l>שתקומי תאהבי אותי הבית שוב יואר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ומתקופה לתקופה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

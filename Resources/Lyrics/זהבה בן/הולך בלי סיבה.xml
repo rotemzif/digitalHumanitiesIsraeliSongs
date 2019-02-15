@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הולך בלי סיבה</title>
+        <singer classification="female singer">זהבה בן</singer>
+        <writer>רמי ברזל</writer>
+        <composer>רמי ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הולך בלי סיבה</head>
+        <lg number="1" type="stanza">
+          <l>גרנו ביחד באותה דירה</l>
+          <l>רציתי אותך הייתי שלך</l>
+          <l>השמש זרחה בשבילינו בלבד</l>
+          <l>אז איך קם אדם והולך בלי סיבה?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חיינו ביחד איש ואישה </l>
+          <l>חייך שלי, שלך הם חיי</l>
+          <l>חלמנו ביחד ראינו עתיד</l>
+          <l>אז איך קם אדם והולך בלי סיבה?</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אל אלוהים, לוחשת תפילה</l>
+          <l>איך בן אדם הולך בלי סיבה?</l>
+          <l>יושבת לבד, והיקות הלבנים</l>
+          <l>רק הם מזכירים את הימים הטובים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מאז שהלכת אני בודדה</l>
+          <l>לא ישנה בלי לחלום את דמותך</l>
+          <l>הלכת מזמן לא אמרת מילה</l>
+          <l>השארת אותי לבד בלי תשובה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אל אלוהים, לוחשת תפילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

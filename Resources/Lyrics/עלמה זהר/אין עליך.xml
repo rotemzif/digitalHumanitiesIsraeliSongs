@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין עליך</title>
+        <singer classification="unknown">עלמה זהר</singer>
+        <writer>עלמה זהר</writer>
+        <composer>עלמה זהר</composer>
+        <album>דברי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין עליך</head>
+        <lg number="1" type="stanza">
+          <l>ספן שאין לו מפרש</l>
+          <l>מה הוא מחפש?</l>
+          <l>לוליין שברח מקרקס</l>
+          <l>לאן הוא מטפס?</l>
+          <l>מה אני בלעדיך?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין עליך</l>
+          <l>יורד לסוף דעתי</l>
+          <l>אין עליך</l>
+          <l>מבין את נשמתי</l>
+          <l>ושומר עלי</l>
+          <l>כאילו אני</l>
+          <l>דבר יקר מאוד מאוד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עפיפון שניתק מן החוט</l>
+          <l>לאן הוא מרחף?</l>
+          <l>דבר שנשמט בטעות</l>
+          <l>ואיש אינו שם לב</l>
+          <l>מה אני בלעדיך?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין עליך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נהר בלי גשר</l>
+          <l>חידה בלי פשר</l>
+          <l>ענן בלי גשם</l>
+          <l>אישה בלי ילד</l>
+          <l>אני, בלעדיך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

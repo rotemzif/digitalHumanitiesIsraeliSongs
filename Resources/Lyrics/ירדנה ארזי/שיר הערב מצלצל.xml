@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הערב מצלצל</title>
+        <singer classification="female singer">ירדנה ארזי</singer>
+        <writer>רחל שפירא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הערב מצלצל</head>
+        <lg number="1" type="stanza">
+          <l>שיר הערב מצלצל בשדות שחורים</l>
+          <l>אור היום עכשיו נופל על אתרים זרים</l>
+          <l>התוגה המתוקה היא בת בית כאן</l>
+          <l>כמו האבק והדרורים והתשוקה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>העצים המזדקנים עמוסי כתובות</l>
+          <l>מחכים לעננים במן יראת כבוד</l>
+          <l>את עורנו מצמרר רוח מערב</l>
+          <l>בעוד ימים נתגעגע לשרב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שוטי שוטי מנגינה שלנו</l>
+          <l>על גלים כהים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הירח מרוקע שם מעל הגג</l>
+          <l>כמדליה רחוקה שאיש עוד לא ענד</l>
+          <l>התוגה המתוקה היא בת בית כאן</l>
+          <l>כמו האבק והדרורים והתשוקה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>פרי שלא נקטף בזמן לאיטו מרקיב</l>
+          <l>במכרה נטוש מוטמנת אבן הטורקיז</l>
+          <l>התוגה המתוקה היא בת בית כאן</l>
+          <l>כמו האבק והדרורים והתשוקה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שוטי שוטי מנגינה שלנו</l>
+          <l>על גלים כהים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

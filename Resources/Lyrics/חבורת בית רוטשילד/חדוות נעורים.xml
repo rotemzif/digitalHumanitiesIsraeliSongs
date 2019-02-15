@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חדוות נעורים</title>
+        <singer classification="band">חבורת בית רוטשילד</singer>
+        <writer>אפי נצר</writer>
+        <composer>אפי נצר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חדוות נעורים</head>
+        <lg number="1" type="stanza">
+          <l>רונו רונו, הבו זמר,</l>
+          <l>שישו והכו בתוף.</l>
+          <l>כך נרקודה עד אין גמר,</l>
+          <l>כי מחול זה אין לו סוף.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הבו יין, הטביעו עצב,</l>
+          <l>לחיינו כוס נרים.</l>
+          <l>שיר זמרו נא, הגבירו קצב,</l>
+          <l>חולו חולו נעורים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השיר שלה</title>
+        <singer classification="unknown">יובל לוריא</singer>
+        <writer>יובל לוריא</writer>
+        <composer>יובל לוריא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השיר שלה</head>
+        <lg number="1" type="stanza">
+          <l>זה סיפור על ילדה די קטנה</l>
+          <l>שמדברת בלי הפסקה</l>
+          <l>נפגשנו פעם לגמרי במקרה</l>
+          <l>לא האמנתי שזה קורה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בהתחלה נראתה די קשה</l>
+          <l>אבל מהר מאוד חשפה את עצמה</l>
+          <l>רק היכרנו והנה זה בא</l>
+          <l>סיפורים נשמעים בלי הפסקה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מתקרבים ולא אומרים את המילה הנכונה</l>
+          <l>מדברים ואף פעם היא לא נשמעה</l>
+          <l>נפגשים אין סוף כי זה נדרש מעצמו</l>
+          <l>ומתחילים את השיר מהתחלה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוד יום עובר</l>
+          <l>אנ'לא מצליח להתגבר</l>
+          <l>הילדה הזאת היא משהו אחר</l>
+          <l>כל הזמן רק עליה חושב</l>
+          <l>ומזכיר לעצמי שאסור להתאהב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יושבים בחדר שלה בשעה מוזרה</l>
+          <l>מתלבט אם כדאי להישאר</l>
+          <l>אין לי כוח יותר להדחיק רגשות</l>
+          <l>אולי פשוט ניתן לזה לקרות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מתקרבים ולא אומרים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

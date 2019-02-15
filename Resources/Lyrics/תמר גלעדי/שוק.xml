@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שוק 6</title>
+        <singer classification="female singer">תמר גלעדי</singer>
+        <writer>דידי שחר</writer>
+        <composer>דידי שחר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שוק</head>
+        <lg number="1" type="stanza">
+          <l>בשוק לא נשארו הרבה</l>
+          <l>בגיל שלי כל הטובים תפוסים</l>
+          <l>וכאן אצלי מסתתרות עוד כמה מעלות</l>
+          <l>וכמה פלאים שמכיר רק אלוהים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מבול של דאגות מציף הכל</l>
+          <l>זוגות זוגות כולם בורחים אל התיבות</l>
+          <l>ורק אצלי כל טפטוף כל שמץ מהומה</l>
+          <l>כמו קרב איגרוף כל יום מלחמה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לאמא אני אומרת שאין מה לדאוג</l>
+          <l>להיפך ככה מתאים לי להיות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בגוף ממשיך לזחול שעול החול</l>
+          <l>תקוות חיים רוצה לנבוט, רוצה לגדול</l>
+          <l>עולם כמנהגו נוהג אבל וחוגג</l>
+          <l>יביא גם אלי את אהבת חיי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לאמא אני אומרת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

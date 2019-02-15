@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הו הו</title>
+        <singer classification="unknown">מופע הארנבות של ד ר קספר</singer>
+        <writer>אורן ברזילי</writer>
+        <composer>missing</composer>
+        <album>בהופעה חיה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הו הו</head>
+        <lg number="1" type="stanza">
+          <l>קראתי בעיתון היום הו הו</l>
+          <l>בחור צעיר מחר יהיה גדול</l>
+          <l>ולא יכולתי לא לצחוק</l>
+          <l>איך הדשא שם ירוק</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הו הו הו הו הו הו הו הו</l>
+          <l>ואת אומרת, ואת אומרת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קראתי בעיתון היום הו הו</l>
+          <l>חייג אשה גן עדן לשעה</l>
+          <l>ולא יכולתי לא לשאול</l>
+          <l>איך לא קר לה שם בחול</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הו הו הו הו הו הו הו הו</l>
+          <l>ואת אומרת, ואת אומרת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

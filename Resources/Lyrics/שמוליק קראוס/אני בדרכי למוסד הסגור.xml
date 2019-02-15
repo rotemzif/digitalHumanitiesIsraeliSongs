@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני בדרכי למוסד הסגור 2</title>
+        <singer classification="male singer">שמוליק קראוס</singer>
+        <writer>חנוך לוין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני בדרכי למוסד הסגור</head>
+        <lg number="1" type="stanza">
+          <l>אשתי היקרה מוחה את דמעותיה</l>
+          <l>שני הילדים מנפנפים ביד</l>
+          <l>באמבולנס לבן אני עכשיו נוסע</l>
+          <l>נוסי לי הרחק להיות לבד לבד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ציפורים, פרפרים, נפולאון והרצל</l>
+          <l>מלאכים, אלוהים מחליף צבעים</l>
+          <l>להיות עיפרון, להיות מברשת</l>
+          <l>להיות חביתה משתי ביצים</l>
+          <l>אני בדרכי למוסד הסגור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוברים על פני שדות ומכלים של מים</l>
+          <l>שלום לך עולם קבל את ברכתי</l>
+          <l>מכן עד יום מותי ולו בגיל מאתיים</l>
+          <l>שוב לא נראה אחד את השני</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ציפורים, פרפרים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אחות עם מקל, רופא עם צלקת</l>
+          <l>קושרים את ידי עם כותונת אפורה</l>
+          <l>בחדר לבן אפוף שלוה ושקט</l>
+          <l>אשלח לי חיוכים קטנים אל התקרה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ציפורים, פרפרים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

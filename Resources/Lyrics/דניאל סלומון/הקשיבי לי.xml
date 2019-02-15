@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הקשיבי לי</title>
+        <singer classification="male singer">דניאל סלומון</singer>
+        <writer>דניאל סלומון</writer>
+        <composer>דניאל סלומון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הקשיבי לי</head>
+        <lg number="1" type="stanza">
+          <l>כמה ארוכה ההמתנה </l>
+          <l>שהפחד ירגע </l>
+          <l>שתלך החרדה </l>
+          <l>כמה ארוכה ההמתנה </l>
+          <l>אל הלב שירגע </l>
+          <l>שתלך המחשבה </l>
+          <l>האפלה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הקשיבי לי </l>
+          <l>שירי לי שיר על מיטתי </l>
+          <l>עד שאשן רק אל תלכי </l>
+          <l>אני שלך ואת שלי </l>
+          <l>הקשיבי לי </l>
+          <l>ים של קוצים בנשמתי </l>
+          <l>בכל מקום תמיד איתי </l>
+          <l>אני שלהם והם שלי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה ארוכה ההמתנה </l>
+          <l>לכאב שירגע </l>
+          <l>כמו מתכת על נוצה </l>
+          <l>כמה ארוכה ההמתנה </l>
+          <l>לשדים שבמראה </l>
+          <l>שחוזרים עם חשיכה </l>
+          <l>האפלה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הקשיבי לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

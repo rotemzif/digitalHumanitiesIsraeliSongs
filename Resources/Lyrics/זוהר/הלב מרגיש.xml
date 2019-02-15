@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלב מרגיש</title>
+        <singer classification="unknown">זוהר 14</singer>
+        <writer>זוהר</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלב מרגיש</head>
+        <lg number="1" type="stanza">
+          <l>עוברת ברחוב</l>
+          <l>שומעת אנשים שמדברים ומדברים</l>
+          <l>זאת היא זאת האישה</l>
+          <l>שמסתירה את כאבה</l>
+          <l>לא מדברת לא מספרת</l>
+          <l>לא מדברת לא מספרת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הוא לא בשבילי</l>
+          <l>כך כולם אמרו לי</l>
+          <l>אך הלב שלי </l>
+          <l>הוא מרגיש אחרת</l>
+          <l>הוא לא בשבילי</l>
+          <l>אך לא מוותרת </l>
+          <l>על האהבה הזאת אני נלחמת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני לא בחורה כזאת תמימה אחת</l>
+          <l>שמתאהבת או מתלהבת</l>
+          <l>בין כל האהבות והאכזבות שבחיים שלי</l>
+          <l>עברתי תמיד ידעתי</l>
+          <l>תמיד ידעתי</l>
+          <l>ושוב ידעתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הוא לא בשבילי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

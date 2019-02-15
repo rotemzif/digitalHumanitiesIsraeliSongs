@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כיסים</title>
+        <singer classification="male singer">לי בירן</singer>
+        <writer>לי בירן</writer>
+        <composer>לי בירן</composer>
+        <album>כיסים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כיסים</head>
+        <lg number="1" type="stanza">
+          <l>גודל הכיסים הכי גדול </l>
+          <l>הכניסה מה שיכלה הכי עמוק </l>
+          <l>עכשיו מסתובבת עם התיק שלה על הצד, תיק מיוחד. </l>
+          <l>הלכה לעשות קניות ב'פאנסי מול' </l>
+          <l>דפקה הופעה אך כסף לא יכול </l>
+          <l>לקנות את האושר שהיא תמיד רצתה, וזייפה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את מחכה </l>
+          <l>למשהו אמיתי </l>
+          <l>ולא אוהבת קצב איטי </l>
+          <l>אבל קודם כל </l>
+          <l>צריך להפנים </l>
+          <l>כי לא תוכלי להכיל</l>
+          <l>אם לא תרוקני את הכיסים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יצאה עם הגבר הכי גדול </l>
+          <l>חשבה שהוא האחד ופוף הכל </l>
+          <l>בשנייה התפוצץ לה בפנים, ובפנים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את מחכה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>להיות אתה</title>
+        <singer classification="band">שובבי ציון</singer>
+        <writer>קובי רכט</writer>
+        <composer>קובי רכט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>להיות אתה</head>
+        <lg number="1" type="stanza">
+          <l>לא יכול לחשוב בכלל</l>
+          <l>כשאני רוצה להיות אתה</l>
+          <l>שום דבר, שום דבר עובר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא יכול לסבול יותר</l>
+          <l>כשני רוצה להיות אתה</l>
+          <l>שום דבר, שום דבר עובר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם תרצה אותה, קח ולך אתה</l>
+          <l>אם תרצה אותה היא שלך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא יכול לחשוב בכלל</l>
+          <l>כשאני רוצה להיות אתה</l>
+          <l>לא יכול לראות אותך</l>
+          <l>כשאני רוצה להיות אתה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שום דבר, שום דבר עובר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אם תרצה אותה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

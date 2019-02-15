@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שתי בובות על חוט</title>
+        <singer classification="female singer">שרון ליפשיץ</singer>
+        <writer>שרון ליפשיץ</writer>
+        <composer>שרון ליפשיץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שתי בובות על חוט</head>
+        <lg number="1" type="stanza">
+          <l>יושבת בגינה, חושבת</l>
+          <l>יש כח באוויר, היא ממלמלת</l>
+          <l>והוא מתגלגל בתוך העשב</l>
+          <l>עושה תרגילים, לוליין של קסם</l>
+          <l>נוצץ כמו הטל כשהוא נופל</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פוסע בשדות, אליה</l>
+          <l>מניח את ראשון בתוך ידיה</l>
+          <l>והוא מסתכל לתוך התכלת</l>
+          <l>האופק משחיר, חיטה בוערת</l>
+          <l>ויש באוויר כח אדיר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הגשם יבוא</l>
+          <l>הגשם ירד</l>
+          <l>רק מי שחזק</l>
+          <l>רק הוא יישרד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שנינו יחד עור לעור</l>
+          <l>אין בי כח</l>
+          <l>עולמות נפרדים כמו</l>
+          <l>שתי בובות על חוט</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הגשם יבוא...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ואין אדמה ואין שמיים</l>
+          <l>ואובך אדיר על פני המים</l>
+          <l>ויש באוויר כח אדיר</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>הגשם יבוא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

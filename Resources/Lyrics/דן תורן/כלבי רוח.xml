@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כלבי רוח</title>
+        <singer classification="male singer">דן תורן</singer>
+        <writer>דן תורן</writer>
+        <composer>דן תורן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כלבי רוח</head>
+        <lg number="1" type="stanza">
+          <l>כלבי רוח עם גיטרות צד</l>
+          <l>זוחלים הביתה אחד אחד</l>
+          <l>כלבי רוח בשיירה</l>
+          <l>מחפשים את הדרך חזרה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>באבק הצהוב שעולה למעלה</l>
+          <l>יש כתובת עשן שאפשר לקרוא</l>
+          <l>"כל המפסידים מוזמנים</l>
+          <l>למועדון הכלבים האבודים"</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כלבי רוח- ללא אהבה</l>
+          <l>מעלים זיכרונות מתקופה שעברה</l>
+          <l>כלבי רוח מחפשים עבודה</l>
+          <l>בתור תמונות על לוח שנה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>באבק הצהוב שעולה למעלה</l>
+          <l>יש כתובת עשן שאפשר לקרוא</l>
+          <l>"כל המפסידים מוזמנים</l>
+          <l>למועדון הכלבים האבודים"</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

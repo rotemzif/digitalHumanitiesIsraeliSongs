@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילות אפורים 2</title>
+        <singer classification="male singer">פיני חדד</singer>
+        <writer>דינה אלחיאני</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילות אפורים</head>
+        <lg number="1" type="stanza">
+          <l>עכשיו זה מתחיל עכשיו זה נגמר</l>
+          <l>עכשיו זה אני נגד כל העולם</l>
+          <l>עכשיו זה הסוף של ההתחלה</l>
+          <l>כי בדרך כזאת אין חזרה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לילות אפורים מנסה להרדם</l>
+          <l>ערפל מכסה את הכר שלצידי</l>
+          <l>אחרי שעזבת וכבר לא תחזרי</l>
+          <l>הערפל מתפזר ושוב מתעורר</l>
+          <l>לחיים הפוכים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רואה אותך על גבעה לבנה</l>
+          <l>מחייך אלייך, את חזרה</l>
+          <l>בדמיון שוב דואה השפיות הזויה</l>
+          <l>מחשבות אבודות לא יכול בלעדייך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לילות אפורים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין לך הגנה</title>
+        <singer classification="male singer">דניאל סלומון</singer>
+        <writer>דניאל סלומון</writer>
+        <composer>דניאל סלומון</composer>
+        <album>רבות הדרכים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין לך הגנה</head>
+        <lg number="1" type="stanza">
+          <l>מביט פעם אחרונה, כמו בראשונה,</l>
+          <l>אותה ילדה נפחדת.</l>
+          <l>למי, למי את מחכה, כשהמיטה ריקה?</l>
+          <l>את מי את מחבקת?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אמא כל כך רחוקה, אמא כבר לא מגנה,</l>
+          <l>והיא לא תרגיע בכל פעם שנפתח הפצע.</l>
+          <l>לא תמיד את אשמה, לא תמיד את יכולה,</l>
+          <l>להביט עלייך מפנייך, אין לך הגנה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חזרי מהר אל בדידותך, פעם חזק ליבך,</l>
+          <l>זמן רב שלא אהבת בו.</l>
+          <l>כאב, הבטן הרכה, נשאר כמו מחלה,</l>
+          <l>ואין שיקוי מרפה לו.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אמא כל כך רחוקה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

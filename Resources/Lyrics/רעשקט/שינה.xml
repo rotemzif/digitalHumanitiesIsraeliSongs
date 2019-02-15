@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שינה 3</title>
+        <singer classification="unknown">רעשקט</singer>
+        <writer>נועם קינג</writer>
+        <composer>נועם קינג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שינה</head>
+        <lg number="1" type="stanza">
+          <l>הנה הוא מגיע</l>
+          <l>כל היום חיכית לזה</l>
+          <l>לחלום</l>
+          <l>שייקח אותך רחוק מכאן.</l>
+          <l>עוצם את העיניים</l>
+          <l>מחייך חיוך קטן</l>
+          <l>עולה על ענן לשמיים</l>
+          <l>הנה אתה כמעט כבר שם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>העיניים עייפות</l>
+          <l>הן רצות מצד לצד</l>
+          <l>מתכסה במחשבות ומקווה</l>
+          <l>שיגיע עוד מעט</l>
+          <l>הוא יבוא לקראתך וייקח אותך...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הנה בא עוד לילה</l>
+          <l>עוטף בערפל</l>
+          <l>מנסה להחזיר אותך לאותם רגעים</l>
+          <l>אתה לא תשכח</l>
+          <l>את כל מה שהיה</l>
+          <l>אתה עוצם חזק את העיניים וחולם על שינה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>העיניים עייפות</l>
+          <l>הן רצות מצד לצד</l>
+          <l>מתכסה במחשבות ומקווה</l>
+          <l>שיגיע עוד מעט</l>
+          <l>הוא יבוא לקראתך וייקח אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

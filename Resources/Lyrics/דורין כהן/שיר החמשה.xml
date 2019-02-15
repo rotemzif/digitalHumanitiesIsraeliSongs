@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר החמשה</title>
+        <singer classification="unknown">דורין כהן</singer>
+        <writer>אורלי בינדר</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר החמשה</head>
+        <lg number="1" type="stanza">
+          <l>אנו אוהבים לקרוא את התווים</l>
+          <l>תווים אשר כתובים על חמשת הקווים.</l>
+          <l>חמישה ולא שישה, זוהי החמשה</l>
+          <l>בצד כזה גדול עומד מפתח סול.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מפתח סול, מפתח סול,</l>
+          <l>עומד בצד וזה הכל.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני אוהב אותך 17</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>missing</composer>
+        <album>משוגע עלייך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני אוהב אותך</head>
+        <lg number="1" type="stanza">
+          <l>אני כאן בשבילך כל הזמן</l>
+          <l>שבוי ביופייך וזה העניין</l>
+          <l>אם לפעמים זה לא קל</l>
+          <l>להרגיש אותך, זה יוצא מהכלל</l>
+          <l>נשיקה אחת ארוכה את גופך אלטף</l>
+          <l>בדקות של שתיקה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני אוהב אותך כל כך</l>
+          <l>ואת יודעת</l>
+          <l>המזל שלי נפתח כשאני איתך</l>
+          <l>ובלילות הכי קרים את בי נוגעת</l>
+          <l>רק תדעי לך שלעד ליבי שלך</l>
+          <l>אני שלך...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני כל הזמן רוצה יותר</l>
+          <l>להיות לצידך ולא אוותר</l>
+          <l>אצלי זה הולך ומתגבר</l>
+          <l>משהו בך עושה לי את זה</l>
+          <l>והלילה הזה הוא שלך</l>
+          <l>עד חצי המלכות,</l>
+          <l>נתתי רק לך... רק לך...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני אוהב אותך כל כך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

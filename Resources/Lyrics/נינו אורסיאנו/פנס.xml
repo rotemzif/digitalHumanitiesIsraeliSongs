@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פנס 10</title>
+        <singer classification="male singer">נינו אורסיאנו</singer>
+        <writer>ארז ברזוליק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פנס</head>
+        <lg number="1" type="stanza">
+          <l>הלילה שב העיר מוטלת </l>
+          <l>נשמתי שוב לא שואלת </l>
+          <l>רחוב אפור - ירח רד </l>
+          <l>אני עוד שר כל כך לבד </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פנס בוער עד קצה העצב </l>
+          <l>יגסוס לבד לפי העצב </l>
+          <l>מה שנגמר מה שעבר </l>
+          <l>סוף מתוק הופך למר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דממה כחולה בעיר סובבת </l>
+          <l>זונה זקנה לבד אוהבת </l>
+          <l>חייל אחד וגור של כלב </l>
+          <l>עד בוא האור וקץ הערב </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עם אור ראשון בשמי כאב </l>
+          <l>אני עוד שר ומתאהב </l>
+          <l>מה שנגמר מה שעבר </l>
+          <l>סוף מתוק הופך למר </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>פנס בוער עד קצה העצב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

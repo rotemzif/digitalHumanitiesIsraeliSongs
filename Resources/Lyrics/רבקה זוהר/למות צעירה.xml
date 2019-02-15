@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>למות צעירה</title>
+        <singer classification="female singer">רבקה זוהר</singer>
+        <writer>חנה סנש</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>למות צעירה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>למות צעירה, למות,</l>
+          <l>לא, לא רציתי.</l>
+          <l>לא, לא רציתי.</l>
+          <l>אהבתי את השמש החמה,</l>
+          <l>האור, השיר, ניצוץ של זוג עינייך.</l>
+          <l>ולא רציתי הרס מלחמה.</l>
+          <l>לא, לא רציתי.</l>
+          <l>לא, לא רציתי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אך אם נגזר עליי לחיות היום,</l>
+          <l>בשפך דם, בהרס האיום,</l>
+          <l>אגיד: "ברוך השם ובעד הזכות,</l>
+          <l>לחיות ובוא תבוא שעה למות,</l>
+          <l>על אדמתך, ארצי, מולדתי".</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>למות צעירה, למות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

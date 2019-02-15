@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה קורה כל פעם</title>
+        <singer classification="band">הפרברים</singer>
+        <writer>אהוד מנור</writer>
+        <composer>נחצ'ה היימן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה קורה כל פעם</head>
+        <lg number="1" type="stanza">
+          <l>זוג חבוק בגשם על פני עובר </l>
+          <l>זוג אוהב בגשם את רוחי שובר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה קורה כל פעם כשהלב רעב </l>
+          <l>וזכרו של טעם אל שפתי קרב </l>
+          <l>זה מתחיל כל פעם ונגמר בכאב </l>
+          <l>כמו ברק ורעם, כמו להיעזב </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מישהו בחושך שר "להתראות" </l>
+          <l>שר "שלום" בחושך ועיני דומעות </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה קורה כל פעם... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עוד חושב עלייך ומרגיש אשם </l>
+          <l>עוד חולם עלייך בלי להירדם </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה קורה כל פעם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

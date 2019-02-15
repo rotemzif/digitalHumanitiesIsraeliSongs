@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר השומר 5</title>
+        <singer classification="unknown">עופרה חזה</singer>
+        <writer>עמנואל לין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר השומר</head>
+        <lg number="1" type="stanza">
+          <l>מעל המגדל סביב אשקיפה,</l>
+          <l>עיני תגמע מרחקים,</l>
+          <l>ארץ רוגעת בדמי הליל,</l>
+          <l>הוי, שומר, מה מליל?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חליל רועים ירון</l>
+          <l>גולשים עדרי הצאן,</l>
+          <l>מה לי ומי לי עוד, כנען?</l>
+          <l>רוח מים המה,</l>
+          <l>בין שיבולי קמה,</l>
+          <l>מה לי ומי לי עוד, כנען?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>סהר עלה מן ההרים</l>
+          <l>העמק עוטה ערפל</l>
+          <l>אי שם רחוק התן מילל</l>
+          <l>הו שומר מה מילל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חליל רועים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הרבה יותר 2</title>
+        <singer classification="unknown">מופע הארנבות של ד ר קספר</singer>
+        <writer>אורן ברזילי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הרבה יותר</head>
+        <lg number="1" type="stanza">
+          <l>את יפה כמו השלכת</l>
+          <l>אבל מגיע לי הרבה יותר</l>
+          <l>את בועטת ונושכת</l>
+          <l>כן מגיע לי הרבה יותר</l>
+          <l>את הולכת איך חשבתי</l>
+          <l>שמגיע לי הרבה יותר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבל אני זה לא איכפת לי</l>
+          <l>גם עלייך לוותר</l>
+          <l>כן תמיד כשאמרת לי לא</l>
+          <l>אני רציתי בך הרבה יותר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אף אחד לא יאמין בך</l>
+          <l>שתי טיפות שלו על צווארך</l>
+          <l>רק אני אני יכול לראות בך</l>
+          <l>שתי טיפות של אור על צווארך</l>
+          <l>את הולכת איך חשבתי</l>
+          <l>שמגיע לי הרבה יותר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבל אני זה לא איכפת לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

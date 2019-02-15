@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מסוחרר 2</title>
+        <singer classification="male singer">ליאור פרחי</singer>
+        <writer>מיקי מדר</writer>
+        <composer>מיקי מדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מסוחרר</head>
+        <lg number="1" type="stanza">
+          <l>איזו תקופה היתה לשנינו ביחד</l>
+          <l>עכשיו צריך להתמודד עם המצב</l>
+          <l>לכל מקום שאני הולך נכנס בי פחד</l>
+          <l>איך האביב שבחיי הפך לסתיו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את לא רואה מה את עושה</l>
+          <l>מסוחרר ממך ילדה</l>
+          <l>מרחף כמו שיכור</l>
+          <l>רק אותך רוצה לזכור</l>
+          <l>בואי והכל אתן לך</l>
+          <l>את האור שעלי זורח</l>
+          <l>לצידך אני פורח</l>
+          <l>אוהב אותך מאוד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לי אומרים הזמן מרפה ואני יוצא מדעת</l>
+          <l>כי אני דועך בכל יום שאני לא איתך</l>
+          <l>מה מסתתר בתוך ליבי, אינך יודעת</l>
+          <l>כל היקום אינו שווה אם אין אותך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את לא רואה מה את עושה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

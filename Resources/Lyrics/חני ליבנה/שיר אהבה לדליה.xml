@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר אהבה לדליה</title>
+        <singer classification="unknown">חני ליבנה</singer>
+        <writer>אהוד מנור</writer>
+        <composer>יוסף הדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר אהבה לדליה</head>
+        <lg number="1" type="stanza">
+          <l>בראשית היה לא כלום</l>
+          <l>גם לא מנגינה,</l>
+          <l>רק כאב פנימי עמום</l>
+          <l>שאת נפשי עינה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ופתאום במבטך</l>
+          <l>התנוצץ כוכב</l>
+          <l>וידעתי שביתך</l>
+          <l>הוא גם ביתי עכשיו.</l>
+          <l>ואם תאהבי אותי</l>
+          <l>לא ארפה ממך</l>
+          <l>לא ארפה עד יום מותי</l>
+          <l>ולא עד יום לכתך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא יודע איך ומה</l>
+          <l>אין לי שום הסבר</l>
+          <l>רק מרגיש בנשמה</l>
+          <l>אליך מתחבר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי פתאום במבטך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

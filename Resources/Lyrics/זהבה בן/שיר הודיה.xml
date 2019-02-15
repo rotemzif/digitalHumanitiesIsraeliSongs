@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הודיה</title>
+        <singer classification="female singer">זהבה בן</singer>
+        <writer>יוני רועה</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הודיה</head>
+        <lg number="1" type="stanza">
+          <l>זו המנגינה שאצלי בנשמה</l>
+          <l>זו האמונה שקיבלתי מתנה</l>
+          <l>זו ההצלחה שנותנת מנוחה</l>
+          <l>יש לי רק אותך שנתת את ידך</l>
+          <l>והלב אינו שוכח בזכותך האור זורח</l>
+          <l>זה אתה שלי פותח את השערים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז לך כן כן</l>
+          <l>אודה בשיר אמן</l>
+          <l>שאיתך כן כן</l>
+          <l>אמשיך להתקיים</l>
+          <l>רק איתך כן כן</l>
+          <l>איתך זה ייתכן</l>
+          <l>ולך כן כן אודה בשיר הלל</l>
+          <l>והלב אינו שוכח בזכותך האור זורח</l>
+          <l>זה אתה שלי פותח את השערים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זוהי הטיפה שהפכה לשיטפון</l>
+          <l>זו החשיפה שהגשימה לי חלום</l>
+          <l>יש לי בקשה ממך בורא מרום</l>
+          <l>זו ההצלחה תמשיך לזרום</l>
+          <l>והלב אינו שוכח בזכותך האור זורח</l>
+          <l>זה אתה שלי פותח את השערים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז לך כן כן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

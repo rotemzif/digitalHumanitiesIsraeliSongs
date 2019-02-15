@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דרושה אישה לחורף</title>
+        <singer classification="band">לולה</singer>
+        <writer>ירדן בר כוכבא</writer>
+        <composer>יסמין קידר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דרושה אישה לחורף</head>
+        <lg number="1" type="stanza">
+          <l>דרושה אישה לחורף - רצוי עגלגלה</l>
+          <l>עם חיבה לסריגים ותנור משלה</l>
+          <l>אפשר שיהיה לה סדין מפלאנל</l>
+          <l>צלחות למרק, סוכריות למשתעל</l>
+          <l>הרבה ממחטות, שיהיה גם מדחום</l>
+          <l>ותרמוס של תה בצבע כתום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שלא תהיה יפה במיוחד</l>
+          <l>ותואר ראשון הוא לא המדד</l>
+          <l>אני לא מחפש לי בת עשירים</l>
+          <l>רק שתדע לחבק בלילות הקרים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דרושה אישה לחורף</l>
+          <l>עם אפשרות הארכה</l>
+          <l>בקיץ נראה זאת לא הבטחה</l>
+          <l>דרושה אישה לחורף בלי חתול או כלבלב</l>
+          <l>יש לפנות במהירות כבר אמצע הסתיו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שלא תהיה יפה במיוחד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

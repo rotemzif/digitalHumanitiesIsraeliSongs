@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קללת הים</title>
+        <singer classification="male singer">יהודה פוליקר</singer>
+        <writer>סטאמאטיס פאפאסטמאטיו</writer>
+        <composer>missing</composer>
+        <album>עיניים שלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קללת הים</head>
+        <lg number="1" type="stanza">
+          <l>מפרש בודד, דייג נודד</l>
+          <l>ספינת חיי במים</l>
+          <l>אני בים אסיר עולם</l>
+          <l>ואת שבוייה בבית</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמו הדג ברשת</l>
+          <l>כמו ספינה טרופה</l>
+          <l>אהבה שלנו - מה יהיה סופה?</l>
+          <l>כמו סופה גועשת</l>
+          <l>כך קללת הים</l>
+          <l>אהבה נואשת - אהבת עולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלחם דל, גורל אומלל</l>
+          <l>רק מים ושמיים</l>
+          <l>קללת הים רובצת לעולם</l>
+          <l>עלי וגם עלייך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמו הדג ברשת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

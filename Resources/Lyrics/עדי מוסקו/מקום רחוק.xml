@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מקום רחוק</title>
+        <singer classification="unknown">עדי מוסקו</singer>
+        <writer>עדי מוסקו</writer>
+        <composer>מאיר חיים מזרחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מקום רחוק</head>
+        <lg number="1" type="stanza">
+          <l>רחוק ממני המקום </l>
+          <l>הולך ונעלם </l>
+          <l>שבילים לוחשים ומספרים </l>
+          <l>שהוא כבר לא קיים </l>
+          <l>האמנו ששיחקנו </l>
+          <l>שכך יהיה תמיד </l>
+          <l>מול פני העתיד צחקנו </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לפעמים הכל עובר חוזר אולי </l>
+          <l>מתנתק ומתחבר אלי</l>
+          <l>לפעמים תמונות חולפות ממול עיני</l>
+          <l>משחקים געגועי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאני רץ ומתחבא </l>
+          <l>לא ילד שנשבר </l>
+          <l>מקום אליו אני שייך </l>
+          <l>מקום רחוק, מקום נסתר </l>
+          <l>אותי לא יתפסו </l>
+          <l>יקחו אותי משם </l>
+          <l>עיניים שראו </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לפעמים הכל עובר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

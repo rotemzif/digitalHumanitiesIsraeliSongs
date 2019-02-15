@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בנק האהבה</title>
+        <singer classification="female singer">רינת בר</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בנק האהבה</head>
+        <lg number="1" type="stanza">
+          <l>החיים זה לא רק בורסה צא לרגע מהמתח </l>
+          <l>תן לנשמה לנוח לא הכל תלוי על רווח </l>
+          <l>אם באהבה תשקיע תראה אותי פורחת </l>
+          <l>ותדע לך זכית במניה הכי מוצלחת </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בנק האהבה פתוח גם ביום וגם בלילה </l>
+          <l>המדד הוא חום הלב כל המניות למעלה </l>
+          <l>ואהבתי חוזרת בגדול אתה יודע </l>
+          <l>כמה שתאהב אותי אני אוהב אותך פי מאה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>העולם צועק הצילו אנשים איבדו כל טעם </l>
+          <l>איך עדיין לא הבינו אין בלב מיתון אף פעם </l>
+          <l>תן להתעורר ביחד עם חיוך גדול בבוקר </l>
+          <l>זה שווה יותר מכסף מותק אין מחיר לאושר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בנק האהבה פתוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

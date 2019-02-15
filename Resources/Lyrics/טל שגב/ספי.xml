@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ספי 10</title>
+        <singer classification="male singer">טל שגב</singer>
+        <writer>שלמה פרי</writer>
+        <composer>טל שגב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ספי</head>
+        <lg number="1" type="stanza">
+          <l>ספי השמיע קול ותגיע</l>
+          <l>ספי תן סימן קטן שירגיע</l>
+          <l>ספי צא מתוך אותן תמונות</l>
+          <l>של שחור לבן ומלחמות</l>
+          <l>וספר לי שפחות</l>
+          <l>ספר לי שפחות כואב למעלה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פגישת מחזור בלי ספי עם כל החברים</l>
+          <l>השיער הלבין בינתיים השנים חרשו קמטים</l>
+          <l>מרימים כוסית של יין חיבוקים ונשיקות</l>
+          <l>רק אתה בתוך מסגרת עם אותן פנים יפות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ספי הם עברו ליד בלי לדעת</l>
+          <l>ספי הם ניסו לחדור בלי לגעת</l>
+          <l>ספי לא קולטים אותך - עבור!</l>
+          <l>התמונה קפאה נדלק האור</l>
+          <l>ספי לא השמיע קול</l>
+          <l>ספי לא השאיר סימן קטן שירגיע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פגישת מחזור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

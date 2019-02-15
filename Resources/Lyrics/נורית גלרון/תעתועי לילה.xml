@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תעתועי לילה</title>
+        <singer classification="female singer">נורית גלרון</singer>
+        <writer>נורית גלרון</writer>
+        <composer>יהודית רביץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תעתועי לילה</head>
+        <lg number="1" type="stanza">
+          <l>בלהט הרוחות, בין הגלוי לנסתר</l>
+          <l>כמו תעתועי לילה.</l>
+          <l>באור המתחלף, בין האפל למואר</l>
+          <l>כשזמן ממשיך הלאה, משתתקות המילים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה סוגר שוב עלי, כמו חלום שחוזר אלי.</l>
+          <l>איך מסביבינו, רוחשים אנשים בלי חום,</l>
+          <l>בלי תום, בלי פנים. איך נפשינו רוצה מחסה?</l>
+          <l>ואין עונה, אייהה.</l>
+          <l>ואין עונה, אייהה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>באור המשתנה, בין האסור למותר</l>
+          <l>כמו תעתועי לילה.</l>
+          <l>בתום הסערות, בין החולף לנשאר</l>
+          <l>כשזמן ממשיך הלאה, משתתקות המילים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה סוגר שוב עלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

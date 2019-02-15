@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זוזי 2</title>
+        <singer classification="male singer">דודו טסה</singer>
+        <writer>דודו טסה</writer>
+        <composer>דודו טסה</composer>
+        <album>בדיוק בזמן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זוזי</head>
+        <lg number="1" type="stanza">
+          <l>זוזי זוזי, נו תזוזי זוזי</l>
+          <l>נהיה לי חם</l>
+          <l>זוזי זוזי, נו תזוזי זוזי</l>
+          <l>אני נרדם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואם יהיה לי קר</l>
+          <l>אף אחד לא יעטוף אותי</l>
+          <l>בטח לא אני</l>
+          <l>בטח לא את</l>
+          <l>אולי אמא, אמא, אמא...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שובי שובי, נו תשובי שובי</l>
+          <l>נהיה עצוב</l>
+          <l>שובי שובי, נו תשובי שובי</l>
+          <l>הזמן שלנו קצוב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואם יהיה לי קר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פעם ידעתי הכל</title>
+        <singer classification="male singer">יהודה מסס</singer>
+        <writer>אהוד מנור</writer>
+        <composer>יהודה מסס</composer>
+        <album>מרזב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פעם ידעתי הכל</head>
+        <lg number="1" type="stanza">
+          <l>פעם ידעתי הכל, </l>
+          <l>אחר כך היה לי ספק, </l>
+          <l>עכשיו אני שותק. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פעם הבנתי הכל, </l>
+          <l>אחר כך התחלתי לתהות, </l>
+          <l>עכשיו הכל שטויות. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פעם ניסיתי הכל, </l>
+          <l>אחר כך היה לי חשש </l>
+          <l>עכשיו אני מותש. </l>
+          <l>פעם רציתי הכל, </l>
+          <l>אחר כך התחלתי לברור, </l>
+          <l>עכשיו עומד בתור.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

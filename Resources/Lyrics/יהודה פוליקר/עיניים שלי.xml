@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עיניים שלי 3</title>
+        <singer classification="male singer">יהודה פוליקר</singer>
+        <writer>ס. קויומדזיס</writer>
+        <composer>ס. קויומדזיס</composer>
+        <album>עיניים שלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עיניים שלי</head>
+        <lg number="1" type="stanza">
+          <l>אל תכעסי, עיניים שלי</l>
+          <l>קמתי ממך ללכת</l>
+          <l>ארץ אחרת</l>
+          <l>עיר שאין בה אותך</l>
+          <l>שם אתהלך בלי בית.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תחכי שנים אין ספור</l>
+          <l>פעם אשוב על כנף ציפור</l>
+          <l>יום עוד יבוא</l>
+          <l>בין כה וכה</l>
+          <l>סוף לנדודי יביא איתו.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תחכי עיניים שלי,</l>
+          <l>אש בדרכים שורפת,</l>
+          <l>טעם שפתייך</l>
+          <l>חום גופך בגופי,</l>
+          <l>כלום לא יאבד ממני.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תחכי שנים אין ספור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

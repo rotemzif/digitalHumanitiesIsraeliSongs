@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תגידו לה</title>
+        <singer classification="unknown">דודו אהרון</singer>
+        <writer>דודו אהרון</writer>
+        <composer>עממי בולגרי</composer>
+        <album>מילים פשוטות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תגידו לה</head>
+        <lg number="1" type="stanza">
+          <l>החיבוק המגע והחום בנשמה</l>
+          <l>שאיתו אני עף הכי גבוה</l>
+          <l>החיוך הגומות המבט הליטוף</l>
+          <l>ששובים את ליבי כל רגע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היא יודעת שהיא ממכרת אותי</l>
+          <l>לא יכול לצאת ממנה</l>
+          <l>מנסה לפתות ומצליחה</l>
+          <l>כל היום חושב עליה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תגידו לה שיש בחור שמבקש</l>
+          <l>להיות האיש הכי קרוב אליה</l>
+          <l>תגידו לה שאם היא לא היא לא תסכים</l>
+          <l>אני הולך כאן לנצח</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>החיבור שנוצר רק ביני לבינה</l>
+          <l>והרגשות של שנינו</l>
+          <l>לא יכול לחכות עוד דקה לפחות</l>
+          <l>אני חייב לרוץ אליה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>היא יודעת שהיא ממכרת אותי</l>
+          <l>לא יכול לצאת ממנה</l>
+          <l>מנסה לפתות ומצליחה</l>
+          <l>כל היום חושב עליה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

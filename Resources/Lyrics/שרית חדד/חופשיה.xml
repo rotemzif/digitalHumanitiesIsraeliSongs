@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חופשיה 5</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>הנרי</writer>
+        <composer>הנרי</composer>
+        <album>זה ששומר עלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חופשיה</head>
+        <lg number="1" type="stanza">
+          <l>עכשיו כשפתחו את הדרך אל הים</l>
+          <l>אני רוצה להצטרף אל כולם, </l>
+          <l>וללכת בלעדיך</l>
+          <l>אני רוצה להתעטף בכל הבגדים </l>
+          <l>שלא לבשתי שנים</l>
+          <l>לפתוח לרווחה תריסים חלודים</l>
+          <l>ולצרוח.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רוצה להיות חופשייה</l>
+          <l>לא תלויה באהבה</l>
+          <l>או בכסף או במקום</l>
+          <l>מילים שאמרתי</l>
+          <l>קטנות ממני היום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הזמן שלי מתפזר.</l>
+          <l>אישה בימינו, תמיד אמרת, </l>
+          <l>צריכה להסתדר</l>
+          <l>ואם יש לי על מה להצטער</l>
+          <l>זה רק על זה שלא עשיתי</l>
+          <l>את זה מוקדם יותר</l>
+          <l>שלא הסתכלתי לך בעיניים</l>
+          <l>שלא העזתי להגיד לך </l>
+          <l>אני ממשיכה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רוצה להיות חופשייה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

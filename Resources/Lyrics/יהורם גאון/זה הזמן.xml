@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה הזמן 12</title>
+        <singer classification="male singer">יהורם גאון</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה הזמן</head>
+        <lg number="1" type="stanza">
+          <l>ישנם זמנים של איש לאוהליך</l>
+          <l>זמנים של איש תחת תאנתו</l>
+          <l>אך יש ימים בהם קמים עליך</l>
+          <l>לבל איש לא יוכל לשמור ביתו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה הזמן, זה הזמן</l>
+          <l>לחזור להיות אנחנו</l>
+          <l>זה הזמן זה הזמן</l>
+          <l>לזכור מה ששכחנו</l>
+          <l>לא אני ולא אתה </l>
+          <l>נשנה את העולם</l>
+          <l>לא אני ולא אתה </l>
+          <l>אלא אנחנו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הן עץ לבד לא יעמוד בסערה</l>
+          <l>ושורשיו לא יחזיקו מעמד</l>
+          <l>אך אם תפגע הסערה ביער</l>
+          <l>היא לא תפיל אפילו עץ אחד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה הזמן, זה הזמן...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>קשה לצעוד בדרך בה הלכנו</l>
+          <l>והנתיב היום עפוף בערפל</l>
+          <l>ולפעמים בלילה בלי ירח</l>
+          <l>אינך מכיר את ארץ ישראל</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה הזמן, זה הזמן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

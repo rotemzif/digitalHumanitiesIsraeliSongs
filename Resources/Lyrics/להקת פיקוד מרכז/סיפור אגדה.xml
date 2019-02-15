@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סיפור אגדה</title>
+        <singer classification="unknown">להקת פיקוד מרכז</singer>
+        <writer>חמוטל בן זאב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סיפור אגדה</head>
+        <lg number="1" type="stanza">
+          <l>וזה עוד לילה בלי שינה</l>
+          <l>באויר נקי</l>
+          <l>כך היא טעונה</l>
+          <l>מתוך דבקות שכמותה</l>
+          <l>בעוצמת אחדותה</l>
+          <l>כי שם אדם לאדם</l>
+          <l>הוא חבר לעולם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ונדמה לי שזאת משפחה</l>
+          <l>יחידה במינה, ראשונה</l>
+          <l>בכומתה האדומה</l>
+          <l>משימה מושלמת עד תומה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>והמטען מושך אותך </l>
+          <l>חרף הפחדים</l>
+          <l>אופל מסביבך</l>
+          <l>וכך אתה לבדך</l>
+          <l>כי הקשר שלך</l>
+          <l>לכל חבר ביחידה</l>
+          <l>הוא סיפור אגדה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ונדמה לי שזאת משפחה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואם חדרה בך תחושה</l>
+          <l>שאתה שייך</l>
+          <l>דע שהם בורכו</l>
+          <l>בסוד נדיר של אהבה</l>
+          <l>רגש גאוה</l>
+          <l>וזאת מסורת גבורה</l>
+          <l>בזכותה של צניחה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ונדמה לי שזאת משפחה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

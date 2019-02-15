@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>על גבול הצפון</title>
+        <singer classification="male singer">שימי רון</singer>
+        <writer>דני שושן</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>על גבול הצפון</head>
+        <lg number="1" type="stanza">
+          <l>על גבול הצפון אני מוצב</l>
+          <l>שולח לך תמונת מצב</l>
+          <l>יכול להיות שאחזור לשבת</l>
+          <l>אז חכי לי רק עוד מעט</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל שבוע שעובר</l>
+          <l>הגעגוע בי גובר</l>
+          <l>ד"ש חם לך אני מוסר</l>
+          <l>על הכל עוד אתגבר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>על גבול הצפון בלילה קר</l>
+          <l>באהבה שלך אני נזכר</l>
+          <l>בחום גופך הקור לא צורב</l>
+          <l>כמה שחם לי וטוב לי על הלב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל שבוע שעובר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>על גבול הצפון על המשמר</l>
+          <l>לילה שקט עלי עבר</l>
+          <l>השחר בא ואיתו אור תקווה</l>
+          <l>רוצה אותך רוצה קצת אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כל שבוע שעובר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

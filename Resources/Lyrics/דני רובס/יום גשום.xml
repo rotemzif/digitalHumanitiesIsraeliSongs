@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יום גשום</title>
+        <singer classification="male singer">דני רובס</singer>
+        <writer>דני רובס</writer>
+        <composer>דני רובס</composer>
+        <album>משהו חדש מתחיל</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יום גשום</head>
+        <lg number="1" type="stanza">
+          <l>גשם בא, מלבה</l>
+          <l>ושוטף את כל החדר</l>
+          <l>תדר בלי סיבה</l>
+          <l>בחובה מהדהד פתאום, מעליה</l>
+          <l>יום גשום, תריס אטום</l>
+          <l>שערה נושק למצח</l>
+          <l>נצח כמו חלף</l>
+          <l>כמו שטף את כל העצבות מעיניה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>"תיכנס כבר בטח קפוא שם בחוץ</l>
+          <l>כל חיי רק חיכיתי לך</l>
+          <l>תתיישב אל מול התנור הבוער</l>
+          <l>ותפשיר את העצב שלך</l>
+          <l>העתיד, הקשר ששנינו שומרים</l>
+          <l>כל חיינו עד כלות הכוחות</l>
+          <l>כי אתה האיש שלי, אני שלך</l>
+          <l>בחיבור אינסופי, לא פחות..."</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הוא עובר בחצר, נעצר, מביט בדלת,</l>
+          <l>שלט בו כתוב: "בוא אהוב</l>
+          <l>אין בי היסוסים, יש רק חוזק..."</l>
+          <l>יום גשום, תריס אטום ונוגעות שפתיים</l>
+          <l>זרם טרם יתפשטו</l>
+          <l>יתפתו לשלמות הגוף ולעונג</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תיכנס כבר...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>גשם בא, מלבה ולבו מכור אליה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

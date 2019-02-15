@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש פרחים</title>
+        <singer classification="female singer">דורית ראובני</singer>
+        <writer>נתן יונתן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש פרחים</head>
+        <lg number="1" type="stanza">
+          <l>הראית איזה יופי</l>
+          <l>שרעד ברוח סתיו,</l>
+          <l>שדה זהב דעך באופל</l>
+          <l>והדליק נרות חצב.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הראית איזה אודם</l>
+          <l>שצעק למרחקים,</l>
+          <l>שדה דמים היה שם קודם</l>
+          <l>ועכשיו הוא שדה פרגים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אל תקטוף, נערי,</l>
+          <l>יש פרחים שבני חלוף</l>
+          <l>יש פרחים שעד אינסוף</l>
+          <l>נשארים במנגינה.</l>
+          <l>אל תקטוף נערי,</l>
+          <l>יש פרחים שבני חלוף</l>
+          <l>יש פרחים שעד אינסוף</l>
+          <l>עם המנגינה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הראית מה השחיר שם?</l>
+          <l>שדה קוצים הוא, נערי,</l>
+          <l>שהיה עזוב בקיץ</l>
+          <l>ועכשיו הוא שדה חריש.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הראית מה הלובן?</l>
+          <l>נערי, זה שדה בוכים,</l>
+          <l>דמעותיו הפכו לאבן</l>
+          <l>אבניו בכו פרחים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אל תקטוף, נערי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

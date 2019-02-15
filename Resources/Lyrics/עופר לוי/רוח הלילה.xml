@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוח הלילה</title>
+        <singer classification="male singer">עופר לוי</singer>
+        <writer>יוני רועה</writer>
+        <composer>עממי טורקי</composer>
+        <album>ציפור השמש</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוח הלילה</head>
+        <lg number="1" type="stanza">
+          <l>הנשמה שבי סוערת</l>
+          <l>כמו גלים בזעף ים</l>
+          <l>הנחמה שלי רוחקת</l>
+          <l>הלכה ולא נשאר סימן</l>
+          <l>נפשי קורסת פצועה רוחשת</l>
+          <l>לילה לא לילה ומה בכלל</l>
+          <l>אותך ידעתי כל שחלמתי</l>
+          <l>רוח הלילה סובב ושר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שובי אלי זועק ליבי</l>
+          <l>שובי אל ימי מאור דרכי</l>
+          <l>אין בי שקט ימי ריקים</l>
+          <l>שובי אלי הו נשמתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הדממה אותי חונקת</l>
+          <l>סביבי הכל כמו מדבר</l>
+          <l>האהבה עודה רוחקת</l>
+          <l>הלכה ולא נשאר סימן</l>
+          <l>נפשי חולמת וכה נכספת</l>
+          <l>הכל נתתי ומה נשאר</l>
+          <l>איתך אהבתי ולא חשבתי</l>
+          <l>שתשכחי מן העבר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שובי אלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

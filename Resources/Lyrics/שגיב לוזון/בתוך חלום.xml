@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בתוך חלום</title>
+        <singer classification="unknown">שגיב לוזון</singer>
+        <writer>שגיב לוזון</writer>
+        <composer>שימי לוזון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בתוך חלום</head>
+        <lg number="1" type="stanza">
+          <l>את היחידה שאני אוהב</l>
+          <l>ורק עלייך אני חושב</l>
+          <l>את הכוח של חיי</l>
+          <l>והכוכב בלילותי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את האהבה שמטריפה</l>
+          <l>את החלום והתקווה</l>
+          <l>שמניע את חושי</l>
+          <l>ומאיר לי את ימי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כל הזמן אני ואת בתוך חלום</l>
+          <l>רק אותך אני רוצה בכל מקום</l>
+          <l>כי הדרך לליבך קרובה ודאי</l>
+          <l>ובסוף את תכנסי לתוך חיי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לך את כל שירי אני כותב</l>
+          <l>ואת האושר שבלב</l>
+          <l>האהבה שבי גדולה</l>
+          <l>כי את בתוך הנשמה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לך את סודותי רק מספר</l>
+          <l>והגחל שבי בוער</l>
+          <l>שלחתי לך במתנה</l>
+          <l>חיוך גדול ואהבה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כל הזמן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

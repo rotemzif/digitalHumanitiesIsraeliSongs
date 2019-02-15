@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את 463</title>
+        <singer classification="male singer">רגב הוד</singer>
+        <writer>אלון צדוק</writer>
+        <composer>דודו אהרון</composer>
+        <album>נשבענו</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את</head>
+        <lg number="1" type="stanza">
+          <l>אין אחד שרוצה יותר ממני</l>
+          <l>ללכת איתך עד הסוף</l>
+          <l>את מלאך שנשלח לי מלמעלה</l>
+          <l>רק אותך רוצה לאהוב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את מתוקה כשאת צוחקת</l>
+          <l>ואני רוצה רק בך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את מדהימה את משגעת</l>
+          <l>ואני רוצה לגעת</l>
+          <l>ולתת את כל כולי</l>
+          <l>כי את המזל שלי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אין אחת שיודעת בי לגעת</l>
+          <l>כמו שאת נגעת בליבי</l>
+          <l>נשיקה קטנה שלך אוהבת</l>
+          <l>משנה את כל עולמי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את מתוקה כשאת צוחקת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

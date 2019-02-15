@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחרי הגשם 3</title>
+        <singer classification="unknown">עמית חיו</singer>
+        <writer>עמית חיו</writer>
+        <composer>עמית חיו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחרי הגשם</head>
+        <lg number="1" type="stanza">
+          <l>חוויות אחרי הגשם מעלות בי זיכרונות.</l>
+          <l>יש בדרך גם שונות ממך,</l>
+          <l>ממשיך בדרכי שלא הכרתי</l>
+          <l>ושוב שומע</l>
+          <l>רשרוש של פסיעות הולכות וקרבות,</l>
+          <l>אני בורח.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אש, אש, אש, אש, אש עולה בלהבות</l>
+          <l>אש, אש, אש, אש, מחדירה בי זיכרונות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קופאי עומד מודיע קח לך את קו אחת</l>
+          <l>ובדרך מחשבות עולות</l>
+          <l>פוחד מהשביל עליו הלכתי</l>
+          <l>ושוב שומע</l>
+          <l>דמעות של אתמול הולכות וקרבות,</l>
+          <l>אני צורח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אש, אש, אש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

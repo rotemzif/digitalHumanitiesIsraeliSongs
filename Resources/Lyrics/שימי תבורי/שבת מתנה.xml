@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שבת מתנה</title>
+        <singer classification="male singer">שימי תבורי</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>אביהו מדינה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שבת מתנה</head>
+        <lg number="1" type="stanza">
+          <l>אחכה ימים שישה</l>
+          <l>לבואה של המלכה</l>
+          <l>לא עמל לא דאגה</l>
+          <l>ולא עצב ותוגה</l>
+          <l>כי ביום זה יום שבת</l>
+          <l>זמירות לאל אשא</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אזמר בקולי</l>
+          <l>וההד עונה לי</l>
+          <l>אודה לאל אלי הטוב</l>
+          <l>השבת נתנה </l>
+          <l>לעמו מתנה</l>
+          <l>לכל נפש מנוחה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בתפילה בה נבקש</l>
+          <l>את כוחנו לחדש</l>
+          <l>כי כוחנו פנה </l>
+          <l>בימים שישה</l>
+          <l>אך ביום זה יום שבת</l>
+          <l>נהללה ונקדשה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אזמר בקולי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

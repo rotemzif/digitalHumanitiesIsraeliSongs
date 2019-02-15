@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קלו רגליים</title>
+        <singer classification="male singer">רן אלירן</singer>
+        <writer>אהרון שפי</writer>
+        <composer>יוסף ספיבק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קלו רגליים</head>
+        <lg number="1" type="stanza">
+          <l>קלו קלו רגלים</l>
+          <l>פעמי מחול ישעטו</l>
+          <l>יין נשתה לחיים</l>
+          <l>ונשיר בקול</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הי נרקודה</l>
+          <l>יד אל יד נושיטה</l>
+          <l>חג לנו חג היום</l>
+          <l>נצאה במחול</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

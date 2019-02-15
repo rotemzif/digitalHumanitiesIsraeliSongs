@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גברים קשוחים</title>
+        <singer classification="male singer">יהודה פוליקר</singer>
+        <writer>יהודה פוליקר</writer>
+        <composer>missing</composer>
+        <album>כל דבר מזכיר לי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גברים קשוחים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>גברים קשוחים שלא בוכים</l>
+          <l>כבר לא תמצא בינינו, לא </l>
+          <l>גברים קשוחים לובשים מדים</l>
+          <l>ומגנים עלינו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גברים קשוחים אחים לדם</l>
+          <l>תמיד רצים קדימה</l>
+          <l>בג'בלאות של החיים</l>
+          <l>כל עוד בלבב פנימה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גברים קשוחים מתים חיים</l>
+          <l>בשדות הפקר שלנו</l>
+          <l>פרחים יפים של אלוהים</l>
+          <l>קטופים פורחים הם בנו </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גברים קשוחים שלא בוכים</l>
+          <l>כבר לא תמצא בינינו, לא </l>
+          <l>גברים קשוחים לובשים מדים</l>
+          <l>ומגנים עלינו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

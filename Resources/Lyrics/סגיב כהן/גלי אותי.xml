@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גלי אותי</title>
+        <singer classification="male singer">סגיב כהן</singer>
+        <writer>ירמי כהן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גלי אותי</head>
+        <lg number="1" type="stanza">
+          <l>אם את רוצה לראות </l>
+          <l>כאב אמיתי, שחר פנימי לשמוע </l>
+          <l>צעקה מחרידה ללא קול </l>
+          <l>אם את רוצה לראות </l>
+          <l>בדידות מפליאה עצבות מרקיעה </l>
+          <l>לשמוע צעקה לשמיים שכבר לא עונים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז קחי אותי בזרועותייך </l>
+          <l>ודרך עיני הבוכיות גלי אותי </l>
+          <l>לפני שאלך לדרך שכולה ייסורים </l>
+          <l>ללא חרטה גלי אותי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם את רוצה לראות </l>
+          <l>תמימות שאבדה נעורים שברחו </l>
+          <l>קריאה נואשת למי שכבר איננה לי </l>
+          <l>אם את רוצה לראות </l>
+          <l>כאב אמיתי שחר פנימי לשמוע </l>
+          <l>צעקה מחרידה ללא קול יוצאת מתוכי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז קחי אותי... </l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

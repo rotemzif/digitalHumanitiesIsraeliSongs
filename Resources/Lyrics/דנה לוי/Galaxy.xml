@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Galaxy</title>
+        <singer classification="unknown">דנה לוי</singer>
+        <writer>דנה לוי</writer>
+        <composer>דנה לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Galaxy</head>
+        <lg number="1" type="stanza">
+          <l>This color in the sky drives me out of my mind</l>
+          <l>Not blue not green, something in-between</l>
+          <l>Shaking my soul, and I wonder</l>
+          <l>yeah I wonder</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>And there's a blue fluid light spilling out of the sky</l>
+          <l>And a trail of pearls welcomes me by</l>
+          <l>From one galaxy to another galaxy to another one </l>
+          <l>From one galaxy to another galaxy to another one </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>I am a dot spotlight that’s spinning around space and time</l>
+          <l>From one galaxy to another galaxy to another one</l>
+          <l>And I no longer have to carry my heavy weight around</l>
+          <l>No, I no longer have to carry my weight around</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>But there's a color in the sky</l>
+          <l>drives me out of my mind</l>
+          <l>The speed of light, it's all around </l>
+          <l>I'm travelling about</l>
+          <l>From one star to another one</l>
+          <l>And there's a trail of pearls, its leading me up</l>
+          <l>From one galaxy to another galaxy to another one </l>
+          <l>From one galaxy to another galaxy to another one </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>I am a dot spotlight that’s spinning around space and time</l>
+          <l>From one galaxy to another galaxy to another one</l>
+          <l>And I no longer have to carry my heavy weight around</l>
+          <l>No, I no longer have to carry my weight around</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חיים משוגעים</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>שמואל אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חיים משוגעים</head>
+        <lg number="1" type="stanza">
+          <l>אין חכם בעיר הזאת</l>
+          <l>שיכול עכשיו לומר לי</l>
+          <l>מה יהיה היום ומה מחר</l>
+          <l>יש אחת בעיר הזאת</l>
+          <l>שאת הגורל שינתה לי </l>
+          <l>יש לה ראש שאין לאף אחת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי יש לך את החלומות שיש לי</l>
+          <l>לצחוק איתך זה כיף לי</l>
+          <l>נעשה חיים משוגעים ביום וגם בלילה</l>
+          <l>זה קולך אשר מרגיע כמו הגשם שמופיע</l>
+          <l>אחרי בצורת ארוכה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בואי נסע קצת לאילת</l>
+          <l>אם לא אילת אז טבריה</l>
+          <l>בואי נברח מכל הבלגן</l>
+          <l>לא אכפת לי מה אומרים </l>
+          <l>ההורים מתוך היסטוריה</l>
+          <l>שאנחנו זוג קצת לא מובן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי יש לך את החלומות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

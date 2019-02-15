@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלו נינו</title>
+        <singer classification="male singer">נינו אורסיאנו</singer>
+        <writer>נינו אורסיאנו</writer>
+        <composer>נינו אורסיאנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלו נינו</head>
+        <lg number="1" type="stanza">
+          <l>שלום הגעתם לביתו של נינו אורסיאנו</l>
+          <l>אני לא בבית ואפשר להשאיר הודעות</l>
+          <l>לאחר השמע הצילצול...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הלו נינו - הלו </l>
+          <l>הלו נינו - הלו </l>
+          <l>הלו נינו - הלו </l>
+          <l>נינו אתה ישן? הלו </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נינו אתה ישן? יתכן </l>
+          <l>דרך אגב, הצעה לי אליך </l>
+          <l>להרחיב את המעגל החברתי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואתה יודע איך? </l>
+          <l>אם לאן, עד מתי, היכן... </l>
+          <l>תודה נינו מואהה </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני לא בוניטה, לא לוליטה, </l>
+          <l>לא חוניטה, רק אניטה </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הלו נינו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

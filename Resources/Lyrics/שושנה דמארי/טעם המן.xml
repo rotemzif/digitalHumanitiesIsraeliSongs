@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טעם המן</title>
+        <singer classification="female singer">שושנה דמארי</singer>
+        <writer>יצחק נבון</writer>
+        <composer>יצחק נבון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טעם המן</head>
+        <lg number="1" type="stanza">
+          <l>גיזרתך - תבנית נוגה,</l>
+          <l>ריחה נרד ובמור סוגה,</l>
+          <l>שפתותיך ארגמן,</l>
+          <l>ניבן - בינות, טעמן - מן.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>טעם המן, המן, המן,</l>
+          <l>אם יסופר לא יאומן.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>צוף, תירוש, חלב ודבש</l>
+          <l>לא ירווני, חיכי יבש,</l>
+          <l>עת אשק שפתותיך</l>
+          <l>תשקיני עדנייך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>טעם המן...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בת שירתי, עופי נא</l>
+          <l>אל תמתי כיונה.</l>
+          <l>ברה הינה כחמה,</l>
+          <l>ליוית חן נעימה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>טעם המן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

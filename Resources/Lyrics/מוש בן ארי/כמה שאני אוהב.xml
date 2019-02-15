@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה שאני אוהב</title>
+        <singer classification="male singer">מוש בן ארי</singer>
+        <writer>מוש בן ארי</writer>
+        <composer>מוש בן ארי</composer>
+        <album>דרך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה שאני אוהב</head>
+        <lg number="1" type="stanza">
+          <l>מסתובב ברחוב קרוב לא קרוב</l>
+          <l>דמויות עוברות מול עיני על נחל חיי</l>
+          <l>והיום סוער הוא אינו מתפשר</l>
+          <l>על מה היה פה לפני ומה עוד יקרה</l>
+          <l>ואז נורות מצוקה ומחוסר ברירה</l>
+          <l>נכנס לתוך לתוך הוויה</l>
+          <l>וזאת תקופה ארוכה</l>
+          <l>שאני קורא וכשאני קורא</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שוב הלילה מתגנב כמו שועל ומסתלסל</l>
+          <l>אל חלוני כוכב מציץ ואל ירח אקרא דמותה</l>
+          <l>כמה שאני אוהב אותה כמה שאני אוהב אותה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ושוב הריח מזכיר חלומות מעבר</l>
+          <l>על אותם רגעים של תמימות זה נגמר</l>
+          <l>על חלומות מתוקים עטופים בצבעים</l>
+          <l>על פני האדמה עם אותה נשימה</l>
+          <l>אל הדרך נצעד ודאי לא אהיה לבד</l>
+          <l>מקומות נקיים עם צחוק ילדים</l>
+          <l>ואז אני אקרא כשאני אקרא</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ושוב הלילה מתגנב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

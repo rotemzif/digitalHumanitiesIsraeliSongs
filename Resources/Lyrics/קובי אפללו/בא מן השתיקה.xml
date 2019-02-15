@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בא מן השתיקה</title>
+        <singer classification="male singer">קובי אפללו</singer>
+        <writer>קובי אפללו</writer>
+        <composer>קובי אפללו</composer>
+        <album>בא מן השתיקה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בא מן השתיקה</head>
+        <lg number="1" type="stanza">
+          <l>וחולם על עץ הזית בגינה</l>
+          <l>ובצילו יושב הדשא</l>
+          <l>ורואה שם פרח ואולי זו את</l>
+          <l>מכוסה באור יופיו בעצם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל אשר אני אומר עכשיו </l>
+          <l>זה עוד ירגיש בכל מצב </l>
+          <l>כמו שאלה שקטה</l>
+          <l>עוד השיר המתנגן באור</l>
+          <l>בצליל מיתר שירת מינור</l>
+          <l>זה בא מן השתיקה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מאזן ברצונות אנושיים </l>
+          <l>את ההגיון ואת הרגש</l>
+          <l>מבקש בתפילותיי מאלוקים</l>
+          <l>הבנה של דעת ושל שקט.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל אשר אני אומר עכשיו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לפעמים השיר אומר במנגינה</l>
+          <l>ומתבטא יותר טוב זו הדרך</l>
+          <l>כי הרי כל צליל שבא במתנה</l>
+          <l>מקבל חיות ויש לו ערך.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כל אשר אני אומר עכשיו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

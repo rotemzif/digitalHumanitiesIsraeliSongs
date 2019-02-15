@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אש הקנאה</title>
+        <singer classification="unknown">חוה דולב</singer>
+        <writer>דני שושן</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אש הקנאה</head>
+        <lg number="1" type="stanza">
+          <l>אל תשחק ברגשותי</l>
+          <l>לך נתתי אהבת אמת</l>
+          <l>איתה עברת אל מול עיני</l>
+          <l>איך הימים עוברים לי</l>
+          <l>כל כך ריקים וקרים</l>
+          <l>ורק הדממה אותי עוטפת</l>
+          <l>כל כך קשה לי לבדי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בלי חלומות, בלי ריגושים</l>
+          <l>רק השקט חודר ומכה בי</l>
+          <l>לו רק ידעתי במה טעיתי</l>
+          <l>אבקש סליחתך, אנא חזור אהובי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך הלילות עוברים לי</l>
+          <l>נפשי סוערת בתוכי</l>
+          <l>ושוב החשיכה אותי עוטפת</l>
+          <l>איך שנמוגה אהבתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בלי חלומות, בלי ריגושים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

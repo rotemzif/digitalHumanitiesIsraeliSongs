@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הבו זמר</title>
+        <singer classification="unknown">דוד שני</singer>
+        <writer>דב זמיר</writer>
+        <composer>דוד שני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הבו זמר</head>
+        <lg number="1" type="stanza">
+          <l>הבו הבו זמר</l>
+          <l>הבו קצב להט אש</l>
+          <l>הלאה ממר,</l>
+          <l>הלאה עצב מייאש.</l>
+          <l>הבו, הבו זמר</l>
+          <l>הבו קצב להט אש</l>
+          <l>נתלכדה במחול גועש.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הבו, הבו, הבו זמר</l>
+          <l>קצב להט אש</l>
+          <l>נתלכדה, ניתלכדה,</l>
+          <l>במחול גועש.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ככה, ככה, ככה,</l>
+          <l>בלהבות שכורי חלום</l>
+          <l>ריב נשכחה,</l>
+          <l>אח אל אח יקרא שלום.</l>
+          <l>ככה, ככה, ככה,</l>
+          <l>בלבבות שכורי חלום</l>
+          <l>לב אחד פה יהלום.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הבו, הבו, הבו זמר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נשתכרה, נשתכר משפע, שפע אור</l>
+          <l>נסתחררה</l>
+          <l>נסתחרר במחול הדרור</l>
+          <l>נשתכרה, נשתכר משפע, שפע אור</l>
+          <l>נזמר עד בוקר אור.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הבו, הבו, הבו זמר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

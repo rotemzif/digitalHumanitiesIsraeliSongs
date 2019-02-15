@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לוקחת הכל</title>
+        <singer classification="unknown">טוקה</singer>
+        <writer>טוקה</writer>
+        <composer>טוקה</composer>
+        <album>הווה אחר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לוקחת הכל</head>
+        <lg number="1" type="stanza">
+          <l>יש רק צד אחד בסיפור האהבה הזה</l>
+          <l>את יושבת בצד עם סיגריה בזווית הפה</l>
+          <l>"השתניתי" את אומרת בחיוך מודע</l>
+          <l>"אני כבר לא מה שהייתי, לא אותו הדבר"</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את לוקחת הכל (מובן מאליו) רק את פה קיימת</l>
+          <l>ציירת לי תמונה של נוף (ראיתי אותך) את באמצע רוקדת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וכתבת לי מכתב כולו פילוסופיה, על תורת חיים חדשה של איזה מלאך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז הנה צד שני בסיפור האהבה הזה</l>
+          <l>הוא חזה את הכל כשישבתם אז לקפה</l>
+          <l>תשתני הוא אמר לך בחיוך מודע</l>
+          <l>בהצגה כבר היית, רק הבמה השתנתה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את לוקחת הכל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

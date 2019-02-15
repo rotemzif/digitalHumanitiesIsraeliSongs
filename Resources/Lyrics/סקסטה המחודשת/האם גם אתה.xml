@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האם גם אתה</title>
+        <singer classification="unknown">סקסטה המחודשת</singer>
+        <writer>פנינה בריק</writer>
+        <composer>יורם צדוק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האם גם אתה</head>
+        <lg number="1" type="stanza">
+          <l>איך לא הרגשת כשעברת לידי,</l>
+          <l>איך לא שמת לב?</l>
+          <l>איך נשכחו כל הימים לצידי</l>
+          <l>ואני עוד מלאה בכאב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איך שחלפת ממש לידי,</l>
+          <l>נראית מאושר</l>
+          <l>הבנתי שאחרת תפסה מקומי</l>
+          <l>והרגשתי נטע זר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>האם גם אתה עצוב לפעמים?</l>
+          <l>האם גם אתה חושב עלי?</l>
+          <l>האם גם לך יש כמה רגעים</l>
+          <l>שחייך נפגשים בחיי?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>וכשראיתי אותך במקרה</l>
+          <l>עובר ברחוב איתה</l>
+          <l>הלב שלי החסיר פעימה,</l>
+          <l>כמה שהיא יפה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>האם גם אתה עצוב לפעמים...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כי אין יום ואין מקום,</l>
+          <l>חסר לי בלעדייך...</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>האם גם אתה עצוב לפעמים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

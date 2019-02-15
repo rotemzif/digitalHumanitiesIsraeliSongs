@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את אינך זוכרת</title>
+        <singer classification="unknown">מיכה שקד</singer>
+        <writer>שמרית אור</writer>
+        <composer>מיכה שקד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את אינך זוכרת</head>
+        <lg number="1" type="stanza">
+          <l>את אינך זוכרת</l>
+          <l>במשעול היינו יורדים לאט עם ערב  </l>
+          <l>מול כוכב טווים חלום זהב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את אינך זוכרת</l>
+          <l>כמו אתמול, הרוח אותו נתיב עוברת</l>
+          <l>במשב, גם אז וגם עכשיו</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יום ולילה, יום ולילה בא למעונך,</l>
+          <l>יום ולילה, יום ולילה בא והולך,</l>
+          <l>יום ולילה, יום ולילה אין מענה</l>
+          <l>תריס מוגף, סגורה הדלת</l>
+          <l>יום ולילה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את אינך זוכרת</l>
+          <l>מיותם העץ שידע שבועה אחרת</l>
+          <l>כשגילה את לב האהבה.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את אינך זוכרת</l>
+          <l>ונותר בי חץ, חץ פוגע למזכרת</l>
+          <l>לעולם שוב לא אדע שלוה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יום ולילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

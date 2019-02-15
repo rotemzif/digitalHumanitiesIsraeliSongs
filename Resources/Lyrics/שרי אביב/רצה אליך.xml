@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רצה אליך</title>
+        <singer classification="unknown">שרי אביב</singer>
+        <writer>נועם שלומי</writer>
+        <composer>נועם שלומי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רצה אליך</head>
+        <lg number="1" type="stanza">
+          <l>רק אתמול היית כאן</l>
+          <l>והיום אינך מוכן</l>
+          <l>ברגע השתנית ולא השבת לי מבט</l>
+          <l>רק אתמול צחקנו יחד</l>
+          <l>על אותם דברים והיום אתה רחוק ממני</l>
+          <l>ושוכח הכל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רצה אליך, בלעדיך לא מסוגלת ומשתגעת כל כך</l>
+          <l>רוצה לדעת ולגעת, רוצה לשמוע שאתה מתגעגע אלי, אלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק אתמול אתה שלי והיום לא בשבילי</l>
+          <l>ברגע קט שכחת מי אני אני</l>
+          <l>מלכה שלך, אהובי</l>
+          <l>והיום אתה רחוק ממני ושוכח הכל </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רצה אליך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

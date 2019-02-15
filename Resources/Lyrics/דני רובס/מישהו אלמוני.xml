@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מישהו אלמוני</title>
+        <singer classification="male singer">דני רובס</singer>
+        <writer>דני רובס</writer>
+        <composer>דני רובס</composer>
+        <album>משהו חדש מתחיל</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מישהו אלמוני</head>
+        <lg number="1" type="stanza">
+          <l>כשמסביב שקט פתאום</l>
+          <l>שר איזה קול פנימי:</l>
+          <l>"טוב להיות איש מהצד</l>
+          <l>מישהו אלמוני"</l>
+          <l>ההמולה - לא בשבילי...</l>
+          <l>(שר איזה קול פנימי)...</l>
+          <l>התהילה - זה אווילי</l>
+          <l>מישהו אלמוני</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ככה אני...</l>
+          <l>כי מהצד רואים ברור וצבעוני</l>
+          <l>ולא בוער לי כלום - בינתיים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קצת מגושם בין חברים</l>
+          <l>לא כל כך חינני</l>
+          <l>גם הלילות לא מסעירים</l>
+          <l>מישהו אלמוני</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ככה אני...</l>
+          <l>כי מהצד רואים ברור וצבעוני</l>
+          <l>ולא בוער לי כלום עדיין</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כשמסביב שקט פתאום</l>
+          <l>שר איזה קול פנימי:</l>
+          <l>"טוב להיות איש מהצד</l>
+          <l>מישהו אלמוני"</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

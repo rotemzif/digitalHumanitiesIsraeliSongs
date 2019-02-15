@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה הזמן 20</title>
+        <singer classification="unknown">עוז חכימי</singer>
+        <writer>עוז חכימי</writer>
+        <composer>עוז חכימי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה הזמן</head>
+        <lg number="1" type="stanza">
+          <l>המחשבות נדחקות לפינה</l>
+          <l>תראי אותנו מרכז ההצגה</l>
+          <l>כולנו סביבנו כאן מפנטזים</l>
+          <l>אהובתי יצאנו לחיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה הזמן לחגיגה</l>
+          <l>זה הזמן למסיבה </l>
+          <l>זה הזמן עם כולם ברחבה </l>
+          <l>יאללה בלגן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה מלמעלה שנאהב לתמיד</l>
+          <l>אהובתי יש לנו עתיד</l>
+          <l>על ליבך אני לא אוותר</l>
+          <l>פתאום מרגיש שאני אדם אחר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה הזמן לחגיגה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סאלי מאלי טנצה</title>
+        <singer classification="male singer">שאול צירלין</singer>
+        <writer>שאול צירלין</writer>
+        <composer>שאול צירלין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סאלי מאלי טנצה</head>
+        <lg number="1" type="stanza">
+          <l>שם יש</l>
+          <l>אשה אחת יפה</l>
+          <l>שמלה היא מניפה</l>
+          <l>רוקדת כמו סופה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מילים</l>
+          <l>שתפיים לוחשות</l>
+          <l>רגליה מקישות</l>
+          <l>את שם אהבתה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>סאלי מאלי טנצה</l>
+          <l>כולם קוראים לה ככה</l>
+          <l>סאלי מאלי טנצה</l>
+          <l>אף לא לרגע נחה</l>
+          <l>סאלי מאלי טנצה</l>
+          <l>כולם רוצים לרקוד איתה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>משם עולים צלילי מיתר</l>
+          <l>ומישהו גם שר</l>
+          <l>קורע בלבו</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רקדי</l>
+          <l>הוא שר לה את חייו</l>
+          <l>רדקי עד שנאהב</l>
+          <l>והיא רוקדת לו</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>סאלי מאלי טנצה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

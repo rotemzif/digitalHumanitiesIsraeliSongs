@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלב היער</title>
+        <singer classification="male singer">יהורם גאון</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלב היער</head>
+        <lg number="1" type="stanza">
+          <l>נערה שלא ידעה עוד צער</l>
+          <l>נרדמה בלב היער</l>
+          <l>אל היער בא פתאום נער</l>
+          <l>והביט בה כחולם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בלב היער בלב היער בלב היער</l>
+          <l>נערה</l>
+          <l>בלב ביער בלב היער בלב היער</l>
+          <l>זה קרה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את גופה ליטפו כנפי הרוח</l>
+          <l>על שפתיה נח תפוח</l>
+          <l>התנשם הנער כמו מפוח</l>
+          <l>וליבו היה הולם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בלב היער בלב היער...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא נדע מה הצעיר אמר לה</l>
+          <l>כשסיפרה לו שקצת קר לה</l>
+          <l>וכששבה משהו חסר לה</l>
+          <l>רק ליבה היה שלם</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בלב היער בלב היער...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

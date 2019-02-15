@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר ההפלגה 2</title>
+        <singer classification="unknown">התל אביבים</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>סשה ארגוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר ההפלגה</head>
+        <lg number="1" type="stanza">
+          <l>כל זה היה, היה היה</l>
+          <l>לפני הרבה שנים:</l>
+          <l>בים הפליגה אניה</l>
+          <l>ולה שלושה תרנים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שלושה תרנים לאוניה ומפרשי זהב,</l>
+          <l>ועל סיפון האניה טווס יפה זנב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>והטווס הדור מאוד ועל זנבו כתובים</l>
+          <l>המיזמורים גם אגדות בשפת הכוכבים</l>
+          <l>ומלחים ודייגים במעגל גדול -</l>
+          <l>ממזמוריו מתמוגגים שרים אותם בקול.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שלושה תרנים לאוניה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שרים את שיר הכוכבים, קוראים האגדות</l>
+          <l>ולגלים השובבים חדים אלפי חידות</l>
+          <l>ודגי זהב - יפי סנפיר מן המצולה עולים</l>
+          <l>לשמוע אגדה ושיר על נדנדת גלים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שלושה תרנים לאוניה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

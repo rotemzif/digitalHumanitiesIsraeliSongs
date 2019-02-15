@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קצת רומנטי</title>
+        <singer classification="male singer">שריף</singer>
+        <writer>יפרח מתנה</writer>
+        <composer>יפרח מתנה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קצת רומנטי</head>
+        <lg number="1" type="stanza">
+          <l>איך תמיד חושב עלייך</l>
+          <l>על המבט שבעינייך</l>
+          <l>לאהוב אותך ילדה אני נשבע</l>
+          <l>בתוכי אני חשבתי</l>
+          <l>שאולי זה קצת רומנטי</l>
+          <l>לאחוז אותך בשתי ידי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואיך שאת יפה כמו מלאך </l>
+          <l>חדרת לתוך חיי בלי אזהרה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא מבין איך התאהבתי</l>
+          <l>לעולם שלך נמשך </l>
+          <l>מיופייך אני נדהמתי איי איי איי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את האור שבי זורח </l>
+          <l>מתוך חלום אותך לוקח </l>
+          <l>ללילות קסומים של אהבה </l>
+          <l>את הלב אני אתן לך</l>
+          <l>לעולם לא אשקר לך</l>
+          <l>את תמיד תהיי לי האחת</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואיך שאת יפה כמו מלאך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

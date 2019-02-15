@@ -1,0 +1,39 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Short song</title>
+        <singer classification="female singer">תמר אייזנמן</singer>
+        <writer>תמר אייזנמן</writer>
+        <composer>תמר אייזנמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Short song</head>
+        <lg number="1" type="stanza">
+          <l>Some get to dance with a miracle </l>
+          <l>While I get to deal with my life </l>
+          <l>And I give this person almost everything </l>
+          <l>And my everything is almost the best </l>
+          <l>In return she gives me nothing </l>
+          <l>You know your nothing is not good enough</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

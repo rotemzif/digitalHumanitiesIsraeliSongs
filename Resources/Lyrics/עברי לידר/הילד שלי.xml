@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הילד שלי</title>
+        <singer classification="male singer">עברי לידר</singer>
+        <writer>עברי לידר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הילד שלי</head>
+        <lg number="1" type="stanza">
+          <l>לילד שלי יהיו ארמונות וימים מלאים בצחוק ובשיר</l>
+          <l>לילד שלי יהיו משחקים, מכוניות בצבעים ותמונות על הקיר</l>
+          <l>לילד שלי יהיה העולם נקי משנאה בין בני האדם</l>
+          <l>מלחמות העבר רק בספרים שילמד בבית ספר </l>
+          <l>הילד שלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לפעמים יש לי כוח לשכוח</l>
+          <l>את כל מה שמפחיד אותי כאן</l>
+          <l>כל הקור והרוע התחילו לשקוע </l>
+          <l>כשזה הוא ואני והגן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לילד שלי יהיו הדמעות חתיכות יהלום בעיניים ריקות</l>
+          <l>לילד שלי יהיו רצונות אלף גוונים וצורות</l>
+          <l>לילד שלי המשחק המשוכלל, הבית הריק המפואר המקולל</l>
+          <l>כמה שעות יש במאה שנה שנתתי לילד שלי מתנה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לפעמים יש לי כוח לשכוח</l>
+          <l>את כל מה שמפחיד אותי כאן</l>
+          <l>כל הקור והרוע התחילו לשקוע </l>
+          <l>כשזה הוא ואני והגן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

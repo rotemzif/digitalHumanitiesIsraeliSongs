@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יקרה שלי</title>
+        <singer classification="unknown">שי שרעבי</singer>
+        <writer>רמי לב</writer>
+        <composer>דורון אלימלך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יקרה שלי</head>
+        <lg number="1" type="stanza">
+          <l>מה קורה לי איתך, אף אחד לא מבין</l>
+          <l>התרגלתי לרצות רק אלייך </l>
+          <l>האור שבעינייך מתחבר לנשמה</l>
+          <l>רוצה לומר לך ת'מילה הנכונה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יקרה שלי, אני אוהב אותך</l>
+          <l>מה שאלוהים רוצה, שאהיה שלך.</l>
+          <l>יקרה שלי, הלב שלי איתך</l>
+          <l>את החלום שלא אשכח!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך זכיתי איתך היפה בנשים</l>
+          <l>לחלוק את חיי בחייך</l>
+          <l>מלאך מהשמים נשמה טהורה</l>
+          <l>אוהב אותך עד סוף חיי אני נשבע! </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יקרה שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

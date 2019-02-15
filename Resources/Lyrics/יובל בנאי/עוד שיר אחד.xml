@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד שיר אחד</title>
+        <singer classification="male singer">יובל בנאי</singer>
+        <writer>יובל בנאי</writer>
+        <composer>יובל בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד שיר אחד</head>
+        <lg number="1" type="stanza">
+          <l>עוד שיר אחד </l>
+          <l>אתה בטח לבד</l>
+          <l>ואני מתגעגע</l>
+          <l>ניפגש בפריז</l>
+          <l>בקפה של לואיז</l>
+          <l>השתניתי אתה יודע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני גר שם בכפר</l>
+          <l>יש לי בית מול הר</l>
+          <l>ועל הקיר תמונה שלנו</l>
+          <l>אני רוצה שתכיר</l>
+          <l>היא אחת כמו משיר</l>
+          <l>ותאהב להיות איתנו</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>נלך לצוד קצת פרפרים</l>
+          <l>ותספר לי סיפורים</l>
+          <l>על יפו עם הצוענים</l>
+          <l>ותיאטרון בלי שחקנים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוד איב מונטן</l>
+          <l>אני ילד קטן</l>
+          <l>ואותך אני שומע</l>
+          <l>כבר בן חמישים</l>
+          <l>וחיי הם חופשים</l>
+          <l>תתקרב אתה נוגע</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>נלך לצוד קצת פרפרים</l>
+          <l>ותספר לי סיפורים</l>
+          <l>על יפו עם הצוענים</l>
+          <l>ותיאטרון בלי שחקנים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סינגל</title>
+        <singer classification="unknown">הקרטל</singer>
+        <writer>יונתן גלילה</writer>
+        <composer>יונתן גלילה</composer>
+        <album>זימה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סינגל</head>
+        <lg number="1" type="stanza">
+          <l>טוב שזה נגמר </l>
+          <l>ועוד לא מאוחר לסגת </l>
+          <l>אולי אראה מחר </l>
+          <l>אם את כה מיוחדת </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז איך זה שעכשיו </l>
+          <l>זוכר זמנים טובים </l>
+          <l>מחליף את הסדינים לבד </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חבל שאי אפשר לשמור על איזה קשר </l>
+          <l>ואם זו אהבה אז מה זה עצב </l>
+          <l>פה ושם הלב דופק בקצב </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז איך זה שעכשיו </l>
+          <l>זוכר זמנים טובים </l>
+          <l>מחליף את הסדינים לבד </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>טוב שזה נגמר </l>
+          <l>ועוד לא מאוחר לסגת </l>
+          <l>ואם זו אהבה אז מה זה עצב </l>
+          <l>דופק בקצב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

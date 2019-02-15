@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הרוח 6</title>
+        <singer classification="unknown">נאור אורמיה</singer>
+        <writer>נאור אורמיה</writer>
+        <composer>נאור אורמיה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הרוח</head>
+        <lg number="1" type="stanza">
+          <l>הרוח על פני נושאת אותי אלייך</l>
+          <l>וזה מזכיר לי רגעים מהעבר</l>
+          <l>עוד רגע ואשוב לתוך מחשבותייך</l>
+          <l>ולפעמים זה כל מה שנשאר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לראות אותך שוב חלק מחיי מגשימה חלומות</l>
+          <l>איך זה עושה לי טוב</l>
+          <l>נראה שכל מה שנשאר בינינו זה רק לאהוב</l>
+          <l>עד הסוף</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נראה שכל מה שאפשר עלינו עבר</l>
+          <l>בנינו לא נגמר הרגש שיש בתוכנו לפתע חזר</l>
+          <l>זה קצת גדול עלינו</l>
+          <l>נראה שכל מה שאפשר עלינו עבר</l>
+          <l>בנינו לא נגמר הרגש שיש בתוכנו לפתע חזר</l>
+          <l>זה קצת גדול עלינו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שוב מחכה שתסתכלי לי בעיניים</l>
+          <l>והן יאמרו לי בשניה מה את מרגישה</l>
+          <l>האהבה הזאת חצתה אותי לשניים</l>
+          <l>וזה חזק ממני רק מחכה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לראות אותך שוב חלק מחיי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

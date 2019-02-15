@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוצה רק אליך</title>
+        <singer classification="unknown">ג ולייטה</singer>
+        <writer>ביגי</writer>
+        <composer>ביגי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוצה רק אליך</head>
+        <lg number="1" type="stanza">
+          <l>לא ידעתי שאתה בחור כזה לחוץ</l>
+          <l>כל היום רק מחייג מחפש תרוץ</l>
+          <l>איפה את, מי לידך?</l>
+          <l>תסביר לי מה קשה?</l>
+          <l>אתה חייב רק להבין ולדעת ש...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מתה עליך, מתה עליך</l>
+          <l>רוצה רק אליך, מתה עליך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה עוד אומר לך אני רק שלך </l>
+          <l>שבחרתי להיות תמיד שם בשבילך </l>
+          <l>מה נותר לי רק לומר כדי שכבר תפנים</l>
+          <l>זה אתה ורק אתה תסתכל לי בפנים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מתה עליך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם תלך ותחפש בטוח לא תמצא</l>
+          <l>אחת כזאת שתלטף שבאמת רוצה </l>
+          <l>לאהוב מכל הלב לתת ולנשק </l>
+          <l>בוא אלי הכי קרוב בוא אל תתרחק</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

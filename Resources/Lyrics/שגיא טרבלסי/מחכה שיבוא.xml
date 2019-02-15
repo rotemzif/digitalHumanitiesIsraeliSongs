@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחכה שיבוא</title>
+        <singer classification="unknown">שגיא טרבלסי</singer>
+        <writer>אלירז שדה</writer>
+        <composer>אדיר גץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחכה שיבוא</head>
+        <lg number="1" type="stanza">
+          <l>הבגדים בארון עדיין תלויים </l>
+          <l>הרדיו שאהב מנגן את שיריו</l>
+          <l>הכאב שנשאר יכול גם ללכת</l>
+          <l>קולות הפסיעות פתאום במרפסת</l>
+          <l>היא שוב תבדוק אם הוא עוד בדלת</l>
+          <l>למה שילך אם היא עוד נשארת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מחכה שיבוא מבין עננים</l>
+          <l>רוצה שיבוא ויראה לה פנים</l>
+          <l>היא עוד רוצה ימים ולילות שיהיו לה למזכרת</l>
+          <l>לא מספיקה אז עדיין חולמת</l>
+          <l>חולמת שיבוא ויראה אותה פה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אנשים מדברים עליו לא איתו</l>
+          <l>מנסה להסביר שהוא תכף יבוא</l>
+          <l>פתאום מבינה לבד רק איתה</l>
+          <l>אולי הוא כועס או עשה משהו רע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מחכה שיבוא מבין עננים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

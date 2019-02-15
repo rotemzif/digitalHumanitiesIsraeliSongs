@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יום לפנינו</title>
+        <singer classification="unknown">בטי</singer>
+        <writer>בטי</writer>
+        <composer>בטי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יום לפנינו</head>
+        <lg number="1" type="stanza">
+          <l>איך שהימים חיים אותנו</l>
+          <l>ומהם אנחנו ממשיכים</l>
+          <l>על כל נשימה אחת שלנו</l>
+          <l>יש מחול של שינויים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עוד מעט, רגע קט</l>
+          <l>וזה כמעט מאחורינו</l>
+          <l>רק עוד קצת</l>
+          <l>אל תפנה את המבט</l>
+          <l>יום לפנינו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אמונה קורסת מול אחרת</l>
+          <l>זאת שתבוא עם רוח חדשה</l>
+          <l>אם לא נשחה עם הזרם</l>
+          <l>נישאר כאן ונטבע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עוד מעט, רגע קט...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כל הנהרות מאחורינו </l>
+          <l>וכל הנחלים</l>
+          <l>אל הים הגדול פניינו</l>
+          <l>אל הגלים המופלאים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

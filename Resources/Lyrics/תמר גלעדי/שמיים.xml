@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמיים 17</title>
+        <singer classification="female singer">תמר גלעדי</singer>
+        <writer>תמר גלעדי</writer>
+        <composer>תמר גלעדי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמיים</head>
+        <lg number="1" type="stanza">
+          <l>פתאום זה אפשר</l>
+          <l>שנאבד את הכל</l>
+          <l>נאבד את עצמינו</l>
+          <l>נאבד וניפול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>השמיים שלי</l>
+          <l>משתנים עכשיו</l>
+          <l>והשמש מתעתעת בי</l>
+          <l>השמיים שלי</l>
+          <l>נפתחים עכשיו</l>
+          <l>בוא ותהיה שם</l>
+          <l>לידי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פתאום זה אפשר</l>
+          <l>שנדבר על הכל</l>
+          <l>נדבר על עצמינו</l>
+          <l>הרוח הזאת, המחשמלת</l>
+          <l>בוא לא ניתן לה</l>
+          <l>לסחוף את הכל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>השמיים שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

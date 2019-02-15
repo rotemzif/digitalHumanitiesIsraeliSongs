@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משהו אחר</title>
+        <singer classification="female singer">מאיה אברהם</singer>
+        <writer>מורן גמליאל</writer>
+        <composer>אדם פרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משהו אחר</head>
+        <lg number="1" type="stanza">
+          <l>מנסה בדרך אחרת</l>
+          <l>לקבל את מה שאתה</l>
+          <l>ומה שהפכנו להיות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הרגלים רציתי לשכוח</l>
+          <l>שוב עולים משתקפים במראה</l>
+          <l>מעגלים מסחררים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אל תנסה לעצור</l>
+          <l>תן לדברים לעבור מהר</l>
+          <l>הפכת להיות משהו אחר אלי</l>
+          <l>אל תנסה לעצור</l>
+          <l>קח את הכעס ואל תחזור</l>
+          <l>אל תנסה להיות גיבור יותר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עננים כחול בעיניים</l>
+          <l>מבשרים תקופה חדשה</l>
+          <l>את מה שאפשר עוד לגלות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואני כבר לא מפחדת</l>
+          <l>לבקש עכשיו בשבילי</l>
+          <l>לא מפחדת שוב לטעות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אל תנסה לעצור...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אני רואה איך שאנחנו מתרחקים</l>
+          <l>ועם הזמן נעלמים</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>אל תנסה לעצור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

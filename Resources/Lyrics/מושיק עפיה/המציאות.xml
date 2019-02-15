@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המציאות 3</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המציאות</head>
+        <lg number="1" type="stanza">
+          <l>המציאות קצת מאכזבת</l>
+          <l>היה לי כל דבר</l>
+          <l>והכל נגמר</l>
+          <l>המציאות תמיד אחרת</l>
+          <l>חיפשתי לי פינה שקטה</l>
+          <l>לברוח לתוכה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא הבנתי דבר</l>
+          <l>מה אסור מה מותר</l>
+          <l>אין לי מה לומר</l>
+          <l>את הלכת עם אחר</l>
+          <l>זה קשה זה שובר</l>
+          <l>בסוף הכל עובר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה שעשית כל כך פגע בי</l>
+          <l>יושב חסר אונים</l>
+          <l>נקלע למחשבות</l>
+          <l>רציתי לי תקווה שאין לי</l>
+          <l>חיפשתי לי קצת נחמה</l>
+          <l>מתוך האכזבות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא הבנתי דבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

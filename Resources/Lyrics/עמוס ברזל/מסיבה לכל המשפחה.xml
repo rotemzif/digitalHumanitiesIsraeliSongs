@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מסיבה לכל המשפחה</title>
+        <singer classification="male singer">עמוס ברזל</singer>
+        <writer>עמוס ברזל</writer>
+        <composer>אורית כהן עראקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מסיבה לכל המשפחה</head>
+        <lg number="1" type="stanza">
+          <l>המשפחה שלי אבא אמא </l>
+          <l>המשפחה שלי ההורים </l>
+          <l>המשפחה שלי לכאן הגיע </l>
+          <l>ונשיר ברוכים הבאים. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מסיבה בה, בה ומי שבא, </l>
+          <l>מסיבה לכל המשפחה. </l>
+          <l>מסיבה בה, בה ולמי שבא, </l>
+          <l>נערוך כאן חגיגה. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>התלבשנו והתקשטנו </l>
+          <l>כל הילדים החמודים. </l>
+          <l>ניתן ידיים גם אבא, אמא </l>
+          <l>ונצא בריקודים. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מסיבה בה, בה ומי שבא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

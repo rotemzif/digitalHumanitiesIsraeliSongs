@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מפלט לנשמה</title>
+        <singer classification="male singer">דרור בן יעקב</singer>
+        <writer>דרור בן יעקב</writer>
+        <composer>דרור בן יעקב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מפלט לנשמה</head>
+        <lg number="1" type="stanza">
+          <l>בקשיים שבכל דרך </l>
+          <l>והעייפות המתגברת... </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש זמן, יש זמן. </l>
+          <l>החלומות הנעלמים </l>
+          <l>הויתורים, הכאבים, </l>
+          <l>מזמן אין זמן. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>במציאות אני נשחק </l>
+          <l>מכל מכה כמו קצת נמחק </l>
+          <l>כשהיאוש משיר מבט </l>
+          <l>באהבה מוצא מפלט </l>
+          <l>לנשמה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ברגעים של חרדה </l>
+          <l>בתחושה של אין שליטה </l>
+          <l>זה כאן, זה כאן </l>
+          <l>כשלא בטוח כבר יותר </l>
+          <l>אם להתעקש או לוותר </l>
+          <l>הזמן כל כך כאן </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>במציאות אני נשחק...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>בין סימני השאלה </l>
+          <l>הלב רוצה עוד הבטחה </l>
+          <l>רק לא להיכנע</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

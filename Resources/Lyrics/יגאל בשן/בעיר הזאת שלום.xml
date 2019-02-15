@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בעיר הזאת שלום</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>שמעון ספיר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בעיר הזאת שלום</head>
+        <lg number="1" type="stanza">
+          <l>העיר הזאת ידעה זרים בשעריה</l>
+          <l>העיר הזאת שבעה מלכים וארמונות</l>
+          <l>העיר הזאת שמעה כל נער בשווקיה</l>
+          <l>וקול אויב חמוש בפגיונות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בעיר הזאת שלום שלום בשעריה</l>
+          <l>בעיר הזאת שלום שלום על החומות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>העיר הזאת ידעה פולשים על חומותיה</l>
+          <l>העיר הזאת שבעה מקהל הלגיונות</l>
+          <l>העיר הזאת שמעה קומץ נעריה</l>
+          <l>עומד מול האוייב בחרונו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בעיר הזאת שלום...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>העיר הזאת ידעה קול נפץ מתבקע</l>
+          <l>העיר הזאת שבעה מדם ומדמעות</l>
+          <l>העיר הזאת שמעה שתיקת אלמנותיה</l>
+          <l>ואת בניה העוברים בסימטאות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בעיר הזאת שלום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

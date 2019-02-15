@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתי יבוא שלום</title>
+        <singer classification="unknown">עופר סופר</singer>
+        <writer>עופר סופר</writer>
+        <composer>עופר סופר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתי יבוא שלום</head>
+        <lg number="1" type="stanza">
+          <l>חייל יקר של אמא הולך אל הצבא </l>
+          <l>הוא מחבק את אמא בחום ואהבה </l>
+          <l>אומר שלום לאמא נושק הוא על מצחה </l>
+          <l>ואמא מברכת ה' ישמור אותך </l>
+          <l>ואמא מתפלת נושאת עיניה למרום </l>
+          <l>ובליבה שואלת מתי יבוא שלום </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלוקים נמצא למעלה שומר על כל החיילים </l>
+          <l>גם ביום וגם בלילה כמו צפור על גוזלים </l>
+          <l>אלוקים נמצא למעלה שומר על כל החיילים </l>
+          <l>שהשלום יבוא אינשאללה לכך כולם מתפללים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חייל חוזר הביתה אחרי מסע ארוך </l>
+          <l>ואמא מלטפת באהבה ורוך </l>
+          <l>ואמא מבקשת שכל זה יגמר </l>
+          <l>ושוב תפילה לוחשת לאל אשר שומר </l>
+          <l>ואמא מתפללת נושאת עיניה למרום </l>
+          <l>ובליבה שואלת מתי יבוא שלום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלוקים נמצא למעלה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

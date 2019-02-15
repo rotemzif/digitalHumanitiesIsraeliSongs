@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גול 15</title>
+        <singer classification="male singer">עמוס ברזל</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>ניסן פרידמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גול</head>
+        <lg number="1" type="stanza">
+          <l>המטרה לכבוש עוד גול</l>
+          <l>וזה עדין לא הכל</l>
+          <l>כדורגל, כדורגל,</l>
+          <l>משחקים בשביל הדגל.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הניצחון שווה המון</l>
+          <l>וההפסד הוא כמו אסון</l>
+          <l>השמחה למנצח</l>
+          <l>המפסיד תמיד בורח.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יש כחול ויש כתום,</l>
+          <l>יש צהוב ויש אדום,</l>
+          <l>יש ירוק ויש סגול, </l>
+          <l>כדור ברשת וזה גול.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>באצטדיון יושב אדון</l>
+          <l>שרוצה רק ניצחון,</l>
+          <l>לידו יושבת גברת</l>
+          <l>מתמוגגת ממספרת [מזה ג'מצ'י]</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>השופט שרק נבדל</l>
+          <l>הגול נפסל וזה חבל</l>
+          <l>הקהל שואג בקצב</l>
+          <l>את הכסף, את הכסף.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יש כחול ויש כתום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

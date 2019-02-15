@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חברים בכל מיני צבעים</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>חנה גולדברג</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חברים בכל מיני צבעים</head>
+        <lg number="1" type="stanza">
+          <l>יש לי חבר חום כמו שוקולד</l>
+          <l>כשאני עצובה הוא תמיד כזה נחמד</l>
+          <l>נכון שהוא ממני לגמרי אחר</l>
+          <l>אך על כזה חבר איך אפשר לוותר?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש לי חברה עם עיניים כחולות</l>
+          <l>שלה אני מספרת את כל הסודות</l>
+          <l>נכון שהיא ממני לגמרי אחרת</l>
+          <l>אבל היא חברה כזאת נהדרת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איזה כיף שיש המון חברים</l>
+          <l>המון חברים בכל מיני צבעים</l>
+          <l>חומים, כתומים, שחורים ולבנים</l>
+          <l>איזה כיף שיש כאלה חברים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש לי חבר ג'ינג'י עם נמשים</l>
+          <l>איתו הכי כיף לעשות חיים</l>
+          <l>אז נכון שהוא ממני לגמרי אחר</l>
+          <l>אך על כזה חבר איך אפשר לוותר?</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יש לי חברה שחורה עם תלתלים</l>
+          <l>שתינו מגדלות גור חתולים</l>
+          <l>נכון שהיא ממני לגמרי שונה</l>
+          <l>אבל היא חברה כזאת נפלאה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>איזה כיף שיש המון חברים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

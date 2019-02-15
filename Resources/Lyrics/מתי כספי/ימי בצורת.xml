@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ימי בצורת</title>
+        <singer classification="male singer">מתי כספי</singer>
+        <writer>יעקב גלעד</writer>
+        <composer>מתי כספי</composer>
+        <album>סוף היום</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ימי בצורת</head>
+        <lg number="1" type="stanza">
+          <l>ימי בצורת -</l>
+          <l>בדלים כבויים שביבי נסורת</l>
+          <l>דף נייר עט ומכחול</l>
+          <l>שאריות מיום אתמול.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ימי בצורת -</l>
+          <l>שברי מילים צלילי תזמורת</l>
+          <l>מקרוב הרהור בודד</l>
+          <l>ומרחוק עונה רק הד.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>היא בינה לבין עצמה</l>
+          <l>אני ביני לבין עצמי</l>
+          <l>אני בתוך שגרת יומה</l>
+          <l>היא בתוך שגרת יומי</l>
+          <l>וטוב שכך לעת עתה,</l>
+          <l>היא איתי - אני איתה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ימי בצורת -</l>
+          <l>עלי שלכת בתפזורת</l>
+          <l>הימים ימי שרב</l>
+          <l>והלילות ראשית הסתיו.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ימי בצורת -</l>
+          <l>זכרון דברים וריח קטורת</l>
+          <l>בחלום תעתועים</l>
+          <l>ובהקיץ געגועים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>היא בינה לבין עצמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הבריחה 2</title>
+        <singer classification="female singer">גלי עטרי</singer>
+        <writer>יעקב גלעד</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הבריחה</head>
+        <lg number="1" type="stanza">
+          <l>בלי אף חבר אחד בעיר הזאת</l>
+          <l>אתה נשאר לבד מוקף חומות</l>
+          <l>הכל סגור, אבל ישנן פרצות בדרך</l>
+          <l>זה כבר אחת אחר חצות</l>
+          <l>נברח מפה</l>
+          <l>הלילה עובר, עובר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>סופה רעה פורצת בריקוד</l>
+          <l>אתה נתון עמוק בתוך מלכוד</l>
+          <l>אז בוא נלך הפעם לאיבוד ביחד</l>
+          <l>אולי עוד לא הכל אבוד</l>
+          <l>נברח מפה</l>
+          <l>הלילה עובר, עובר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הלילה במטוס סילון</l>
+          <l>נברח אל החופש</l>
+          <l>הלילה במטוס ראשון</l>
+          <l>הלילה על כנפי דמיון</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זה כך היה וכך יהיה תמיד</l>
+          <l>אחד זוכה אחר יוצא מפסיד</l>
+          <l>אבל אתה בעצם לא יחיד בשטח</l>
+          <l>הכל נראה לך מפחיד</l>
+          <l>נברח מפה</l>
+          <l>הלילה עובר, עובר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הלילה במטוס סילון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

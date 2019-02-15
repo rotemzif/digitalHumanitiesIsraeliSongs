@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמור עליה ועלי</title>
+        <singer classification="unknown">שיקו חייק</singer>
+        <writer>שיקו חייק</writer>
+        <composer>שיקו חייק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמור עליה ועלי</head>
+        <lg number="1" type="stanza">
+          <l>כשראיתי אותך ידעתי</l>
+          <l>שאת האור שלי מצאתי</l>
+          <l>מודה לאל ששלח אותך אלי</l>
+          <l>את האושר של חיי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הולך לחיות איתך</l>
+          <l>עד סוף חיי</l>
+          <l>אוהב אותך</l>
+          <l>עד בלי די</l>
+          <l>תפילתי אלייך אלוקיי</l>
+          <l>תשמור עליה ועלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאני מביט עלייך</l>
+          <l>אני יודע מה עובר עלייך</l>
+          <l>את אוהבת אותי כמו שאני אוהב אותך</l>
+          <l>יש לי פרפרים בלב כמו שיש לך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הולך לחיות איתך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

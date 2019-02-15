@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אישתר</title>
+        <singer classification="band">סטלה מאריס</singer>
+        <writer>פבלו רוזנברג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אישתר</head>
+        <lg number="1" type="stanza">
+          <l>אישתר שורפת במבטה </l>
+          <l>אישתר טורפת בזימתה </l>
+          <l>אין לה גבולות אסורים </l>
+          <l>אין בה קולות יסורים </l>
+          <l>אישתר הורסת </l>
+          <l>אישתר דורסת.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את האש, אני הקרח </l>
+          <l>את האדמה </l>
+          <l>ים גועש באור ירח </l>
+          <l>צורח </l>
+          <l>כל חפצה הוא אהבה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אישתר עוגבת, בחום מזגה </l>
+          <l>אישתר אוהבת, עד לפסגה </l>
+          <l>היא מלאת תאווה </l>
+          <l>היא מציתה להבה </l>
+          <l>אישתר שוברת </l>
+          <l>אישתר גוברת </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את האש, אני הקרח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נערה לחורף</title>
+        <singer classification="male singer">משה הלל</singer>
+        <writer>אילן גולדהירש</writer>
+        <composer>בועז שרעבי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נערה לחורף</head>
+        <lg number="1" type="stanza">
+          <l>כמה טוב שאת איתי, כי החורף שב לכאן,</l>
+          <l>רעם בא ובא ברק וימים קצרים,</l>
+          <l>כמה טוב שאת איתי וראשך עלי מורכן</l>
+          <l>הלילות עכשיו כל כך קרים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמה טוב שאת איתי, את הכי הכי שיש</l>
+          <l>יקרה מזהב אופיר ואוצר תרשיש,</l>
+          <l>כמה טוב שאת איתי, מה אפשר עוד לבקש</l>
+          <l>מי שאת שלו, אשרי האיש!</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יש לי אותך ואיני צריך דבר החורף,</l>
+          <l>כאן מתחת לשמיכה, החורף נעצר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כמה טוב שאת איתי, את השמש והאור</l>
+          <l>בימים קרים כאלה ועצובים,</l>
+          <l>כמה טוב שאת איתי, עד החורף יעבור</l>
+          <l>ועוד חורפים רבים רבים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יש לי אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המשחק בקוביא</title>
+        <singer classification="male singer">מאיר בנאי</singer>
+        <writer>עממי</writer>
+        <composer>missing</composer>
+        <album>שמע קולי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המשחק בקוביא</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>המשחק בקוביא מכתו טריה</l>
+          <l>ואחריתו שאיה יקולל בשערים</l>
+          <l>יפזר ממונו ויוסיף עוונו</l>
+          <l>גם מורד בקונו בשבועות שקרים</l>
+          <l>יחשוב כי ירוויח ולעולם לא יצליח</l>
+          <l>ובימיו לא יפריח כי אחריתו מרורים</l>
+          <l>יאכל בחיפזון בלי ברכת מזון</l>
+          <l>גם ימצא רזון כעינוי כיפורים</l>
+          <l>יילך מעיר לעיר מקומו לא יאיר</l>
+          <l>והוא עני וצעיר מדלג על הרים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ראשו פרוע וביגדו קרוע</l>
+          <l>כי רוע ירוע לעצמו ולאחרים</l>
+          <l>כל אנשי ביתו שונאים אותו</l>
+          <l>ומצפים יום מותו בשמחה ובשירים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>המשחק בקוביא יקולל בשערים</l>
+          <l>יפזר ממונו בשבועות שקרים</l>
+          <l>יחשוב כי ירוויח ואחריתו מרורים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>המשחק בקוביא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

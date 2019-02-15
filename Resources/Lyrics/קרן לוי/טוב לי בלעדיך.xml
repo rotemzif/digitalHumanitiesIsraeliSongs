@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טוב לי בלעדיך</title>
+        <singer classification="female singer">קרן לוי</singer>
+        <writer>ג'קי מייקה</writer>
+        <composer>שמואל אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טוב לי בלעדיך</head>
+        <lg number="1" type="stanza">
+          <l>לא רוצה לבזבז לי את הזמן איתך</l>
+          <l>כבר נפגעתי פעמיים רבות כל כך ממך</l>
+          <l>אתה שחקן מוצלח אך המשחק שלך נגמר</l>
+          <l>לך טפס על עץ אחר כי לי ממש נשבר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא רוצה לשוב אליך כי טוב לי ככה בלעדיך</l>
+          <l>לא חושבת שאתה כלל בשבילי</l>
+          <l>לא רוצה לשוב אליך להיסחף עוד לקיסמך</l>
+          <l>אתה פשוט אדם בכלל לא רציני</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא חושבת שאתה תהיה אביר חיי</l>
+          <l>השקרים שלך היו שקופים מדי</l>
+          <l>משחק אותה גיבור מרגיש כמו גדול</l>
+          <l>וחושב שאתה ממש הכל הכל יכול</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא רוצה לשוב אליך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

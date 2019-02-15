@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם זה נכון</title>
+        <singer classification="band">סטלה מאריס</singer>
+        <writer>פבלו רוזנברג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם זה נכון</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אם זה נכון תגידי לי</l>
+          <l>האדמה רועדת מסביבי</l>
+          <l>אם זה נכון</l>
+          <l>האדמה רועדת מסביבי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את שולחת לי מבט מושפל</l>
+          <l>זה חודר ולא מרפה</l>
+          <l>האוויר טעון חשמל</l>
+          <l>רק את יודעת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם זה נכון תגידי לי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>המגע שלך מטעה אותי</l>
+          <l>כמו השמש החורפית</l>
+          <l>אם מחר זה יום מותי</l>
+          <l>רק את יודעת</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם זה נכון תגידי לי...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אם זה נכון</l>
+          <l>האדמה רועדת מסביבי</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אני לא ישן לבד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משחקים של אהבה</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משחקים של אהבה</head>
+        <lg number="1" type="stanza">
+          <l>משחקים של אהבה שוב רוצה אותך קרובה</l>
+          <l>כנראה הכל היה חלום או אשליה</l>
+          <l>יום יבוא ואת תראי לך נתתי את כולי</l>
+          <l>יום יבוא ותגלי את הכוונות שלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בעיניים הדמעות מחפש סיבה לחיות</l>
+          <l>בידיים רועדות מחכה לך בלילות</l>
+          <l>בעיניים הדמעות מחפש סיבה לחיות</l>
+          <l>בידיים רועדות מחכה לך בלילות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה כואב לי ששכחת את כל מה שלי הבטחת</l>
+          <l>איך נזכרתי כשצחקת לאן זה נעלם</l>
+          <l>אין אחרת מלבדך קשה לי לחייך</l>
+          <l>לא הבנתי עד היום למה כל זה הסתבך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בעיניים הדמעות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

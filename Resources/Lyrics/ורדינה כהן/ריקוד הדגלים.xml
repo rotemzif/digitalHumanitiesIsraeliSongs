@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ריקוד הדגלים</title>
+        <singer classification="female singer">ורדינה כהן</singer>
+        <writer>עמוס ברזל</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ריקוד הדגלים</head>
+        <lg number="1" type="stanza">
+          <l>הדגלים עולים הגדלים יורדים </l>
+          <l>ומרימים מול הפנים.</l>
+          <l>הדגלים עולים הגדלים יורדים </l>
+          <l>שוב למעלה מרימים. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את הדגלים מנופפים</l>
+          <l>מעל הראש שלום אומרים</l>
+          <l>את הדגלים מנופפים</l>
+          <l>מדינת ישראל בת שישים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>במעגל מסתובבים, ת'דגלים מרימים</l>
+          <l>הילדים חוגגים.</l>
+          <l>למרכז מתקדמים, ת'דגלים מרימים</l>
+          <l>ואחורה שוב חוזרים. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את הדגלים מנופפים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

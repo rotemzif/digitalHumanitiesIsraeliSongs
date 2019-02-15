@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ותינוק</title>
+        <singer classification="male singer">עמיר לב</singer>
+        <writer>עמיר לב</writer>
+        <composer>עמיר לב</composer>
+        <album>לפעמים אני מאושר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ותינוק</head>
+        <lg number="1" type="stanza">
+          <l>בחליפה שחורה אתה יושב</l>
+          <l>מקשיב למנדלסון וחושב</l>
+          <l>זה לא מתאים לחום, אתה אומר</l>
+          <l>זה מתאים לשלג, למקום אחר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חלומות ושקרים</l>
+          <l>מהבית בנצרת לא רואים את הים</l>
+          <l>פועל מנקה או שומר</l>
+          <l>אפילו את המתים קוברים בצד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מטוס ישן יורד מהשמיים</l>
+          <l>כתפיים, אודם ושיער</l>
+          <l>עגלות מכסף, תה מתוק</l>
+          <l>וסבתא אחת יפה ותינוק</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בחליפה שחורה פיתו אותך</l>
+          <l>תבוא עם מזוודה, חכה על הרציף</l>
+          <l>הבטיחו חול צהוב וגלים</l>
+          <l>וארץ חמה וכולם אחים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מטוס ישן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

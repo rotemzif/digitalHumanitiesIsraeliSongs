@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ספינה 2</title>
+        <singer classification="male singer">מוש בן ארי</singer>
+        <writer>מוש בן ארי</writer>
+        <composer>מוש בן ארי</composer>
+        <album>דרך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ספינה</head>
+        <lg number="1" type="stanza">
+          <l>איך שבדברים זה מתגלגל</l>
+          <l>איך שבימים פתאום נופל עלי</l>
+          <l>איך זה באחד שוב מתפצל</l>
+          <l>איך הוא קם ונופל פתאום אל תוך חיי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איך זה בדרכים שוב מתבלבל</l>
+          <l>איך שבצמתים אבדו לי עקבותי</l>
+          <l>מלפנים פתאום שוב מתקרב</l>
+          <l>איך הוא קם ונופל פתאום אל תוך חיי.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כי הים סוער, מתנפץ עלי</l>
+          <l>כמו ספינה טרופה ליבי רוגש</l>
+          <l>הים גועש, בתוכי זה חי</l>
+          <l>כמו ציפור אל אופק מתרגש.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל רחוב סואן שוב מתחבר</l>
+          <l>מחפש עיניים בין כל עובר שב</l>
+          <l>סמטאות שכוחות בהן עובר</l>
+          <l>ושוב הולך וחוזר ואלה הם ימי.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מרחוק באופק עת חוזר</l>
+          <l>מבקש למצוא אחד במילותי</l>
+          <l>אשליה כובשת לב עוצר</l>
+          <l>ושוב פועם ונפסק ואת הדרך אני חי.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי הים סוער...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

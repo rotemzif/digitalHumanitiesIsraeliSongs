@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילות של קיץ</title>
+        <singer classification="unknown">ניבין</singer>
+        <writer>מרטין גל</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילות של קיץ</head>
+        <lg number="1" type="stanza">
+          <l>בלילות של קיץ רוח ים נושבת בחוץ</l>
+          <l>מלטפת אותי כמו שליטפת אתה</l>
+          <l>השליתי את עצמי שאני אוהבת אותך</l>
+          <l>ניסיתי את הכל לשכוח ממך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נסעתי רחוק החלפתי עיר</l>
+          <l>רציתי להחיות את ליבי הצעיר</l>
+          <l>ניסיתי לחיות בעולם כמו בעיר</l>
+          <l>מתי אלוהיי יהיה טוב בחיים?</l>
+          <l>תאמר לי איך אשכח עיניים כמו שלך</l>
+          <l>הלב לא מפסיק לאהוב אותך</l>
+          <l>תאמר לי איך אשכח עיניים כמו שלך</l>
+          <l>הלב לא מפסיק לאהוב אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>העלמתי מחיי כל מה שהזכיר אותך</l>
+          <l>בשתי ידי הלשכתי את תמונתך</l>
+          <l>כל מה שנותר רק זיכרונות ממך</l>
+          <l>בעיני נשמר החיוך המתוק שלך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נסעתי רחוק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

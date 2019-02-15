@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שביל בעמק</title>
+        <singer classification="male singer">יזהר כהן</singer>
+        <writer>יחיאל מוהר</writer>
+        <composer>משה וילנסקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שביל בעמק</head>
+        <lg number="1" type="stanza">
+          <l>בשביל הזה עלית כפרח טרם שחר</l>
+          <l>לפגוש את לילותי במבטך תמים,</l>
+          <l>בשביל הזה הסתרת פנייך כמו סהר</l>
+          <l>מאחורי ענן בשביל הרעמים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש שביל בין תבור וגלבוע</l>
+          <l>נתיבה בין שדות וכרמים</l>
+          <l>בלילות שם אפשר עוד לשמע</l>
+          <l>הד בכין ותקוות עלומים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בנתיבה הזאת לבין כרמי הזית</l>
+          <l>בדרך החוצה דגן לקראת תבור,</l>
+          <l>בנתיבה הזאת פרחו שושן ושית</l>
+          <l>וחלומות גועו כנתיבים עם אור.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש שביל...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לשביל הזה נמשך ליבי באורח פלא</l>
+          <l>בנתיבה הזאת הזאת העמק התלבלב,</l>
+          <l>עד אחרון יומי לך לצפות לא אלא</l>
+          <l>ולהקשיב דומם לצעד מרחף</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יש שביל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

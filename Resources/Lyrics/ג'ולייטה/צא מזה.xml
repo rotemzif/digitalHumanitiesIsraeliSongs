@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צא מזה 2</title>
+        <singer classification="unknown">ג ולייטה</singer>
+        <writer>ביגי</writer>
+        <composer>ביגי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צא מזה</head>
+        <lg number="1" type="stanza">
+          <l>היי מתוק אני לא ילדה אל תמכור לי סיפורים</l>
+          <l>מי אתה ומה אתה מהרחוב? מהסביונים?</l>
+          <l>הבטחות על הבטחות תקנה לי זר וורדים</l>
+          <l>מילים לקחה אותן הרוח מה עם מעשים?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>צא מזה אין אף אחד כזה</l>
+          <l>חכם או יפה שיוצא אותי מזה</l>
+          <l>צא מזה</l>
+          <l>אין אף אחד כזה בניינו זה לא זה</l>
+          <l>מתוק אתה הוזה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תבוא לי מאחור וכמו ציפור תלחש</l>
+          <l>אוהב אותך יפה שלי את מתוקה כמו דבש</l>
+          <l>איזה מן פרצוף אתה חמוץ וגם מתוק</l>
+          <l>מצטערת תתגבר לא אלך איתך רחוק</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>צא מזה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

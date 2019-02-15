@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לנוח</title>
+        <singer classification="unknown">יוני יעיש</singer>
+        <writer>יוני יעיש</writer>
+        <composer>יוני יעיש</composer>
+        <album>זוהי דרכי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לנוח</head>
+        <lg number="1" type="stanza">
+          <l>במעשה פלאים אני נזכר </l>
+          <l>בלב מדבר זורמים חיים אל החלות </l>
+          <l>במעשה פלאים אני נשאר </l>
+          <l>בלב הסערה ראיתי פרי מתוק </l>
+          <l>ורוח חרישית על פני המים </l>
+          <l>לוחשת עוד סיפור של אהבה </l>
+          <l>ועץ קסום יורד מהשמים </l>
+          <l>מצל פני מדרך ארוכה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לנוח לשבת לנוח </l>
+          <l>לא למהר יותר </l>
+          <l>לעצב הכובל אותי חזק </l>
+          <l>לנוח בגן כה שכוח </l>
+          <l>סערות הלב ריקות </l>
+          <l>מול כל השקט </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל חולות מדבר נשאה תפילה </l>
+          <l>את כנפה שולחת למקום רחוק </l>
+          <l>על הפלא שסיפרתי לה </l>
+          <l>בלב הסערה ביקשה לראות </l>
+          <l>איך רוח חרישית על פני המים </l>
+          <l>לוחשת עוד סיפור של אהבה </l>
+          <l>ועץ קסום יורד מהשמים </l>
+          <l>תאכל מפרי מתוק שלא ידעה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לנוח לשבת לנוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

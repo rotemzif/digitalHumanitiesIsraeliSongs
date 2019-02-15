@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דגלי בית ר</title>
+        <singer classification="male singer">לידור יוספי</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>יוסי בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דגלי בית"ר</head>
+        <lg number="1" type="stanza">
+          <l>אחד עשר צהובים בכל שבת הם מפציצים</l>
+          <l>הם משתפים פעולה כדי לצאת להתקפה</l>
+          <l>הקהל תמיד דוחף ובשירה הוא מעודד</l>
+          <l>בעוד דקה ההפתעה בקול ששון וקול שמחה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תירא ישראל </l>
+          <l>את בית"ר אני אוהד</l>
+          <l>בכל שבת אצעד איתך</l>
+          <l>דגלי בית"ר אניף רק לך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הצהובים ממשיכים לתקוף את שער היריב</l>
+          <l>המאמן נותן סימן תרגיל שבע מוכן ומזומן</l>
+          <l>החילופים ערוכים את הכדור הם מריחים</l>
+          <l>כשהכדור מתקרב אל השער שוב חודר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תירא ישראל...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יאללה בית"ר!!!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

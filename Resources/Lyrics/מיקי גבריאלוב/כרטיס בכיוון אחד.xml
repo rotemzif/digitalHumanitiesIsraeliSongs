@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כרטיס בכיוון אחד</title>
+        <singer classification="male singer">מיקי גבריאלוב</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כרטיס בכיוון אחד</head>
+        <lg number="1" type="stanza">
+          <l>שוב לוקח את חיי למקום אחר</l>
+          <l>אל מקום רחוק בלי די שאני בוחר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא אצליח כן אצליח</l>
+          <l>ואם כן או לא אבטיח</l>
+          <l>מה שלא יבוא ישכיח כבר מיד.</l>
+          <l>שם את כל הכסף</l>
+          <l>מחכה לקסם</l>
+          <l>קונה כרטיס בכיוון אחד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין לי כסף למטוס אז באוניה</l>
+          <l>ועוד פעם מחפש הזדמנות שניה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא אצליח...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מה מחזיק אותי עכשיו בשבילי אין פרס</l>
+          <l>חורף קיץ ועוד סתיו והכל נמאס</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לא אצליח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שעון החול</title>
+        <singer classification="unknown">מונסון</singer>
+        <writer>סיימון מזיג</writer>
+        <composer>סיימון מזיג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שעון החול</head>
+        <lg number="1" type="stanza">
+          <l>שעון החול אוזל אוזל</l>
+          <l>צריך לרוץ מיד חוזר</l>
+          <l>תרוץ תרוץ אל תביט לאחור</l>
+          <l>כי אין שם כלום זה רק אתמול</l>
+          <l>כובש עוד יעד ועוד אחד</l>
+          <l>אתה עכשיו המלך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תכניס לעצמך לתוך המוח</l>
+          <l>שכל מה שעולה יורד יורד</l>
+          <l>אם זה לא קורה בכל הכח</l>
+          <l>תן לזה קצת זמן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שעון החול אוזל אוזל</l>
+          <l>ממשיך לרוץ מיד חוזר</l>
+          <l>תרוץ תרוץ על תביט לאחור</l>
+          <l>כי אין שם כלום זה רק האתמול</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תכניס לעצמך לתוך המוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

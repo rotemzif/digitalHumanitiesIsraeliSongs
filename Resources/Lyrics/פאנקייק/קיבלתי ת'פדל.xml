@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קיבלתי ת פדל</title>
+        <singer classification="band">פאנקייק</singer>
+        <writer>יונתן גת</writer>
+        <composer>רועי דותן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קיבלתי ת'פדל</head>
+        <lg number="1" type="stanza">
+          <l>אם את מגיעה לכאן</l>
+          <l>חבל לך על הזמן</l>
+          <l>אני אפנק אותך</l>
+          <l>זה הרי מובן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני לא צריך שמרטף</l>
+          <l>חבל לך על האף</l>
+          <l>הידים שלי רועדות</l>
+          <l>והפה שלי מוקצף</l>
+          <l>כשאת בסביבה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם את לא באה אלי</l>
+          <l>את חוששת אולי</l>
+          <l>אני שואל עד מתי</l>
+          <l>עוד תגידי לי די</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני עצוב ומושפל</l>
+          <l>כי קיבלתי ת'פדל</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם את לא באה אלי</l>
+          <l>את חוששת אולי</l>
+          <l>אני שואל עד מתי</l>
+          <l>עוד תגידי לי די</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>הנה אנחנו באים!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

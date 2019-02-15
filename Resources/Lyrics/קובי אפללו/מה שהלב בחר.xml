@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה שהלב בחר</title>
+        <singer classification="male singer">קובי אפללו</singer>
+        <writer>קובי אפללו</writer>
+        <composer>קובי אפללו</composer>
+        <album>בא מן השתיקה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה שהלב בחר</head>
+        <lg number="1" type="stanza">
+          <l>את לי החסד ואת לי בית</l>
+          <l>ואת שוכנת בליבי</l>
+          <l>את לי השקט איתך זה שניים</l>
+          <l>ואת יושבת בקרבי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מכל הלבטים, בכל השינויים אני נשאר איתך</l>
+          <l>בכל הניגונים, בכל הכיוונים אני נשאר שלך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כי את, מה שהלב שלי בחר</l>
+          <l>אחרי כל מה שהוא עבר, את</l>
+          <l>כן את. מה שהלב שלי בחר </l>
+          <l>ואל חיקך תמיד חזר, את.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>קרוב אלייך לרגשותייך</l>
+          <l>ואיתך זה אמיתי</l>
+          <l>אנא סלחי לי אם לא אמרתי</l>
+          <l>את בחדרי אהבתי </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מכל הלבטים...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי את...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>את מיוחדת אני יודע</l>
+          <l>וזה הסוד שמחבר</l>
+          <l>ובלעדייך בלי מילותייך</l>
+          <l>אני נווד אני חסר</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>מכל הלבטים...</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>כי את...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

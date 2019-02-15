@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Home Office</title>
+        <singer classification="unknown">הקולקטיב</singer>
+        <writer>רועי ריק</writer>
+        <composer>עידן רבינוביץ'</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Home Office</head>
+        <lg number="1" type="stanza">
+          <l>Now that everything's done </l>
+          <l>Now that you're meant to move on </l>
+          <l>Week ends and so does the dawn </l>
+          <l>Same beep - different tone </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Now that you've eaten too fast </l>
+          <l>Traces of ghosts from the past </l>
+          <l>Good friends sign on the cast </l>
+          <l>Somethings weren't meant to last </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>It takes time, permits and troubled minds </l>
+          <l>It takes time to get back on track </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>Now that your best is all tried </l>
+          <l>Love lost and entry denied </l>
+          <l>Mum says it's alright to cry </l>
+          <l>Mum, she cries from inside </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>It takes time, permits and troubled minds </l>
+          <l>It takes time to get back on track </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>Now that you've dried up your tears </l>
+          <l>Made sure that everything's clear </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>Weepings that turn into cheers </l>
+          <l>Self-burnt stratosphere</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

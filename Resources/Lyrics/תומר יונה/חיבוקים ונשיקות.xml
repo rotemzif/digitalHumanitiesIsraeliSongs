@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חיבוקים ונשיקות</title>
+        <singer classification="unknown">תומר יונה</singer>
+        <writer>תומר יונה</writer>
+        <composer>תומר יונה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חיבוקים ונשיקות</head>
+        <lg number="1" type="stanza">
+          <l>כל השקרים, כל השקרים והסודות</l>
+          <l>הלילות, חיבוקים ונשיקות</l>
+          <l>לא נפרדנו וגם לא אמרת שלום</l>
+          <l>לא חשבתי שניפגש פתאום היום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הפרחים ששלחתי נבלו לי במקום</l>
+          <l>האמת שאמרתי כבר לא אומר היום</l>
+          <l>משתגע אלייך קשה לי כבר לישון</l>
+          <l>לא נרדם שוב בלילה מתעורר בחלום</l>
+          <l>הו עדי...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כי להורים את סיפרת סיפורים</l>
+          <l>על זה הגבר שנתת לבוא בפנים</l>
+          <l>כל היום, המחשבות שלי רצות</l>
+          <l>איך הייתי כטיפש אובד עצות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הפרחים ששלחתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בובה של לילה</title>
+        <singer classification="male singer">ליאור פרחי</singer>
+        <writer>רמי לב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בובה של לילה</head>
+        <lg number="1" type="stanza">
+          <l>תראי זה אני שנראה לא שפוי</l>
+          <l>איתך זה קורה לי, זה כל כך צפוי</l>
+          <l>אני מתהפך כמו זיקית בשבילך</l>
+          <l>ביום משתגע בלילה זה אש</l>
+          <l>רוצה רק לברוח</l>
+          <l>לעוף ולשכוח </l>
+          <l>לצאת מעצמי כי את כל מה שיש!</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש לנו בובה, בובה של לילה...</l>
+          <l>יש לנו בובה, בובה של לילה</l>
+          <l>נפציץ ת'שמיים יהיה בלגן</l>
+          <l>יש לנו בובה, בובה של לילה</l>
+          <l>חיים פה בחפלה חבל על הזמן </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני מתמסר עד הסוף בשבילך</l>
+          <l>נותן בלי לדעת בלי למה ואיך</l>
+          <l>יפה שכמוך זה הלילה שלך</l>
+          <l>עושים פה שמח וטוב לי איתך</l>
+          <l>רוצה רק לברוח </l>
+          <l>לעוף ולשכוח </l>
+          <l>לצאת מעצמי כי את כל מה שיש!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש לנו בובה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

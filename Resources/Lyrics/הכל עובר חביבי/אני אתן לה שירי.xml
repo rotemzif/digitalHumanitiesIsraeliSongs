@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני אתן לה שירי</title>
+        <singer classification="band">הכל עובר חביבי</singer>
+        <writer>שאול טשרניחובסקי</writer>
+        <composer>סשה ארגוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני אתן לה שירי</head>
+        <lg number="1" type="stanza">
+          <l>אני אתן לה שירי, שירים של ים</l>
+          <l>(ושמה לא יזכר ולא יהיה שמה בם):</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שיר לגל, שיר לחול, שיר לשחף הרן,</l>
+          <l>לעננה פושטת, ואין פותר לאן.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואולם השירים הקטנים אך לה!</l>
+          <l>ברעוד נימי ליבי אליה יכלה,</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בטלטול בדרך מים ועד ים,</l>
+          <l>משלגי הצפון ועד חול נגב חם.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כי אלה עיניה שני ימים ירוקים,</l>
+          <l>בהם חיי תלויים והגיוני חבוקים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

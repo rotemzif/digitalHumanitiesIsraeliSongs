@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ריגושים 2</title>
+        <singer classification="male singer">ליאור אלמליח</singer>
+        <writer>אריק רודיך</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ריגושים</head>
+        <lg number="1" type="stanza">
+          <l>קול שירת הזקנים</l>
+          <l>על ספסל בשדרה</l>
+          <l>קול ימי נעורים</l>
+          <l>שחלפו בסערה</l>
+          <l>והקול מתגבר הוא בוער חודר</l>
+          <l>אל הלב השותת</l>
+          <l>זיכרון שנקרש</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>החיים שעברו כמו שעון ממהר</l>
+          <l>אהבות שכבו כאורכו של הנר</l>
+          <l>נשמה הכמהה הכמהה לעוד</l>
+          <l>ריגושים מזדמנים וצלילי כינורות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קול שירת הזקנים</l>
+          <l>על פרידה מחבר</l>
+          <l>קול שירת מלווים</l>
+          <l>שאחד בה חסר</l>
+          <l>והקול מתגבר הוא בוער חודר</l>
+          <l>בשירת אל מלא</l>
+          <l>אל מלא רחמים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>החיים ......</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ריגושים מזדמנים וצלילי כינורות.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

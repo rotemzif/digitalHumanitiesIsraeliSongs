@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל מה שחי</title>
+        <singer classification="unknown">עלמה זהר</singer>
+        <writer>עלמה זהר</writer>
+        <composer>עלמה זהר</composer>
+        <album>שלושים ושלוש</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל מה שחי</head>
+        <lg number="1" type="stanza">
+          <l>תתרחק מהכבישים</l>
+          <l>אל השדות, אל חוף הים </l>
+          <l>תיזהר מאנשים</l>
+          <l>הם פוחדים מכל מה שחופשי</l>
+          <l>הרחובות המתפשטים</l>
+          <l>לא נשאר לך מקום</l>
+          <l>העשן בארובות</l>
+          <l>לא נותן לך לנשום </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלוהי כל מה שחי</l>
+          <l>כל מה שנברא לרוץ</l>
+          <l>כל מה שיכול לעוף</l>
+          <l>כל דבר שחי בחוץ</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נעלמו הפרפרים</l>
+          <l>שריחפו בילדותי</l>
+          <l>הצבים, הקיפודים</l>
+          <l>בגינה השכונתית</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלוהי כל מה שחי</l>
+          <l>כל מה שנברא לרוץ</l>
+          <l>כל מה שיכול לעוף</l>
+          <l>כל דבר שחי בחוץ</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תתרחק מהבתים</l>
+          <l>הישמר לנפשך</l>
+          <l>תיזהר מאנשים</l>
+          <l>הם הורגים כל מה שחי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בסוף תבכו</title>
+        <singer classification="band">היהודים</singer>
+        <writer>תום פטרובר</writer>
+        <composer>תום פטרובר</composer>
+        <album>פחד מוות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בסוף תבכו</head>
+        <lg number="1" type="stanza">
+          <l>אנ'לא יודע, אנ'לא מבין מה קורה לי</l>
+          <l>מסתבר שאני לא חוזר לא נראה לי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק ללכת מכאן</l>
+          <l>למתוח עוד יום</l>
+          <l>לנעול את הזמן</l>
+          <l>אני מנסה לנשום</l>
+          <l>ואיך אתם בסוף תבכו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אנ'לא בורח פשוט כואב לי לסלוח</l>
+          <l>מסתבר שאני לא בוחר מה לשכוח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק ללכת מכאן</l>
+          <l>למתוח עוד יום</l>
+          <l>לנעול את הזמן</l>
+          <l>אני מנסה לנשום</l>
+          <l>ואיך אתם בסוף תבכו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כוכב מזל</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>סמדר שיר</writer>
+        <composer>משה דץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כוכב מזל</head>
+        <lg number="1" type="stanza">
+          <l>כוכב שבמרומים כוכב מזל שלי,</l>
+          <l>האם אתה עוד ער? אני כאן, הקטנה</l>
+          <l>רוקמת מנגינה, האם אתה זוכר?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כוכב מזל, אותי אל תעזוב</l>
+          <l>כוכב מזל שלי, אל תאכזב.</l>
+          <l>לווה אותי ברע וגם בטוב</l>
+          <l>ושלח לי קרן אור, עוד קרן אור</l>
+          <l>לתוך הלב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ברגעים קשים כשחושך מסביב</l>
+          <l>ואין טיפת תקווה, אני כה בודדה,</l>
+          <l>בלי דרך אבודה, ממי אשאב שמחה?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כוכב מזל, אותי אל תאכזב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

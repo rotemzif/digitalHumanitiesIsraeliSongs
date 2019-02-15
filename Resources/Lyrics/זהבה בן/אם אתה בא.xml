@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם אתה בא</title>
+        <singer classification="female singer">זהבה בן</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>עוזי חיטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם אתה בא</head>
+        <lg number="1" type="stanza">
+          <l>אם אתה בא, אל נא תלך</l>
+          <l>ואם תלך, אל תחזור</l>
+          <l>כי העלבון והבושה</l>
+          <l>הם לא עוזבים את הלב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני לא הבובה עם הקפיץ בגבה</l>
+          <l>ולא צעצוע בתוך המסיבה</l>
+          <l>שפתאום אתה בא, מתפתל ונשבר</l>
+          <l>יורה ופוגע ועף לדרכך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם אתה כאן, אל תעזוב</l>
+          <l>אם תעזוב, אל תתקרב</l>
+          <l>כי העלבון והבושה</l>
+          <l>הם לא עוזבים את הלב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני לא הבובה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

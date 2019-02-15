@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בטלפון</title>
+        <singer classification="unknown">הבליינים</singer>
+        <writer>מאור כהן</writer>
+        <composer>אורן לוטנברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בטלפון</head>
+        <lg number="1" type="stanza">
+          <l>אני היום בים בשביל לראות אותך בוכה</l>
+          <l>על הכתף שלי זו התחלה</l>
+          <l>אני היום ברחוב איתך מביט באנשים</l>
+          <l>מזל שרק אני ואת יפים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עד עכשיו היו לי רק צרות</l>
+          <l>איך מצאתי אהבה כזאת, היום</l>
+          <l>אני שר לך פזמון בטלפון</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני היום בשוק כדי לבחור עגבנייה</l>
+          <l>היא מזכירה לי אהבה תמימה</l>
+          <l>אני במועדון איתך משחקים קלפים</l>
+          <l>את המלכה אני הנסיכים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עד עכשיו היו לי רק צרות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

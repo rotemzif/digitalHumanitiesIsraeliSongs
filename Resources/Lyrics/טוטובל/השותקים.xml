@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השותקים</title>
+        <singer classification="unknown">טוטובל</singer>
+        <writer>זאב נחמה</writer>
+        <composer>זאב נחמה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השותקים</head>
+        <lg number="1" type="stanza">
+          <l>אז לגמתי מים קדושים</l>
+          <l>עם התרופות המרגיעות</l>
+          <l>כי חייתי בין אנשים</l>
+          <l>במלחמות מטופשות</l>
+          <l>הייתי חי, רושם את סיפור חיי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמו השותקים שלא רואים ולא שומעים</l>
+          <l>ממש על סף הטירוף</l>
+          <l>אין לי מילים אין לי צבעים אין לי צלילים</l>
+          <l>אך יש לי נפש בגוף</l>
+          <l>ואלוהי, איה אלוהי?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז לגמתי יין אדום</l>
+          <l>לשכר את השקרים</l>
+          <l>וניסיתי למצוא לי מקום</l>
+          <l>לאחות את השברים</l>
+          <l>הטווס, יוצא לסיבוב מובס</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמו השותקים שלא רואים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ערי הגדה</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>שמוליק רוזן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ערי הגדה</head>
+        <lg number="1" type="stanza">
+          <l>שמם כתוב בליבנו בדף הראשון</l>
+          <l>אמא שרה אותם בליכתינו לישון</l>
+          <l>שמם רשום במחברת לימוד ישנה</l>
+          <l>הם איתנו כולם כל ימות השנה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בם כל אבן מקיר מלחשת תפילה</l>
+          <l>בם כל שער זוכר גיבורי תהילה</l>
+          <l>בם סיפור מקופל בכל צוק ונקרה</l>
+          <l>ושם הסיפור סיפורי המקרא</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יריחו ובית לחם ושכם וחברון</l>
+          <l>רחובות וגגות ובתים במדרון</l>
+          <l>יריחו ובית לחם חברון וגם שכם</l>
+          <l>רגלינו עומדות בגבולכם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שם שרה ראתה את יומה האחרון</l>
+          <l>מערה שם קנה אברהם מעפרון</l>
+          <l>ועמוס שם השמיע קולו בחרון</l>
+          <l>על פרות הבשן ועל בנות השומרון</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בהריע שופר איך נפלו שם חומות</l>
+          <l>רות פסעה שם בלאט בעקבי אלומות</l>
+          <l>שם נשפך הירדן אל תוך ים קדמוני</l>
+          <l>שם נולד לישי תינוק אדמוני</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יריחו ובית לחם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

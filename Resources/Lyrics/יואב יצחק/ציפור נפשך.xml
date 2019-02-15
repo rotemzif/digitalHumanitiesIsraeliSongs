@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ציפור נפשך</title>
+        <singer classification="male singer">יואב יצחק</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ציפור נפשך</head>
+        <lg number="1" type="stanza">
+          <l>שבועתנו הגדולה </l>
+          <l>מרחוק היא שם עולה </l>
+          <l>ושבה אל הנפש בטרוף</l>
+          <l>עוד זורמים במרחקים</l>
+          <l>מי הנחל הזכים </l>
+          <l>התשוקה המתוקה והליטוף </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך עזבתי את קן אהבתך </l>
+          <l>והכאבתי לציפור נפשך </l>
+          <l>איך עזבתי אותך עם הכאב </l>
+          <l>כשאהבתי אותך מכל הלב </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את הבית והחום </l>
+          <l>החיים שלי עד תום </l>
+          <l>את האמונה אם ילדי</l>
+          <l>כבר שנים את לבדך </l>
+          <l>והנטל על כתפף </l>
+          <l>ואם את אינך אינני חי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך עזבתי את קן אהבתך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

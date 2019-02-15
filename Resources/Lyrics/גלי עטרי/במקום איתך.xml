@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>במקום איתך</title>
+        <singer classification="female singer">גלי עטרי</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>במקום איתך</head>
+        <lg number="1" type="stanza">
+          <l>אבל בסוף כל המילים נשאר חלל גדול</l>
+          <l>ונעלמו כל השבילים שעוד היו אתמול</l>
+          <l>וכבר הרוח בחלון חובט בי לבדי</l>
+          <l>במקום איתך במקום איתך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הנה באים געגועים במקום המגעים</l>
+          <l>והסברים שלא עוזרים במקום מראה פנים</l>
+          <l>בסוף היום ידי ריקות חובקת את עצמי</l>
+          <l>במקום אותך במקום אותך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אין גשר על הים</l>
+          <l>אין קשר עד עולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשנפרדים באהבה זה מתסכל יותר</l>
+          <l>אני נצמדת לסיבה אבל זה לא עוזר</l>
+          <l>אולי הכל היה דמיון אהבתי לבדי</l>
+          <l>במקום איתך במקום איתך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אין גשר על הים</l>
+          <l>אין קשר עד עולם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

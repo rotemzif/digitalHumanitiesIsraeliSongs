@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הגלגל סובב לו</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הגלגל סובב לו</head>
+        <lg number="1" type="stanza">
+          <l>בוא ודבר איתי אמור הכל</l>
+          <l>פשוט חבל שסתם נסבול</l>
+          <l>בוא ותיקח אותי לגן קסום</l>
+          <l>חבק אותי באור עמום...</l>
+          <l>כי בלעדיך, אין לי כלום...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הגלגל סובב לו, סובב לו,</l>
+          <l>הוא לא חזר אלי,</l>
+          <l>הגלגל סובב לו, סובב לו,</l>
+          <l>הוא לא כתב אלי,</l>
+          <l>הגלגל סובב לו, וסובב לו,</l>
+          <l>כך עובדים עלי חיי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הרגש מפוצל וזה לא קל</l>
+          <l>הבית ריק כל קיר חונק</l>
+          <l>בוא וחבק אותי עזוב הכל</l>
+          <l>ניתן לגוף לומר הכל</l>
+          <l>פשוט חבל שסתם נסבול.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הגלגל סובב לו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

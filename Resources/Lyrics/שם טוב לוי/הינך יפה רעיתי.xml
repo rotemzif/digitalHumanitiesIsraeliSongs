@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הינך יפה רעיתי 6</title>
+        <singer classification="male singer">שם טוב לוי</singer>
+        <writer>מתוך שיר השירים</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הינך יפה רעיתי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>הינך יפה רעייתי</l>
+          <l>הינך יפה</l>
+          <l>הינך יפה, עיניים יונים</l>
+          <l>מבעד לצמתך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שערך כעדר העיזים שגלשו מהר גלעד</l>
+          <l>כחוט השני שפתותייך ומדברך נאווה</l>
+          <l>כפלח הרימון רקתך מבעד צמתך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הינך יפה רעייתי</l>
+          <l>הינך יפה</l>
+          <l>הינך יפה, עיניים יונים</l>
+          <l>מבעד לצמתך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חד גדיא 5</title>
+        <singer classification="female singer">שושנה דמארי</singer>
+        <writer>דן אלמגור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חד גדיא</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>חד גדיא חצוף ועיקש </l>
+          <l>רק לרעות בשקט ביקש </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חד גדיא חצוף ועיקש </l>
+          <l>רק לרעות בשקט ביקש </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גדי קטן, לבן וצח הוא </l>
+          <l>לתומו רעה באחו </l>
+          <l>וקולו הומה </l>
+          <l>מה, מה, מה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חד גדיא חצוף ועיקש </l>
+          <l>רק לרעות בשקט ביקש </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>חד גדיא חצוף ועיקש </l>
+          <l>רק לרעות בשקט ביקש</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

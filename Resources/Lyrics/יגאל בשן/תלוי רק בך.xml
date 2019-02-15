@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תלוי רק בך</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>דורי בן זאב</writer>
+        <composer>missing</composer>
+        <album>תלוי רק בך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תלוי רק בך</head>
+        <lg number="1" type="stanza">
+          <l>אהבה - טובים השניים</l>
+          <l>אהבה - זה כמו לשיר</l>
+          <l>אהבה - אור בעיניים</l>
+          <l>אהבה - שיר לשירים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואם זה תלוי רק בך</l>
+          <l>ואם זה תלוי רק בי</l>
+          <l>האהבה תמשיך לחיות לנצח</l>
+          <l>ואם זה תלוי רק בך</l>
+          <l>ואם זה תלוי רק בי</l>
+          <l>זה כתוב לשנינו על המצח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהבה - עושה לשמוח</l>
+          <l>אהבה - ואין לה גיל</l>
+          <l>אהבה - נותנת כוח</l>
+          <l>אהבה - אותי תוביל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואם זה תלוי רק בך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אהבה - אני קודח</l>
+          <l>אהבה - אותי תחלים</l>
+          <l>אהבה - הלב רותח</l>
+          <l>אהבה - אותי תשלים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואם זה תלוי רק בך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

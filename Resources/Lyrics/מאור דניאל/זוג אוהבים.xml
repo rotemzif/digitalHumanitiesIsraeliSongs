@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זוג אוהבים</title>
+        <singer classification="unknown">מאור דניאל</singer>
+        <writer>ברק לידני</writer>
+        <composer>אריק זנטי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זוג אוהבים</head>
+        <lg number="1" type="stanza">
+          <l>הלב שלי יהיה איתך לנצח</l>
+          <l>ויאהב אותך בחום ובתמימות</l>
+          <l>בכל שניה אני תמיד אדאג לך</l>
+          <l>שיהיה לך טוב בלב וחמימות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את אהבה שפותחת לי דלתות</l>
+          <l>ולא נותנת לי בדרך לטעות</l>
+          <l>זוג אוהבים אנחנו משמיים</l>
+          <l>זוג אוהבים שאוחזים ידיים</l>
+          <l>זה לא חלום זה מציאות</l>
+          <l>אנשום אותך גם כשאני אמות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דרכים שונות הפגישו את ליבנו</l>
+          <l>איך נוצר לו פה חלום של אהבה</l>
+          <l>מלאכים שבמרומים ברכו אותנו</l>
+          <l>שנהיה לגוף אחד בגאווה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את אהבה שפותחת לי דלתות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

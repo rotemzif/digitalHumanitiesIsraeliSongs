@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הכלב והאישה</title>
+        <singer classification="male singer">חמי רודנר</singer>
+        <writer>חמי רודנר</writer>
+        <composer>חמי רודנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הכלב והאישה</head>
+        <lg number="1" type="stanza">
+          <l>זה הסוף זה הסוף</l>
+          <l>עייפתי מנדוד</l>
+          <l>משוטט משוטט</l>
+          <l>אני כלב עייף</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ותאמרי ותאמרי:</l>
+          <l>חצרות רבות</l>
+          <l>וארכין את ראשי</l>
+          <l>אל קולר זועף</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני שורט את דלתותייך</l>
+          <l>הכניסיני אישה</l>
+          <l>כי עייפתי מהרוח</l>
+          <l>ומדרך קשה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את ידך את ידך</l>
+          <l>אלקק לתודה</l>
+          <l>אם תכניסי אותי</l>
+          <l>ארבוץ בשתיקה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לכאורה לכאורה</l>
+          <l>הדלת סגורה</l>
+          <l>אך הרוח איתי</l>
+          <l>חצתה מפתנה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני שורט את דלתותייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

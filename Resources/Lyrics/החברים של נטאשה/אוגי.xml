@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אוגי</title>
+        <singer classification="band">החברים של נטאשה</singer>
+        <writer>מיכה שטרית</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אוגי</head>
+        <lg number="1" type="stanza">
+          <l>אוגי גר ברחוב המכושף</l>
+          <l>מול הכובען המשוגע</l>
+          <l>יש לו חתול שקוראים לו היינץ</l>
+          <l>ואחות שקוראים לה סוזאן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>על העץ שרות התנשמות</l>
+          <l>גרגמל רצח את הדרדס</l>
+          <l>אוגי עף על מטאטא מקש</l>
+          <l>הזאב את סבתא אנס</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איפה, איפה הם כולם</l>
+          <l>איפה, איזה בלאגן</l>
+          <l>איפה, איפה הם כולם</l>
+          <l>איפה, איזה בלאגן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הצללים רוקדים על הקיר</l>
+          <l>לדמיון יש קצב נורא</l>
+          <l>הנסיכה מלאת תשוקה</l>
+          <l>לנשק צפרדע או צב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>איפה, איפה הם כולם</l>
+          <l>איפה, איזה בלאגן</l>
+          <l>איפה, איפה הם כולם</l>
+          <l>איפה, איזה בלאגן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

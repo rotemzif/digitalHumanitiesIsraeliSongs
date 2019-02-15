@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה מתחיל</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>ליאור נרקיס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה מתחיל</head>
+        <lg number="1" type="stanza">
+          <l>כביש מהיר מתמזג לאט לתוך העיר</l>
+          <l>הנוכחות שלך כבר באוויר, אני מרגיש אותך</l>
+          <l>אור נאון כל העיר מזמן הלכה לישון </l>
+          <l>אני רואה אותך מהחלון, כמעט נוגע </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וזה מתחיל אני רוצה כל הלילה להיות איתך </l>
+          <l>להתעורר על הבוקר לראות אותך </l>
+          <l>ולשמוע מחדש שאת אוהבת </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו תמיד עוד קומה אחת במעלית</l>
+          <l>עם שוקולד לבן כמו שרצית זה יעשה לך טוב </l>
+          <l>כל כולי מתרגש ואת פתאום מולי </l>
+          <l>לי רומזת בחיוך לילי, כמעט נוגע </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וזה מתחיל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

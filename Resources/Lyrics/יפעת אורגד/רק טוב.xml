@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק טוב 2</title>
+        <singer classification="unknown">יפעת אורגד</singer>
+        <writer>יפעת אורגד</writer>
+        <composer>יפעת אורגד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק טוב</head>
+        <lg number="1" type="stanza">
+          <l>זה משוגע, עוד יום ארוך עבר בלי מטרה,</l>
+          <l>ובלי מילים, מעבירים את כל מה שקרה.</l>
+          <l>זה מטורף, מחול שדים בחוץ בפנים שקט,</l>
+          <l>חלון נפתח, ואז הכל הולך ומתפרק.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהוב שלי, </l>
+          <l>תביט בי בעיניים</l>
+          <l>תחבק אותי,</l>
+          <l>תאמר שמעכשיו יהיה רק טוב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה משוגע, הלחי מלוחה עוד מאתמול,</l>
+          <l>זה מטורף, בפה מתוק צוחקת ללא קול.</l>
+          <l>כשעצוב, אתה תמיד נמצא פה לידי</l>
+          <l>וכששמח, זה רק בזכות זה שאתה אתי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהוב שלי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יום ועוד יום ועוד יום</l>
+          <l>תום ועוד תום ועוד תום</l>
+          <l>יום ועוד יום ועוד יום</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אהוב שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

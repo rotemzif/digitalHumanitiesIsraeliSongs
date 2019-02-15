@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בין אדם לאדם 2</title>
+        <singer classification="band">שלישיית המעפיל</singer>
+        <writer>שייקה פייקוב</writer>
+        <composer>שייקה פייקוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בין אדם לאדם</head>
+        <lg number="1" type="stanza">
+          <l>בין הלב אל הנפש ראית</l>
+          <l>הו, יושב במרומים לו רצית</l>
+          <l>בין אדם לאדם חידותי</l>
+          <l>בין אדם לאדם סודותי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אנא קרב ליבם ביום מועד וחול</l>
+          <l>לב אדם עשוי גם למחול</l>
+          <l>הו אלי ברכם לראות רק טוב</l>
+          <l>הו אלי אנא למדם לאהוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אנא ברכם אנא למדם לסלוח</l>
+          <l>אנא ברכם אנא אלי הטוב</l>
+          <l>אנא ברכם אנא למדם לשכוח</l>
+          <l>אנא ברכם אנא אלי הטוב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בשירי כה מעט הן ביקשתי</l>
+          <l>כי תשמע תפילתי לא נואשתי</l>
+          <l>הו שוכן במרומים הו יושב הר</l>
+          <l>אל תשכח אדוני נערי המחר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אנא קרב ליבם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

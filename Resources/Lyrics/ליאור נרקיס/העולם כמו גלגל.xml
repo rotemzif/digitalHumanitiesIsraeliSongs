@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>העולם כמו גלגל</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>מייק לוק</writer>
+        <composer>מייק לוק</composer>
+        <album>הופעה חיה בהיכל התרבות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>העולם כמו גלגל</head>
+        <lg number="1" type="stanza">
+          <l>את שקרנית לא מאמין לשום מילה שלך</l>
+          <l>את משקרת לעצמך וגם ללב שלך</l>
+          <l>תני לי ללכת את לא אוהבת</l>
+          <l>אני יודע שהוא היה איתך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>האהבה בלב נועדה לשניים</l>
+          <l>לאהוב אישה אחת ולא מתיים</l>
+          <l>תני לי ללכת את לא אוהבת</l>
+          <l>ואל תאמרי לי שעלי את רק חושבת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>העולם כמו גלגל מסתובב ושב</l>
+          <l>האהבה המתנות הכל היה לשווא</l>
+          <l>אין כמו האמת אני כבר מתמותת</l>
+          <l>העולם כמו גלגל מסתובב ושב</l>
+          <l>האהבה המתנות הכל היה לשווא</l>
+          <l>אני הולך מכאן חבל לי על הזמן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה לי עשית אני כל כך חולה מאהבה</l>
+          <l>מה לי עשית גם בחיי פתאום האור כבה</l>
+          <l>תני לי ללכת את לא אוהבת</l>
+          <l>ואל תאמרי לי שעלי את חושבת</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עוד יום יבוא ואת תבואי אלי בוכה אישה</l>
+          <l>לי תספרי שהוא עזב אותך בגלל אישה</l>
+          <l>את לא חושבת את לא לומדת</l>
+          <l>מה שלי עשית את בדיוק עכשיו עוברת</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>העולם כמו גלגל מסתובב ושב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

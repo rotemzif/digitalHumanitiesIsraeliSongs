@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחד לאחד</title>
+        <singer classification="female singer">נורית גלרון</singer>
+        <writer>נורית גלרון</writer>
+        <composer>עובד אפרת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחד לאחד</head>
+        <lg number="1" type="stanza">
+          <l>זה לא בזוג, זה לא בשניים</l>
+          <l>זו רק את - איתך</l>
+          <l>אחד לאחד</l>
+          <l>ברגעי הבדידות, בסחרחורת האושר</l>
+          <l>זו רק את - איתך</l>
+          <l>אחד לאחד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וכמה שנהיה ביחד</l>
+          <l>וכמה שנאהב </l>
+          <l>בסוף זו רק</l>
+          <l>אני - איתי</l>
+          <l>אתה - איתך</l>
+          <l>אחד לאחד</l>
+          <l>(זה בסוף אני - איתי</l>
+          <l>אתה - איתך</l>
+          <l>אחד לאחד)</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשתעמדי מול הראי, ואין טעם לברוח</l>
+          <l>זו רק את - איתך</l>
+          <l>אחד לאחד</l>
+          <l>כשתושיטי ידך, והגוף אז יבגוד בך</l>
+          <l>זו רק את - איתך</l>
+          <l>אחד לאחד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וכמה שנהיה ביחד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בתחושת הכאב, וברגע העונג</l>
+          <l>זו רק את - איתך</l>
+          <l>אחד לאחד</l>
+          <l>את שווי הזמן, ובפחד המוות</l>
+          <l>זו רק את - איתך</l>
+          <l>אחד לאחד</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>וכמה שנהיה ביחד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

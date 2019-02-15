@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואי תגידי</title>
+        <singer classification="male singer">רגב הוד</singer>
+        <writer>רינת בר</writer>
+        <composer>אלי קשת</composer>
+        <album>מהפך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואי תגידי</head>
+        <lg number="1" type="stanza">
+          <l>אני הולך ושומע</l>
+          <l>את קולך בדימיוני</l>
+          <l>את כמו חלום</l>
+          <l>רוצה אותך כאן לצידי</l>
+          <l>זיכרונות מתוקים שלי ושלך</l>
+          <l>חלומות מתגשמים עלי ועלייך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואי תגידי שאת אוהבת אותי</l>
+          <l>בואי תאמרי לי שאת</l>
+          <l>רוצה כל כך שאני אבוא אלייך</l>
+          <l>אוהב, אוהב אותך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני חולם ושוקע</l>
+          <l>ניזכר בכל מה שהיה </l>
+          <l>ובליבך אני נוגע </l>
+          <l>אעטוף אותך באהבה</l>
+          <l>זיכרונות מתוקים שלי ושלך </l>
+          <l>חלומות מתגשמים עלי ועלייך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בואי תגידי שאת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מבט כואב</title>
+        <singer classification="unknown">משה כהן</singer>
+        <writer>פרדי טייפור</writer>
+        <composer>פרדי טייפור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מבט כואב</head>
+        <lg number="1" type="stanza">
+          <l>את קולך מתוך השקט שומע</l>
+          <l>היה קשה בך פגעתי אני יודע</l>
+          <l>את בכית לא אשכח את ענייך</l>
+          <l>איך הייתי מטורף אחרייך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מבט כואב</l>
+          <l>אדם אוהב</l>
+          <l>מבט כואב</l>
+          <l>אוהב</l>
+          <l>אלוקים אנא רחם סבלתי די</l>
+          <l>שלח מלאך שינחם את מכאובי</l>
+          <l>לילה לילה מתעטף בייסורי</l>
+          <l>בייסורי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אזעקה מתוך ליבי יוצאת אלייך</l>
+          <l>איך דמי רותח בלעדייך</l>
+          <l>בלילות חולם רק עלייך</l>
+          <l>וביום מחפש אחרייך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מבט כואב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשתבוא תראה</title>
+        <singer classification="female singer">שלומית אהרון</singer>
+        <writer>אדמית הראל</writer>
+        <composer>ליאור אלבו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשתבוא תראה</head>
+        <lg number="1" type="stanza">
+          <l>כשתבוא בצערך בדומיית שתיקתך</l>
+          <l>בראש מורכן, כשתבוא תראה</l>
+          <l>עודני כאן.</l>
+          <l>כשתבוא בבדידותך, בסער כאבך</l>
+          <l>עייף ומזוקן, כשתבוא תראה</l>
+          <l>עודני כאן.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלטף זיפים שלא עברו בתער</l>
+          <l>אנשק דמעות שקופות של צער</l>
+          <l>אחבק את כבדות הזמן</l>
+          <l>כשתבוא תראה עודני כאן.</l>
+          <l>אלטף זיפים שלא עברו בתער</l>
+          <l>אנשק דמעות שקופות של צער</l>
+          <l>אחבק את כבדות הזמן</l>
+          <l>כשתבוא תראה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשתבוא אלי בסוף</l>
+          <l>אל השלווה, אל החוף,</l>
+          <l>כמו הרגל ישן, </l>
+          <l>כשתבוא תראה עודני כאן.</l>
+          <l>כשתבוא לא אשאל מדוע, לא אשאל היכן</l>
+          <l>כשתבוא אהיה, אהיה כאן.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלטף זיפים שלא עברו בתער...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

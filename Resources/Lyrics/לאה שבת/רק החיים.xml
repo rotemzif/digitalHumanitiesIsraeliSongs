@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק החיים 5</title>
+        <singer classification="female singer">לאה שבת</singer>
+        <writer>לאה שבת</writer>
+        <composer>לאה שבת</composer>
+        <album>כל השירים - אוסף</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק החיים</head>
+        <lg number="1" type="stanza">
+          <l>סך הכל אני רוצה,</l>
+          <l>לחיות את חיי בשקט.</l>
+          <l>לא רוצה מלחמות, לא לא.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נמאס לי להתנדנד,</l>
+          <l>בין חום לקור, בין רע לטוב,</l>
+          <l>רוצה לחיות בכיף...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רק החיים, לוקחים אותי.</l>
+          <l>החיים, נוהגים אותי.</l>
+          <l>רק החיים, לוקחים אותי,</l>
+          <l>החיים, נוהגים אותי, נוהגים אותי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>סך הכל אני רוצה,</l>
+          <l>לחיות את חיי בשקט,</l>
+          <l>לא רוצה מלחמות, לא לא.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נמאס לי להתנדנד,</l>
+          <l>בין חום לקור, בין רע לטוב,</l>
+          <l>רוצה לחיות בכיף, בכיף...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רק החיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

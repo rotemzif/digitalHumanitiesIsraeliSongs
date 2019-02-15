@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>So Low</title>
+        <singer classification="female singer">לילך עין הבר</singer>
+        <writer>לילך עין הבר</writer>
+        <composer>לילך עין הבר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>So Low</head>
+        <lg number="1" type="stanza">
+          <l>you are one of a kind </l>
+          <l>you are something else </l>
+          <l>I have never met </l>
+          <l>anyone like you </l>
+          <l>one of a kind </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>so low </l>
+          <l>you’ve brought me so low </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>you’re superfluous </l>
+          <l>superfluous </l>
+          <l>I have never met </l>
+          <l>anyone like you </l>
+          <l>superfluous </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>so low </l>
+          <l>you’ve brought me so low </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>what is great (what?) </l>
+          <l>Is that this is as low as it gets </l>
+          <l>and the only way for me </l>
+          <l>now is up </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>so low </l>
+          <l>you’ve brought me so low </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>you are one of a kind </l>
+          <l>superfluous</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

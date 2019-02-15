@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שביל ההתחלות</title>
+        <singer classification="unknown">חבורת הזמר של בית הלוחם</singer>
+        <writer>רוני גרוס</writer>
+        <composer>עוזי אסנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שביל ההתחלות</head>
+        <lg number="1" type="stanza">
+          <l>לווני נא, חבר, אל שביל ההתחלות,</l>
+          <l>שם קצה דרכים עולות.</l>
+          <l>ובלכתך עמי תוכל אז לגלות,</l>
+          <l>כי אין דבר כמו התחלות קלות.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי אין תחילה בלי קץ</l>
+          <l>וקץ בלא תחילה,</l>
+          <l>משני מזרח מנץ</l>
+          <l>ועד שקיעה סגולה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הים הכי עמק מתחיל מהנהר,</l>
+          <l>והנהר, מעין הוא ניגר.</l>
+          <l>מסע הכי רחוק, מצעד נאגר,</l>
+          <l>הצעד - הנף שריר קטן וצר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי אין תחילה בלי קץ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

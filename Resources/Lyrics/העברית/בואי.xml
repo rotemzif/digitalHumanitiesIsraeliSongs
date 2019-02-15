@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואי 63</title>
+        <singer classification="unknown">העברית</singer>
+        <writer>ערן פרץ</writer>
+        <composer>אורון שרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואי</head>
+        <lg number="1" type="stanza">
+          <l>בואי ותלבישי אותי בשמלה לבנה</l>
+          <l>בואי זה קורה כבר עכשיו זה יקרה</l>
+          <l>עו שנה</l>
+          <l>בואי נעבור על השביל זו תקופה</l>
+          <l>משתנה</l>
+          <l>בואי סימני אלימות את נראית משונה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואם לא נתרגש מנופים משונים</l>
+          <l>שצבועים באדום</l>
+          <l>אז נדע שניסינו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בואי ותרגישי איתי אהבה ראשונה</l>
+          <l>בואי ואלחש לך סודות רק כשאת ישנה</l>
+          <l>בואי ציורי אוונגרד מתחבאים בפינה</l>
+          <l>בואי ותלבישי אותי בשמלה לבנה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואם לא נתרגש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

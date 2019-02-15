@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אותיות זהב</title>
+        <singer classification="unknown">רן כהן</singer>
+        <writer>רן כהן</writer>
+        <composer>רן כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אותיות זהב</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>עד שיתכסו חייו בחול לבן עבר וחם, </l>
+          <l>רק אז יפקח עיניו, </l>
+          <l>יראה אותי עומדת כאן, </l>
+          <l>ודאי אסמיק, אסיט פני, אך אתפלל למבטך. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תבוא, תושיט לי יד, </l>
+          <l>תאמר מילים שקטות יפות נורא, </l>
+          <l>באותיות זהב כתוב אני שלך. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואין לי מלבדך עוד מה לנשום לתוך גופי, </l>
+          <l>אני נחנקת מבפנים, </l>
+          <l>מולי חולפים הרגעים, </l>
+          <l>מחכה להיות בתוכם ואיתך. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תבוא, תושיט לי יד... </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עד שיתכסו חייו בחול לבן עבר וחם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

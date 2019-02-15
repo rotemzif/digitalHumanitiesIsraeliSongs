@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר לפנות ערב</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>רימונה די-נור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר לפנות ערב</head>
+        <lg number="1" type="stanza">
+          <l>לשבת על הדשא להציץ בכוכבים</l>
+          <l>להילכד ברשת הדברים האהובים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לראות אותך נדבקת אל החול על שפת הים</l>
+          <l>לשוב ולשחק את כל מה שהיה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זה שיר לפנות ערב זה שיר של דמדומים</l>
+          <l>היום דוהה אפור כהה שמיים אדומים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לראות טיפות שלכת צוללות אל הירקון</l>
+          <l>ומתופפות שיר לכת המוביל לשום מקום</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לפסוע בגרביים על גבי מחצלות</l>
+          <l>למזוג דמעות ויין לזכר הלילות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה שיר לפנות ערב...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>לקרוא עוד דף בספר ולמחוק ראשי תיבות</l>
+          <l>לזרוק את כל האפר שנותר מלהבות</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>לתת קוצים כשי לך וללחוש באור עמום</l>
+          <l>לומר שוב איזה לילה ואיזה שעמום</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>זה שיר לפנות ערב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

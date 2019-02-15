@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רגעי חמלה</title>
+        <singer classification="band">האנשים</singer>
+        <writer>ערן נתנס</writer>
+        <composer>ערן נתנס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רגעי חמלה</head>
+        <lg number="1" type="stanza">
+          <l>ראיתי מה כי טוב</l>
+          <l>חוטים שזורים מחלפותייך יפתי</l>
+          <l>מה יפה אהבתך אליי מה יפה אהבתי</l>
+          <l>טובות אליי עינייך</l>
+          <l>את איתי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי טובים רגעי חמלה אלינו לעתים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ראיתי מה כי טוב</l>
+          <l>הרוח והים עוטפים אותי</l>
+          <l>הו חיוכך עוטף כתפך בידי</l>
+          <l>טועם בשרך טיפות לבך על ליבי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי טובים רגעי חמלה אלינו לעתים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שרתה השלווה הכעס כבה</l>
+          <l>רק הרוח טובה עלייך עלי</l>
+          <l>על כולם</l>
+          <l>לעולם</l>
+          <l>אמן.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי טובים רגעי חמלה אלינו לעתים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ספר חייך</title>
+        <singer classification="unknown">נאוה מדינה</singer>
+        <writer>נאוה מדינה</writer>
+        <composer>נאוה מדינה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ספר חייך</head>
+        <lg number="1" type="stanza">
+          <l>אני חיה אותך מיום הולדתי</l>
+          <l>כל יום, כל שבוע, כל שנה..</l>
+          <l>ולמדתי את חייך בחיי שלי</l>
+          <l>שמרתי את הכל בצידי השמאלי</l>
+          <l>כל חוכמה בדרך ארץ חרוטה בנישמתי</l>
+          <l>ונותרתי בלעדיך, כה שונה אני</l>
+          <l>כבר לא אני..</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך שהזמן את הכאב רק מחזק</l>
+          <l>תגיד לי איך אוכל עם זה להתמודד</l>
+          <l>געגועיי בנישמתי תקעו יתד</l>
+          <l>ורק קולך עוד מהדהד.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני חיה אותך מיום הולדתי</l>
+          <l>כל יום, כל שבוע, כל שנה..</l>
+          <l>בדפים האחרונים נכתב סיפור ללא מילים</l>
+          <l>שם ישבת ושתקת, בנפשך רק התעטפת</l>
+          <l>נשיקה אחרונה לנשמה בשלווה של הדממה</l>
+          <l>וממשיכה לחיות אותך</l>
+          <l>גם לאחר שסגרת את ספר חייך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך שהזמן את הכאב רק מחזק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תביני ילדונת</title>
+        <singer classification="unknown">גולן אברהם</singer>
+        <writer>אופיר כהן</writer>
+        <composer>משה פרץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תביני ילדונת</head>
+        <lg number="1" type="stanza">
+          <l>את הפרח שלי הכל בשבילי </l>
+          <l>סוגד לעינייך יום ולילה </l>
+          <l>זה לא עוד משהו זמני</l>
+          <l>אני רציני נאהב כל הלילה </l>
+          <l>אני רציני נאהב כל הלילה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תביני ילדונת רק בגללך אני כבר לא נרדם כמה לילות </l>
+          <l>תביני ילדונת שבלעדייך אני לא יכול לחיות </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את עוברת מולי זה לא בשבילי</l>
+          <l>כשאת לא איתי הלילה</l>
+          <l>אני עוד אשתנה ארמון לך אבנה על הר שם למעלה</l>
+          <l>ארמון לך אבנה על הר שם למעלה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תביני ילדונת רק בגללך אני כבר לא נרדם כמה לילות</l>
+          <l>תביני ילדונת שבלעדייך אני לא יכול לחיות </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את כמו רוח נושבת התגנבת לחיי</l>
+          <l>את ליבי רק מבלבלת ומטריפה לי את חושי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

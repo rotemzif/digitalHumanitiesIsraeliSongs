@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הביתה הלוך חזור 2</title>
+        <singer classification="female singer">כברה קסאי</singer>
+        <writer>עידן רייכל</writer>
+        <composer>עידן רייכל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הביתה הלוך חזור</head>
+        <lg number="1" type="stanza">
+          <l>אתה רואה איך זה מרגיש בבית</l>
+          <l>אתה חושב שאני לא</l>
+          <l>אבל בפנים לפעמים נזכרת</l>
+          <l>שגם אני מפה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני רואה איך שאתה פורח</l>
+          <l>אתה חושב שאני לא</l>
+          <l>אבל גם לי מתחת יש עוד שורש</l>
+          <l>וגם אני מפה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עכשיו נוסעים הביתה הלוך חזור</l>
+          <l>עכשיו עוצרים בדרך, עכשיו אפשר לבחור</l>
+          <l>לשאול על סוף, על התחלה</l>
+          <l>על שיהיה ושהיה</l>
+          <l>על שהייתי יכולה להיות וגם אתה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אתה רואה איך זה מרגיש בבית,</l>
+          <l>אתה חושב שאני לא,</l>
+          <l>אבל בפנים לפעמים נזכרת</l>
+          <l>שגם אני מפה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עכשיו נוסעים הביתה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

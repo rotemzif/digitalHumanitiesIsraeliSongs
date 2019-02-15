@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>All Around</title>
+        <singer classification="female singer">יעל קראוס</singer>
+        <writer>יעל קראוס</writer>
+        <composer>בן הנדלר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>All Around</head>
+        <lg number="1" type="stanza">
+          <l>I have no place else to go tonight </l>
+          <l>Would you take me? </l>
+          <l>I have lost the keys to my house </l>
+          <l>Would you take me? </l>
+          <l>I will fill your room with caressing lights </l>
+          <l>If you'll take me </l>
+          <l>I will make hot tea with sunrise </l>
+          <l>If you'll take me </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>All around it goes </l>
+          <l>A ball is round and you should know </l>
+          <l>What comes goes </l>
+          <l>All around is gold </l>
+          <l>The world is bound for you to know </l>
+          <l>What comes goes </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Clouds are closing down on the streets tonight </l>
+          <l>Would you have me? </l>
+          <l>Selfish rain is pouring on this town </l>
+          <l>Would you have me? </l>
+          <l>I will put clean sheets on your bed tonight </l>
+          <l>If you'll have me </l>
+          <l>I will sit and wait for you each night </l>
+          <l>If you'll have me </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>All around it goes... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>Don't let me fall</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

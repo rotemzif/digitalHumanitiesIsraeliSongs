@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בחצר של אלינור</title>
+        <singer classification="male singer">יובל בנאי</singer>
+        <writer>יובל בנאי</writer>
+        <composer>יובל בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בחצר של אלינור</head>
+        <lg number="1" type="stanza">
+          <l>בחצר של אלינור</l>
+          <l>מול הגן הופך לשיכור</l>
+          <l>מהפריחות מהצבעים</l>
+          <l>על המרפסת זה נעים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בחצר של אלינור</l>
+          <l>שם שחור הופך לאור</l>
+          <l>והקרירות בין הקירות</l>
+          <l>צל העצים ציפורים שרות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לפעמים החיים הם יפים</l>
+          <l>בלי להסביר בלי דימויים</l>
+          <l>לפעמים רגע מדהים</l>
+          <l>כמו אחד שצייר לו אלוהים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בחצר של אלינור</l>
+          <l>כלים עתיקים וצליל של כינור</l>
+          <l>מתנגן ומתגנב </l>
+          <l>ומרומם לי את הלב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לפעמים החיים הם יפים...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>בחצר של אלינור</l>
+          <l>אין קדימה אין אחור</l>
+          <l>בין הסגולים בין הכחולים</l>
+          <l>יש שתיקות פחות מילים</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>לפעמים החיים הם יפים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

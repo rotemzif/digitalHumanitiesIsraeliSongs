@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האחד שלך</title>
+        <singer classification="male singer">כפיר אדרי</singer>
+        <writer>דודו אהרון</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האחד שלך</head>
+        <lg number="1" type="stanza">
+          <l>תני לי להיות האחד שלך</l>
+          <l>אתן לך את כולי</l>
+          <l>תני להיות הנסיך שלך</l>
+          <l>רוצה רק להגשים איתך </l>
+          <l>את כל החלומות </l>
+          <l>לתת לך הרגשה כזאת </l>
+          <l>שתמלא את כל הלב שלך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש לך לב</l>
+          <l>ואותך אני אוהב</l>
+          <l>כי את האישה של החיים שלי</l>
+          <l>של החיים שלי</l>
+          <l>יש אותך ואת יפה כל כך</l>
+          <l>מבקש כבר את הלב שלך</l>
+          <l>את כל הלב שלך</l>
+          <l>אותך אוהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל מה שאני מרגיש עכשיו</l>
+          <l>רוצה לך להגיד</l>
+          <l>את מיוחדת בשבילי</l>
+          <l>מרגיש כה אמיתי</l>
+          <l>רוצה לתת לך אהבה</l>
+          <l>שתלטף את הנשמה</l>
+          <l>ותמלא את כל הלב שלך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש לך לב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כי בשבילך אתן הכל אהובתי</l>
+          <l>רק בשבילך אתן את החיים שלי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יש לך לב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

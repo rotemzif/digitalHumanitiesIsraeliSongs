@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תאר לך</title>
+        <singer classification="band">לולה</singer>
+        <writer>תומר שרון</writer>
+        <composer>אבי גרייניק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תאר לך</head>
+        <lg number="1" type="stanza">
+          <l>תאר לך בית קטן עם גדר</l>
+          <l>צייר לך כלב ילדה ואיש</l>
+          <l>תאר לך רקע כחול וענן</l>
+          <l>צייר לך שמש ירח וגן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תאר לך מים חמים וזורמים</l>
+          <l>צייר לך דלת מיטה וספרים</l>
+          <l>תאר לך את התמונה השלמה</l>
+          <l>צייר לך אולי תמונה דומה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גן ובית</l>
+          <l>כחול שמיים</l>
+          <l>אור ירח</l>
+          <l>שיר שמח.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

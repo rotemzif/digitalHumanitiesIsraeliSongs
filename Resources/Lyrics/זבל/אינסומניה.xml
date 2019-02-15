@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אינסומניה</title>
+        <singer classification="band">זבל</singer>
+        <writer>יגאל רן דואק</writer>
+        <composer>צבי בן טוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אינסומניה</head>
+        <lg number="1" type="stanza">
+          <l>רעשים, דלתות שנסגרות,</l>
+          <l>ילדים צוחקים והכל נשאר לך בתוך הראש.</l>
+          <l>כל הסיכויים מראים שתישאר איתם עד שתחנק.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שוב קם, שוב קם מתוך שינה לרדוף אחרי חלום.</l>
+          <l>הקולות, הקולות ממשיכים לדבר אלי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בלי סיבות, בלי סיבות, כל שתבקש אתן גם בלי לראות.</l>
+          <l>בלי לגעת אני ארגיש כבר את הכל,</l>
+          <l>כל יום מחדש הוא נכנס לי אל תוך העור.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

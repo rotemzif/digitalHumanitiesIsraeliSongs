@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יומי הוא חלום</title>
+        <singer classification="male singer">שי נובלמן</singer>
+        <writer>שי נובלמן</writer>
+        <composer>וויליאם שלר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יומי הוא חלום</head>
+        <lg number="1" type="stanza">
+          <l>העולם עמד שותק, והשחר החוויר</l>
+          <l>מתבונן מצד לצד, אין את מי להאשים</l>
+          <l>כן חלפו שנים רבות, מה לעשות?</l>
+          <l>מנגינת פסנתר, צבע בגדר, שוב זה חוזר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ויומי הוא חלום</l>
+          <l>ויומי הוא חלום</l>
+          <l>יומי הוא חלום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מכתבים על השולחן, ממתינים עוד לתשובה</l>
+          <l>אותיות והיסוסים ופתאום האור עלה</l>
+          <l>הם אומרים לי "תזהר! תוותר!"</l>
+          <l>לא יכול לנשום, רק רוצה לרשום שיר אחרון</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ויומי הוא חלום</l>
+          <l>ויומי הוא חלום</l>
+          <l>יומי הוא חלום</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הם אומרים לי "תזהר! תשקר!"</l>
+          <l>לא יכול לנשום, רק רוצה לרשום שיר אחרון</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

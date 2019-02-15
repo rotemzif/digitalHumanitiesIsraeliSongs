@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יוך יוך</title>
+        <singer classification="male singer">מיקי גבריאלוב</singer>
+        <writer>מיקי גבריאלוב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יוך יוך</head>
+        <lg number="1" type="stanza">
+          <l>אל תביט קרוב אל תביט רחוק</l>
+          <l>הסתכל לי בעיניים אל תביט בבוז</l>
+          <l>ניראה כמו איש רגיל מרגיש כמו אף אחד</l>
+          <l>פעם הוא ביחד פעם הוא לבד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יוך יוך עושים לי רע</l>
+          <l>יוך יוך בכל צורה</l>
+          <l>צוחקים ובלי בושה</l>
+          <l>הם שחכו מאהבה יוך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא קדוש אני לא צדיק אני לא צדיק תמים</l>
+          <l>אבל את החלש וגם את הרש</l>
+          <l>לא רמסתי בדרכי ולא הרכנתי ראש</l>
+          <l>לא התאמתי את עצמי למזג האויר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יוך יוך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני רק בן אדם ואני לא שטן</l>
+          <l>הסתכל לי בעיניים אל תביט בבוז</l>
+          <l>אתה כה מגונדר בצווארון לבן</l>
+          <l>אבל אותך הבגד עוד לא עושה אדם</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יוך יוך...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>לא חסכן אני לא נדבן אני לא אדם טיפש</l>
+          <l>אבל את מה שיש לא קטפתי מהעץ</l>
+          <l>לא זורע לא קוצר לא הרכנתי ראש</l>
+          <l>ולא התאמתי את עצמי למזג האויר</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>יוך יוך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

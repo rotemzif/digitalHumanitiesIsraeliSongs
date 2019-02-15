@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נמה ביום</title>
+        <singer classification="unknown">יובל זדרמן</singer>
+        <writer>יובל זדרמן</writer>
+        <composer>יובל זדרמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נמה ביום</head>
+        <lg number="1" type="stanza">
+          <l>איך שלא ניסתה להתריע </l>
+          <l>סימני החלשות ששידרה חלפו על פני</l>
+          <l>מבט שואל שלה גורם להזיע </l>
+          <l>ואולי לא הבנתי את מה שרצתה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איך שלא מנסה להגיע אליה </l>
+          <l>חלונות שניפצתי היום פתוחים לרווחה </l>
+          <l>התגובות הקרות שלה גרמו לי לשכוח </l>
+          <l>ואולי לא נתנה לי אף פעם סיבה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>נמה ביום </l>
+          <l>ובלילה משחק פיתויים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>(לא ישנתי כל הלילה, חשבתי עלייך)</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>איך זה ששדים קטנים באים אלי</l>
+          <l>מנסים לשחק בראשי שאומר לה מילה </l>
+          <l>הבתים הקטנים ששיגעו אותם כבר שכחתי </l>
+          <l>ואולי זה לא יגמר לעולם </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>נמה ביום </l>
+          <l>ובלילה משחק פיתויים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

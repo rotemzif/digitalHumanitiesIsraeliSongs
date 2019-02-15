@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תני לי 72</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>מרטין גל</writer>
+        <composer>לא ידוע</composer>
+        <album>איך שבא לי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תני לי</head>
+        <lg number="1" type="stanza">
+          <l>בבוקר מוקדם התעוררתי פתאום</l>
+          <l>לא היית שם נעלמת בלי שלום</l>
+          <l>מאז שעזבת הבית דומם</l>
+          <l>לו רק ידעת מה שעלי עובר</l>
+          <l>דמעותיי קופאות בחוץ קר</l>
+          <l>מחשבות עפות כלום לא נשאר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תני לי</l>
+          <l>שוב אותך קרוב אלי</l>
+          <l>תני לי</l>
+          <l>את הסוף לדמעותי</l>
+          <l>תני לי</l>
+          <l>נשיקה אחת ודי</l>
+          <l>תני לי</l>
+          <l>שוב את חיי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>סופר את הזמן עוברים הימים</l>
+          <l>מקווה שגם את מתגעגעת לפעמים</l>
+          <l>רוצה לראותך נרדמת לצדי</l>
+          <l>רוצה לחבק אותך יפה שלי</l>
+          <l>דמעותיי קופאות בחוץ קר</l>
+          <l>מחשבות עפות כלום לא נשאר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תני לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

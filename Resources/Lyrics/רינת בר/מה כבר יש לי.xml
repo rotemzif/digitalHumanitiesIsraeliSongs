@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה כבר יש לי</title>
+        <singer classification="female singer">רינת בר</singer>
+        <writer>עינת הולנדר</writer>
+        <composer>אריק זנטי</composer>
+        <album>חיכיתי לך / אלבום חפלה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה כבר יש לי</head>
+        <lg number="1" type="stanza">
+          <l>בחיי שרק היום הבנתי</l>
+          <l>כמה שאתה חשוב לי.</l>
+          <l>חודשים שלמים שהתעלמתי,</l>
+          <l>אך הנפש כבר ידעה...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ושואלת את עצמי איך קרה שלא ראיתי.</l>
+          <l>מאושרת בחלקי שאותך סוף סוף גיליתי,</l>
+          <l>זכיתי.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בלעדיך מה כבר יש לי,</l>
+          <l>מה כבר יש לי בכלל?</l>
+          <l>כי ללב שלי אתה חידה פתורה,</l>
+          <l>רק תאהב אותי בחזרה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נפצה על כל מה שהפסדנו,</l>
+          <l>מעכשיו אנחנו יחד.</l>
+          <l>זה ברור שלאהוב נועדנו</l>
+          <l>אז חבל על כל דקה.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ושואלת את עצמי איך קרה שלא ראיתי.</l>
+          <l>מאושרת בחלקי שאותך סוף סוף גיליתי,</l>
+          <l>זכיתי.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בלעדיך מה כבר יש לי,</l>
+          <l>מה כבר יש לי בכלל?</l>
+          <l>כי ללב שלי אתה חידה פתורה,</l>
+          <l>רק תאהב אותי בחזרה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

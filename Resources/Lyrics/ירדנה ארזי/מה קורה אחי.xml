@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה קורה אחי</title>
+        <singer classification="female singer">ירדנה ארזי</singer>
+        <writer>יהודה פוליקר</writer>
+        <composer>יהודה פוליקר</composer>
+        <album>בושם על עורי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה קורה אחי</head>
+        <lg number="1" type="stanza">
+          <l>הוא משוגע על המדינה אבל חולם להגר </l>
+          <l>רק שבוע בחו"ל ומיד הוא חוזר </l>
+          <l>מורעל על הצבא שונא מילואים </l>
+          <l>ושר את ההמנון בלי לדעת את המילים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עם ארבע על ארבע הוא גולש בחופים </l>
+          <l>מתמקח על כל שקל מהמר באלפים </l>
+          <l>בין עמבה לטחינה בלונדינית מטריפה </l>
+          <l>הוא בולס את החיים עם פתק החלפה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז מה קורה אחי תראה מה המצב </l>
+          <l>מהחיים בזבל כל יום נולד כוכב </l>
+          <l>בין ארץ נהדרת וממשלת מעבר </l>
+          <l>חולמים על הישרדות כמו לא יהיה מחר </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מתפלץ מהשחיתות ומתחמן את כולם </l>
+          <l>מעריץ את הקשיחות מפחד לתרום דם </l>
+          <l>חוגג את החיים עם שירי דכאון </l>
+          <l>הוא נכנס אחרון ומגיע ראשון </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אז מה קורה אחי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תראי 3</title>
+        <singer classification="female singer">דיקלה</singer>
+        <writer>ארז ברזוליק</writer>
+        <composer>דיקלה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תראי</head>
+        <lg number="1" type="stanza">
+          <l>בואי, בואי אהבה אלי, בואי,</l>
+          <l>אני כמו פרח לא מוגן, בואי,</l>
+          <l>חיכיתי לך בגן.</l>
+          <l>למה, הדמעות שלך עכשיו, למה?</l>
+          <l>את כמו נחל נעזב, למה רודפים אותך כולם?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תראי, תראי</l>
+          <l>השמיים פתוחים מעלינו</l>
+          <l>יורדים ונוגעים, זאת עונת פיתויים בינינו</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תראי, תראי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לילה, לאן עולים החלומות בלילה?</l>
+          <l>האם תדעי גם את לראות בלילה?</l>
+          <l>את מיטתי ריקה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בואי, אהבה גדולה אלי, בואי,</l>
+          <l>אני כמו פרח לא מוגן, בואי -</l>
+          <l>חיכיתי לך בגן</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תראי, תראי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

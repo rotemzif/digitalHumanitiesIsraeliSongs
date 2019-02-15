@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נברך את אבא</title>
+        <singer classification="unknown">עופר רז</singer>
+        <writer>ראובן כרמל</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נברך את אבא</head>
+        <lg number="1" type="stanza">
+          <l>הלכתי בדרך קשה מסובכת </l>
+          <l>טעיתי לא פעם אך בי האמנת </l>
+          <l>נתת בי כוח, סללת לי דרך</l>
+          <l>שמיים יעידו כמה שניסיתי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היו לי ימים שלא האמנתי </l>
+          <l>רציתי לברוח, אך לא העזתי </l>
+          <l>פרשתי ידיים, זעקתי לאבא </l>
+          <l>פתאום משמיים לי כוח שלחת </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נברך את אבא על מה שעשה לי </l>
+          <l>על האמונה, איך שהתחזקתי </l>
+          <l>נברך את אבא, חזק בכל הכוח </l>
+          <l>נתפלל אליך מלך המלכים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל מה שניסיתי אבד עם הרוח </l>
+          <l>השפלתי עיניים רציתי לנוח </l>
+          <l>טעיתי לא פעם, טעיתי בדרך </l>
+          <l>רציתי לברוח, רציתי ללכת </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>היו לי ימים שלא האמנתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

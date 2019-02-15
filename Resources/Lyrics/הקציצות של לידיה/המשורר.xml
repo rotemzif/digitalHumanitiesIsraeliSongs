@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המשורר 2</title>
+        <singer classification="unknown">הקציצות של לידיה</singer>
+        <writer>אביתר אדרי</writer>
+        <composer>אביתר אדרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המשורר</head>
+        <lg number="1" type="stanza">
+          <l>הוא לא יוכל שוב לאהוב, </l>
+          <l>היא לא הותירה לו דבר מלבד אותו חלום שורף. </l>
+          <l>ובעוד הזמן מרחיק אותה הרחק מזרועותיו, </l>
+          <l>נותר לו רק להיזכר שבלבה מצא שלווה. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלפי שירים מצאו דרכם אל מכתבו- </l>
+          <l>היא לא תדע זאת לעולם. </l>
+          <l>הגעגוע לא עוזב את נשמתו, </l>
+          <l>לילות קרים צורבים את שארית כוחו. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מגע ידה צרוב על כף ידו, </l>
+          <l>עיניו כמהות למבטה הקר, לחיוכה. </l>
+          <l>ורק אם תפנה ראשה אליו, </l>
+          <l>יקרוס ליבו אל תוך קרביו, על כל חלומותיו. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלפי שירים מצאו דרכם אל מכתבו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

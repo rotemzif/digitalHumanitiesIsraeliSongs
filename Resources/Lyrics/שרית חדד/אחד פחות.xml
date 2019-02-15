@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחד פחות</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחד פחות</head>
+        <lg number="1" type="stanza">
+          <l>ירד הערב יצאנו לבלות</l>
+          <l>בראש שלנו לצחוק ולהנות</l>
+          <l>אל תוך הלילה נסענו חבורה</l>
+          <l>קצת השתוללנו ולפתע זה קרה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איש לא הרגיש</l>
+          <l>איך לפתע נגמר הכביש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אחד פחות, אחד פחות</l>
+          <l>לבית שבנו מלאי דמעות</l>
+          <l>אחד פחות, אחד פחות</l>
+          <l>לילות ישבתי עם הנרות</l>
+          <l>מפחיד למות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לילות ישבתי ספרתי כוכבים</l>
+          <l>לילות דימיינתי שאלו מלאכים</l>
+          <l>עולה הבכי עולה בקול גדול</l>
+          <l>רחוק ממעל אלוקים רואה הכל</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>איש לא הרגיש</l>
+          <l>איך לפתע נגמר הכביש</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אחד פחות, אחד פחות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

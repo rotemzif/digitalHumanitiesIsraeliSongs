@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי ישיר</title>
+        <singer classification="male singer">מתי כספי</singer>
+        <writer>יעקב גלעד</writer>
+        <composer>מתי כספי</composer>
+        <album>ילדותי השניה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי ישיר</head>
+        <lg number="1" type="stanza">
+          <l>אם מחר ירד מבול אדיר</l>
+          <l>ואף ציפור לא תשיר -</l>
+          <l>מי ישיר?</l>
+          <l>אם השמש לא תאיר</l>
+          <l>ואת פניך שוב לא אכיר -</l>
+          <l>מי ישיר?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עכשיו, אני מחכה.</l>
+          <l>בשמים עננים כבדים, ברק נדלק, רעם מכה.</l>
+          <l>ציפורים עושות דרכן מכאן</l>
+          <l>ואיש לא בא, איש לא יוצא.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לילה בלעדייך</l>
+          <l>מי ישיר לי שיר ערש אחר</l>
+          <l>לילה בלעדייך</l>
+          <l>הוא חשוך ועצוב יותר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם מחר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>גם אז אמשיך לחכות.</l>
+          <l>יעברו לילות ועוד לילות.</l>
+          <l>ימים תמימים ושנים ארוכות.</l>
+          <l>אחכה באגרופים קפוצים</l>
+          <l>רק לך עד כלות כל הקצים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לילה בלעדייך...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אם מחר ירד מבול אדיר</l>
+          <l>ואף ציפור לר תשיר -</l>
+          <l>מי ישיר?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

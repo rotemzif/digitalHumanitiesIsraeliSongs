@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשאת עצובה</title>
+        <singer classification="unknown">יערה בראון</singer>
+        <writer>יערה בראון</writer>
+        <composer>יערה בראון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשאת עצובה</head>
+        <lg number="1" type="stanza">
+          <l>אין מוצא, כשאת עצובה</l>
+          <l>עלים נושרים ,פרחים נובלים ,והרוח כבדה</l>
+          <l>ואת ליבך, את שומרת מעצמך</l>
+          <l>לא נותנת לו , שישקיט ידאג ילטף..</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פזמון: הוא קורא לך</l>
+          <l>מנגן בלילות </l>
+          <l>אור גדול עוטף אותך</l>
+          <l>הוא מחכה לך </l>
+          <l>כל זמן עד שתיהי שלו</l>
+          <l>רק חייכי, ופתחי את ליבך בשבילו..</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את לא מבינה,כשאת עצובה</l>
+          <l>הדרך נראית מנהרה אפלה בלי מוצא</l>
+          <l>עוד מנגן אותו המזמור הישן</l>
+          <l>שעטף אותך בלילות , שהזכיר לך</l>
+          <l>נשכחות..</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פזמון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

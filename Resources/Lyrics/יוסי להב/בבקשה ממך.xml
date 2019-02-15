@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בבקשה ממך</title>
+        <singer classification="unknown">יוסי להב</singer>
+        <writer>יוסי להב</writer>
+        <composer>יוסי להב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בבקשה ממך</head>
+        <lg number="1" type="stanza">
+          <l>ולא עובר לו יום שלא חושב עלייך</l>
+          <l>בליבי את יחידה</l>
+          <l>דמעה אחר דמעה אני אבכה אלייך</l>
+          <l>שתאהבי בחזרה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וזה נכון לא הייתי פה בשבילך</l>
+          <l>אל תפני לי את הגב בבקשה ממך</l>
+          <l>אם את לא מחבקת אז אני אלך</l>
+          <l>אני מודה שלא חשבתי שתסגרי ליבך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בתוך ים של רגשות תופס אותי הפחד</l>
+          <l>שאת תלכי ואז אותך שוב לא אראה</l>
+          <l>כשיצאת ואחרייך הדלת נסגרה</l>
+          <l>ביקשתי אלוהיי תחזיר אותה בחזרה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וזה נכון לא הייתי פה בשבילך</l>
+          <l>אל תפני לי את הגב בבקשה ממך</l>
+          <l>אם את לא מחבקת אז אני אלך</l>
+          <l>אני מודה שלא חשבתי שתסגרי ליבך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

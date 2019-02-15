@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בובות על חוטים</title>
+        <singer classification="unknown">ניר סנדץ </singer>
+        <writer>לאה שבת</writer>
+        <composer>לאה שבת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בובות על חוטים</head>
+        <lg number="1" type="stanza">
+          <l>כתבתי שיר אהבה</l>
+          <l>והתחלתי לבכות</l>
+          <l>על מישהו אחר</l>
+          <l>ומישהי אחרת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הגיבורים שהיו</l>
+          <l>וידעו לאהוב</l>
+          <l>נשברו לרסיסים</l>
+          <l>עפו לכל עבר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בובות על חוטים</l>
+          <l>חוטים קרועים</l>
+          <l>בובות מהחיים</l>
+          <l>זרוקות בפינה</l>
+          <l>בתנוחה משונה</l>
+          <l>יצאו מהכלים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה נשאר אחרי</l>
+          <l>מה שנשאר</l>
+          <l>אצלי החור גדול</l>
+          <l>שחור ומתייפח</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>והעצב הזה </l>
+          <l>לא דומה</l>
+          <l>לשום דבר אחר</l>
+          <l>לשום דבר אחר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בובות על חוטים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

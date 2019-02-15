@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שקט 11</title>
+        <singer classification="unknown">השעות</singer>
+        <writer>ישי גזית</writer>
+        <composer>ישי גזית</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שקט</head>
+        <lg number="1" type="stanza">
+          <l>שקט</l>
+          <l>כמו מילים חסרות טעם</l>
+          <l>תדבר אלי כמו פעם.</l>
+          <l>רטט</l>
+          <l>והפחד לאבד חבר</l>
+          <l>תאהב אותי בלי לדבר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ויש לפעמים שנדמה שבא הסוף</l>
+          <l>משהו מפר את הקירבה</l>
+          <l>אתה אומר</l>
+          <l>"הכל זמני, הכל יחלוף"</l>
+          <l>מה שנשאר זו רק האהבה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לילה</l>
+          <l>בא בנינו כמו חומה</l>
+          <l>תנשום איתי את אותה הנשימה.</l>
+          <l>מה לה,</l>
+          <l>לאותה ילדה קטנה</l>
+          <l>חבק אותי מתוך שינה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ויש לפעמים שנדמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

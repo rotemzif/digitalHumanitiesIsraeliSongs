@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא מוותר 2</title>
+        <singer classification="unknown">דודו אהרון</singer>
+        <writer>דודו אהרון</writer>
+        <composer>דודו אהרון</composer>
+        <album>מילים פשוטות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא מוותר</head>
+        <lg number="1" type="stanza">
+          <l>השמיים הם עדים לזה ששנינו זה גורל </l>
+          <l>תסתכלי לי בעיניים ותראי איך המזל </l>
+          <l>משחק לטובתנו ואוהב לראות את שנינו </l>
+          <l>אלוקים חיבר בינינו לעולם </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני חוזר לא מוותר </l>
+          <l>נלחם בכל הכוח שתהיי כאן לידי </l>
+          <l>אני צריך אותך איתי, </l>
+          <l>אל תוותרי תני הזדמנות </l>
+          <l>מבטיח לך שאת עוד תחייכי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני ואת זה החיבור שבא מתוך הנשמה </l>
+          <l>אלוקים בירך את שנינו שנאהב בלי הפסקה </l>
+          <l>עכשיו אני היטב יודע וכל כך מתגעגע </l>
+          <l>ורק אותך אני בוחר לי לעולם </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני חוזר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

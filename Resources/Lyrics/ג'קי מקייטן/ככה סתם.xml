@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ככה סתם</title>
+        <singer classification="unknown">ג קי מקייטן</singer>
+        <writer>שלמה כישור</writer>
+        <composer>ג'קי מקייטן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ככה סתם</head>
+        <lg number="1" type="stanza">
+          <l>על ברזלים ברחוב יושב אחד,</l>
+          <l>שורק לנערות שולח יד</l>
+          <l>ולחברים אומר שלום,</l>
+          <l>עוברת עוד שעה כמו בחלום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ככה סתם, אין לו מה לעשות בכלל,</l>
+          <l>יש לו רק לשרוף את הזמן</l>
+          <l>ולהשתזף, להשתזף בשמש.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בלי שום-דבר חדש יומו נגמר,</l>
+          <l>על מיטתו עוסק הוא במחר</l>
+          <l>והוא הופך עצמו מצד אל צד,</l>
+          <l>יומו חלף-עבר לא ידע כיצד...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ככה סתם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כשסוף-סוף נרדם, על מה חלם?</l>
+          <l>שהוא שורף עוד זמן בחוף הים.</l>
+          <l>ש'חתיכות' סביבו כמו זבובים,</l>
+          <l>שכך חולפים-עוברים לו הימים...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ככה סתם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אגדת הל ה</title>
+        <singer classification="unknown">העמרנים</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>יוסף הדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אגדת הל''ה</head>
+        <lg number="1" type="stanza">
+          <l>שוב לי הביא הרוח</l>
+          <l>שיר אגדה נושן,</l>
+          <l>על בחורים שבאו כרוח</l>
+          <l>בין אש ובין עשן.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בין הרי חברון</l>
+          <l>לא נדם עוד,</l>
+          <l>צעדם עוד</l>
+          <l>אל ליל - קרב אחרון.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>קני הרובים בערו</l>
+          <l>שם בין הרי חברון,</l>
+          <l>אך עת האיר השחר נותר עוד...</l>
+          <l>נער אחד אחרון.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בין הרי חברון...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אבן אחז הנער</l>
+          <l>באגרופו פלדה,</l>
+          <l>אבן אחת ידה עוד בטרם...</l>
+          <l>תמה האגדה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בין הרי חברון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

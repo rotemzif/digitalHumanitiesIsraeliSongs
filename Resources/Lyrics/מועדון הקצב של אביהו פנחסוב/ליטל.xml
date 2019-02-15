@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ליטל</title>
+        <singer classification="unknown">מועדון הקצב של אביהו פנחסוב</singer>
+        <writer>אביהו פנחסוב</writer>
+        <composer>מארק פנחסוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ליטל</head>
+        <lg number="1" type="stanza">
+          <l>אני לא נופל, אני לא נופל עלייך בטענות.</l>
+          <l>רק במסקנות שמלוות בנימוקים.</l>
+          <l>אני לא גומר, אני לא גומר עלייך במכות.</l>
+          <l>רק בנשיקות שמלוות בחיבוקים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יופי של ילדה, כשהיא מחייכת אין לי מנוחה.</l>
+          <l>איך היא כמו דבורה, בנשמה עוקצת והלאה ממשיכה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני לא זורק, אני לא זורק עלייך האשמות.</l>
+          <l>על התקופה שאכלתי מרורים.</l>
+          <l>אני סופר, אני סופר את הימים והלילות.</l>
+          <l>תוהה היכן את ועם מי יצאת לרקוד.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יופי של ילדה, כשהיא מחייכת אין לי מנוחה.</l>
+          <l>איך היא כמו דבורה, בנשמה עוקצת והלאה ממשיכה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

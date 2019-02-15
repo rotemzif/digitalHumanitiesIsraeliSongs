@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חוזה ששווה זהב</title>
+        <singer classification="female singer">דנה בקר</singer>
+        <writer>יוסי בבליקי</writer>
+        <composer>שלום גד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חוזה ששווה זהב</head>
+        <lg number="1" type="stanza">
+          <l>או, הים שקט </l>
+          <l>בסירה שכורה </l>
+          <l>מנסים לשמור בסוד </l>
+          <l>אבל הסוד נגלה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש לי חוזה ששווה זהב </l>
+          <l>יש לו חוזה ששווה זהב </l>
+          <l>יש לנו חוזה שבטח שווה זהב </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זהב, להחזיק את זה ביד </l>
+          <l>להדביק את זה בכל הבית </l>
+          <l>לסמן את הימים האלה... </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש לי חוזה ששווה זהב... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אהה, הוא עושה הכל לבד </l>
+          <l>מלווה אותי כל יום לסרט </l>
+          <l>לסמן את הימים האלה...זהב...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יש לי חוזה ששווה זהב </l>
+          <l>יש לו חוזה ששווה זהב </l>
+          <l>יש לנו חוזה שבטח שווה זהב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קשת לבנה 2</title>
+        <singer classification="female singer">מיטל טרבלסי</singer>
+        <writer>ברוריה שוייצר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קשת לבנה</head>
+        <lg number="1" type="stanza">
+          <l>בוא יבוא הבוקר זך וחכלילי,</l>
+          <l>מישהו ימצא לי, אור בקצה דרכי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה נבקש בדרך - מה נאמר.</l>
+          <l>מה נבקש בשקט, מה?</l>
+          <l>רק שיוריק הדשא</l>
+          <l>רק שתזרח השמש -</l>
+          <l>ובאורה ליטוף רך לי ולך</l>
+          <l>רק שיוריק הדשא</l>
+          <l>רק שתזרח השמש -</l>
+          <l>ובאורה ליטוף רך לך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ילד תכול עיניים לי יפתח האור</l>
+          <l>בעיניו השתיים לי יאמר הכל.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה נבקש בדרך.....</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מישהו ימצא לי קשת לבנה</l>
+          <l>ומתוך הקשת צליל מיתר נפלא.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

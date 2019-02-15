@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבנים וגדרות</title>
+        <singer classification="unknown">המוסד</singer>
+        <writer>אסף ניר</writer>
+        <composer>אור בר טל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבנים וגדרות</head>
+        <lg number="1" type="stanza">
+          <l>בשיגעון הזה מצד אל צד</l>
+          <l>הזמן נספר על השעון ביד,</l>
+          <l>נצמד לאדמה,</l>
+          <l>לוקח נשימה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>השמש כבר עלתה על ההרים;</l>
+          <l>על שביל כורכר רץ בשדות זרים</l>
+          <l>על מדרונות תלולים</l>
+          <l>ברחובות ריקים -</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בין אבנים וגדרות שמסתירים כאן את האור,</l>
+          <l>אבל בסוף יגיע מישהו, יסובב את הכפתור.</l>
+          <l>עם הגב אל הקיר, לוקח נשימה,</l>
+          <l>וכל זה - בשביל מה?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בניצחון הזה אין שום דבר.</l>
+          <l>עיתון הבוקר של מחר </l>
+          <l>כבר מונח מהעבר השני של הדלת הסגורה,</l>
+          <l>ועננים גם מכסים את השמיים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בין אבנים וגדרות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

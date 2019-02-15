@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין לנו סוף</title>
+        <singer classification="unknown">מאור פרץ</singer>
+        <writer>מאור פרץ</writer>
+        <composer>מאור פרץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין לנו סוף</head>
+        <lg number="1" type="stanza">
+          <l>השירים יביאו אותך אלי ככה כמו שאת</l>
+          <l>והגוף שלך שאין בו פחד</l>
+          <l> יפחד ממרחק מהגוף שלי</l>
+          <l>הבקרים מיטה מול חלון ענק</l>
+          <l>עצי פרי ושתיקה</l>
+          <l>ואומרים כל כך הרבה בעיניים הצמאות לתשובה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין לנו סוף</l>
+          <l>אין לנו סוף</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ותראי שלא סתם עברת הכל והגעת חכמה</l>
+          <l>גם אני הייתי צריך לגדול לעבור מלחמה</l>
+          <l>המילים יביאו אותך אלי את תכתבי אותן בעצמך</l>
+          <l>והגוף שלך שאין בו פחד יפחד ממרחק מהגוף שלי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין לנו סוף</l>
+          <l>אין לנו סוף</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

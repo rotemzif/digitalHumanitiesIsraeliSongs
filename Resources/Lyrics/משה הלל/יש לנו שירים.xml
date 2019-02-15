@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לנו שירים</title>
+        <singer classification="male singer">משה הלל</singer>
+        <writer>אילן גולדהירש</writer>
+        <composer>עממי איטלקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לנו שירים</head>
+        <lg number="1" type="stanza">
+          <l>אם יש לנו גיטרה ואלף מיתרים</l>
+          <l>ונשמה ששרה ונשמה ששרה, אז יש לנו שירים,</l>
+          <l>אם יש ימים של שמש, או שלג בהרים</l>
+          <l>אם יש פריחה בעמק, אם יש פריחה בעמק, אז יש לנו שירים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נסו לחשוב לרגע כיצד נראו חיינו</l>
+          <l>ללא גיטרה וללא שירים,</l>
+          <l>ללא צלילי גיטרה, ללא שיר בליבנו</l>
+          <l>היו שונים כל כך פני הדברים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>על אהבה בוערת, זיקנה או נעורים,</l>
+          <l>על נדודים בדרך, על נדודים בדרך, אז יש לנו שירים.</l>
+          <l>אם יש צחוקים של ילד, ציף של ציפורים</l>
+          <l>כל עוד ישנם כל אלה, כל עוד ישנם כל אלה, יהיו לנו שירים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נסו לחשוב לרגע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

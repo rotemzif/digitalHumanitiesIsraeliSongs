@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יום בלעדיך</title>
+        <singer classification="female singer">רינת בר</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>שמעון בוסקילה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יום בלעדיך</head>
+        <lg number="1" type="stanza">
+          <l>יום בלעדיך חולף לי כמו שנה</l>
+          <l>כמו אבן נופלת כמו גוף בלי נשמה</l>
+          <l>אין לי שקט מעצמי מנותקת</l>
+          <l>מזאת שהכרת כלום לא נשאר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יום בלעדיך יותר מדי שעות</l>
+          <l>הזמן זוחל לוחץ על הדמעות</l>
+          <l>אין בי כח אין בי כח</l>
+          <l>מאז שאמרת נגמר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תן לי תן לי להתרגל לאט</l>
+          <l>זה לא כל כך פשוט להישאר לבד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יום בלעדיך כמו סוף בלי התחלה</l>
+          <l>ניסיתי לשכוח אבל אני לא יכולה</l>
+          <l>אין בי כח אין בי כח</l>
+          <l>מאז שאמרת נגמר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תן לי תן לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

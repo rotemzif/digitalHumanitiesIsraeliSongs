@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>למולדתי</title>
+        <singer classification="female singer">רונית אופיר</singer>
+        <writer>הלל אביחנן ברגמן</writer>
+        <composer>מרדכי זעירא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>למולדתי</head>
+        <lg number="1" type="stanza">
+          <l>למולדתי הבאת אותי,</l>
+          <l>בים גלים וקצף.</l>
+          <l>אשק תרניך אניתי,</l>
+          <l>לא אשכחך לנצח.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פקד ד' פינת ציון הנדחת,</l>
+          <l>הו, מה נעים שבת אחים גם יחד,</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זקנה מאוד אימי הורתי,</l>
+          <l>יפתה מכל אם חורגת.</l>
+          <l>טובות חרבות מולדתי,</l>
+          <l>מכל קריה חוגגת.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פקד ד'....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

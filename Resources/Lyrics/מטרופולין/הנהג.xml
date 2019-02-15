@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הנהג 2</title>
+        <singer classification="unknown">מטרופולין</singer>
+        <writer>עופר מאירי</writer>
+        <composer>ארז ברזוליק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הנהג</head>
+        <lg number="1" type="stanza">
+          <l>משהו באוויר </l>
+          <l>שגורם לילדים להתבגר מהר יותר</l>
+          <l>הרעש בעולם</l>
+          <l>גורם לי להיות טיפה שקט יותר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הנהג מאבד שליטה</l>
+          <l>איך זה שאת לא מרגישה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>משהו באוויר </l>
+          <l>שעושה את החיוך שלך עצוב יותר</l>
+          <l>משהו במשחק </l>
+          <l>שעושה ילדים בודדים יותר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הנהג מאבד שליטה</l>
+          <l>איך זה שאת לא מרגישה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

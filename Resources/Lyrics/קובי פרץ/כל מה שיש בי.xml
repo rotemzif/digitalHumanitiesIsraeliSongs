@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל מה שיש בי</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>missing</composer>
+        <album>כל מה שיש בי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל מה שיש בי</head>
+        <lg number="1" type="stanza">
+          <l>זה הבוקר החדש</l>
+          <l>מול יופייך המקודש</l>
+          <l>זה חזק ואמיתי</l>
+          <l>וכל כך מציאותי</l>
+          <l>שם באופק הרחוק</l>
+          <l>רק איתך, את דבש מתוק</l>
+          <l>אין בכלל מה להגיד</l>
+          <l>שום דבר כאן לא יפריד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את מכירה כל מה שיש בי</l>
+          <l>וטהורה תיהי כל ימיי</l>
+          <l>למענך אתן מה שיש בי</l>
+          <l>זה בטוח, בלי אולי</l>
+          <l>כל חיי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>להרגיש את ההבדל</l>
+          <l>בין לתת ולקבל</l>
+          <l>יד ביד נלך לעד</l>
+          <l>את הגוף אני הצל</l>
+          <l>את בעצם מבינה</l>
+          <l>את הכי הכי שונה</l>
+          <l>אמיתית והגונה</l>
+          <l>ומיוחדת במינה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את מכירה כל מה שיש בי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

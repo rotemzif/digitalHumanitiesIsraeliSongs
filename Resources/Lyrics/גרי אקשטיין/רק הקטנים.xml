@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק הקטנים</title>
+        <singer classification="male singer">גרי אקשטיין</singer>
+        <writer>אמיר ברונשטיין</writer>
+        <composer>גרי אקשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק הקטנים</head>
+        <lg number="1" type="stanza">
+          <l>בגבעות כבר שקעה השמש</l>
+          <l>ילדים כבר רוקמים חלום</l>
+          <l>גם אנחנו גדולים מאמש</l>
+          <l>גם אנחנו חולמים על שלום</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בתריסים נרדמה הרוח</l>
+          <l>מחכה לכוכב ראשון</l>
+          <l>גם אנחנו רוצים לנוח</l>
+          <l>גם אנחנו רוצים קצת לישון</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ורק הקטנים</l>
+          <l>חושבים שהלילה הוא המון מלאכים</l>
+          <l>חושבים שהלילה לילה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בגבעות כבר עולה ירח</l>
+          <l>ילדים כבר סיימו עוד יום</l>
+          <l>גם אצלנו הזמן בורח</l>
+          <l>וסוגר את הפה על חלום</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עוד דמעה אל הכר נושרת</l>
+          <l>כמו הטל בגביעי פרחים</l>
+          <l>אדמה נשימה עוצרת</l>
+          <l>אהבות נרדמו בדרכים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ורק הקטנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

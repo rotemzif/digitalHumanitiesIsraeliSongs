@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אדונים 2</title>
+        <singer classification="unknown">שירלי קונס</singer>
+        <writer>שירלי קונס</writer>
+        <composer>שירלי קונס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אדונים</head>
+        <lg number="1" type="stanza">
+          <l>כאן אדונים מחפשים</l>
+          <l>גברות מחפשות</l>
+          <l>משרתים מחפשים אדונים </l>
+          <l>וכולם מוצאים את עצמם בידם </l>
+          <l>ועכשיו, מה עושים? </l>
+          <l>מסתדרים בטורים... </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כאן אנשים מחפשים</l>
+          <l>נואשות מחפשות</l>
+          <l>תחפושות מחפשות אנשים </l>
+          <l>וכולם מוצאים את עצמם בידם </l>
+          <l>ועכשיו, מה עושים? </l>
+          <l>מסתדרים בטורים... </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מה לי בלנו? </l>
+          <l>מה לי בלנו? </l>
+          <l>לכבוד מי נפתחנו? </l>
+          <l>מפני מה נסגרנו? </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כאן מחלקים אנחות בחינם </l>
+          <l>אך אין הנחות בקניית מזכרות </l>
+          <l>וכולם מוצאים את עצמם בידם </l>
+          <l>ובסוף, מה עושים? </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מסתדרים בשורות שורות </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מה לי בלנו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

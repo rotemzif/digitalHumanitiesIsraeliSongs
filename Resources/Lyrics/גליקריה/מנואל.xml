@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מנואל</title>
+        <singer classification="female singer">גליקריה</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מנואל</head>
+        <lg number="1" type="stanza">
+          <l>רוח סערה נודדת,</l>
+          <l>עננה כבדה מעל.</l>
+          <l>ואני ציפור בודדת,</l>
+          <l>מחכה לגוזל</l>
+          <l>שהוא ישוב לרדת אל הקן שעזב.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מנואל תן לי אות,</l>
+          <l>פקח עיניים כדי לראות,</l>
+          <l>איך מה שבי נשבר</l>
+          <l>אם לא היום מחר, יחלוף כסערה</l>
+          <l>ואותו מיתר נסתר שאת שנינו אז קשר</l>
+          <l>עדיין לא נקרע.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רוח על פני סוטרת,</l>
+          <l>אם הוא נדד לאן נדד,</l>
+          <l>אולי יש ציפור אחרת </l>
+          <l>שבכנפיה אבד.</l>
+          <l>אך אני לא מוותרת</l>
+          <l>אחכה עדי עד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מנואל תן לי אות....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

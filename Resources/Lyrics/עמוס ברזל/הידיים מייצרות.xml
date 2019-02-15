@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הידיים מייצרות</title>
+        <singer classification="male singer">עמוס ברזל</singer>
+        <writer>חדוה פרידמן</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הידיים מייצרות</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>הידיים מייצרות כל מיני צורות </l>
+          <l>מקטן ועד גדול כל אחד יכול. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הן עושות משולש משוכלל </l>
+          <l>מאצבע ואצבע ואגודל. </l>
+          <l>הן עושות מלבן לתפארת, </l>
+          <l>מאגודל מול אגודל, זרת מול זרת. </l>
+          <l>הידיים מייצרות כל מיני צורות... </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מאגודלים ואצבעות למי שאוהב </l>
+          <l>הן יודעות מעיגול לעשות אפילו לב. </l>
+          <l>מאצבע ואגודל בידיים </l>
+          <l>אפשר לעשות זוג משקפיים. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הידיים מייצרות כל מיני צורות </l>
+          <l>מקטן ועד גדול כל אחד יכול.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

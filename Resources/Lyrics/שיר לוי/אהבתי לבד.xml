@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבתי לבד</title>
+        <singer classification="male singer">שיר לוי</singer>
+        <writer>נתי לוי</writer>
+        <composer>נתי לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבתי לבד</head>
+        <lg number="1" type="stanza">
+          <l>והיום אני מבין </l>
+          <l>שאהבתי לבד</l>
+          <l>מליון פעם אמרת אוהבת</l>
+          <l>ולא הרגשתי פעם אחת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>במילים היית כל כך קרובה</l>
+          <l>ובליבך היית רחוקה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא מאמין עוד למילים</l>
+          <l>ואת חשבת אני כזה תמים </l>
+          <l>כמה את טועה את לא יודעת</l>
+          <l>לא מצטער על הרגעים</l>
+          <l>שנתתי לך את כל כולי</l>
+          <l>אם ידעת איך לקבל</l>
+          <l>למה לא ידעת גם לתת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אומרים שהעולם חי מאהבה</l>
+          <l>אז למה היא הורגת</l>
+          <l>והופכת לעוד סתם מילה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>במילים היית כל כך קרובה</l>
+          <l>ובליבך היית רחוקה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לא מאמין עוד למילים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

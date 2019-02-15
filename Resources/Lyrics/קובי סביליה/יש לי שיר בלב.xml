@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לי שיר בלב</title>
+        <singer classification="unknown">קובי סביליה</singer>
+        <writer>שלמה כישור</writer>
+        <composer>אריס נחום</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לי שיר בלב</head>
+        <lg number="1" type="stanza">
+          <l>יש לי שיר בלב, שיר שאני אוהב</l>
+          <l>והוא מסור ונאמן מילדותי.</l>
+          <l>יש לי שיר כזה שכל אחד רוצה</l>
+          <l>והוא מוכן ומזומן בתוך-תוכי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שוב עולה לה המנגינה</l>
+          <l>ומה שרציתם הנה בא</l>
+          <l>רק בקשו ואשיר שירים</l>
+          <l>כי השיר בדמי.</l>
+          <l>כל מיתר שולח שיר</l>
+          <l>ללב שמח וצעיר</l>
+          <l>ומה נעים לנשמה</l>
+          <l>ששוב עולה המנגינה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש לי שיר חמוד, אני בלעדיו אבוד,</l>
+          <l>אותו אשיר לאחרים.</l>
+          <l>יש לי שיר חביב, שיר המביא אביב</l>
+          <l>והוא אדון הפזמונים והשירה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שוב עולה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

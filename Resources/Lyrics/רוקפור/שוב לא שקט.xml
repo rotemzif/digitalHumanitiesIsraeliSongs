@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שוב לא שקט</title>
+        <singer classification="band">רוקפור</singer>
+        <writer>אמיר צורף</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שוב לא שקט</head>
+        <lg number="1" type="stanza">
+          <l>בדרך אל ההיגיון</l>
+          <l>בורח למקום מוגן</l>
+          <l>הייתי משנה הכל</l>
+          <l>אם אפשר היה לדעת</l>
+          <l>זמן עובר, חלפה שנה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בדרך אל ההיגיון</l>
+          <l>זה בכלל לא שיר רומנטי</l>
+          <l>ללכת לכיוון נכון</l>
+          <l>עוד סיפור שלא נגמר</l>
+          <l>זמן עבר, חלפה שנה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שוב לא שקט</l>
+          <l>דו דו דו דו דו,</l>
+          <l>דו דו דו דו דו</l>
+          <l>שוב לא שקט</l>
+          <l>דו דו דו דו דו,</l>
+          <l>דו דו דו דו דו</l>
+          <l>דו דו דו דו דו, אה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בדרך אל ההיגיון</l>
+          <l>אני מקשה ללא מוצא</l>
+          <l>בדרך לסיום נכון</l>
+          <l>זה הטקסט שלא נגמר</l>
+          <l>שלא נגמר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שוב לא שקט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

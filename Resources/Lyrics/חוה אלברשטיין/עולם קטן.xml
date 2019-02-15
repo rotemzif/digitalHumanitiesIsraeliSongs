@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עולם קטן</title>
+        <singer classification="female singer">חוה אלברשטיין</singer>
+        <writer>רחל שפירא</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עולם קטן</head>
+        <lg number="1" type="stanza">
+          <l>את עצמי</l>
+          <l>קצת קשה לי לתאר אני</l>
+          <l>קצת מאמא קצת מאבא קצת ממני</l>
+          <l>יש אחים וכלב דני</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חברות</l>
+          <l>מחליפות סודות וגערות</l>
+          <l>לפעמים, איזו מלה רעה בורחת</l>
+          <l>אחר-כך נשכחת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שם בית הספר</l>
+          <l>והשכונה והמרפסת</l>
+          <l>בישראל שהיא עולם קטן</l>
+          <l>כדור הארץ כאן.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הפסקות</l>
+          <l>שאלות קצרות וארוכות</l>
+          <l>מה נשמע מה נשתנה מה זה אומר לך</l>
+          <l>טעם דבש וטעם מלח</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שם בית הספר...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>טיולים</l>
+          <l>קבוצים ערים ונחלים</l>
+          <l>באלבום המשפחה תמונה מדבקת</l>
+          <l>זה עיף וזו צוחקת</l>
+          <l>משחקים</l>
+          <l>כל אחד מכיר את החוקים</l>
+          <l>יום הולדת, יום האם, ויום פתוח</l>
+          <l>יום של מצב רוח</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>שם בית הספר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחותי 13</title>
+        <singer classification="female singer">מרגלית צנעני</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>מרגלית צנעני</composer>
+        <album>לעולם</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחותי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אחותי, אל תאמיני לו הפעם,</l>
+          <l>אל תתני לו להוליך אותך שולל.</l>
+          <l>אחותי, התעוררי, את האמת את לא יודעת,</l>
+          <l>אחותי, הוא לא שווה אותך בכלל.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לילה שוב יורד ואת בורחת,</l>
+          <l>אל מקום רחוק בתוך עצמך.</l>
+          <l>את כל הדאגות שלך שוכחת,</l>
+          <l>רק אלוהים יודע איך...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אחותי אל תאמיני לו הפעם,</l>
+          <l>אל תתני לו להוליך אותך שולל.</l>
+          <l>אחותי, התעוררי, את האמת את לא יודעת,</l>
+          <l>אחותי הוא לא שווה אותך בכלל...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איש אינו רואה את דמעותייך,</l>
+          <l>הן זולגות עמוק אל תוך ליבך,</l>
+          <l>ואיך את מסתירה את רגשותייך,</l>
+          <l>רק אלוהים יודע איך...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אחותי, אל תאמיני לו הפעם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

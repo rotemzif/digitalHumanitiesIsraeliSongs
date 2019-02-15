@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איש תחת גפנו</title>
+        <singer classification="band">עד זוב</singer>
+        <writer>אריק אנקלנדר</writer>
+        <composer>יונתן מרון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איש תחת גפנו</head>
+        <lg number="1" type="stanza">
+          <l>איש תחת גפנו ותחת תאנתו! </l>
+          <l>ככה אני רוצה! ככה אני צריך! </l>
+          <l>איש תחת גפנו ותחת תאנתו! </l>
+          <l>ככה אני רוצה! ככה אני צריך! </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ותחת כל עץ רענן צואה, זונה... </l>
+          <l>ותחת כל עץ רענן צואה, זונה! </l>
+          <l>אש! </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איש תחת גפנו ותחת תאנתו! </l>
+          <l>ככה אני רוצה! ככה אני צריך! </l>
+          <l>מה שכתוב, מה שנאמר, </l>
+          <l>ככה הבטיחו לי! </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ותחת כל עץ רענן צואה, זונה... </l>
+          <l>ותחת כל עץ רענן צואה, זונה! </l>
+          <l>אש!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

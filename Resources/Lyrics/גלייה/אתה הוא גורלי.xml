@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אתה הוא גורלי</title>
+        <singer classification="unknown">גלייה</singer>
+        <writer>אלי צרויה</writer>
+        <composer>אלי צרויה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אתה הוא גורלי</head>
+        <lg number="1" type="stanza">
+          <l>כמו אביר שחור הופעת </l>
+          <l>ואותי לא במעט הפתעת </l>
+          <l>על פניך אור ושמש </l>
+          <l>נראת לי מוכר מליל אמש </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה עלי לעשות חשבתי </l>
+          <l>כי לגשת אליך התביישתי </l>
+          <l>במבטך עמוק בי נגעת </l>
+          <l>ואותי בלי שתרגיש כבשת </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אתה הוא גורלי </l>
+          <l>אתה הוא אהובי </l>
+          <l>קח אותי איתך לכל מקום </l>
+          <l>אל תשאיר אותי לבד </l>
+          <l>כאן בלי אף אחד </l>
+          <l>גש אלי חבק אותי לאט</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מי ייתן לי עכשיו כוח </l>
+          <l>אם אליך לא אקרב לא אוכל לשכוח </l>
+          <l>אל מגע ידך כל כך נכספתי </l>
+          <l>ובתןך תוכי את דמעתי הסתרתי </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אתה הוא גורלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

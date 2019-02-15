@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד סוף הזמן</title>
+        <singer classification="male singer">שיר לוי</singer>
+        <writer>אביש</writer>
+        <composer>אביש</composer>
+        <album>יום אחד תבקשי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד סוף הזמן</head>
+        <lg number="1" type="stanza">
+          <l>לפנייך כבר ניסיתי ימים וחודשים </l>
+          <l>לפנייך התנתקתי ואיבדתי חברים </l>
+          <l>ואת אספת אותי פתאום בשתי ידייך </l>
+          <l>הראית לי את האור עכשיו עלייך אשמור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואת בתוך חיי לעד </l>
+          <l>זורמת בגופי לאט </l>
+          <l>בין השתיקות שלך אני עובר </l>
+          <l>עוצמת את עינייך עכשיו </l>
+          <l>בכל חייך מאוהב </l>
+          <l>עד סוף הזמן אני איתך, אני שלך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את יודעת שעשיתי אין סוף של טעויות </l>
+          <l>ובינתיים לא מצאתי אף אחת איתה להיות </l>
+          <l>והלב שבי נדם ולא מצא מנוח </l>
+          <l>לרגע אחד עד שהופעת </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואת בתוך חיי לעד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רגעים מאושרים אני עובר איתך </l>
+          <l>לא אעזוב אותך כל עוד אני נושם </l>
+          <l>אתן את כל חיי מבלי לחשוב אפילו על מחר </l>
+          <l>איתך מאושר ולא צריך שום דבר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מקהלות עם</title>
+        <singer classification="male singer">מאיר בנאי</singer>
+        <writer>רבי מרדכי עבאדי</writer>
+        <composer>missing</composer>
+        <album>שמע קולי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מקהלות עם</head>
+        <lg number="1" type="stanza">
+          <l>מקהלות עם ברכו אל, הרימו קול כוח ואל</l>
+          <l>יגל יעקב וישמח ישראל, ביום שמחתכם שיר מהלל אל</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רוממו אל מאיר אורה, גבר חסדו אשר ברא</l>
+          <l>חתן וכלה היא לו לעזרה, ישיר ישראל אז את השירה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הללוהו גדלוהו, כי ברוך הוא נאמן</l>
+          <l>לכבוד החתן בחור מעם, יעקב איש תם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>דרשו אל חי לעולמים, הללוהו במרומים</l>
+          <l>יוסף עליכם אלף פעמים, עושר וכבוד ואורך ימים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הללוהו גדלוהו, כי ברוך הוא נאמן</l>
+          <l>לכבוד החתן בחור מעם, יעקב איש תם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

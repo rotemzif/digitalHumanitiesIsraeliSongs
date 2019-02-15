@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד שאני נרגעת</title>
+        <singer classification="female singer">לאה שבת</singer>
+        <writer>לאה שבת</writer>
+        <composer>לאה שבת</composer>
+        <album>כל השירים - אוסף</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד שאני נרגעת</head>
+        <lg number="1" type="stanza">
+          <l>היום נגמר בלילה</l>
+          <l>הלילה שוב, הלילה המוכר</l>
+          <l>אני ערה בחושך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני תמיד בשקט,</l>
+          <l>קולטת דברים מהסביבה</l>
+          <l>מחכה לשמוע.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עד שאני נרגעת</l>
+          <l>עד שחלום קטן מתקרב</l>
+          <l>עד שאני לומדת</l>
+          <l>פוחדת קצת פחות לפחד.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ועוד מעט הבוקר</l>
+          <l>הצבע ברגע משתנה</l>
+          <l>אני צריכה ללכת.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בלילה שמקודם, חלמתי</l>
+          <l>תקווה בשביל היום</l>
+          <l>להתחיל ככה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עד שאני נרגעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

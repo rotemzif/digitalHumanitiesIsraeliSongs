@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אילת 2</title>
+        <singer classification="male singer">דקלון</singer>
+        <writer>רחל רוזנמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אילת</head>
+        <lg number="1" type="stanza">
+          <l>כבר מזמן שלמה המלך החכם מכל אדם</l>
+          <l>תר את ההרים האלה את הים ואת סודם</l>
+          <l>ספינותיו נשאו אליה כסף ואוצרות זהב</l>
+          <l>דרך הבשמים עדיה משאות שנהב.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני תמיד חוזר לכאן אל השקיעות על הר אדום</l>
+          <l>אל חוף הים ואל השקט שאין בשום מקום</l>
+          <l>אני תמיד חוזר לכאן תמיד נרגש כמעט נפעם</l>
+          <l>איך מתמזגים מדבר וים ומעשה אדם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חול לבן ועץ של תומר ורוחות מדבר חמות</l>
+          <l>ובקתה קטנה של חומר מצוקים ותהומות</l>
+          <l>והדרך היורדת אל הארץ הצרובה</l>
+          <l>דגל דיו עובדה נולדת עיר בערבה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני תמיד חוזר לכאן...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בכבלים סמויים של קסם מושיטה העיר זרועות</l>
+          <l>מביאה אל שעריה אלף נערות נאות</l>
+          <l>שמש בירה ושמיים דקלים פורשים צילם</l>
+          <l>חופשיים ולה עדיין אסירי עולם.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני תמיד חוזר לכאן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

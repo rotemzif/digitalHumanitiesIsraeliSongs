@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איש אחד ששר</title>
+        <singer classification="male singer">חיים משה</singer>
+        <writer>שמרית אור</writer>
+        <composer>יאיר קלינגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איש אחד ששר</head>
+        <lg number="1" type="stanza">
+          <l>אדמה ורוח ים הומה</l>
+          <l>וקרן שמש ערב אדומה</l>
+          <l>צליל אקורדיון יש מוכר</l>
+          <l>ומדורה קטנה וחמימה</l>
+          <l>קול מיתר ואיש אחד ששר</l>
+          <l>מה עוד צריך אדם לנשמה?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אדמה ומסביב דממה</l>
+          <l>ומןל שלווה מוכרת ושלמה</l>
+          <l>צליל אקורדיון ישן מוכר</l>
+          <l>ומדורה קטנה וחמימה</l>
+          <l>קול מיתר ואיש נוסף ששר</l>
+          <l>מה עוד צריך אדם לנשמה?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אט לאט מן העברים</l>
+          <l>עוד מעט אנשים סרים</l>
+          <l>במבט במגע בבת אחת</l>
+          <l>והנה יחד הם שרים </l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משה בתיבה</title>
+        <singer classification="female singer">יפה ירקוני</singer>
+        <writer>קדיש יהודה סילמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משה בתיבה</head>
+        <lg number="1" type="stanza">
+          <l>דומם שטה תיבה קטנה</l>
+          <l>על היאור הזך,</l>
+          <l>ובתיבה משה הקטן,</l>
+          <l>ילד יפה ורך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הס, הגלים השובבים,</l>
+          <l>משה הקטן פה שט.</l>
+          <l>לא יטבע, חיה יחיה</l>
+          <l>ילד זה הקט.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

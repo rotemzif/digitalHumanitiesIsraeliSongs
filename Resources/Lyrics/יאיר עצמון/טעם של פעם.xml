@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טעם של פעם</title>
+        <singer classification="unknown">יאיר עצמון</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טעם של פעם</head>
+        <lg number="1" type="stanza">
+          <l>טעם של פעם</l>
+          <l>מזכיר בכל פעם</l>
+          <l>חלום אבוד בצל התות</l>
+          <l>מימי ילדות.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>טעם של פעם</l>
+          <l>רוצה שוב לגעת</l>
+          <l>באהבה הראשונה</l>
+          <l>שמזמן אינה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כל אחד היה רוצה לגעת</l>
+          <l>באותו חלום ישן עוד פעם.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>טעם של פעם</l>
+          <l>חייכי לי עוד פעם</l>
+          <l>כמו בתמונה הישנה</l>
+          <l>כשהיית קטנה.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>טעם של פעם</l>
+          <l>רוצה שוב לגעת</l>
+          <l>באהבה הראשונה</l>
+          <l>שכבר אינה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כל אחד היה רוצה לגעת</l>
+          <l>באותו חלום ישן עוד פעם.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

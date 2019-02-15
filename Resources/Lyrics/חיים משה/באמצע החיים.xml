@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>באמצע החיים</title>
+        <singer classification="male singer">חיים משה</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>מני קוממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>באמצע החיים</head>
+        <lg number="1" type="stanza">
+          <l>את היית לי בית בלילות החורף</l>
+          <l>אור וחום בימים סוערים</l>
+          <l>בתוך האושר פנית לי עורף</l>
+          <l>בדרכך אל ימים אחרים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>באמצע החיים</l>
+          <l>בשקט קר ובלי מחר</l>
+          <l>באמצע החיים</l>
+          <l>ברגע בו הכל נשבר</l>
+          <l>עזבת מכאן</l>
+          <l>בלי לומר דבר</l>
+          <l>עזבת מכאן</l>
+          <l>באמצע החיים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהבה לחשתי לך</l>
+          <l>מול אור ירח</l>
+          <l>הבטחות לי לחשת מהלב</l>
+          <l>איתך ידעתי עולם שמח</l>
+          <l>שנגלה לי אכזר וכואב</l>
+          <l>איתך ידעתי עולם שמח</l>
+          <l>שנגלה לי אכזר וכואב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>באמצע החיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

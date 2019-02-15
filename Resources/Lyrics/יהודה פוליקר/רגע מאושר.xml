@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רגע מאושר</title>
+        <singer classification="male singer">יהודה פוליקר</singer>
+        <writer>יהודה פוליקר</writer>
+        <composer>יהודה פוליקר</composer>
+        <album>אהבה על תנאי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רגע מאושר</head>
+        <lg number="1" type="stanza">
+          <l>מחר יהיה אתמול של עוד מחר</l>
+          <l>בינתיים כל דקה זה רגע מאושר</l>
+          <l>היום אני נסחף מבלי לחשוב</l>
+          <l>זה עושה לי טוב לגעת לאהוב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה מן חיוך כזה שאין בו דופי</l>
+          <l>שפגש אותי וכנראה</l>
+          <l>אני שבוי עכשיו בתוך היופי</l>
+          <l>לא רוצה לדעת מה יהיה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מבט קטן אחד אני נמס</l>
+          <l>זה עושה לי טוב זה רגש שהורס</l>
+          <l>ורק שכלום לא ישתנה</l>
+          <l>ואם אני טועה מה זה משנה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה מן חיוך כזה שאין בו דופי</l>
+          <l>שפגש אותי וכנראה</l>
+          <l>אני שבוי עכשיו בתוך היופי</l>
+          <l>לא רוצה לדעת מה יהיה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מה אני שוכח ומה אני זוכר</l>
+          <l>אני אומר שרק לא ייגמר</l>
+          <l>החיים יפים</l>
+          <l>כשאהבה נוגעת לפעמים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

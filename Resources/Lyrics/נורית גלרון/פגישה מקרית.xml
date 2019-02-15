@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פגישה מקרית 2</title>
+        <singer classification="female singer">נורית גלרון</singer>
+        <writer>שבא סלהוב</writer>
+        <composer>אילן וירצברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פגישה מקרית</head>
+        <lg number="1" type="stanza">
+          <l>פגישה מקרית בעיר זרה </l>
+          <l>כל הרחובות שלה זורמים </l>
+          <l>אתה בדרכך למקומך </l>
+          <l>ואני בדרכי אליך </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מי שכיוון שניפגש </l>
+          <l>לא אמר מקום </l>
+          <l>הסימנים שהוא נתן </l>
+          <l>חוזרים אלי כמו חלום </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תגידי שוב מה שמך </l>
+          <l>אתה לוחש אלי </l>
+          <l>אני רוצה אותך איתי </l>
+          <l>כולך בתוך חיי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הלילה נגמר </l>
+          <l>בא האור </l>
+          <l>שלא יקום מרחק בינינו </l>
+          <l>שנזכור </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני רואה תמונה אחת </l>
+          <l>כולך בזרועותי</l>
+          <l>מי שכיוון שניפגש </l>
+          <l>לא אמר מתי </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מי שכיוון שניפגש... </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>לרגע ארוך ושלם </l>
+          <l>אסף ליבך את חיי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

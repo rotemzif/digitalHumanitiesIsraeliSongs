@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בא לי 16</title>
+        <singer classification="male singer">סגיב כהן</singer>
+        <writer>סגיב כהן</writer>
+        <composer>סגיב כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בא לי</head>
+        <lg number="1" type="stanza">
+          <l>בא לי מתוק </l>
+          <l>בא לי מריר </l>
+          <l>גם אם זה כל מה שהיה </l>
+          <l>בא לי זורח </l>
+          <l>בא לי סגריר </l>
+          <l>אין אהבה בלי אכזבה </l>
+          <l>בא לי לשכוח </l>
+          <l>בא להזכר </l>
+          <l>גם אם עכשיו את עם אחר </l>
+          <l>בא לך לברוח </l>
+          <l>בא לך לחזור </l>
+          <l>את עקבותי לך מפזר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בא לי כאב </l>
+          <l>באה לי שמחה </l>
+          <l>והלב שלי תמיד נשאר פצוע </l>
+          <l>בא לי חלום </l>
+          <l>באה מציאות </l>
+          <l>את נושבת לתוכי עזה כרוח </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בא לי בשקט </l>
+          <l>בא מנגן </l>
+          <l>בא לי סתם </l>
+          <l>בא מעניין </l>
+          <l>מה את שותקת </l>
+          <l>איך את רואה </l>
+          <l>את מה שהיה או לא היה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בא לי כאב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

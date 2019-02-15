@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין כמוה 2</title>
+        <singer classification="male singer">רמי קלינשטיין</singer>
+        <writer>מאיר גולדברג</writer>
+        <composer>רמי קלינשטיין</composer>
+        <album>אהביני</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין כמוה</head>
+        <lg number="1" type="stanza">
+          <l>אין כמוה מי יודע זאת כמוני</l>
+          <l>אין כמוה זה הולך ומתחזק</l>
+          <l>ואין כבר כח שיקח אותה ממני</l>
+          <l>רק לא לשכוח שהאושר הוא ספק</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא לפגוע יש חוטים דקים ביננו</l>
+          <l>לא לקרוע יש סיבות להתאפק</l>
+          <l>רק לא לשמוע שזה עוד מעט איננו</l>
+          <l>לא לשמוע את הבכי מתרחק</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כשהבית ריק הבית ריק</l>
+          <l>לא משנה לי אם אני צודק</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אין כמוה מי יודע זאת כמוני</l>
+          <l>אין עוד כח שאותנו ינתק</l>
+          <l>אין כמוה עד היום האחרון היא</l>
+          <l>לא לשכוח את עצמי אני בודק</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כשהבית ריק הבית ריק</l>
+          <l>לא משנה לי אם אני צודק</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אין כמוה מי יודע זאת כמוני</l>
+          <l>אין כמוה זה הולך ומתחזק</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

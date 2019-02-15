@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה במבט שלך</title>
+        <singer classification="unknown">עופר רז</singer>
+        <writer>ראובן כרמל</writer>
+        <composer>עממי ערבי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה במבט שלך</head>
+        <lg number="1" type="stanza">
+          <l>זה המגע שלך שהפך לקר </l>
+          <l>זה במבט שלך שכלום כבר לא נשאר </l>
+          <l>זה במילים שלך שקרים ועוד שקרים </l>
+          <l>זה לא מגיע לי אז למה להגזים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמה אהבתי ואולי יותר מדי </l>
+          <l>השארת לי בית ריק ובחיי שברים </l>
+          <l>ואם את שם עכשיו נמצאת עם גבר זר </l>
+          <l>אותך רואה רק אלוהים </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ועכשיו נוסע איש אינו יודע </l>
+          <l>שלא אשוב עוד לעולם </l>
+          <l>מה תעשי שאת תדעי שאני </l>
+          <l>בשבילך כבר לא לא קיים עוד בעולם </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לך מעצמי לא החסרתי מעולם </l>
+          <l>הייתי כאן איתך תמיד שבי רצית </l>
+          <l>מה הוא ייתן לך שממני לא קיבלת </l>
+          <l>מה תעשי שתביני שטעית</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ועכשיו נוסע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

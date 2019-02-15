@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא עכשיו</title>
+        <singer classification="female singer">ענבל פרלמוטר</singer>
+        <writer>ענבל פרלמוטר</writer>
+        <composer>ענבל פרלמוטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא עכשיו</head>
+        <lg number="1" type="stanza">
+          <l>כשהזמן לא עובר</l>
+          <l>שום דבר לא עוזר</l>
+          <l>בכל יום עוד יותר</l>
+          <l>כשאתה מדבר וחוזר ואומר:</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>או שאין לך מצברוח</l>
+          <l>או שאת עסוקה</l>
+          <l>או שאת כועסת -</l>
+          <l>אבל אז את הכי מצחיקה...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ועכשיו זה בוער</l>
+          <l>כי תורך לוותר</l>
+          <l>אחפש לי איש אחר</l>
+          <l>אם תמשיך לדבר וחוזר ואומר:</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>או שאין לך מצברוח...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כשאתה תתבגר</l>
+          <l>אז אולי נסתדר</l>
+          <l>בינתיים תזהר</l>
+          <l>כשאתה מדבר וחוזר ואומר:</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>או שאין לך מצברוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחד מי יודע</title>
+        <singer classification="male singer">עמיר בניון</singer>
+        <writer>עמיר בניון</writer>
+        <composer>עמיר בניון</composer>
+        <album>עומד בשער</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחד מי יודע</head>
+        <lg number="1" type="stanza">
+          <l>ברחת ואין רודף ואין שום רגע עודף</l>
+          <l>עמוד כפוף עמוד לתפילה נחש ערום ומהיר</l>
+          <l>בזחילה בעורפך נושף</l>
+          <l>נפלת ואין מפיל ואין שום צל מאפיל</l>
+          <l>זה לא שייך לך בן אדם לבוש גלימה מעפר ומדם</l>
+          <l>אותך יש מי שיציל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אחד מי יודע</l>
+          <l>אני יודע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נשכחת ואין עובר ואין עוד מי שזוכר אותך</l>
+          <l>אם זה אתה אז אני אזכר</l>
+          <l>יש לי בלב עוד סימן של היכר</l>
+          <l>שלא היית מוכר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אחד מי יודע</l>
+          <l>אני יודע</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

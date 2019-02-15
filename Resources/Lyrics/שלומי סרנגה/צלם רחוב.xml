@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צלם רחוב</title>
+        <singer classification="male singer">שלומי סרנגה</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>ג'וני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צלם רחוב</head>
+        <lg number="1" type="stanza">
+          <l>בוא פאפארצי ראצי, צלם אותי כאן ובכל מקום</l>
+          <l>פאפארצי ראצי, בוא ותגשים לי את החלום</l>
+          <l>בוא פאפארצי ראצי, אני מוכן, תפוס אותי פתאום</l>
+          <l>פאפארצי ראצי, בוא תעשה לי את היום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אתה יודע מי שווה מי נמאס</l>
+          <l>אתה קובע מי יוצא מי נכנס</l>
+          <l>בוא להנציח עוד רגע</l>
+          <l>יאללה, צלם רחוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בוא פאפארצי ראצי, קשה לי בזמן האחרון</l>
+          <l>פאפארצי ראצי, תוציא אותי מהדיכאון</l>
+          <l>בוא פאפארצי ראצי, תמונה אחת לי שווה מליון</l>
+          <l>פאפארצי ראצי, באינטרנט או בעיתון</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אתה יודע מי שווה מי נמאס...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תעתועים 2</title>
+        <singer classification="unknown">שר אל</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>אריה פרננד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תעתועים</head>
+        <lg number="1" type="stanza">
+          <l>אמא שלך אמרה לך שממני לא יצא שום דבר</l>
+          <l>אז למה לא סיפרת לה שבעצם זה נהיה מאוחר</l>
+          <l>את בהריון היא לא בעניינים</l>
+          <l>את בטח לא סיפרת לה על כל השינויים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואולי את השמש מעלי</l>
+          <l>שולחת אור וחום מחייכת אלי</l>
+          <l>ואולי את השמש מעלי</l>
+          <l>את עושה לי את היום את מתה עלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>השעה כבר מאוחרת הירח מגליד</l>
+          <l>עוד סיבוב קטן וחותכים את כל תל אביב</l>
+          <l>ההורים שלך חיכו לי ברחוב</l>
+          <l>אמרו הרבה דברים שלא עשו לי טובה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואולי את השמש מעלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

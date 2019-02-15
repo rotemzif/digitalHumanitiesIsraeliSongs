@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני ואת 7</title>
+        <singer classification="unknown">גיא גמזו</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>עממי ערבי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני ואת</head>
+        <lg number="1" type="stanza">
+          <l>משוטט בתוך ליבך</l>
+          <l>אין יותר יפה ממך</l>
+          <l>ועוצמת אהבתך אלי</l>
+          <l>חזקה מדי</l>
+          <l>גורלי וגורלך</l>
+          <l>מונחים בכף ידך</l>
+          <l>עד הסוף אני אלך איתך</l>
+          <l>כי ליבי שלך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני ואת את שלי</l>
+          <l>ואני אהיה רק שלך</l>
+          <l>אנא קחי אותי אל ליבך</l>
+          <l>ותאירי את הלב שלי</l>
+          <l>תני לי רק את הטוב</l>
+          <l>תני לי רגע </l>
+          <l>לאהוב רק אותך מקרוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חום גופך שלצידי</l>
+          <l>כמו נהר מציף אותי</l>
+          <l>שום דבר לא יעצור</l>
+          <l>אותי - מאהבתי</l>
+          <l>את האור בנשמה</l>
+          <l>כמו הנר בחשכה</l>
+          <l>לך אתן תאהבה שלי</l>
+          <l>ואת כל כולי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני ואת את שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

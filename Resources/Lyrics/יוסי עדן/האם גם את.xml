@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האם גם את</title>
+        <singer classification="unknown">יוסי עדן</singer>
+        <writer>יוסי עדן</writer>
+        <composer>יוסי עדן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האם גם את</head>
+        <lg number="1" type="stanza">
+          <l>איך לבדי נשארתי עכשיו</l>
+          <l>השארת אותי כאן לבד מאוהב</l>
+          <l>זאת את שביקשת שאני רק יאהב</l>
+          <l>תגידי לי איך נעלמת ועזבת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>האם גם את </l>
+          <l>יושבת ומזילה דמעות</l>
+          <l>האם כבר שכחת</l>
+          <l>איך אהבתי אותך בלי סוף</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מדוע אמרת שאותי את רוצה</l>
+          <l>ידעת בתוכך שאת לא מוכנה</l>
+          <l>בשבילך זאת הייתה עוד אהבה</l>
+          <l>בשבילי זאת הייתה אהבה יחידה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>האם גם את...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

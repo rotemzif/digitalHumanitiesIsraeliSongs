@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הפעם 4</title>
+        <singer classification="band">בית הבובות</singer>
+        <writer>אמיר אטיאס</writer>
+        <composer>אמיר אטיאס</composer>
+        <album>שוב החיוך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הפעם</head>
+        <lg number="1" type="stanza">
+          <l>הפעם זה אמיתי</l>
+          <l>הפעם את איתי</l>
+          <l>והלילה קר רק אל תלכי</l>
+          <l>כמה מוזר לא צריך עוד שום דבר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הפעם אני ארגיש</l>
+          <l>הפעם לא אהיה אדיש</l>
+          <l>אחפש אותך עד כלות נשמתי </l>
+          <l>אחבק אותך הפעם את תהיי שלי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא אני 9</title>
+        <singer classification="male singer">מאור כהן</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>מעליי דממה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא אני</head>
+        <lg number="1" type="stanza">
+          <l>לא אני שאהבת בליל אמש</l>
+          <l>לא אני שחלמת על אם הדרך</l>
+          <l>אני הנעלם בין המון סואן</l>
+          <l>אחרייך אלך בשקט בשקט</l>
+          <l>אני יודע למה את נרגשת</l>
+          <l>אני יודע זה כואב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זר פרחים למענך הנחתי על מפתן ביתך</l>
+          <l>זר פרחים באהבה קטפתי בשבילך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את ידעת שאני אחרייך</l>
+          <l>את ידעת שאני אפול אפיים</l>
+          <l>לב נעול לך נעלמת מפניי</l>
+          <l>עם אחר את תמיד בשקט בשקט</l>
+          <l>כמו צל של עצמי חולף אל מול עינייך</l>
+          <l>עינייך בורקות מדמעות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זר פרחים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

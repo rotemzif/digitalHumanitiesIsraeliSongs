@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ידיעה</title>
+        <singer classification="band">שוטי הנבואה</singer>
+        <writer>רואי לוי</writer>
+        <composer>רואי לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ידיעה</head>
+        <lg number="1" type="stanza">
+          <l>בקומה שניה בבני ברק</l>
+          <l>משפחה של חרדים</l>
+          <l>הם יודעים שמשהו טוב</l>
+          <l>רק אם הוא מה שהם יודעים</l>
+          <l>איש צעיר מהרצליה</l>
+          <l>במחלקת עסקים</l>
+          <l>מאמין שעם הכסף</l>
+          <l>הוא יגיע לשחקים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מי מכוון את התנועה</l>
+          <l>ומי נוסע</l>
+          <l>איזה מן סוג של השפעה</l>
+          <l>פועל עלי</l>
+          <l>מה האמת בנבואה</l>
+          <l>ומי יודע</l>
+          <l>אם אלוהים נמצא בתוך מחשבותי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתמחה בטלפתיה</l>
+          <l>מתכנס בתוך עצמו</l>
+          <l>מנסה מהאמבטיה</l>
+          <l>להושיע את עמו</l>
+          <l>אם יש כסף מזומן</l>
+          <l>אז מי צריך את הקבלה</l>
+          <l>מה הקשר בין אדון עולם</l>
+          <l>לראש הממשלה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מי מכוון את התנועה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

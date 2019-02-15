@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני אצעד אתך</title>
+        <singer classification="unknown">ניצה חן</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>יהודה בדיחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני אצעד אתך</head>
+        <lg number="1" type="stanza">
+          <l>אני אצעד איתך,</l>
+          <l>תמיד אצעד איתך</l>
+          <l>גם אם השביל יגיע </l>
+          <l>אל פיו של התהום.</l>
+          <l>אני אתמוך בך,</l>
+          <l>אני אראה לך,</l>
+          <l>ואם קולך תשמיע</l>
+          <l>פה אמתין כל יום.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ימים רבים לאורך כל הדרך.</l>
+          <l>לילות רבים אני אהיה לצדך.</l>
+          <l>ימים רבים, גם אם נכרע על ברך.</l>
+          <l>לילות רבים אצעד ללא מנוחה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ושיר אלחש לך</l>
+          <l>ונר אדליק לך,</l>
+          <l>אחרוש לך כל שעל</l>
+          <l>מחר כמו היום.</l>
+          <l>אני אצעד איתך,</l>
+          <l>תמיד אצעד איתך</l>
+          <l>גם אם אפול עם ערב</l>
+          <l>כמו שקיעה חמה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ימים רבים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

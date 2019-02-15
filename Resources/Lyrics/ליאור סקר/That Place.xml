@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>That Place</title>
+        <singer classification="male singer">ליאור סקר</singer>
+        <writer>ליאור סקר</writer>
+        <composer>ליאור סקר</composer>
+        <album>Happy Ends</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>That Place</head>
+        <lg number="1" type="stanza">
+          <l>Deep in the forest </l>
+          <l>where I lost myself </l>
+          <l>I left my secretes </l>
+          <l>And all that I loved and hated </l>
+          <l>But now I can't remember </l>
+          <l>Or recall where was that place </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Deep in the ocean </l>
+          <l>Where I drowned my pain </l>
+          <l>I left it sinking </l>
+          <l>I Knew I'll be coming back </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>But now I can't remember </l>
+          <l>Or recall where was that place</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

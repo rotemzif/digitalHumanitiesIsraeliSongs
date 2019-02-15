@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בסוף הדרך 3</title>
+        <singer classification="female singer">נורית גלרון</singer>
+        <writer>נתן יונתן</writer>
+        <composer>אילן וירצברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בסוף הדרך</head>
+        <lg number="1" type="stanza">
+          <l>בכל מקום</l>
+          <l>יש תהום לאמיצים</l>
+          <l>וצל לעייפים</l>
+          <l>ומעין שקרירותו נגרת.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בכל שחרית</l>
+          <l>יש טל לרועדים</l>
+          <l>ואור לאוהבים</l>
+          <l>ואבנים קרות ועשב פרא.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בכל ערבית</l>
+          <l>יש קץ לסוערים</l>
+          <l>ועץ לערירים</l>
+          <l>וסלע לשוכבים בסוף הדרך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

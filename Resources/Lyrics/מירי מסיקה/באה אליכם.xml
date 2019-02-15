@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>באה אליכם</title>
+        <singer classification="female singer">מירי מסיקה</singer>
+        <writer>דידי שחר</writer>
+        <composer>דידי שחר</composer>
+        <album>מירי מסיקה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>באה אליכם</head>
+        <lg number="1" type="stanza">
+          <l>כשעצוב ולא הולך</l>
+          <l>כשמפחיד ומסתבך</l>
+          <l>אני באה אליכם אני באה אליכם</l>
+          <l>האוטו שט על פני הכביש</l>
+          <l>כנראה גם הוא מרגיש</l>
+          <l>אני באה אליכם אני באה אליכם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבא יגיד: "הגיעה הנסיכה"</l>
+          <l>אמא ברגע מוארת משמחה</l>
+          <l>ילדה שלנו כמה התגעגענו </l>
+          <l>חכי מעט ילדה שלי</l>
+          <l>לפני שתגדלי</l>
+          <l>ילדה שלנו כמה התגעגענו </l>
+          <l>חכי מעט ילדה שלי</l>
+          <l>לפני שתגדלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ילדה קצרה על שביל ארוך</l>
+          <l>לא תעצור לסגור השרוך</l>
+          <l>אני רצה אליכם אני רצה אליכם</l>
+          <l>והסיפור על הלשון </l>
+          <l>עף וכבר נכנס ראשון</l>
+          <l>אני רצה אליכם אני רצה אליכם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבא יגיד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

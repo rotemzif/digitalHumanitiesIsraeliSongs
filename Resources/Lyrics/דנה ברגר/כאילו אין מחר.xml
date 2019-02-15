@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כאילו אין מחר 2</title>
+        <singer classification="female singer">דנה ברגר</singer>
+        <writer>גיורא חמיצר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כאילו אין מחר</head>
+        <lg number="1" type="stanza">
+          <l>עזוב הכל קח מעיל</l>
+          <l>תבוא בלי שאלות</l>
+          <l>דמיין שכל מה שנשאר</l>
+          <l>זה יום אחד לחיות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יום אחד, יום אחד, יום אחד...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בוא נחיה כאילו אין מחר</l>
+          <l>מה שלא יהיה לא מתחרטים על שום דבר</l>
+          <l>בוא נחיה כאילו אין מחר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תיתן לי יד</l>
+          <l>אל תהיה עצוב</l>
+          <l>שנינו פה עכשיו</l>
+          <l>זה כל מה שחשוב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אז בוא איתי נברח</l>
+          <l>נמריא לכוכבים</l>
+          <l>אפילו יום אחד</l>
+          <l>מספיק כשאוהבים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בוא נחיה כאילו אין מחר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

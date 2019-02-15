@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר לילדה שעוד לא נולדה</title>
+        <singer classification="male singer">מיקי גבריאלוב</singer>
+        <writer>רוני סומק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר לילדה שעוד לא נולדה</head>
+        <lg number="1" type="stanza">
+          <l>את שלא נולדת עדיין</l>
+          <l>ציירי לנו קשת בשמיים</l>
+          <l>ועלה ירוק על גדר הבית</l>
+          <l>תקשרי סרטים ורודים</l>
+          <l>סביב לעננים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את שלא נולדת עדיין</l>
+          <l>שמרי על האודם בשפתיים</l>
+          <l>הוא ישמור אותך כשתצאי לשם</l>
+          <l>את תגידי רק שושן ותשתלי אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זהו שיר לילדה שעדיין לא נולדה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשתהיי בגן יספרו לך</l>
+          <l>על זאב רשע שטרף כבשה</l>
+          <l>את תפחדי מעט ותלטפי בובה</l>
+          <l>ותסתירי אותה מתחת למיטה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זהו שיר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

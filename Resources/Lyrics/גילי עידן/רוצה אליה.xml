@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוצה אליה</title>
+        <singer classification="unknown">גילי עידן</singer>
+        <writer>אופיר כהן</writer>
+        <composer>אופיר כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוצה אליה</head>
+        <lg number="1" type="stanza">
+          <l>כולם אומרים לי בחור תשמור עליה </l>
+          <l>זו לא עוד סתם בחורה תסתכל בעיניה</l>
+          <l>יש בה משהו אחר החיוך המבט למות עליה</l>
+          <l>איך הייתי טיפש עכשיו מבקש רוצה אליה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך לא שמרתי עליה </l>
+          <l>איך שיחקתי ברגשותיה</l>
+          <l>אני רוצה אותה</l>
+          <l>כל כך רוצה אליה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בלילות לא נרדם אין לי שקט וקר לי </l>
+          <l>עשיתי כבר את הכל מתי היא תסלח לי</l>
+          <l>די תאמרו לה שהיא שברה לי תלב עצוב בלעדיה</l>
+          <l>עוד סיגריה שורף הזמן לא חולף רוצה אליה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך לא שמרתי עליה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

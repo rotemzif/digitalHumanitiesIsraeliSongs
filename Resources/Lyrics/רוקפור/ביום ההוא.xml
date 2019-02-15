@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ביום ההוא</title>
+        <singer classification="band">רוקפור</singer>
+        <writer>מרק לזר</writer>
+        <composer>missing</composer>
+        <album>העולם המופלא</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ביום ההוא</head>
+        <lg number="1" type="stanza">
+          <l>ביום ההוא </l>
+          <l>יהיה חוף בלי חול</l>
+          <l>רק קליפה ריקה, </l>
+          <l>שומרת לו מקום</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>והקול שיתלווה </l>
+          <l>ינפץ לרסיסים</l>
+          <l>יכה בחלונות,</l>
+          <l>ישבור את הגלים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תן לו...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ביום ההוא, אומרים, </l>
+          <l>אין דרך שתדע</l>
+          <l>מה מוביל לים </l>
+          <l>ומה סוחף ליבשה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בסוף היום ההוא </l>
+          <l>יהיה סתם עוד יום רגיל</l>
+          <l>אחרי שיעבור </l>
+          <l>תמשיך הלאה, לא תרגיש</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

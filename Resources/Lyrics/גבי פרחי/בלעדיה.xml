@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלעדיה</title>
+        <singer classification="unknown">גבי פרחי</singer>
+        <writer>אילן גולדהירש</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלעדיה</head>
+        <lg number="1" type="stanza">
+          <l>האהבה נגעה בי, בלהבה </l>
+          <l>אבל כשהיא פגעה בי, הנר כבה </l>
+          <l>עכשיו היא נעלמה לה, בתוך עשן </l>
+          <l>רק זכרונות נותרו, בשיר ישן </l>
+          <l>אבל אני יודע, אלך בעקבותיה </l>
+          <l>אני מתגעגע, קשה לי בלעדיה </l>
+          <l>בלעדיה... </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לילה לילה בלעדיה, מנוחה איני מוצא </l>
+          <l>לילה לילה רק אליה, רק אליה הלב שלי יוצא</l>
+          <l>רק אליה... </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני סובב סובב לי, ברחובות </l>
+          <l>הראש כל כך מלא, במחשבות </l>
+          <l>אני רק מחפש לי, את יום אתמול </l>
+          <l>אני חושב עליה, זוכר הכל </l>
+          <l>זוכר רק את עיניה, זוכר רק את פניה </l>
+          <l>רוצה לחזור אליה, קשה לי בלעדיה </l>
+          <l>בלעדיה... </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לילה לילה בלעדיה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

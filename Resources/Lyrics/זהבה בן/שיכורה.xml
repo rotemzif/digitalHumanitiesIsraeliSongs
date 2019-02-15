@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיכורה</title>
+        <singer classification="female singer">זהבה בן</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>אריק זנטי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיכורה</head>
+        <lg number="1" type="stanza">
+          <l>כשאני יושבת עצובה</l>
+          <l>אתה מושיט יד מחבקת</l>
+          <l>עוטף אותי באהבה</l>
+          <l>מנשמתך המפנקת</l>
+          <l>כשאתה בשקט מתקרב</l>
+          <l>כל העצבות שבי חולפת</l>
+          <l>מילה קטנה מתוך הלב</l>
+          <l>ואני כבר מרחפת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שיכורה אני מאהבה אליך</l>
+          <l>שיכורה מהחיוך שבעינייך</l>
+          <l>את ליבי למענך רוצה לתת</l>
+          <l>אני אחת שאוהבת באמת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך אתה כמו שמש בחיי</l>
+          <l>איתי לאורך כל הדרך</l>
+          <l>יודע לאהוב בלי די</l>
+          <l>איתך אני רק מאושרת</l>
+          <l>לפעמים אתה מגזים כל כך</l>
+          <l>יותר מידי מתגעגע</l>
+          <l>אבל אם יום אחד תברח</l>
+          <l>בגללך עוד אשתגע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שיכורה אני מאהבה אליך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

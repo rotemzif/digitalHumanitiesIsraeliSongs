@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הנפש התאומה שלי</title>
+        <singer classification="unknown">שיקו חייק</singer>
+        <writer>שיקו חייק</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הנפש התאומה שלי</head>
+        <lg number="1" type="stanza">
+          <l>בין זרועותייך מרגיש כה מושלם </l>
+          <l>ממש כמו תינוק שנולד לעולם,</l>
+          <l>זכות כה גדולה נפלה בחלקי,</l>
+          <l>העולם כה יפה, כשאת לצידי....</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רוצה לחיות ורק לחיות איתך</l>
+          <l>את כל ימי ולילותי אקדיש רק לך</l>
+          <l>את ליבי, חיי, רוחי...... את כל עולמי,</l>
+          <l>את הנפש התאומה שלי...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאני לא איתך אני מרגיש לא, לא שייך</l>
+          <l>את האושר הפנימי, את הנפש בתוכי</l>
+          <l>פוקח את עיני, רואה אותך כאן לידי</l>
+          <l>מבין כי לא חלום הכל כאן אמיתי</l>
+          <l>אינתי חייתי אלבי ורוחי....</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רוצה לחיות ורק לחיות איתך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

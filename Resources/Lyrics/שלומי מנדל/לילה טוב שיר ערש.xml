@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילה טוב שיר ערש</title>
+        <singer classification="unknown">שלומי מנדל</singer>
+        <writer>שלומי מנדל</writer>
+        <composer>שלומי מנדל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילה טוב שיר ערש</head>
+        <lg number="1" type="stanza">
+          <l>שיר שמדליק אור בחושך </l>
+          <l>שיר שהופך שדים לפיות</l>
+          <l>שיר שמשאיר מאחור את האובך</l>
+          <l>לילה טוב, שיר ערש </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היי אמא, איך עבר כל כך הרבה זמן </l>
+          <l>מאז ששרת לי סיפור לפני השינה</l>
+          <l>היי אמא, איך עבר כל כך הרבה זמן </l>
+          <l>מאז שהבטחת שאבא יביא לי מתנה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שיר שהופך חלומות למתוקים </l>
+          <l>שיר שרק את יודעת לכתוב</l>
+          <l>שיר שמזכיר תקופת משחקים</l>
+          <l>לילה טוב, שיר ערש</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היי אמא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

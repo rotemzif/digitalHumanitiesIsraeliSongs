@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המפץ הגדול</title>
+        <singer classification="unknown">תומר בן אפרים</singer>
+        <writer>תומר בן אפרים</writer>
+        <composer>תומר בן אפרים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המפץ הגדול</head>
+        <lg number="1" type="stanza">
+          <l>בבירות רחוקות בחדרים אטומים מתרקמת מזימה </l>
+          <l>מסרים מוצפנים נשלחים בו זמנית בתקשורת מהירה </l>
+          <l>בנקודות הקצה מופעלים סוכנים רדומים </l>
+          <l>ובקרי השליטה עוקבים ממרכזי עצבים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>המפץ הגדול יוצא לדרך </l>
+          <l>הוא יהפוך את מה שיש למה שהיה </l>
+          <l>המפץ הגדול יוצא לדרך </l>
+          <l>ונראה שגלי ההדף יגיעו עד כאן </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>האפר הדק יתפשט לאיטו לכל הרוחות </l>
+          <l>כמו גשם ישטוף את שיירות הפליטים בדרכים הארוכות </l>
+          <l>ובשוך הסופות יקוו מים אל מים </l>
+          <l>ואבק אל עפר ישוב תחת שמיים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>המפץ הגדול יוצא לדרך... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>המפץ הגדול יצא לדרך </l>
+          <l>ונראה שגלי ההדף הגיעו עד כאן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

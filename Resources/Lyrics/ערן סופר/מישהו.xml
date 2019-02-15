@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מישהו 46</title>
+        <singer classification="unknown">ערן סופר</singer>
+        <writer>ראובן כרמל</writer>
+        <composer>ברוך לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מישהו</head>
+        <lg number="1" type="stanza">
+          <l>בגללך אבודים הם החיים</l>
+          <l>הסתכלי מה עשית ללב שלי</l>
+          <l>בגללך לא יוצא מתוך ביתי</l>
+          <l>אי העזת לבגוד בנשמה שלי</l>
+          <l>בגלל הכאב גמרת על החיים שלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מישהו בא ולקח אותך</l>
+          <l>מישהו אחר נושם אותך</l>
+          <l>מישהו עכשיו נמצא איתך</l>
+          <l>אני כבר לא שייך ללב שלך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתחנן תחזרי אל תוך חיי</l>
+          <l>בגללך תראי מה שעובר עלי</l>
+          <l>הימים לעולמים הם רק חולפים</l>
+          <l>ובלילות אני רוצה אותך איתי</l>
+          <l>בגלל הכאב גמרת על החיים שלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מישהו בא ולקח אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

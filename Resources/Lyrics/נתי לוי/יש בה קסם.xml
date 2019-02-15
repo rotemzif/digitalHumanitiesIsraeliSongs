@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש בה קסם</title>
+        <singer classification="male singer">נתי לוי</singer>
+        <writer>אבשלום צוברה</writer>
+        <composer>אבשלום צוברה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש בה קסם</head>
+        <lg number="1" type="stanza">
+          <l>משחקת איתה, מלטף אותה,</l>
+          <l>משתוללת לי בין הידיים</l>
+          <l>מתענג איתה אותי היא מגניבה,</l>
+          <l>נעצמות לי העיניים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש בה קסם מאוד מיוחדת,</l>
+          <l>יודעת היא הכל לעלות וגם לרדת</l>
+          <l>יש בה קסם אותך הופך כנוע,</l>
+          <l>עד כי תבוא אל תוכה לנוע.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מסובב אותה, מסתכסך איתה,</l>
+          <l>הכל נראה משחק בין השניים,</l>
+          <l>מפנק אותה וצוחק איתה,</l>
+          <l>אשליות עד השמיים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש בה קסם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

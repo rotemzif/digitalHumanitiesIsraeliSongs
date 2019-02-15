@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איתך בשעות הקטנות של הלילה</title>
+        <singer classification="male singer">גידי שמור</singer>
+        <writer>גידי שמור</writer>
+        <composer>עוזי חיטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איתך בשעות הקטנות של הלילה</head>
+        <lg number="1" type="stanza">
+          <l>יש שעות שאותן אני אוהב</l>
+          <l>אך הן תמיד חולפות מהר</l>
+          <l>יש שעות שאותך אני אוהב</l>
+          <l>ואז קשה לי נורא לוותר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אוהב אותך בשעוות הקטנות של הלילה</l>
+          <l>ורק איתך אני לא רוצה לישון</l>
+          <l>שמח איתך בשעוות הקטנות של הלילה</l>
+          <l>תפסיקי להציץ בשעון</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש שעות שנפלא להיות איתך</l>
+          <l>לשמוע רדיו בקול נמוך</l>
+          <l>ואת הולכת לעשות עוד כוס קפה</l>
+          <l>אני אוהב קפה הפוך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אוהב אותך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יש שעות שכייף יותר לחיות</l>
+          <l>שכולם בתוך חלום</l>
+          <l>ואת אומרת שהגיע זמן לישון</l>
+          <l>הנה עולה כבר אור ראשון</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אוהב אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

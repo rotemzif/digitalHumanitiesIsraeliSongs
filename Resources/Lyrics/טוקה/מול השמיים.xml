@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מול השמיים</title>
+        <singer classification="unknown">טוקה</singer>
+        <writer>טוקה</writer>
+        <composer>טוקה</composer>
+        <album>הווה אחר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מול השמיים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>ברח ילד, ברח</l>
+          <l>אין פה יותר אהבה</l>
+          <l>ברח ילד, ברח</l>
+          <l>אמא אדמה כבר לא שומרת</l>
+          <l>ברח ילד, ברח</l>
+          <l>חפש לך זהות אחרת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מול השמיים, מאבד התמימות, מוכר השפיות לכל המרבה במחיר</l>
+          <l>מול השמיים, לחיות לא למות, לשבור הקרירות, לחיות לא למות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ברח ילד, ברח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

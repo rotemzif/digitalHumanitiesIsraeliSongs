@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שירייך נעמי</title>
+        <singer classification="unknown">יעל אולשר</singer>
+        <writer>לאה אולשר</writer>
+        <composer>לאה אולשר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שירייך נעמי</head>
+        <lg number="1" type="stanza">
+          <l>אצלנו בחצר, בבית חלומותי</l>
+          <l>הרוח, השמש על פני</l>
+          <l>קיץ וחורף ושנים עשר ירחים</l>
+          <l>ינועו ארבעת האחים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלף שנים יזמרו שירייך</l>
+          <l>אלף שנים ניגונייך</l>
+          <l>אלף שנים את לעמי</l>
+          <l>אלף שנים נעמי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשראש השניה בתפילה נושנה</l>
+          <l>עטף את העיר הלבנה</l>
+          <l>ובדרך הלכו אנשים טובים</l>
+          <l>ושמעו את שירת ההעשבים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלף שנים....</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לו יהי, יום יום חג, בארצי מולדתי</l>
+          <l>וירד השלג על עירי</l>
+          <l>בירושלים של זהב העיר הזוהרת</l>
+          <l>החגיגה עוד לא נגמרת.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אלף שנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

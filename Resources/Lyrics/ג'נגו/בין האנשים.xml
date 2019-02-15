@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בין האנשים</title>
+        <singer classification="unknown">ג נגו</singer>
+        <writer>ג'נגו</writer>
+        <composer>ג'נגו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בין האנשים</head>
+        <lg number="1" type="stanza">
+          <l>מי זה</l>
+          <l>שומע</l>
+          <l>את מה שאני</l>
+          <l>לא יודע?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נשברתי</l>
+          <l>עליה</l>
+          <l>נרדמתי</l>
+          <l>לרגע</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בין האנשים אני אמצא לי פנים</l>
+          <l>בין האנשים אני אמצא לי פנים</l>
+          <l>בין האנשים אני אמצא לי פנים</l>
+          <l>בין האנשים אני אמצא לי פנים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נכנס שם</l>
+          <l>אליה</l>
+          <l>צורח</l>
+          <l>פוגע</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>גיליתי</l>
+          <l>שאני לא מבין כלום</l>
+          <l>נוסע</l>
+          <l>שוכח</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בין האנשים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

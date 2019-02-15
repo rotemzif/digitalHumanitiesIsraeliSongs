@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין לי מרגוע</title>
+        <singer classification="male singer">יואב יצחק</singer>
+        <writer>יואב יצחק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין לי מרגוע</head>
+        <lg number="1" type="stanza">
+          <l>כולם סיפרו</l>
+          <l>שהיא אותי מאוד אוהבת</l>
+          <l>רבים חיזרו לשווא</l>
+          <l>אך עם כולם הייתה צוחקת</l>
+          <l>אותי היא לא הסתירה</l>
+          <l>לא מאביה לא מאמא</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין לי מרגוע דרך לברוח</l>
+          <l>דמותך ניצבת מול עיני</l>
+          <l>תני לי לשכוח אין לי הכח</l>
+          <l>לשאת אותך בתוך חיי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תני לי מרגוע...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לילות גשומים</l>
+          <l>על סף מפתן ביתי המתינה</l>
+          <l>ידעה מתי אשוב</l>
+          <l>כה יראתי מפניה</l>
+          <l>עיניים לא עצמתי</l>
+          <l>אין מי יאמר לי עד מתי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אין לי מרגוע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

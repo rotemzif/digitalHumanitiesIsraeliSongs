@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אולי טעיתי</title>
+        <singer classification="unknown">פה מלא</singer>
+        <writer>רן דרום</writer>
+        <composer>רן דרום</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אולי טעיתי</head>
+        <lg number="1" type="stanza">
+          <l>אולי טעיתי, הם לא יבואו כבר </l>
+          <l>לא מחר ולא בעוד שנה </l>
+          <l>מבעד לחיוך מחשבות </l>
+          <l>איך היה יכול להיות </l>
+          <l>אנחנו לא נבוא כבר </l>
+          <l>לא מחר ולא בעוד שנה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבל בלב שלי </l>
+          <l>אין זמן, אין צל </l>
+          <l>גם כשמסתכל באור </l>
+          <l>אין זמן, אין צל גם כשמסתכל </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא ההתחלה לא האמצע </l>
+          <l>עצם הציפייה לעלות יחדיו, לא לבד </l>
+          <l>יש מקום, יש מתוק מדבש </l>
+          <l>ולכן בדרך </l>
+          <l>טוב לדבר עכשיו, לפני שזה נגמר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבל בלב שלי... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יש אהבה, טעיתי </l>
+          <l>שוב להתחיל אולי </l>
+          <l>מחר, אולי בעוד שנה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

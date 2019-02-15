@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בבקשה ממך 2</title>
+        <singer classification="male singer">רגב הוד</singer>
+        <writer>אלון צדוק</writer>
+        <composer>שמואל אלבז</composer>
+        <album>אני לא מלך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בבקשה ממך</head>
+        <lg number="1" type="stanza">
+          <l>מחזר אחריך, לא מרפה לדקה</l>
+          <l>שולח לך עוד פרח עם שיר לאהבה</l>
+          <l>שוקל לעמוד עם פרחים מול ביתך</l>
+          <l>אולי תתני קצת אהבה מליבך.</l>
+          <l>בשלטי חוצות חתמתי את שמך,</l>
+          <l>רוצה ממך את דור ההמשך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בבקשה ממך תחזירי אהבה</l>
+          <l>תני לי את ליבך ותהיה אלי טובה</l>
+          <l>בבקשה ממך, חבקי אותי כמו ילד</l>
+          <l>מלבדך לא תהיה אחת אחרת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מדבר אליך, לא מחכה לתשובה</l>
+          <l>מאמין בך יותר ויש בי עוד תקווה</l>
+          <l>חושב לי מהלב ובלי היגיון</l>
+          <l>זאת אהבה כבר מהיו הראשון</l>
+          <l>בשלטי חוצות חתמתי את שמך,</l>
+          <l>רוצה ממך את דור ההמשך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בבקשה ממך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ממלכת העיר</title>
+        <singer classification="male singer">עופר לוי</singer>
+        <writer>יוש גרנות</writer>
+        <composer>עממי טורקי</composer>
+        <album>כוכב שנות ה- 90</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ממלכת העיר</head>
+        <lg number="1" type="stanza">
+          <l>היא כה נהדרת כמו נסיכה</l>
+          <l>וניראת גברת בשיא הפריחה</l>
+          <l>אני גנוב עליה לא ישן בגללה</l>
+          <l>אני שבוי בקסמיה השפוט שלה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היא עוברת ברחובות ושוברת לבבות</l>
+          <l>עם חיוך ושתי גומות</l>
+          <l>היא פוסעת לעיתה בשמלה שמבליטה</l>
+          <l>מעוררת מחשבות</l>
+          <l>היא יודעת להסעיר גם זקן וגם צעיר</l>
+          <l>היא כבשה את כל העיר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בכל יום כתבתי מכתבי אהבה</l>
+          <l>ופרחים שלחתי להמיס ליבה</l>
+          <l>אבל היא צוחקת אומרת לי אולי</l>
+          <l>אני סובל בשקט די עד מתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היא עוברת ברחובות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

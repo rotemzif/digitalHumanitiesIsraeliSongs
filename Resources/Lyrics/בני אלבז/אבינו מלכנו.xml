@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבינו מלכנו 5</title>
+        <singer classification="male singer">בני אלבז</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבינו מלכנו</head>
+        <lg number="1" type="stanza">
+          <l>אבינו מלכנו אלוקי בורא עולם</l>
+          <l>קרב בינינו ותן אהבת חינם</l>
+          <l>אליך המלך בוחן הלבבות</l>
+          <l>כרענו על ברך שתחבר בין קצוות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבינו מלכנו תפילתנו תקבל</l>
+          <l>ברך את ביתנו תן שלום על ישראל</l>
+          <l>טהר את ליבנו שנדע רק אהבה</l>
+          <l>ואת ידינו מלא בפרנסה טובה</l>
+          <l>ואת ידינו מלא בפרנסה טובה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לכאן הגענו אין לנו מקום אחר</l>
+          <l>ישראל שלנו ומעל אתה שומר</l>
+          <l>אם נושיט ידיים ונהיה מאוחדים</l>
+          <l>יפתחו שמיים לקולם של ילדים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבינו מלכנו תפילתנו תקבל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

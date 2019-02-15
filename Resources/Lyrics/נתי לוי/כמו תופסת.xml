@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו תופסת</title>
+        <singer classification="male singer">נתי לוי</singer>
+        <writer>נתי לוי</writer>
+        <composer>נתי לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו תופסת</head>
+        <lg number="1" type="stanza">
+          <l>רצתי אחרייך כמו עבד מעולף</l>
+          <l>ואת רק עוד המשכת להרים את האף</l>
+          <l>חשבת אהבה זה סימן של חולשה</l>
+          <l>להגיד "אני אוהבת" בעינייך זו בושה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את רק אוהבת לשחק</l>
+          <l>להתקרב, להתרחק</l>
+          <l>האהבה שלך זה כמו תופסת</l>
+          <l>את מפחדת לתת לרגש קצת לצאת</l>
+          <l>שלא ידע אם את אותי אוהבת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>למה את רואה באהבה כתחרות</l>
+          <l>נסי להתבונן ולבדוק עוד אפשרות</l>
+          <l>אהבה נולדה לעשות לנו טוב</l>
+          <l>תני קצת לעצמך הזדמנות לאהוב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את רק אוהבת לשחק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

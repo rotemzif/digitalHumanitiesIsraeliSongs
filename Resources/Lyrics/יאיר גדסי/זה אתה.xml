@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה אתה 4</title>
+        <singer classification="unknown">יאיר גדסי</singer>
+        <writer>יאיר גדסי</writer>
+        <composer>יאיר גדסי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה אתה</head>
+        <lg number="1" type="stanza">
+          <l>זה אתה, שמאיר לי את העיניים,</l>
+          <l>זה אתה, ברוחי נותן פי שניים, </l>
+          <l>כן אתה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זה אתה, שממיס בי את לב האבן בתוכי,</l>
+          <l>זה אתה, שמגשים בי טיפות של מים,</l>
+          <l>זה אתה, שמוזג לי צלילים של יין, </l>
+          <l>כן אתה, אבי שבשמיים, זה אתה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עָזִּי וְזִמְרָת יָהּ וַיְהִי לִי לִישׁוּעָה</l>
+          <l>אֵלִי אַתָּה אֱלֹהַי אֲרוֹמְמֶךָּ</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זה אתה, שמאיר לי את השמיים,</l>
+          <l>זה אתה, ששומר אותי פי שניים,</l>
+          <l>כן אתה.</l>
+          <l>זה אתה, שמכיר את לב היצר בתוכי.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה אתה, מרגש הדמעות בעיניים,</l>
+          <l>זה אתה, מנגן בצלילים של מים,</l>
+          <l>כן אתה, אבי שבשמיים זה אתה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עָזִּי וְזִמְרָת יָהּ וַיְהִי לִי לִישׁוּעָה</l>
+          <l>אֵלִי אַתָּה אֱלֹהַי אֲרוֹמְמֶךָּ</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

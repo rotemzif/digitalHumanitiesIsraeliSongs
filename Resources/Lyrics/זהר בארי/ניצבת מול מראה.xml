@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ניצבת מול מראה</title>
+        <singer classification="unknown">זהר בארי</singer>
+        <writer>זהר בארי</writer>
+        <composer>שמשון בר נוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ניצבת מול מראה</head>
+        <lg number="1" type="stanza">
+          <l>ואת ניצבת מול מראה</l>
+          <l>מביטה בעיניים</l>
+          <l>ורואה את השנים</l>
+          <l>דרך הפנים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ובלילות החורף כשאת לבד</l>
+          <l>תדעי שיש מלאך</l>
+          <l>ששומר ולוחש לך</l>
+          <l>אל תחששי ואל תדאגי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני איתך כל החיים</l>
+          <l>תתחזקי ותדעי</l>
+          <l>שעם השנים</l>
+          <l>אני מאחורייך</l>
+          <l>כל החיים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ובלילות החורף כשאת לבד</l>
+          <l>תדעי שיש מלאך</l>
+          <l>ששומר ולוחש לך</l>
+          <l>אל תחששי ואל תדאגי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

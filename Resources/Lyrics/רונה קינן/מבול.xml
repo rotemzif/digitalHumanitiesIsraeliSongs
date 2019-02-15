@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מבול 5</title>
+        <singer classification="female singer">רונה קינן</singer>
+        <writer>אלונה קמחי</writer>
+        <composer>missing</composer>
+        <album>לנשום בספירה לאחור</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מבול</head>
+        <lg number="1" type="stanza">
+          <l>אם נשרוד את המבול הפעם,</l>
+          <l>כל חיוך יהיה שונה, נגוע.</l>
+          <l>אם אחזור על זה עוד ועוד ועוד</l>
+          <l>תשארי עשרים שנה או עד סוף היום.</l>
+          <l>למדנו לחכות ולוותר ואיך להיזהר, מכל מילה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והכל יקפא פתאום</l>
+          <l>אם יהיה לנו רגע לעצור בפינת רחוב</l>
+          <l>לחבק ולעזוב</l>
+          <l>כאילו שאפשר בכלל לדעת להרפות</l>
+          <l>לאהוב פחות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בחיוך פרוע עוד אבוא לגבות חובות</l>
+          <l>לשבור חומות ולהעיר אותך</l>
+          <l>למרות שאין דבר שלם יותר מהכאב שמתנגן</l>
+          <l>בשיר אחר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והכל יקפא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

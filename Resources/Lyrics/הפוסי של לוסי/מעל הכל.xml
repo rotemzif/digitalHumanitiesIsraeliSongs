@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מעל הכל</title>
+        <singer classification="unknown">הפוסי של לוסי</singer>
+        <writer>אסף שיש</writer>
+        <composer>אסף שיש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מעל הכל</head>
+        <lg number="1" type="stanza">
+          <l>הולכים אל הלא נודע</l>
+          <l>מחשבות בי הולמות ללא הפוגה</l>
+          <l>בקולי, לא תשמע חרטה</l>
+          <l>כולי תקווה, נעמוד במשימה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם רק אנשים היו מקשיבים</l>
+          <l>לא מפנים את גבם, מבטים מוזרים</l>
+          <l>כן אני משוכנע הם היו מבינים</l>
+          <l>שמעל הכל עומד אדם מבפנים.. מבפנים..</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא מסתתר מאחורי הרעיונות הגדולים</l>
+          <l>לאן הם הובילו ת'מאה העשרים</l>
+          <l>לא שואף להיות האחד ממליון</l>
+          <l>אני כמוכם יוצא מתוך ההמון</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לפעמים מתעוררים בי אותם הספקות</l>
+          <l>של כל אדם בנוגע לבחירות</l>
+          <l>שעשיתי, לאן הלכתי בחיים</l>
+          <l>אך אני נאמן לעצמי אנשים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם רק אנשים היו מקשיבים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

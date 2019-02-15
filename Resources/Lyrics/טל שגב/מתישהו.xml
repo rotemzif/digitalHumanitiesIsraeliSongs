@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתישהו</title>
+        <singer classification="male singer">טל שגב</singer>
+        <writer>טל שגב</writer>
+        <composer>טל שגב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתישהו</head>
+        <lg number="1" type="stanza">
+          <l>איך זה שאני אף פעם לא צודק</l>
+          <l>אף פעם לא בסדר</l>
+          <l>תמיד המתרחק</l>
+          <l>איך זה שאני עמוס בבלגן</l>
+          <l>הבעיות אצלי</l>
+          <l>אף פעם לא אצלך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מתישהו כשיהיה לך זמן</l>
+          <l>תבואי</l>
+          <l>מתישהו כשתביני את העולם</l>
+          <l>אני למטה עם כולם</l>
+          <l>מחכה לך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך זה שאני פחות מהקודם</l>
+          <l>תמיד רוצה יותר</l>
+          <l>וככה אגמר</l>
+          <l>ואיך זה שאת השארת אותי לבד</l>
+          <l>הלב שלך חזק</l>
+          <l>תחזיקי עוד מעט</l>
+          <l>עוד מעט</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מתישהו שיהיה לך זמן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

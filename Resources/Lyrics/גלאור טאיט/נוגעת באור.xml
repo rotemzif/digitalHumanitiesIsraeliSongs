@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נוגעת באור</title>
+        <singer classification="unknown">גלאור טאיט</singer>
+        <writer>גלאור טאיט</writer>
+        <composer>גלאור טאיט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נוגעת באור</head>
+        <lg number="1" type="stanza">
+          <l>אור כחול תלוי מעלי </l>
+          <l>בשרשרת מתכת וצבעים אחרים </l>
+          <l>קירות מכסים אדמה רועדת </l>
+          <l>טון מתגבר אל עוצמה אין סופית </l>
+          <l>האור מתעצם בתנועה סיבובית </l>
+          <l>החברה מחייכת הקצב אחיד </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והיא נוגעת באור </l>
+          <l>מעבירה אצבעות במים צלולים </l>
+          <l>אל רגליה את שדיה לא תולה מעלי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אור של כל תלוי מעלי </l>
+          <l>בשרשרת שמיים וגוונים נוספים </l>
+          <l>קירות נמוכים האדמה רוקדת </l>
+          <l>טון מתגבר אל ריגוש אין סופי </l>
+          <l>האור מתעצב בתנועה סיבובית </l>
+          <l>אם אדם מחייך הקצב אחיד </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והיא נוגעת באור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

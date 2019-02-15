@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אתה מבטיח</title>
+        <singer classification="unknown">שרי 3</singer>
+        <writer>אפרים סידון</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אתה מבטיח</head>
+        <lg number="1" type="stanza">
+          <l>אני חושבת שאתה בחור מצליח</l>
+          <l>אני יודעת שתהיה אדם חשוב</l>
+          <l>אתה אחד שמקיים מה שמבטיח</l>
+          <l>אתה נאה מאוד, לבוש בטעם וחטוב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני יודעת שתבנה לי בית לתפארת</l>
+          <l>ומכונית שלא אסע באוטובוס</l>
+          <l>ותתן לי עושר, שני בנים, חתול, עוזרת</l>
+          <l>שכנות שמקנאות אך מחייכות ברב נימוס</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אתה מבטיח - ועוצם עיניים</l>
+          <l>אתה אומר לי וכולך נלהב</l>
+          <l>מה יש בך בסך הכל תגיד לי</l>
+          <l>מה יש בך שאותך אוהב?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אתה אומר לי שאתה בודד בינתיים</l>
+          <l>ושמך עוד לא נזכר בעיתונים</l>
+          <l>ולצידי בתוך שנה שנתיים</l>
+          <l>ידעו כולם איך הזזת עניינים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אתה מבטיח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

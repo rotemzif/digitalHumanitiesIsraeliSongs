@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סיגפו</title>
+        <singer classification="band">בית הבובות</singer>
+        <writer>אמיר אטיאס</writer>
+        <composer>אמיר אטיאס</composer>
+        <album>מדפים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סיגפו</head>
+        <lg number="1" type="stanza">
+          <l>והירח היה מלא כל הלילה</l>
+          <l>וזה משאיר אותי למעלה</l>
+          <l>תכתוב על ארבע קירות ברגע</l>
+          <l>ולא די לה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גל של הזיות בטבע</l>
+          <l>מאבד מציאות לרגע</l>
+          <l>איך בסוף היא תמיד חוזרת לעצמה</l>
+          <l>ולא די לה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>פתאום כשנדמה שהשחר לא יפציע לעולם</l>
+          <l>עוד עולה זיכרון ישן</l>
+          <l>פתאום כשנדמה שהשחר לא יפציע לעולם</l>
+          <l>עוד אור עולה ומראה לאן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>סיגפו זה חם וזה פוגע</l>
+          <l>לא את הכל אתה יודע</l>
+          <l>זה אותו האור שתמיד ליווה אותך</l>
+          <l>ולא די לה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>פתאום כשנדמה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>היא חזרה משם כדי להשלים לה את המעגל שלה</l>
+          <l>אל המעיין בא גדי בא גדי קטן</l>
+          <l>היגיון של אגדה היא מרגישה כמו ילדה קטנה</l>
+          <l>בשדה גדול של הבנה, טהורה</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>פתאום כשנדמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

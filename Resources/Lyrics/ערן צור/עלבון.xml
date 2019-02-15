@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עלבון</title>
+        <singer classification="male singer">ערן צור</singer>
+        <writer>ערן צור</writer>
+        <composer>ערן צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עלבון</head>
+        <lg number="1" type="stanza">
+          <l>הוא מחבק אותה</l>
+          <l>והיא נלחצת</l>
+          <l>הוא מנשק אותה</l>
+          <l>היא קמה והולכת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רציתי שתדע</l>
+          <l>אני גדולה ממך</l>
+          <l>חשוב לי שתדע</l>
+          <l>שחזקה ממך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכשיו אני ילד קטן</l>
+          <l>חושב שאת האמא שלי</l>
+          <l>זה אמצע הרחוב</l>
+          <l>אל תעזבי אותי לבד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>והנה, באור היום העולה</l>
+          <l>נח לו במרכז החדר</l>
+          <l>עלבון גדול, קשה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

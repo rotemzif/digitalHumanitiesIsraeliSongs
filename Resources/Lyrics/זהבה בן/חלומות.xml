@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלומות 18</title>
+        <singer classification="female singer">זהבה בן</singer>
+        <writer>מני בגר</writer>
+        <composer>מני בגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלומות</head>
+        <lg number="1" type="stanza">
+          <l>כשאני ישנה בלילה, על מה אני חולמת</l>
+          <l>על מלאכים קטנים, על דובים צהובים</l>
+          <l>כשאני ישנה בלילה, על מה אני חושבת?</l>
+          <l>על שדות ירוקים, על גאיות ושבילים</l>
+          <l>או על כיפה אדומה שגם היא ישנה</l>
+          <l>היא חולמת חלום על זאב וזאבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חלומות רחוקים</l>
+          <l>חלומות ואגדות של ילדים</l>
+          <l>חלומות רחוקים</l>
+          <l>חלומות ואגדות של ילדים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאני ישנה בלילה, על מה אני חולמת?</l>
+          <l>על ציפורים ושפנים, על נהרות וגמדים</l>
+          <l>כשאני ישנה בלילה, על מה אני חושבת?</l>
+          <l>על רוחות וגשמים, והעלים שנושרים</l>
+          <l>ועל כיפה אדומה שגם היא ישנה</l>
+          <l>היא חולמת חלום על זאב וזאבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חלומות רחוקים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

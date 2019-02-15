@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חזקה אהבתי</title>
+        <singer classification="unknown">רונן חסון</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>עופר לב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חזקה אהבתי</head>
+        <lg number="1" type="stanza">
+          <l>כוכב קטן בשמיים כבר מאז איתי הולך</l>
+          <l>הוא שליווה אותי אליך אל דרכך ואל לבך</l>
+          <l>לעולם חדש יצאתי עד פסגת חלומותי</l>
+          <l>בדמותך תמיד מצאתי אושר בחיי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חזקה אהבתי מכאן עד כלות נשימתי</l>
+          <l>ואם אי פעם תעזבי</l>
+          <l>איש לא יבין את כאבי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>משחר ילדותי נקשרתי לא ידעתי אחרות</l>
+          <l>ולעצמי אותך שמרתי היפה בנערות</l>
+          <l>לבבי כמו פעם שר לך ורוצה כאן ועכשיו</l>
+          <l>עם מנגינתי לומר לך אני מאוהב. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חזקה אהבתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נסיכים וסוסים</title>
+        <singer classification="male singer">דודו טסה</singer>
+        <writer>דודו טסה</writer>
+        <composer>missing</composer>
+        <album>בדיוק בזמן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נסיכים וסוסים</head>
+        <lg number="1" type="stanza">
+          <l>לאה תשתחרר</l>
+          <l>הכל יהיה בסדר</l>
+          <l>לא עזרו כל השיחות</l>
+          <l>יעזרו הכדורים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תראו היא תתגבר</l>
+          <l>היא רק תבכה בסתר</l>
+          <l>תצרח מתוך כאב עגול</l>
+          <l>מתוך ארון בגדים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זכרונות ישנים,</l>
+          <l>איך אתם לא מבינים,</l>
+          <l>חולמת לה ילדה קטנה,</l>
+          <l>נסיכים וסוסים,</l>
+          <l>נסיכים וסוסים.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ללאה יש חבר</l>
+          <l>הכל יהיה בסדר</l>
+          <l>בחור כזה טיפה אדיש</l>
+          <l>מי יודע מה הוא מרגיש.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היא לא אדם אחר</l>
+          <l>היא מתכסה בעצב</l>
+          <l>חורזת לה כאב ישן</l>
+          <l>למחברת השירים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זכרונות ישנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

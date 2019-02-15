@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמע קול בכי</title>
+        <singer classification="unknown">ראובן המלאך</singer>
+        <writer>מני חן</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמע קול בכי</head>
+        <lg number="1" type="stanza">
+          <l>ריבון עולם פורס ידי אליך למרומים,</l>
+          <l>נושא אליך את שירי ומזמורי התהילים, </l>
+          <l>אשרי האיש אשר לא הלך בעצת רשעים,</l>
+          <l>כי יודע אדוני דרך צדיקים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שמע אדוני קול בכי,</l>
+          <l>זועק למרומים שמע תפילתי,</l>
+          <l>הושיעני אבי למען חסדך,</l>
+          <l>כי אין במוות זיכרך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אשא עיני אל ההרים,</l>
+          <l>מאין יבא עזרי,</l>
+          <l>עזרי מעם אדוני,</l>
+          <l>עושה שמים וארץ,</l>
+          <l>אל יתן למוט רגליך,</l>
+          <l>אל ינום שמרך,</l>
+          <l>הנה לא ינום ולא יישן שומר ישראל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שמע אדוני קול בכי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

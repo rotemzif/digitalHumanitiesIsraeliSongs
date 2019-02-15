@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני 401</title>
+        <singer classification="unknown">מוזיקת המקרה</singer>
+        <writer>אסף קרן</writer>
+        <composer>אסף קרן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אני הוא הילד שרץ ברחובות</l>
+          <l>אני הוא המלך, עירום מתקוות</l>
+          <l>אני הוא הסדק בכל הלבבות</l>
+          <l>אני הוא הילד שרץ ברחובות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני הוא הגבר, עובד על כבוד</l>
+          <l>אני הוא השבר של כל האבות</l>
+          <l>אני הוא הקסם מעל הרחובות</l>
+          <l>אני הוא הגבר, ואין לי תשובות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני הוא הפלא, מחזיר אהבות</l>
+          <l>אני הוא המלך של כל הלבבות</l>
+          <l>אני הוא הכתם על כל התקוות</l>
+          <l>אני הוא הפלא, מחזיר אהבות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני הוא הילד שרץ ברחובות</l>
+          <l>אני הוא המלך, עירום מתקוות</l>
+          <l>אני הוא הסדק בכל הלבבות</l>
+          <l>אני הוא הילד שרץ ברחובות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

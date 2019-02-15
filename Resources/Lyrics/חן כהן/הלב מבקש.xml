@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלב מבקש</title>
+        <singer classification="unknown">חן כהן</singer>
+        <writer>חן כהן</writer>
+        <composer>חן כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלב מבקש</head>
+        <lg number="1" type="stanza">
+          <l>ברגע אחד של חוסר ריכוז, </l>
+          <l>אתה מאבד אתה לא חושב על כל מה, כל מה שחשוב </l>
+          <l>הלב מבקש רק עוד פעימה, </l>
+          <l>הראש מסרב רוצה רגיעה מכל מה, כל מה שחשוב </l>
+          <l> לאט את מתרחקת, לאט מאבדת </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל הדרכים מסמנות לי אותך, הרגש גובר, הראש מתבגר כשאת, כשאת לידי.</l>
+          <l>עוד לילה עובר, נגמר ההרגל, הכל זה לבד, ואין אף אחת שתחזיר את פעימות הלב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>סיפור שנגמר , נשאר בעבר, </l>
+          <l>ממשיך הכאב רודף את הלב , הרגש, הרגש מדבר </l>
+          <l>בכל החיים מרגישים, אוהבים,</l>
+          <l> אבל עוד כמוך רק האלוהים ישלח לי ואנסה לשמור.</l>
+          <l> לאט את מתרחקת, לאט מאבדת </l>
+        </lg>
+        <lg number="4" type="stanza" />
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כל הדרכים מסמנות לי אותך, הרגש גובר, הראש מתבגר כשאת, כשאת לידי.</l>
+          <l>עוד לילה עובר, נגמר ההרגל, הכל זה לבד, ואין אף אחת שתחזיר את פעימות הלב.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

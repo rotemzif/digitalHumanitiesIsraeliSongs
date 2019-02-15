@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מדרכות</title>
+        <singer classification="band">בייב</singer>
+        <writer>אורי מור</writer>
+        <composer>אורי מור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מדרכות</head>
+        <lg number="1" type="stanza">
+          <l>מדרכות בצד השני נקיות יותר</l>
+          <l>כלבים לא הולכים שם לאיבוד</l>
+          <l>חתונות, ילדים, אהבה גדולה, נפרדים</l>
+          <l>בשבילי מאוחר מדי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך זה שלא הצלת את עצמך</l>
+          <l>בחרת להישאר עכשיו מאוחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שני לילות שלושה ימים</l>
+          <l>איך גירשתי את השדים</l>
+          <l>בשבילך מלאכית שלי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא מתעורר בבקרים</l>
+          <l>לא עושים לי כלום הסמים</l>
+          <l>ובלילה השדים חוזרים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>איך זה שלא הצלת את עצמך</l>
+          <l>בחרת להישאר עכשיו מאוחר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

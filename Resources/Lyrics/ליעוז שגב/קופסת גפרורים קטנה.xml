@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קופסת גפרורים קטנה</title>
+        <singer classification="unknown">ליעוז שגב</singer>
+        <writer>ליעוז שגב</writer>
+        <composer>ליעוז שגב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קופסת גפרורים קטנה</head>
+        <lg number="1" type="stanza">
+          <l>מתוך זיכרון </l>
+          <l>מרגיש איך זה שוב חוזר </l>
+          <l>חוזר אלי ולא מרפה </l>
+          <l>אני זז במקום </l>
+          <l>כדי לחמם את הגוף </l>
+          <l>הגוף שריק מאהבה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רציתי לתפוס את הרגע </l>
+          <l>לחפש שם אהבה </l>
+          <l>להבין איך הכל התחיל </l>
+          <l>ואיך הכל נכנס </l>
+          <l>לתוך קופסת גפרורים קטנה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נחתם כבר הכל </l>
+          <l>לא מצאתי זמן יותר </l>
+          <l>מזמן שלא מצאתי </l>
+          <l>וכח לרצות לא נשאר לי </l>
+          <l>כבר יותר מאז שאת השארת לי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רציתי לתפוס את הרגע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

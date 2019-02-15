@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אף אחד 10</title>
+        <singer classification="female singer">דניאלה פיק</singer>
+        <writer>דניאלה פיק</writer>
+        <composer>דניאלה פיק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אף אחד</head>
+        <lg number="1" type="stanza">
+          <l>אתה כבר לא אוהב אותי יותר</l>
+          <l>אז קל לך ללכת לוותר</l>
+          <l>לא חשבתי שפתאום תברח</l>
+          <l>פגעת בי פגעת בי כל כך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין אף אחד, אף אחד</l>
+          <l>חולמת על ביחד ותמיד לבד</l>
+          <l>אין אף אחד, אף אחד</l>
+          <l>צללים של זכרונות ילכו איתי לעד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הרוחות בלילה מאיימות</l>
+          <l>שותקות ומרעידות את הקירות</l>
+          <l>לא רוצה להשתחרר ממך</l>
+          <l>אוהבת אוהבת רק אותך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין אף אחד, אף אחד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עף אל בך וימים חולפים</l>
+          <l>געגועי מתגברים</l>
+          <l>תסתכל רחוק אל הכוכבים</l>
+          <l>הם בשבילינו זוכרים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אין אף אחד, אף אחד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

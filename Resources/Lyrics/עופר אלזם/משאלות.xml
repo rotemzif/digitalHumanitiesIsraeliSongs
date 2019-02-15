@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משאלות 3</title>
+        <singer classification="unknown">עופר אלזם</singer>
+        <writer>שלמה כישור</writer>
+        <composer>אריה פיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משאלות</head>
+        <lg number="1" type="stanza">
+          <l>נפשי שואלת פינה של שקט</l>
+          <l>שבה אחיה לי בשלום</l>
+          <l>ולא אהיה עוד ציפור נודדת</l>
+          <l>ומה ימתק לי החלום.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כן, את זאת נפשי שואלת,</l>
+          <l>מתפללת כל היום.</l>
+          <l>אין לי כבר לאן ללכת,</l>
+          <l>לא מצאתי לי מקום.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נפשי שואלת ומבקשת</l>
+          <l>פינה של נחת, פינה של חום</l>
+          <l>שבה תהיה לי ילדה אוהבת</l>
+          <l>שתברכני לשלום.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כן...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נפשי שואלת ומתחננת</l>
+          <l>לחוט של חסד ממרום.</l>
+          <l>לשיר שמח, לצחוק של ילד,</l>
+          <l>שרק בטוב ייתם היום.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

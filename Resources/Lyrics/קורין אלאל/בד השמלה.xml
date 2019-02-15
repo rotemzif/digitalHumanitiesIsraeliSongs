@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בד השמלה</title>
+        <singer classification="female singer">קורין אלאל</singer>
+        <writer>מאיר גולדברג</writer>
+        <composer>missing</composer>
+        <album>הכחול של השמיים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בד השמלה</head>
+        <lg number="1" type="stanza">
+          <l>בד השמלה מכסה, מסתיר ומגלה</l>
+          <l>ככה אמור להיות וברור שכך יהיה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היא תיסע לארץ אחרת</l>
+          <l>פינה שהשמש אוהבת יותר</l>
+          <l>מתחת שמלת השמים</l>
+          <l>המסתירה מקום אחד ומגלה מקום אחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בד השמלה מכסה, מסתיר ומגלה</l>
+          <l>היא עטופה שתיקה בתוך מטוס מלא</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היא תיסע לארץ אחרת</l>
+          <l>פינה שהשמש אוהבת יותר</l>
+          <l>מתחת שמלת השמים</l>
+          <l>המסתירה מקום אחד ומגלה אחר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

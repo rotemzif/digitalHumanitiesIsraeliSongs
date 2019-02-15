@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נשמה חוזרת לגוף</title>
+        <singer classification="male singer">דני רובס</singer>
+        <writer>דני רובס</writer>
+        <composer>דני רובס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נשמה חוזרת לגוף</head>
+        <lg number="1" type="stanza">
+          <l>שדה תעופה, בחלון מכה סופה</l>
+          <l>עוד מעט ואת חוזרת, כמה זמן עבר?</l>
+          <l>את מבינה, שום דבר לא השתנה</l>
+          <l>מבחוץ אותה מסגרת, רק הטעם מר...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואולי לא נועדנו לגדולות,</l>
+          <l>ואולי אין דרך לשוב</l>
+          <l>הפרפר מתעקש לעוף לאור</l>
+          <l>נשמה תמיד חוזרת לגוף</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רוח בתריס, וילונות מתנופפים</l>
+          <l>מה חשבת שתגלי שם, במוטל עלוב?</l>
+          <l>את מקווה, מקלפת עוד שכבה</l>
+          <l>מסכמת את חייך כסיפור עצוב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואולי לא נועדנו לגדולות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

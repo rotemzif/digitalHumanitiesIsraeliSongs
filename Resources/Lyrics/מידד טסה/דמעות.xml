@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דמעות 19</title>
+        <singer classification="unknown">מידד טסה</singer>
+        <writer>אביעד גיל</writer>
+        <composer>אביעד גיל</composer>
+        <album>בן של מלך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דמעות</head>
+        <lg number="1" type="stanza">
+          <l>אבי שבשמיים אוהב אותך בלי סוף</l>
+          <l>באש ובמים אין על מי לסמוך</l>
+          <l>בדם דמעות ויזע אלחם למענך</l>
+          <l>כל עוד רוח באפי את חיי אקדיש לך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבא תעצור את הדמעות </l>
+          <l>אבא לא יכול יותר לבכות</l>
+          <l>אבא מי אוהב אותך יותר</l>
+          <l>אבא עליך לא אוותר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נשמתי עולה למעלה כל לילה למרומים</l>
+          <l>נשמתי בוכה בלילה מבקשת רחמים</l>
+          <l>בתפילה מתחננת רק ממך אלוקים</l>
+          <l>תן את הכוח בך לדבוק לעולמים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבא תעצור את הדמעות...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בתפילה של ילד קט שלא עוזב אותך לעולמים</l>
+          <l>אבא רחמים תן לנו חיים תרחם עלינו כאב על בנים</l>
+          <l>אבא רחמים מתפללים אליך בוכים </l>
+          <l>זולגות דמעות כבר עיננו אדומות</l>
+          <l>רק אתה יודע רק אתה שומע אלוקים...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אבא תעצור את הדמעות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

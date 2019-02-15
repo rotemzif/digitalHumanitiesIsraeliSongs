@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פירורים 2</title>
+        <singer classification="unknown">שני שטלריד</singer>
+        <writer>שני שטלריד</writer>
+        <composer>מאיר עמר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פירורים</head>
+        <lg number="1" type="stanza">
+          <l>זכרונות של כאב </l>
+          <l>ואנחנו מפחדים, </l>
+          <l>בונים חומות גבוהות </l>
+          <l>ויותר לא מתקרבים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קרבה מובילה לשברון </l>
+          <l>עליות תמיד נגמרות במורדות, </l>
+          <l>תחושת המחנק בגרון, </l>
+          <l>כבר מזמן נגמרו על הדמעות </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא נותר מקום בלב מלבד הייסורים </l>
+          <l>האם נשארנו כאן בשביל פירורים? </l>
+          <l>הלב מלא חורים - חורים...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שייגמר כבר היום ויעלה הליל, </l>
+          <l>נשרוד עוד שעה שעתיים, </l>
+          <l>מאחורי כולנו מתגנב כבר הצל, </l>
+          <l>אולי נאהב עוד פעם, אולי פעמיים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא נותר מקום בלב מלבד הייסורים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

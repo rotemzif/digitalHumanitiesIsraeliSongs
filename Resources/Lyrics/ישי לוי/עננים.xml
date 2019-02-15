@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עננים 7</title>
+        <singer classification="male singer">ישי לוי</singer>
+        <writer>רביב בן מנחם</writer>
+        <composer>רביב בן מנחם</composer>
+        <album>האחת שלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עננים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>עננים התכסו להם בינתיים </l>
+          <l>בראותם איך רגלי כשלו מדרך </l>
+          <l>עזבוני אחי כשהושטתי ידי </l>
+          <l>כשצעקתי עיזרו לי ידידי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אנה אלך חייתי שם מעבר </l>
+          <l>את לילותי ביליתי שם בסתר </l>
+          <l>ידידי זה שקר לא כדאי </l>
+          <l>ידידי זהו כל סיפור חיי </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עננים התכסו להם בינתיים </l>
+          <l>בראותם איך רגלי כשלו מדרך </l>
+          <l>עזבוני אחי כשהושטתי ידי </l>
+          <l>כשצעקתי עיזרו לי ידידי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אנה אלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

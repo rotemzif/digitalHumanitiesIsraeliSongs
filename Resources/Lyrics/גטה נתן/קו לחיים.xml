@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קו לחיים</title>
+        <singer classification="unknown">גטה נתן</singer>
+        <writer>יוש גרנות</writer>
+        <composer>רוני אחיאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קו לחיים</head>
+        <lg number="1" type="stanza">
+          <l>ישנם ימים בהם אתה שבוי</l>
+          <l>בתוך העלטה</l>
+          <l>ולא מוצא פינה שקטה</l>
+          <l>לפרוק את כאבך</l>
+          <l>וחש כיצד אתה פתאום</l>
+          <l>נמצא בודד לבד</l>
+          <l>שלפניך יש תהום</l>
+          <l>נפערת לרגליך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תתייאש</l>
+          <l>אל תכנע</l>
+          <l>אל תאבד האמונה</l>
+          <l>תמיד יש תקוה</l>
+          <l>ויש סיכויים</l>
+          <l>תמיד יש עוד</l>
+          <l>שיר, שיר לחיים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ישנם ימים בהם אדם בוכה</l>
+          <l>קולו נדם</l>
+          <l>מרגיש מותש ומיותם</l>
+          <l>בוכה הוא כמו תם</l>
+          <l>אך יש שומר ויש גואל</l>
+          <l>הוא נברא בצלם אל</l>
+          <l>ויש תשובה לכל שואל</l>
+          <l>ויש תמיד עונה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תתייאש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

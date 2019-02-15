@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נועדנו</title>
+        <singer classification="male singer">גלעד שגב</singer>
+        <writer>אולוף דרייג'ר</writer>
+        <composer>missing</composer>
+        <album>נועדנו</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נועדנו</head>
+        <lg number="1" type="stanza">
+          <l>את שמלתך אני בוחר</l>
+          <l>את שיערך שוב מסדר</l>
+          <l>ומקשיב לרחשי ליבך</l>
+          <l>את זוג עינייך מאפר</l>
+          <l>ואת ידך מחזיק</l>
+          <l>שלא תישמט</l>
+          <l>שלא תתפרק.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מהרגע שנמות עד הרגע שנחיה,</l>
+          <l>את תישארי שלי, ושלך תמיד אהיה,</l>
+          <l>והרוח שתבוא תנשב ותספר שנועדנו.</l>
+          <l>מהרגע שנמות, עד הרגע שנחיה,</l>
+          <l>את תישארי שלי, ושלך תמיד אהיה,</l>
+          <l>והרוח שתבוא תנשק ותיזכר שנועדנו.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את חולצתך שוב מנקה</l>
+          <l>את שיערך שוב מרגישה</l>
+          <l>מקשיבה לרחשי ליבך</l>
+          <l>את זוג עיניך אנשק</l>
+          <l>ואת ידך אחזיק</l>
+          <l>שלא תישמט</l>
+          <l>שלא תתפרק.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מהרגע שנמות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

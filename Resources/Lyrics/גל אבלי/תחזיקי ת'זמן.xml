@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תחזיקי ת זמן</title>
+        <singer classification="unknown">גל אבלי</singer>
+        <writer>גל אבלי</writer>
+        <composer>גל אבלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תחזיקי ת'זמן</head>
+        <lg number="1" type="stanza">
+          <l>אני עדיין עובר ליד הבית הישן שלך</l>
+          <l>נזכר בכל הלילות שלי איתך</l>
+          <l>נשארנו ערים וחלמנו איך נהיה גדולים</l>
+          <l>אני עדיין חוזר לספסל שלנו </l>
+          <l>נזכר איך בכית באותו יום שסיימנו את התיכון</l>
+          <l>תחבק אותי חזק אמרת אל תלך לשום מקום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תחזיקי תזמן תחזיקי את הזמן...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>האורות של העיר לא מצליחים להאיר את העיר הזאת</l>
+          <l>אני מתמכר לזכרונות מתמכר למחשבות</l>
+          <l>ועדיין אומר לעצמי זה לא היה כלכך מזמן</l>
+          <l>לאן לאן לאן זה נעלם?!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תחזיקי תזמן תחזיקי את הזמן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

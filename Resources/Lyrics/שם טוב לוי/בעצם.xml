@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בעצם 5</title>
+        <singer classification="male singer">שם טוב לוי</singer>
+        <writer>צפנת ירון</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בעצם</head>
+        <lg number="1" type="stanza">
+          <l>זה קורה לי לפעמים כשאת שואלת</l>
+          <l>המלים פתאום בורחות</l>
+          <l>ובאות לי כשאת כבר עוזבת</l>
+          <l>התשובות הכי טובות.</l>
+          <l>מנסה שוב להסביר את לא עוזרת</l>
+          <l>את רוצה ממני יותר</l>
+          <l>ואני שמגיב קצת אחרת</l>
+          <l>ממהר ומוותר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ובעצם ובעצם</l>
+          <l>מנגן את יודעת למי</l>
+          <l>ובעצם ובעצם</l>
+          <l>מספר לך את עצמי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ובגלל כל המלים שלא אמרתי</l>
+          <l>לא תדעי את התשובה</l>
+          <l>לא תדעי שזו את שלה שרתי</l>
+          <l>בכזו אהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ובעצם ובעצם</l>
+          <l>מנגן את יודעת למי</l>
+          <l>ובעצם ובעצם</l>
+          <l>מספר לך את עצמי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

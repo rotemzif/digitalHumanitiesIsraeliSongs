@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש אנשים</title>
+        <singer classification="unknown">שמעון אלמליח</singer>
+        <writer>אבירם דרעי</writer>
+        <composer>תומר אוחנה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש אנשים</head>
+        <lg number="1" type="stanza">
+          <l>יש אנשים שאמונה בלב אצלם היא דרך</l>
+          <l>ויש אנשים מאמינים רק שטועים,</l>
+          <l>יש אנשים בכל דבר נאחזים</l>
+          <l>יש אנשים איתם אחד רק אלוקים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש אנשים אשר ידם תמיד הכל משגת</l>
+          <l>ויש אנשים על דבר הם נלחמים,</l>
+          <l>יש אנשים שמאבדים את השפיות</l>
+          <l>ויש אנשים שנלחמים במציאות.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אך כל האנשים כמו הרוח הם נושבים</l>
+          <l>אל מקום בו חם יותר הם מבקשים</l>
+          <l>כל האנשים כגל בים הם נסחפים</l>
+          <l>אל מחר בו ימצאו את שחולמים.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש אנשים שאהבת אמת איבדו בדרך</l>
+          <l>ויש אנשים אשר איתם מתעוררים</l>
+          <l>יש שחושבים שאהבה זו מלחמה</l>
+          <l>ויש אנשים ממנה שבו חזרה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אך כל האנשים כמו הרוח הם נושבים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שברי את הטלויזיה</title>
+        <singer classification="band">החברים של נטאשה</singer>
+        <writer>מיכה שטרית</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שברי את הטלויזיה</head>
+        <lg number="1" type="stanza">
+          <l>שברי את הטלויזיה ובואי נלך לישון</l>
+          <l>כבר הרבה, הרבה זמן אני לא מצליח לחלום.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש לי אהבה, ים של אהבה, אפילו יש לי קצת כסף,</l>
+          <l>אז מאיפה זה בא? מאיפה זה בא? מאיפה בא העצב?</l>
+          <l>אתה אוהב את ה"פוזה" המלנכולית הזאת - את אומרת</l>
+          <l>אתה מחפש ומוצא את זה, אתה מכור, אתה לא יכול אחרת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לפעמים אני שונא את הכנות שלך, אבל נדמה לי שאת צודקת,</l>
+          <l>אני מחפש ומוצא את זה, כנראה שאני לא יכול אחרת.</l>
+          <l>פוצצי את הלווין שמשוטט שם מעל הוא לא שייך לשמיים,</l>
+          <l>בואי נעשה ילד, בואי נאמץ, לא איכפת לי אם אחד או שניים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש לי אהבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

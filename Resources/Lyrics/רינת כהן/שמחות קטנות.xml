@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמחות קטנות 2</title>
+        <singer classification="unknown">רינת כהן 2</singer>
+        <writer>מיכה שטרית</writer>
+        <composer>מיכה שטרית</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמחות קטנות</head>
+        <lg number="1" type="stanza">
+          <l>עמוק בליבך, עיגולים של שמחה</l>
+          <l>ואור גנוז בנשמת אפך</l>
+          <l>עמוק בלב, עיגולים של כאב</l>
+          <l>אתה שונא, אתה אוהב.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יהללו, יהללוך מלאכים</l>
+          <l>ולא תאבד דרכך בזוהר ובחשיכה</l>
+          <l>יהללו, יהללוך מלאכים</l>
+          <l>שמחות קטנות יאירו</l>
+          <l>כנצנוץ הכוכבים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לחיי התמימים ודוברי האמת</l>
+          <l>וכל החיים את חייהם באמת</l>
+          <l>שזוכרים את השמש ונוגעים באור</l>
+          <l>שיודעים אהבה, שאינה בת חלוף.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יהללו, יהללוך מלאכים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמא 121</title>
+        <singer classification="male singer">רמי דנוך</singer>
+        <writer>אליעזר מליחי</writer>
+        <composer>אליעזר מליחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמא</head>
+        <lg number="1" type="stanza">
+          <l>בודד הוא יושב, על ספסל בשדרה</l>
+          <l>ובליבו תפילה לאל קטנה</l>
+          <l>החזר לי את אמא, אמא יקרה</l>
+          <l>בוא קח אותי במקומה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קול קורא לי ממרומים</l>
+          <l>קולה של אמא נשמתי</l>
+          <l>היא לי אומרת זה רצון האל</l>
+          <l>חייה אתה ולמענך אתפלל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אמא, אני כאן לא מסתדר</l>
+          <l>אמא, בלעדייך אני אומר</l>
+          <l>קחי אותי אלייך, אושרי לצידך</l>
+          <l>רוצה להרגיש את חום ליבך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קול קורא לי ממרומים</l>
+          <l>קולה של אמא נשמתי</l>
+          <l>היא לי אומרת זה רצון האל</l>
+          <l>חייה אתה ולמענך אתפלל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

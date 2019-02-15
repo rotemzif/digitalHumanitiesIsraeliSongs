@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשאני איתך 6</title>
+        <singer classification="male singer">פיני חדד</singer>
+        <writer>אבירם דרעי</writer>
+        <composer>יניב רם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשאני איתך</head>
+        <lg number="1" type="stanza">
+          <l>זוג עיניים שנוגעות בנשמה </l>
+          <l>שתי ידייך מלטפות באהבה</l>
+          <l>ורק אלייך ליבי נסחף אלייך</l>
+          <l>את מביאה אותי לאושר ושלווה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כשאני איתך ליבי זורח</l>
+          <l>ואת ליבך הוא משמח</l>
+          <l>אני חולם תמיד איתך</l>
+          <l>איך המזל שלי נפתח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מבטך כובש אותי אני נשבע</l>
+          <l>ליופייך המשכר אני נכנע </l>
+          <l>ואת חייך אמלא כיין</l>
+          <l>ואקח אותך לדרך של תקווה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כשאני איתך ליבי זורח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

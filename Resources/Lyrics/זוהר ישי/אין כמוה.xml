@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין כמוה</title>
+        <singer classification="unknown">זוהר ישי</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין כמוה</head>
+        <lg number="1" type="stanza">
+          <l>אין כמוה, אין אחרת</l>
+          <l>ולא תהיה עוד כל חיי.</l>
+          <l>מחייכת ואומרת:</l>
+          <l>"אותך אהבתי עד בלי די".</l>
+          <l>היא עדיין מתרפקת,</l>
+          <l>מתכנסת בזרועותי;</l>
+          <l>עוד זוכרת ואוהבת</l>
+          <l>להביט שוב בשתי עיני.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הכל עובר, לא יישאר,</l>
+          <l>אך היא עלי לא תוותר.</l>
+          <l>היא בתוכי עמוק-עמוק,</l>
+          <l>היא בלבי הלכה רחוק-רחוק</l>
+          <l>והדברים לא משתנים</l>
+          <l>וכך לאט חולפות להן שנים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק תהיתי ושאלתי,</l>
+          <l>עד מתי זה עוד יימשך?</l>
+          <l>התפללתי וקיוויתי</l>
+          <l>שממני היא לא תלך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הכל עובר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נפגשנו 3</title>
+        <singer classification="male singer">יצחק קלפטר</singer>
+        <writer>יצחק קלפטר</writer>
+        <composer>יצחק קלפטר</composer>
+        <album>יצחק</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נפגשנו</head>
+        <lg number="1" type="stanza">
+          <l>נפגשנו, שמש פנתה לים</l>
+          <l>השמיים צבע אותם אמן</l>
+          <l>ארגמן של ערביים</l>
+          <l>פנייך הרכות היו כה מתוקות</l>
+          <l>כשנשקתי לך בשפתיים</l>
+          <l>הלחן מסתלסל עם המילים</l>
+          <l>השורות הופכות לשירים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חייכתי לך כשבכית לי</l>
+          <l>אני מרים עוד כוסית</l>
+          <l>ורק יכול להגיד</l>
+          <l>"אחות קטנה, הביטי"</l>
+          <l>זה משחק האהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מי שנכנס יוצא נפגע</l>
+          <l>זה משחק האהבה</l>
+          <l>מי שנכנס יוצא נפגע</l>
+          <l>הלחן מסתלסל עם המילים</l>
+          <l>השורות הופכות לשירים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חייכתי לך כשבכית לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

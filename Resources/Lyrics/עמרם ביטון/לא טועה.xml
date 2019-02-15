@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא טועה</title>
+        <singer classification="unknown">עמרם ביטון</singer>
+        <writer>עמרם ביטון</writer>
+        <composer>עמרם ביטון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא טועה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אין אדם בעולם שלא טועה</l>
+          <l>ואין בושה לומר 'טעיתי'</l>
+          <l>חכם בעיניו יותר מכל אדם</l>
+          <l>חושב לעצמו: על כולם צחקתי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רוצה להתנצל</l>
+          <l>לבקש סליחה מאחר</l>
+          <l>והאגו לא נותן לי</l>
+          <l>רוצה להתבייש</l>
+          <l>להיכנע להתפלל</l>
+          <l>והרגש משקר לי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין אדם בעולם שלא שיקר</l>
+          <l>ואין קשה מלומר 'שיקרתי'</l>
+          <l>זה לא פשוט לגעת באמת</l>
+          <l>להרגיש שהתביישתי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רוצה להתנצל לבקש סליחה מאחר</l>
+          <l>והאגו לא נותן לי</l>
+          <l>רוצה להתבייש להיכנע להתפלל</l>
+          <l>והרגש משקר לי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אין אדם בעולם שלא טועה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

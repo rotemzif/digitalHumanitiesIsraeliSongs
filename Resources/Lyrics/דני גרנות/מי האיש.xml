@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי האיש 2</title>
+        <singer classification="male singer">דני גרנות</singer>
+        <writer>אבי קורן</writer>
+        <composer>דני גרנות</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי האיש</head>
+        <lg number="1" type="stanza">
+          <l>מי האיש אשר יבוא בשער</l>
+          <l>מי הוא זה אשר לעד יזכור לי חסד נעורי</l>
+          <l>האם יבוא מארץ נגב או ירד מן הגליל</l>
+          <l>על כפיים ישאני בין פלגים ונחלים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מי האיש, מי האיש</l>
+          <l>מי האיש אשר יבוא בשער?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מי האיש, מה דמות לו ומה תואר</l>
+          <l>אדמוני ויפה עיניים, אם קורן הוא עור פניו</l>
+          <l>ירביצנו בנאות דשא ועלי מי מנוחות</l>
+          <l>ינחילנו חן וחסד וירוונו רוב ברכות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מי האיש, מי האיש</l>
+          <l>מי האיש אשר יבוא בשער?</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מי האיש אשר יבוא בשער</l>
+          <l>האם יבוא מן הגולן, מן הגלעד או הבשן</l>
+          <l>היבוא עוטה אדרת, לפניו עמוד עשן</l>
+          <l>אחכה לו יום וערב, לא אנום ולא אישן</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מי האיש, מי האיש</l>
+          <l>מי האיש אשר יבוא בשער?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

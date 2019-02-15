@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קומה א </title>
+        <singer classification="unknown">טרנטינה</singer>
+        <writer>סיגל נחום</writer>
+        <composer>סיגל נחום</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קומה א'</head>
+        <lg number="1" type="stanza">
+          <l>יש אהבות שהנחת להן</l>
+          <l>ויש רגעים שאתה מתחרט שאתה פה</l>
+          <l>יש ארוחות יותר טעימות</l>
+          <l>ויש רעב שלא עוזב אותך לרגע,</l>
+          <l>גם כשאתה שבע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תפתח לי את הדלת ותן לי לעלות</l>
+          <l>תדע שלפעמים קשה לחיות למטה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש מצוקות שהנחתי להן</l>
+          <l>ויש כאלה שתמיד באות בהפתעה,</l>
+          <l>בלי הודעה מוקדמת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תפתח לי את הדלת ותן לי לעלות</l>
+          <l>תדע שלפעמים קשה לחיות למטה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יש אהבות שהנחת להן</l>
+          <l>ואתה פה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

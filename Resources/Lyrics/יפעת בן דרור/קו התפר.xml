@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קו התפר</title>
+        <singer classification="female singer">יפעת בן דרור</singer>
+        <writer>דיאנה לב</writer>
+        <composer>יפעת בן דרור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קו התפר</head>
+        <lg number="1" type="stanza">
+          <l>כשנוזלות מחשבותי</l>
+          <l>מחכה להתאדות</l>
+          <l>יחד</l>
+          <l>מוכנה להיתפר</l>
+          <l>מחדש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תנסה</l>
+          <l>לתפוס אותי במילה</l>
+          <l>תהיה איתי</l>
+          <l>באין אני</l>
+          <l>תהיה אתה</l>
+          <l>כשאני.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תנסה לקרוא בי צללים</l>
+          <l>בין המילים</l>
+          <l>או גווני אור</l>
+          <l>במסתור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשנוזלות מחשבותי</l>
+          <l>מחכה להתאדות</l>
+          <l>יחד</l>
+          <l>מוכנה להיתפר</l>
+          <l>מחדש</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אל תנסה</l>
+          <l>לתפוס אותי במילה</l>
+          <l>תהיה איתי</l>
+          <l>באין אני</l>
+          <l>תהיה אתה</l>
+          <l>כשאני.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

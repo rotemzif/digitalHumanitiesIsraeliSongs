@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ראש בחול</title>
+        <singer classification="male singer">כפיר אפשטיין</singer>
+        <writer>כפיר אפשטיין</writer>
+        <composer>כפיר אפשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ראש בחול</head>
+        <lg number="1" type="stanza">
+          <l>פתאום הגיע זמן לחשבונות הנפש</l>
+          <l>בין כל המסכות אני פוחד ללבוש שוב את פניי</l>
+          <l>זה כבר לא משנה במה טעיתי אמש</l>
+          <l>מחר אני אוכל לטעות ישר מהתחלה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואין מה לאכול ולא נותר עוד קסם</l>
+          <l>ואיך שזה רומנטי להיות אחד קצת מיוסר</l>
+          <l>גומר את הקפה, בוהה בכוס בעצב</l>
+          <l>היא לא מראה לי כלום, לא מגלה לי שום דבר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מחר אהיה גדול</l>
+          <l>עד אז ראש בתוך החול</l>
+          <l>אולי בסוף את תגלי</l>
+          <l>הבטחתי לך קיימתי לי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עכשיו אני ישן, חולם בתוך רכבת</l>
+          <l>רוצה לקום בזמן כדי לרדת בול בתחנה</l>
+          <l>צריך כבר להודות, איבדתי את הדרך</l>
+          <l>הילד הקטן יראה לי שוב את המטרה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מחר אהיה גדול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

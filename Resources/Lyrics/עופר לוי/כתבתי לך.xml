@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כתבתי לך 5</title>
+        <singer classification="male singer">עופר לוי</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>עממי ערבי</composer>
+        <album>בדרך שבחרתי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כתבתי לך</head>
+        <lg number="1" type="stanza">
+          <l>אמרת לי לנצח איתך </l>
+          <l>נשבעת אהיה רק שלך </l>
+          <l>כל יום שעובר לו אני </l>
+          <l>לא מבין מה קרה לך איתי </l>
+          <l>למה כך אמרי אהובה </l>
+          <l>שתיקתך עולם מחריבה </l>
+          <l>חלומי הלך לו איתך </l>
+          <l>אנא חזרי בחזרה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כתבתי לך אוהב אותך </l>
+          <l>את שתי עיני ונשמתי נתתי לך </l>
+          <l>מיום שעזבת אני אבוד </l>
+          <l>בדרך לחיים הולך לי לאיבוד </l>
+          <l>כתבתי לך אוהב אותך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כוכב שוב מאיר את עיני</l>
+          <l>כמו גשם מול שמש ענן </l>
+          <l>כל יום לא צפוי כאן אצלי </l>
+          <l>מבולבל לא מוצא את עצמי </l>
+          <l>האביב שוב פורח איתך </l>
+          <l>ואני כמו שלכת בסתיו </l>
+          <l>מה נשאר לי שאין לי אותך </l>
+          <l>אנא חזרי בחזרה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כתבתי לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

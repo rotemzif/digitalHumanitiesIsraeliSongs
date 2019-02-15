@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמוני</title>
+        <singer classification="unknown">בני מזרחי</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמוני</head>
+        <lg number="1" type="stanza">
+          <l>כולנו מחכים ליום יום שבוא יזרח האור </l>
+          <l>יום שמחה ויום ששון כן נשיר יחדיו </l>
+          <l>ילאלי אך יאל ילאלי </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אתה יודע , </l>
+          <l>אתה דומה לי אתה כמוני </l>
+          <l>אני יודע אתה נשמע ממש כמוני </l>
+          <l>רוצה לברוח ממה שלא נראה לי </l>
+          <l>אך לא יודע מה שטוב לי ומה בדיוק כדאי לי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה זה הקטע , </l>
+          <l>אתה דומה לי... </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נה נה נה... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אתה דומה לי כמוני משתנה במצב הרוח </l>
+          <l>גם אתה רוצה כמוני להרגיש יותר בטוח </l>
+          <l>אך יאלי ילאלי </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אל השמיים נושאים עיניים אנו ומבקשים עוד </l>
+          <l>כמו משנים עברו ומבקשים רק את כל מה שחסרנו </l>
+          <l>ורק הלב יהיה רגוע וקצת יותר בטוח </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אל השמיים... </l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>נה נה נה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הי מדלג לי</title>
+        <singer classification="female singer">יהודית רביץ</singer>
+        <writer>מיריק שניר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הי מדלג לי</head>
+        <lg number="1" type="stanza">
+          <l>הי מדלג לי, </l>
+          <l>ליג ליג לוג.</l>
+          <l>הי מדלגת, </l>
+          <l>ליג ליג לוג.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ליגי-ליגי-לוג.</l>
+          <l>דליגי-ליגי-לוג.</l>
+          <l>מדגדג לי בבטן הדילוג.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

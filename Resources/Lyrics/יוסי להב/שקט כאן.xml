@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שקט כאן</title>
+        <singer classification="unknown">יוסי להב</singer>
+        <writer>יוסי להב</writer>
+        <composer>יוסי להב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שקט כאן</head>
+        <lg number="1" type="stanza">
+          <l>שקט כאן, פתאום הכל נעלם </l>
+          <l>מן הרגשה משונה על דבר שהיה ונדם </l>
+          <l>אין מילים לתאר את הרגע הזה </l>
+          <l>הלוואי ויכולתי לומר מילה שאותך תשנה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כשהלילה יורד יש דבר שעלי לעשות </l>
+          <l>רק דקה לפני כיבוי האורות כשהשקט נשמע ברחובות </l>
+          <l>כשהלילה יורד יש דבר שעלי לעשות </l>
+          <l>רק דקה לפני כיבוי האורות אלחש באזנייך אנא שמרי לי מקום </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו בסרט את חיה בעולם משלך </l>
+          <l>מנפצת חלום זה נראה כאילו לך לא אכפת </l>
+          <l>ממשיכים קדימה אסור להביט לאחור </l>
+          <l>לו לרגע אחד יכולתי אותך לא לזכור </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כשהלילה יורד יש דבר שעלי לעשות... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לשכוח אותך ולהוציא את הרגש </l>
+          <l>אילו רק היה ניתן הייתי חוזר את הדרך </l>
+          <l>איך הטעם שלך שוב מעלה זכרונות </l>
+          <l>יושב עכשיו ומביט באלבום התמונות </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כשהלילה יורד יש דבר שעלי לעשות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

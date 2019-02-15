@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גוזו גז</title>
+        <singer classification="female singer">ברכה צפירה</singer>
+        <writer>שרה לוי תנאי</writer>
+        <composer>עמנואל עמירן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גוזו גז</head>
+        <lg number="1" type="stanza">
+          <l>לכבשה זמרו-נא זמר,</l>
+          <l>שיר לגז ושיר לצמר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גוזו גז, גוזו גז -</l>
+          <l>צמר כבש, צמר עז!</l>
+          <l>גוזו גז... </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מן הצמר נארוגה</l>
+          <l>גם נטווה וגם נסרוגה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גוזו גז...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מן הצמר, תעש אמא</l>
+          <l>שלמת תכלת לימימה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>גוזו גז...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>והסבתא בידיים</l>
+          <l>לשומרים תסרוג גרביים </l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>גוזו גז...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

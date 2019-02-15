@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה אני מבקש</title>
+        <singer classification="unknown">שרון זריהן</singer>
+        <writer>מרטין גל</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה אני מבקש</head>
+        <lg number="1" type="stanza">
+          <l>אתמול הכרתי ילדה תמימה</l>
+          <l>שלימדה אותי מהי אהבה כנה</l>
+          <l>היום היא אישה זרה מנוכרת וזרה</l>
+          <l>לא אוהבת לא נותנת אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה מה קרה שהשתנית לי פתאום</l>
+          <l>היכן הילדה שאהבתי לאהוב</l>
+          <l>כשמתחת לשמיכות רציתי רק איתה להיות</l>
+          <l>תראי למה הפכת להיות</l>
+          <l>מה אני כבר מבקש מאותה ילדה אם יש</l>
+          <l>שתאהב אותי באמת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה גבר עוד יכול לשאת</l>
+          <l>שתדעי מטעויות אני לומד</l>
+          <l>לא ידעת להעריך לא אהבת כמו שצריך</l>
+          <l>חשבת שאוהב כי השתניתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה מה קרה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

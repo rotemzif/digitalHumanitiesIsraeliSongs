@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זמן ללכת</title>
+        <singer classification="male singer">יובל בנאי</singer>
+        <writer>יובל בנאי</writer>
+        <composer>יובל בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זמן ללכת</head>
+        <lg number="1" type="stanza">
+          <l>אני רוכב על האופנוע</l>
+          <l>והרוח בפנים</l>
+          <l>ממרחקים יכול לשמוע</l>
+          <l>אותך לאט הם מנגנים</l>
+          <l>אני רוכב עכשיו קדימה</l>
+          <l>רואה רק מלפנים</l>
+          <l>כולנו ילדים של אמא</l>
+          <l>רק עוברים את השנים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זמן ללכת כי עכשיו כבר מאוחר</l>
+          <l>זמן ללכת כבר לא נהיה אותו דבר</l>
+          <l>זמן ללכת נתחבק הלילה קר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני רוכב מול השמיים</l>
+          <l>ומעלי ענן שחור</l>
+          <l>אני עוזב את הידיים</l>
+          <l>נוגע לא יכול לחזור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זמן ללכת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

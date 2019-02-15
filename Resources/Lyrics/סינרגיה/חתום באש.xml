@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חתום באש 2</title>
+        <singer classification="band">סינרגיה</singer>
+        <writer>רון הופמן</writer>
+        <composer>missing</composer>
+        <album>חתום באש</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חתום באש</head>
+        <lg number="1" type="stanza">
+          <l>כוס שנופלת איתה מנפצת ימים של תקווה</l>
+          <l>שקיות שבחדר, תמונה מקופלת על הרצפה</l>
+          <l>והשקט אוי השקט, שאותו לא אשכח לעולם</l>
+          <l>את פותחת את הדלת, עכשיו אין כבר דרך חזרה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בזמן שנותר לי דבר לא אבקש</l>
+          <l>אשמור סודותייך</l>
+          <l>חתומים עלי באש</l>
+          <l>הביטי אל תוך עיני</l>
+          <l>תזכרי לימים אולי</l>
+          <l>זה הזמן שלך בלעדי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חודשים את אומרת, ולפעמים מתעלמת, אבל ממשיכה</l>
+          <l>ואני כמו בסרט, לא רואה את השלט שאת מחזיקה</l>
+          <l>והרגש של ליל אמש, כבר נשכח אבל לא נעלם</l>
+          <l>אז לפני שאת עוזבת, רק תדעי לא אשכח לעולם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בזמן שנותר לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

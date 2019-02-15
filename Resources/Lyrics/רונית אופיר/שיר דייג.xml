@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר דייג</title>
+        <singer classification="female singer">רונית אופיר</singer>
+        <writer>דב זמיר</writer>
+        <composer>רבקה גוילי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר דייג</head>
+        <lg number="1" type="stanza">
+          <l>יוצא דייג לפועלו</l>
+          <l>עם שחר אל המים </l>
+          <l>משליך רשתו ומצפה </l>
+          <l>חמה עולה בינתיים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ישליך רשתו ויום גדול </l>
+          <l>לפת הלחם יעמול </l>
+          <l>יוצא דייג לפועלו</l>
+          <l>עם שחר אל המים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דייג חוזר אל אוהלו </l>
+          <l>עם דמדומי ערביים </l>
+          <l>על סף האוהל מחייך </l>
+          <l>תינוק מאיר עיניים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חיוך תינוק ורעייה </l>
+          <l>וקשי עמל כלא היה </l>
+          <l>דייג חוזר אל אוהלו </l>
+          <l>עם דמדומי ערביים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

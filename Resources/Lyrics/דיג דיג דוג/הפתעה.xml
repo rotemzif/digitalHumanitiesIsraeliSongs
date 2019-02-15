@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הפתעה</title>
+        <singer classification="unknown">דיג דיג דוג</singer>
+        <writer>מיכל חזון</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הפתעה</head>
+        <lg number="1" type="stanza">
+          <l>קיבלתי חבילה</l>
+          <l>קטנה ועגולה</l>
+          <l>ובפנים הפתעה</l>
+          <l>יופי של עוגה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הממ הממ, הממ הממ,</l>
+          <l>יופי של עוגה</l>
+          <l>הממ הממ, הממ הממ,</l>
+          <l>עכשיו אוכל אותה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

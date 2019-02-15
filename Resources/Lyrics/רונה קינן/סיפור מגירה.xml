@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סיפור מגירה</title>
+        <singer classification="female singer">רונה קינן</singer>
+        <writer>רונה קינן</writer>
+        <composer>רונה קינן</composer>
+        <album>לנשום בספירה לאחור</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סיפור מגירה</head>
+        <lg number="1" type="stanza">
+          <l>מי שמע</l>
+          <l>מי ראה</l>
+          <l>סוף לסיפור</l>
+          <l>טריקת מגירה</l>
+          <l>מי ראה</l>
+          <l>מי שמע</l>
+          <l>צעד מדוד</l>
+          <l>הפסקה</l>
+          <l>נשימה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שקר מר</l>
+          <l>לילה קר</l>
+          <l>היא לא תחזור</l>
+          <l>לכאן מחר</l>
+          <l>אל תבכי</l>
+          <l>זה רק כאב</l>
+          <l>דופק שקט</l>
+          <l>צל על הלב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה סיפור ישן</l>
+          <l>מספר עצמו לאט</l>
+          <l>אין בזה טעם</l>
+          <l>אבל אין מזה מפלט</l>
+          <l>עבד היית</l>
+          <l>עבד תשארי</l>
+          <l>החץ מורעל</l>
+          <l>שחור</l>
+          <l>תראי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>גשם יורד</l>
+          <l>מוחק דמעה אחרונה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

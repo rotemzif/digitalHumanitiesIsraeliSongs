@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מינה</title>
+        <singer classification="male singer">ישי לוי</singer>
+        <writer>ציון שרעבי</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מינה</head>
+        <lg number="1" type="stanza">
+          <l>ממרום אלוה</l>
+          <l>דואג לה, נותן לה</l>
+          <l>ממרום למינה</l>
+          <l>במדבר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נתן לה אלוקים</l>
+          <l>נתן לה את החיים</l>
+          <l>וגם הלב שיאהב</l>
+          <l>היא תסכים והוא יתן</l>
+          <l>מוהר כסף וזהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מינה מינה</l>
+          <l>מינה מינה</l>
+          <l>אוההאווהו</l>
+          <l>להלהלהליילהליילה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ממרום אלוה</l>
+          <l>דואג לה, נותן לה</l>
+          <l>ממרום למינה</l>
+          <l>במדבר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>נתן לה אלוקים</l>
+          <l>נתן לה את החיים</l>
+          <l>וגם הלב שיאהב</l>
+          <l>היא תסכים והוא יתן</l>
+          <l>מוהר כסף וזהב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

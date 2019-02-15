@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה שנשאר 3</title>
+        <singer classification="unknown">עידן עמדי</singer>
+        <writer>עידן עמדי</writer>
+        <composer>עידן עמדי</composer>
+        <album>עידן עמדי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה שנשאר</head>
+        <lg number="1" type="stanza">
+          <l>שנים קצרות על הדף </l>
+          <l>בפנים הן נורא ארוכות </l>
+          <l>הצבעים האפורים במראה </l>
+          <l>היום כהים לי פחות </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בין חלום לחלום שעברתי מאז </l>
+          <l>אני מצליח לראות קצת דמיון </l>
+          <l>ויש לי תחושה שלאט עם הזמן </l>
+          <l>יפתרו לי גם כמה חידות </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את הקולות, את מה שהיה </l>
+          <l>קברתי בתוך הדממה </l>
+          <l>את השעות, את מה שנגמר </l>
+          <l>אספתי את מה שנשאר </l>
+          <l>יצאתי לראות, יצאתי לחיות </l>
+          <l>ולנשום בעיקר </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אנשים איבדו את עצמם </l>
+          <l>שכחו שצריך לעצור </l>
+          <l>המילים שכתבתי לי אז </l>
+          <l>היום חזרתי לכתוב </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את הקולות, את מה שהיה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

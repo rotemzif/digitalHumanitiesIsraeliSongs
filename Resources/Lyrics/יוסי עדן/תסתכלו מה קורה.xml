@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תסתכלו מה קורה</title>
+        <singer classification="unknown">יוסי עדן</singer>
+        <writer>יוסי עדן</writer>
+        <composer>יוסי עדן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תסתכלו מה קורה</head>
+        <lg number="1" type="stanza">
+          <l>מה התקווה לחיינו רחוקים מהורינו</l>
+          <l>מה חטאנו אלוקינו בחיים</l>
+          <l>החיוך על הפנים אך הכאב תמיד בפנים</l>
+          <l>הזיכרונות לא יעלמו מתוך ראשי</l>
+          <l>בלילות חולם על אמא היא פה לידי</l>
+          <l>מדמין לי גם את אבא מלטף את ראשי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תסתכלו מה קורה</l>
+          <l>העולם לא רואה ילדים כה קטנים</l>
+          <l>בפנימיה נימצאים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אולי אתם לא מבינים שילדים גם מרגישים</l>
+          <l>גם להם קשה לחיות בלי מישפחה</l>
+          <l>בתוכי אני יודע</l>
+          <l>שאלוקים אותי שומע הוא אלי תמיד שולח מלאכים</l>
+          <l>בלילות חולם על אמא היא פה לידי</l>
+          <l>מדמיין לי גם את אבא מלטף את ראשי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תסתכלו מה קורה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

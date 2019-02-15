@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אודליה 4</title>
+        <singer classification="male singer">רון שובל</singer>
+        <writer>נילי דיסקין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אודליה</head>
+        <lg number="1" type="stanza">
+          <l>יושב בחדר הקטן ושקט מסביב</l>
+          <l>יודע שהלכת מכאן וזה כל כך מכאיב</l>
+          <l>כל יום בבוקר כמו תמיד לעבודה הולך</l>
+          <l>ובלילות מתוך שינה קורא בשמך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אודליה נכנסת לי לנשמה</l>
+          <l>אודליה איה הנחמה</l>
+          <l>אודליה רואה אותך מולי</l>
+          <l>אודי אודי שלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היינו שניים כמו אחד אהבנו לבלות</l>
+          <l>את הבוקר כה אהבת אני את הלילות</l>
+          <l>ביום מתוך הערפל שומע את קולך</l>
+          <l>ובלילות מתוך שינה אני קורא את שמך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אודליה נכנסת לי לנשמה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אולי אני בחור פשוט לא כליל המעלות</l>
+          <l>אבל גם את עשית טעות זכרי את הלילות</l>
+          <l>ואז פתאום את תשמעי בשקט שמולך</l>
+          <l>איך בלילות מתוך שינה אני קורא את שמך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אודליה נכנסת לי לנשמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זוכרת 2</title>
+        <singer classification="female singer">רינת בר</singer>
+        <writer>יואב צדוק</writer>
+        <composer>Fivos</composer>
+        <album>חיכיתי לך / אלבום חפלה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זוכרת</head>
+        <lg number="1" type="stanza">
+          <l>אני רוצה שתהיה תמיד קרוב,</l>
+          <l>רוצה איתך לחלום.</l>
+          <l>בכל דקה, שעוברת בלעדיך</l>
+          <l>לי קשה כל כך לנשום..</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פזמון:</l>
+          <l>אני זוכרת איך אתה הבטחת</l>
+          <l>שתחזור אז איך הלכת</l>
+          <l>במכתב שלי אתה שלחת</l>
+          <l>כבר הכל נמחק מזמן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני יושבת ועליך עוד חושבת</l>
+          <l>אתה איתי בכל מקום.</l>
+          <l>תמיד אזכור איך אהבנו פעם יחד</l>
+          <l>היה לנו טוב...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פזמון:</l>
+          <l>אני זוכרת איך אתה הבטחת</l>
+          <l>שתחזור אז איך הלכת</l>
+          <l>במכתב שלי אתה שלחת</l>
+          <l>כבר הכל נמחק מזמן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

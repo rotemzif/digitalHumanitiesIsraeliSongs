@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פשוט 8</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>יגאל בשן</writer>
+        <composer>יגאל בשן</composer>
+        <album>שמיים תחייכו</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פשוט</head>
+        <lg number="1" type="stanza">
+          <l>את יכולה להחזיק אותי</l>
+          <l>כל כך חזק</l>
+          <l>ואם ניפול ניפול ביחד</l>
+          <l>כי אני רוצה שתדעי</l>
+          <l>שאת החלק הבטוח</l>
+          <l>שחי בתוכי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והדבר הכי קשה</l>
+          <l>תמיד זה מסובך</l>
+          <l>זה פשוט להגיד לך</l>
+          <l>פשוט אוהב אותך</l>
+          <l>והדבר הכי קשה</l>
+          <l>כשהלב כל כך מסובך</l>
+          <l>זה פשוט להגיד לך</l>
+          <l>פשוט אוהב אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רקדנו את ריקוד האהבה</l>
+          <l>שרפנו צעד צעד</l>
+          <l>אש ברחבה</l>
+          <l>רק אני רוצה שתרקדי</l>
+          <l>כי את הריקוד השמח</l>
+          <l>שבוער בתוכי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והדבר הכי קשה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לפעמים אני קשה ואת רכה</l>
+          <l>לפעמים אני שפן ואת כמו חתולה</l>
+          <l>ואיך שאת לא תהפכי</l>
+          <l>ניגודים זה מה שעושה את זה</l>
+          <l>הכי אפשרי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>והדבר הכי קשה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

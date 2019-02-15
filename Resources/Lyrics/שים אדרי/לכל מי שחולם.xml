@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לכל מי שחולם</title>
+        <singer classification="male singer">שים אדרי</singer>
+        <writer>שים אדרי</writer>
+        <composer>שים אדרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לכל מי שחולם</head>
+        <lg number="1" type="stanza">
+          <l>מי זה חולם על לעוף כמו ציפורים</l>
+          <l>הוא רק מסתפק בלדמיין את הכול</l>
+          <l>כול הסיפורים ששמעתם עד היום</l>
+          <l>הוא יצלם אותם כי עדיף לכם לראות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מי שישן בלילה לבד</l>
+          <l>ולא חולם על אף אחד</l>
+          <l>שיבוא ויקח ממני קצת חלומות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אור בוא וחושך לא</l>
+          <l>לפעמיים הוא צועק</l>
+          <l>מי עוד רוצה מאוד להישאר</l>
+          <l>עוד ישן</l>
+          <l>הבוקר מביא איתו ציוץ מצלצל</l>
+          <l>אולי אוותר לך לעוף כי עדיף לי לדמיין</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מי שישן בלילה לבד</l>
+          <l>ולא חולם על אף אחד</l>
+          <l>שיבוא ויקח ממני קצת חלומות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

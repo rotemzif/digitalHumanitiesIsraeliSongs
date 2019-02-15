@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גלגל מזל</title>
+        <singer classification="unknown">חוה דולב</singer>
+        <writer>מאיר גאוי</writer>
+        <composer>ציקי זנטי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גלגל מזל</head>
+        <lg number="1" type="stanza">
+          <l>תמיד לקחת סיכונים,</l>
+          <l>חיפשת בעיות</l>
+          <l>בראש גלגלת מליונים</l>
+          <l>פינטזת אשליות</l>
+          <l>עשית רק מה שלא צריך</l>
+          <l>נפלת בגדול</l>
+          <l>ועם כל זה אתה ממשיך</l>
+          <l>ולא מפסיק ליפול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>החיים חבוב הם לא גלגל מזל</l>
+          <l>אל נא תהמר אל תהמר על הגורל</l>
+          <l>החיים חבוב הם בטח לא משחק</l>
+          <l>אל תלך על חבל דק.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה צוחק מהגורל</l>
+          <l>אז אל תהיה גיבור</l>
+          <l>אל תנסה את מה שקל</l>
+          <l>כללי משחק לשבור</l>
+          <l>בג'ונגל החיים חבוב</l>
+          <l>תהיה רק בן אדם</l>
+          <l>אך ריגושי הרפתקאות,</l>
+          <l>זורמים לך בדם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>החיים חבוב הם לא גלגל מזל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

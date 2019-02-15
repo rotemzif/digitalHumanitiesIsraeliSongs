@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זכרונות 5</title>
+        <singer classification="unknown">דורון מירן</singer>
+        <writer>רוני אחיאל</writer>
+        <composer>רוני אחיאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זכרונות</head>
+        <lg number="1" type="stanza">
+          <l>עולה הבוקר השמש כבר זורחת</l>
+          <l>אני עוד ישן חולם על נערה</l>
+          <l>היא את ליבי שבתה ונעלמה לה</l>
+          <l>היש עוד דרך אליי להשיבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>דמותה עולה לי</l>
+          <l>תמיד בזכרונות</l>
+          <l>היתה אומרת</l>
+          <l>פסקו המזלות</l>
+          <l>אנא חיזרי</l>
+          <l>כי את יודעת</l>
+          <l>שבלעדייך אין טעם לחיי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ירד הלילה השמש כבר שקעה לה</l>
+          <l>כמה יפה הירח שמאיר</l>
+          <l>האם תדע אותה כמה אהבתי</l>
+          <l>האם תחזור אי פעם לעולמים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>דמותה עולה לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

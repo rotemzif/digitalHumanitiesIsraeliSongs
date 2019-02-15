@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בנדנה ג ונס</title>
+        <singer classification="male singer">כפיר בן ליש</singer>
+        <writer>גליה עוז</writer>
+        <composer>יוסי עזר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בנדנה ג'ונס</head>
+        <lg number="1" type="stanza">
+          <l>משהו מתחבא בין הדברים הרגילים</l>
+          <l>כמו ללכת לסרט או לתפוס גלים</l>
+          <l>משהו מסתתר קורא לי לגלות</l>
+          <l>לצאת ולחפש בחוץ את כל השאלות.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לפעמים זה לא הולך בכלל</l>
+          <l>לפעמים זה עף</l>
+          <l>סוד אחד כפול שישה</l>
+          <l>משהו משותף.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>המחברות והספרים והאחים וההורים</l>
+          <l>לא שמעו על סוד קטן של כמה חברים</l>
+          <l>כשיצלצל הפעמון תתחיל ההפסקה</l>
+          <l>צריך יהיה לרוץ מהר הדרך ארוכה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>משהו תופס מהר ולא מוותר</l>
+          <l>אולי הוא לא רחוק, הוא בין הבית לחצר</l>
+          <l>מאחורי מילים יפות הוא מבקש לצאת</l>
+          <l>בואו לחפש אותו, קוראים לו האמת.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לפעמים זה לא הולך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

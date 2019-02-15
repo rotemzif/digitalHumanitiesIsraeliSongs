@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המפץ הקטן</title>
+        <singer classification="unknown">שחר אבן צור</singer>
+        <writer>שחר אבן צור</writer>
+        <composer>שחר אבן צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המפץ הקטן</head>
+        <lg number="1" type="stanza">
+          <l>אני השפן האמיץ</l>
+          <l>אני התינוק בחיתול</l>
+          <l>ששבר את הלול</l>
+          <l>אני המפץ הקטן</l>
+          <l>תמיד עושה בלאגן</l>
+          <l>יורה ת'מילים בצרורות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שונא אוהב משקר</l>
+          <l>ואומר את האמת</l>
+          <l>שמח ועצוב ממציא ומחקה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני חולם כמו תמיד</l>
+          <l>שנאתי להיות תלמיד ב-ז'ר בעין</l>
+          <l>אני טקילה בראש חפוז</l>
+          <l>הפסדתי מראש</l>
+          <l>כי את יודעת לשתות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שונא אוהב משקר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני המפץ הקטן</l>
+          <l>אני התינוק בחיתול</l>
+          <l>ששבר את הלול</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

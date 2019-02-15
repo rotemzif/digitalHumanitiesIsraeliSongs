@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מכתוב</title>
+        <singer classification="unknown">בן ישראלי</singer>
+        <writer>בן ישראלי</writer>
+        <composer>בן ישראלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מכתוב</head>
+        <lg number="1" type="stanza">
+          <l>בכל בוקר אני קם ואומר תודה </l>
+          <l>מסדר לי את היום ממשיך את השגרה </l>
+          <l>חיי את חיי כמו שאר האנשים </l>
+          <l>מה עכשיו עושים </l>
+          <l>אבא אומר שהחיים קשים </l>
+          <l>אמא אומרת החיים יפים </l>
+          <l>צריך ללמוד ולקבל באהבה </l>
+          <l>וכל מה שקורה זה תמיד רק לטובה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מכתוב אני יודע שהכל מכתוב </l>
+          <l>שם למעלה בשמיים כבר הכל כתוב </l>
+          <l>יהיה טוב תאמין זה הכי חשוב </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואיתך אני מוצא שזה הכי נכון </l>
+          <l>את זה כבר הבנתי מהרגע הראשון </l>
+          <l>כשאת הופעת מולי אהובה שלי </l>
+          <l>כשיש מזל זה הופך להיות לי קל </l>
+          <l>ואז יורד ממני המשקל </l>
+          <l>זה עושה אותי שמח </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מכתוב אני יודע שהכל מכתוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

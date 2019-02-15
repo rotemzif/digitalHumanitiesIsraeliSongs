@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תשארי לנצח</title>
+        <singer classification="male singer">רון שובל</singer>
+        <writer>עציון מוסאי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תשארי לנצח</head>
+        <lg number="1" type="stanza">
+          <l>בית א׳</l>
+          <l>הכח שיש בך חזק ממני</l>
+          <l>הוא שואב אותי לעולם אחר</l>
+          <l>הרגשתי מזמן שאת אותי מושכת</l>
+          <l>לעולם קסום, לרומן סוער</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ובכל יום שעובר אני שוב מתמלא</l>
+          <l>בצלילי מיתר מתוך הנשמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פזמון</l>
+          <l>אני שר אותך</l>
+          <l>ולעולם שלך</l>
+          <l>מבקש שרק תשארי לנצח</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אהבת חיי</l>
+          <l>בתוך חלומותיי</l>
+          <l>למנגינה שלך אני תמיד בורח</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בית ב׳</l>
+          <l>בכל העולם את עוד מפזרת</l>
+          <l>שברי מנגינה שחודרים ללב</l>
+          <l>כמו ילד קטן אני רץ אלייך</l>
+          <l>ובך מחדש שוב מתאהב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ובכל יום שעובר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חייכי ודי</title>
+        <singer classification="unknown">מאור דניאל</singer>
+        <writer>משה פרץ</writer>
+        <composer>דודו אהרון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חייכי ודי</head>
+        <lg number="1" type="stanza">
+          <l>רוצה אלייך אבל לא יכול </l>
+          <l>הבטחתי לעצמי שלא אפול </l>
+          <l>אך ליבי נקשר אלייך בגדול </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה שנתתי לך זה לא הספיק </l>
+          <l>כשהתקרבתי את אמרת תפסיק </l>
+          <l>לא ויתרתי ונלחמתי עלייך אהובה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בואי אלי (בואי אלי) חייכי ודי (חייכי ודי) </l>
+          <l>תגידי שאת עוד רוצה באהבה </l>
+          <l>בואי אלי (בואי אלי) חייכי ודי (חייכי ודי) </l>
+          <l>תגידי שאת עוד רוצה באהבה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ביקשתי שתהיי לי לאישה </l>
+          <l>גם את רצית אבל היית קשה </l>
+          <l>האמנתי וידעתי שאת היחידה </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בואי אלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לאהוב אותך נותר</title>
+        <singer classification="male singer">לירן טל</singer>
+        <writer>דורית מוגרבי</writer>
+        <composer>אביחי מליחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לאהוב אותך נותר</head>
+        <lg number="1" type="stanza">
+          <l>מן החושך יוצא אל האור לא יכול עוד לחכות</l>
+          <l>ארוכים רגעי הסוף נא הניחי לאופק לדעוך</l>
+          <l>האירי באור נרות נא כבי לך אכזבות</l>
+          <l>כשהטעם ענוג ומתוק מהול בעצב יתום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לאהוב אותך נותר אם בך רגש לא נדם</l>
+          <l>אמרי לי כן אני איתך</l>
+          <l>אמרי לי כן את לי עולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לו רק אמרתי מה כואב היתי שולח זר</l>
+          <l>קוטף לך ירח זוהר תוהה על סגור ליבך</l>
+          <l>אל תכבי את העבר הן נמוגה בך תקווה</l>
+          <l>ופתח עתיד כה נכסף, אחכה לך עוד יום נוסף</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לאהוב אותך נותר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

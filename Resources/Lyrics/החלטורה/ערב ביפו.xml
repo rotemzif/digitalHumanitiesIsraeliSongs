@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ערב ביפו</title>
+        <singer classification="unknown">החלטורה</singer>
+        <writer>נועם גבע</writer>
+        <composer>נועם גבע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ערב ביפו</head>
+        <lg number="1" type="stanza">
+          <l>ערב ביפו, ריח ים עולה</l>
+          <l>את הלב נשפוך, ויין נמלא</l>
+          <l>הזמרת שרה, עפות המחשבות</l>
+          <l>ועד אור הבוקר יתגשמו כל התקוות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אה, ישלח לנו תקווה,</l>
+          <l>יום יבוא תשוב האהבה</l>
+          <l>הוא ישלח לנו נביא</l>
+          <l>שאת השלום איתו יביא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ערב ביפו, עיר הדייגים</l>
+          <l>הגיטרה תנגן שירים ממרחקים</l>
+          <l>יום אחד נרוויח, בשני נפסיד</l>
+          <l>מה יהיה עלינו, רק הזמן, הזמן יגיד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אה, ישלח לנו תקווה,</l>
+          <l>יום יבוא תשוב האהבה</l>
+          <l>הוא ישלח לנו נביא</l>
+          <l>שאת השלום איתו יביא</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

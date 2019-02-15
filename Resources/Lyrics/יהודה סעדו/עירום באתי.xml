@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עירום באתי</title>
+        <singer classification="male singer">יהודה סעדו</singer>
+        <writer>יהודה סעדו</writer>
+        <composer>יהודה סעדו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עירום באתי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>מסתובב בעיר הלא מוכרת</l>
+          <l>מחפש מקום להתהדר</l>
+          <l>אין כאן שום דבר מושך </l>
+          <l>אין הוויה שתמלא את החסר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הכל הבל ורעות רוח</l>
+          <l>תודה על שזיכית אותי</l>
+          <l>הקטן, האפסי במקום מפלט, תודה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עירום באתי, בעירום אצא</l>
+          <l>שלח לי מנגינה אם אתה תרצה</l>
+          <l>אני בעלמא דשיקרא אני בעלמא דחיי</l>
+          <l>אני טעמתי מהתפוח אני יודע, אני מודה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מסתובב בעיר הלא מוכרת</l>
+          <l>מחפש מקום להתהדר</l>
+          <l>אין כאן שום דבר מושך </l>
+          <l>אין הוויה שתמלא את החסר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עירום באתי, בעירום אצא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

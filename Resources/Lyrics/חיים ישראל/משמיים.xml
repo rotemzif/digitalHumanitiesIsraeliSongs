@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משמיים</title>
+        <singer classification="male singer">חיים ישראל</singer>
+        <writer>רמי לב</writer>
+        <composer>עדי לאון</composer>
+        <album>קסם נעוריי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משמיים</head>
+        <lg number="1" type="stanza">
+          <l>כשאין לי דאגות יש לי תחושה של נחת </l>
+          <l>כשהתקווה בלב רק מנצחת </l>
+          <l>כשעם אחד רוצה לשיר יחד </l>
+          <l>בלב שלם לכבודך </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תודה שנתת לי פינה של שקט </l>
+          <l>על בית חם ויד שמחבקת </l>
+          <l>על משפחה טובה שמחזקת </l>
+          <l>אותי בטוב וברע </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>משמיים הוא מושיט ידיים</l>
+          <l>הוא מביא את הברכה והסוד להצלחה </l>
+          <l>משמיים הוא מושיט ידיים </l>
+          <l>טוב להודות לשמך </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בלב בוטח להביט אל תוך הלילה </l>
+          <l>באמונה איתך מכאן והלאה </l>
+          <l>כי יש מי שדואג לי שם למעלה </l>
+          <l>יודע לב האדם </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תודה שנתת לי פינה של שקט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

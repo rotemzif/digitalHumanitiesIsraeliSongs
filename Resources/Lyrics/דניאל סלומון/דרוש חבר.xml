@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דרוש חבר</title>
+        <singer classification="male singer">דניאל סלומון</singer>
+        <writer>דניאל סלומון</writer>
+        <composer>דניאל סלומון</composer>
+        <album>דניאל סלומון</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דרוש חבר</head>
+        <lg number="1" type="stanza">
+          <l>תליתי שלט - דרוש חבר</l>
+          <l>מישהו שיאהב אותי, אחד שיוותר</l>
+          <l>על כל מה שרע, ורע אצלי בלי סוף</l>
+          <l>תליתי שלט - דרוש חבר טוב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תליתי שלט - דרוש חבר</l>
+          <l>מישהו שיהיה איתי, אחד שידבר</l>
+          <l>על איך שמרגיש, ואיני מרגיש דבר</l>
+          <l>תליתי שלט- דרוש חבר יקר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואף אחד לא בא</l>
+          <l>ולא ביקר</l>
+          <l>דרוש חבר</l>
+          <l>ואף אחד לא בא</l>
+          <l>ולא דיבר</l>
+          <l>דרוש חבר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תליתי שלט - דרוש חבר</l>
+          <l>מישהו שינער אותי אחד שיעורר</l>
+          <l>שם בתוך ליבי יש משהו מיוחד</l>
+          <l>תליתי שלט - דרוש חבר מייד</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואף אחד לא בא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יום מותי</title>
+        <singer classification="unknown">מוזיקת המקרה</singer>
+        <writer>אסף קרן</writer>
+        <composer>אסף קרן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יום מותי</head>
+        <lg number="1" type="stanza">
+          <l>יום מותי, היכן הוא מחכה לי?</l>
+          <l>היכן ילכוד אותי מותי ברשתו האדירה?</l>
+          <l>יום מותי, מתי הוא מצפה לי?</l>
+          <l>מתי יפגוש אותי מותי באדרתו האפורה?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הזמן ידיד אמת, אותנו הוא יזקין.</l>
+          <l>גבנו, שהיה זקוף, יפול ואז נבין,</l>
+          <l>שהכל זמני.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יום מותי, מתי הוא מצפה לי?</l>
+          <l>מתי יישק לי על מצחי בקטיפתו הנעימה?</l>
+          <l>יום מותי, היכן הוא מחכה לי?</l>
+          <l>אולי מתוך דממה דקה, אולי במלחמה?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הזמן ידיד אמת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יום מותי, עכשיו זה כבר קרה לי.</l>
+          <l>היה זה יום כל כך רגיל ושגרתי, אני זוכר.</l>
+          <l>יום מותי, שלווה סנטימנטלית.</l>
+          <l>אומרים שמלמעלה העולם נראה אחר.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הזמן ידיד אמת, אותנו הוא הזקין.</l>
+          <l>גבי שלי כפוף, אבל סרבתי להבין,</l>
+          <l>שהכל זמני.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

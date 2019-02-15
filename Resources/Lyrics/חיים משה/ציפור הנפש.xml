@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ציפור הנפש</title>
+        <singer classification="male singer">חיים משה</singer>
+        <writer>זאב נחמה</writer>
+        <composer>זאב נחמה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ציפור הנפש</head>
+        <lg number="1" type="stanza">
+          <l>היא כלואה שנים רבות</l>
+          <l>לא שבוייה בחלומות</l>
+          <l>ציפור הנפש ואני</l>
+          <l>יד ביד מזה שנים</l>
+          <l>מחפשת עיר מקלט</l>
+          <l>כי אני אחד מושחת</l>
+          <l>יצאה לראות את ההבדל</l>
+          <l>בין האור לבין הצל.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מסביב הכל שחור</l>
+          <l>נפש בי מעוף ציפור</l>
+          <l>קול קורא לי בחשאי</l>
+          <l>מרחפת מעלי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא חוזרת אל קינה</l>
+          <l>אל נפשי המעונה</l>
+          <l>שיכורה ממסקנות</l>
+          <l>להיות או לא לחיות</l>
+          <l>אולי ביחד נשתנה</l>
+          <l>גם אם לי לא משנה</l>
+          <l>אבל קשה לראות אותה</l>
+          <l>מחפשת את מותה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מסביב הכל שחור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

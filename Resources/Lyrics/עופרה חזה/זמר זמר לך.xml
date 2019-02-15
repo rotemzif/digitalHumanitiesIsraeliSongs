@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זמר זמר לך 2</title>
+        <singer classification="unknown">עופרה חזה</singer>
+        <writer>אברהם בן זאב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זמר זמר לך</head>
+        <lg number="1" type="stanza">
+          <l>זמר זמר לך</l>
+          <l>זמר זמר לך</l>
+          <l>זמר לך מכורתי</l>
+          <l>המעגל סובב</l>
+          <l>זמר לך דובב</l>
+          <l>זמר לך מכורתי מכורתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הררייך המה ישמחו</l>
+          <l>עת מחול ההורה יסער</l>
+          <l>אלף פרחים לפתע יפרחו</l>
+          <l>יכסו את עין המדבר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תלם תלם לך</l>
+          <l>תלם תלם לך</l>
+          <l>תלם לך מכורתי</l>
+          <l>המעגל סובב</l>
+          <l>תלם לך דובב</l>
+          <l>תלם לך מכורתי מכורתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הררייך המה ישמחו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הורה הורה לך</l>
+          <l>הורה הורה לך</l>
+          <l>הורה לך מכורתי</l>
+          <l>המעגל סובב</l>
+          <l>הורה לך דובב</l>
+          <l>הורה לך מכורתי מכורתי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הררייך המה ישמחו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קצת ירוק</title>
+        <singer classification="band">נובמבר</singer>
+        <writer>שרון רביבו</writer>
+        <composer>שרון רביבו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קצת ירוק</head>
+        <lg number="1" type="stanza">
+          <l>היום שקמתי, היה לי סרט נורא</l>
+          <l>הרגשתי כמו בסיוט רק שלא היה לי רע</l>
+          <l>שמעתי דפיקה בדלת פתחתי ועמדת בכניסה</l>
+          <l>בשיער היה לך סרט ובראש הצגה שנייה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קצת ירוק</l>
+          <l>לימים אפורים</l>
+          <l>תעביר קצת ירוק לכיוון השכנים</l>
+          <l>קצת מתוק</l>
+          <l>לימים חמוצים</l>
+          <l>לא צריך הרבה</l>
+          <l>בשביל להיות מרוצים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מחפש את הדרך ליהנות קצת בחיים</l>
+          <l>בלי לצאת לעיר בבוקר ובלי להעיר ת'שכנים</l>
+          <l>אם האהבה מתעכבת</l>
+          <l>ועוד לא הזמנת טיסה</l>
+          <l>מה מונע ממך לשבת</l>
+          <l>לתת בריגוש נגיסה?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קצת ירוק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

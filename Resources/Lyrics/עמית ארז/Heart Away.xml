@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Heart Away</title>
+        <singer classification="male singer">עמית ארז</singer>
+        <writer>עמית ארז</writer>
+        <composer>עמית ארז</composer>
+        <album>Black Light</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Heart Away</head>
+        <lg number="1" type="stanza">
+          <l>So we live in a bus stop </l>
+          <l>A crossroad next to our love </l>
+          <l>I think I know what i'm after </l>
+          <l>But I'm not sure if it matters </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>Used to say my heart away </l>
+          <l>And ruin a beautiful night </l>
+          <l>Caused a crying instead of lying </l>
+          <l>Changing my mind all the time </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Might be wrong to believe me </l>
+          <l>That everyone feels the same way </l>
+          <l>Blowing smoke while they're leaving </l>
+          <l>Their memories in the ashtray </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>Wrap their pain in cellophane </l>
+          <l>So no one will know it's around </l>
+          <l>Never saw you as one of them </l>
+          <l>except for a couple of times </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>Used to say my heart away </l>
+          <l>And ruin a beautiful night </l>
+          <l>Caused a crying instead of lying </l>
+          <l>Changing my mind all the time</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

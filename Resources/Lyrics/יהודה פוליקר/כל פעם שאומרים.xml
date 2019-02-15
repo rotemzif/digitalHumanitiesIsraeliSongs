@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל פעם שאומרים</title>
+        <singer classification="male singer">יהודה פוליקר</singer>
+        <writer>יענקל'ה רוטבליט</writer>
+        <composer>missing</composer>
+        <album>איך קוראים לאהבה שלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל פעם שאומרים</head>
+        <lg number="1" type="stanza">
+          <l>אתה הולך לך לקראת מה שנפרדתי ממנו</l>
+          <l>ובדרכים המצטלבות חולפות פנינו, על פנינו.</l>
+          <l>אם כל פגישה שבעולם היא מטבעה פרידה בכוח,</l>
+          <l>ודאי תיטיב אתה לזכור, מה שאני איטיב לשכוח.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הנה הוא שיר הניצחון שהתבוסה בו מקופלת,</l>
+          <l>הנה כאב הפיכחון ממנו השתייה גומלת,</l>
+          <l>הנה החושך והאור ומי מהיר מבין השניים,</l>
+          <l>הנה חיוך, אותו אשמור, אחרי שייעלמו פניך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את החיוך ועוד דבר מה</l>
+          <l>שאיך קוראים לו, לא ידעתי.</l>
+          <l>כי הוא הולך לו לאיבוד,</l>
+          <l>כל פעם שאומרים מצאתי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חיוך שלך שעל פני, לובש פנים של געגוע</l>
+          <l>כל שנות האור שלפני, לא ילמדו אותי מדוע.</l>
+          <l>קורה מקרה צוחק גורל מזל עיוור נודד בלילה</l>
+          <l>הנה נסגר המעגל שבו נוסיף לנוע הלאה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הנה הוא שיר הניצחון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

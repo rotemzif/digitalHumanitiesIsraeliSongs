@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לי חג 4</title>
+        <singer classification="male singer">יוסי פרץ</singer>
+        <writer>נעמי שמר</writer>
+        <composer>נעמי שמר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לי חג</head>
+        <lg number="1" type="stanza">
+          <l>כשתאלם תרועת הפסטיבלים</l>
+          <l>ילבלבו שירי אהבתי</l>
+          <l>אני יכול לשמוח איך שבא לי</l>
+          <l>וזהו זה החג האמיתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש לי יום יום חג</l>
+          <l>יש לי חג יום יום</l>
+          <l>יש לי יום יום חג</l>
+          <l>הללויה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>התינוקות פתאום יודעים ללכת</l>
+          <l>ובני השש יודעים פתאום לקרוא</l>
+          <l>והאופה אופה לי את הלחם</l>
+          <l>וזהו זה החג בהדרו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש לי יום יום חג...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הנה היום חלף הלך הגשם</l>
+          <l>ובמרום חמה גדולה תלויה</l>
+          <l>אל החלון חמדת נפשי ניגשת</l>
+          <l>וזהו כל החג - הללויה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יש לי יום יום חג...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>הללויה בגלל דברים כאלה</l>
+          <l>הללויה אני עדיין שר</l>
+          <l>הללויה יום יום ואיזה פלא</l>
+          <l>הללויה לחג שלא נגמר</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>יש לי יום יום חג...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

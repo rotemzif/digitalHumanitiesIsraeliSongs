@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תנשום</title>
+        <singer classification="unknown">דרור פוייר</singer>
+        <writer>דרור פוייר</writer>
+        <composer>טל לזר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תנשום</head>
+        <lg number="1" type="stanza">
+          <l>מה זה החיים בעצם?</l>
+          <l>קצת בשר ועור על עצם</l>
+          <l>והזמן, שלא עומד מלכת</l>
+          <l>מהרחם עד הקבר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה זה החיים בעצם,</l>
+          <l>אני כבר לא עומד בקצב</l>
+          <l>והאש לא מפסיקה לשרוף</l>
+          <l>מהתחלה ועד הסוף.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זה המצב האנושי</l>
+          <l>אל תיקח את זה אישי.</l>
+          <l>תנשום</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה זה החיים בעצם - </l>
+          <l>נלחמים עם המפלצת.</l>
+          <l>הבנאדם חי על החרב</l>
+          <l>מהבוקר עד הערב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מה זה החיים בעצם:</l>
+          <l>השמחה, העצב</l>
+          <l>והאש, שלא מפסיקה לשרוף</l>
+          <l>עד הסוף</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה המצב האנושי</l>
+          <l>אל תיקח את זה אישי.</l>
+          <l>תנשום</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

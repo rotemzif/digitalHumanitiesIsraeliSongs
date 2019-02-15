@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחכה לך 5</title>
+        <singer classification="unknown">ניבין</singer>
+        <writer>מרטין גל</writer>
+        <composer>מרטין גל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחכה לך</head>
+        <lg number="1" type="stanza">
+          <l>כמו ילדה קטנה אני מתקפלת</l>
+          <l>בתוך הלבד שהשארת לי</l>
+          <l>מתוך עוד חלום אליך צועדת</l>
+          <l>אוחזת בן ידי את הבחור שלי</l>
+          <l>אמרו לי אנשים האם אשמע</l>
+          <l>זאת בכאב עצום ולב שבור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גם אם פגעת רוצה שתדע</l>
+          <l>שבורה וכואבת אחכה לך</l>
+          <l>גם אם טעית ה' ידע</l>
+          <l>שבורה אך אוהבת מחכה לך!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כאב אילם הבדידות שוברת</l>
+          <l>מי יבן? מי ישמע? את כאבי</l>
+          <l>כל יום שעובר עוד תקווה נושרת</l>
+          <l>מאיימת להחריב את עולמי</l>
+          <l>אמרו לי אנשים האם אשמע זאת</l>
+          <l>בכאב עצום ולב שבור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גם אם פגעת רוצה שתדע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

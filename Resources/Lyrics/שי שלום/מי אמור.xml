@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי אמור 2</title>
+        <singer classification="unknown">שי שלום</singer>
+        <writer>שי שלום</writer>
+        <composer>שי שלום</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי אמור</head>
+        <lg number="1" type="stanza">
+          <l>כאש יוקדת נכנסת אלי</l>
+          <l>את מאירה את לילותי</l>
+          <l>יופיך זוהר מעלי</l>
+          <l>רוצה שפתייך בשפתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לעטוף אותך בזרועתי</l>
+          <l>שתהיי נגלית למול עיני</l>
+          <l>לך אשיר מכל הלב </l>
+          <l>את אהבת חיי</l>
+          <l>שאותך תמיד אזכור </l>
+          <l>ובליבי תמיד אשמור</l>
+          <l>ובכל בוקר אגיד לך</l>
+          <l>JO TIAMO MI AMOR </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מחשבות רצות לי בכל יום</l>
+          <l>איך להגיע אל המקום </l>
+          <l>לצאת לדרך חדשה </l>
+          <l>את תהיי לי לאישה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לעטוף אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

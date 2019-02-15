@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חולמת בהקיץ</title>
+        <singer classification="female singer">נופר גנור</singer>
+        <writer>נופר גנור</writer>
+        <composer>נופר גנור</composer>
+        <album>נופר גנור</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חולמת בהקיץ</head>
+        <lg number="1" type="stanza">
+          <l>מביטה אל הירח </l>
+          <l>וחולמת בהקיץ </l>
+          <l>על ימים שיראו אחרת </l>
+          <l>על חלום שכבר מציץ </l>
+          <l>ובימים ללא תכלת </l>
+          <l>כשהעיניים עצומות </l>
+          <l>רק לפקוח עיניים </l>
+          <l>ולבקש.. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך הבוקר בוהק לי פתאום </l>
+          <l>מול העיניים </l>
+          <l>ואני רוקדת בתוך החלום </l>
+          <l>בין עננים </l>
+          <l>ולא בא לי יותר להסביר </l>
+          <l>על מה שבינתיים </l>
+          <l>כי החלום שלי רוקם עור וגידים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד יום עובר ואין בתכלת </l>
+          <l>שום כוכב שום עננים </l>
+          <l>ובימים עגומים כאלה </l>
+          <l>אין לדרך שום פנים </l>
+          <l>ובימים ללא תכלת </l>
+          <l>כשהעיניים עצומות </l>
+          <l>רק לפקוח עיניים </l>
+          <l>ולבקש.. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך הבוקר בוהק לי פתאום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל זמן זה הזמן</title>
+        <singer classification="male singer">שלום חנוך</singer>
+        <writer>שלום חנוך</writer>
+        <composer>שלום חנוך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל זמן זה הזמן</head>
+        <lg number="1" type="stanza">
+          <l>זמן הווה וזמן עבר</l>
+          <l>שניהם ישנם בזמן עתיד</l>
+          <l>וזמן עתיד ישנו בזמן עבר</l>
+          <l>מה שהיה כבר היה</l>
+          <l>כל הנשמה תהלל יה</l>
+          <l>ורק אתמול היום היה מחר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>והמצוי והצפוי</l>
+          <l>וכל מה שעוד לא גלוי</l>
+          <l>נושאים איתם את קצב השינוי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זמן הווה וזמן עבר</l>
+          <l>שניהם ישנם בזמן עתיד</l>
+          <l>וזמן עתיד ישנו בזמן עבר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם אמת היא ולא חלום</l>
+          <l>אם כבר עפה יונת שלום</l>
+          <l>עכשיו וכאן</l>
+          <l>כל זמן זה הזמן</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זמן הווה, זמן עבר</l>
+          <l>זמן זורם כמו נהר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אם אמת היא ולא חלום</l>
+          <l>אם כבר עפה יונת שלום</l>
+          <l>עכשיו וכאן</l>
+          <l>כל זמן זה הזמן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

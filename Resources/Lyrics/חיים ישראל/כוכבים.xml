@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כוכבים 10</title>
+        <singer classification="male singer">חיים ישראל</singer>
+        <writer>רמי רבא</writer>
+        <composer>חיים ישראל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כוכבים</head>
+        <lg number="1" type="stanza">
+          <l>כוכבים נוצצים בשמים, מתוכם עולה שוב האור ,</l>
+          <l>כמו תמיד רק איתך להגיע , לזרוח לראות את הכול .</l>
+          <l>מלמעלה השמש תפציע ותאיר לעולם החשוך ,</l>
+          <l>תחמם בדממה את הרוח , תלטף כל עצב בגוף .</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza" />
+        <lg number="3" type="stanza">
+          <l>מלמעלה עוד יפציע ותאיר לי את כל החלומות,</l>
+          <l>אתה יודע תמיד שומע , שומר עלי , מגשים המשאלות.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza" />
+        <lg number="5" type="stanza">
+          <l>מי יתן השלוה והשקט , את השביל הנכון לעצמי ,</l>
+          <l>לא ליפול לאוזן שומעת ולשמור דמיונות בליבי .</l>
+          <l>להתחיל להרגיש את הרוח ולראות תמיד את האור</l>
+          <l>להתחבר בלי דעת וכוח , לשורשים שלא נשכחו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

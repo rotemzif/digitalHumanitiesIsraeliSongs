@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר בין ערביים 3</title>
+        <singer classification="male singer">שלמה יידוב</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר בין ערביים</head>
+        <lg number="1" type="stanza">
+          <l>הוא יושב על שפת הנחל בין ערביים</l>
+          <l>הוא מקשיב לקול שירי המים הזכים</l>
+          <l>הוא שומע איך פרחים צומחים</l>
+          <l>והטל יורד לו</l>
+          <l>וקופא על לחייו כמו פנינים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מבדידות האנשים הופכים קשים</l>
+          <l>מעטים יוצאים ממנה נשכרים</l>
+          <l>יש הפוחד מהדממה</l>
+          <l>יש המגלה בה נשמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הוא מביט אל תוך השמש למעלה</l>
+          <l>והאור נשאר בתוך עיניו העצומות</l>
+          <l>והרוח מפזרת סודותיה</l>
+          <l>הוא נושם עמוק את בושם השדות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מבדידות האנשים הופכים קשים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

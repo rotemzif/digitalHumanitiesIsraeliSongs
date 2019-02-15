@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חם ומתוק</title>
+        <singer classification="band">גן חיות</singer>
+        <writer>שרון מולדבי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חם ומתוק</head>
+        <lg number="1" type="stanza">
+          <l>אחת שלך, אחת שלי</l>
+          <l>יש לנו זמן ולא נצא מכאן</l>
+          <l>את מעלי, את מתחתי, את מהצד</l>
+          <l>ואת אף פעם לא לבד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה חם ומתוק, זה חם ומתוק</l>
+          <l>מה שאת עושה לי</l>
+          <l>זה חם ומתוק, זה חם ומתוק</l>
+          <l>את הכי גדולה בעולם</l>
+          <l>זה חם ומתוק, זה חם ומתוק</l>
+          <l>זה חם ומתוק, זה חם ומתוק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אחת רכה, אחת פחות</l>
+          <l>לעוף, לצלול, לצוף בגוף שלך</l>
+          <l>את ארוכה, ועמוקה</l>
+          <l>את האשה שלי</l>
+          <l>עד קצה האהבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה חם ומתוק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

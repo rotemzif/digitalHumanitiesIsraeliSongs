@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עמירן</title>
+        <singer classification="unknown">מישל כהן</singer>
+        <writer>שלמה כישור</writer>
+        <composer>מישל כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עמירן</head>
+        <lg number="1" type="stanza">
+          <l>לא מזמן הוא נולד, לא נגע בחיים</l>
+          <l>והנה כבר נקטף עמירן.</l>
+          <l>שוב אינו מחייך, לא יאיר עוד פנים,</l>
+          <l>לגן-עדן עלה הקטן.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מלאכים בלבן שואלים כל הזמן</l>
+          <l>מה עושה כאן בגן עמירן.</l>
+          <l>שואלים ותוהים אם טעה אלוהים</l>
+          <l>כשלקח-לו אליו את עמירן.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא טבל בירוק, לא צחק לכחול,</l>
+          <l>לא היה במעון או בגן.</l>
+          <l>מעולם לא שיחק עם הים והחול</l>
+          <l>כי אבד בנתיביו של הזמן.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מלאכים בלבן...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אלוהים, התקטוף נפשו של ילד רכה,</l>
+          <l>לא חטאה, לא פשעה מעולם?</l>
+          <l>התצדק, אלוהים והיכן החמלה</l>
+          <l>אם לקחת לעד את עמירן?</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מלאכים בלבן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

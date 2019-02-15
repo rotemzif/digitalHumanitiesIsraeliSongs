@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מכל הלב 4</title>
+        <singer classification="unknown">תמיר סולטנה</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מכל הלב</head>
+        <lg number="1" type="stanza">
+          <l>הירח נעלם ברחוב אין בן אדם</l>
+          <l>ואני כאן בלעדייך גם לרגע לא נרדם</l>
+          <l>את היית כאן לפני שעה, התווכחנו בלי סיבה</l>
+          <l>שמעתי אותך בוכה והדלת ניפתחה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מכל הלב איך אני עוד אוהב</l>
+          <l>לבדי מסתובב מחפש אותך</l>
+          <l>והלב עדין כואב רק עלייך חושב</l>
+          <l>מבקש רק להיות איתך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה קורה לי לא קולט כמו ילד מפחד</l>
+          <l>לו יכולתי להגיד לך רק עוד פעם מתחרט</l>
+          <l>בלעדיך הבית ריק לא חשוב לי מי צודק</l>
+          <l>הדלת שלי פתוחה והלב אומר סליחה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מכל הלב איך אני עוד אוהב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

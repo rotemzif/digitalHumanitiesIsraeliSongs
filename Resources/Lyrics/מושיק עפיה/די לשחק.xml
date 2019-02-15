@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>די לשחק</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>די לשחק</head>
+        <lg number="1" type="stanza">
+          <l>די לשחק בשקר או אמת</l>
+          <l>מה זאת אהבה לקחת ולתת</l>
+          <l>לקחת את הכל שברת לי את הלב</l>
+          <l>לדרך רחוקה אקח את הכאב</l>
+          <l>אני לא אחכה לך בסוף הדרך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את יודעת שטעית</l>
+          <l>לא הייתי היחיד</l>
+          <l>בעינייך שוב ילדה</l>
+          <l>לא אוכל עוד להביט</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>למה זה קרה</l>
+          <l>אף פעם לא אדע</l>
+          <l>למה זה טעמת</l>
+          <l>את טעם הבגידה</l>
+          <l>ידעת בסוף אבל קצת מאוחר</l>
+          <l>עכשיו הכל נגמר</l>
+          <l>דבר כאן לא נותר</l>
+          <l>הלכה אהבתינו לעולמים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את יודעת שטעית...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

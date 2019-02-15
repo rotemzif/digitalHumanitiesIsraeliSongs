@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא רצינית</title>
+        <singer classification="DJ">קוקו</singer>
+        <writer>דני שושן</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא רצינית</head>
+        <lg number="1" type="stanza">
+          <l>כמה אפשר לאמר מחר ממך הראש כבר מתפוצץ</l>
+          <l>את יפה חיוך מקסים בואי נעשה חיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה קורה כאן לי לא מובן את עשית לי בלאגן</l>
+          <l>מה קרה לך תני לי סיבה מאוהב אני נשבע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני חושק חושק רק בך למה את קשה כל כך</l>
+          <l>לך תמיד יש אותו תירוץ היה לי יום מאוד לחוץ</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא רצינית ועקשנית תמיד עשית מה שרצית </l>
+          <l>לא רצינית וקשה ובכל זאת אהובה</l>
+          <l>אם תתקרבי את עוד תראי כמה יפה האהבה</l>
+          <l>תני לי סיכוי אם תנסי אני אוהב אותך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מה קורה כאן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

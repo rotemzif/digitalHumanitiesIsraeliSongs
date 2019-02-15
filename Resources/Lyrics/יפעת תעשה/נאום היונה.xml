@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נאום היונה 3</title>
+        <singer classification="female singer">יפעת תעשה</singer>
+        <writer>אהוד מנור</writer>
+        <composer>נתן כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נאום היונה</head>
+        <lg number="1" type="stanza">
+          <l>איני יודעת אם השחר כבר הפציע</l>
+          <l>איני שומעת את המיית אחי ואחיותי</l>
+          <l>איני יודעת אם החורף כבר הגיע</l>
+          <l>בכלוב אני יושבת כדרך אבותי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הניחו לי לעוף על פני שדות ואילנות</l>
+          <l>על אפיקי מים על אגמים ועיינות</l>
+          <l>שלחו אותי אולי אני יונה מבשרת</l>
+          <l>שאגרת קטנה אל כנפה מחוברת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני יונה בת יון לבית פורשי כנפיים</l>
+          <l>שושלת ארוכה מאוד של אסירי הדרור</l>
+          <l>אני לבנת כנף ואדומת עיניים</l>
+          <l>בתוך הכלוב בלי הרף סובבת סחור סחור.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הניחו לי לעוף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

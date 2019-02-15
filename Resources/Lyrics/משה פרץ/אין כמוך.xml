@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין כמוך 3</title>
+        <singer classification="male singer">משה פרץ</singer>
+        <writer>משה פרץ</writer>
+        <composer>גילי זכאי</composer>
+        <album>זיקוקים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין כמוך</head>
+        <lg number="1" type="stanza">
+          <l>אין אין מי שאוהבת אותי כמוך</l>
+          <l>בשבילי את כל העולם תהפוך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את כמו השמש מחממת לי את הלב</l>
+          <l>וזה הטעם הטוב</l>
+          <l>איך בחיים אני הבנתי כמה כואב</l>
+          <l>לא להיות איתך עוד</l>
+          <l>כי רק איתך אני מרשה לעצמי</l>
+          <l>להיות איך שבא לי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כי אין אין מי שאוהבת אותי כמוך</l>
+          <l>בשבילי את כל העולם תהפוך</l>
+          <l>מי תתן לי את מה שאת נותנת</l>
+          <l>אף אחת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני הייתי ותמיד אהיה בשבילך</l>
+          <l>ולך אתן את הכל</l>
+          <l>איך זה שבא לי להיות תמיד לידך</l>
+          <l>אולי תפסיק כבר לשאול</l>
+          <l>כי רק איתך אני מרשה לעצמי</l>
+          <l>להיות איך שבא לי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כי אין אין מי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

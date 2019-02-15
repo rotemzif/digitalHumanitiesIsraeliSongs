@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פעמון ישן</title>
+        <singer classification="male singer">טרוי</singer>
+        <writer>טרוי</writer>
+        <composer>טרוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פעמון ישן</head>
+        <lg number="1" type="stanza">
+          <l>אל תאמר לי להתפלל</l>
+          <l>אני סתם בן אדם עצל</l>
+          <l>אל תספר לי סיסמאות</l>
+          <l>אני רואה עתיד ורוד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ותן לי פעמון ישן</l>
+          <l>תן לי פעמון ישן</l>
+          <l>המים זורמים מעליהם</l>
+          <l>אני לא עקשן</l>
+          <l>אני לא רגשן</l>
+          <l>פעמון ישן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני אלמד לי בשלבים</l>
+          <l>אני לא צריך הסברים</l>
+          <l>אל תגיד לי מה לעשות</l>
+          <l>אל תחרבן לי קוביות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ותן לי פעמון ישן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

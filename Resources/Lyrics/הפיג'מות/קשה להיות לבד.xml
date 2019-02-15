@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קשה להיות לבד</title>
+        <singer classification="unknown">הפיג מות</singer>
+        <writer>רובי דואניאס</writer>
+        <composer>טל ירדני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קשה להיות לבד</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>זה קשה להיות לבד</l>
+          <l>קשה להיות אחד</l>
+          <l>כן, כן, זה קשה</l>
+          <l>כן, כן, כל כך קשה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מהבדידות אתה פוחד</l>
+          <l>אבל בסוף אתה בודד</l>
+          <l>אתה חושב אולי זו שטות</l>
+          <l>אבל אחי זו לא טעות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זה קשה להיות לבד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

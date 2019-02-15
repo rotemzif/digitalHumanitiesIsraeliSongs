@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוח סופה</title>
+        <singer classification="band">הכל עובר חביבי</singer>
+        <writer>נתן זך</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוח סופה</head>
+        <lg number="1" type="stanza">
+          <l>רוח סופה עוברת בארץ</l>
+          <l>ואין מפניה מסתור</l>
+          <l>אכנס אל ביתי ואגיף את הדלת</l>
+          <l>אעלה גם אש וגם אור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי לילה בארץ ורוח רוחשת</l>
+          <l>אופל זומם בעולם</l>
+          <l>ואני לבדי בחדרי כל הלילה</l>
+          <l>ובעצם בכל העולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואמש שמעתי פתאום קול קורא לי</l>
+          <l>ולא ידעתי קול מי</l>
+          <l>ההיה זה קולך שבלילה קרא לי</l>
+          <l>ואולי זה היה קולי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי לילה בארץ...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואני שרחקתי ממך בלי לדעת</l>
+          <l>על מה רחקתי מימך</l>
+          <l>יודעת עכשיו באופל הלילה</l>
+          <l>שתמיד, תמיד אוהבך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

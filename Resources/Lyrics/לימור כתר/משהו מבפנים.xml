@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משהו מבפנים</title>
+        <singer classification="unknown">לימור כתר</singer>
+        <writer>לימור כתר</writer>
+        <composer>דודי תמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משהו מבפנים</head>
+        <lg number="1" type="stanza">
+          <l>יש לי הרגשה שמשהו טוב יקרה לי</l>
+          <l>יש לי הרגשה שמשהו טוב יגע בי</l>
+          <l>יש לי הרגשה שמשהו טוב קורה לי</l>
+          <l>יש לי הרגשה שמשהו טוב יגע בי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מלמעלה הרגשתי, עכשיו זה תורי </l>
+          <l>מלמעלה הרגשתי, זה יגע בי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>משהו מבפנים אומר לי ללכת</l>
+          <l>משהו מבפנים אומר לי לגשת </l>
+          <l>חופשייה ומשוחררת תצמחי לאיטך </l>
+          <l>חופשייה ומשוחררת תבני את עצמך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש עוד צליל קטן שמתנגן לי</l>
+          <l>יש בי עוד מילה אחת שחסרה לי </l>
+          <l>יש לי אהבה קטנה שמחכה לי </l>
+          <l>יש אתכם עכשיו שרים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מלמעלה הרגשתי, עכשיו זה תורי </l>
+          <l>מלמעלה הרגשתי, זה יגע בי</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>משהו מבפנים אומר לי ללכת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

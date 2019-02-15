@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תצא מזה</title>
+        <singer classification="female singer">ריטה</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>חמצן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תצא מזה</head>
+        <lg number="1" type="stanza">
+          <l>את הרגת אותו לאט</l>
+          <l>כשהוא חשב שמסתדר</l>
+          <l>את קמת לך והלכת</l>
+          <l>הוא התרסק</l>
+          <l>כשאת חתכת עם כל מבט</l>
+          <l>כל בוקר עם עניין חדש</l>
+          <l>אהבת אותו חלש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תצא מזה</l>
+          <l>כי יום חדש מאיר</l>
+          <l>מאיר עלינו</l>
+          <l>רק אם תאמין</l>
+          <l>תצא מזה</l>
+          <l>הבאת לה פרחים</l>
+          <l>הם לא יסתירו</l>
+          <l>לב מלא פחדים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואת, חושבת שזה משחק</l>
+          <l>עד שימצאו אותו זרוק</l>
+          <l>מתחת לבניין</l>
+          <l>כבר לא יכאב לו</l>
+          <l>את, תבכי שם בתמונה</l>
+          <l>כשמתחתיך ידיעה</l>
+          <l>החברה שבורה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תצא מזה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

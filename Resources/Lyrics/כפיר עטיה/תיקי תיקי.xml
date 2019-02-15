@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תיקי תיקי</title>
+        <singer classification="unknown">כפיר עטיה</singer>
+        <writer>אלי קשת</writer>
+        <composer>אלי קשת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תיקי תיקי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>תיקי תיקי על תציקי אני בחור חלש</l>
+          <l>את הכנסת אותי לדיכי אני כבר מיואש</l>
+          <l>המצב שלי הוא קריטי לא יודע אם טעיתי</l>
+          <l>תיקי תיקי די מספיק עם המשחק שלך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את חושבת יש לי וילה עם ים של חדרים</l>
+          <l>אבל את טועה לגמרי אני גר עם ההורים</l>
+          <l>את חושבת שאגיע עם מכונית מהסרטים</l>
+          <l>הלוואי והיא תניע יש לי פיאט שנת שמונים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תיקי תיקי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את חושבת שכל לילה אפשר רק לבלות</l>
+          <l>בגללך אני נכנסתי לים של הלוואות</l>
+          <l>ומחר את מתכננת בילוי ליום שלם</l>
+          <l>אך אני בעבודה רק מתכנן איך לשלם</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תיקי תיקי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

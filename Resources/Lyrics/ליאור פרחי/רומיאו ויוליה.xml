@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רומיאו ויוליה 2</title>
+        <singer classification="male singer">ליאור פרחי</singer>
+        <writer>אברהם לוי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רומיאו ויוליה</head>
+        <lg number="1" type="stanza">
+          <l>פוסע בדרכי עובר בסמטאות</l>
+          <l>ועוד רגע קט נשוב להתראות</l>
+          <l>האור בחלונך מחיש את צעדיי</l>
+          <l>מאהבת ליבי אתן לך עד בלי די</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את יוליה אני רומיאו</l>
+          <l>את נסיכה אני אביר</l>
+          <l>ובלילה זה איתך כמו באגדות</l>
+          <l>ממתין איתך לעוף אל עולם של חלומות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פוסע לבדי הלילה כבר חלף</l>
+          <l>ויום חדש נולד מחלוני נשקף</l>
+          <l>מים הזכרונות שולף זר חלומות</l>
+          <l>בונה לך ארמונות מקיף אותך חומות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את יוליה אני רומיאו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

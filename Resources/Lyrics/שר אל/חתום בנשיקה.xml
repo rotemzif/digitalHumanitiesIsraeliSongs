@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חתום בנשיקה</title>
+        <singer classification="unknown">שר אל</singer>
+        <writer>דני שושן</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חתום בנשיקה</head>
+        <lg number="1" type="stanza">
+          <l>בשמיים כבר נכתב שאת שלי לעד</l>
+          <l>ואין אחרת מלבדך</l>
+          <l>באביב וגם בסתיו אוהב אותך לעד</l>
+          <l>אנא שמרי לי לבבך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תני לי לאהוב אותך,</l>
+          <l>תני לי לפנק אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל חיי אמרתי לך שאני שייך רק לך</l>
+          <l>ואין אחרת מלבדך</l>
+          <l>מכתבים לך מתוקה חתומים בנשיקה</l>
+          <l>כמה אותך אני אוהב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תני לי לאהוב אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

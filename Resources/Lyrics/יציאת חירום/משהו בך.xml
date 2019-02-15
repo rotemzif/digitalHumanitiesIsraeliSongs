@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משהו בך</title>
+        <singer classification="band">יציאת חירום</singer>
+        <writer>אלכס טופל</writer>
+        <composer>אלכס טופל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משהו בך</head>
+        <lg number="1" type="stanza">
+          <l>משהו בך סימן מעינייך</l>
+          <l>עוד צעד אחד נסגר המרחק</l>
+          <l>משהו קל,איתך אז בנתיים</l>
+          <l>אם זאת האהבה,בואי נאהב</l>
+          <l>עד שניפול נאהב,עד שיכאב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>משהו עף ניתז לשמיים</l>
+          <l>נתפוס את הרגע ולא נעזוב</l>
+          <l>משהו כמו ריקוד אז בנתיים</l>
+          <l>אם זאת האהבה,בואי נאהב</l>
+          <l>עד שניפול נאהב,עד שיכאב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בין כלום להכל</l>
+          <l>שם אהבה חיה</l>
+          <l>בין מחר לאתמול,כך אהבה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>קודם הגוף אחר כך הרוח</l>
+          <l>לאורך הלילה כולו ננחש</l>
+          <l>קודם באור אחר כך בחושך</l>
+          <l>אם זאת האהבה בואי נאהב</l>
+          <l>עד שניפול נאהב עד שיכאב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בין כלום.....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

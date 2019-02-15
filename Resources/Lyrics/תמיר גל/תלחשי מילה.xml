@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תלחשי מילה</title>
+        <singer classification="male singer">תמיר גל</singer>
+        <writer>זהבה בן</writer>
+        <composer>דודי מלכה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תלחשי מילה</head>
+        <lg number="1" type="stanza">
+          <l>הרגשתי שאת מתחמקת</l>
+          <l>הבחנתי שאת עצובה</l>
+          <l>ספרי לי על מה את חושבת</l>
+          <l>רואה בעינייך דימעה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם את עלי את סומכת</l>
+          <l>מה את מסתירה</l>
+          <l>ואם את מתביישת</l>
+          <l>איתי את חופשייה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז תלחשי מילה או שתיים</l>
+          <l>שאבין אותך בנתיים</l>
+          <l>אין לך מה לחשוש</l>
+          <l>אקבל כל שתאמרי</l>
+          <l>גם אם זה כל כך קשה</l>
+          <l>אספוג בתוך ליבי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תני לי סימן את נשארת</l>
+          <l>אתן לך אהבתי</l>
+          <l>אם תרצי להיות נאהבת</l>
+          <l>אתן לך כל שתבקשי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם את עלי את סומכת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה איתך 4</title>
+        <singer classification="male singer">משה פרץ</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>עדי לאון</composer>
+        <album>מביט אל המרומים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה איתך</head>
+        <lg number="1" type="stanza">
+          <l>כשאורות הלילה נדלקים</l>
+          <l>אני יוצא הולך בעקבותייך</l>
+          <l>מדמיין אותך במרחקים</l>
+          <l>איך שנינו יחד שוב נפגשים</l>
+          <l>אך את זורמת כמו הרוח</l>
+          <l>משנה כיוון בלי הפסקה</l>
+          <l>ביום ראשון את לוחשת אהבה</l>
+          <l>ביום שני את לא בסביבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה איתך תחליטי כבר</l>
+          <l>מה את רוצה</l>
+          <l>אל תגידי לי שאין מוצא</l>
+          <l>מה איתך תחליטי כבר</l>
+          <l>מה את רוצה</l>
+          <l>מחכה לתשובה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דרך שתי ענייך היפות</l>
+          <l>שוב מנסה לדעת מה עובר בך</l>
+          <l>בראשי חולפות המחשבות</l>
+          <l>בשתי ידיים אוסף תקוות</l>
+          <l>אך את זורמת כמו הרוח</l>
+          <l>משנה כיוון בלי הפסקה</l>
+          <l>ביום ראשון את לוחשת אהבה</l>
+          <l>ביום שני את לא בסביבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה איתך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

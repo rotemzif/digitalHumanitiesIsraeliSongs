@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אור מגיע מהמים</title>
+        <singer classification="male singer">מאיר בנאי</singer>
+        <writer>מאיר בנאי</writer>
+        <composer>מאיר בנאי</composer>
+        <album>לב סדוק</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אור מגיע מהמים</head>
+        <lg number="1" type="stanza">
+          <l>אור מגיע מהמים</l>
+          <l>אנשים רוקדים</l>
+          <l>היא שוכבת, מדברת, </l>
+          <l>אל העננים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את ידעת</l>
+          <l>שזה בא ומכה</l>
+          <l>כמו מליון ברקים</l>
+          <l>בך הם מתנפצים</l>
+          <l>ואז מתמסרים</l>
+          <l>ליופייך, לגופך,</l>
+          <l>שבא משום מקום</l>
+          <l>בא משום מקום</l>
+          <l>בעולם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ריח ערב כבר מגיע</l>
+          <l>אל המים כאן</l>
+          <l>את אומרת, כשנוגעים בי</l>
+          <l>זה כבר מסוכן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את ידעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

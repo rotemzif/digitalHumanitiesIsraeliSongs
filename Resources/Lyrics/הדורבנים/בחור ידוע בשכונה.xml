@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בחור ידוע בשכונה</title>
+        <singer classification="band">הדורבנים</singer>
+        <writer>איתי גלוסקא</writer>
+        <composer>איתי גלוסקא</composer>
+        <album>קובי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בחור ידוע בשכונה</head>
+        <lg number="1" type="stanza">
+          <l>הוא בחור ידוע בשכונה...</l>
+          <l>הוא טיפוס מוכר למשטרה</l>
+          <l>הוא היה זורה אימה</l>
+          <l>שם באפילה, בתוך קורבטה אדומה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עבריין שרמנטי, ילד רע</l>
+          <l>מי יכול על התותח של השכונה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתהדר בג'ל וחליפה</l>
+          <l>אך בסוף זה רק כיסוי</l>
+          <l>יש לו סוד חסוי</l>
+          <l>אברו הקט מעט רפוי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עבריין שרמנטי, ילד רע</l>
+          <l>מי יכול על התותח של השכונה</l>
+          <l>הוא בליין רומנטי - גרוטאה</l>
+          <l>מי ייתן לו יד, יגיש לו קצת עזרה?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

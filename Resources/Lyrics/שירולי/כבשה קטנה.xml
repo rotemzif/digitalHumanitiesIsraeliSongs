@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כבשה קטנה</title>
+        <singer classification="unknown">שירולי</singer>
+        <writer>יחיאל הלפרין</writer>
+        <composer>יואל אנגל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כבשה קטנה</head>
+        <lg number="1" type="stanza">
+          <l>כבשה קטנה, איפה היית?</l>
+          <l>וכל היום את, מה עשית?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בשדה, שם ילדיכם,</l>
+          <l>רקדתי בין פרחיכם</l>
+          <l>מה... מה...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אביב חביב הנה הוא בא</l>
+          <l>אביב חביב.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נרקוד נא ילדיכם</l>
+          <l>נרקוד בין פרחיכם</l>
+          <l>מה... מה...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אביב חביב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אות משמיים</title>
+        <singer classification="female singer">דנה אינטרנשיונל</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אות משמיים</head>
+        <lg number="1" type="stanza">
+          <l>יש ימים שנראה כאילו אין דרך</l>
+          <l>נותרת בלי תקווה</l>
+          <l>איך אפשר לוותר על דמעות</l>
+          <l>לדבר אין שום ערך</l>
+          <l>ואין כל אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אות משמיים</l>
+          <l>מחזק אותי</l>
+          <l>זה קולה של השמחה</l>
+          <l>אור בעיניים</l>
+          <l>אתגבר עכשיו</l>
+          <l>ובסוף אמצא אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא אפחד יש בי כח ללכת</l>
+          <l>ויש בי נשימה</l>
+          <l>והרוח שבי מובילה את ליבי</l>
+          <l>ומושכת</l>
+          <l>לחפש אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אות משמיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה בדם</title>
+        <singer classification="male singer">רון שובל</singer>
+        <writer>רון שובל</writer>
+        <composer>רון שובל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה בדם</head>
+        <lg number="1" type="stanza">
+          <l>זה בדם זה בדם </l>
+          <l>אהבה בוערת בגוף שלי זורמת זה בדם ,זה בדם ,זה בדם </l>
+          <l>ביום את מסתובבת בלילה את רוקדת לא נרדם זה בדם זה בדם</l>
+          <l>מה עשית אתמול בלילה ? כל הזמן אני דואג ודואג ודואג ודואג </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני חושב עלייך כמו ילד בלעדייך זה בדם זה בדם זה בדם .</l>
+          <l>רוצה לבוא אלייך להיות בזרועותייך זה בדם בן אדם זה בדם </l>
+          <l>מה עשית אתמול בלילה כל הזמן אני דואג ודואג ודואג ודואג </l>
+          <l>מה עשית אתמול בלילה כל הזמן אני דואג ודואג ודואג ודואג </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מה עשית אתמול בלילה....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

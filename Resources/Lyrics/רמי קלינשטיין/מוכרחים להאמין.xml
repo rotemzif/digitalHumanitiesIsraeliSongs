@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מוכרחים להאמין</title>
+        <singer classification="male singer">רמי קלינשטיין</singer>
+        <writer>אמיר בן דוד</writer>
+        <composer>רמי קלינשטיין</composer>
+        <album>כל מה שתרצי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מוכרחים להאמין</head>
+        <lg number="1" type="stanza">
+          <l>אין מקום להתלבטות</l>
+          <l>אין מקום גם לספק</l>
+          <l>קשה לשמוע ההדף חזק</l>
+          <l>והעצב משתק</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בסוף הכל יסתדר</l>
+          <l>אולי אני תמים</l>
+          <l>גם אם מעונן מסובך וקודר</l>
+          <l>מוכרחים להאמין</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נעבור בסופה הזאת</l>
+          <l>גם אם תמשך שנים</l>
+          <l>כבר עברנו תקופות קשות</l>
+          <l>וחזרנו מחוזקים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בסוף הכל יסתדר אולי אני תמים </l>
+          <l>גם אם מעונן מסובך וקודר</l>
+          <l>מוכרחים להאמין</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אין מקום לכל ספק</l>
+          <l>אין מקום להיסוסים </l>
+          <l>נעבור את הסופה הזאת </l>
+          <l>זה לא ימשך שנים </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בסוף הכל יסתדר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

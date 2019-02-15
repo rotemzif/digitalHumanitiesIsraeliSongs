@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הינומה לבנה</title>
+        <singer classification="unknown">רמי ג נאח</singer>
+        <writer>רמי ג'נאח</writer>
+        <composer>רמי ג'נאח</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הינומה לבנה</head>
+        <lg number="1" type="stanza">
+          <l>הינומה לבנה תכסה את פנייך</l>
+          <l>כי ברגע הזה הישתנו כל חייך</l>
+          <l>מקודשת לי בטבעת זו</l>
+          <l>אומר לך יקירתי</l>
+          <l>אז אשבור את הכוס</l>
+          <l>ואלחש לך אהובתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם אשכחך ירושלים תשכח ימיני</l>
+          <l>תדבק לשוני לחיכי אם לא אזכרכי</l>
+          <l>אם לא אעלה את ירושלים על ראש שימחתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז הביטי אליי וגלי נא פנייך</l>
+          <l>אהבה מליבי שחוזרת אלייך</l>
+          <l>אז נקים משפחה והרבה ילדים</l>
+          <l>איתך רק יקירתי</l>
+          <l>את עולם ומלואו בשבילי</l>
+          <l>עיניים שלי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם אשכחך ירושלים תשכח ימיני</l>
+          <l>תדבק לשוני לחיכי אם לא אזכרכי</l>
+          <l>אם לא אעלה את ירושלים על ראש שימחתי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

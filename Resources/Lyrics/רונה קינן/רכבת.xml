@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רכבת 22</title>
+        <singer classification="female singer">רונה קינן</singer>
+        <writer>רונה קינן</writer>
+        <composer>missing</composer>
+        <album>מעליי דממה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רכבת</head>
+        <lg number="1" type="stanza">
+          <l>רכבת עייפה עושה דרכה למרחקים</l>
+          <l>מותש כבר הקטר והקרונות כולם ריקים</l>
+          <l>והיא נוסעת אל מקום לא מיושב</l>
+          <l>רכבת עתיקה לאן את ממשיכה עכשיו?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>התחנה האחרונה</l>
+          <l>חלפה מזמן</l>
+          <l>היא לא חונה</l>
+          <l>רכבת בלי נוסעים</l>
+          <l>בתחנה עברה עכשיו</l>
+          <l>ורק הפנסים</l>
+          <l>יֵדעו שהיא צָפְרָה עכשיו</l>
+          <l>אך למי?</l>
+          <l>לאן היא ממשיכה עכשיו</l>
+          <l>וּלמְִי?</l>
+          <l>איך תיסע איתה עכשיו?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רכבת ארוכה עושה דרכה על הפסים</l>
+          <l>נרדם הכרטיסן וְדָהוּ מזמן הכרטיסים</l>
+          <l>ואין נהג בה מי ילחץ על הבלמים?</l>
+          <l>רכבת לילה בשבילים הדוממים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>התחנה האחרונה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fat Fa Ta</title>
+        <singer classification="unknown">עופרה חזה</singer>
+        <writer>בצלאל אלוני</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Fat Fa Ta</head>
+        <lg number="1" type="stanza">
+          <l>FAT FATA FATA </l>
+          <l>FAT FATA FATA </l>
+          <l>FAT FATA FATA TA </l>
+          <l>FATA TA </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>YONAT AHAVA </l>
+          <l>YONAT AHAVA </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>YONA YONA </l>
+          <l>YONA YONA </l>
+          <l>YONA YONA </l>
+          <l>YONAT AHAVA</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

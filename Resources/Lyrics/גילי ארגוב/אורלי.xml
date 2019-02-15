@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אורלי</title>
+        <singer classification="male singer">גילי ארגוב</singer>
+        <writer>רוני אחיאל</writer>
+        <composer>רוני אחיאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אורלי</head>
+        <lg number="1" type="stanza">
+          <l>ויום אחד היא קמה</l>
+          <l>עזבה ונעלמה לה</l>
+          <l>ואז אני עליה רק חושב</l>
+          <l>ליבי שייך אליה</l>
+          <l>נפשי אומה אליה</l>
+          <l>כי אני אותה מאוד מאוד אוהב,</l>
+          <l>כי אני אותה מאוד מאוד אוהב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אורלי אורלי</l>
+          <l>שם אחד בלב</l>
+          <l>אורלי אורלי</l>
+          <l>אותך אני אוהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כולים רוצים אליה</l>
+          <l>יפה ואין כמוה</l>
+          <l>נוגעת בכולם במבטים</l>
+          <l>אך היא אותי אוהבת</l>
+          <l>ועלי לא מוותרת</l>
+          <l>זה לזו נשבענו אמונים</l>
+          <l>זה לזו נשבענו אמונים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אורלי אורלי...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אורלי אורלי</l>
+          <l>שם אחד בלב</l>
+          <l>אורלי אורלי</l>
+          <l>אותך אני אוהב</l>
+          <l>אותך אני אוהב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

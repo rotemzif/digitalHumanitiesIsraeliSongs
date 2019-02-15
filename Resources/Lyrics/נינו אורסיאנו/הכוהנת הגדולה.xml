@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכוהנת הגדולה</title>
+        <singer classification="male singer">נינו אורסיאנו</singer>
+        <writer>נינו אורסיאנו</writer>
+        <composer>נינו אורסיאנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכוהנת הגדולה</head>
+        <lg number="1" type="stanza">
+          <l>ביללות שלך בליל ירח מלא </l>
+          <l>את הלב שלי קורעות </l>
+          <l>אך אתה לא תגלה </l>
+          <l>שפגשתי אותך והתאהבתי </l>
+          <l>והשארתי ים סוער כשעזבתי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא מעט דמעות בכיתי </l>
+          <l>אבל אתה לא תדע </l>
+          <l>כמעט שלך הייתי </l>
+          <l>אבל נשארת חידה. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הבדידות שלך פגשה אותי במקרה </l>
+          <l>אך הכוהנת הגדולה, לך לא תגלה </l>
+          <l>שאהבת חיי הפכה לאדמה </l>
+          <l>שנכנסת לי עמוק לנשמה. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא מעט דמעות בכיתי... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>והלב רוצה להגיד לך </l>
+          <l>שלמרות הכל, אהבתי אותך.. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לא מעט דמעות בכיתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>להלחם במפלצות</title>
+        <singer classification="band">שייגעצ</singer>
+        <writer>יובל מנדלסון</writer>
+        <composer>יובל מנדלסון</composer>
+        <album>להפסיק לאכול עוגות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>להלחם במפלצות</head>
+        <lg number="1" type="stanza">
+          <l>אולי מחר אני אלך להסתפר</l>
+          <l>את אומרת שאני נראה מוזנח</l>
+          <l>אולי מחר אני אתחיל להסתדר</l>
+          <l>אני אקום בבוקר</l>
+          <l>אני אשטוף את הרצפה</l>
+          <l>אני אפתח את החלון, שייכנס אוויר</l>
+          <l>אני אתחיל מהתחלה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני הפוך מהתחת</l>
+          <l>לא רואה ישר</l>
+          <l>אם את פה אם את לא</l>
+          <l>זה כמעט אותו דבר</l>
+          <l>רק ביחד שנינו יכולים</l>
+          <l>להילחם במפלצות</l>
+          <l>להילחם גם בשדים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אולי מחר אני אפגוש אותך ברחוב</l>
+          <l>אולי נחליף כמה מילים לא משהו רציני</l>
+          <l>אני אשאל אותך אם בא לך לעלות</l>
+          <l>את תחייכי חיוך קטן אבל אני...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני הפוך מהתחת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

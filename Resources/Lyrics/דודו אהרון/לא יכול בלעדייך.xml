@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא יכול בלעדייך</title>
+        <singer classification="unknown">דודו אהרון</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>דודו אהרון</composer>
+        <album>גיבור</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא יכול בלעדייך</head>
+        <lg number="1" type="stanza">
+          <l>לא אמרת לי בוא ולא אמרת לי לך</l>
+          <l>איך שאת אוהבת, אוהבת לתסבך</l>
+          <l>לא אמרת לי בוא ולא אמרת לי לך</l>
+          <l>כל מה שקורה לי, קורה לי בגללך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בקלות, את יודעת לשבור</l>
+          <l>את הלב שחולם רק עלייך</l>
+          <l>בגללך לא נרדם בלילות</l>
+          <l>ואני לא יכול בלעדייך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא אמרת לי לא ולא אמרת לי כן</l>
+          <l>את אותי שורפת, מבלי להתכוון</l>
+          <l>לא אמרת לי לא ולא אמרת לי כן</l>
+          <l>אותי זה משגע, אותך לא מעניין</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בקלות, את יודעת לשבור.....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

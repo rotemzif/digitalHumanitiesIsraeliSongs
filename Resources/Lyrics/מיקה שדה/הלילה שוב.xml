@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלילה שוב</title>
+        <singer classification="unknown">מיקה שדה</singer>
+        <writer>עוזר רבין</writer>
+        <composer>עמרי ריבלין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלילה שוב</head>
+        <lg number="1" type="stanza">
+          <l>גל עולה מגל נופל, מתגלה </l>
+          <l>באור פתאום, משתבר </l>
+          <l>וגל בגל יגיע </l>
+          <l>אל פני הים </l>
+          <l>תוכי מלא רקיע </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מלא מלא בני אדם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

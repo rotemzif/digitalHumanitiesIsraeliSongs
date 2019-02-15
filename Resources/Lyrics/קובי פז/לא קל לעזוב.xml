@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא קל לעזוב</title>
+        <singer classification="unknown">קובי פז</singer>
+        <writer>קובי פז</writer>
+        <composer>קובי פז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא קל לעזוב</head>
+        <lg number="1" type="stanza">
+          <l>זה שיר על כל האהבות שהשארתי מאחור,</l>
+          <l>ומה שלא הספקתי לומר.</l>
+          <l>מדים בצבע זית, נשק וחגור.</l>
+          <l>היום אני הולך מכאן.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני עוזב, וחושב, שלא הספקתי לומר לך הכל.</l>
+          <l>אני מודה, קצת פוחד, זה אף פעם לא קל לעזוב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>והם תמיד אומרים שזה בא לטובה,</l>
+          <l>ובסוף יהיה יותר טוב.</l>
+          <l>ניסיתי לוותר, אבל זה לא עוזר,</l>
+          <l>חיפשתי צדק בעולם.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני עוזב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני רק בן אדם, בסוף של סרט לא מושלם.</l>
+          <l>סוף של סרט אילם.</l>
+          <l>עכשיו הזמן לצאת, להגן על האמת,</l>
+          <l>ואת תהיי אחת מכולן.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני עוזב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

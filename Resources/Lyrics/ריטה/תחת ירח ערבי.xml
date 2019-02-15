@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תחת ירח ערבי</title>
+        <singer classification="female singer">ריטה</singer>
+        <writer>פנחס שדה</writer>
+        <composer>missing</composer>
+        <album>ימי התום</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תחת ירח ערבי</head>
+        <lg number="1" type="stanza">
+          <l>הם באו ממערב ים</l>
+          <l>רזים, עניים,</l>
+          <l>רוכבים על קרשים</l>
+          <l>בטלאיהם הצבעוניים</l>
+          <l>ומה עייפו הם</l>
+          <l>ברדתם על החול הרך</l>
+          <l>חרש מלמלו שיר</l>
+          <l>פוסעים הלאה</l>
+          <l>לפאת מזרח.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תחת ירח ערבי</l>
+          <l>ומזלות כנעניים</l>
+          <l>מתפתלים כבחלום</l>
+          <l>לאט לאט</l>
+          <l>נים ולא נים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אלי אלי</l>
+          <l>ואני בתוכם</l>
+          <l>ושיירה קטנה נוגה</l>
+          <l>לקול בכי תנים חרישי</l>
+          <l>ועין סהר קופא</l>
+          <l>משוגע.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תחת ירח ערבי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הם באו ממערב ים</l>
+          <l>הם באו ממערב ים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

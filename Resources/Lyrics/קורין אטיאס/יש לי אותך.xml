@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לי אותך 5</title>
+        <singer classification="unknown">קורין אטיאס</singer>
+        <writer>דני סיון</writer>
+        <composer>דני סיון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לי אותך</head>
+        <lg number="1" type="stanza">
+          <l>כל האור שלך נפל עלי</l>
+          <l>כל היום תוהה יותר מדי</l>
+          <l>מה שהיה שעשוע</l>
+          <l>הפך היום חזק ודי קבוע</l>
+          <l>ואתה שלי זה אמיתי	</l>
+          <l>אוהבת אותך, חיים שלי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש לי אותך בשבילי </l>
+          <l>אוהבת אותך נשמתי</l>
+          <l>רוצה רק אליך</l>
+          <l>חזק בזרועתיך</l>
+          <l>יש לי אותך, אתה שלי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>העולם שלך מלא מדי</l>
+          <l>רק אל תשכח גם מחיי</l>
+          <l>כל היום הראש במחשבות</l>
+          <l>רק איתך רוצה להיות </l>
+          <l>ואתה שלי זה אמיתי	</l>
+          <l>אוהבת אותך נשמה שלי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש לי אותך בשבילי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

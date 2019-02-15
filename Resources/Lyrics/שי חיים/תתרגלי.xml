@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תתרגלי</title>
+        <singer classification="unknown">שי חיים</singer>
+        <writer>דודו חוטר</writer>
+        <composer>שי חיים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תתרגלי</head>
+        <lg number="1" type="stanza">
+          <l>תתרגלי, תתרגלי שטוב לי עם עצמי,</l>
+          <l>כמה זמן עוד יעבור עד שתתבגרי. </l>
+          <l>תתרגלי,תתרגלי שטוב לי עם עצמי,</l>
+          <l>שהזמן כבר יעבור בינתיים לבדי!</l>
+          <l>רוצה להתחתן, איתי להזדקן </l>
+          <l>חושבת שהיא כבר מוכנה.</l>
+          <l>לו שאלה את דעתי אז הייתי מחייך לה ואומר:</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תתרגלי, תתרגלי....</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אמרה שלה כואב, הראש וגם הלב</l>
+          <l>חשבה לספר לי סיפורים</l>
+          <l>עם מבט תמים אותה שאלתי</l>
+          <l>למה את מקשה את החיים?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תתרגלי, תתרגלי....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

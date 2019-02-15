@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מוקיון</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>רוני סומק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מוקיון</head>
+        <lg number="1" type="stanza">
+          <l>כשאני לבד על הבמה</l>
+          <l>מספר סיפור מגלגל בדיחה</l>
+          <l>כמו חבית של אבק שריפה</l>
+          <l>רק האש שבי מזמן כבתה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כשאני לבד על הבמה</l>
+          <l>כשאני לבד על הבמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>על פני האיפור</l>
+          <l>תמיד מרוח בקפידה</l>
+          <l>ואני אחלוף עם הרוח</l>
+          <l>שתנשוב ראשונה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשאני יורד מהבמה</l>
+          <l>הציפור שבי נודדת לה לאיטה</l>
+          <l>היא נבלעת כמו איבדה</l>
+          <l>בתוך החושך את מקור אושרה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כשאני לבד על הבמה</l>
+          <l>כשאני לבד על הבמה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>עוד מעט החושך יעלה את מסך העשן</l>
+          <l>ואני אמטיר אל הרחוב את החיוך הישן</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>כשאני לבד על הבמה</l>
+          <l>כשאני לבד על הבמה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

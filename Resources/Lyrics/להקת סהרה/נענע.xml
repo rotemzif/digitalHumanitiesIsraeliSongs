@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נענע</title>
+        <singer classification="unknown">להקת סהרה</singer>
+        <writer>דודו ברק</writer>
+        <composer>חנניה אברג'יל ז'ל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נענע</head>
+        <lg number="1" type="stanza">
+          <l>תן לה, תן לה את ידך.</l>
+          <l>לא, אל תוותר.</l>
+          <l>היא רוצה לרקוד איתך.</l>
+          <l>היא רוצה יותר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נענע הנה.</l>
+          <l>נענע שמה.</l>
+          <l>נענע את גופך,</l>
+          <l>יום וגם לילה.</l>
+          <l>נענע הנה.</l>
+          <l>נענע שמה.</l>
+          <l>נענע את גופך,</l>
+          <l>יום וגם ליל.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תני לו, תני מחום גופך,</l>
+          <l>חמודה שלי.</l>
+          <l>תני לו, תני את נשמתך,</l>
+          <l>אבודה שלי.</l>
+          <l>ואמרי בדם ליבך:</l>
+          <l>"קח את כול כולי".</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נענע הנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

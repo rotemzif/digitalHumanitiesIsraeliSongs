@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הנה זה בא 2</title>
+        <singer classification="band">היהודים</singer>
+        <writer>תום פטרובר</writer>
+        <composer>missing</composer>
+        <album>פורטה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הנה זה בא</head>
+        <lg number="1" type="stanza">
+          <l>אומרים לי שיבוא היום</l>
+          <l>הוא לא רחוק ולא חלום</l>
+          <l>נצעד ביחד יד ביד</l>
+          <l>ונאמין באל אחד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>או או או..</l>
+          <l>הנה זה בא</l>
+          <l>הנה זה בא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אומרים לי שעמוק בבור</l>
+          <l>גם לנו יש כזה כפתור</l>
+          <l>נלחץ עליו אם נצטרך</l>
+          <l>ואז תראה מי יחייך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>או או או...</l>
+          <l>הנה זה בא</l>
+          <l>הנה זה בא...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אומרים לי שאנ'לא אסבול</l>
+          <l>תוך שתי שניות נגמר הכל</l>
+          <l>אנ'לא ארגיש אפילו כלום</l>
+          <l>זה כמו לישון, רק בלי לקום</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הנה זה בא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

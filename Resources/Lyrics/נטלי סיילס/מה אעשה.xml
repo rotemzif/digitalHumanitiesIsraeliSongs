@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה אעשה 2</title>
+        <singer classification="unknown">נטלי סיילס</singer>
+        <writer>נטלי סיילס</writer>
+        <composer>נטלי סיילס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה אעשה</head>
+        <lg number="1" type="stanza">
+          <l>ושוב אותו חלום, </l>
+          <l>הוא מופיע פתאום וקורא לי לבוא. </l>
+          <l>עיני עצומות, אני נותנת לו יד </l>
+          <l>וזה מרגיע עכשיו. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה אעשה עם כל הפחד הזה </l>
+          <l>הוא מושך אותי בחוטים </l>
+          <l>מה אעשה עם כל הלחץ הזה </l>
+          <l>שישחרר אותי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואם תלך עכשיו, </l>
+          <l>אתנתק מעצמי, לא אהיה שוב אני </l>
+          <l>אשאב לתוך חלום, </l>
+          <l>ושוב עיני עצומות וזה מרגיע פחות. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה אעשה עם כל הפחד הזה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

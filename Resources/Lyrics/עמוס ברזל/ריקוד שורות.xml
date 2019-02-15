@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ריקוד שורות</title>
+        <singer classification="male singer">עמוס ברזל</singer>
+        <writer>אורלי בינדר</writer>
+        <composer>אורלי בינדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ריקוד שורות</head>
+        <lg number="1" type="stanza">
+          <l>קדימה, קדימה ועוצרים </l>
+          <l>אחורה, אחורה הופ עוצרים. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הצידה, הצידה ועוצרים </l>
+          <l>לצד שני הופ חוזרים. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>במקום עכשיו דורכים </l>
+          <l>וסיבוב מסתובבים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

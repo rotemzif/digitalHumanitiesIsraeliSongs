@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלבולים</title>
+        <singer classification="female singer">קורין אלאל</singer>
+        <writer>דודו ויזר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלבולים</head>
+        <lg number="1" type="stanza">
+          <l>ילד שמו רונני, שיערו אדום</l>
+          <l>היה מוצא מילים לא נכונות</l>
+          <l>ללילה לפעמים היה קורא הוא יום</l>
+          <l>ולתקרה היה קורא עגבניות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בלבולים בלבולים כל הזמן</l>
+          <l>בלבולים בלבולים כל הזמן</l>
+          <l>עד שלמדנו לדבר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פעם הוא רצה לאמר גבינה טובה</l>
+          <l>יצא לו מהפה להתראות</l>
+          <l>ופעם הוא רצה טיול יפה בחוץ</l>
+          <l>אבל אמר רוצה סלט של עוגיות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בלבולים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לשמש הוא היה קורא מנורה</l>
+          <l>לכחול היה קורא כתום</l>
+          <l>ופעם הוא רצה מאמא נשיקה</l>
+          <l>אבל אמר לה חתולים בכל מקום</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בלבולים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

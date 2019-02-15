@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השיר הירוק</title>
+        <singer classification="male singer">טרוי</singer>
+        <writer>טרוי</writer>
+        <composer>טרוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השיר הירוק</head>
+        <lg number="1" type="stanza">
+          <l>כמעט הגענו</l>
+          <l>עכשיו זה רק עניין של דקות</l>
+          <l>ועדיין כמו כולם אני רואה את העולם</l>
+          <l>בעיניים כחולות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נקודות בחושך</l>
+          <l>נקודות של אור</l>
+          <l>עדיין מנסה למצוא לי הסברים במקום</l>
+          <l>שאין מילים</l>
+          <l>עדיין מחפש, מתלבט ומבקש</l>
+          <l>סכנות והימורים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>והיא תביא לי ילד</l>
+          <l>ילד ירוק</l>
+          <l>ילד של צחוק</l>
+          <l>הטוב ביותר בשבילי</l>
+          <l>הוא הירוק</l>
+          <l>הוא הירוק</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עדיין קר בלילה</l>
+          <l>בשביל זה שמחפש</l>
+          <l>ועדיין מבקש דרכי קיצור במקום שאין</l>
+          <l>שוכן לבטח</l>
+          <l>במקום היחידי</l>
+          <l>שבוא אפשר לראות ברור בהיר את העולם</l>
+          <l>שבו אין תקווה לבכי אל מול כולם</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>והיא תביא לי ילד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

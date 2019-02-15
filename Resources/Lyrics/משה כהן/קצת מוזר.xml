@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קצת מוזר 2</title>
+        <singer classification="unknown">משה כהן</singer>
+        <writer>סמיר שוקרי</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קצת מוזר</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אולי הייתי קצת מוזר, </l>
+          <l>אולי קצת משונה</l>
+          <l>חיפשתי דרך לך לומר</l>
+          <l>אני עוד אשתנה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חיזרי אלי ותני לי צ'אנס</l>
+          <l>חזרי אהובתי</l>
+          <l>ואז אוכל לומר לך </l>
+          <l>מה מבקש ליבי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלכת בלי לומר לי</l>
+          <l>מדוע ועל מה</l>
+          <l>סגרת את הדלת</l>
+          <l>ולא אמרת אף מילה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מכתב לא השארת לי</l>
+          <l>לא נתת אף סימן</l>
+          <l>הכל התפוגג, נעלם</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אולי הייתי קצת מוזר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>התקווה שלי</title>
+        <singer classification="female singer">גלית פלורנץ</singer>
+        <writer>גלית פלורנץ</writer>
+        <composer>גלית פלורנץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>התקווה שלי</head>
+        <lg number="1" type="stanza">
+          <l>התקווה שלי תהיה אתה תהיה אתה</l>
+          <l>כמו שאתה כזה מן יחיד ומיוחד שונה כל כך</l>
+          <l>ובונה את האחד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וברווח שבין האנשים לשים הרבה חמאה</l>
+          <l>שתחזק את החמלה</l>
+          <l>ובין האותיות והמילים</l>
+          <l>לשתול חום ואהבה וכמה חיוכים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה נכה בחוץ וזה נכה בפנים</l>
+          <l>זאת יפה כל כך בלתי מושגת</l>
+          <l>ומוסכניק זהב עם נשמת אלוהים</l>
+          <l>ומצביא גדול נרדם </l>
+          <l>ואחד כותב שירים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וברווח שבין האנשים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יבוא עוד יום נראה את השלם על חלקיו</l>
+          <l>כל צמח עץ שדה ירוק ועיר על בנינה</l>
+          <l>מאות מאות אלפי אינספור פרטים</l>
+          <l>כולם בונים את התמונה הבט מלמעלה זה אחד וזאת תקווה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

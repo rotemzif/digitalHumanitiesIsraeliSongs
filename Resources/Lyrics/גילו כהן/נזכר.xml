@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נזכר 2</title>
+        <singer classification="unknown">גילו כהן</singer>
+        <writer>גילו כהן</writer>
+        <composer>גילו כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נזכר</head>
+        <lg number="1" type="stanza">
+          <l>מביט לרחוב שלנו, מגלה חתך עמוק </l>
+          <l>כשההמון צוהל ברעש אני שומע קול רחוק </l>
+          <l>תיגע בעצב בכאב שאוכל אותך כטרף </l>
+          <l>הגבר קולך ואין תקשיב ללב שמכווץ השכל </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קוטף עוד פרח במדבר ונזכר את שהיה איתנו </l>
+          <l>לאן נושבת מנגינה כשמתרחקת מאוזנינו </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אדם לבוש בעצמך כשמתאחה בך השבר </l>
+          <l>תכתוב מילות פרידה הכן עט, דיו ואבן </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קוטף עוד פרח במדבר ונזכר את שהיה איתנו </l>
+          <l>לאן נושבת מנגינה כשמתרחקת מאוזנינו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

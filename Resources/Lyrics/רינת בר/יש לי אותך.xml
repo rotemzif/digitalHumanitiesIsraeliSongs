@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לי אותך 6</title>
+        <singer classification="female singer">רינת בר</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לי אותך</head>
+        <lg number="1" type="stanza">
+          <l>אדם אחד חכם</l>
+          <l>לימד אותי</l>
+          <l>העבר לא משנה</l>
+          <l>וכל השאר זמני</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תהני מהחיים</l>
+          <l>אל תגעי באש</l>
+          <l>תקבלי באהבה</l>
+          <l>רק מה שיש</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יש לי אותך </l>
+          <l>וזה כל מה שיש לי </l>
+          <l>תן לי את הלב </l>
+          <l>ואל תתחמק לי</l>
+          <l>אוהבת אותך </l>
+          <l>אז תן לי את היד</l>
+          <l>אני שלך לעד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נהנה ממה שיש </l>
+          <l>לא צריך יותר</l>
+          <l>תשבור את השעון</l>
+          <l>אין מה למהר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לצידך אני מלכה</l>
+          <l>והכל פשוט </l>
+          <l>כמו שזה אני איתך</l>
+          <l>עפה בקלות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יש לי אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילד איש</title>
+        <singer classification="male singer">עוזי חיטמן</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>עוזי חיטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילד איש</head>
+        <lg number="1" type="stanza">
+          <l>אולי על הפנים, נוסף לי איזה קמט,</l>
+          <l>ושערה לבנה עיטרה את ראשי.</l>
+          <l>אבל עמוק בפנים, אני עדיין ילד,</l>
+          <l>ובין הילדים אני חופשי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ילד איש, ילד איש,</l>
+          <l>לא תינוק ולא קשיש.</l>
+          <l>אחד כזה באמצע,</l>
+          <l>ילד איש.</l>
+          <l>ילד איש, ילד איש,</l>
+          <l>כל חיי אני מרגיש,</l>
+          <l>גם הילד, גם האיש,</l>
+          <l>או בקיצור - ילדיש.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אולי כל צעדי, הפכו כבדים פי אלף,</l>
+          <l>וגם נשימתי כבדה יותר.</l>
+          <l>אך למרות זאת, ידידי,</l>
+          <l>אני אותו הילד.</l>
+          <l>וכך עד סוף ימי כבר אשאר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ילד איש, ילד איש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

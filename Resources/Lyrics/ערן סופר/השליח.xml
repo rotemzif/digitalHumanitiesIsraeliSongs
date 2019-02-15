@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השליח</title>
+        <singer classification="unknown">ערן סופר</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השליח</head>
+        <lg number="1" type="stanza">
+          <l>כל ימי על הקטנוע</l>
+          <l>חבילות ומכתבים</l>
+          <l>בשרב וגם בגשם</l>
+          <l>סע במכתבים</l>
+          <l>כן אני הוא השליח</l>
+          <l>שתקוע בצמתים</l>
+          <l>ורוצה רק להגיע</l>
+          <l>אל אהובתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ובלילה בא אלייך</l>
+          <l>ונופל בזרועותייך</l>
+          <l>ומביא לך במשלוח</l>
+          <l>את אהבתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל העיר כולה היא בה היא</l>
+          <l>סימתאות ורחובות</l>
+          <l>נגד מול ואם הרוח</l>
+          <l>מחפש כתובות</l>
+          <l>והנה אך את מצאת לי</l>
+          <l>להביא את משלוחי</l>
+          <l>גם הלילה עוד תגיע</l>
+          <l>אנא אל תלכי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ובלילה בא אלייך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לילה לילה...</l>
+          <l>בא אלייה...</l>
+          <l>ונופל בזרועותייה...</l>
+          <l>ומביא לה...</l>
+          <l>במשלוח את אהבתו...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ובלילה בא אלייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

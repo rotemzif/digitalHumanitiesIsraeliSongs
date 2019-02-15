@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כוכב נופל 5</title>
+        <singer classification="unknown">תומר בן אפרים</singer>
+        <writer>תומר בן אפרים</writer>
+        <composer>תומר בן אפרים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כוכב נופל</head>
+        <lg number="1" type="stanza">
+          <l>מהאור אל הצללים, </l>
+          <l>לימים שנסבלים רק לבד, </l>
+          <l>מנסה את כל הגלולות, </l>
+          <l>מתמסר לזיכרונות לאט. </l>
+          <l>לפעמים אתה זוחל, </l>
+          <l>מתעוות, לא מסתגל. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך זה ליפול כוכב? </l>
+          <l>איך זה לצלול למטה עכשיו </l>
+          <l>ולראות שהכול נרקב? </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתקשר, ממהר לנתק. </l>
+          <l>מתחבר ומתפרק מיד. </l>
+          <l>הנה יום רודף עוד יום, </l>
+          <l>אתה מחוק, אתה יתום. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך זה ליפול כוכב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני גונב לא בשביל הכסף</title>
+        <singer classification="male singer">מאיר בנאי</singer>
+        <writer>מאיר בנאי</writer>
+        <composer>מאיר בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני גונב לא בשביל הכסף</head>
+        <lg number="1" type="stanza">
+          <l>אני גונב לא בשביל הכסף</l>
+          <l>אני רוצח לא כדי להרוג</l>
+          <l>אני יורה רק בשביל הרשף</l>
+          <l>ישן ביום ובלילה יוצא לעבוד</l>
+          <l>סתיו אצלי זה פחד</l>
+          <l>והקיץ זה תסכול גמור</l>
+          <l>אני משתולל בלילה ברחובות</l>
+          <l>המנעול אצלי בדלת שבור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>האורות ברחובות מסוממים</l>
+          <l>המכוניות משתוללות כמטורפות</l>
+          <l>אנשים ממשהו בורחים</l>
+          <l>אני צורח אליהם מהגגות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הי אתה חכה עוד רגע</l>
+          <l>אל תפרוש כבר כנפיים</l>
+          <l>אני סך הכל חלק מהטבע</l>
+          <l>גם אם אני עף בשמיים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>האורות ברחובות מסוממים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

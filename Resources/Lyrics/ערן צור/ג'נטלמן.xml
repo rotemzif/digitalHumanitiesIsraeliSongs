@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ג נטלמן</title>
+        <singer classification="male singer">ערן צור</singer>
+        <writer>ערן צור</writer>
+        <composer>ערן צור</composer>
+        <album>כל מה שאנושי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ג'נטלמן</head>
+        <lg number="1" type="stanza">
+          <l>ג'נטלמן הוא גבר שמחזיק את הדלת </l>
+          <l>דואג שהגברת תיכנס ראשונה</l>
+          <l>ג'נטלמן הוא גבר שמחזיק את הדלת </l>
+          <l>דואג שהגברת תעבור ראשונה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היא צריכה להיות נינוחה, משוחררת </l>
+          <l>היא בטריטוריה שלה </l>
+          <l>עולה על המסלול, אוספת תאוצה </l>
+          <l>ממריאה אל האופק </l>
+          <l>אל עבר השקיעה הפרוותית החמה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

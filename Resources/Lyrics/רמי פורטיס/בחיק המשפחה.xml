@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בחיק המשפחה</title>
+        <singer classification="male singer">רמי פורטיס</singer>
+        <writer>רמי פורטיס</writer>
+        <composer>אקורדים</composer>
+        <album>חצי אוטומטי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בחיק המשפחה</head>
+        <lg number="1" type="stanza">
+          <l>בתים דולפים ממתח ומעודף ציפיות</l>
+          <l>מחכים לרצח שאחרי הפרסומות.</l>
+          <l>המנחה מופיע והנה החדשות</l>
+          <l>שולף את האקדח ויורה במצלמות.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עוד יום נפלא בחיק המשפחה</l>
+          <l>עובר עליך אי שם על הספה.</l>
+          <l>עוד יום נ-פ-ל-א</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בקרוב עוד פרק עם סוטים ואסונות</l>
+          <l>דוגמנית ששרה והרבה, הרבה דמעות.</l>
+          <l>אור כחול זורח מתוך החלונות</l>
+          <l>מחיאות כפיים ודם על הקירות.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עוד יום נפלא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

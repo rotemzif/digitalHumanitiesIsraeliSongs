@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר המעלות 6</title>
+        <singer classification="unknown">סדנת שכונת התקוה</singer>
+        <writer>בצלאל אלוני</writer>
+        <composer>בנימין עציוני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר המעלות</head>
+        <lg number="1" type="stanza">
+          <l>סגול כהה לי בנשמה</l>
+          <l>דם ויזע ודמעות</l>
+          <l>ולא אדע למי ולמה</l>
+          <l>ומה כדאי בכלל לראות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>סגול כהה לי בנשמה</l>
+          <l>קצף ים ואוניות</l>
+          <l>ובבית אבי האדמה</l>
+          <l>זועקת שיר שיר המעלות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שיר המעלות ליופי ולתום</l>
+          <l>שיר המעלות היום ובכל יום</l>
+          <l>שיר המעלות פה לכל כאב</l>
+          <l>שיר המעלות לך מכל אוהב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יכול אדם לחיות מאה</l>
+          <l>ואת עינייך לא לראות</l>
+          <l>יכול אדם לחיות מאה</l>
+          <l>ובבנייך רק לטעות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>סגול כהה לו כל היום</l>
+          <l>שחור כמעט בלי לראות</l>
+          <l>ולכל הבא קורא שלום</l>
+          <l>שלום בשיר המעלות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שיר המעלות ליופי ולתום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

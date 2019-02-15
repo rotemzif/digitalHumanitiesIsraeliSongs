@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לתמיד</title>
+        <singer classification="unknown">רגב 2</singer>
+        <writer>רגב</writer>
+        <composer>רגב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לתמיד</head>
+        <lg number="1" type="stanza">
+          <l>כשהיא תבוא הלילות הריקים ייעלמו </l>
+          <l>החלקים השקטים ישמעו כשהיא תבוא </l>
+          <l>כשזה יקרה כל החיפושים יגמרו </l>
+          <l>כאילו שלא היו מעולם </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והיא תבוא כמו קרן שמש </l>
+          <l>אל תוך החדרים החשוכים </l>
+          <l>ותאיר מבפנים </l>
+          <l>והיא תבוא בלי להודיע </l>
+          <l>כאילו שהייתה כאן תמיד </l>
+          <l>כן היא תבוא לתמיד.. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשהיא תגיע הרי יום אחד היא תופיע </l>
+          <l>תמלא את הכלום והכל </l>
+          <l>היא תגיע פתאום </l>
+          <l>בלי להגיד שום דבר </l>
+          <l>הכל יהיה כל כך מוכר וידוע </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והיא תבוא כמו קרן שמש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

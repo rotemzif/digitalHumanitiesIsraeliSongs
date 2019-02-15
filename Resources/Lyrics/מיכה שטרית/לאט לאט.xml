@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לאט לאט 3</title>
+        <singer classification="male singer">מיכה שטרית</singer>
+        <writer>מיכה שטרית</writer>
+        <composer>missing</composer>
+        <album>סנטיאגו דה קובה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לאט לאט</head>
+        <lg number="1" type="stanza">
+          <l>חושב על הריק</l>
+          <l>על האפשרות למלא</l>
+          <l>ליצוק איזשהו תוכן</l>
+          <l>לתפוס מעט</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חושב על הזמן</l>
+          <l>על האפשרות להאט</l>
+          <l>ליצור מרכז כובד</l>
+          <l>לתפוס מרחק</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לאט, לאט יבואו המבקשים את המחשבה</l>
+          <l>לאט, לאט תבואי גם את</l>
+          <l>לאט, לאט יבואו המבקשים את המחשבה</l>
+          <l>לאט, לאט תבואי גם את</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חושב על האיך</l>
+          <l>ולמה אם בכלל</l>
+          <l>על כל בדל של אפשרות</l>
+          <l>להתאמץ כדאי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ממילא זה מפתיע</l>
+          <l>ואתה אף פעם לא מוכן</l>
+          <l>אז קח את זה ככה</l>
+          <l>קח את זה קל</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לאט, לאט יבואו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

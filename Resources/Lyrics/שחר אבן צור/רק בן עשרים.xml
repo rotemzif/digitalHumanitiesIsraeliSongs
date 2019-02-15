@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק בן עשרים</title>
+        <singer classification="unknown">שחר אבן צור</singer>
+        <writer>שחר אבן צור</writer>
+        <composer>שחר אבן צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק בן עשרים</head>
+        <lg number="1" type="stanza">
+          <l>בלחיצה אחת רכה,</l>
+          <l>הוא יהרוג אותך.</l>
+          <l>האיש עם הרובה והמדים,</l>
+          <l>שחי חיים כפולים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הביתה הוא רוצה לחזור,</l>
+          <l>בריא ושלם, הוא לא מרגיש גיבור.</l>
+          <l>רק בן עשרים,</l>
+          <l>לא פוחד, הוא מעמיד פנים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לפקודה הוא יצייץ ויפתח באש.</l>
+          <l>הוא מרגיש כובש פולש, צעיר מדי להתבייש.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הביתה הוא רוצה לחזור...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הוא רק בורג במכונה,</l>
+          <l>השורה התחתונה.</l>
+          <l>הוא לא מכיר את המח"ט,</l>
+          <l>שוכב בבוץ, חולם על יום שבת.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הביתה הוא רוצה לחזור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

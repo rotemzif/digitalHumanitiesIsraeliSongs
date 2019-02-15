@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ביילמוס</title>
+        <singer classification="male singer">רון שובל</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ביילמוס</head>
+        <lg number="1" type="stanza">
+          <l>עכשיו נרקוד</l>
+          <l>זה ריקוד שלא צריך ללמוד</l>
+          <l>ריקוד מוזר</l>
+          <l>כל מה שאסור עכשיו מותר</l>
+          <l>לילה ללא מעצור</l>
+          <l>לילה שלא יבוא</l>
+          <l>אין בו כוכב מיותר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ביילמוס</l>
+          <l>תני לקצב לנצח הוא הבוס</l>
+          <l>אז יאללה כל הלילה</l>
+          <l>ביילמוס</l>
+          <l>תני לקצב לכסח להרוס</l>
+          <l>אז יאללה כל הלילה</l>
+          <l>ביילמוס</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נחזיק חזק</l>
+          <l>בואי ונקטין את המרחק</l>
+          <l>ברחבה כל תנועה</l>
+          <l>היא אות של אהבה</l>
+          <l>איזה ריקוד מהמם</l>
+          <l>איזה ריקוד מטמטם</l>
+          <l>את ואני להבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ביילמוס...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נרקוד עכשיו</l>
+          <l>רק תישארי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ביילמוס...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

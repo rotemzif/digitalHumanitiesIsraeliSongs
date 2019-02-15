@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הללויה 8</title>
+        <singer classification="female singer">גלי עטרי</singer>
+        <writer>שמרית אור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הללויה</head>
+        <lg number="1" type="stanza">
+          <l>הללויה לעולם,</l>
+          <l>הללויה ישירו כולם</l>
+          <l>במילה אחת בודדה</l>
+          <l>הלב מלא בהמון תודה</l>
+          <l>והולם גם הוא - איזה עולם נפלא.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הללויה עם השיר,</l>
+          <l>הללויה על יום שמאיר,</l>
+          <l>הללויה על מה שהיה,</l>
+          <l>ומה שעוד לא היה -</l>
+          <l>הללויה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הללויה לעולם</l>
+          <l>הללויה ישירו כולם</l>
+          <l>והענבלים הגדולים</l>
+          <l>יהדהדו בהמון צלילים</l>
+          <l>ואתנו הם יאמרו, הללויה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הללויה עם השיר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הללויה על הכל</l>
+          <l>הללו על מחר ואתמול</l>
+          <l>הללויה, ותנו יד ביד</l>
+          <l>ושירו מלב אחד -</l>
+          <l>הללויה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

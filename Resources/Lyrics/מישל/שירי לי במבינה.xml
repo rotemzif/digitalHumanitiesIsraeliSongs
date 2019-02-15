@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שירי לי במבינה</title>
+        <singer classification="female singer">מישל</singer>
+        <writer>רמי לב</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שירי לי במבינה</head>
+        <lg number="1" type="stanza">
+          <l>על הקש בחצר </l>
+          <l>היא עולה ורוקדת</l>
+          <l>מסביב כל הכפר</l>
+          <l>מתבונן בה בשקט</l>
+          <l>בשמלה לבנה</l>
+          <l>ועם קול של מלאך</l>
+          <l>אל שמחת נעורים</l>
+          <l>את כולם היא תיקח</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שירי, שירי, שירי </l>
+          <l>שירי לי במבינה</l>
+          <l>כמה טוב לשמוח מקולך החם.</l>
+          <l>שירי , שירי, שירי</l>
+          <l>שירי לי במבינה</l>
+          <l>העירי את הילד שיש בכל אדם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו חלום צבעוני</l>
+          <l>כמו ציור בשמיים</l>
+          <l>הלבבות נפתחים</l>
+          <l>יש שמחה בעיניים</l>
+          <l>גם המים בנחל </l>
+          <l>גם ציפור על הגג</l>
+          <l>מחסירים פעימה</l>
+          <l>מול השיר שנולד.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שירי, שירי, שירי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

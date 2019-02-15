@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ליד החלון</title>
+        <singer classification="female singer">חוה אלברשטיין</singer>
+        <writer>רחל</writer>
+        <composer>דרורה חבקין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ליד החלון</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>יש גם נחת, גם משהו נחת</l>
+          <l>בתבל הנוגה הזאת:</l>
+          <l>בחצר הקטנה, מתחת,</l>
+          <l>לשכנתי - גינת ירקות.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בגינה, בתלמיה השניים,</l>
+          <l>תלתלי אפונה יפים.</l>
+          <l>וצנונית חכלילית עיניים</l>
+          <l>וזנבות בצל חצופים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יש גם נחת...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ומבין התלמים מתחת</l>
+          <l>אל חלון חדרי המורם</l>
+          <l>דמות - עבר אהובה ונשכחת</l>
+          <l>מטפסה ומבטת דומם.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יש גם נחת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חזור אחי 3</title>
+        <singer classification="male singer">שריף</singer>
+        <writer>הרצל צפר</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חזור אחי</head>
+        <lg number="1" type="stanza">
+          <l>למה אבא שעזבת</l>
+          <l>את אחי איתך לקחת</l>
+          <l>הוא היה לי אח ורע</l>
+          <l>זה קשה אתה יודע</l>
+          <l>בתמונות ילדות שלנו</l>
+          <l>אני מביט אני מביט</l>
+          <l>בחדרי הלב שמרתי</l>
+          <l>אהבתי לך אחי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מי יתן אראה פניך</l>
+          <l>בלילות חולם עליך</l>
+          <l>אבא לא יפריד בינינו</l>
+          <l>חזור אחי חזור אחי</l>
+          <l>מי יתן אראה פנייך</l>
+          <l>בלילות חולם עליך</l>
+          <l>אבא לא יפריד בינינו</l>
+          <l>חזור אחי חזור אחי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם אותי אתה שומע</l>
+          <l>אל תבכה אני יודע</l>
+          <l>הכאב שבתוכנו</l>
+          <l>רק הזמן מפריד בינינו</l>
+          <l>יום יבוא נהיה ביחד</l>
+          <l>זה לא חלום הזמן יעיד</l>
+          <l>בחדרי הלב שמרתי</l>
+          <l>אהבתי לך אחי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מי יתן אראה פניך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

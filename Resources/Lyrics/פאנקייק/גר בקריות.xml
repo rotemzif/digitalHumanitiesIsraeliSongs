@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גר בקריות</title>
+        <singer classification="band">פאנקייק</singer>
+        <writer>יונתן גת</writer>
+        <composer>רועי דותן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גר בקריות</head>
+        <lg number="1" type="stanza">
+          <l>היא שאלה אותי איך קוראים לך?</l>
+          <l>היא שאלה אותי מאיפה אתה?</l>
+          <l>אני אמרתי לה שאני מהקריות</l>
+          <l>אז היא אמרה לי אני רוצה אותך</l>
+          <l>היא אמרה לי רוצה לשכב איתך</l>
+          <l>אבל אין לי איך להגיע לקריות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני כל הזמן מפסיד ת'בחורות</l>
+          <l>כי אין להן איך להגיע לקריות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני אמרתי לה סעי באוטובוס</l>
+          <l>היא אמרה לי שכל תפוס</l>
+          <l>אני אמרתי לה יש רכבת לחיפה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני כל הזמן מפסיד ת'בחורות</l>
+          <l>כי אין להן איך להגיע לקריות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

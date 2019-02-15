@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו מלך 2</title>
+        <singer classification="male singer">משה פרץ</singer>
+        <writer>משה פרץ</writer>
+        <composer>משה פרץ</composer>
+        <album>זיקוקים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו מלך</head>
+        <lg number="1" type="stanza">
+          <l>מגיע לילה היא יושבת למולי</l>
+          <l>שולחת לי חיוך שואלת איך אני</l>
+          <l>היא מזיזה את הגוף עושה את מה שהיא יודעת</l>
+          <l>והיא נוגעת בנשמה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה אני עושה אני לא יודע אם כדאי</l>
+          <l>פתאום כאילו משהו משתלט עלי</l>
+          <l>רוצה אליה ושואל עצמי אולי</l>
+          <l>אולי אני אוהב אותה יותר מדי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תני לו שירגיש כמו מלך</l>
+          <l>הוא יעטוף אותך באהבה</l>
+          <l>תני לו שירגיש כמו מלך</l>
+          <l>ייתן לך את הלב והנשמה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איך היא יודעת לשחק את המשחק</l>
+          <l>ומעיפה את כל הרגשות לצד</l>
+          <l>תמיד היא משיגה את מה שהיא רוצה </l>
+          <l>אני שואל עוד פעם, שואל עוד פעם</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מה אני עושה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

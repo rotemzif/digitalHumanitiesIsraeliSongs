@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כולם פה מורדים</title>
+        <singer classification="band">סדרני הדשא</singer>
+        <writer>משה חג'ג'</writer>
+        <composer>רונן חג'ג'</composer>
+        <album>רקוב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כולם פה מורדים</head>
+        <lg number="1" type="stanza">
+          <l>כולם פה מורדים </l>
+          <l>עם אפודי קרב </l>
+          <l>ולא מעילי עור, </l>
+          <l>ולא מגפי עור. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>דוחסים את דוושת </l>
+          <l>האופנוע, </l>
+          <l>לכל היותר נעלי </l>
+          <l>צבא, בדרך כלל יחפים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

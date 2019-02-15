@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הוא פגע בי אמא</title>
+        <singer classification="female singer">זהבה בן</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הוא פגע בי אמא</head>
+        <lg number="1" type="stanza">
+          <l>בשכונה הקטנה מחכה לבדה והוא לא מגיע</l>
+          <l>האביר של חיי לקח נעורי ונסע לו מכאן</l>
+          <l>אם הייתי שומעת למי שאמר שהוא רק יפגע בי</l>
+          <l>מצבי לפחות היה נראה קצת טוב יותר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הוא פגע בי אמא לא ידעתי מה לעשות</l>
+          <l>את ליבו הפתיע הוא עשהלי רק בושות</l>
+          <l>הוא פגע בי אמא לא יודעת מה לעשות</l>
+          <l>כי רציתי איתו את הכל לנסות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מחכה לו ביום מחכה לו בליל וכואבת בשקט</l>
+          <l>הרגשה משונה נשמה מעונה מחכה בתמימות</l>
+          <l>אם הייתי חושבת צעד קדימה לפני שנסחפתי</l>
+          <l>מצבי לפחות היה נראה קצת טוב יותר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הוא פגע בי אמא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

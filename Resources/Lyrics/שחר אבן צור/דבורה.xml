@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דבורה 2</title>
+        <singer classification="unknown">שחר אבן צור</singer>
+        <writer>שחר אבן צור</writer>
+        <composer>שחר אבן צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דבורה</head>
+        <lg number="1" type="stanza">
+          <l>דבורה שעבדה בזנות בעיר הגדולה</l>
+          <l>יש לה עודף מרץ ואין לה ברירה</l>
+          <l>לא היא לא נותנת לשבור את השיא שקבעה</l>
+          <l>היא המטפלת ואני בחלוק לבן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ממלון למלון  ממיטה למיטה</l>
+          <l>מוכרת אהבה</l>
+          <l>לא מאמינה במילים רק במעשים</l>
+          <l>היא יכלה להיות דוגמנית של קלווין קליין במגזין</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>החתול שלה חלה בלוקימיה הוא מת היא עזבה</l>
+          <l>כל לילה היא בוכה על גורלו המר</l>
+          <l>דבורה שרואה לכולנו את הצד הטוב</l>
+          <l>היא אותי לימדה להסתכל מקרוב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ממלון למלון  ממיטה למיטה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

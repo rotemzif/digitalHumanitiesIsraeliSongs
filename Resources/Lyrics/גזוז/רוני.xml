@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוני</title>
+        <singer classification="band">גזוז</singer>
+        <writer>דני סנדרסון</writer>
+        <composer>דני סנדרסון</composer>
+        <album>גלגול שני</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוני</head>
+        <lg number="1" type="stanza">
+          <l>רוני, את אומרת</l>
+          <l>שהכל נגמר</l>
+          <l>ואת מצטערת</l>
+          <l>אין לך מה לומר</l>
+          <l>לפני שאת עוזבת</l>
+          <l>נשמטת מידי</l>
+          <l>קלף נואש אזרוק לך</l>
+          <l>רוני אל תלכי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רוני, אל תלכי,</l>
+          <l>השמש לא תזרח עלי</l>
+          <l>כשאת לא לידי</l>
+          <l>רוני, אל תלכי</l>
+          <l>אני פשוט רוצה אותך איתי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רוני, בלעדייך</l>
+          <l>אין לי שום כיוון</l>
+          <l>אפליג בין מכתבייך</l>
+          <l>שיכור על הסיפון</l>
+          <l>לא רוצה כל ערב</l>
+          <l>לצאת ולחפש</l>
+          <l>תרגום בגוף אחרת</l>
+          <l>תני לי מה שיש.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רוני, אל תלכי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רוני, יש בטבע</l>
+          <l>רגע של עצבות</l>
+          <l>אך אל תתני לרגע</l>
+          <l>להפוך למציאות.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רוני, אל תלכי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

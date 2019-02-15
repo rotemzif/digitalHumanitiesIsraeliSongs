@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>I m Amazed</title>
+        <singer classification="unknown">קרולין לנגפורד</singer>
+        <writer>קרולין לנגפורד</writer>
+        <composer>קרולין לנגפורד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>I'm Amazed</head>
+        <lg number="1" type="stanza">
+          <l>I'm amazed, that i'm still standing here </l>
+          <l>I'm amazed,that is still kind of clear </l>
+          <l>I'm amazed that you still want me </l>
+          <l>In down deep in this endless sea </l>
+          <l>Swimming for my life, to here </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>I'm amazed, each day i'm awake </l>
+          <l>I'm amazed, this time no mistake </l>
+          <l>I'm amazed that you still want me </l>
+          <l>Despite the promise of eternity </l>
+          <l>I survived, I'm alive, you see </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>You watched me up you watched me down </l>
+          <l>you helped me up when i made no sound </l>
+          <l>I survived, you see </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>I'm amazed....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

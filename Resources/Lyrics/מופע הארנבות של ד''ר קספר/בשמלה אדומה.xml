@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בשמלה אדומה 3</title>
+        <singer classification="unknown">מופע הארנבות של ד ר קספר</singer>
+        <writer>רותי ספרוני</writer>
+        <composer>missing</composer>
+        <album>מופע הארנבות של ד"ר קספר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בשמלה אדומה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>את לא מבינה את סתם ילדה קטנה</l>
+          <l>מה רוצים ממך כולם קוראים בשמך</l>
+          <l>אל תהיי תמימה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בשמלה אדומה ושתי צמות</l>
+          <l>ילדה קטנה יחידה ותמה</l>
+          <l>עמדה ושאלה למה</l>
+          <l>וכל החיילים וכל התותחים</l>
+          <l>עמדו חיוורי פנים ולא מצאו תשובה</l>
+          <l>עמדו חיוורי פנים ולא מצאו תשובה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את לא מבינה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בשמלה אדומה ושתי צמות...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את לא מבינה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>בשמלה אדומה ומסטקא!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

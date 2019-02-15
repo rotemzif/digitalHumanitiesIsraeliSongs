@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ישקני</title>
+        <singer classification="male singer">סגיב כהן</singer>
+        <writer>מתוך שיר השירים</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ישקני</head>
+        <lg number="1" type="stanza">
+          <l>יִשָּׁקֵנִי מִנְּשִׁיקוֹת פִּיהוּ </l>
+          <l>כִּי טוֹבִים דּדֶיךָ מִיָּיִן </l>
+          <l>עוּרִי צָפוֹן וּבוֹאִי תֵימָן </l>
+          <l>הָפִיחִי גַנִּי יִזְלוּ בְשָׂמָיו </l>
+          <l>יָבא דוֹדִי לְגַנּוֹ וְיאכַל פְּרִי מְגָדָיו </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קוֹל דּוֹדִי הִנֵּה זֶה בָּא </l>
+          <l>מְדַלֵּג עַל הֶהָרִים מְקַפֵּץ עַל הַגְּבָעוֹת </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בָּאתִי לְגַנִּי אֲחֹתִי כַלָּה </l>
+          <l>אָרִיתִי מוֹרִי עִם בְּשָׂמִי </l>
+          <l>אָכַלְתִּי יַעְרִי עִם דִּבְשִׁי </l>
+          <l>שָׁתִיתִי יֵינִי עִם חֲלָבִי </l>
+          <l>אִכְלוּ רֵעִים שְׁתוּ וְשִׁכְרוּ דּוֹדִים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קוֹל דּוֹדִי הִנֵּה זֶה בָּא </l>
+          <l>מְדַלֵּג עַל הֶהָרִים מְקַפֵּץ עַל הַגְּבָעוֹת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

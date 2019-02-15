@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סטיתי</title>
+        <singer classification="unknown">שימי ביטון</singer>
+        <writer>שימי ביטון</writer>
+        <composer>שימי ביטון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סטיתי</head>
+        <lg number="1" type="stanza">
+          <l>אוספת את חייה בארגזים </l>
+          <l>סוגרת לאט לאט את כל הפחדים </l>
+          <l>ויש דברים שדווקא נשארים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סטיתי מהמסלול שלי... </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכשיו עוברת למקום שבו הכל נראה גדול </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל מה שאת צריכה זה לתת אמון בעצמך </l>
+          <l>כל מה שאת צריכה זה לדעת לקבל </l>
+          <l>כל מה שאת צריכה זה לתת, לתת </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>סטיתי מהמסלול שלי... </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>עכשיו עוברת למקום שבו הכל נראה גדול</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

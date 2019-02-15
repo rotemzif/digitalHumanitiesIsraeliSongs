@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בהופעה של שלום</title>
+        <singer classification="unknown">לאה זלוטניק</singer>
+        <writer>לאה זלוטניק</writer>
+        <composer>לאה זלוטניק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בהופעה של שלום</head>
+        <lg number="1" type="stanza">
+          <l>בוא נדליק נרות ונתנדנד</l>
+          <l>מול הכישוף על הבמה</l>
+          <l>בוא נחזיק ידיים</l>
+          <l>כשמופרת הדממה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשהוא אומר</l>
+          <l>נגד הרוח למה הוא מתכוון</l>
+          <l>כשהוא אומר</l>
+          <l>משיח לא בא למי הוא מכוון</l>
+          <l>עומדים כאן המומים</l>
+          <l>צפופים מיוזעים</l>
+          <l>אויר מלא זרמים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בוא נדליק נרות ונתנדנד</l>
+          <l>כמו שהיינו בני עשרים</l>
+          <l>בוא נרים קולנו לגבהים</l>
+          <l>עם הכלים המנגנים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כשהוא אומר נגד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

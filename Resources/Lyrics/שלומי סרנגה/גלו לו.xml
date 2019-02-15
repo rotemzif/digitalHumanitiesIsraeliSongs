@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גלו לו</title>
+        <singer classification="male singer">שלומי סרנגה</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>כאמל אל טאוויל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גלו לו</head>
+        <lg number="1" type="stanza">
+          <l>אולו לו, אולו לו, אולו לו, כמה שאהבתי</l>
+          <l>אולו לו, אולו לו הגידו, שהתגעגעתי</l>
+          <l>גלו לו, הגידו, אחד בליבי הוא</l>
+          <l>גלו לו, הגידו, לעד אהובי הוא </l>
+          <l>בעצב שוקע ומתגעגע - ומתגעגע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בא הקדיש לי חיים והיה לי </l>
+          <l>ובעיניו היפות האיר לי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גלו לו שזה הלב, עדיין אותו אוהב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אלוף נעורי, האור של חיי </l>
+          <l>בתוך עצמי שוקע ומתגעגע</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אולו לו, אולו לו, אולו לו כמה שאהבתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

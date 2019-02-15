@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פנסים</title>
+        <singer classification="unknown">רז שמואלי</singer>
+        <writer>רז שמואלי</writer>
+        <composer>רז שמואלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פנסים</head>
+        <lg number="1" type="stanza">
+          <l>אור פנסים בחוץ </l>
+          <l>כינור מזייף שיר</l>
+          <l>עוזבת הכול לפני </l>
+          <l>שהחושך לתמיד יורד </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אור, מתחילה לרוץ </l>
+          <l>שלא יברח האוויר </l>
+          <l>אחרי שהכול ייגמר </l>
+          <l>רק הפחד לתמיד שורד </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את הדמעות שלי </l>
+          <l>לא רואים </l>
+          <l>בניתי בעיניים מבוכים </l>
+          <l>החיוך שלי מסתיר </l>
+          <l>החיוך שלי מסתיר </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בוקר חדש על עיר </l>
+          <l>השקט לוחש לי סוד </l>
+          <l>מעכשיו זה רק אני ועצמי </l>
+          <l>לא אמעד יותר לא אפול </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את הדמעות שלי </l>
+          <l>לא רואים </l>
+          <l>בניתי בעיניים מבוכים </l>
+          <l>החיוך שלי מסתיר </l>
+          <l>החיוך שלי מסתיר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

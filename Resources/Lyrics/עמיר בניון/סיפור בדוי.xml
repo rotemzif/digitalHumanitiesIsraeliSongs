@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סיפור בדוי</title>
+        <singer classification="male singer">עמיר בניון</singer>
+        <writer>עמיר בניון</writer>
+        <composer>עמיר בניון</composer>
+        <album>שלכת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סיפור בדוי</head>
+        <lg number="1" type="stanza">
+          <l>זאת אגדה</l>
+          <l>זה סתם סיפור בדוי של מישהו</l>
+          <l>סתם מי הוא מתעתע אפילו בנו</l>
+          <l>הנה אני רצוי ונאהב</l>
+          <l>הנה את כלה נחשקת</l>
+          <l>שוב אני זר ושונה</l>
+          <l>ואת מה את חושבת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מי ציווה עלייך להפסיק לשיר</l>
+          <l>מי כרת הענפים המתנשאים</l>
+          <l>פשעי היחיד אהבתי לך</l>
+          <l>ההתמכרות למי שאת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הכל כאילו, כאילו אמיתי</l>
+          <l>כאילו שלנו</l>
+          <l>ההמלטות של הנפש מלהודות</l>
+          <l>שהנה אני שקוע בדמיון</l>
+          <l>הנה את שוב לא מובנת</l>
+          <l>קשה פתאום להשתנות</l>
+          <l>ואת לאן את הולכת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מי ציווה עלייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

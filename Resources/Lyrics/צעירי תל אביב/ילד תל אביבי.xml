@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילד תל אביבי</title>
+        <singer classification="unknown">צעירי תל אביב</singer>
+        <writer>רוני אבירם</writer>
+        <composer>אילן גלבוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילד תל אביבי</head>
+        <lg number="1" type="stanza">
+          <l>רחוב קטן ועץ ישן שלפעמים ירוק</l>
+          <l>עשן של אוטובוסים וחיוך קטן מתוק</l>
+          <l>צלילי שירה, צלילי סירנה כל כמה דקות </l>
+          <l>תמיד יש מי שפה צוחק, כשבא לך לבכות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ילד תל אביבי, ילד כמו כולם </l>
+          <l>קצת שמיים, קצת חוף ים, ומה שממולם </l>
+          <l>ילד תל אביבי, ילד עירוני </l>
+          <l>צוחק על העולם, אבל בלב הוא רציני</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אנחנו עוד נראה איך השלום המאוחר </l>
+          <l>עולה בשיר גדול מהבטון שבכיכר </l>
+          <l>כי אחרי חיפוש בכל סמטה וכל פניה</l>
+          <l>גם הוא אנחנו מקווים ימצא פה חנייה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ילד תל אביבי, ילד כמו כולם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מרכז הילדים, מרכז החלומות </l>
+          <l>מרכז העניינים, מרכז האהבות </l>
+          <l>תל אביב היא המרכז של כל כך הרבה קצוות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ילד תל אביבי, ילד כמו כולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

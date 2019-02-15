@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Songs Of Death</title>
+        <singer classification="male singer">ליאור סקר</singer>
+        <writer>ליאור סקר</writer>
+        <composer>ליאור סקר</composer>
+        <album>Happy Ends</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Songs Of Death</head>
+        <lg number="1" type="stanza">
+          <l>We will teach you these songs of death </l>
+          <l>Before you'll know any better </l>
+          <l>Sit and listen to these words of hate </l>
+          <l>You'll play your games a little later </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>Songs of death </l>
+          <l>Songs of death </l>
+          <l>Let us teach you these songs of death </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>And one day you'll die for us all </l>
+          <l>then you'll join mother nature </l>
+          <l>And you ma will look at your dolls </l>
+          <l>And praise god for his grandeur </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>Songs of death... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>Little child Swept away </l>
+          <l>Everyone 'round you say </l>
+          <l>That you must play along </l>
+          <l>Raise your voice </l>
+          <l>Sing the song </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>I will teach you this song of death </l>
+          <l>Before you'll know any better </l>
+          <l>And in my eyes there's a sign of regret </l>
+          <l>But you will forget it later</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

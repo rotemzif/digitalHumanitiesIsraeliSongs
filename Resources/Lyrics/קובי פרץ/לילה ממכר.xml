@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילה ממכר</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>שמעון אוחנה</writer>
+        <composer>שי שיקו חייק</composer>
+        <album>כתוב בשמים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילה ממכר</head>
+        <lg number="1" type="stanza">
+          <l>בערב הנפלא, הבנתי מה נוצר</l>
+          <l>שתקת ולא אמרת לי, לא אמרת דבר</l>
+          <l>הלב, שלי רמז לי, הבט לה בעיניים</l>
+          <l>במבט, אחד הבנתי, ליבי נחצה לשניים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עם החיוך נמסתי , עליי גם להודות</l>
+          <l>עלייך רק חלמתי, ימים וגם לילות</l>
+          <l>וגם כעת כשאת נושקת, נושקת לי קלות</l>
+          <l>מיד את תרגישי, בשפתיי את הדמעות</l>
+          <l>עם החיוך נמסתי , עליי גם להודות</l>
+          <l>עלייך רק חלמתי, ימים וגם לילות</l>
+          <l>וגם כעת כשאת נושקת, נושקת לי קלות</l>
+          <l>מיד את תרגישי, בשפתיי את הדמעות </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשסיפרת לי עליך, הכל היה מוכר</l>
+          <l>כאילו כבר נפגשנו, אי פעם בעבר</l>
+          <l>וכך, לתוך הלילה, שהפך לממכר</l>
+          <l>הבנת גם את, שלא יהיה אחר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עם החיוך נמסתי ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

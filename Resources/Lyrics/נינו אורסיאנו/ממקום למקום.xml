@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ממקום למקום</title>
+        <singer classification="male singer">נינו אורסיאנו</singer>
+        <writer>ארז ברזוליק</writer>
+        <composer>נינו אורסיאנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ממקום למקום</head>
+        <lg number="1" type="stanza">
+          <l>גשם יורד ובגדיך נופלים </l>
+          <l>על שטיח אדום בחדרי </l>
+          <l>הזמן לא עוצר ביני ובינך </l>
+          <l>אז אולי תדברי קצת איתי </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הזמן לא עוצר אנשים משתנים </l>
+          <l>חלומות תמיד נשברים </l>
+          <l>גשם נופל אז אולי תתלבשי </l>
+          <l>אבל אל תסתכלי לעברי </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ברחנו ממקום למקום </l>
+          <l>ולא בגלל הקור </l>
+          <l>תקשיבי הגשם יורד היום </l>
+          <l>עכשיו קצת קשה לחזור </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תציתי סיגריה, נדליק ת' תנור </l>
+          <l>בתוך השתיקה מסתגרים </l>
+          <l>כשבגוף קר ושום דבר לא ברור </l>
+          <l>אז אל תסתכלי לעברי </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ברחנו ממקום למקום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

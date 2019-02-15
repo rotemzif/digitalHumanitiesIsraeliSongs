@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הנה אני ים</title>
+        <singer classification="male singer">מיקי גבריאלוב</singer>
+        <writer>אברהם חלפי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הנה אני ים</head>
+        <lg number="1" type="stanza">
+          <l>עצמתי עיני</l>
+          <l>לראות את החושך שבי</l>
+          <l>והוא כעשן מחסה</l>
+          <l>בריחותי אל תוכי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אינני יכול לעלות מעצמי</l>
+          <l>אל האור המלא הרומז</l>
+          <l>מגובהי אל עומקי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הנה אני ים</l>
+          <l>הרבה אוניות שאבדה להן דרך</l>
+          <l>אל חוף יבשות - מוטלות בין</l>
+          <l>בתרי קרקעי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ודגים מתפצלים</l>
+          <l>ודגים מתפצלים בטירוף</l>
+          <l>להבקיע במו ראשיהם</l>
+          <l>את דפנות הפלדה</l>
+          <l>דגי טרף מארץ תהום</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הנה אני ים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

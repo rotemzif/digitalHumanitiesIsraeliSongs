@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד הסוף ביחד</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>שי ראובני</composer>
+        <album>כמה אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד הסוף ביחד</head>
+        <lg number="1" type="stanza">
+          <l>יודעים שאת אוהבת</l>
+          <l>ועלי לא מוותרת</l>
+          <l>ולמה שאת אומרת</l>
+          <l>את בכלל לא מתכוונת</l>
+          <l>וגם אני יודע</l>
+          <l>שאת איתי כל רגע</l>
+          <l>וליבך עוד משתגע </l>
+          <l>ואלי מתגעגע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז תני לי לאהוב אותך</l>
+          <l>כל דקה כל רגע</l>
+          <l>תני לי להרגיש אותך</l>
+          <l>כי הלב יודע</l>
+          <l>לאהוב בלי פחד</l>
+          <l>עד הסוף ביחד </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רואים  שאת יודעת</l>
+          <l>עד הסוף אותי לקחת</l>
+          <l>ובמה שאת נוגעת</l>
+          <l>את כולם את מנצחת</l>
+          <l>וגם אני יודע</l>
+          <l>שאת איתי כל רגע</l>
+          <l>וליבך עוד משתגע</l>
+          <l>ואלי מתגעגע </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז תני לי לאהוב אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

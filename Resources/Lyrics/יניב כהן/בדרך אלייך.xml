@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בדרך אלייך 2</title>
+        <singer classification="unknown">יניב כהן</singer>
+        <writer>משה דנינו</writer>
+        <composer>משה דנינו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בדרך אלייך</head>
+        <lg number="1" type="stanza">
+          <l>מנסה לסלול את דרכי אלייך</l>
+          <l>אנא פתחי לי את לבך</l>
+          <l>הדרך ארוכה אך אני יודע</l>
+          <l>אעשה הכל למענך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>השאירי את האור דולק בחלונך</l>
+          <l>הדליקי הנרות שבחדרי לבך</l>
+          <l>וכשבוקר יעלה אהיה שוב לצדך</l>
+          <l>עם אלף כינורות אשיר לך</l>
+          <l>רק אותך אוהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לו רק ידעתי אם את עלי חושבת</l>
+          <l>אנא גלי לי את סודך</l>
+          <l>אם ספינתי תחזור ואת אותי אוהבת</l>
+          <l>אתן ידי בכף ידך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>השאירי את האור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

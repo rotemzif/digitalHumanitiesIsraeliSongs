@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בקצה ההר</title>
+        <singer classification="male singer">גידי גוב</singer>
+        <writer>אסף אטדגי</writer>
+        <composer>missing</composer>
+        <album>בקצה ההר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בקצה ההר</head>
+        <lg number="1" type="stanza">
+          <l>בקצה ההר אתה עומד</l>
+          <l>ובקולי קולות אתה צועק</l>
+          <l>מקצה ההר, צועק חזק אל השמיים</l>
+          <l>עד אשר אולי תמצא</l>
+          <l>איזה ענן כזה שיעבור מעליך</l>
+          <l>וישקה אותך במים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בקצה השמש על כנפי ציפור הדרור</l>
+          <l>עד שתפסיק לזכור, ולשבילים הסוף, </l>
+          <l>עד שתגיע לחוף</l>
+          <l>על כנפי ציפור הדרור עד שתפסיק לזכור, </l>
+          <l>עד לירח, עד לסוף עולם הישימון</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בקצה ההר אתה עומד</l>
+          <l>ובקולי קולות אתה צועק</l>
+          <l>מקצה ההר, רוצה לראות את זיו פניה</l>
+          <l>עד אשר אולי תראה איזה פרפר</l>
+          <l>כזה שיעוף עד אליך ויישא אותך אליה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

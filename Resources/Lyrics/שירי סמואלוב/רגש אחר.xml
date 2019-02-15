@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רגש אחר</title>
+        <singer classification="unknown">שירי סמואלוב</singer>
+        <writer>שאולי סמואלוב</writer>
+        <composer>שאולי סמואלוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רגש אחר</head>
+        <lg number="1" type="stanza">
+          <l>ים רוגש סוער,לב אהבה בוער</l>
+          <l>גן פורח בשיא העונה כך אני בקרבך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הדם הזורם , הלב הפועם מי האיש</l>
+          <l>שאלי מביט, אותי כמו מצית</l>
+          <l>ברגש רגש אחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זהו שיר הקדשה, עם המון אהבה</l>
+          <l>שדות של זהב וחצי המלוכה יירדו</l>
+          <l>בשבילך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הדם הזורם , הלב הפועם מי האיש</l>
+          <l>שאלי מביט, אותי כמו מצית</l>
+          <l>ברגש רגש אחר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מהים הוא מביט , צי ספינות הוא</l>
+          <l>משיט, איה הוא האיש מחכה הוא</l>
+          <l>ליום בו אגשים לו חלום</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

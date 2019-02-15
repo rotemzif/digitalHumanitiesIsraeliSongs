@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משוגע עלייך</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>ביגי</writer>
+        <composer>ביגי</composer>
+        <album>משוגע עלייך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משוגע עלייך</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>משוגע משוגע עלייך</l>
+          <l>את יודעת להדליק אותי כל פעם מחדש</l>
+          <l>משוגע משוגע עלייך</l>
+          <l>בגללך אני לא מאופס הראש משוגע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זוכר את היום שבך פגשתי</l>
+          <l>ואת אליי אז בכלל לא התייחסת</l>
+          <l>במבט ראשון התאהבתי</l>
+          <l>וידעתי שהאחרונה זאת את</l>
+          <l>תיראי מתוקה לאן הגענו</l>
+          <l>מי היה מאמין שאנו כאן</l>
+          <l>לדמעות שבאהבה הקדשנו</l>
+          <l>את הכלה אני החתן</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>משוגע משוגע עלייך...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מודה לאל שיש לי אותך</l>
+          <l>את עושה לי על הלב רק טוב</l>
+          <l>את שלי ולעולם אני שלך</l>
+          <l>רק שנמשיך כך תמיד לאהוב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>משוגע משוגע עלייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

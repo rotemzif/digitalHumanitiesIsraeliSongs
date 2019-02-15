@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה הוא מתעורר</title>
+        <singer classification="band">טיפקס</singer>
+        <writer>קובי אוז</writer>
+        <composer>קובי אוז</composer>
+        <album>שביל קליפות הגרעינים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה הוא מתעורר</head>
+        <lg number="1" type="stanza">
+          <l>מה הוא מתעורר</l>
+          <l>תגידי לי מה הוא מתעורר</l>
+          <l>מה הוא מתעורר</l>
+          <l>הלב שלי מה הוא מתעורר</l>
+          <l>באת עכשיו אלי</l>
+          <l>פתאום הוא מתעורר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הכל היה בסדר</l>
+          <l>עד שבאת לכאן</l>
+          <l>חדרת אלי לחדר</l>
+          <l>לא בזמן</l>
+          <l>זה לא היה כדאי</l>
+          <l>פתאום הוא מתעורר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

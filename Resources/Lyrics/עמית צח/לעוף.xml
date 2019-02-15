@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לעוף 14</title>
+        <singer classification="unknown">עמית צח</singer>
+        <writer>טל פורר</writer>
+        <composer>טל פורר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לעוף</head>
+        <lg number="1" type="stanza">
+          <l>נצא היום</l>
+          <l>מחר נתחתן</l>
+          <l>ילדים...וריבים</l>
+          <l>ואז נבין לאן החיים מובילים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אותנו שום דבר לא ישבור</l>
+          <l>אנחנו בין דור לדור</l>
+          <l>וזה לא יעזור</l>
+          <l>כשזה יגמר</l>
+          <l>נעוף</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נצא לטייל</l>
+          <l>סוכריה על מקל</l>
+          <l>בואי נרקוד</l>
+          <l>נסתובב עוד ועוד</l>
+          <l>ואת</l>
+          <l>יחד לאט</l>
+          <l>נתארגן...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אותנו שום דבר לא ישבור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

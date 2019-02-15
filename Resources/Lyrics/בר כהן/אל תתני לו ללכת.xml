@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תתני לו ללכת</title>
+        <singer classification="male singer">בר כהן</singer>
+        <writer>נוריאל שבת</writer>
+        <composer>נוריאל שבת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תתני לו ללכת</head>
+        <lg number="1" type="stanza">
+          <l>לילה בחוץ</l>
+          <l>ואת לבד מפחדת</l>
+          <l>לוקחת נשימה ארוכה</l>
+          <l>אוספת כוחות</l>
+          <l>יוצאת לבד למרפסת</l>
+          <l>קשה לך ואת מחכה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לילה בחוץ ואת לבד</l>
+          <l>אולי את חושבת עליו</l>
+          <l>כי הוא יודע</l>
+          <l>שאת לא יכולה בלעדיו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קחי לו,</l>
+          <l>אל תתני לו לקחת ממך</l>
+          <l>את כל אהבתך</l>
+          <l>אמרי לו,</l>
+          <l>שאת חיה תמיד בשבילו</l>
+          <l>ואל תתני לו ללכת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כמה ימים</l>
+          <l>ואת כבר לא מתפקדת</l>
+          <l>הלילה שלך לא נגמר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לילה בחוץ ואת לבד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

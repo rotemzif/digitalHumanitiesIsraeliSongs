@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה הם עשו למטר</title>
+        <singer classification="band">הפרברים</singer>
+        <writer>מלוינה ריינולדס</writer>
+        <composer>מלוינה ריינולדס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה הם עשו למטר</head>
+        <lg number="1" type="stanza">
+          <l>גשם דק נוטף, גשם דק יזרום</l>
+          <l>העשב זוקף את ראשו למרום</l>
+          <l>גשם נוטף, גשם דק וקר</l>
+          <l>מה הם עשו למטר?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נער קט עומד חרש במטר</l>
+          <l>בגשם היורד מכבר</l>
+          <l>והעשב שח, הנער נטש</l>
+          <l>ורק הגשם דומע, נואש</l>
+          <l>ומה הם עשו למטר?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רוח אט תישוב, רוח משחקים</l>
+          <l>ברוח שוב ושוב העלים ניתקים</l>
+          <l>רוח אט תישוב בעשן אפרפר</l>
+          <l>מה הם עשו למטר?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נער קט עומד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הולך בעקבותייך 2</title>
+        <singer classification="male singer">שימי גל</singer>
+        <writer>גבי דהאן</writer>
+        <composer>גבי דהאן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הולך בעקבותייך</head>
+        <lg number="1" type="stanza">
+          <l>ביום שראיתי את פנייך </l>
+          <l>את כבשת את ליבי </l>
+          <l>כמו אמרת לי לבוא אחרייך </l>
+          <l>לכל מקום שתלכי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza" />
+        <lg number="3" type="stanza">
+          <l>פזמון : ואני כמו צל </l>
+          <l>לא מתעצל </l>
+          <l>לא מתבלבל </l>
+          <l>הולך בעקבותייך </l>
+          <l>ביום בליל </l>
+          <l>אני משתדל </l>
+          <l>להיות קרוב קרוב אלייך </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza" />
+        <lg number="5" type="stanza">
+          <l>החיוך שנסוך על פנייך </l>
+          <l>אותי מושך כמו מגנט אלייך </l>
+          <l>איני יכול להמשיך בלעדייך </l>
+          <l>ממתין לאות לבוא בשערייך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

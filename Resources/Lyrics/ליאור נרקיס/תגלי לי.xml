@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תגלי לי</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>מאיר עמר</writer>
+        <composer>missing</composer>
+        <album>חתול רחוב </album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תגלי לי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>תגלי לי מה הסוד שלך</l>
+          <l>ותראי לי את הדרך אלייך</l>
+          <l>תגלי לי איך להיות שלך</l>
+          <l>אני רוצה להיות רק איתך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בימים האחרונים אני כבר לא מצליח לתפקד</l>
+          <l>אני מרגיש איך שאני לאט לאט הופך בודד</l>
+          <l>אני עסוק כולי במחשבה איך לברוח רק איתה</l>
+          <l>אני מרגיש כאילו אין תקווה אני כל כך רוצה אותה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תגלי לי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את הריח של גופך אני שומר איתי חזק בפנים</l>
+          <l>והרוך של שיערך את החיוך על הפנים</l>
+          <l>אני עסוק כולי במחשבה איך לברוח רק איתה</l>
+          <l>אני מרגיש כאילו אין תקווה אני כל כך רוצה אותה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תגלי לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

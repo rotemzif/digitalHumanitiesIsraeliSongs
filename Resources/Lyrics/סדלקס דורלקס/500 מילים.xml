@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>500 מילים</title>
+        <singer classification="unknown">סדלקס דורלקס</singer>
+        <writer>אורי דרומר</writer>
+        <composer>אורי דרומר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>500 מילים</head>
+        <lg number="1" type="stanza">
+          <l>הנאת הכרישים החותכים בבשרים בחטפה - בחשיכה. </l>
+          <l>מאחורי גדרות ותיל הם יחזרו אתמול למחר </l>
+          <l>למה שכבר היה, למי שכבר היה. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ועוד עדיין קר ורק יחמם הדם בלי אש כבשן. </l>
+          <l>גופות מתאחדים בחשיכה, נהיים לאחד. </l>
+          <l>מיד ליד חופן של עפר של גופות שהתאחדו בחשיכה. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ושם ואז אתמול עבר, </l>
+          <l>נשבענו שזה לא יחזור. </l>
+          <l>אולי - תקווה - אבל מחר </l>
+          <l>נאלץ להגיד שוב יזכור. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>סכין בוצעת ראש דל, פורסת. </l>
+          <l>אז הכל נגמר והיום </l>
+          <l>מה תמצא סכין בוצעת ראש דל? מה? </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ושם ואז אתמול עבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

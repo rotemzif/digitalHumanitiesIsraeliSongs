@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>העיר הלבנה 2</title>
+        <singer classification="unknown">עלמה זהר</singer>
+        <writer>עלמה זהר</writer>
+        <composer>עלמה זהר</composer>
+        <album>לחם אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>העיר הלבנה</head>
+        <lg number="1" type="stanza">
+          <l>איש שחור מת מקור בעיר הלבנה</l>
+          <l>אם אתה שיכור אז תחזור</l>
+          <l>ממילא אני לא ישנה כבר שנה</l>
+          <l>זה יעבור, זה רק משבר באמונה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם תיפול פתאום פצצת אטום אצלנו בשכונה</l>
+          <l>כולם יצאו למרפסות ויסתכלו על הקרינה </l>
+          <l>באמצע היום פתאום תזרח הלבנה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יש לנו סיכוי</l>
+          <l>במלחמה האחרונה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שתי בחורות עצורות, הן התפרעו בהפגנה</l>
+          <l>והשוטר שאומר שזה קרה בלי כוונה</l>
+          <l>והוא מצטער, הוא לא ראה שיש שם ילדה קטנה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יש לנו סיכוי...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>החזאי אומר קור כזה לא היה כאן ארבעים שנה</l>
+          <l>איש שחור שוכב לישון על הספסל שבגינה</l>
+          <l>חולם על המדבר ומחייך מתוך שינה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

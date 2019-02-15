@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ניצחונות</title>
+        <singer classification="unknown">עלמה זהר</singer>
+        <writer>עלמה זהר</writer>
+        <composer>עלמה זהר</composer>
+        <album>לחם אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ניצחונות</head>
+        <lg number="1" type="stanza">
+          <l>חמש דקות מרוטשילד התפוצץ מטען,</l>
+          <l> אין לי על מי לסמוך.</l>
+          <l>אתה אומר לי בואי ולא אומר לאן,</l>
+          <l>היה לנו יום ארוך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין לי כוח למלחמות, </l>
+          <l>המלחמות הרגו אותי.</l>
+          <l>אחרי שנים של ניצחונות, </l>
+          <l>תראה בסוף הפסדתי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חומת בטון נמשכת,</l>
+          <l>חותכת את העיר,</l>
+          <l>אין לי אוויר לנשום.</l>
+          <l>לאן אני הולכת, </l>
+          <l>שילמתי כבר מחיר,</l>
+          <l>אין לילה ואין חלום.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין לי כוח למלחמות, </l>
+          <l>המלחמות הרגו אותי.</l>
+          <l>אחרי שנים של ניצחונות, </l>
+          <l>תראה בסוף הפסדתי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

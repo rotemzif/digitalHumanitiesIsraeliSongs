@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אנה 6</title>
+        <singer classification="male singer">חמי רודנר</singer>
+        <writer>חמי רודנר</writer>
+        <composer>חמי רודנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אנה</head>
+        <lg number="1" type="stanza">
+          <l>אנה השם שלך הוא כמו בקשה</l>
+          <l>הוא כמו משאלה שפעם יהיה פה טוב</l>
+          <l>אנה זערורית אנה פלאית</l>
+          <l>לי את חיוך מאיר לי באפלה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היה והיה אגדה</l>
+          <l>יש בי תקווה</l>
+          <l>יש בי שלום</l>
+          <l>יש בי אהבה</l>
+          <l>אנה קטנה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה רואות העיניים</l>
+          <l>מה קולט האישון</l>
+          <l>אמא מעט עייפה</l>
+          <l>נומי, קטנטונת, לישון</l>
+          <l>מחר הכדור הצהוב</l>
+          <l>יסביר את פניו של הרחוב</l>
+          <l>בתוך עגלה אנה קטנה</l>
+          <l>תגיד לעולם בוקר טוב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היה והיה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

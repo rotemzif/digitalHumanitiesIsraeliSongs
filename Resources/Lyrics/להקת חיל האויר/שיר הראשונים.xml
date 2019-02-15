@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הראשונים</title>
+        <singer classification="unknown">להקת חיל האויר</singer>
+        <writer>עמוס אטינגר</writer>
+        <composer>אפי נצר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הראשונים</head>
+        <lg number="1" type="stanza">
+          <l>זה שיר על חבורת אנשים חולמניים,</l>
+          <l>שלקחו גרוטאות ומטוסים ישנים.</l>
+          <l>הם חלמו לטפס, למרום להגביה,</l>
+          <l>חלמו לצאת לכבוש את הרקיע.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מי שחלם חלום,</l>
+          <l>מי שנשם חלום,</l>
+          <l>מי שהמריא כבר אז למרחקים,</l>
+          <l>רואה כיצד היום,</l>
+          <l>רואה את החלום,</l>
+          <l>שסילוניו מעל קורעים את השחקים</l>
+          <l>מי שחלם חלום,</l>
+          <l>מי שנשם חלום,</l>
+          <l>מי שהמריא כבר אז למרחקים,</l>
+          <l>רואה כיצד היום,</l>
+          <l>רואה את החלום,</l>
+          <l>שסילוניו מעל קורעים את השחקים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עם פרימוס מיושן</l>
+          <l>על מסלול מאולתר.</l>
+          <l>הם חלפו בגליל ובנגב ובהר.</l>
+          <l>עם בוכנות רועשות לבירה הם המריאו,</l>
+          <l>חלמו על סילונים אשר יגיעו.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מי שחלם חלום...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היום במוזיאון נח לו פרימוס ישן</l>
+          <l>ברקיע סילונים מותירים שובל עשן</l>
+          <l>ואותם ראשונים אז רואים בשמיים</l>
+          <l>כיצד לחלומות צמחו כנפיים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מי שחלם חלום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

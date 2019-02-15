@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בולטת</title>
+        <singer classification="male singer">מאיר בנאי</singer>
+        <writer>לירון הרפז</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בולטת</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>לק שחור מרוח על ציפורן</l>
+          <l>שיער קצר צבוע במשחה כחולה, </l>
+          <l>עגיל אחד למטה, עגיל אחד מעל, </l>
+          <l>אחד בשביל הבגד, השני בשביל קהל.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מוזיקה רועשת, מילים כחולות פוגעות, </l>
+          <l>ואצבע אחת כועסת שכל כך רוצה להיות</l>
+          <l>אצבע אחת כועסת שכל כך רוצה להיות</l>
+          <l>צודקת, צודקת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתחת לאיפור במשקל טון אחד, </l>
+          <l>מסתתרת ילדה כועסת, </l>
+          <l>שצורחת מבפנים:</l>
+          <l>אני כאן, אני כאן</l>
+          <l>אתם לא רואים? לא רואים?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לק שחור מרוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

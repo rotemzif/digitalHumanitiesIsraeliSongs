@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טוב כזה</title>
+        <singer classification="unknown">רמה מסינגר</singer>
+        <writer>רמה מסינגר</writer>
+        <composer>דניאל סלומון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טוב כזה</head>
+        <lg number="1" type="stanza">
+          <l>עצור הכל, תקפיא בשבילי את הרגע</l>
+          <l>עמדו סופות, עצרו יצורי הים</l>
+          <l>טוב מזה לא יהיה לי אף פעם</l>
+          <l>טוב כזה שוב לא יחזור לעולם.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תיקח אותי לעיר חדשה, לא נודעת</l>
+          <l>תשאיר אותי עד סוף הימים במדבר</l>
+          <l>עצור הכל, לפני שהשמש גוועת</l>
+          <l>עצור הכל עכשיו כשעדיין אפשר.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני ממשיך, עלי לשים פעמי</l>
+          <l>ממשיך מכאן, הרוח בעקביי</l>
+          <l>ואין לי זמן אחר, רק זה שממהר</l>
+          <l>אני ממשיך, תדביקי את צעדיי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תפסיק הכל, עצור בשבילי את הרוח</l>
+          <l>נמכור הכל ביום ובלילה נברח</l>
+          <l>קח אותי רחוק למקום בטוח</l>
+          <l>קח אותי למקום שהאל כבר שכח.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני ממשיך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

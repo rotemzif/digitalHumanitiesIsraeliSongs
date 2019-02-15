@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה קצרה</title>
+        <singer classification="male singer">דויד פרץ</singer>
+        <writer>אורי ברנשטיין</writer>
+        <composer>דויד פרץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה קצרה</head>
+        <lg number="1" type="stanza">
+          <l>אדם נאסף מכל קצותיו </l>
+          <l>להיות עמה אחד </l>
+          <l>ויש לו עימדה רק סתיו </l>
+          <l>שקוף כעץ נרעד </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ובלכתה תמיד היא מותירה </l>
+          <l>את זכר פריחתו שהתקיימה </l>
+          <l>ואם זכה. היא מדברה </l>
+          <l>בחלומו והוא מנחמה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

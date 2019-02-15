@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הפריצה הגדולה</title>
+        <singer classification="male singer">יהורם גאון</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הפריצה הגדולה</head>
+        <lg number="1" type="stanza">
+          <l>גם אם הלילה ארוך ואפל</l>
+          <l>בוקר חדש יאיר לנו ודאי</l>
+          <l>גם אם השביל כנחש מתפתל,</l>
+          <l>דרך המלך לא תרחק, רעי, רעי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נצא עם ליל, נצא עם ליל</l>
+          <l>עת רוח על המים שטה</l>
+          <l>נשוב עם אור, נשוב עם אור</l>
+          <l>לעמק הירוק הביתה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גם אם האש מלחכת הרים</l>
+          <l>גשם ראשון יביא פרחים לגיא</l>
+          <l>ואם הגשם ילכוד ציפורים</l>
+          <l>שמש בוערת לא תרחק, רעי, רעי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נצא עם ליל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

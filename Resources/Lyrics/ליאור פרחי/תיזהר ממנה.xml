@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תיזהר ממנה</title>
+        <singer classification="male singer">ליאור פרחי</singer>
+        <writer>ביגי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תיזהר ממנה</head>
+        <lg number="1" type="stanza">
+          <l>יש לה זוג עיניים איתן היא מביטה</l>
+          <l>כמו אל השמיים היא פיתחה שיטה</l>
+          <l>מבט אחד ממנה ואתה קפוא</l>
+          <l>תחזור מהר להנה כולם כבר ניסו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תזהר ממנה היא כמו דבורה מיד עוקצת</l>
+          <l>סתם מסכה שהיא לובשת</l>
+          <l>תזהר אחי כי אותך היא מחפשת.</l>
+          <l>תזהר ממנה היא כמו דבורה מיד עוקצת</l>
+          <l>סתם מסכה שהיא לובשת</l>
+          <l>תזהר אחי בכולם היא משחקת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלכתי ובדקתי אם זה אמיתי</l>
+          <l>אבל כשלא שמעתי עצרה נשימתי</l>
+          <l>מבט אחד ממנה ואתה קפוא</l>
+          <l>תחזור מהר להנה כולם כבר ניסו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תזהר ממנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

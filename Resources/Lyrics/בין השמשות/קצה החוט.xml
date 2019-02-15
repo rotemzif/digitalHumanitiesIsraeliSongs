@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קצה החוט</title>
+        <singer classification="band">בין השמשות</singer>
+        <writer>יוני גנוט</writer>
+        <composer>יוני גנוט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קצה החוט</head>
+        <lg number="1" type="stanza">
+          <l>אז אימצת את השכל הדימיון והסברה</l>
+          <l>יצא לך משהו לא נעים לא נורא</l>
+          <l>ואחרי מפח הנפש יסורים ונפילה</l>
+          <l>פנית אל האלוקים בסליחה במחילה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמו אותו גיבור בסרטים המצויירים</l>
+          <l>בקצה טיפוס החבל לפתע הוא מבחין</l>
+          <l>שכל החוטים באוויר נגמרים</l>
+          <l>אם לא קושרים אותם אל אלוקים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז תמכת יתדות וחיזקת ביצורים</l>
+          <l>סללת לך דרכים חדשות אל השחקים</l>
+          <l>בסוף מגדל היופי והטוב המוחלטים</l>
+          <l>נפלת לידיו מלאות הכל של אלוקים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמו אותו גיבור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

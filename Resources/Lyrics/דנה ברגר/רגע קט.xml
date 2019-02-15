@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רגע קט</title>
+        <singer classification="female singer">דנה ברגר</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>מעליי דממה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רגע קט</head>
+        <lg number="1" type="stanza">
+          <l>בחרתי בך מכל הגברים בעולם הזה</l>
+          <l>רק אתה הלב מבקש צליל פעמון קולך</l>
+          <l>את נימי גופי מרקידים</l>
+          <l>יודעת אני מה רוצה באהבה</l>
+          <l>לחיות איתך בגן שאלוהים ברא</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רגע קט נעצמו עיניי</l>
+          <l>כך חלפה לה שעה כמו דקה</l>
+          <l>רגע קט נעצמו עיניי</l>
+          <l>אותך רוצה כל דקה ודקה</l>
+          <l>רגע קט נעצמו עיניי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ארדוף אותך בכל פינה בעולם הזה</l>
+          <l>בך צופה הלב מתמוגג</l>
+          <l>מתוך המון סואן</l>
+          <l>אהבתי יודעת אני</l>
+          <l>לא אנום ולא אשן</l>
+          <l>רק לחיות למענך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רגע קט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

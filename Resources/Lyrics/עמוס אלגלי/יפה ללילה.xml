@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יפה ללילה</title>
+        <singer classification="unknown">עמוס אלגלי</singer>
+        <writer>אסף אדם</writer>
+        <composer>יניב אוחנה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יפה ללילה</head>
+        <lg number="1" type="stanza">
+          <l>הכרנו במקרה, או אולי רק במבט</l>
+          <l>זה היה השם שלך, שנכנס ללב חזק</l>
+          <l>היה לך משהו בעיניים שמשך אותי לשם</l>
+          <l>דיברנו כל הלילה, עד שהירח נעלם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הכרנו במקרה, במלון ליד הים</l>
+          <l>את הזמנת עוד כוס של יין, פרחים זרוקים על השולחן</l>
+          <l>סיפרת לי על אותו אדם, שפעם את אהבת</l>
+          <l>ועכשיו את קצת לבד, אין בחייך אף אחד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza" />
+        <lg number="4" type="stanza">
+          <l>את ביקשת אותי ללילה, להתנחם באהבה</l>
+          <l>לאסוף את השברים, את בוודאי לא יכולה-</l>
+          <l>לאהוב בחזרה, אני מבין אותך כל כך</l>
+          <l>את יפה אולי ללילה, קחי אותי אני שלך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הגיע כבר הבוקר, את נוסעת חזרה</l>
+          <l>אל דירה שאת שכרת, אל חיים שאת הכרת</l>
+          <l>אני יודע שנגעתי בליבך, ולו מעט</l>
+          <l>מה שלחשת לי אז בחושך, לעצמך את לא סיפרת</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza" />
+        <lg number="7" type="stanza">
+          <l>את ביקשת אותי ללילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רדי ממני</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>שי חנום</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רדי ממני</head>
+        <lg number="1" type="stanza">
+          <l>תפסיקי כבר לשאול</l>
+          <l>לאן אתה הולך</l>
+          <l>אני אינני בעלך</l>
+          <l>תפסיקי כבר לשאול</l>
+          <l>מתי אתה חוזר</l>
+          <l>בראש שלי עשית כבר חור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חופש אוהב את החיים חיי</l>
+          <l>אני את הלילות</l>
+          <l>חופש אוהב את החיים</l>
+          <l>בלי שום שאלות</l>
+          <l>רדי ממני, רדי ממני</l>
+          <l>לבלות אני אוהב</l>
+          <l>זה אצלי בדם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תפסיקי לחקור</l>
+          <l>תפסי מעט מרחק</l>
+          <l>אין לי אוייר אני נחנק</l>
+          <l>חבל לך על הזמן</l>
+          <l>אני לא אוותר</l>
+          <l>החופש לי יקר יותר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חופש אוהב את החיים חיי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

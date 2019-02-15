@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלך לבדו</title>
+        <singer classification="unknown">מישל גוריאלשווילי</singer>
+        <writer>אייל שחר</writer>
+        <composer>פיני ארונבייב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלך לבדו</head>
+        <lg number="1" type="stanza">
+          <l>מלך לבדו לא יידע</l>
+          <l>את אשר ליבו לא מצא</l>
+          <l>הוא קם ללא סיבה</l>
+          <l>ועוזב הכל מאחוריו</l>
+          <l>כשבחוץ הגשם לא מפסיק לרדת</l>
+          <l>והזמן צועק מאוחר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סיבוב שלא נגמר</l>
+          <l>למה היא תצפה?</l>
+          <l>זאת רק עוד אהבה שלא ניצחה.</l>
+          <l>סיבוב שלא נגמר</l>
+          <l>הסוף בסוף חוזר</l>
+          <l>ביקשתי את הזמן ולא נשאר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מלך לבדו לא יישמע</l>
+          <l>את קולו שלו כבר שכח</l>
+          <l>הפחד של אתמול לא עובר</l>
+          <l>הכל מאחוריו</l>
+          <l>כי בחוץ הגשם לא מפסיק לרדת </l>
+          <l>והזמן צועק מאוחר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סיבוב שלא נגמר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

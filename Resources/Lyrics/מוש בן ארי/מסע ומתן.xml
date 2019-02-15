@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מסע ומתן</title>
+        <singer classification="male singer">מוש בן ארי</singer>
+        <writer>מוש בן ארי</writer>
+        <composer>מוש בן ארי</composer>
+        <album>מסע ומתן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מסע ומתן</head>
+        <lg number="1" type="stanza">
+          <l>שותה עוד כוס קפה</l>
+          <l>ואל מולי כך את יושבת</l>
+          <l>ואיך זה מבפנים עולה</l>
+          <l>מוכרח לדעת מה את חושבת</l>
+          <l>ואיך זה בלילות הרבה</l>
+          <l>נופלים לריק  שמן  הפחד</l>
+          <l>ואיך זה כל כך מפתה</l>
+          <l>לשים ת'קץ אל מה שיחד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי לפעמים במסע ומתן</l>
+          <l>מורידים אותנו נמוך</l>
+          <l>וזה קורה ביני ובינה</l>
+          <l>והנשמה קוראת רק לצאת ולעוף</l>
+          <l>כשבינינו משהו נקרע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הבוקר מתגלה</l>
+          <l>ואיך בגוף את מתרחקת</l>
+          <l>וכמה שבפנים כואב</l>
+          <l>ומה רוצה זה רק ללכת</l>
+          <l>וזה הזמן שלא מרפה</l>
+          <l>וזו האש אשר דועכת</l>
+          <l>וזה הזמן שמרפא</l>
+          <l>בין אם  נשאר בין אם ללכת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי לפעמים במסע ומתן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

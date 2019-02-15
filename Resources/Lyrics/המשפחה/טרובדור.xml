@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טרובדור</title>
+        <singer classification="band">המשפחה</singer>
+        <writer>אמיר חיים</writer>
+        <composer>אמיר חיים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טרובדור</head>
+        <lg number="1" type="stanza">
+          <l>סובבת לי את הראש, מתי כבר תתבגר</l>
+          <l>ביחד עוד שנה, אתה לא ממהר</l>
+          <l>אתה רוצה רק חופש, אני כה בודדה</l>
+          <l>אך כשאני נשברת, אתה חוזר עם הבטחה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק אתמול חלמתי על טרובדור יקר</l>
+          <l>רק אני חיפשתי בחור עם לב ישר</l>
+          <l>רק אני חושבת אולי אתה לי מחכה</l>
+          <l>מתחת לחלון החדר מתי כבר אשתנה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תביט לי בעיניים, תרגיש את נשמתי</l>
+          <l>ביחד עוד שנה, באמת אתה שלי</l>
+          <l>אתה רוצה עוד זמן, בשביל להתבגר</l>
+          <l>אך כשאני עוזבת אתה שוב מחזר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק אתמול חלמתי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אל תציג לי שני פנים, אני פה לא תמונה</l>
+          <l>טמון בי חום ואהבה, אולי לא בשבילך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רק אתמול חלמתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

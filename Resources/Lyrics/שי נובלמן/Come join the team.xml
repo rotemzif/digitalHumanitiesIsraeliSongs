@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Come join the team</title>
+        <singer classification="male singer">שי נובלמן</singer>
+        <writer>שי נובלמן</writer>
+        <composer>שי נובלמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Come join the team</head>
+        <lg number="1" type="stanza">
+          <l>Come join the team, and surly we can win </l>
+          <l>The game will start any time, when we’ll decide </l>
+          <l>We’ll beat them up, and prove that we’ve got love </l>
+          <l>The bells were ringing in the town, just don’t back down </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>I love you so, if you feel the same, be sure it will make me happy </l>
+          <l>Please don’t go, take a chance, remember the good times we had </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Let’s find a place where we could build a home </l>
+          <l>I asked my dad to authorize, and he said fine </l>
+          <l>Bring your friends, and i will bring my toys </l>
+          <l>We’ll play together; it’s all right until the night </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>I love you so, if you feel the same, be sure it will make me happy </l>
+          <l>Please don’t go, take a chance, remember the good times we had </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>Come join the team, and surly we can win </l>
+          <l>The game will start any time, just don’t back down</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש הכל בבית</title>
+        <singer classification="male singer">עמיר לב</singer>
+        <writer>עמיר לב</writer>
+        <composer>עמיר לב</composer>
+        <album>רוצה לראות אתכם במקומי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש הכל בבית</head>
+        <lg number="1" type="stanza">
+          <l>יש הכל בבית</l>
+          <l>גינה ופסנתר</l>
+          <l>ובכל זאת משהו חסר</l>
+          <l>יש בחוץ שמיים</l>
+          <l>וקר וקודר</l>
+          <l>אבל בכל זאת אני לא חוזר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בלי לגעת בי - את תופסת</l>
+          <l>בלי לראות אותי - את צועקת</l>
+          <l>בלי לדעת אם - זאת תחושה</l>
+          <l>של חולשה שיוצרת אישה - בבקשה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק אתמול הלכתי</l>
+          <l>וכבר ממהר</l>
+          <l>לחפש לי בית אחר</l>
+          <l>בעיתון קראתי</l>
+          <l>שאת לא לבד</l>
+          <l>אמרו שמצאת לך אחד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ניסיתי עם אחת אחרת</l>
+          <l>ניסיתי להגיע לאותה תחושה</l>
+          <l>ולגברת - אין אדרת</l>
+          <l>זה לא נוגע לי - בבקשה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יש הכל בבית</l>
+          <l>יושב, מנגן</l>
+          <l>ובכל זאת משהו כבר אין</l>
+          <l>יש שמיכה וחם לי</l>
+          <l>אני לא מתלונן</l>
+          <l>אבל בכל זאת אני לא ישן</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בלי לגעת בי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

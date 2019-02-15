@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה לא נכון</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>נתי לוי</writer>
+        <composer>נתי לוי</composer>
+        <album>חתול רחוב </album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה לא נכון</head>
+        <lg number="1" type="stanza">
+          <l>אני נזכר ביום שבו הכרנו</l>
+          <l>כמה אז רציתי אותך</l>
+          <l>את אותו חלום חלמנו</l>
+          <l>כל עולמי נתתי לך</l>
+          <l>איך זה ויתרת כך עלינו</l>
+          <l>איפה עכשיו אמצא אותך</l>
+          <l>אמצא אותך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה לא נכון היה לעזוב</l>
+          <l>לומר שלום בלי לחשוב</l>
+          <l>קל להרוס קשה לבנות</l>
+          <l>איך לא ניסינו להשתנות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל הרגעים שהיו בינינו</l>
+          <l>חסרים לי עכשיו כל כך</l>
+          <l>אז אם את חושבת עוד עלינו</l>
+          <l>אם אהבה קיימת בך</l>
+          <l>לא משנה כמה טעינו</l>
+          <l>אפשר להתחיל מחדש</l>
+          <l>מחדש</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה לא נכון היה לעזוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

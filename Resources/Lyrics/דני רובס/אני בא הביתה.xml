@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני בא הביתה</title>
+        <singer classification="male singer">דני רובס</singer>
+        <writer>דני רובס</writer>
+        <composer>דני רובס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני בא הביתה</head>
+        <lg number="1" type="stanza">
+          <l>סוף שמונים וארבע, שיירה מלבנון</l>
+          <l>תחנה חמה בדרך במזנון</l>
+          <l>ופתאום השיר ברקע, מהרדיו בפינה</l>
+          <l>והצעקה בבטן, זה אני, לראשונה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ומאז בכל פעם שאני מנגן</l>
+          <l>אני בא הביתה</l>
+          <l>(משהו מחזיר אותי אחורה...</l>
+          <l>לרגע אושר הפראי ההוא...)</l>
+          <l>בא הביתה, בא מהלילה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה התבגרנו, תמרונים בחשיכה</l>
+          <l>מלחמה בלתי פוסקת, שכחה</l>
+          <l>איך בסוף שמונים וארבע העתיד נראה הוגן</l>
+          <l>כשהייתי בא הביתה והייתי מנגן.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ומאז בכל פעם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

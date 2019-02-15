@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה טובה</title>
+        <singer classification="unknown">דניאל גיא</singer>
+        <writer>עינת הולנדר</writer>
+        <composer>דניאל גיא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה טובה</head>
+        <lg number="1" type="stanza">
+          <l>דברי אלי היום מתוך הנפש </l>
+          <l>אל תִבררי מילים, אל תעצרי </l>
+          <l>חומות יפלו פתאום, כמו לא היו בכלל </l>
+          <l>אהבה תשוב אל לב, עוד תראי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהבה טובה תמיד מנצחת </l>
+          <l>ללב יש כוח לעבור כל מכשול </l>
+          <l>על העולם, ילדה, נוכל רק יחד </l>
+          <l>רק איתך אוכל לשרוד הכל </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הפשטות שלך אותי כובשת </l>
+          <l>האמת שבך נוגעת בי בִפנים </l>
+          <l>סערה גדולה היתה, הנה השקט בא </l>
+          <l>על תהומות עוד ייבנו לנו גשרים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהבה טובה תמיד מנצחת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

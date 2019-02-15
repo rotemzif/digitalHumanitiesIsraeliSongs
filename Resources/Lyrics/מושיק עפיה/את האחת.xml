@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את האחת 2</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>מעין כץ</writer>
+        <composer>מעין כץ</composer>
+        <album>קח לך אישה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את האחת</head>
+        <lg number="1" type="stanza">
+          <l>בכל שדה פרחים יש את הפרח</l>
+          <l>שבו הצוף הרבה יותר מתוק</l>
+          <l>בין כל הדרכים יש את הדרך</l>
+          <l>איתה אתה תלך הכי רחוק</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש רגש שעוטף אותי בכל גופי נוגע,</l>
+          <l>והיום אני יודע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את, את האחת</l>
+          <l>יש בך משהו אחר שאין לאף אחת</l>
+          <l>את, את האחת שלי,</l>
+          <l>את, את האחת,</l>
+          <l>לעולם לא אוותר עלייך את יודעת,</l>
+          <l>את, את הכל בשבילי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אין סוף לכוכבים שבשמיים</l>
+          <l>ורק אחד אליך מהבהב</l>
+          <l>כל העולם עובר מול העיניים</l>
+          <l>ורק אחת נוגעת לי בלב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יש רגש שעוטף אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

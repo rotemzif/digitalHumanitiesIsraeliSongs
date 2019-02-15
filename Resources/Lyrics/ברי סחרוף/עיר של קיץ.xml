@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עיר של קיץ</title>
+        <singer classification="male singer">ברי סחרוף</singer>
+        <writer>מיכה שטרית</writer>
+        <composer>missing</composer>
+        <album>נגיעות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עיר של קיץ</head>
+        <lg number="1" type="stanza">
+          <l>ימים של קיץ או חורף בלי אביב ובלי סתיו</l>
+          <l>אנ'לא חוזר אלייך זה הסוף זו התחלה</l>
+          <l>רק מלחמה אם תבוא תחזיר אותנו הביתה</l>
+          <l>כמו אהוב לאהובה</l>
+          <l>כמו אחרי המלחמה אם תבוא אם תבוא</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ועכשיו לאכול לשתות מהיין</l>
+          <l>אחר כך לרקוד ונעלה אלי הבית</l>
+          <l>ועכשיו לצעוק ואחר כך ליפול</l>
+          <l>ליפול בשקט ליפול בזרועותיך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>והעיר עיר של קיץ בתל אביב אין סתיו</l>
+          <l>הכל חוזר אלייך גם סוף גם התחלה</l>
+          <l>רק מלחמה אם תבוא תחזיר אותנו הביתה</l>
+          <l>כמו אהוב לאהובה כמו אחרי מלחמה</l>
+          <l>אם תבוא אם תבוא</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ועכשיו לאכול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

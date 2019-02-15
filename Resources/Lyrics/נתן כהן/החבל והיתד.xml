@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>החבל והיתד</title>
+        <singer classification="male singer">נתן כהן</singer>
+        <writer>מאיר גולדברג</writer>
+        <composer>נתן כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>החבל והיתד</head>
+        <lg number="1" type="stanza">
+          <l>בחבל ארץ זה הרוח הנושבת</l>
+          <l>היא רוחו של הבן האובד</l>
+          <l>החול פוגש ברזל באהלי השבט</l>
+          <l>היריעות פוגשות רק את ההד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא נפרד, לא נפרד, לא נפרד</l>
+          <l>אמר החבל ליתד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איתך אני נשאר, איתך אני בטוח</l>
+          <l>איתך אני אפילו מתאבד</l>
+          <l>איתך אני מיתר, איתך ועם הרוח</l>
+          <l>הרוח בגללה אני רוקד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא נפרד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני נשאר איתך, אני לא בנוי ללכת</l>
+          <l>אפילו לא בסוף השיירה</l>
+          <l>אני אוהב אותך, למרות שאת מתכת</l>
+          <l>איתך, אמר החבל ונקרע</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לא נפרד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נגה לי</title>
+        <singer classification="unknown">ליאורה</singer>
+        <writer>משה דור</writer>
+        <composer>יוסף הדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נגה לי</head>
+        <lg number="1" type="stanza">
+          <l>על הים כוכב זוהר</l>
+          <l>והוא רחוק כמו חלום</l>
+          <l>ואולי ידי אותו תשיג </l>
+          <l>ואלי יאיר</l>
+          <l>ואלי יאיר דומם. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הו, חלומי שלי</l>
+          <l>הו, נגה שיר</l>
+          <l>הו, חלומי שלי</l>
+          <l>הו, נגה לי. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>על מצחי משב חולף</l>
+          <l>ואת קולך יביא הלום</l>
+          <l>ואולי ידי אותו תשיג</l>
+          <l>ובלב תשמור</l>
+          <l>ובלב תשמור תמיד. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הו, חלומי שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

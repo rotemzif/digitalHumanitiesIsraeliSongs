@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חג לי 8</title>
+        <singer classification="male singer">שימי תבורי</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>אביהו מדינה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חג לי</head>
+        <lg number="1" type="stanza">
+          <l>בן אדם חייך, חייך וצחק בקול</l>
+          <l>אל תחשוב על החוב, פן תפסיד הכל,</l>
+          <l>שיר את השירים, נגן על מיתרים</l>
+          <l>צא מזה אינך כזה, ירא מאחרים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בוא שב עימי, בוא ושמח איתי</l>
+          <l>בוא שב עימי נשירה יחד כי...</l>
+          <l>חג לי, חג לי, חג לי, כל יום בשנה,</l>
+          <l>חג לי וגם טוב לי, בשיר וברינה</l>
+          <l>חג לי ביו שמש, חג לי ביום קור</l>
+          <l>גם היום גם אמש, חג לי ואור.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מי כאן לא ידע, מי כאן לא טעם</l>
+          <l>גם טיפה אחת מרה ויין לא לגם,</l>
+          <l>מי כאן מתנזר, מי כאן מתעלם</l>
+          <l>מחיוך של נערה, בערב משעמם.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בוא שב עימי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מי כאן לא שמע, את כל השירים</l>
+          <l>על לילות אפלים וימים טובים,</l>
+          <l>מי כאן לא אוהב, קצת להיות בטל</l>
+          <l>להתרווח בכורסה, או לשכב בצל?</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בוא שב עימי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שוב היא כאן</title>
+        <singer classification="male singer">יוני רכטר</singer>
+        <writer>עלי מוהר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שוב היא כאן</head>
+        <lg number="1" type="stanza">
+          <l>שוב היא כאן ושוב הכל מאבד צורה</l>
+          <l>מבולבלת ויפה היא לא השתנתה</l>
+          <l>יום בהיר אחד עזבה והנה חזרה</l>
+          <l>מרעידה בי בהלה מניסה שלווה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי איתה כמו תמיד אין עבר ואין עתיד</l>
+          <l>רק הרגע החולף לא חוזר, יפה, כואב</l>
+          <l>והכל פתאום אחר, מסוער יותר,</l>
+          <l>מהיר יותר, יפה יותר, אחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שוב היא כאן ושוב הכל כמו מהתחלה</l>
+          <l>שוב אני עומד מולה בלי לומר מילה</l>
+          <l>מול חיוך בהיר שלה מול אותו הצחוק</l>
+          <l>הפרידה נראית פתאום כמו חלום רחוק</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי איתה כמו תמיד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלם קרב</title>
+        <singer classification="unknown">שלי יושע</singer>
+        <writer>יענקל'ה רוטבליט</writer>
+        <composer>ריצ'ארד ברגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלם קרב</head>
+        <lg number="1" type="stanza">
+          <l>מה נשאר אחריך תביט בגשרים השרופים</l>
+          <l>בעיני אוהביך מבטי לוחמים עייפים</l>
+          <l>הלכת רחוק, נגמרו לך כל הסופים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>משחק לך קלף, תמיד הימרת על הכל</l>
+          <l>מדלג על פני תהום, כאילו שאתה יכול</l>
+          <l>זה כבר סוף המשחק, ואין לך לאן ליפול</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עונד את אות קין מתחת לשמש </l>
+          <l>נע ונד מבקש מקלט לילה </l>
+          <l>מקלט לעוד לילה, לעוד לילה אחד.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מחפש את הדרך, חולם לחזור להתחלה </l>
+          <l>מי יפתח לך שער, מי יסיר ממך את הקללה</l>
+          <l>השמש שוקעת, ואתה עוד מחפש גאולה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עונד את אות קין...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

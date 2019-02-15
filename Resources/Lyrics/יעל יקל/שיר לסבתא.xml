@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר לסבתא</title>
+        <singer classification="unknown">יעל יקל</singer>
+        <writer>רוני אבירם</writer>
+        <composer>עמית אבירם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר לסבתא</head>
+        <lg number="1" type="stanza">
+          <l>סבתא </l>
+          <l>את עינייך ופנייך </l>
+          <l>אני חייה יום יום </l>
+          <l>סבתא </l>
+          <l>שתקת לי </l>
+          <l>הסתרת לי </l>
+          <l>את מה שעל סף התהום </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את את </l>
+          <l>בטוח נישמתי </l>
+          <l>הולכת איתי לאן שאני </l>
+          <l>את </l>
+          <l>ראית שם דברים </l>
+          <l>בימים אחרים </l>
+          <l>ששותקים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>סבתא </l>
+          <l>לא סיפרת לי </l>
+          <l>רק חייכת לי </l>
+          <l>שלא אראה דמעות </l>
+          <l>סבתא </l>
+          <l>כבר גדלתי </l>
+          <l>וידעתי שמותר לבכות </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את את...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>איך יכול להיות </l>
+          <l>איך אפשר לאחות </l>
+          <l>סבתא </l>
+          <l>את שומעת </l>
+          <l>אני כל כך מתגעגעת </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>סבתא </l>
+          <l>כבר גדלתי </l>
+          <l>וידעתי שמותר לבכות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני ראיתי יופי</title>
+        <singer classification="female singer">נורית גלרון</singer>
+        <writer>מיכאל גורביץ</writer>
+        <composer>נפתלי אלטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני ראיתי יופי</head>
+        <lg number="1" type="stanza">
+          <l>אני ראיתי יופי</l>
+          <l>אני ראיתי יופי</l>
+          <l>זה היה בזמן השקיעה</l>
+          <l>או שהיה בזריחה</l>
+          <l>אני כבר לא זוכר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נדמה לי שזה היה בשמיים</l>
+          <l>או אולי באדמה.</l>
+          <l>באמצע הרחוב</l>
+          <l>או מעבר לפינה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני לא זוכר עכשיו,</l>
+          <l>אני עכשיו לא זוכר,</l>
+          <l>אולי היה זה מישהו אחר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נדמה לי שזה היה בשמיים</l>
+          <l>או אולי באדמה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

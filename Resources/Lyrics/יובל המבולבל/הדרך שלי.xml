@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הדרך שלי</title>
+        <singer classification="unknown">יובל המבולבל</singer>
+        <writer>יובל המבולבל</writer>
+        <composer>יובל המבולבל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הדרך שלי</head>
+        <lg number="1" type="stanza">
+          <l>בעולם שבו כולם חושבים אותו דבר</l>
+          <l>מחפש את המקום שבו הזמן נגמר</l>
+          <l>מנסה להתקדם בתוהו הגדול</l>
+          <l>להיות חזק ולא ליפול.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל כך הרבה דרכים, כל כך הרבה עצות</l>
+          <l>המון המון שבילים ואינסוף אפשרויות</l>
+          <l>בחושך מסביב יש נקודה אחת של אור</l>
+          <l>היא בתוכי ובה אני יכול לבחור</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואני מאמין בעצמי</l>
+          <l>כי אני זה אני והאמת בתוכי,</l>
+          <l>ואם רק אסתכל בליבי</l>
+          <l>אמצא את הדרך שלי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מסתכל קדימה ומביט על הכוכב</l>
+          <l>ויודע שהזמן לפעול זה רק עכשיו</l>
+          <l>אל הלא-נודע אני יוצא היום</l>
+          <l>ובליבי החלום.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וגם אם לפעמים הדרך לא קלה</l>
+          <l>קשה להתקדם ויש מכשול בכל פינה</l>
+          <l>בתוך תוכי יש קול קטן שלי תמיד אומר</l>
+          <l>להמשיך ולא לוותר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואני מאמין בעצמי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

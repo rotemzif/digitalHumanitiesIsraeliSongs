@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קליק</title>
+        <singer classification="unknown">שי יחיאלי</singer>
+        <writer>אלדד אלבז</writer>
+        <composer>אלדד אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קליק</head>
+        <lg number="1" type="stanza">
+          <l>כשליטפתי את פנייך</l>
+          <l>ואחזתי בידייך</l>
+          <l>מיד הרגשתי את הקליק בינינו</l>
+          <l>וממני מתרחקת</l>
+          <l>כאילו את אליי אחרת</l>
+          <l>אז מה יהיה עם המצב של שנינו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי את חושבת שאני בכלל לא רציני</l>
+          <l>איתך אני כבר לא אני</l>
+          <l>אז אין לי בשביל מי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>משחקת בלי לדעת</l>
+          <l>שאת בלב שלי פוגעת</l>
+          <l>גם אם לפעמים נראה שלא כואב</l>
+          <l>מה בסך הכל רציתי</l>
+          <l>שתתפכחי ושתביני</l>
+          <l>שבזכותך מרגיש ששוב אני אוהב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי את חושבת שאני בכלל לא רציני</l>
+          <l>איתך אני כבר לא אני</l>
+          <l>אז אין לי בשביל מי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>גם אם לפעמים נראה שלא כואב</l>
+          <l>בזכותך מרגיש ששוב אני אוהב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

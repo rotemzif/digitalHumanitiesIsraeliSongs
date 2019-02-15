@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איימי</title>
+        <singer classification="male singer">מאיר בנאי</singer>
+        <writer>מאיר בנאי</writer>
+        <composer>מאיר בנאי</composer>
+        <album>לב סדוק</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איימי</head>
+        <lg number="1" type="stanza">
+          <l>אי אפשר להתלבש לפני שמתפשטים</l>
+          <l>זה פשוט לוקח זמן וזמן זה עסקים</l>
+          <l>אי אפשר לומר שלום לפני שנפגשים</l>
+          <l>וגם אז זה לא תמיד בדיוק מה שרוצים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איימי, בואי אלי כבר</l>
+          <l>איימי, אין לי כוח</l>
+          <l>איימי, כל הזמן זה את</l>
+          <l>איימי, בואי הלילה</l>
+          <l>איימי, את שומעת</l>
+          <l>איימי, כל הזמן זה את</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פרשים על סוס לבן חולמים על ילדות</l>
+          <l>שחולמות על האביר מתוך האגדות</l>
+          <l>משחקי ילדות אובדים בתוך הערפל</l>
+          <l>ועל הר באמצע יום תמיד ייפול גם צל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איימי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אנשים רואים אותך כמו חלק מעצמם</l>
+          <l>כמו שירים, כמו סיפורים, עולם בתוך עולם</l>
+          <l>סדר פסח זה תמיד כשיש אביב בחוץ</l>
+          <l>צליל הטלפון קורא, אולי סוף סוף זאת היא</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>איימי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

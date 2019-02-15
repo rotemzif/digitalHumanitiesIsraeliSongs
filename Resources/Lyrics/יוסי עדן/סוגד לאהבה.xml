@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סוגד לאהבה</title>
+        <singer classification="unknown">יוסי עדן</singer>
+        <writer>יוסי עדן</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סוגד לאהבה</head>
+        <lg number="1" type="stanza">
+          <l>מדוע כואב שאוהבים</l>
+          <l>כיצד זה הלב לא מאמין</l>
+          <l>נמצא לבדי בעולם שכולו מכשולים</l>
+          <l>עכשיו מתמודד לבד מול החיים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כן עכשיו זה נגמר</l>
+          <l>היא לא נמצאת איתי</l>
+          <l>מחפש אהבה רוצה אותה איתי</l>
+          <l>גם כוכב שזוהר נופל אם הזמן</l>
+          <l>זאת לא אהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא עדיין בוכה סיפרו חברים</l>
+          <l>מתגעגע כל כך לחיוך התמים</l>
+          <l>מבקש אהבה קצת הבנה מליבך</l>
+          <l>כשאת רחקה יש בליבי רק כאב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כן עכשיו זה נגמר....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

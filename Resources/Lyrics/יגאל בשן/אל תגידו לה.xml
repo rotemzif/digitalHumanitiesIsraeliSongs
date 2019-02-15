@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תגידו לה</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>יגאל בשן</writer>
+        <composer>יגאל בשן</composer>
+        <album>תלוי רק בך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תגידו לה</head>
+        <lg number="1" type="stanza">
+          <l>גרה לבד עם הוריה</l>
+          <l>קמה כל יום בחמש</l>
+          <l>קשה לעמוד בפניה</l>
+          <l>בגלל החיוך הכובש</l>
+          <l>לומדת ספרות ושומעת</l>
+          <l>קלאסי וג'אז מניו יורק</l>
+          <l>הכל אני עליה יודע</l>
+          <l>אני רק צריך לבקש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תגידו לה שאני אוהב אותה</l>
+          <l>אל תגידו לה שאני אוהב אותה</l>
+          <l>ואולי היא כבר יודעת שאני שלה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שותה לה קפה על הבוקר</l>
+          <l>עובדת חצי משרה</l>
+          <l>במיסטיקה היא מתעניינת</l>
+          <l>אז גם אני בגללה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תגידו לה שאני אוהב אותה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

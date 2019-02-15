@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חזרה לשגרה</title>
+        <singer classification="male singer">רמי פורטיס</singer>
+        <writer>רמי פורטיס</writer>
+        <composer>גיל סמטנה</composer>
+        <album>פורטיס משולש</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חזרה לשגרה</head>
+        <lg number="1" type="stanza">
+          <l>אין שדר מתוחכם אין קול יותר חכם הכל מקושקש</l>
+          <l>נתלוצץ אולי נגיד אולי נגיד דבר נאמר שמר יותר עצוב אך מאושר</l>
+          <l>אין חדר לכולם אין שקר מסוים והכל משומש</l>
+          <l>נתכווץ ואולי נמצא אולי נמצא דבר ממילא צר נפתח לרגע ונסגר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עולים ויורדים לרגל סוגדים להבלי עולם</l>
+          <l>שם בצידי הדרך זה מה שרוצים כולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין תדר נעלם אין יצר שנרדם הכל משובש</l>
+          <l>אין עדר מיותם רק שבר שהולחם הכל מטושטש</l>
+          <l>נתאמץ אולי נלמד אולי נלמד דבר</l>
+          <l>הכל ברור צפוי מראש אך מיותר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אוקטובר</title>
+        <singer classification="male singer">עמיר לב</singer>
+        <writer>עמיר לב</writer>
+        <composer>עמיר לב</composer>
+        <album>לפעמים אני מאושר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אוקטובר</head>
+        <lg number="1" type="stanza">
+          <l>שער מברזל, עץ תאנים</l>
+          <l>שתי מדרגות, שני כסאות</l>
+          <l>אתה אומר הגב, כאבים ארוכים</l>
+          <l>כל שנה בסתיו כמו עכשיו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מכיוון ההר הכל רגיל</l>
+          <l>אוקטובר הטוב עומד להתחיל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה צוחק, בתי המשפט</l>
+          <l>לוקחים מהר, מחזירים לאט</l>
+          <l>מאוחר אתה אומר, שנינו קמים</l>
+          <l>רופא ערבי, זמר יהודי</l>
+          <l>מתחבקים והולכים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מכיוון ההר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

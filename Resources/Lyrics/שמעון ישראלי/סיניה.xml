@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סיניה</title>
+        <singer classification="male singer">שמעון ישראלי</singer>
+        <writer>דידי מנוסי</writer>
+        <composer>נועם שריף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סיניה</head>
+        <lg number="1" type="stanza">
+          <l>אל המדבר הגדול באה רוח</l>
+          <l>ומערבלת היא חול ומחול</l>
+          <l>אם יתפתל המשעול</l>
+          <l>בכיוון לא ידוע</l>
+          <l>שמה סיניה</l>
+          <l>תשכון עקבותיה בחול</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש לסיניה שלי צעצוע</l>
+          <l>יש לה מבט ילדותי ורוטט</l>
+          <l>אם התפתל משעולי</l>
+          <l>בכיוון לא ידוע</l>
+          <l>אוהל סיניה</l>
+          <l>מוכן לקבל פני אובד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>סיניה, סיניה, סיניה...</l>
+          <l>עקבותיה בחול</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>על המדבר הגדול אד ינוע</l>
+          <l>זכר הקרב הוא נחלת החלום</l>
+          <l>באתי אליך היום מאובק ופצוע</l>
+          <l>באתי סיניה כדי לבשר לך שלום</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>סיניה, סיניה, סיניה...</l>
+          <l>עקבותיה בחול</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

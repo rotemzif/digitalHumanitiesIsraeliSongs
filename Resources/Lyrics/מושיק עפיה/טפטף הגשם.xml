@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טפטף הגשם</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טפטף הגשם</head>
+        <lg number="1" type="stanza">
+          <l>טפטף הגשם בחוזקה</l>
+          <l>הרוח באוזניי שרקה</l>
+          <l>אם קר בחוץ זה לא נורא</l>
+          <l>אם קר בלב זו היא צרה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלוהיי שבשמיים אין מה להגיד</l>
+          <l>מן האושר אל העצב חבל דק מפריד</l>
+          <l>סתם יושבת וכואבת אין על מה לחיות</l>
+          <l>והגשם מטפטף ושוטף עוד יום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חלפו ימים קשים כל כך</l>
+          <l>כמו סיוט בלתי נשכח</l>
+          <l>במקום לצחוק אני בוכה</l>
+          <l>ואין בי רגע מנוחה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלוהיי שבשמיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

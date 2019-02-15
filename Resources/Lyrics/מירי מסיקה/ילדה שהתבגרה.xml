@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילדה שהתבגרה</title>
+        <singer classification="female singer">מירי מסיקה</singer>
+        <writer>קרן פלס</writer>
+        <composer>missing</composer>
+        <album>שלום לאמונות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילדה שהתבגרה</head>
+        <lg number="1" type="stanza">
+          <l>ילדה עייפה את מי את מחבקת</l>
+          <l>במי את מתעטפת בלילות הכי קרים</l>
+          <l>ילדה יחפה מי מושך אותך ללכת</l>
+          <l>בדרך הקשה של זכוכיות ומסמרים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ילדה עצובה במי את מנתחמת</l>
+          <l>מי נוגע בגופך להעלים את הבדידות</l>
+          <l>בוכה את כאבך אוסף בשקט את שברייך</l>
+          <l>וחום אהבתו - מקלט של נצח וילדות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם תנסי לעוף, עוד תגלי כנפיים</l>
+          <l>תתחילי בלחלום ואז פקחי לאט עיניים</l>
+          <l>אם תנסי לעוף, עוד תגלי שמיים</l>
+          <l>ומה הם מגלים, וכמה הם גדולים</l>
+          <l>בינתיים...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ילדה בודדה על מי את מסתכלת</l>
+          <l>מבעד לזכוכית של החלון שבחדרך</l>
+          <l>את מי את מחפשת כל לילה בידייך</l>
+          <l>ללחוש לו את פחדייך, לבד על מיטתך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם תנסי לעוף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חוני 2</title>
+        <singer classification="band">מורה</singer>
+        <writer>שחר ברבש</writer>
+        <composer>שחר ברבש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חוני</head>
+        <lg number="1" type="stanza">
+          <l>אמצע המדבר </l>
+          <l>אמצע לילה </l>
+          <l>המרכז קורא לי </l>
+          <l>חוני, חוני </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בוא וגע בי </l>
+          <l>ואגע בך </l>
+          <l>תחזור חולי </l>
+          <l>חוני, חוני</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מגרפה ומעדר</title>
+        <singer classification="female singer">עירית ענבי</singer>
+        <writer>חיה שנהב</writer>
+        <composer>ציפי כהנוביץ'</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מגרפה ומעדר</head>
+        <lg number="1" type="stanza">
+          <l>מגרפה ומעדר</l>
+          <l>גינה קטנה פה נסדר</l>
+          <l>נזרע צנונית וגם בצל.</l>
+          <l>ואפונה הכל יגדל.</l>
+          <l>הנה עלה, הנה שני עלים</l>
+          <l>העלים צומחים גדלים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הנה כבר צנונית קטנה נה נה נה נה</l>
+          <l>איזה יופי של גינה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

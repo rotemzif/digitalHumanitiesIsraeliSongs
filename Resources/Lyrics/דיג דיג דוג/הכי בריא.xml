@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכי בריא</title>
+        <singer classification="unknown">דיג דיג דוג</singer>
+        <writer>מיכל חזון</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכי בריא</head>
+        <lg number="1" type="stanza">
+          <l>מי יודע מי יודע, מה בריא מאוד?</l>
+          <l>מה בריא יותר מתרד ומסוכריות?</l>
+          <l>מי יודע מי יודע, מה הכי בריא?</l>
+          <l>מה בריא יותר מגזר וסלט טרי?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>להתחבק, להתנשק</l>
+          <l>להתחבק להתנשק ביחד לשחק</l>
+          <l>להשתולל, להתגלגל</l>
+          <l>להשתולל להתגלגל ביחד לטייל.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מי יודע מי יודע, מה הכי כדאי?</l>
+          <l>מה כדאי יותר מגלידה ומלחם חי?</l>
+          <l>מי יודע מי יודע, מה כדאי מאוד?</l>
+          <l>מה כדאי יותר ממסטיק וממתנות?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>להתחבק, להתנשק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

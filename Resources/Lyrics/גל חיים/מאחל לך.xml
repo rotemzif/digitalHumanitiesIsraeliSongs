@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאחל לך</title>
+        <singer classification="unknown">גל חיים</singer>
+        <writer>חיים בסן</writer>
+        <composer>חיים בסן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאחל לך</head>
+        <lg number="1" type="stanza">
+          <l>היכן אמצא עוד בחורה שתאהב אותי כמוך</l>
+          <l>נשמה טהורה שבי תמיד תתמוך</l>
+          <l>לא ידעתי להעריך לא נתתי מה שצריך </l>
+          <l>ובצדק את הלכת, כמו עלה מחיי את נשרת.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מאחל לך רק טוב, אל תשכחי לאהוב</l>
+          <l>ותזכרי שיש בחור שלך תמיד דואג</l>
+          <l>ישאל תמיד לשלומך, מדי פעם גם אתקשר</l>
+          <l>למרות שאת לא חברה ואני לא החבר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את הלכת לך לדרכך ואני לדרכי </l>
+          <l>כואבת לי המחשב שממני תתנתקי </l>
+          <l>איך הייתי איתך הרבה ועכשיו משלם </l>
+          <l>איך בך זלזלתי אז מודה אני אשם.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מאחל לך רק טוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

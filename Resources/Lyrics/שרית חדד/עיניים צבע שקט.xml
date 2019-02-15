@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עיניים צבע שקט</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>טל שגב</writer>
+        <composer>יעקב למאי</composer>
+        <album>מרוץ החיים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עיניים צבע שקט</head>
+        <lg number="1" type="stanza">
+          <l>עיניים צבע שקט ונשמה זהב</l>
+          <l>רוצה איתך ללכת בגשם ועכשיו</l>
+          <l>אף פעם לא ידעתי שככה מרגישים</l>
+          <l>בלב שלי בוערת אהבת חיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בשבילנו, רק לשנינו</l>
+          <l>את האושר הוא שלח</l>
+          <l>את העצב, את הפחד</l>
+          <l>מלבינו הוא לקח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ניצחנו לתמיד</l>
+          <l>אפשר כבר להגיד</l>
+          <l>האהבה מצאה אותי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עיניים צבע שקט ונשמה זהב</l>
+          <l>רציתי כבר ללכת היה בי עצב רב</l>
+          <l>ואז פתאום נכנסת ואת כולי הרגעת</l>
+          <l>אני יודעת שניצחתי את פחדי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בשבילנו, רק לשנינו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

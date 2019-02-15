@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בגלל אהבה</title>
+        <singer classification="male singer">תמיר גל</singer>
+        <writer>מרטין גל</writer>
+        <composer>מרטין גל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בגלל אהבה</head>
+        <lg number="1" type="stanza">
+          <l>פנים של מלאך הכל אתן רק לך</l>
+          <l>כל כך קשה איתך עם הגאווה שלך</l>
+          <l>שלום את לא אומרת כשאת ברחוב עוברת</l>
+          <l>ליבי את שוברת איזה משחק את משחקת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את צוחקת ובוכה זו כוכה של אהבה</l>
+          <l>בין רוצה ולא רוצה כל הזמן אותי דוחה</l>
+          <l>את צוחקת ובוכה זו כוכה של אהבה</l>
+          <l>בין רוצה ולא רוצה כל הזמן אותי דוחה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בגלל אהבה אני משוגע</l>
+          <l>בגלל אישה אוהב אותה</l>
+          <l>בגלל אהבה אני משוגע</l>
+          <l>בגלל אישה אוהב אותה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איתך כל כך קשה הכל סיבוך כזה</l>
+          <l>דבר אחד רוצה רק לומר לך ש..</l>
+          <l>את באה והולכת אפילו לא שואלת</l>
+          <l>פתאום את נעלמת איזה משחק את משחקת</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את צוחקת ובוכה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

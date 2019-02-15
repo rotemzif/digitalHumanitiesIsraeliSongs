@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גולף לבנה</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>אבי פרץ</writer>
+        <composer>אבי פרץ</composer>
+        <album>סהרורי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גולף לבנה</head>
+        <lg number="1" type="stanza">
+          <l>יפה ושונה בגולף לבנה </l>
+          <l>מסתובבת סביבי אש בקירבי כשרואים אותה </l>
+          <l>איך כל העינים רוצות אותה</l>
+          <l>עינים כחולות שיער זהבהב משקפיים כהים</l>
+          <l>חיוך ושפתיים שכל אחת</l>
+          <l>היתה רק חולמת להיות כמותה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה כואב</l>
+          <l>זה כואב לי שאת לא איתי</l>
+          <l>איך הכל מסתובב מסביבי</l>
+          <l>כי את השמיים שלי השמיים שלי עיניים שלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהבה ראשונה לא מבינה </l>
+          <l>מכשפת אותי וללבי אין כבר מנוחה</l>
+          <l>היא כל כך מושלמת ומתוקה</l>
+          <l>מה לעשות אני גבר רומנטי</l>
+          <l>עם לב שפועם בקצב דרמטי</l>
+          <l>לחיות איתה הכל אתן רק להיות שלה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה כואב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חטף צינון ברגשות</title>
+        <singer classification="unknown">נוריאל מור</singer>
+        <writer>נוריאל מור</writer>
+        <composer>נוריאל מור</composer>
+        <album>לילה טוב חיים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חטף צינון ברגשות</head>
+        <lg number="1" type="stanza">
+          <l>ילד סובל מקור נדד בלילות</l>
+          <l>עם סל תלוי ללבו</l>
+          <l>ללקט קצת חום .</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חטף צינון ברגשות</l>
+          <l>קנה אהבה במחיר מציאה</l>
+          <l>ביקש ללטף שד חשוף.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>השמש מציפה את כולם באורה</l>
+          <l>אך לבו חדר חשוך</l>
+          <l>חברי לעולם לא ישוב.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>גבר רועד מקור</l>
+          <l>בחיק הזונה,גוסס,</l>
+          <l>בלי אהבה .</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>חטף צינון ברגשות ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

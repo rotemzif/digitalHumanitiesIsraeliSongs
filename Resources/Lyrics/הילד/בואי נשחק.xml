@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואי נשחק</title>
+        <singer classification="unknown">הילד</singer>
+        <writer>אלון חסון</writer>
+        <composer>אלון חסון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואי נשחק</head>
+        <lg number="1" type="stanza">
+          <l>את נכנסת לכיתה בכל בוקר</l>
+          <l>אני קורץ לך ודלוק כמו ג'וקר</l>
+          <l>בינינו יש רק מורה מעצבנת</l>
+          <l>אני בוהה בך ואת ללוח מתבוננת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כן, רק תגידי כן</l>
+          <l>אני אגדל ואיתך אתחתן</l>
+          <l>לא אל תגידי לא</l>
+          <l>תהיי שלי ולא שלו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בואי נשחק בואי נשחק</l>
+          <l>באבא ואמא אותך אנשק</l>
+          <l>בואי נשחק בואי נשחק</l>
+          <l>אני אהיה דקפריו ואת תיהי ווינסלט</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוד שעה אחרי שיעור גיאוגרפיה</l>
+          <l>אקנה לך גלידה ואלווה אותך הביתה</l>
+          <l>ובדרך תהיה לי הזדמנות אחרת</l>
+          <l>אבקש ממך אולי תבואי איתי לסרט</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כן, רק תגידי כן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

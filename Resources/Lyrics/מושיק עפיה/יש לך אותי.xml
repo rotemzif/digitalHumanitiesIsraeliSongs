@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לך אותי 6</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>עממי בולגרי</composer>
+        <album>בשבילי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לך אותי</head>
+        <lg number="1" type="stanza">
+          <l>במקרה אותך פגשתי כשהיית פה בסביבה </l>
+          <l>בקלות בך התאהבתי והכל בי השתנה </l>
+          <l>את ליבי פתאום הרגשתי מתמלא באהבה </l>
+          <l>ומיד אני הבנתי שרק את היחידה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לך אני נשבעתי אהובתי </l>
+          <l>מעכשיו לנצח יש לך אותי </l>
+          <l>קחי אותי הלילה תני לי אהבה </l>
+          <l>אם אני המלך את היא המלכה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בדרכי אותך אהבתי ונתתי מעצמי </l>
+          <l>ואמשיך כי לך נשבעתי שתמיד את תחייכי </l>
+          <l>והיום אלייך באתי להגיד את שבלב </l>
+          <l>בשפה פשוטה אמרתי שאותך אני אוהב </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לך אני נשבעתי אהובתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שניים 10</title>
+        <singer classification="male singer">נתן כהן</singer>
+        <writer>שמעון ספיר</writer>
+        <composer>נתן כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שניים</head>
+        <lg number="1" type="stanza">
+          <l>החורף בא אל מבטה</l>
+          <l>אפור וערירי</l>
+          <l>מותיר בעקבותיו סופות שלגים קרים</l>
+          <l>על ברק עיניה שאבד</l>
+          <l>והיא לבד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ובא הקיץ מדברי</l>
+          <l>צורב בחיוכה</l>
+          <l>מותיר בעקבותיו מיתר גרון ניחר</l>
+          <l>על קול צחוקה אשר אבד</l>
+          <l>והיא לבד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ובא הסתיו אל חלונה</l>
+          <l>נושר עלים עלים</l>
+          <l>מותיר בעקבותיו שורות שברי מילים</l>
+          <l>על ניגונה אשר אבד</l>
+          <l>והיא לבד</l>
+          <l>והיא לבד לבד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עמד אביב על סף ביתה</l>
+          <l>עודו בחיתוליו</l>
+          <l>עמד על סף ביתה ולא פתחה דלתה</l>
+          <l>צל אהובה אשר אבד</l>
+          <l>אתה לבד</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ובא הסתיו אל חלונה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

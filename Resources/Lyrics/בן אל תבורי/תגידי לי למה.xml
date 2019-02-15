@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תגידי לי למה</title>
+        <singer classification="unknown">בן אל תבורי</singer>
+        <writer>בן אל תבורי</writer>
+        <composer>בן אל תבורי</composer>
+        <album>מוצא בך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תגידי לי למה</head>
+        <lg number="1" type="stanza">
+          <l>מה יהיה הסוף איתך</l>
+          <l>הכל נראה לי מסובך</l>
+          <l>כבר לא שולט בעניינים</l>
+          <l>הכל מרגיש על הפנים</l>
+          <l>הולך איתך על חבל דק</l>
+          <l>קצת דחוי ומרוחק</l>
+          <l>שמסביב הכל נסדק</l>
+          <l>בשבילך זה רק משחק</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תגידי לי למה</l>
+          <l>אני משתגע</l>
+          <l>נסחף אחרייך</l>
+          <l>אחר כך טובע</l>
+          <l>ואם את באמת</l>
+          <l>אוהבת אותי</l>
+          <l>תני לי להרגיש</l>
+          <l>שזה אמיתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך נמשכתי כמו מגנט</l>
+          <l>אל יופייך המהפנט</l>
+          <l>עשיתי בשבילך הכל</l>
+          <l>עכשיו נפלתי בגדול</l>
+          <l>אולי יש מישהו אחר</l>
+          <l>ואין בך אהבה יותר</l>
+          <l>רק תגידי שאדע</l>
+          <l>כבר נהייתי משוגע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תגידי לי למה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

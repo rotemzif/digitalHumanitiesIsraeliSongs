@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילה לבן 7</title>
+        <singer classification="male singer">עידן יניב</singer>
+        <writer>נפתלי קון</writer>
+        <composer>נפתלי קון</composer>
+        <album>מי אם לא עידן יניב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילה לבן</head>
+        <lg number="1" type="stanza">
+          <l>וזה כבר כמה שבועות</l>
+          <l>שאני חושב ללכת ממך</l>
+          <l>וזה כואב ומתמשך</l>
+          <l>וזה לילה חמישי</l>
+          <l>שנושרים עלי שלכת,</l>
+          <l>זה בוער, לא להישאר,</l>
+          <l>לא להישבר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וזה סוגר לי את הלב</l>
+          <l>זה מחשיך לי את הדרך</l>
+          <l>אבל עושה אותי חזק</l>
+          <l>אני מוכן לך, אני מוכן לך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וזה כבר כמה חלומות</l>
+          <l>שבהם את מככבת, זה קשה</l>
+          <l>להתעורר איתך, על כוס קפה</l>
+          <l>כן, וזה לילה חמישי שנושרים עלים לי</l>
+          <l>זה בוער, לא לא לא להישאר</l>
+          <l>לא להישבר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וזה סוגר לי את הלב</l>
+          <l>זה מחשיך לי את הדרך</l>
+          <l>אבל עושה אותי חזק</l>
+          <l>אני מוכן לך, אני מוכן לך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וזה סוגר לי את הלב</l>
+          <l>זה מחשיך לי את הדרך</l>
+          <l>אבל עושה אותי חזק</l>
+          <l>עכשיו מוכן לך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

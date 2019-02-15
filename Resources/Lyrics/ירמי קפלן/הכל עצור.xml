@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכל עצור</title>
+        <singer classification="male singer">ירמי קפלן</singer>
+        <writer>חמי רודנר</writer>
+        <composer>missing</composer>
+        <album>ירמי קפלן והפרחים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכל עצור</head>
+        <lg number="1" type="stanza">
+          <l>אהבה עוטפת אותי ואני מוצף</l>
+          <l>האויר מתוק וסמיך</l>
+          <l>עד שאני נחנק</l>
+          <l>ואת כל כך רצית להיות מאושרת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הכל עצור</l>
+          <l>הכל עצור</l>
+          <l>הכל עצור</l>
+          <l>האם עכשיו תוכלי להיות מאושרת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אף אחד לא רואה</l>
+          <l>מה אני מרגיש</l>
+          <l>ואת שואלת אותי</l>
+          <l>איך אני נשאר אדיש</l>
+          <l>אני מובל כמו חיה אל הטבח.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הכל עצור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

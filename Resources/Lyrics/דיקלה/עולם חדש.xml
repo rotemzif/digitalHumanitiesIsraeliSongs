@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עולם חדש 3</title>
+        <singer classification="female singer">דיקלה</singer>
+        <writer>דיקלה</writer>
+        <composer>דיקלה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עולם חדש</head>
+        <lg number="1" type="stanza">
+          <l>ציירי לי דרך</l>
+          <l>ציירי לי מקום</l>
+          <l>נלך ביחד</l>
+          <l>נלך ונחלום</l>
+          <l>הו ציפור שלי</l>
+          <l>לטפי אותי עכשיו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ספרי על ארץ</l>
+          <l>ספרי על כוכב</l>
+          <l>נצעד ביחד</l>
+          <l>נצעד ונאהב</l>
+          <l>הו ציפור שלי</l>
+          <l>חבקי אותי עכשיו</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני עולה ועולה</l>
+          <l>בכל שנייה בכל רגע</l>
+          <l>אני רואה ורוצה התחלה</l>
+          <l>בכל רגע של עולם</l>
+          <l>עולם חדש</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ציירי לי שמש</l>
+          <l>ציירי לי חלום</l>
+          <l>נישן ביחד</l>
+          <l>נישן ונחלום</l>
+          <l>הו ציפור שלי</l>
+          <l>נשקי אותי עכשיו</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני עולה ועולה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

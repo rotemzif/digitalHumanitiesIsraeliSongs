@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מביטה קדימה</title>
+        <singer classification="female singer">זהבה בן</singer>
+        <writer>אילנית מזרחי</writer>
+        <composer>רוני אחיאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מביטה קדימה</head>
+        <lg number="1" type="stanza">
+          <l>איזה מן עולם</l>
+          <l>שמלכת המזרח עם טיפת מזל</l>
+          <l>תגיד סלמאת</l>
+          <l>מתחת גשם בוכה</l>
+          <l>נותרה לה זהבה בובה</l>
+          <l>ואם אלוהים ירצה</l>
+          <l>אמשיך ולא אמעד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלוהים הוא שנתן לי קול יפה</l>
+          <l>הקהל הוא שנתן לי אומץ שכזה</l>
+          <l>הסבל הוא שנתן לי את הכוח הזה</l>
+          <l>פתאום גילו אותי ואשיר לכם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא יכולה לומר בדיוק מה קרה</l>
+          <l>הייתי בסך הכל ילדה מן השורה</l>
+          <l>לא מביטה קדימה, הכל בא בהפתעה</l>
+          <l>פתאום גילו אותי - ואני על הבמה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלוהים הוא שנתן לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

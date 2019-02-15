@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילדה קטנה 14</title>
+        <singer classification="unknown">ניבין</singer>
+        <writer>אבי כהן</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילדה קטנה</head>
+        <lg number="1" type="stanza">
+          <l>אל תספר יותר שקרים</l>
+          <l>הרסת לי כבר את החיים</l>
+          <l>אל תספר יותר שקרים</l>
+          <l>הרסת לי כבר את החיים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל מילה הכאיבה בפנים</l>
+          <l>אין לי איתך יותר חיים</l>
+          <l>כל מילה הכאיבה בפנים</l>
+          <l>אין לי איתך יותר חיים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ילדה קטנה הייתי פעם</l>
+          <l>איתך לא אלך יותר אף פעם</l>
+          <l>איתי שיחקת הרסת גם</l>
+          <l>אין בי כוח להמשיך לסבול</l>
+          <l>איתי שיחקת הרסת גם</l>
+          <l>אין בי כוח להמשיך לסבול...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא ידעתי שאותי תמגנט</l>
+          <l>לא האמנתי שאלי תתמגנט</l>
+          <l>לא ידעתי שאותי תמגנט</l>
+          <l>לא האמנתי שאלי תתמגנט</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כל מה שעשיתי זה לא עוזר</l>
+          <l>אתה ממשיך בי לשקר</l>
+          <l>כל מה שעשיתי זה לא עוזר</l>
+          <l>אתה ממשיך בי לשקר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ילדה קטנה הייתי פעם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

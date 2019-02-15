@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמי הנלך לירושלים</title>
+        <singer classification="male singer">דני גרנות</singer>
+        <writer>דן אלמגור</writer>
+        <composer>נועם שריף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמי הנלך לירושלים</head>
+        <lg number="1" type="stanza">
+          <l>אמי הנלך לירושלים?</l>
+          <l>עיר שכולה ערוגות ובשמים</l>
+          <l>עיר הסמוקה מאודם רימונים</l>
+          <l>עיר שריחה הוא כריח ורדים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הו הו הו הו הו הו הו</l>
+          <l>עיר שריחה כורדים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אמי הנלך לירושלים?</l>
+          <l>שם נלקט אבני חן ברחובות.</l>
+          <l>שם אליהו ועיניו טובות</l>
+          <l>עיר שריחה הוא כריח ורדים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הו הו הו הו הו הו הו</l>
+          <l>עיר שריחה כורדים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אמי הנלך לירושלים?</l>
+          <l>שמה ארחץ את רצפת המקדש.</l>
+          <l>גם אבריקנה יום יום מחדש</l>
+          <l>ואבשמה בריח ורדים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הו הו הו הו הו הו הו</l>
+          <l>עיר שריחה כורדים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

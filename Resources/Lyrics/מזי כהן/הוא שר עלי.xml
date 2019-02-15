@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הוא שר עלי</title>
+        <singer classification="female singer">מזי כהן</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>דני גרנות</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הוא שר עלי</head>
+        <lg number="1" type="stanza">
+          <l>כל שבוע באותו מקום</l>
+          <l>הוא פורט על מיתרי חלום</l>
+          <l>וקולו עמוק יותר ממים</l>
+          <l>שתי עיניו יוקדות באור אחר</l>
+          <l>נר קטן דולק על הפסנתר</l>
+          <l>וידיו פורטות על השמים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>צליל עולה וצליל נגמר</l>
+          <l>דמעות בשתי עיני</l>
+          <l>איך הוא מכיר את נשמתי</l>
+          <l>את עצמי</l>
+          <l>ואת לילותי</l>
+          <l>הוא שר עלי</l>
+          <l>הוא שר אלי</l>
+          <l>הוא שר עלי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ובחוץ זורמים האנשים</l>
+          <l>החיים עושים אותם קשים</l>
+          <l>לא נוגעים באושר בידיים</l>
+          <l>בפינה של בר קטן עלוב</l>
+          <l>מנגן בשקט שיר עצוב</l>
+          <l>וקולו עולה עד השמים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>צליל עולה וצליל נגמר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

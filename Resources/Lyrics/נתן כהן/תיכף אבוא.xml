@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תיכף אבוא</title>
+        <singer classification="male singer">נתן כהן</singer>
+        <writer>דודו ברק</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תיכף אבוא</head>
+        <lg number="1" type="stanza">
+          <l>תיכף אבוא. תיכף אבוא.</l>
+          <l>כך קורא אלי קולך מקצה הליל.</l>
+          <l>תיכף אבוא. תיכף אבוא.</l>
+          <l>שם אבדה דמותך בחוף. מול ים המים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והומה נשמתי.</l>
+          <l>וגואה תשוקתי.</l>
+          <l>אל יופייך.</l>
+          <l>אל גופך.</l>
+          <l>אל שפתייך.</l>
+          <l>לו היית כאן איתי,</l>
+          <l>כלתי. יפתי.</l>
+          <l>הן קשרתי חיי בחייך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תיכף אבוא. תיכף אבוא.</l>
+          <l>על סולם אור הלבנה עולים שירייך.</l>
+          <l>תיכף אבוא. תיכף אבוא.</l>
+          <l>לי נשבעת ונעלמת. לאן פנייך?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והומה נשמתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קטיפה שחורה 2</title>
+        <singer classification="band">רוקפור</singer>
+        <writer>דני רכט</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קטיפה שחורה</head>
+        <lg number="1" type="stanza">
+          <l>בערב עטופה את בקטיפה שחורה</l>
+          <l>כותונת זו גלימה את ידייך קשרה</l>
+          <l>השקט בעינייך לא מסתיר זאת</l>
+          <l>את שעוברת את הגבול הדק מצד אל צד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רוצה לומר דברים אבל בסוף שותק</l>
+          <l>סופר את המילים ולא אומר דבר</l>
+          <l>אני צף על פני המים בחוסר מנוחה,</l>
+          <l>ומחכה עד שנוכל שוב לדבר את בלבן מנותקת.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בצער אוסף את כל מה שנמצא בי</l>
+          <l>שאריות הנפש מתגלות לאט.</l>
+          <l>בדרך אל הורד לא הבטחת דבר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רוצה לומר דברים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ובלילות שלא נרדם, הולך עטוף במחשבות</l>
+          <l>נופל עוד פעם ועוד פעם מה הטעם.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בצער אוסף את כל מה שנמצא בי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

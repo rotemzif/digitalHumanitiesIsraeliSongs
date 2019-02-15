@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שוב תודה</title>
+        <singer classification="female singer">מירי מסיקה</singer>
+        <writer>אריק ברמן</writer>
+        <composer>אריק ברמן</composer>
+        <album>שלום לאמונות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שוב תודה</head>
+        <lg number="1" type="stanza">
+          <l>זה הזמן שלך לוותר לי</l>
+          <l>שעה לעקור ממני יתדות</l>
+          <l>שאוכל לצאת אל הדרך</l>
+          <l>אל גיא המחר מעמק האתמול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היו ימים - הייתי תרה את שדותיך</l>
+          <l>למצוא בין שפתיך צוף לדבש</l>
+          <l>ובלילות בהם ירדתי אל הנחל</l>
+          <l>לשטוף בעיניך את אשר יבש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שוב תודה על אומץ הלב ש-</l>
+          <l>ידעת לשאת פירות מאדמתי</l>
+          <l>תבונתך לאורך הדרך</l>
+          <l>עזרה להשקות היום מי שאני</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היו ימים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מתי לאחרונה קטפנו פרח</l>
+          <l>ובלי שאיזה חג קרב ובא</l>
+          <l>זה יותר משבוע, או חודש, או שנה...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>היו ימים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

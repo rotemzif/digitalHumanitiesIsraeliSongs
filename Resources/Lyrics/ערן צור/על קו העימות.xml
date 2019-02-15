@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>על קו העימות</title>
+        <singer classification="male singer">ערן צור</singer>
+        <writer>ענבל פרלמוטר</writer>
+        <composer>missing</composer>
+        <album>חותך בחתך הזהב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>על קו העימות</head>
+        <lg number="1" type="stanza">
+          <l>על קו העימות, לארכו של התפר </l>
+          <l>בור ועם הארץ פוגש את פוץ ועם הספר </l>
+          <l>ולא ידעו לשוחח על טעם וריח </l>
+          <l>שולחים אצבע אשמנית </l>
+          <l>כי הגשר צר מאוד </l>
+          <l>מי ייסוג אחורנית? </l>
+          <l>לכולם כל הכבוד </l>
+          <l>נלחמים שוב ושוב </l>
+          <l>אדמה זה חשוב </l>
+          <l>שנאמר ככתוב </l>
+          <l>יכתתו חרבותם </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לעיתים יצטברו ערימות המתים </l>
+          <l>יחטט באפו המנהיג </l>
+          <l>לא אנחנו ניסוג </l>
+          <l>לא אנחנו נבליג </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה רבו הימים, ימי מדון ומריבה </l>
+          <l>והספר צודק, הארץ טובה </l>
+          <l>ואת ההמשך ההיסטוריה כבר כתבה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לעיתים יצטברו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

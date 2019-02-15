@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בסוף 16</title>
+        <singer classification="band">להקת שיר</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בסוף</head>
+        <lg number="1" type="stanza">
+          <l>בסוף, כולם הולכים הביתה</l>
+          <l>בסוף, גם המסך יורד</l>
+          <l>בחוץ, יוצאים כוכבי הלילה</l>
+          <l>ואומרים שלום צריך להיפרד.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בסוף, כל חגיגה נגמרת</l>
+          <l>בסוף, אוספים רק זיכרונות</l>
+          <l>בסוף, המנגינה נשארת</l>
+          <l>ואומרת לי שלום להתראות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הכל עובר, הכל עובר,</l>
+          <l>ורק שירי הטוב תמיד חוזר</l>
+          <l>זה כמו חלום, שלום,שלום,</l>
+          <l>עוד ניפגש בבוא היום.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בסוף, כל חגיגה נגמרת</l>
+          <l>בסוף, אוספים רק זיכרונות</l>
+          <l>בסוף, המנגינה נשארת</l>
+          <l>ואומרת לי שלום להתראות.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הכל עובר, הכל עובר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

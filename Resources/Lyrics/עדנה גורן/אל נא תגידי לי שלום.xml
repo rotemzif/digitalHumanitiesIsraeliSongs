@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל נא תגידי לי שלום</title>
+        <singer classification="female singer">עדנה גורן</singer>
+        <writer>עודד אבישר</writer>
+        <composer>נחום נרדי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל נא תגידי לי שלום</head>
+        <lg number="1" type="stanza">
+          <l>אזכור היה אז ליל בדד פרח שושן </l>
+          <l>שושן אי שם אתה נראה </l>
+          <l>בבכי ישן נושן </l>
+          <l>והוא עם התרמיל עמד, עמד מולי</l>
+          <l>הביט אל תוך עיני</l>
+          <l>ולחש אט לי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל נא תגידי לי שלום </l>
+          <l>אל נא תגידי עוד אשוב הלום </l>
+          <l>אל נא תגידי עוד יבוא היום </l>
+          <l>הזיכרונות יהיו חלום </l>
+          <l>אל נא תגידי לי שלום </l>
+          <l>אל נא תגידי עוד אשוב הלום </l>
+          <l>כי את דרכי מחר עוטף הערפל </l>
+          <l>ויישאר לך רק החלום </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ועוד לילות חלפו קמלו עוד שושנים </l>
+          <l>ועם הערפל בכו גם הגלים </l>
+          <l>ושוב אני בגן בדד עם רוח ליל </l>
+          <l>שומעת את הטל שככה מילל </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל נא תגידי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

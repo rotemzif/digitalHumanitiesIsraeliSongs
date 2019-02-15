@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין אהבה כזאת בעולם</title>
+        <singer classification="male singer">ליאור פרחי</singer>
+        <writer>ברי כהן</writer>
+        <composer>ברי כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין אהבה כזאת בעולם</head>
+        <lg number="1" type="stanza">
+          <l>ערב בא כמו המבטים שלנו</l>
+          <l>מתקרב מילים יפות מילים טובות אני שומע</l>
+          <l>וכמו גלים אל תוך החוף כך ידי את ידך תעטוף</l>
+          <l>ושנינו נישאר כמו בסרט ישן נצחי ובלי סוף</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין עוד אהבה כזאת בעולם</l>
+          <l>כמו ים את סוחפת אותי</l>
+          <l>שנינו יחד נישאר עד שניגמר</l>
+          <l>את תמיד איתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ערב בא כמו המבטים שלנו מפתה</l>
+          <l>מילים יפות מילים טובות אני שומע</l>
+          <l>וכמו גלים אל תוך הלב</l>
+          <l>יעברו בי שמחה וכאב</l>
+          <l>שוב ושוב אני בך מתאהב</l>
+          <l>כמו ילד מתלהב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין עוד אהבה כזאת בעולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

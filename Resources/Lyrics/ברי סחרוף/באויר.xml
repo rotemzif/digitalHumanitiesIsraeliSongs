@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>באויר</title>
+        <singer classification="male singer">ברי סחרוף</singer>
+        <writer>רמי פורטיס</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>באויר</head>
+        <lg number="1" type="stanza">
+          <l>החיים הם הפתעה</l>
+          <l>כמו משחק בקוביה</l>
+          <l>יש לו כסף, אין לו בית</l>
+          <l>רק אתה והאבקה</l>
+          <l>מהלך בסמטאות</l>
+          <l>מנוקב מהדקירות</l>
+          <l>משלם את המחיר</l>
+          <l>ותלוי לו באוויר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>באוויר, באוויר, באוויר...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מנותק בלי שום קשר</l>
+          <l>מחפש ללא סיכוי</l>
+          <l>מהבוקר עד הערב</l>
+          <l>זה תמיד אותו עינוי</l>
+          <l>בעיניים אדומות</l>
+          <l>בין הקווים והשורות</l>
+          <l>אין כל רגש ובושה</l>
+          <l>מאבד את התחושה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>באוויר, באוויר, באוויר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

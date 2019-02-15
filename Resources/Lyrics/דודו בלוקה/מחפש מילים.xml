@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחפש מילים</title>
+        <singer classification="unknown">דודו בלוקה</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>ורדית ספדיה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחפש מילים</head>
+        <lg number="1" type="stanza">
+          <l>כוכב קטן מאיר לי בדרך ללבך,</l>
+          <l>ירח שוב לוחש לי באהבה את שמך.</l>
+          <l>אתך עוצם עיניים לרגע לא נושם,</l>
+          <l>ולא מבין עדיין אולי אני חולם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מחפש מילים להגיד לך שאני אוהב,</l>
+          <l>מחפש מילים להשכיח מלבך כאב.</l>
+          <l>מחפש מילים ולא מצליח כי הראש סובב,</l>
+          <l>כי את לי, כן את לי משגעת את הלב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מלאך פורש כנפיים אותנו מברך,</l>
+          <l>שלעולם בשניים נאהב ונחייך.</l>
+          <l>אתך אני נוגע באלף חלומות,</l>
+          <l>ולצדך יודע שטוב כל כך לחיות.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מחפש מילים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

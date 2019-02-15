@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ניצנים 4</title>
+        <singer classification="female singer">מרים אביגל</singer>
+        <writer>עממי</writer>
+        <composer>שרה לוי תנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ניצנים</head>
+        <lg number="1" type="stanza">
+          <l>ניצנים נראו בארץ</l>
+          <l>עת זמיר וקול התור.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>במחולות המחניים</l>
+          <l>הבה ונפצח מזמור.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>צרור המור לי, צרור המור לי</l>
+          <l>צרור המור לי, צרור המור.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>במחולות המחניים</l>
+          <l>הבה ונפצח מזמור.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

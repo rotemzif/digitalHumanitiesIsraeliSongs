@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר מולדת 4</title>
+        <singer classification="unknown">פנצ ר</singer>
+        <writer>דידי הררי</writer>
+        <composer>אורי לשמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר מולדת</head>
+        <lg number="1" type="stanza">
+          <l>די נמאס לי אני לא יכול יותר</l>
+          <l>הכל נשמע אותו דבר</l>
+          <l>הרסו לי את האוזן אותי זה מכפר</l>
+          <l>את השוק הצליל הזה שבר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זה נשמע בנאלי</l>
+          <l>הורס אותי טוטלאלי</l>
+          <l>אין פה קוקו</l>
+          <l>אין פה סרפן</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>השירים של פעם </l>
+          <l>היה להם קצת טעם </l>
+          <l>של ארץ ישראל הישנה והטובה</l>
+          <l>"שירי לי כנרת"</l>
+          <l>שרים רק במחתרת</l>
+          <l>מה קרה למדינה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ביום שישי יצאתי עם מרים</l>
+          <l>למסיבה של חברים</l>
+          <l>אמרתי: "בואי נרקוד קצת ריקודי עם"</l>
+          <l>הכניסו אותי לבית משוגעים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>השירים של פעם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נסיך שלי</title>
+        <singer classification="unknown">מורן מזור</singer>
+        <writer>אופיר כהן</writer>
+        <composer>אופיר כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נסיך שלי</head>
+        <lg number="1" type="stanza">
+          <l>כולם אומרים לי שאני כבר לא נורמאלית</l>
+          <l>חצי פולניה וחצי מרוקאית</l>
+          <l>מה עשה לך הבחור הזה</l>
+          <l>בלילות אני חולמת רק עליך</l>
+          <l>איך ברוך אני נושקת לשפתיך</l>
+          <l>אני לא יכולה יותר לצאת מזה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נסיך שלי מה אתה יודע </l>
+          <l>כשאתה לא איתי הלב רק משתגע</l>
+          <l>וכל הרגשות לוקחים אותי אליך</l>
+          <l>אין לי כלום בלעדיך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני איתך רוצה לטוס להשתגע</l>
+          <l>אתה הולך וכבר הלב מתגעגע</l>
+          <l>כשאתה לא פה זה את הלב שובר</l>
+          <l>אני יודעת שאיתך אני אצליח</l>
+          <l>אתה אחד שמקיים את שהיבטיח</l>
+          <l>רק איתך אני רוצה להישאר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נסיך שלי מה אתה יודע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

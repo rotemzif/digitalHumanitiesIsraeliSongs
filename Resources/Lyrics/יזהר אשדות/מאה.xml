@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאה 13</title>
+        <singer classification="male singer">יזהר אשדות</singer>
+        <writer>אלונה קמחי</writer>
+        <composer>missing</composer>
+        <album>עניין של הרגל</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאה</head>
+        <lg number="1" type="stanza">
+          <l>מאה דרכים לעבור ולחזור</l>
+          <l>בין גבר לאשה</l>
+          <l>מאה קווים לשרטט ולמחוק</l>
+          <l>בין כח לחולשה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מאה פרידות</l>
+          <l>מאה פגישות</l>
+          <l>מאה שעות לבד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מאה למות</l>
+          <l>מאה לחיות</l>
+          <l>ואהבה אחת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כמה פנים להשאיר מאחור</l>
+          <l>כמה פנים לזכור</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מאה פרידות...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כמה מילים להגיד או לשתוק</l>
+          <l>בין גבר לאשה</l>
+          <l>כמה שיחות להתחיל או למחוק</l>
+          <l>בקול או בלחישה</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>מאה פרידות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

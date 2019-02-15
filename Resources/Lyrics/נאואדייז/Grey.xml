@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Grey</title>
+        <singer classification="unknown">נאואדייז</singer>
+        <writer>שגיא נווה</writer>
+        <composer>שגיא נווה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Grey</head>
+        <lg number="1" type="stanza">
+          <l>Don't you know the sun isn't round </l>
+          <l>all the waterfalls and seashells you find </l>
+          <l>Stays the same as I've been an envy of all </l>
+          <l>you had your hand on </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>Once you've gone I'm all alone </l>
+          <l>I'm running around </l>
+          <l>fading to the crowd </l>
+          <l>a call in your name </l>
+          <l>wears out fades into the grey </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Don't you know the walls never end here </l>
+          <l>if only god keep them aside </l>
+          <l>all in all </l>
+          <l>you'll never be left on your own </l>
+          <l>never be left out </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>Once you've gone I'm all alone... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>I could have been your way out </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>But once you've gone I'm all alone </l>
+          <l>I'm running around </l>
+          <l>fading to the crowd </l>
+          <l>a call in your name </l>
+          <l>wears out fades into the grey </l>
+          <l>waiting for you to return home</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

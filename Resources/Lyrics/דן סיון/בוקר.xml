@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוקר 20</title>
+        <singer classification="unknown">דן סיון</singer>
+        <writer>דן סיון</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוקר</head>
+        <lg number="1" type="stanza">
+          <l>בוקר שוב עולה על הצריף</l>
+          <l>חריקות בלמים ונביחות</l>
+          <l>ביצה קשה ואשכולית</l>
+          <l>אבק דרכים בין השדות</l>
+          <l>פוקח, מתמתח</l>
+          <l>אוהב את מה שקיים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הלכתי לאיבוד בעצמי</l>
+          <l>מאמין לכל דבר שבא</l>
+          <l>אורות כוזבים ולחשים</l>
+          <l>איך הדרך נעלמה</l>
+          <l>מתפלל אל האל</l>
+          <l>אוהב את מה שקיים בך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אויר מתוק, מעיינות, סודות גלויים, שירי מחזור</l>
+          <l>ואור גדול בו רוחצים</l>
+          <l>חושב אולי זה לא מתאים לי</l>
+          <l>כשהדרך חכמה מן ההולכים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ילד מטאטא את הקרון</l>
+          <l>שברי זכוכית מנצנצים לו</l>
+          <l>מפרנס את כל המשפחה</l>
+          <l>איך החיים נעלמים לו</l>
+          <l>מכבה, מתעורר</l>
+          <l>אוהב את מה שקיים בך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אויר מתוק, מעיינות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

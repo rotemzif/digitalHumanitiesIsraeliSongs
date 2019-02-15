@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה יקרה מחר</title>
+        <singer classification="male singer">דורון מזר</singer>
+        <writer>אילן גולדהירש</writer>
+        <composer>דורון מזר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה יקרה מחר</head>
+        <lg number="1" type="stanza">
+          <l>מה יקרה מחר </l>
+          <l>מי יכול לדעת</l>
+          <l>והתפילה תמיד נשמעת</l>
+          <l>מה יקרה מחר</l>
+          <l>שואלים אצלנו </l>
+          <l>עוד יום עבר</l>
+          <l>על דרך ארוכה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תנו רק רמז </l>
+          <l>תנו מילה</l>
+          <l>תנו לקרן אור אחד באפלה</l>
+          <l>כשאדע לאן השביל מוליך</l>
+          <l>אנחנו כבר נמשיך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה יקרה מחר</l>
+          <l>שואלים עדיין</l>
+          <l>ומביטים אל השמיים</l>
+          <l>מה יהיה מחר</l>
+          <l>החידה מוכרת</l>
+          <l>ובאוויר הנה עולה השיר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תנו רק רמז...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מה יקרה מחר </l>
+          <l>יום חדש יפציע </l>
+          <l>ואם נרצה </l>
+          <l>יגיע יום יפה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

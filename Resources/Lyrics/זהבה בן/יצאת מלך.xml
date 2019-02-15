@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יצאת מלך</title>
+        <singer classification="female singer">זהבה בן</singer>
+        <writer>אליעד רגב</writer>
+        <composer>אורי קליאן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יצאת מלך</head>
+        <lg number="1" type="stanza">
+          <l>האחרון שיצליח יהיה אתה</l>
+          <l>כך לימדו אותך להאמין</l>
+          <l>עכשיו כשאתה נוגע בשמיים</l>
+          <l>מי זוכר את השנים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יושב מולו, מרוכז</l>
+          <l>עולם כולו בכך ידך</l>
+          <l>שוב מרוויח, מאושר</l>
+          <l>זה טעמה של הצלחה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יצאת, יצאת מלך</l>
+          <l>הראת לכולם שזה ההיפך</l>
+          <l>יצאת יצאת מלך</l>
+          <l>נכנסת למחשב, יצאת מלך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יום אחד זה קרה</l>
+          <l>לבד גילית את הסוד</l>
+          <l>המסע בבת אחת נפתח</l>
+          <l>מצאת אושר עוד ועוד...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יצאת, יצאת מלך...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>איפה כולם ואיפה אתה</l>
+          <l>לא מריחים את העשן שלך.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>יצאת, יצאת מלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

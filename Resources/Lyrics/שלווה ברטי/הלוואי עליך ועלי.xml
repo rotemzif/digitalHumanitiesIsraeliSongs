@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלוואי עליך ועלי</title>
+        <singer classification="female singer">שלווה ברטי</singer>
+        <writer>דודו ברק</writer>
+        <composer>עופר שרביט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלוואי עליך ועלי</head>
+        <lg number="1" type="stanza">
+          <l>אל אלוהיי, אני ביתך,</l>
+          <l>המצא לי שקט במחילה ומנוחה.</l>
+          <l>ותן מזור ותן ברכה,</l>
+          <l>ושלח לי רוגע בעולם הזה שלך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הלוואי עליך ועלי,</l>
+          <l>אור דבש ונחמה.</l>
+          <l>הלוואי, הלוואי, עליך ועלי,</l>
+          <l>שיר לנצח, מנגינה חמה.</l>
+          <l>הלוואי, הלוואי, עליך ועלי,</l>
+          <l>שנות אין קץ, על פני האדמה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל אלוהיי, אבי אתה,</l>
+          <l>אבוא אליך בתפילה הכי פשוטה:</l>
+          <l>הבא שלום, וכבר עתה.</l>
+          <l>הבטחתך היא האמת לאמיתה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הלוואי עליך ועלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

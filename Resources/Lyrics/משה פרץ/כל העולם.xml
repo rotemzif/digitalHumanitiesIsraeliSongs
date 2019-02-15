@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל העולם 6</title>
+        <singer classification="male singer">משה פרץ</singer>
+        <writer>משה פרץ</writer>
+        <composer>משה פרץ</composer>
+        <album>אש</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל העולם</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>כל כל העולם אני אתן למענך</l>
+          <l>אני מרגיש שבלעדייך זה דועך</l>
+          <l>אם רק תתני מעט ממך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני נזכר בריח שהשארת לי על הכר</l>
+          <l>מביט אל השעון כבר מאוחר</l>
+          <l>ולא יכול לישון חושב על המחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יוצא לרחוב ומטייל לי בין הדמיונות</l>
+          <l>ומנסה למצוא שעות קסומות</l>
+          <l>פתאום רואה אותך בכל המקומות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל כל העולם אני אתן למענך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כשאת הגעת פתאום הרגשתי שליבי ניצבט</l>
+          <l>ואור גדול ממני שוב בלט</l>
+          <l>מיד הבנתי שאני אוהב אותך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כל כל העולם אני אתן למענך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

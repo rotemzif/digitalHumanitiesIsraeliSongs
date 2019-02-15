@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לולה</title>
+        <singer classification="male singer">דודו טסה</singer>
+        <writer>דודו טסה</writer>
+        <composer>missing</composer>
+        <album>לולה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לולה</head>
+        <lg number="1" type="stanza">
+          <l>השפה שאנחנו מדברים</l>
+          <l>אני צועק, את בוחרת מילים</l>
+          <l>את בוכה, אני שובר ת'כלים</l>
+          <l>אני דובר אמת</l>
+          <l>את מציירת אותי משוגע</l>
+          <l>את קוראת, אני שותק כמו חיה</l>
+          <l>אני ריק, את עם הכוס המלאה</l>
+          <l>אני דובר אמת</l>
+          <l>אנשך כל מי שיתקרב</l>
+          <l>ארחיק כל מי שיתערב</l>
+          <l>אטרוף אותם כמו זאב</l>
+          <l>אני דובר אמת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עכשיו תקשיבי לולה</l>
+          <l>אני סתם בחור שכונה שמאוהב במלכה</l>
+          <l>אלוהים נותן כפול</l>
+          <l>שנים עם ראש נפול</l>
+          <l>עכשיו תקשיבי לולה, לולה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את מתרגלת עמידה זקופה</l>
+          <l>אני חותך אותך באמצע שיחה</l>
+          <l>בקרוב אני אמות מקנאה</l>
+          <l>אני דובר אמת</l>
+          <l>אנשך כל מי שיתקרב</l>
+          <l>ארחיק כל מי שיתערב</l>
+          <l>אטרוף אותם כמו זאב</l>
+          <l>אני דובר אמת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עכשיו תקשיבי לולה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

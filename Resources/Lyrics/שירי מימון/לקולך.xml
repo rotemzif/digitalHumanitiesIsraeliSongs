@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לקולך</title>
+        <singer classification="female singer">שירי מימון</singer>
+        <writer>יהודה מסס</writer>
+        <composer>יהודה מסס</composer>
+        <album>שירי מימון</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לקולך</head>
+        <lg number="1" type="stanza">
+          <l>לקולך אהובי מחכה ומקווה</l>
+          <l>כשאראה את דמותך אהובי לא אדמע</l>
+          <l>אנשק אחבק ותרעיף אהבה</l>
+          <l>לעולם לא אשאר האחת בשבילך</l>
+          <l>אם תחזיר את האור אל חיי מבטיחה</l>
+          <l>שאחצוב בליבי את הנס ואקרא</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>משנתי אתעורר אל בוקר</l>
+          <l>שכולו וכולי תפילה</l>
+          <l>אל הנס שאותו מאחלת </l>
+          <l>לחיי ולך משאלה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עם הדרך תלך ואולי תתרחק</l>
+          <l>לא יחלוף היום,ולא יחלוף הכאב</l>
+          <l>והרגע אליו כל גופי ישתוקק</l>
+          <l>זה היום הלב מאמין שקרב</l>
+          <l>אם תחזיר את האור אל חיי מבטיחה</l>
+          <l>שאחצוב בליבי את הנס ואקרא</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>משנתי אתעורר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם תחזיר את האור אל חיי מבטיחה</l>
+          <l>שאחצוב בליבי את הנס ואקרא</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>משנתי אתעורר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

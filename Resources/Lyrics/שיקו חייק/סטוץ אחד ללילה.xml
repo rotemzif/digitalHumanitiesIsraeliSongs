@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סטוץ אחד ללילה</title>
+        <singer classification="unknown">שיקו חייק</singer>
+        <writer>שיקו חייק</writer>
+        <composer>שיקו חייק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סטוץ אחד ללילה</head>
+        <lg number="1" type="stanza">
+          <l>אני נדלק על בחורה ומתחיל</l>
+          <l>איתה מבקש את מספר הטלפון</l>
+          <l>שלה, אם היא נופלת לרשת שלי מספיק</l>
+          <l>פעם אחת איתי והיא לא רואה אותי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סטוץ אחד ללילה ואז להתראות</l>
+          <l>בלי אהבות, בלי אכזבות, סטוץ אחד ללילה</l>
+          <l>זה אחלה של דבר, תלוי</l>
+          <l>איך זה בסוף בסוף זה נגמר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בדרך כלל שיש קליק אז אין</l>
+          <l>בעיה היא אולי תזמין אותי אליה</l>
+          <l>לדירה ואם זה לא מתאפשר מחפשים</l>
+          <l>מקום אחר רק שאני ממנה לא הצטער</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סטוץ אחד ללילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

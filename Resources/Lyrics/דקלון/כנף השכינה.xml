@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כנף השכינה</title>
+        <singer classification="male singer">דקלון</singer>
+        <writer>דודו ברק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כנף השכינה</head>
+        <lg number="1" type="stanza">
+          <l>בכל בוקר, בכול ערב היא עולה,</l>
+          <l>היא עוטפת, היא לוטפת בקולה,</l>
+          <l>היא איתי ביום של חג והילולה,</l>
+          <l>היא איתי, כשנפשי בי אבלה.</l>
+          <l>היא איתי ביום של חג והילולה,</l>
+          <l>היא איתי ביום של אור או אפלה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם אלך בגיא צלמוות, לא אירא,</l>
+          <l>לא ממים, לא מאש, לא מקרה.</l>
+          <l>לקולי היא נענית והיא עונה,</l>
+          <l>היא מגן לי וחומה, כנף השכינה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא נוטעת בי עוד כוח בתפילה,</l>
+          <l>אם ביום פקודה, או עת רוחי נפלה.</l>
+          <l>ואני בכל שעה ניצב מולה</l>
+          <l>ונפעם ומתרגש מצליל קולה.</l>
+          <l>ואני בכל שעה ניצב מולה</l>
+          <l>וקורא לה: "בואי אחותי כלה".</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם אלך בגיא צלמוות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

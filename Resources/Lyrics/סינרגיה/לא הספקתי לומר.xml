@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא הספקתי לומר</title>
+        <singer classification="band">סינרגיה</singer>
+        <writer>רועי גפן</writer>
+        <composer>missing</composer>
+        <album>השתקפות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא הספקתי לומר</head>
+        <lg number="1" type="stanza">
+          <l>כל כך משונה להיות פה לבד</l>
+          <l>בצעד קטן הרגשתי רחוק ממך</l>
+          <l>"אולי אתה פה?" חושב בקול רם</l>
+          <l>קשורים דם בדם, פתאום נעלם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בכל יום שעובר נזכר</l>
+          <l>דברים שלא הספקתי לומר</l>
+          <l>ברחת מכולם, מהכל</l>
+          <l>תגיד לי איך היית יכול?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זוכר את היום, נזקקתי לך</l>
+          <l>הלילה ירד, ממתין אך רחוק ממך</l>
+          <l>"איפה אתה?" שאלת דואג</l>
+          <l>הגעת לכאן בגשם שוטף</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בכל יום שעובר נזכר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אולי עכשיו אתה תשמע</l>
+          <l>הגענו לעמוד לידך</l>
+          <l>וגם אם לא נסלח לעולם</l>
+          <l>אתה נשאר יותר מכולם.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,40 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ממריא גבוה</title>
+        <singer classification="unknown">גל אבלי</singer>
+        <writer>גל אבלי</writer>
+        <composer>גל אבלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ממריא גבוה</head>
+        <lg number="1" type="stanza">
+          <l>תראי אותי ,אני ממריא גבוה,הראש נקי,חיוך טיפשי, לא מביט אחורה היית מאמינה ?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וזה נראה,שרק אתמול אווו..הייתי שם על הרצפה ,ת'הרגשה הזאת אני לא יכול לשכוח,איך רציתי רק..</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לעוף מכאן הכי רחוק בעולם הזה כמו ילד שרוצה לבנות כנפיים יודע שיגיע לשמיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

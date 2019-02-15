@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בכל יום</title>
+        <singer classification="female singer">קורין אלאל</singer>
+        <writer>ריקי גל</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בכל יום</head>
+        <lg number="1" type="stanza">
+          <l>בכל יום מישהו מתאהב, </l>
+          <l>בכל יום אני צומחת. </l>
+          <l>ומישהו קרב, נוגע וקוטף </l>
+          <l>ויש בי כוח עוד ללבלב. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בכל יום אני טועה, </l>
+          <l>בכל יום אני נשברת, </l>
+          <l>ומישהו מראה לי (כן, מישהו מראה לי...) </l>
+          <l>אור בקצה המנהרה. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בכל יום אני גואה קצת, </l>
+          <l>ונפשי לעוף רוצה. </l>
+          <l>בכל יום אני נזהרת, </l>
+          <l>מקפלת חלומות, </l>
+          <l>ולא מוצאת תשובה. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בכל יום אני תולה, </l>
+          <l>עוד תמונה על קיר ישן. </l>
+          <l>בכל יום אוספת בשורות כל רגע, </l>
+          <l>אני עוצרת את הזמן. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בכל יום אני הולכת </l>
+          <l>לאיזו ארץ אבודה, </l>
+          <l>ואת ארצי חכי לי (כן, את ארצי חכי לי...) </l>
+          <l>כי לא אשיר לך שיר פרידה. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בכל יום אני גואה קצת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

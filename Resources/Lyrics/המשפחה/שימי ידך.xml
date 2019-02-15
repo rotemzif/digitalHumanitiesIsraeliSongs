@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שימי ידך 2</title>
+        <singer classification="band">המשפחה</singer>
+        <writer>אמיר חיים</writer>
+        <composer>אמיר חיים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שימי ידך</head>
+        <lg number="1" type="stanza">
+          <l>האורות שבעירי איבדו כל תקנה</l>
+          <l>כשראיתי אותך במסיבה</l>
+          <l>חשבתי שאיתך אני אהיה אדם אחר</l>
+          <l>ואת רק בשלך לא מביטה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שימי ידך על כף ידי</l>
+          <l>והרגישי זרם מגופי</l>
+          <l>שימי ידך על כף ידי</l>
+          <l>והרגישי זרם מגופי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>האורות שבעירי הציתו להבות</l>
+          <l>בלבם של הרבה תוהים בוהים</l>
+          <l>אם רק תיהי שלי ותתני לי חיוכים</l>
+          <l>הלב שלי ימריא לעננים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שימי ידך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא מאמין במכשול שבדרך</l>
+          <l>לא מאמין שקשה להתאהב</l>
+          <l>לא מאמין שאת לא מתמסרת</l>
+          <l>לא מאמין שאני מתפורר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שימי ידך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

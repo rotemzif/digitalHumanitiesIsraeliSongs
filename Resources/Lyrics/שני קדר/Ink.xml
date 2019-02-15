@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ink</title>
+        <singer classification="female singer">שני קדר</singer>
+        <writer>שני קדר</writer>
+        <composer>שני קדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Ink</head>
+        <lg number="1" type="stanza">
+          <l>look for myself </l>
+          <l>in these pages of written words </l>
+          <l>crazy and crooked and </l>
+          <l>neat and round </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>i would </l>
+          <l>just die if i'd spend another day </l>
+          <l>in this mess of ink </l>
+          <l>comma, dot, flat line</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

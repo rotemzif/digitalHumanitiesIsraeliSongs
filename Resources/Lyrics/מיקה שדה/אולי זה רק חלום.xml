@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אולי זה רק חלום</title>
+        <singer classification="unknown">מיקה שדה</singer>
+        <writer>מיקה שדה</writer>
+        <composer>אלרן דקל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אולי זה רק חלום</head>
+        <lg number="1" type="stanza">
+          <l>לא בא לי שירים שמחים אני מה זה עצובה,</l>
+          <l>גם אם תשלח פרחים אחייך רק לדקה,</l>
+          <l>יש שמש בחוץ ואצלי האור כבה,</l>
+          <l>עומדת על צוק מקווה, שלא ניפגש מחר אני חייבת מנוחה,</l>
+          <l>זה בטח ילחיץ אותי שהרגשתי מבוכה,</l>
+          <l>קשה להבין איך הפכתי לילדה,</l>
+          <l>עיני מתמלאו מנגינות.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אולי זה רק חלום, אולי כבר לא בוכה,</l>
+          <l>היום זה לא היום, כי יש בי אהבה.</l>
+          <l>אולי זה רק חלום.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בונה ארמונות בחול, גרה דיי לבד,</l>
+          <l>הרגיש לי די נעים כשהחזקת לי את היד,</l>
+          <l>ואיך להופך רגעים לארוכים, שעל ליבי מנעולים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אולי זה רק חלום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

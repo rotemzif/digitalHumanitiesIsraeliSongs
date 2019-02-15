@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עופי רוח</title>
+        <singer classification="male singer">רן אלירן</singer>
+        <writer>אהרון אשמן</writer>
+        <composer>יששכר מירון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עופי רוח</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>עופי רוח, עופי רוח.</l>
+          <l>עופי רוח, עופי רוח.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עופי רוח עופי, עופי לגליל</l>
+          <l>על ההר שם בית, בית קט ושביל</l>
+          <l>שם ילדה יפה לי, חומד לה עיניים</l>
+          <l>עופי נא אליה רוח בין ערביים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עופי רוח, עופי רוח.</l>
+          <l>עופי רוח, עופי רוח.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שאלי אותה בשקט</l>
+          <l>את מי היתה ידה חובקת</l>
+          <l>אל מי בסתר ליל באה</l>
+          <l>לאהוב תמיד נשבעה.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עופי רוח, עופי רוח.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

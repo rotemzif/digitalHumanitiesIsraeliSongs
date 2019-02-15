@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חכי 10</title>
+        <singer classification="unknown">עמי אור</singer>
+        <writer>משה יחיאל</writer>
+        <composer>חגי מזרחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חכי</head>
+        <lg number="1" type="stanza">
+          <l>לא אשכח את המבט שפגע בי כה חזק</l>
+          <l>עמוק בנשמה, יום שבו נמוג חלום</l>
+          <l>שחווינו עד הלום, ובו אמרת שלום</l>
+          <l>ורק תדעי לך שאני חולם בדמיוני</l>
+          <l>רואה אותך כאן לידי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חכי, חכי אל תוותרי, על חומות אהבתי</l>
+          <l>שבניתי לך בתוך נפשי, תראי תראי איך שאני</l>
+          <l>עוד שבוי בדמיוני, רוצה אותך כאן לצידי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קחי, חזקי אל תנתקי את קשרי אהבתי</l>
+          <l>לא לא אל תנתקי, איך שאת אותי פגשת</l>
+          <l>זוכרת שאמרת, אותך אוהב לעד</l>
+          <l>ורק רציתי שתדעי שאת כאן לצידי</l>
+          <l>עולם קסום הוא עולמי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חכי, חכי אל תוותרי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

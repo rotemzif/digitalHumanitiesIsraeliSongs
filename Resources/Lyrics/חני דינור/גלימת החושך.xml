@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גלימת החושך</title>
+        <singer classification="female singer">חני דינור</singer>
+        <writer>חני דינור</writer>
+        <composer>חני דינור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גלימת החושך</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>כמו גלימה יורד החושך ועוטף את הבתים</l>
+          <l>ואני שולחת לשמים מבטים</l>
+          <l>הגלימה פתאום זוהרת ועליה כוכבים</l>
+          <l>כוכבים אני סופרת, מרדימה את הדובים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חלומות של אור וצבע מאירים את הגלימה</l>
+          <l>הירח כבר השכיב לישון את החמה</l>
+          <l>עוד כוכב אני סופרת ועיני נעצמות</l>
+          <l>נרדמו איתי ביחד הדובים והבובות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כמו גלימה יורד החושך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

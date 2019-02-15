@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לי גיטרה</title>
+        <singer classification="unknown">פנצ ר</singer>
+        <writer>אהרון קפלן</writer>
+        <composer>אהרון קפלן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לי גיטרה</head>
+        <lg number="1" type="stanza">
+          <l>יש לי גיטרה עם שישה מיתרים </l>
+          <l>אני אוהב לנגן בה עם החברים </l>
+          <l>ואם מיתר אחד במקרה יקרע -</l>
+          <l>אני אמשיך לנגן ולא אכנע. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש לי גיטרה עם חמישה מיתרים </l>
+          <l>אני אוהב לנגן בה עם החברים </l>
+          <l>ואם מיתר אחד במקרה יקרע </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש לי גיטרה עם ארבע מיתרים </l>
+          <l>אני אוהב לנגן בה עם.. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש לי גיטרה עם שלושה מיתרים </l>
+          <l>יש לי גיטרה עם </l>
+          <l>יש לי גיטרה עם מיתר אחד אני אוהב </l>
+          <l>יש לי גיטרה בלי מיתרים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

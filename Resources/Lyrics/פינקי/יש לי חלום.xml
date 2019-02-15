@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לי חלום 6</title>
+        <singer classification="unknown">פינקי</singer>
+        <writer>פינקי</writer>
+        <composer>פינקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לי חלום</head>
+        <lg number="1" type="stanza">
+          <l>כל השנים שהקדשתי בשבילך </l>
+          <l>כל השברים שאז הדבקתי בגופך </l>
+          <l>וכל הלילות שלא ישנתי בגללך </l>
+          <l>קול סיוטים שנשמעים מתוך קולך </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש לי חלום להיות כבר במקום </l>
+          <l>לראות אותך עוד פעם מנסה מחדש </l>
+          <l>איך הלכת פתאום הלכת אל שום מקום </l>
+          <l>הלכת אל תוך היום הגדול שאומר הכל </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל הפעמים שהסתבכתי בגללך </l>
+          <l>כל נשימה שאז עצרתי בשבילך </l>
+          <l>לא זה לא משנה אם גמרתי בגללך </l>
+          <l>תמיד שהגעתי אז הפסקתי לחייך </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש לי חלום להיות כבר במקום </l>
+          <l>לראות אותך עוד פעם מנסה מחדש </l>
+          <l>איך הלכת פתאום הלכת אל שום מקום </l>
+          <l>הלכת אל תוך היום הגדול שאומר הכל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

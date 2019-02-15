@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תגידי 15</title>
+        <singer classification="unknown">דוד דריי</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תגידי</head>
+        <lg number="1" type="stanza">
+          <l>אפילו שככה פתאום זה נגמר חשבתי שעוד נדבר</l>
+          <l>עשית את עצמך לא שומעת נתת לי להתפורר</l>
+          <l>מתוך ערימת השברים שבלב אספתי את מה שנישאר</l>
+          <l>מיליון פעמים כבר אמרתי אוהב יותר מזה אי אפשר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תגידי מי יכול לאהוב אותך יותר</l>
+          <l>תגידי אם יש עוד אהבה במקום אחר</l>
+          <l>תגידי כבר ניסיתי הכל זה לא עובר</l>
+          <l>תגידי לי רק אם אפשר לאהוב יותר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היית אמיתית עכשיו את דמיון הפכת לחלום לבן</l>
+          <l>אולי זה בכלל לא קורה לי אז למה אני עוד כאן</l>
+          <l>אם את לא לבד מצאת לך אחר כזה שאותך יאהב</l>
+          <l>תגידי את זה בשתיקה ארוכה עשי שזה לא יכאב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תגידי מי יכול לאהוב אותך יותר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

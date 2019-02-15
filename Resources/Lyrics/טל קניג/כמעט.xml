@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמעט 15</title>
+        <singer classification="unknown">טל קניג</singer>
+        <writer>טל קניג</writer>
+        <composer>טל קניג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמעט</head>
+        <lg number="1" type="stanza">
+          <l>כמעט עזבתי הכל, התחלתי ללכת</l>
+          <l>חברים וכל השנים כמו בסרט מתרחקים</l>
+          <l>מחשבות לא נותנות מנוחה</l>
+          <l>אז אלוהים אם אתה שם בבקשה תן לי כח</l>
+          <l>להאמין</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וכל הזמן בורח</l>
+          <l>אני כל הזמן בורח</l>
+          <l>תוהה רק מה רודף אותי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד מעט יגיע הזמן לקום וללכת</l>
+          <l>הזיות, אני רואה את האור</l>
+          <l>אז אלוהים אם אתה שם בבקשה תן לי כח</l>
+          <l>להאמין</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וכל הזמן בורח</l>
+          <l>אני כל הזמן בורח</l>
+          <l>תוהה רק מה רודף אותי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

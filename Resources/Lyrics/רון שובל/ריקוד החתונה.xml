@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ריקוד החתונה</title>
+        <singer classification="male singer">רון שובל</singer>
+        <writer>חמוטל בן זאב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ריקוד החתונה</head>
+        <lg number="1" type="stanza">
+          <l>ועכשיו התור שלך, תראי להם מי את</l>
+          <l>כך פשוטה ואמיתית בנשמה שלי נגעת</l>
+          <l>והערב הוא שלך וכולנו לכבודך</l>
+          <l>את הכי יפה שלי, עוד מעט יבוא דודך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קול ששון וקול שמחה</l>
+          <l>שתמיד תאהב אותך</l>
+          <l>ואתה תהיה שם בשבילה</l>
+          <l>תמיד שלה</l>
+          <l>קול שמחה וקול ששון</l>
+          <l>הלילה לא נלך לישון</l>
+          <l>ונרקוד נרקודה</l>
+          <l>את ריקוד החתונה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שיהיה לך טוב וקל, תחייכי אל החיים</l>
+          <l>שתהיי מוקפת חום ושמחה של ילדים</l>
+          <l>ושלום ורק שלום שישכון שם בביתכם</l>
+          <l>ושרק בשורות טובות יגיעו אליכם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קול ששון וקול שמחה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

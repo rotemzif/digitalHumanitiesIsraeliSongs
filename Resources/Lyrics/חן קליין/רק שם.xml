@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק שם</title>
+        <singer classification="female singer">חן קליין</singer>
+        <writer>עמוס עוז</writer>
+        <composer>שאול בסר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק שם</head>
+        <lg number="1" type="stanza">
+          <l>השמיים כהים וריקים. איזה אד גולש דרך אד.</l>
+          <l>גשם לא ירד הערב. כנראה שכבר לא ירד.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אפור ושקט כאן. מחשיך. ציפור קפואה על עמוד.</l>
+          <l>שני ברושים צומחים כמעט יחד. עוד ברוש צומח לחוד.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הייתי רוצה לדעת מניין בא ריח עשן.</l>
+          <l>שום דבר הרי לא בוער פה. שארית עפיפון ישן.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תקועה על חודי הגדר, ואד חולף דרך אד.</l>
+          <l>אני כבר מזמן לא שם אך עודני שם. עומדת.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

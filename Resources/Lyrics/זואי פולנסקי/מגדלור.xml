@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מגדלור 3</title>
+        <singer classification="unknown">זואי פולנסקי</singer>
+        <writer>זואי פולנסקי</writer>
+        <composer>זואי פולנסקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מגדלור</head>
+        <lg number="1" type="stanza">
+          <l>צופה מראש המגדלור</l>
+          <l>ברדיו מתקבלים אותות</l>
+          <l>כשהוא מצביע בכיוון שלי</l>
+          <l>ויש לו דופק חשמלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ש ש שקט בין הפעימות </l>
+          <l>ומתחת הים עמוק</l>
+          <l>ש ש שקט בין האיתותים</l>
+          <l>לא זוכרת איך קוראים </l>
+          <l>לי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עדיין חם ומתקרר</l>
+          <l>רוצה אותו ולא אחר</l>
+          <l>הוא שוב מצביע בכיוון שלי</l>
+          <l>ויש לו קצב חשמלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ש ש שקט בין הפעימות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

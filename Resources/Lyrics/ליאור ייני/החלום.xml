@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>החלום 3</title>
+        <singer classification="male singer">ליאור ייני</singer>
+        <writer>לא ידוע</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>החלום</head>
+        <lg number="1" type="stanza">
+          <l>אמא היו לך שני בנים</l>
+          <l>שני אילנות, שני נהרות</l>
+          <l>שני מבצרים ונציאנים</l>
+          <l>שני ורדים, שתי תשוקות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אחד הלך אל המזרח</l>
+          <l>והשני למערב</l>
+          <l>ואת בתווך בודדה</l>
+          <l>שחה לשמש אל השמש שחה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שמש הרואה את ההרים</l>
+          <l>שמש הרואה את הנהרות</l>
+          <l>שמש הרואה פשעים וחטאים</l>
+          <l>ואמהות עלובות.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם שם הוא פבלו צעק אלי</l>
+          <l>אם שם אנדריאה   הגד לי</l>
+          <l>הן ביגון ילדתים</l>
+          <l>ובדמעה, בדמעה גידלתים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילה לילה 12</title>
+        <singer classification="unknown">חיים זריהן</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילה לילה</head>
+        <lg number="1" type="stanza">
+          <l>לילה לילה ברחוב מתהלך בלי לאהוב,</l>
+          <l>מחפש שוב נערה שראיתי מקרוב.</l>
+          <l>אז הייתי מסוגר, לא אמרתי לה דבר</l>
+          <l>כי אני חדש בעיר וצריך להיות זהיר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לילה לילה היא פוסעת על המדרכה,</l>
+          <l>מתהלכת נעצבת, אין לה אהבה.</l>
+          <l>מביטה בי כמו חולמת אך היא לא רואה</l>
+          <l>שאני כל-כך רוצה בה, לו רק לשעה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לילה לילה מתבונן בפניה ומתכנן</l>
+          <l>איך לגשת ולומר מה שיש בי זה מכבר:</l>
+          <l>שאני חי בחלום שתהיה לי עוד היום</l>
+          <l>אבל היא לא מחכה והולכת לדרכה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לילה לילה היא פוסעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

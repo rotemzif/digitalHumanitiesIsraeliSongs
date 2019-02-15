@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מציאות או דמיון</title>
+        <singer classification="male singer">רגב הוד</singer>
+        <writer>אלון צדוק</writer>
+        <composer>שמואל אלבז</composer>
+        <album>התינשאי לי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מציאות או דמיון</head>
+        <lg number="1" type="stanza">
+          <l>כל קיץ מחדש שאת יורדת לים</l>
+          <l>ועם הגוף שלך את מטריפה את כולם</l>
+          <l>אני לא יודע איך להתייחס</l>
+          <l>יושב ומחכה שיקרה איזה נס</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את מציאות או דמיון ילדונת</l>
+          <l>את חלום של כל אחד וגם שלי</l>
+          <l>את שולחת נשיקה וזה אותי מרגש</l>
+          <l>את יודעת שלך אתן מה שיש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואני עוד בשלי לך בשקט ממתין</l>
+          <l>מנסה לתפוס ואת הכל להבין</l>
+          <l>וכשאת מתקרבת אלי נשמה</l>
+          <l>פתאום אני מרגיש איך נעצרה הנשימה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את מציאות או דמיון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

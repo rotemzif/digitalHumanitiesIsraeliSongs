@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ירח 32</title>
+        <singer classification="unknown">שירי הדר</singer>
+        <writer>שירי הדר</writer>
+        <composer>שירי הדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ירח</head>
+        <lg number="1" type="stanza">
+          <l>אתמול ירח היה בשיאו</l>
+          <l>גדול מלא ויפהפה</l>
+          <l>ואני עוד לפניו, כבר אתמול</l>
+          <l>לא החלטתי</l>
+          <l>פשוט התחלתי ליפול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואולי, אולי זה רק עכשיו</l>
+          <l>הלוואי ואשב לירח על הגב</l>
+          <l>ואצליח להתרומם מעבר</l>
+          <l>ללבד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא היה לי הכח להגיב</l>
+          <l>ולא מצאתי את הכח ליצור</l>
+          <l>רציתי להביט, רק להביט</l>
+          <l>פנימה, החוצה, לפנים, לאחור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואולי, אולי זה רק עכשיו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מה אני מחפשת</l>
+          <l>כמו כולם</l>
+          <l>כולם מחפשים שקט</l>
+          <l>שקט שקט שקט</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

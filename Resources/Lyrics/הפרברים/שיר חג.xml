@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר חג</title>
+        <singer classification="band">הפרברים</singer>
+        <writer>יוסף נצר</writer>
+        <composer>חיים ברקני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר חג</head>
+        <lg number="1" type="stanza">
+          <l>כל יבולים הובלנו ביתה </l>
+          <l>כל פרי אספנו למיניו </l>
+          <l>תלמים עייפו מחום וקיטא </l>
+          <l>עורגים אל גשם ואל סתיו </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל השדות פונות עינינו </l>
+          <l>שם הגולן מציב גבוליו </l>
+          <l>האל גשמי ברכה פנינו </l>
+          <l>או נחרוד אל שנת אכזב </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אולם היום אסיף חגנו </l>
+          <l>נשמח על יבולים וסתיו </l>
+          <l>אל טל ואל מטר נכספנו </l>
+          <l>נשמח בשפע שאספנו </l>
+          <l>מחר נשוב נחרוש שדותינו </l>
+          <l>יחל עמל וברכותיו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

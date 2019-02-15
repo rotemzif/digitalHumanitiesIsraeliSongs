@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קראי לי</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קראי לי</head>
+        <lg number="1" type="stanza">
+          <l>קראי לי ביום או קראי לי בלילה</l>
+          <l>קראי לי בטוב או קראי לי ברע</l>
+          <l>עדים כוכבים הזורחים שם למעלה</l>
+          <l>תמיד אתייצב לצידך נערה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קראי לי בקיץ</l>
+          <l>קראי לי בחורף</l>
+          <l>קראי לי בגשם שוטף וצולף</l>
+          <l>אני לעולם לא אפנה לך עוד עורף</l>
+          <l>באש ובמים אבוא לקולך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אמרתי את כל שהיה לי לומר לך</l>
+          <l>יותר לא אשוב חלומות לאגור</l>
+          <l>אמרתי את כל שהיה לי לומר לך</l>
+          <l>ואם תקראי לי, קראי שאחזור</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אורחים לחג</title>
+        <singer classification="female singer">דורית ראובני</singer>
+        <writer>לוין קיפניס</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אורחים לחג</head>
+        <lg number="1" type="stanza">
+          <l>יום טוב לנו, חג שמח</l>
+          <l>ילדים, נגילה נא</l>
+          <l>לסוכתנו בא אורח:</l>
+          <l>אתרוג זהוב - ברוך הבא!</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יחד את החג נחוג</l>
+          <l>בלולב, הדס אתרוג</l>
+          <l>הו, האח, נשמח מאוד</l>
+          <l>ובמעגל נרקוד.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יום טוב לנו, חג שמח</l>
+          <l>ילדים, נגילה נא</l>
+          <l>לסוכתנו בא אורח:</l>
+          <l>לולב ירוק - ברוך הבא!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יחד את החג נחוג ...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יום טוב לנו, חג שמח</l>
+          <l>ילדים, נגילה נא</l>
+          <l>לסוכתנו בא אורח:</l>
+          <l>הדס ריחן - ברוך הבא!</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יחד את החג נחוג ...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>ועתה, כולנו יחד</l>
+          <l>ילדים, נגילה נא</l>
+          <l>נקבל פני אורחת:</l>
+          <l>בת הנחל - ערבה!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

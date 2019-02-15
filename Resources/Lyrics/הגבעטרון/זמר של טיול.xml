@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זמר של טיול</title>
+        <singer classification="band">הגבעטרון</singer>
+        <writer>נתן יונתן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זמר של טיול</head>
+        <lg number="1" type="stanza">
+          <l>למה היום בער</l>
+          <l>על פני חולות מדבר?</l>
+          <l>למה בסלע נקרעות נעלי?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מעליש זה לא אכפת </l>
+          <l>זה היה טיול נחמד </l>
+          <l>על הוואדי ליל כבר ירד </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ככה נגמע נופים </l>
+          <l>שמחים ועייפים </l>
+          <l>אם נצטרך אז </l>
+          <l>נלך גם יחפים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

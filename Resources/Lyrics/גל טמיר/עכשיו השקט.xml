@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עכשיו השקט 2</title>
+        <singer classification="male singer">גל טמיר</singer>
+        <writer>גל טמיר</writer>
+        <composer>מירב יוסף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עכשיו השקט</head>
+        <lg number="1" type="stanza">
+          <l>עכשיו השקט</l>
+          <l>אני מביט איך את עוצמת גופך</l>
+          <l>הופכת ליופי</l>
+          <l>עמוק וכהה</l>
+          <l>ופוסעת ברגל בטוחה מחוץ לחיי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עכשיו אני רק מתעורר</l>
+          <l>אל הטעם החד של געגועי</l>
+          <l>מה יהיה עלי?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכשיו השקט</l>
+          <l>אני מביט הכל ננעל בתוכך</l>
+          <l>הופכת ליופי</l>
+          <l>רחוק וכואב</l>
+          <l>ופוסעת ברגל בטוחה מחוץ לחיי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עכשיו אני רק מתעור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חיי בלעדיך</title>
+        <singer classification="unknown">ענבר ישראל</singer>
+        <writer>ענבר ישראל</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חיי בלעדיך</head>
+        <lg number="1" type="stanza">
+          <l>תגיד לי איך יראו חיי בלעדיך</l>
+          <l>איך יהיו שפתי ללא שפתיך</l>
+          <l>איך יעברו לילותי ללא חיבוקך</l>
+          <l>לאן אתה הולך האם איבדתי אותך</l>
+          <l>איך יעברו לילותי ללא חיבוקך</l>
+          <l>לאן אתה הולך האם איבדתי אותך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא זורחת לי השמש</l>
+          <l>רק קור נותר</l>
+          <l>הבדידות מרה והכאב בי נשאר</l>
+          <l>לא זורחת לי השמש</l>
+          <l>רק קור נותר</l>
+          <l>השנים חלפו והכאב בי נשאר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תמיד נתתי את נשמתי בשביל אהבתך</l>
+          <l>נתתי את הלב שלי רק להיות שלך</l>
+          <l>לא יכולה עוד לחיות אני אבודה</l>
+          <l>כל יום שעובר רוצה שוב אותך</l>
+          <l>לא יכולה עוד לחיות אני אבודה</l>
+          <l>כל יום שעובר רוצה שוב אותך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא זורחת לי השמש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

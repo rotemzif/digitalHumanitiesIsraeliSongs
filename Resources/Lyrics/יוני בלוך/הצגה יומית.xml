@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הצגה יומית</title>
+        <singer classification="male singer">יוני בלוך</singer>
+        <writer>גלעד כהנא</writer>
+        <composer>יוני בלוך</composer>
+        <album>הרגלים רעים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הצגה יומית</head>
+        <lg number="1" type="stanza">
+          <l>כל הלילה עצבים</l>
+          <l>ושניהם כבר עייפים</l>
+          <l>היא שוב מתקלחת</l>
+          <l>ממתינה לאור של הזריחה שיעלה</l>
+          <l>עוד שניה צורחת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הוא פוחד פתאום שהיא תשקע</l>
+          <l>נכנסים לסרט</l>
+          <l>הצגה יומית</l>
+          <l>אין יציאה</l>
+          <l>עד שהיא נגמרת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בידה סכין גדולה</l>
+          <l>נעמדת מול מראה</l>
+          <l>ועושה קרחת</l>
+          <l>איך יסביר לה שגם כך</l>
+          <l>היא תשאר יפה</l>
+          <l>עוד שניה בורחת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הוא פוחד פתאום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

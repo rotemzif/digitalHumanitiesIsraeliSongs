@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ברכת המלך</title>
+        <singer classification="female singer">מירי מסיקה</singer>
+        <writer>מאיר גולדברג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ברכת המלך</head>
+        <lg number="1" type="stanza">
+          <l>כיהלום בתוך האפר </l>
+          <l>כבת בכורה של עיר או פלך</l>
+          <l>וכמו חלום שאין לו פשר</l>
+          <l>כה נדירה ברכת המלך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כנעימה של כלי שמח</l>
+          <l>כאדמה שאין בה דרך</l>
+          <l>כחממה של אור ירח</l>
+          <l>כה נדירה ברכת המלך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יברך האל את העולם </l>
+          <l>האל מברך את כולם</l>
+          <l>אבל האור נופל על אלה </l>
+          <l>שברך אותם מלך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כהינומה רכה בחושך</l>
+          <l>כעץ שדרה כורע ברך</l>
+          <l>כאדמה בארץ גושן</l>
+          <l>כה נדירה ברכת המלך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כיהלום בתוך האבן</l>
+          <l>כעיר זרה בשביל ההלך</l>
+          <l>כנשיקה של אם אוהבת</l>
+          <l>כה נדירה ברכת המלך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יברך האל את העולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

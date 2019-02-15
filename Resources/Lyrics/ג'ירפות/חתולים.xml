@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חתולים 2</title>
+        <singer classification="unknown">ג ירפות</singer>
+        <writer>גלעד כהנא</writer>
+        <composer>גלעד כהנא</composer>
+        <album>אין כניסה לפילים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חתולים</head>
+        <lg number="1" type="stanza">
+          <l>כל לילה</l>
+          <l>היא מצילה את החתולים</l>
+          <l>בחלומות</l>
+          <l>אין לה מילים</l>
+          <l>לתאר את איבוד העשתונות</l>
+          <l>יש לה כלים</l>
+          <l>לעצור את הרוחות הרעות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל לילה</l>
+          <l>כל לילה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>“פוחדת,</l>
+          <l>אני פשוט משתגעת”</l>
+          <l>היא לוחשת לעצמה</l>
+          <l>משפט ששמעה במקרה</l>
+          <l>כשהייתה עצובה</l>
+          <l>כל כך עצובה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל לילה</l>
+          <l>כל לילה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>חלום נסוג מפני היממה</l>
+          <l>כזוהר כוכבים מפני חמה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>“אני נורא עייפה</l>
+          <l>וקשה לי לישון</l>
+          <l>כל לילה </l>
+          <l>יש לי אותו חלום.”</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

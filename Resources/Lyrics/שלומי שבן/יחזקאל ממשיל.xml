@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יחזקאל ממשיל</title>
+        <singer classification="male singer">שלומי שבן</singer>
+        <writer>שלומי שבן</writer>
+        <composer>שלומי שבן</composer>
+        <album>שלומי שבן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יחזקאל ממשיל</head>
+        <lg number="1" type="stanza">
+          <l>ביצה ביצה"</l>
+          <l>שמעו איך הן מקרקרות,</l>
+          <l>מקרקרות הצפרדעים.</l>
+          <l>"כולנו חניכות תרבות צרפת,</l>
+          <l>רק כאן בארץ</l>
+          <l>דבקו בנו ההרגלים."</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>"לעוף, לעוף מייד!"</l>
+          <l>זימר העיט,</l>
+          <l>ובמקורו תולה גוויית אנקור.</l>
+          <l>"במקורי אני יונת שלו,</l>
+          <l>רק כאן בארץ</l>
+          <l>אני מושפע מהפולקלור."</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תאמין לשיר העיט,</l>
+          <l>ולא לקרקורי הצפרדעים.</l>
+          <l>כמה רחוק שלא יגלו תמיד יהיו</l>
+          <l>שוכני ביצות, עופות דורסים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

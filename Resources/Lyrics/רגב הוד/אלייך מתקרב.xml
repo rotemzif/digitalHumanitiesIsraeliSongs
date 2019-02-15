@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלייך מתקרב</title>
+        <singer classification="male singer">רגב הוד</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>רביב בן מנחם</composer>
+        <album>נשבענו</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלייך מתקרב</head>
+        <lg number="1" type="stanza">
+          <l>עוד לילה בא ויום עובר </l>
+          <l>הזמן שלנו מתקצר </l>
+          <l>תגידי מה קורה בינינו </l>
+          <l>אם רק נפתח את הקלפים </l>
+          <l>תראי עוד רגעים יפים </l>
+          <l>שמחכים אי שם לשנינו.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלייך מתקרב אני כמו ילד </l>
+          <l>ילד שלומד להתהלך </l>
+          <l>ואת לאט לאט סוגרת דלת</l>
+          <l>שמובילה אותי אל נשמתך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היכן אותה הלהבה </l>
+          <l>ולמה הניצוץ כבה </l>
+          <l>איך נעלם הקסם בעיניים </l>
+          <l>אפילו אם לא תשאלי </l>
+          <l>אומר בחום אישה שלי </l>
+          <l>אוהב אותך כל כך עדיין </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלייך מתקרב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

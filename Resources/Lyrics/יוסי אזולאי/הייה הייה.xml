@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הייה הייה</title>
+        <singer classification="male singer">יוסי אזולאי</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הייה הייה</head>
+        <lg number="1" type="stanza">
+          <l>איתה אני מתרגש ואוהב</l>
+          <l>היא יודעת מה יש לי בלב</l>
+          <l>מבינה אותי, מרגישה אותי</l>
+          <l>בשבילה אני שר וכותב.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אהבה שעוטפת בחום</l>
+          <l>משלימה אותי לילה ליום</l>
+          <l>איתה אני אחר, מאושר יותר</l>
+          <l>אלוהים שזה לא יגמר.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הייה הייה - אין מה לדבר</l>
+          <l>הייה הייה - מי צריך יותר</l>
+          <l>הייה הייה - אלוהים שומר</l>
+          <l>שזה לא יגמר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בלעדיה אני לא אני</l>
+          <l>היא תמיד החצי השני</l>
+          <l>רק איתה שלם, לצידה נושם</l>
+          <l>אלוהים שזה לא יגמר</l>
+          <l>רק איתה שלם, לצידה נושם</l>
+          <l>אלוהים שזה לא יגמר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הייה הייה - אין מה לדבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

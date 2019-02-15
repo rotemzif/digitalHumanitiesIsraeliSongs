@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מזוודה</title>
+        <singer classification="band">מרפסות</singer>
+        <writer>צחי אלוש</writer>
+        <composer>צחי אלוש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מזוודה</head>
+        <lg number="1" type="stanza">
+          <l>מזוודה, אני אורז מזוודה ונוסע רחוק מכאן </l>
+          <l>מכונית שחוצה, מזכירה לי שוב את אנגליה </l>
+          <l>גשם והירח, אני כל כך שמח להכיר אותה. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני הולך ולא חוזר </l>
+          <l>אני עוזב אותך עכשיו </l>
+          <l>חלום זוהר, אני לא חוזר </l>
+          <l>אני עוזב אותך עכשיו. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מזוודה, אני אורז מזוודה ונוסע (רחוק מכאן) </l>
+          <l>מכונית מכונית, אני רוצה לנסוע רק איתך </l>
+          <l>וזה רחוק מכאן. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני הולך ולא חוזר ... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ישראל, איפה אנחנו עומדים בדיוק? </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>חלום זוהר, אני לא חוזר </l>
+          <l>אני עוזב אותך עכשיו </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>לונדון-מנצ'סטר, בירמינגהאם-מנצ'סטר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

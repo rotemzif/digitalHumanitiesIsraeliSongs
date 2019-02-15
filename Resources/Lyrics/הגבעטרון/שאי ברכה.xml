@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שאי ברכה</title>
+        <singer classification="band">הגבעטרון</singer>
+        <writer>מתתיהו שלם</writer>
+        <composer>מתתיהו שלם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שאי ברכה</head>
+        <lg number="1" type="stanza">
+          <l>שאי ברכה את ארצנו בת שדות והרים -</l>
+          <l>האביב במבואייך!</l>
+          <l>לחן זך חרישי, זמר חג לך ננעים -</l>
+          <l>ישוררו אוהבייך! </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כולך תפארת חג הרים וגיא,</l>
+          <l>במצהלות ירנין כל חי.</l>
+          <l>שאי ברכה - </l>
+          <l>שאי ברכה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מראשי פסגות ישוקו נחלים -</l>
+          <l>לך הומים נחלייך!</l>
+          <l>במחול משובה יוצאות שיבולים -</l>
+          <l>בקידה לרגלייך!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כולך תפארת חג...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

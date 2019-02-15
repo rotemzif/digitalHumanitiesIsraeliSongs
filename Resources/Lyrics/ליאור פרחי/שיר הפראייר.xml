@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הפראייר</title>
+        <singer classification="male singer">ליאור פרחי</singer>
+        <writer>יקיר גובס</writer>
+        <composer>יקיר גובס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הפראייר</head>
+        <lg number="1" type="stanza">
+          <l>לא אחכה לך כל היום ולילה עד שתבואי </l>
+          <l>לא אמשיך לשרוף לילות עלייך כמו מסומם</l>
+          <l>לא אשגע את עצמי עוד פעם אני נוסע </l>
+          <l>וקבעתי כבר עם כל החבר'ה הולכים לים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את הסיפורים שלך שמעתי הכל אכלתי </l>
+          <l>עד היום אני בלעתי ככה כמו מטומטם </l>
+          <l>את שיחקת לי קטע ועוד קטע ולא ידעתי </l>
+          <l>והיום אני מרגיש כמו פראייר של העולם </l>
+          <l>איי איי איי איי איי שיגעת לי את חיי </l>
+          <l>איי איי איי איי איי חותך ממך ודי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא אחכה לך כל היום ולילה גם אם תבואי</l>
+          <l>לא רוצה לחזור יותר אלייך אפילו סתם </l>
+          <l>אל תשגעי לי את הראש עוד פעם אני יודע </l>
+          <l>שהיכרת הרבה גברים כמוני כבר בעולם </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את הסיפורים שלך שמעתי הכל אכלתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תדאג 18</title>
+        <singer classification="unknown">רוני דלומי</singer>
+        <writer>אורי זך</writer>
+        <composer>missing</composer>
+        <album>קצת אחרת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תדאג</head>
+        <lg number="1" type="stanza">
+          <l>בוא למקום שבו תוכל למצוא פינה קטנה של שקט </l>
+          <l>אתה יודע שבסוף תמצא את סוד הקסם שאבד לך מזמן </l>
+          <l>מתוך היופי שברגע עולות מילים של נחמה </l>
+          <l>ונסיון בודד של איש אחד לחזור הביתה ולשבור את הדממה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תדאג, עוד החושך יאיר עליך</l>
+          <l>השמיים לא יפלו פתאום </l>
+          <l>אל תדאג, הלבנה תחייך אליך</l>
+          <l>כל הפחד יתחלף בבת אחת באור היום </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל התפילות שבעולם כבר נאמרו עם בוא הערב </l>
+          <l>ורק אתה שכחת לבקש את סוד הקסם שאבד לך מזמן </l>
+          <l>אתה יושב מולי בשקט, שומר קרוב את הקלפים </l>
+          <l>שפתיים לוחשות מקצב ישן כמו ריקוד נשכח עטוף ביצרים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תדאג...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

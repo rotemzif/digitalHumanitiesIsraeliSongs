@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין בעיר הזאת</title>
+        <singer classification="female singer">ורד קלפטר</singer>
+        <writer>ורד קלפטר</writer>
+        <composer>ורד קלפטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין בעיר הזאת</head>
+        <lg number="1" type="stanza">
+          <l>הערב יורד, החושך עוטף</l>
+          <l>השקט הזה, את לוקחת מעצמך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אין בעיר הזאת אף בן אדם</l>
+          <l>איתו את רוצה להעביר זמן</l>
+          <l>את שומעת את דופק ליבך</l>
+          <l>מחשבות זורמות בגופך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אין בעיר הזאת אף בן אדם </l>
+          <l>איתו את רוצה להעביר זמן</l>
+          <l>מה שקורה הוא לך</l>
+          <l>די מובן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בין הסדינים את שוכבת לבד</l>
+          <l>לא צריכה אף אחד לצידך</l>
+          <l>לפעמים זה כואב</l>
+          <l>כשהטבע בך לוחם</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אין בעיר הזאת אף בן אדם </l>
+          <l>איתו את רוצה להעביר זמן</l>
+          <l>מה שקורה הוא לך</l>
+          <l>די מובן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

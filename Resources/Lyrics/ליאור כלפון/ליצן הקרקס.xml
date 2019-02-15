@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ליצן הקרקס</title>
+        <singer classification="male singer">ליאור כלפון</singer>
+        <writer>ליאור כלפון</writer>
+        <composer>חזי שקד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ליצן הקרקס</head>
+        <lg number="1" type="stanza">
+          <l>אני הליצן של הקרקס</l>
+          <l>אני אל הזירה נכנס</l>
+          <l>אני מקפץ, אני מתרוצץ</l>
+          <l>כי אני הליצן של הקרקס</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הקהל כבר התיישב לו וכולם כבר מחכים לי</l>
+          <l>שאשלוף איזו בדיחה מן השרוול</l>
+          <l>אני אף פעם לא מפסיק</l>
+          <l>עוד ועוד רק להצחיק</l>
+          <l>כי תמיד אני מוצא עוד תעלול</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני בתור ליצן עם אף אדום ומצונן</l>
+          <l>נופל וקם, לי אף פעם לא נמאס!</l>
+          <l>אני לוליין ואקרובט</l>
+          <l>את הביצים אל המחבת</l>
+          <l>כי אני הליצן של הקרקס</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני הליצן של הקרקס...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עד שהאורות כבים אני מוריד את הבגדים</l>
+          <l>ומסיר את האיפור</l>
+          <l>בלי קהל עצוב לי אבל אל תדאגו כי</l>
+          <l>זה עדיין לא סוף הסיפור!</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני בתור ליצן עם אף אדום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

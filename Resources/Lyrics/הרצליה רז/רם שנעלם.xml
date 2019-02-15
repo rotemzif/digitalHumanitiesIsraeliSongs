@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רם שנעלם</title>
+        <singer classification="unknown">הרצליה רז</singer>
+        <writer>עממי</writer>
+        <composer>יעל גרמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רם שנעלם</head>
+        <lg number="1" type="stanza">
+          <l>אני אתחבא לי בחור של ענן</l>
+          <l>מקום שאציץ ואראה את כולם</l>
+          <l>את אבא ואמא וסבא חנן.</l>
+          <l>מחפשים, - אך אני נעלם!</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לה לה...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני אתחבא לי, אשב ואביט</l>
+          <l>אראה את הים ואת כל העולם</l>
+          <l>אטוס בענן כסגור בחבית</l>
+          <l>אברח, מכולם, מכולם, מכולם.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לה לה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני אתחבא לי אך לא לעולם,</l>
+          <l>שכולם יחפשו, יקראו בקול רם, רם!</l>
+          <l>פתאום אתחלק כיורד בסולם</l>
+          <l>ואצחק בין כולם הנה רם! הנה רם!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

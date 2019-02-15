@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קומי ונצא השדה 2</title>
+        <singer classification="female singer">שולמית לבנת</singer>
+        <writer>עממי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קומי ונצא השדה</head>
+        <lg number="1" type="stanza">
+          <l>קומי ונצא אל השדה</l>
+          <l>נשבה על גבעה רעננה</l>
+          <l>שם אני מושל יחידי</l>
+          <l>תחת כף רגלך הקטנה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קומי ונצאה, בשדה נשבה</l>
+          <l>יד ביד נלכה, נעלה על גבע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קומי ונצא אל האחו</l>
+          <l>שם שלוות השקט מסביב</l>
+          <l>ואהבתנו שם תפרח</l>
+          <l>בין יתר שושני האביב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קומי ונצאה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>קומי ונצא אל החורשה</l>
+          <l>שם בין הזלזלים יפוח</l>
+          <l>והסודות מגינזי לבבי</l>
+          <l>ישב על אוזנך הרוח</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה אמיתית 2</title>
+        <singer classification="male singer">עופר לוי</singer>
+        <writer>דני שושן</writer>
+        <composer>עממי</composer>
+        <album>לא יכול בלעדיה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה אמיתית</head>
+        <lg number="1" type="stanza">
+          <l>לא תראי על פני אם אני אוהב</l>
+          <l>לא תראי בעיני אם אני כואב</l>
+          <l>לא תראי אותי מזיל דמעה</l>
+          <l>לא תראי אותי בודד על הגבעה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היה לך ים של זמן רק לגלות</l>
+          <l>נטשתי למענך את כל האהבות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אהבה אמיתית לכאב נולדה</l>
+          <l>אהבה אמיתית רק בלב ילדה</l>
+          <l>כמו האש בנשמה את גופי שרפה</l>
+          <l>לעולם לא אמצא את האהבה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא אמרתי אף פעם בואי אחרי</l>
+          <l>כל חיי טעמתי את מכאובי</l>
+          <l>רק לך כתבתי, חתמתי בדמעה</l>
+          <l>נפשי הכואבת רק צער ידעה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היה לך ים של זמן רק לגלות</l>
+          <l>נטשתי למענך את כל האהבות...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אהבה אמיתית לכאב נולדה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

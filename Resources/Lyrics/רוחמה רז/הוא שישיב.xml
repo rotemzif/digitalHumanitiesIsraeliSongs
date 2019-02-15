@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הוא שישיב</title>
+        <singer classification="female singer">רוחמה רז</singer>
+        <writer>עלי מוהר</writer>
+        <composer>חנן יובל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הוא שישיב</head>
+        <lg number="1" type="stanza">
+          <l>זה שקרע את הסלע מהר</l>
+          <l>זה שניתק את הצליל ממיתר</l>
+          <l>זה שמחק פני יוצא בפני שב</l>
+          <l>זה שהמית את הנער בסב</l>
+          <l>זה ששחק את הרם עד שנפל</l>
+          <l>זה שפיזר את האור באפל</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הוא שישיב ההלמות לדומם </l>
+          <l>הוא שישיב החלום לחולם </l>
+          <l>הוא שיראה שלם בנשבר</l>
+          <l>הוא שישיב את הזמר לשר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

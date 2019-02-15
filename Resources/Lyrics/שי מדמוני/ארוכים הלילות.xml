@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ארוכים הלילות</title>
+        <singer classification="unknown">שי מדמוני</singer>
+        <writer>יפרח מתנה</writer>
+        <composer>יפרח מתנה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ארוכים הלילות</head>
+        <lg number="1" type="stanza">
+          <l>ארוכים הלילות בלעדיך והעצב בעצם חבר</l>
+          <l>אני לוגם כוסית של יין מנסה את עצמי לשקר</l>
+          <l>הסתגרתי לבד בחדר גם השקר הוא סוג של אמת</l>
+          <l>שחוצה אותי לשניים שמשאיר אותי שוב בודד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ובלילות מצייר את דמותה מריץ בראשי את כל</l>
+          <l>מה שהיה אל תלכי אל תלכי אך אוכל לחיות כך לבדי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הדמעות שזלגו מענייך נשפכות עוד אל ים הכאב</l>
+          <l>שמחקו את עקבותייך עם שצף הגל החוזר</l>
+          <l>השמועות גברו בנתיים שראו אותך כך עם אחר</l>
+          <l>אוחזים עכשיו ידיים ובי נשאר הכאב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ובלילות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

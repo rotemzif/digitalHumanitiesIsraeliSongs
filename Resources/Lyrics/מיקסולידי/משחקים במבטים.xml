@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משחקים במבטים</title>
+        <singer classification="unknown">מיקסולידי</singer>
+        <writer>ליאור כהן</writer>
+        <composer>ליאור כהן</composer>
+        <album>אין אבל - יש שכנים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משחקים במבטים</head>
+        <lg number="1" type="stanza">
+          <l>יש עוד תקווה</l>
+          <l>במקום שבו היא גרה</l>
+          <l>פתאום פותחת את תריסיה</l>
+          <l>הוא יוצא אחריה</l>
+          <l>היא יודעת שהוא שם</l>
+          <l>וצוחקת ככה סתם</l>
+          <l>משחקים במבטים</l>
+          <l>בלי לומר אף מילה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לה לה לה לה </l>
+          <l>לה לה לה לה...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש עוד תקווה</l>
+          <l>במקום שבו היא גרה</l>
+          <l>פתאום פותחת את תריסיה</l>
+          <l>הוא יוצא אחריה</l>
+          <l>היא מאושרת שהוא שם</l>
+          <l>וצוחקת ככה סתם</l>
+          <l>משחקים במבטים</l>
+          <l>בלי לומר אף מילה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לה לה לה לה </l>
+          <l>לה לה לה לה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

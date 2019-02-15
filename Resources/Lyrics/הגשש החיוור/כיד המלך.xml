@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כיד המלך</title>
+        <singer classification="band">הגשש החיוור</singer>
+        <writer>מן המקורות</writer>
+        <composer>נעמי שמר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כיד המלך</head>
+        <lg number="1" type="stanza">
+          <l>למגדול ועד קטן</l>
+          <l>משתה שבעת ימים</l>
+          <l>בחצר גינת היתן המלך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>והשקות בכלי זהב</l>
+          <l>וכלים מכלים שונים</l>
+          <l>ויין מלכות רב כיד המלך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

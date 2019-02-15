@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>באת לי</title>
+        <singer classification="male singer">מיקי גבריאלוב</singer>
+        <writer>מיכל גבריאלוב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>באת לי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>באת לי רק לי</l>
+          <l>כשתיק צד תלוי על כתף</l>
+          <l>ואני לא ידעתי מה לעשות</l>
+          <l>לא בך ולא בתיקך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה חשבת שיקרה לי</l>
+          <l>אפילו לא חייכתי</l>
+          <l>הצעתי לך חה</l>
+          <l>ושאלתי לשלומך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מישהי כמוך כבר</l>
+          <l>היתה עוזבת מזמן</l>
+          <l>עם התיק בלעדי</l>
+          <l>אני לא כותב את</l>
+          <l>שמי על דלתי</l>
+          <l>שלא ידעו שאני</l>
+          <l>גר פה לבדי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>באת לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מצילות ונקישות</title>
+        <singer classification="male singer">כפיר שתיוי</singer>
+        <writer>כפיר שתיוי</writer>
+        <composer>כפיר שתיוי</composer>
+        <album>שבוע ימים על הפצע</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מצילות ונקישות</head>
+        <lg number="1" type="stanza">
+          <l>מצילות ונקישות מניפות ובקשות </l>
+          <l>שיניים נעוצות בלחם אלוהים נעוץ באדמה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וזה רוח זה תפוח </l>
+          <l>אדום חלק ויפהפה </l>
+          <l>איפור מרוח פה פתוח </l>
+          <l>אדום חלק ויפהפה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מחטים אבנים ראש מורם </l>
+          <l>מכונה שעומדת על דם </l>
+          <l>מריצה מלאה בחול </l>
+          <l>זה יום חג או זה יום חול </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וזה רוח.. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>במסיבה היא אמרה שהוא נידבק </l>
+          <l>על פניו היא העיפה אבק </l>
+          <l>הוא השיב לה בסתירה מצלצלת </l>
+          <l>גוף חמאה ולב מבזלת </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>וזה רוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

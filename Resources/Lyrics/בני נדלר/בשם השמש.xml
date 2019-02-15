@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בשם השמש</title>
+        <singer classification="male singer">בני נדלר</singer>
+        <writer>חיים גורי</writer>
+        <composer>ציונה לירון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בשם השמש</head>
+        <lg number="1" type="stanza">
+          <l>בשם השמש השוקעת,</l>
+          <l>בשם תפילת תפילת הכופרים</l>
+          <l>בשם המילים המחליאות</l>
+          <l>את אוויר הערב.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בשם הכוכב הראשון</l>
+          <l>בשמיים הדרומיים האלה.</l>
+          <l>בשם "ההזדמנות הבלתי חוזרת",</l>
+          <l>כמו שנאמר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בשם הקהל הקדוש הזה,</l>
+          <l>בשם עדת היודעים האלה,</l>
+          <l>בשם הצינה בחזה</l>
+          <l>ובשמה של ציפור הנפש.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בשם הכוכב הראשון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

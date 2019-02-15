@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בגללי או בגללו</title>
+        <singer classification="band">שובבי ציון</singer>
+        <writer>מוטי גלעדי</writer>
+        <composer>מוטי גלעדי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בגללי או בגללו</head>
+        <lg number="1" type="stanza">
+          <l>היתה שלי</l>
+          <l>עכשיו היא שלו</l>
+          <l>אם בגללי</l>
+          <l>או בגללו</l>
+          <l>כל ימי אשתוק ודמעתי</l>
+          <l>לילותי תשטוף מקנאתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אך אם היא פתאום</l>
+          <l>שוב תאיר לילי</l>
+          <l>אם זה בגללו</l>
+          <l>או בגללי</l>
+          <l>לא אומר לה לא</l>
+          <l>כשאלי תבוא</l>
+          <l>אם זה בגללי</l>
+          <l>או בגללו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היה אביב</l>
+          <l>אחד לוהט</l>
+          <l>ואהבתי</l>
+          <l>אבל כעת</l>
+          <l>כל ימי אשתוק ודמעתי</l>
+          <l>לילותי תשטוף מקנאתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אך אם היא פתאום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

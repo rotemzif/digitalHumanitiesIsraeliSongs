@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא מלאך ולא מושלם</title>
+        <singer classification="unknown">מורן קריטי</singer>
+        <writer>רמי לב</writer>
+        <composer>רמי לב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא מלאך ולא מושלם</head>
+        <lg number="1" type="stanza">
+          <l>רואה בתוך עינייך שאת רוצה ללכת</l>
+          <l>המון עבר עלייך, קשה לך בגללי</l>
+          <l>אני רגיש כמו ילד שלפעמים פוגע</l>
+          <l>אך אין לי כוונות רעות, רוצה שתסלחי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני לא מלאך ולא מושלם</l>
+          <l>אני סך הכל רק בן אדם</l>
+          <l>וגם אני טועה</l>
+          <l>אבל אוהב אותך בלי סוף</l>
+          <l>אני לא מלאך ולא מושלם</l>
+          <l>אני סך הכל רק בן אדם</l>
+          <l>בסך הכל רציתי לאהוב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וזה נראה כמו סרט שהתסריט ידוע</l>
+          <l>שבו את כבר חוזרת יודעת את הסוף</l>
+          <l>עשינו יחד דרך לא אוותר עלייך</l>
+          <l>גם אם לא תסלחי עכשיו אותך לא אעזוב.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני לא מלאך ולא מושלם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

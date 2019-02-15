@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טלנובלה הודית</title>
+        <singer classification="unknown">מריאז </singer>
+        <writer>שיקו חייק</writer>
+        <composer>עממי הודי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טלנובלה הודית</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>הלילה הלילה </l>
+          <l>שמח הלילה </l>
+          <l>שותים רוקדים ברחבה </l>
+          <l>שמח הלילה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש מוזיקה טובה </l>
+          <l>שעושה טוב בנשמה </l>
+          <l>איזו חגיגה </l>
+          <l>עושים לי ולך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מביטים בעיניים </l>
+          <l>מתרגשים כאן בשניים </l>
+          <l>מלאכים בשמיים </l>
+          <l>פורשים עלינו כנפיים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הלילה הלילה </l>
+          <l>שמח הלילה </l>
+          <l>שותים רוקדים ברחבה </l>
+          <l>שמח הלילה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

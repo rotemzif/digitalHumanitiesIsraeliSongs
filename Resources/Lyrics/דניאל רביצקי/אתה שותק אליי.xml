@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אתה שותק אליי</title>
+        <singer classification="unknown">דניאל רביצקי</singer>
+        <writer>זלדה מישקובסקי</writer>
+        <composer>קרני פוסטל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אתה שותק אליי</head>
+        <lg number="1" type="stanza">
+          <l>אתה שותק אליי מין העולם הכמוס</l>
+          <l>בלע ההר את כל המקומות</l>
+          <l>אשר התהלכת שם חי</l>
+          <l>אני מכסה את שתיקתך</l>
+          <l>באותיות ובקולן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני מכסה את האין</l>
+          <l>בציפורים שבאות לשתות מים</l>
+          <l>ובנחשים, כן בנחשים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא היה דבר אשר לא קראתיו נר</l>
+          <l>כי אפחד,</l>
+          <l>פן בחושך לא אבחין בין מים חיים</l>
+          <l>לבורות נשברים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני מכסה את האין</l>
+          <l>בציפורים שבאות לשתות מים</l>
+          <l>ובנחשים, כן בנחשים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

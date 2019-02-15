@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי שכאב</title>
+        <singer classification="male singer">חיים אל</singer>
+        <writer>מרטין גל</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי שכאב</head>
+        <lg number="1" type="stanza">
+          <l>בלילה... אני מזיל דמעה קשוחה</l>
+          <l>אל תוך הלילה בחשכה</l>
+          <l>נותרתי... חסר אונים מול מכשוליי החיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מי שכאב, מי שכאב ילדה</l>
+          <l>שהכאב אילם ילדה</l>
+          <l>מי שנפל, מי שנפל ומת</l>
+          <l>מאהבה לא סובל כעת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לילה... אפל וקר עוטף אותי</l>
+          <l>מאיימם להחליף את עולמי</l>
+          <l>בעולם אין בודד כמותי</l>
+          <l>כך אהיה גם במותי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מי שכאב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

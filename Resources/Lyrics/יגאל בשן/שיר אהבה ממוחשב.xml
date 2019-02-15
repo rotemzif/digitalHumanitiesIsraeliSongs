@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר אהבה ממוחשב</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>יגאל בשן</writer>
+        <composer>יגאל בשן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר אהבה ממוחשב</head>
+        <lg number="1" type="stanza">
+          <l>נפגשנו בקניון למטה</l>
+          <l>ליד משחקי המחשב</l>
+          <l>אני קצת מיהרתי הביתה</l>
+          <l>אז למה אני מתעכב?</l>
+          <l>זה קרה, זה קורה, זה עוד יקרה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אולי זה בתוך דימיוני</l>
+          <l>כאילו שאת ואני</l>
+          <l>נפגשנו בתוך המחשב</l>
+          <l>אז מה אם אני מתאהב?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עלינו קומה בינתיים</l>
+          <l>יש מדרגות שנעות</l>
+          <l>בקניון צריך משקפיים</l>
+          <l>אז יש לי אותך לפחות</l>
+          <l>זה קרה, זה קורה, זה עוד יקרה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אולי זה בתוך דמיוני...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>קניתי לך ג'ינס קרוע</l>
+          <l>טי שרט בצבע לימון</l>
+          <l>אני כנראה שאפתיע</l>
+          <l>אפילו שזה רק דמיון</l>
+          <l>זה קרה, זה קורה, זה עוד יקרה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אולי זה בתוך דמיוני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

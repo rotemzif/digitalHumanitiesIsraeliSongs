@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נסו להבין את הים</title>
+        <singer classification="female singer">עדנה לב</singer>
+        <writer>אהוד מנור</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נסו להבין את הים</head>
+        <lg number="1" type="stanza">
+          <l>הים הכחול זועק,</l>
+          <l>עולה ומכה לחינם.</l>
+          <l>כבר אלף שנים שותק</l>
+          <l>החוף הלבן מול הים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נסו להבין את התכלת,</l>
+          <l>נסו להבין את הים.</l>
+          <l>סוער ורוגש בלי תוחלת</l>
+          <l>ועוד ועוד לא נירדם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הים האילם ניפחד,</l>
+          <l>ושמש מכה על הגל.</l>
+          <l>כבר אלף שנים ניבט</l>
+          <l>אותו הרקיע מעל.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נסו להבין את התכלת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הים העייף גואה,</l>
+          <l>המלח אוכל אבניו.</l>
+          <l>כבר אלף שנים בוכה,</l>
+          <l>קורא לאבי אבותיו.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>נסו להבין את התכלת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

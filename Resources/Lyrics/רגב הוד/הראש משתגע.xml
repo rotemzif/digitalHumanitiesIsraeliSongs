@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הראש משתגע</title>
+        <singer classification="male singer">רגב הוד</singer>
+        <writer>אלון צדוק</writer>
+        <composer>דודו אהרון</composer>
+        <album>מרגיש בטוח</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הראש משתגע</head>
+        <lg number="1" type="stanza">
+          <l>עינייך מביטות כאומרות אותך אני אוהבת </l>
+          <l>אני מביט בתוך עינייך יודע מה את חושבת </l>
+          <l>הסומק שעל פנייך אותך מסגיר </l>
+          <l>לצידך אהובה תמיד ארגיש צעיר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הראש משתגע, הלב מתגעגע </l>
+          <l>שאת קולך אני שומע </l>
+          <l>הוי אלוהים אותך אוהב </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גם כשאת כועסת אז אני תמיד יודע </l>
+          <l>שתסלחי לי בקלות לפעמים אני פוגע </l>
+          <l>הסומק שעל פנייך אותך מסגיר </l>
+          <l>לצידך אהובה תמיר ארגיש צעיר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הראש משתגע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואו נרקודה</title>
+        <singer classification="male singer">משה הלל</singer>
+        <writer>משה הלל</writer>
+        <composer>משה הלל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואו נרקודה</head>
+        <lg number="1" type="stanza">
+          <l>הקצב מתגלגל פה, הערק שנמזג פה</l>
+          <l>וכל האווירה המיוחדת מסביב,</l>
+          <l>בוזוקי מתנגן לו, וגם העוד עונה לו</l>
+          <l>וכל הנשמה בוערת לה בפנים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אתם מחאו כפיים, הקצב בשמיים</l>
+          <l>וכל החוגגים שמרקדים כאן מסביב,</l>
+          <l>ריקעו נא ברגליים, תניד נשתה לחיים</l>
+          <l>והבוזוקי והעוד תמיד כאן מתנגנים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בואו נשירה ברטט ובכייף</l>
+          <l>בואו נרקודה, בקצב הסוחף,</l>
+          <l>בואו נסחוף את הכל כאן מסביב</l>
+          <l>והשמחה שוב תרקיע לשחקים.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כולם נעים בקצב, שוכחים את כל העצב</l>
+          <l>והשמחה סוחפת לה פורצת מסביב,</l>
+          <l>כי טוב לשתות לחיים, עם סומק בלחיים</l>
+          <l>תמיד שמח נעשה, זה טוב וגם נעים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בואו נשירה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חי ומחייך</title>
+        <singer classification="male singer">רון שובל</singer>
+        <writer>נורית בת-שחר צפריר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חי ומחייך</head>
+        <lg number="1" type="stanza">
+          <l>אם אתה עוד חי ומחייך</l>
+          <l>לא חשוב ה"מה" חשוב ה"איך"</l>
+          <l>בן אדם רוצה פשוט להיות</l>
+          <l>ואם להתקיים אז כבר לחיות...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חייך אז את חייך - ודע לך שאם</l>
+          <l>משהו בוכה בך - זה רק לרגעים</l>
+          <l>שכח היום ימים רעים- שרק נהיה בריאים</l>
+          <l>הקשיים הם כוח החיים</l>
+          <l>אות היא שימים טובים באים...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש כאב ואין למי לפנות</l>
+          <l>זכור יום טוב - וזכור שמחות קטנות</l>
+          <l>סתם יום חג קטן ללא רשות</l>
+          <l>יש לו לאדם הפשוט...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חייך אז את חייך - ודע לך שאם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

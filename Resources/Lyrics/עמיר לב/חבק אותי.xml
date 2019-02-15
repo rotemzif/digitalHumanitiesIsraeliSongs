@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חבק אותי 6</title>
+        <singer classification="male singer">עמיר לב</singer>
+        <writer>עמיר לב</writer>
+        <composer>עמיר לב</composer>
+        <album>עמיר לב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חבק אותי</head>
+        <lg number="1" type="stanza">
+          <l>עם הזמן יהיה יותר קל</l>
+          <l>תתרגל למה שאין את אומרת</l>
+          <l>מה אם ההתרגשות בדרך</l>
+          <l>נסה להירגע את אומרת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חבק אותי, חבק אותי חזק את אומרת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מושכים אותי מקומות רחוקים</l>
+          <l>תראה איך כולנו חוזרים את אומרת</l>
+          <l>שום דבר לא זז כאן</l>
+          <l>אל תחפש קיצורים את אומרת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חבק אותי, חבק אותי חזק את אומרת</l>
+          <l>חבק אותי, חבק אותי חזק את אומרת</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה לא מפחיד אותי לשרוף גשרים</l>
+          <l>בדיוק בזמן לא טוב את אומרת</l>
+          <l>אני אמות פה עדיף לצאת לקרב</l>
+          <l>זה רק יותר יכאב את אומרת</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>חבק אותי, חבק אותי חזק את אומרת</l>
+          <l>חבק אותי, חבק אותי חזק את אומרת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

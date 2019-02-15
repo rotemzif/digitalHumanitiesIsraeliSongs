@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>החורף 4</title>
+        <singer classification="male singer">עמיר לב</singer>
+        <writer>עמיר לב</writer>
+        <composer>עמיר לב</composer>
+        <album>עמיר לב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>החורף</head>
+        <lg number="1" type="stanza">
+          <l>נסעתי מאה קילומטר בשביל קצת חום</l>
+          <l>רציתי לפגוש מישהי אחרת במקום</l>
+          <l>עצרתי בבית קפה</l>
+          <l>ראיתי איש ואישה מתכבדים זו בזה</l>
+          <l>לי זה לא יקרה</l>
+          <l>לי זה לא יקרה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הטירוף אונס אותי ללכת בלי סיבה</l>
+          <l>אין מקום למחשבות אז הן חודרות גם לשינה</l>
+          <l>מצאתי את עצמי שקוע בשיחה</l>
+          <l>עם חברה של ההורים שלי ששאלה</l>
+          <l>זה לא עשה לי טוב לדבר כל כך הרבה</l>
+          <l>הלחץ מהבטן שיוצא</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>החורף הקשה ממשיך בינתיים</l>
+          <l>השלג מכסה תקופות יפות</l>
+          <l>אולי זה עונש על החטא שבא אלי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בינתיים לא הולך למקומות מסוכנים</l>
+          <l>שלא אוכל לחזור מהם כמו שאומרים</l>
+          <l>ככה עוד יש סיכוי לצוף ולחכות</l>
+          <l>שיעבור החורף שמקפיא את השעות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>החורף הקשה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

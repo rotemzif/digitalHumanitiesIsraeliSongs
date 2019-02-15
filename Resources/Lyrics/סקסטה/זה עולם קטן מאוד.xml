@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה עולם קטן מאוד</title>
+        <singer classification="band">סקסטה</singer>
+        <writer>רוברט שרמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה עולם קטן מאוד</head>
+        <lg number="1" type="stanza">
+          <l>זה עולם של צחוק ועולם דמעות</l>
+          <l>זה עולם של צער והנאות</l>
+          <l>כה הרבה משותף לכולם ומובן</l>
+          <l>זה עולם מאוד קטן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה עולם קטן מאוד, זה עולם קטן מאוד </l>
+          <l>זה עולם קטן מאוד, העולם קטן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ידידות ביננו שווה זהב</l>
+          <l>בחיוך אחד את כולם נאהב</l>
+          <l>כי למרות הפסגות ועומקו של הים</l>
+          <l>העולם מאוד קטן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה עולם קטן מאוד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

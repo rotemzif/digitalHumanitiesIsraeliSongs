@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ליעל יש יום הולדת</title>
+        <singer classification="female singer">דלית כהנא</singer>
+        <writer>אורלי בינדר</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ליעל יש יום הולדת</head>
+        <lg number="1" type="stanza">
+          <l>ליעל יש יום הולדת בחג הסוכות</l>
+          <l>לחג הזה תמיד קצת קשה לה לחכות</l>
+          <l>תבוא המשפחה ותביא לה מתנות,</l>
+          <l>לכן כולם עוזרים לה להכין תשרשרות.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איזה חג שמח מלא בהפתעות</l>
+          <l>סוכה ויום הולדת ויש מה לצפות.</l>
+          <l>איזה חג שמח מלא בהפתעות</l>
+          <l>יעל כבר מתחילה עוגות כאן לאפות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>החברים שלה באים מביאים את הקרשים</l>
+          <l>תוקעים באדמה ודופקים בפטישים.</l>
+          <l>מביאים את השמיכות ותולים עם מסמרים</l>
+          <l>הנה כבר יש קירות אל הקרשים מחוברים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איזה חג שמח...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הנה כולם עוד מקשטים ושמחים כל-כך,</l>
+          <l>אספו כל הילדים גם ענפים לסכך.</l>
+          <l>שולחן וכסאות הסוכה כבר מוכנה,</l>
+          <l>באים כולם עכשיו חוגגים כמו כל שנה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>איזה חג שמח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

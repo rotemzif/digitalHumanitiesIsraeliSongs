@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חצבים פורחים</title>
+        <singer classification="band">תיסלם</singer>
+        <writer>יאיר ניצני</writer>
+        <composer>יזהר אשדות</composer>
+        <album>לאספנים בלבד</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חצבים פורחים</head>
+        <lg number="1" type="stanza">
+          <l>תחת תכול השמיים</l>
+          <l>מול חופי הימים</l>
+          <l>שתי רגלים במים</l>
+          <l>וגלים מפכים</l>
+          <l>ממרומי הגלבוע</l>
+          <l>לרגלי התבור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חצבים פורחים</l>
+          <l>וציפורים אין ספור.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מול חופי הכנרת</l>
+          <l>צל הרי הרמה</l>
+          <l>חקלאי וצנרת</l>
+          <l>שיבולי הקמה</l>
+          <l>אם שולחת בניה</l>
+          <l>על הארץ לשמור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חצבים פורחים</l>
+          <l>וציפורים אין ספור.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מול הכפר הירוק</l>
+          <l>בין עצים וגדרות</l>
+          <l>על אדמות הטרשים</l>
+          <l>מחפשים שורשים.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>את נותנת לי כח</l>
+          <l>את נותנת לי אור</l>
+          <l>את הדרך לשכוח</l>
+          <l>להמשיך ולזכור.</l>
+          <l>שדה קוצים ושלכת</l>
+          <l>וצילו של האור</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>חצבים פורחים</l>
+          <l>וציפורים אין ספור.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

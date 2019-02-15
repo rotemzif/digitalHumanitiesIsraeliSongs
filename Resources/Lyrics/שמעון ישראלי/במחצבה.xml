@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>במחצבה</title>
+        <singer classification="male singer">שמעון ישראלי</singer>
+        <writer>יוסי גמזו</writer>
+        <composer>שמעון ישראלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>במחצבה</head>
+        <lg number="1" type="stanza">
+          <l>יום של אש, ובמכתש,</l>
+          <l>צוקים, שחקים והד.</l>
+          <l>כאן חוצבים, הלמות קוצבים,</l>
+          <l>בשדות אבק יוקד.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הך בפטיש - צוקי מדבר, גבר,</l>
+          <l>הך בפטיש - וכרה להר קבר,</l>
+          <l>הך בפטיש - כי לב של אבן לנוף.</l>
+          <l>הך בפטיש - ואל תחדל גבר,</l>
+          <l>הך בפטיש - וגרוף לסל, גבר,</l>
+          <l>הך בפטיש - וכך בלי קץ ובלי סוף.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז, קדמון יחשך השקט</l>
+          <l>אז, תמתח גווך מול הר,</l>
+          <l>אז, תבוא מנוחה נושקת,</l>
+          <l>עד אור זריחה עושקת</l>
+          <l>ושוב תסער, סופת מדבר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הך בפטיש...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כאן, שותקים צוקי השחם</l>
+          <l>כאן, בתינו רחוקים,</l>
+          <l>כאן במחצבה נידחת,</l>
+          <l>אפל הליל פחד.</l>
+          <l>ושוב דולקים ראשי צוקים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הך בפטיש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

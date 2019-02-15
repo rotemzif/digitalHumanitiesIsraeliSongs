@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה קורה איתך 2</title>
+        <singer classification="male singer">משה פרץ</singer>
+        <writer>משה פרץ</writer>
+        <composer>משה פרץ</composer>
+        <album>מהשמיים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה קורה איתך</head>
+        <lg number="1" type="stanza">
+          <l>למה את הולכת בלי לומר מילה</l>
+          <l>לפעמים אני מרגיש באשליה</l>
+          <l>פעם את הולכת ופעם מנשקת</l>
+          <l>את עושה בי מה שאת רוצה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הגלגל יכול פתאום להסתובב</l>
+          <l>ואני לא אהיה הגבר שאותך אוהב</l>
+          <l>תני לי את השקט</l>
+          <l>לא צריך ללכת</l>
+          <l>בואי נפתור את כל הבעיות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תגידי מה קורה איתך</l>
+          <l>אם את שלי אני שלך</l>
+          <l>אני כבר לא יכול עוד לילה בלעדייך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איך את מנצחת את כל החושים</l>
+          <l>יש בך את הקסם זה כל כך מדהים</l>
+          <l>אני באתי עד אלייך</l>
+          <l>ואת עם שתי עינייך</l>
+          <l>מזמינה אותי לאהבה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תגידי מה קורה איתך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Willow Tree</title>
+        <singer classification="male singer">ליאור סקר</singer>
+        <writer>ליאור סקר</writer>
+        <composer>ליאור סקר</composer>
+        <album>Ordinary Life</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Willow Tree</head>
+        <lg number="1" type="stanza">
+          <l>I'm a leaf upon at tree among many different ones </l>
+          <l>As my life go and I grow I have learned to love the sun </l>
+          <l>I'm a leaf upon a tree that is soaking up the sun </l>
+          <l>Still my mind wonders again </l>
+          <l>are there any brighter suns? </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>On a branch upon the willow tree </l>
+          <l>All the leaves are warming up in glee </l>
+          <l>In the winter they will cease to be </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>We are leaves upon a tree we are many different kinds </l>
+          <l>As our lives go we grow and we're grateful for the sun </l>
+          <l>We are leaves upon a tree in the winter we will be gone </l>
+          <l>Catching the wind that will lay us </l>
+          <l>upon the cold cold ground</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

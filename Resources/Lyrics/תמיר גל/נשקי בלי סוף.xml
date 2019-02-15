@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נשקי בלי סוף</title>
+        <singer classification="male singer">תמיר גל</singer>
+        <writer>מרטין גל</writer>
+        <composer>שמעון בוסקילה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נשקי בלי סוף</head>
+        <lg number="1" type="stanza">
+          <l>מצאתי דרכים</l>
+          <l>איך לתאר את רגשותי אלייך</l>
+          <l>חיפשתי מילים מילים לספר</l>
+          <l>מה עושות לי עינייך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש לי מיליון צורות לבקש אותך ולרצות</l>
+          <l>להתוודות לרגשות שלך</l>
+          <l>נשקי בלי סוף אל מול האושר</l>
+          <l>נשקי את חיי בכל בוקר</l>
+          <l>נשקי את פי בדמעתך הצוחקת</l>
+          <l>נשקי בלי סוף אל מול האושר</l>
+          <l>נשקי את חיי בכל בוקר</l>
+          <l>נשקי את פי בדמעתך הצוחקת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאת איתי ואני קצת רדום</l>
+          <l>נשקי את הלילה שיקום</l>
+          <l>כל כוכב זוהר שיש בשמיים</l>
+          <l>ישמור עלייך בשבילי בינתיים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש לי מיליון צורות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

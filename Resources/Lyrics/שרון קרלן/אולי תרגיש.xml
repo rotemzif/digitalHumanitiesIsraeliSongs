@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אולי תרגיש</title>
+        <singer classification="female singer">שרון קרלן</singer>
+        <writer>שרון קרלן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אולי תרגיש</head>
+        <lg number="1" type="stanza">
+          <l>היית לי מקלט מכל מה ששורף</l>
+          <l>למרות שהתרחקת המשכתי ללטף</l>
+          <l>ואולי תרגיש כשתתעורר</l>
+          <l>כי בשתי עיניך לא רואים אותך יותר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פגעת בי ולא ראית בכלל</l>
+          <l>וגם בבדידותי עוד האמנתי שנוכל</l>
+          <l>ואולי תרגיש כשתתעורר</l>
+          <l>כי בשתי עיניך לא רואים אותך יותר.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>או או או אה אה אה אה אה אה </l>
+          <l>או או או</l>
+          <l>או או או אה אה אה אה אה אה</l>
+          <l>או או או.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עכשיו אני אחרת, לומדת להמשיך</l>
+          <l>ניסית לשנות אבל בעצם לא צריך</l>
+          <l>ואולי תרגיש כשתתעורר</l>
+          <l>כי בשתי עיניך לא רואים אותך יותר.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>או או או...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

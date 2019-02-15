@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נזכרתי בך</title>
+        <singer classification="male singer">טל שגב</singer>
+        <writer>טל שגב</writer>
+        <composer>טל שגב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נזכרתי בך</head>
+        <lg number="1" type="stanza">
+          <l>אין לי מצב רוח, להיות עכשיו איתכם,</l>
+          <l>ואין לי מצב רוח, לשמוע את קולכם.</l>
+          <l>לבד לא קל לי, איתך לא בא לי,</l>
+          <l>כוכב בודד בתוך עולם חשוך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אין לי מצב רוח, לשיר עכשיו שירים,</l>
+          <l>ואין לי מצב רוח, למצוא עכשיו מילים,</l>
+          <l>מזיל מדמעותי, פוחד ממחשבותי,</l>
+          <l>וממולי עומד הלב.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>וכמה שבכיתי בגללך... וקצת לגעת בידך...</l>
+          <l>את אף פעם לא תדעי... מתוקה יפה שלי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שמיים צבע תכלת, פוקחים לי את עיני</l>
+          <l>בתוליות פניה, קוצרות נשימותי,</l>
+          <l>לגעת ביופייך, לפגוש בנפשך,</l>
+          <l>וממולי עומד הלב.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>וכמה שבכיתי בגללך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חייל שלי 3</title>
+        <singer classification="female singer">רינת בר</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חייל שלי</head>
+        <lg number="1" type="stanza">
+          <l>יש לי חייל אחד</l>
+          <l>בין כל החיילים</l>
+          <l>שובביניו מתוק</l>
+          <l>כן זהו החייל שלי</l>
+          <l>מטלפן כל יום מהצבא</l>
+          <l>ולוחש לי מילים של אהבה</l>
+          <l>מתי אתה יוצא לחופש בשבילי</l>
+          <l>חייל שלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מחכה לך רק לך רק לך</l>
+          <l>חזור הביתה חזור אלי</l>
+          <l>רוצה אותך רק אותך</l>
+          <l>שתשוב לזרועותי</l>
+          <l>ותמלא שוב את חיי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כולם קוראים לו</l>
+          <l>הליצן של הפלוגה</l>
+          <l>שכל הזמן קופץ</l>
+          <l>ומשתולל כמו משוגע</l>
+          <l>למשרד כל בוקר מתייצב</l>
+          <l>וצועק שהוא אותי אוהב</l>
+          <l>מתי אתה יוצא לחופש בשבילי</l>
+          <l>חייל שלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מחכה לך רק לך רק לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

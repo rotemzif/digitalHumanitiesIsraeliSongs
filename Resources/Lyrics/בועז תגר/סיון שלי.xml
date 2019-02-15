@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סיון שלי</title>
+        <singer classification="unknown">בועז תגר</singer>
+        <writer>רינה שליין</writer>
+        <composer>בועז תגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סיון שלי</head>
+        <lg number="1" type="stanza">
+          <l>מעבר להרים, ולים </l>
+          <l>גרה לבד, ילדתי </l>
+          <l>געגעועי שטים לשם </l>
+          <l>ועוטפים אותך, סיון שלי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סיון, סיון... </l>
+          <l>אני פה, ואת שם </l>
+          <l>סיון, סיון...</l>
+          <l>אני פה, ואת שם </l>
+          <l>סיון...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עינייך צוחקות, בחלום </l>
+          <l>עוד אשוב לראותך, ילדתי </l>
+          <l>ובלילות, עיני דומעות </l>
+          <l>אוהב אותך, אוהב </l>
+          <l>סיון שלי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סיון, סיון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

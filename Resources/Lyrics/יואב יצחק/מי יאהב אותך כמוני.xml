@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי יאהב אותך כמוני</title>
+        <singer classification="male singer">יואב יצחק</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי יאהב אותך כמוני</head>
+        <lg number="1" type="stanza">
+          <l>אם את הולכת</l>
+          <l>בלי לאמר מילה, על מה שאת חושבת</l>
+          <l>אם את שותקת</l>
+          <l>זה בגלל שאלה, שמעיקה וכואבת.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מי יאהב אותך כמוני לאור ירח</l>
+          <l>מי יאהב כמו שאהבתי, מי יהיה לך</l>
+          <l>מי ימחה את דמעותיך, יביא לך שקט</l>
+          <l>מי יישק לגומותיך כשאת צוחקת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מי ימלא לך</l>
+          <l>את החלל הריק בלב, ירפא את רגשותיך</l>
+          <l>מי ישקר לך</l>
+          <l>ישכיח לך את הכאב, ומי יאיר את לילותיך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מי יאהב אותך כמוני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>למה את שותקת</title>
+        <singer classification="male singer">עופר לוי</singer>
+        <writer>יוש גרנות</writer>
+        <composer>עממי טורקי</composer>
+        <album>הקלפן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>למה את שותקת</head>
+        <lg number="1" type="stanza">
+          <l>ליבי יוצא אלייך</l>
+          <l>שוקע בעינייך</l>
+          <l>טובע בין שפתייך</l>
+          <l>בים מלא אהבה</l>
+          <l>אבל את רק שותקת</l>
+          <l>ברגשותי משחקת</l>
+          <l>את כמו ילדה מפונקת</l>
+          <l>לא מותירה לי תקווה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אמרי לי</l>
+          <l>הראי לי</l>
+          <l>ספרי לי</l>
+          <l>מה בליבך ואדע</l>
+          <l>אמרי לי</l>
+          <l>הראי לי</l>
+          <l>ספרי לי</l>
+          <l>כי שתיקתך לי חידה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין בי שלווה ומנוח</l>
+          <l>ולא יכול עוד לברוח</l>
+          <l>כי לא נותר בי הכוח</l>
+          <l>ונשמתי אבודה</l>
+          <l>את לילותי את רודפת</l>
+          <l>בחלוני משתקפת</l>
+          <l>מחשבותי את סוחפת</l>
+          <l>ושתיקתך לי חידה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אמרי לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

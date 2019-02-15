@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני ממריא</title>
+        <singer classification="unknown">שחר בן חור</singer>
+        <writer>שחר בן חור</writer>
+        <composer>שחר בן חור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני ממריא</head>
+        <lg number="1" type="stanza">
+          <l>כל פעם אני ממריא</l>
+          <l>ומתרסק מחדש</l>
+          <l>חושב שלמדתי</l>
+          <l>אך אינני יכול להסביר</l>
+          <l>את הדמעות בעיניי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איך זה לנוע בין </l>
+          <l>שני קצוות של פחד</l>
+          <l>ועד כמה פרוע יכול להיות</l>
+          <l>סוס של שיש</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

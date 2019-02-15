@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה ששמתי</title>
+        <singer classification="band">ליברה</singer>
+        <writer>פרנק סראלו</writer>
+        <composer>יפעת נח</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה ששמתי</head>
+        <lg number="1" type="stanza">
+          <l>כל, כל, כל מילה</l>
+          <l>כל מילה שלך שורפת</l>
+          <l>אותי, באש, באש חמה</l>
+          <l>אולי, אולי תגיד לי בייבי</l>
+          <l>אתה פוחד, אבל ממה?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה ששמתי, ששמתי</l>
+          <l>מה ששמתי, חשבתי שהבנת כבר מזמן</l>
+          <l>את מה ששמתי, ששמתי, הו בייבי</l>
+          <l>מה שממתי, שמתי על השולחן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשא-כשאני, כשאני אותך תופסת</l>
+          <l>מביט, אל תוך עיני</l>
+          <l>בא לי, בא לי רק</l>
+          <l>בא לי רק - רק לצרוח</l>
+          <l>לך חיכיתי כל חיי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה ששמתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

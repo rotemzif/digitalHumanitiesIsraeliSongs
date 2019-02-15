@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מעריץ שלך</title>
+        <singer classification="male singer">עופר לוי</singer>
+        <writer>מוטי אוחיון</writer>
+        <composer>מוטי אוחיון</composer>
+        <album>בדרך שבחרתי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מעריץ שלך</head>
+        <lg number="1" type="stanza">
+          <l>אישה שלי איך בתוך ליבי </l>
+          <l>אני מרגיש את הדבר האמיתי </l>
+          <l>את כה יפה ואת שלי </l>
+          <l>לעולם רוצה אותך יפתי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מעריץ שלך זה מה שאני </l>
+          <l>כולם יודעים שאני מעריץ שלך </l>
+          <l>מעריץ שלך זה מה שאני </l>
+          <l>אני מעריץ שלך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אישה שלי כל שתבקשי </l>
+          <l>אני אתן לך מעומק נשמתי </l>
+          <l>את כה יפה ואת שלי </l>
+          <l>לעולם רוצה אותך איתי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מעריץ שלך זה מה שאני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

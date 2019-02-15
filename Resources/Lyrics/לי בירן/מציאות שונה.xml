@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מציאות שונה</title>
+        <singer classification="male singer">לי בירן</singer>
+        <writer>לי בירן</writer>
+        <composer>לי בירן</composer>
+        <album>כיסים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מציאות שונה</head>
+        <lg number="1" type="stanza">
+          <l>הוא לא ציפה לשום דבר </l>
+          <l>"זה הסתדר" תמיד אמר </l>
+          <l>ולא הוסיף להתעניין, להאמין </l>
+          <l>שתקה לאט, הזמן עבר </l>
+          <l>וביניהם כלום לא נשאר </l>
+          <l>מתוך הרגל המשיך פסע בדרך האמת </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מתעורר למציאות שונה </l>
+          <l>זה קשה לו </l>
+          <l>זה כואב לו </l>
+          <l>קורא לה והיא לא עונה </l>
+          <l>זה קשה לו </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הוא מנסה להתרגל </l>
+          <l>כי אי אפשר לחשוב יותר </l>
+          <l>הוא לעצמו רק משקר</l>
+          <l>אומר "יהיה פה טוב יותר" </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מתעורר למציאות שונה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

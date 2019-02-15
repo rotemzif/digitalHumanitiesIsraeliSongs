@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מילותי האחרונות</title>
+        <singer classification="unknown">חביב שאשא</singer>
+        <writer>חביב שאשא</writer>
+        <composer>חביב שאשא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מילותי האחרונות</head>
+        <lg number="1" type="stanza">
+          <l>והשיר הזה הוא מילותי האחרונות</l>
+          <l>היום הכל נגמר מנסה להשתנות</l>
+          <l>אם זה לא יקרה, לא אשוב עוד ילדה</l>
+          <l>אם לא נסתדר לא נמצא עוד אהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא יודע דבר</l>
+          <l>מה קרה, איך נגמר</l>
+          <l>מחפש נחמה,</l>
+          <l>שתביא יד חמה</l>
+          <l>תלטף ת'נשמה</l>
+          <l>תחבק ותאהב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>השיר הזה הוא המכתב האחרון</l>
+          <l>רק את תקראי ותגיבי לנכון</l>
+          <l>כל מילה שלך אומר אהובתי</l>
+          <l>חותם בדימעותי, חותם בנשמתי</l>
+          <l>יפה שלי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא יודע דבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

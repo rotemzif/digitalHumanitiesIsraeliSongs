@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המנון הלהקה</title>
+        <singer classification="band">להקת שיר</singer>
+        <writer>לשה סון</writer>
+        <composer>לשה סון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המנון הלהקה</head>
+        <lg number="1" type="stanza">
+          <l>תו אחד הנה מתחיל</l>
+          <l>מצטרף אליו עוד צליל</l>
+          <l>וכמה עוד נמצאים בדרך</l>
+          <l>עוד פזמון ועוד אחד</l>
+          <l>אנו נצטרף מיד</l>
+          <l>ומזה ייצא עוד רגע שיר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ועוברת עוד שנה</l>
+          <l>ועולה המנגינה</l>
+          <l>אנו כאן שרים אותה ביחד</l>
+          <l>ויפים הם הצלילים</l>
+          <l>עולים מכל פינה</l>
+          <l>שרים ביחד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ועוד רגע שוב עובר</l>
+          <l>ומתחיל פזמון חוזר</l>
+          <l>המילים פה מתנגנות בקצב</l>
+          <l>בית וגם עוד שורה</l>
+          <l>תנו עוד רגע תנו ורק</l>
+          <l>מן האפר יעלה השיר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ועוברת עוד שנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

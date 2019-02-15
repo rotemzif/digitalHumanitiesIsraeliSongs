@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כבול</title>
+        <singer classification="male singer">בן ארצי</singer>
+        <writer>בן ארצי</writer>
+        <composer>בן ארצי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כבול</head>
+        <lg number="1" type="stanza">
+          <l>כבול, אני מרגיש כבול</l>
+          <l>אלייך ואלי, אלייך ואלי</l>
+          <l>בוגד, אני מרגיש בוגד</l>
+          <l>כי עליך לא חושב</l>
+          <l>אבל הרי אמרתי שאותך אוהב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז לא, אל תפגעי</l>
+          <l>אל תחשבי עלי, אותי תשכחי</l>
+          <l>בבקשה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חשוד, אני מרגיש חשוד</l>
+          <l>שבך אני לא חושד</l>
+          <l>אני לא מתנגד שתהיי עם כל אחד</l>
+          <l>ואז את לא רוצה</l>
+          <l>כי איתי את מרוצה</l>
+          <l>ועכשיו אני כבול</l>
+          <l>כבול</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז לא, אל תפגעי</l>
+          <l>אל תחשבי עלי, אותי תשכחי</l>
+          <l>בבקשה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

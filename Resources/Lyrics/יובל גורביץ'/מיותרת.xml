@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מיותרת</title>
+        <singer classification="unknown">יובל גורביץ </singer>
+        <writer>יובל גורביץ'</writer>
+        <composer>יובל גורביץ'</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מיותרת</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>היא מיותרת והיא לא לבד</l>
+          <l>ומתאכזרת לאף אחד</l>
+          <l>ולא זוכרת, כי קצת טוב לבד</l>
+          <l>וכך עוברת מיד ליד</l>
+          <l>מיד ליד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שלום גברת, תקני עגילים</l>
+          <l>היא מוותרת גם על פרחים</l>
+          <l>ומפזרת פחדים על הזר</l>
+          <l>מה זאת אומרת, פחות או יותר</l>
+          <l>פחות או יותר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ולא אומרים לה כלום ישר או מקרוב</l>
+          <l>ובלבד שלה גם שם אין לה רוב</l>
+          <l>אז היא הולכת ישר או מקרוב</l>
+          <l>על המדרכת לסוף הרחוב</l>
+          <l>לסוף הרחוב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היא מיותרת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

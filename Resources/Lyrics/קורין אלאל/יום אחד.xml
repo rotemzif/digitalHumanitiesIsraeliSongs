@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יום אחד 17</title>
+        <singer classification="female singer">קורין אלאל</singer>
+        <writer>קורין אלאל</writer>
+        <composer>קורין אלאל</composer>
+        <album>הכחול של השמיים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יום אחד</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>יום אחד היא שכחה לרוץ</l>
+          <l>היא נפלה</l>
+          <l>יום אחד היא שכחה לקום</l>
+          <l>היא כתבה, היא כתבה לכם שירים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יום אחד היא שכחה לעוף</l>
+          <l>היא נפלה</l>
+          <l>יום אחד היא שכחה לקום</l>
+          <l>היא כתבה, היא כתבה לכם שירים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בעולם יש שמש יפה מאוד</l>
+          <l>בעולם יש שמש יפה מאוד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יום אחד היא שכחה לרוץ...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שם היא תחכה לי ותשמור</l>
+          <l>מקום גם לי, מקום גם לי</l>
+          <l>בעולם יש שמש יפה מאוד</l>
+          <l>בעולם יש שמש יפה מאוד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

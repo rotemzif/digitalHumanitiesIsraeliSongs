@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה נדבר</title>
+        <singer classification="male singer">ירמי קפלן</singer>
+        <writer>ירמי קפלן</writer>
+        <composer>missing</composer>
+        <album>הזמן אבוד</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה נדבר</head>
+        <lg number="1" type="stanza">
+          <l>כמה נדבר</l>
+          <l>כמה נשתוק</l>
+          <l>בזמן שהעיר הזאת בוערת</l>
+          <l>אני מקווה שנספיק לאהוב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא נצא מכאן</l>
+          <l>בחוץ מסוכן</l>
+          <l>נפתח טלווזיה</l>
+          <l>נראה את הסרט</l>
+          <l>שם זה נגמר,</l>
+          <l>עם סוף מסוכר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בואי נעמיד פנים</l>
+          <l>נמשיך כרגיל גם אם</l>
+          <l>הכל מתמוטט מבפנים</l>
+          <l>הכל מתפוצץ בפנים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אתן לך מקום מוגן</l>
+          <l>אתן לך מקום מוגן</l>
+          <l>תני לי מקום איתך,</l>
+          <l>איתך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עכשיו את ערומה</l>
+          <l>אהבה או מלחמה</l>
+          <l>מבזק חדשות תפסיקי לבכות</l>
+          <l>יהיה פעם טוב או לפחות בסדר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בואי נעמיד פנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

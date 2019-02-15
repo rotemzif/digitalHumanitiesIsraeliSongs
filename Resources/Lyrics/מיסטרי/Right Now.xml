@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Right Now</title>
+        <singer classification="unknown">מיסטרי</singer>
+        <writer>מיסטרי</writer>
+        <composer>מיסטרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Right Now</head>
+        <lg number="1" type="stanza">
+          <l>Their trying to tell you </l>
+          <l>There's no reason to fall apart </l>
+          <l>The smooth way you took to me </l>
+          <l>Almost broke my heart </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>All the pieces of my soul </l>
+          <l>All the dreams I used to know </l>
+          <l>Right now you turn me on </l>
+          <l>And I want you through my hole </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>There's no need to apologies </l>
+          <l>I was with you when you were there </l>
+          <l>The touch you give to me </l>
+          <l>Makes me feel unfair </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>All the pieces of my soul...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

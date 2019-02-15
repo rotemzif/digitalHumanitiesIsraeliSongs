@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם תזכור</title>
+        <singer classification="female singer">מרגלית צנעני</singer>
+        <writer>שי רביזדה</writer>
+        <composer>שי רביזדה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם תזכור</head>
+        <lg number="1" type="stanza">
+          <l>היכן שנפגשנו זיכרונות אלי שבים </l>
+          <l>היינו זוג של אוהבים </l>
+          <l>הזמן שהפתיע הוא שינה את לילותי</l>
+          <l>אך השתנו לי החיים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם תזכור שוב לאהוב אותי</l>
+          <l>והלב ימצא תשובה לשאלה </l>
+          <l>ואם הרגש שוב ירגיש אותי</l>
+          <l>שוב אוכל לבחור עוד משאלה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נושקת לפרח שמוגן בשתי ידי</l>
+          <l>אני שומעת את קולך </l>
+          <l>נוצרת לנצח בלבבי את תמונתך</l>
+          <l>ששינתה את כל חיי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם תזכור שוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

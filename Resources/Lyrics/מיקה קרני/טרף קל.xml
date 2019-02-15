@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טרף קל 3</title>
+        <singer classification="female singer">מיקה קרני</singer>
+        <writer>מיקה קרני</writer>
+        <composer>מיקה קרני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טרף קל</head>
+        <lg number="1" type="stanza">
+          <l>הנה שוב תפסה אותי האהבה</l>
+          <l>אתה לא יוצא לי מהראש</l>
+          <l>כל היום רוצה רק להיות אתך</l>
+          <l>אני רואה אותך בתוך עלים של רקפות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הנה זה קורה לי שוב</l>
+          <l>כלום לא חשוב</l>
+          <l>רק אני ואתה</l>
+          <l>טרף קל לאהבה</l>
+          <l>שוב כלום לא חושב</l>
+          <l>כמו ילדה לבדה</l>
+          <l>טרף קל לאהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שוב לקחה אותי האהבה</l>
+          <l>אני כל היום במחשבות</l>
+          <l>העולם לא זז כשאני לא אתך</l>
+          <l>ניפגש מאורחי עיני העצומות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הנה זה קורה לי שוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

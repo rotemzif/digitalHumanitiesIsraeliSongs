@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תלוי</title>
+        <singer classification="unknown">הפיל הכחול</singer>
+        <writer>לירון אטיה</writer>
+        <composer>missing</composer>
+        <album>מעל המים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תלוי</head>
+        <lg number="1" type="stanza">
+          <l>אני צועד מעל תהום, הולך על חבלים דקים </l>
+          <l>ומשתדל שלא ליפול, זז בצעדים קטנים </l>
+          <l>אבל מרגיש כבד מדי, זורק צרות מהכיסים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עכשיו מרגיש יותר יציב, רואה את כל מה שעברתי </l>
+          <l>מלפני הרוח שר, לוחש מילים שכבר שמעתי: </l>
+          <l>"יהיה בסדר, אל תדאג, קח עוד צעד... אל תפחד" </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא לאכזב, לא להחליק, אני רועד אבל מחזיק </l>
+          <l>אין מקום רחוק, אין מקום גבוה </l>
+          <l>אם אני ארצה, גם שם אוכל לנגוע </l>
+          <l>עכשיו אני מבין, עכשיו אני יודע </l>
+          <l>הכל תלוי רק בי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>החורף כבר מזמן נגמר והאביב חייך לי </l>
+          <l>אמנם הוא לא אותו דבר, אבל זה מה שיש לי </l>
+          <l>הנה אחי מושיט לי יד – מושך אותי קדימה </l>
+          <l>ומשתדל שלא אפחד </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא לאכזב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

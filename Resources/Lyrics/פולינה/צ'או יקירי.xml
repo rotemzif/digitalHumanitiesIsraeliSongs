@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צ או יקירי</title>
+        <singer classification="unknown">פולינה</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>אלי ניסמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צ'או יקירי</head>
+        <lg number="1" type="stanza">
+          <l>אני עוזבת את הזמן</l>
+          <l>של האפור, המעונן</l>
+          <l>מעלי מאיר כוכב קטן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמו ציפור אל השחקים</l>
+          <l>אעוף למרחקים</l>
+          <l>שם ימים יפים לי מחכים .</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza" />
+        <lg number="4" type="stanza">
+          <l>צ'או יקירי אני נוסעת</l>
+          <l> עם הרוח שתיקח אותי ממך</l>
+          <l>עמוק בלב אני יודעת</l>
+          <l> אהבה כבר לא תבער בנשמתך.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza" />
+        <lg number="6" type="stanza">
+          <l>אל מול עיניי הנפקחות</l>
+          <l>היית לי קרוב רחוק</l>
+          <l>ונתת לי רק הבטחות</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>תגיד לי איך אהבתך</l>
+          <l>לפתע נשכחה</l>
+          <l>נעלמה בתוך החשיכה .</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נודדת 3</title>
+        <singer classification="female singer">קרן לוי</singer>
+        <writer>ג'קי מייקה</writer>
+        <composer>ג'קי מייקה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נודדת</head>
+        <lg number="1" type="stanza">
+          <l>הולכת בין הסמטאות חוצה כבישים ורחובות</l>
+          <l>כה בודדה מול השקיעה כי בלעדייך אבודה</l>
+          <l>פוסעת לי לכל מקום אולי אמצא אותך פתאום</l>
+          <l>מול חוף הים והגלים שם היינו נפגשים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נודדת עם הזכרונות נשארת עם החלומות</l>
+          <l>ובעיני נותרו דמעות בלעדייך</l>
+          <l>נודדת עם הזכרונות נשארת עם האכזבות</l>
+          <l>ובתוכי נותרו תקוות לשוב אלייך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הולכת שוב ברחובות בין הגשמים והרוחות</l>
+          <l>רוצה קצת חום ואהבה, רוצה אותך כמו בתחילה</l>
+          <l>והימים כה אפורים עייפתי מהנדודים</l>
+          <l>חולמת על זמנים יפים בלי אכזבות וייסורים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נודדת עם הזכרונות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה מעבר לפינה</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>יואב גינאי</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה מעבר לפינה</head>
+        <lg number="1" type="stanza">
+          <l>אני עוצמת את עיני ושוב חולמת</l>
+          <l>ומתוכי עולה אותה תמונה</l>
+          <l>מעט נוגעת בפנים ושוב נושמת</l>
+          <l>האהבה מעבר לפינה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>החלומות שלי פורשים עכשיו כנפיים</l>
+          <l>כמו פרפרי הלילה המואר</l>
+          <l>כל העולם שוב משתנה מול העיניים</l>
+          <l>ורק הלב כואב כמו בעבר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פתאום ביום בהיר נזכרתי בעיניך</l>
+          <l>ובתוכי בכתה הנשמה</l>
+          <l>ושוב בכל העיר חיפשתי את פניך</l>
+          <l>האהבה מעבר לפינה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>קו הרקיע הסגול נושק לאופק</l>
+          <l>ומצלם את כל שבורי הלב</l>
+          <l>עוד רגע לעינינו יעלה הבוקר</l>
+          <l>וסוד חדש ישן לפתע יתגלה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>החלומות שלי פורשים עכשיו כנפיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

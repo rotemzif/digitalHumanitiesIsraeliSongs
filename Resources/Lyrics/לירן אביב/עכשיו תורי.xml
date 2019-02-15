@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עכשיו תורי 3</title>
+        <singer classification="unknown">לירן אביב</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>עממי בולגרי</composer>
+        <album>עכשיו תורי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עכשיו תורי</head>
+        <lg number="1" type="stanza">
+          <l>לך נתתי את כולי</l>
+          <l>ושכחתי מעצמי</l>
+          <l>עשיתי מה שטוב לך</l>
+          <l>בכל דקה בכל מקום</l>
+          <l>אני הגשמתי כל חלום</l>
+          <l>של....ך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עכשיו תורי</l>
+          <l>לבוא ולקבל ממך קצת אהבה</l>
+          <l>להיות איתך ולהרגיש אותך קרובה</l>
+          <l>עכשיו תורי</l>
+          <l>לדעת לקבל בחזרה</l>
+          <l>עכשיו תורי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך נסחפתי לי איתך</l>
+          <l>לעולם הזה שלך</l>
+          <l>תראי מה את עושה לי</l>
+          <l>התרחקתי מעצמי </l>
+          <l>ואני כבר לא אני</l>
+          <l>איתך...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עכשיו תורי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

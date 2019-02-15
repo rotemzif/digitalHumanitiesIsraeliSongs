@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בשעה שאנו אוהבים</title>
+        <singer classification="male singer">בר כהן</singer>
+        <writer>יהודה מסס</writer>
+        <composer>יהודה מסס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בשעה שאנו אוהבים</head>
+        <lg number="1" type="stanza">
+          <l>בשעה שאנו אוהבים</l>
+          <l>מתכנסים להם הכוכבים</l>
+          <l>מנסים לקבוע אור על שביל האהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ובשעה אחת של סרט, דולקים אלפי נרות</l>
+          <l>בחיים צריך רק נר דולק ולזרום עם מנגינות</l>
+          <l>כי בשעה אחת של סרט, דולקים אלפיי נרות</l>
+          <l>בחיים צריך רק נר כדי, שזה ימשיך לקרות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בשעה שאנו מדברים</l>
+          <l>מקשיבים אלינו מלאכים</l>
+          <l>נהנים לשמוע</l>
+          <l>גם אם סתם דברים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בשעה שאנו כועסים</l>
+          <l>מתכנסים להם העננים</l>
+          <l>ושטים לברוח, אל דרך חדשה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ובשעה אחת של סרט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

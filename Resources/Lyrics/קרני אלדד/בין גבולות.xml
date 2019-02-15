@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בין גבולות</title>
+        <singer classification="female singer">קרני אלדד</singer>
+        <writer>חיים חפר</writer>
+        <composer>אלכסנדר גינזבורג ארקדביץ'</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בין גבולות</head>
+        <lg number="1" type="stanza">
+          <l>בין גבולות בהרים ללא דרך</l>
+          <l>לילות חשוכי כוכבים</l>
+          <l>שיירות של אחים בלי הרף</l>
+          <l>למולדת אנו מלווים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לעולל ולרך</l>
+          <l>שערים פה נפתח</l>
+          <l>למך ולזקן</l>
+          <l>אנו פה חומת מגן.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם השער נעול אין פותח</l>
+          <l>את השער נשבור וניתוץ</l>
+          <l>כל חומה בצורה ננגח</l>
+          <l>וכל סדק נרחיב ונפרוץ.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לעולל ולרך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שיירה אל בכי ואל צער</l>
+          <l>הישען על זרועי סב זקן</l>
+          <l>גם לזה שסגר את השער</l>
+          <l>יום יבוא של נקם ושילם.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לעולל ולרך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

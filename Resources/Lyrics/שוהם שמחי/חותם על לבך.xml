@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חותם על לבך</title>
+        <singer classification="unknown">שוהם שמחי</singer>
+        <writer>מתוך שיר השירים</writer>
+        <composer>שוהם שמחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חותם על לבך</head>
+        <lg number="1" type="stanza">
+          <l>שימני כחותם על לבך </l>
+          <l>כחותם על זרועך </l>
+          <l>כי עזה כמוות אהבה... </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מים רבים לא יוכלו </l>
+          <l>לכבות את האהבה </l>
+          <l>ונהרות לא ישטפוה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

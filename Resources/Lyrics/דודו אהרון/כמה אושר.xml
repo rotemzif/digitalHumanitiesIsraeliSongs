@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה אושר 2</title>
+        <singer classification="unknown">דודו אהרון</singer>
+        <writer>דודו אהרון</writer>
+        <composer>דודו אהרון</composer>
+        <album>אין כמו אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה אושר</head>
+        <lg number="1" type="stanza">
+          <l>כמה אור יש לך בעיניים וכמה אושר</l>
+          <l>לא רוצה לחשוב פעמיים ולשלם ביוקר</l>
+          <l>איתך זה תמיד נוגע וכמה טוב לי לידך</l>
+          <l>וכמה משגע שאת נותנת את כולך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תביני, כשאלוהים ברא אותך, העניק לי אושר</l>
+          <l>אם לא היית כאן בשבילי אז היה כאן חושך</l>
+          <l>כי את פשוט נולדת בשבילי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה טוב בלב את עושה לי כשאת מחייכת</l>
+          <l>לפעמים מרגיש לא נורמלי כמה את אוהבת</l>
+          <l>אבא שלי אמר לי: תהיה חכם תשמור אותה</l>
+          <l>אין עוד אחת כמוה איך אלוהים אוהב אותך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תביני, כשאלוהים ברא אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

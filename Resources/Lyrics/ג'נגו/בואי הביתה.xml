@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואי הביתה 2</title>
+        <singer classification="unknown">ג נגו</singer>
+        <writer>ג'נגו</writer>
+        <composer>גלעד שמואלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואי הביתה</head>
+        <lg number="1" type="stanza">
+          <l>לא צריך להבין</l>
+          <l>כדי לאהוב</l>
+          <l>לא צריך לשקר</l>
+          <l>כדי לשרוד</l>
+          <l>אם לא אומרים את האמת</l>
+          <l>עדיף לשתוק</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כן בואי הביתה בואי כדאי לך</l>
+          <l>מאוחר מדי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אמתר שאני מחפש</l>
+          <l>עם עיניים סגורות</l>
+          <l>ישן בימים</l>
+          <l>מסתובב בלילות</l>
+          <l>בואי נשאיר</l>
+          <l>סיכוי לחיות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כן בואי הביתה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

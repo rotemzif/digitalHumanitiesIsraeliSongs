@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בסוף הלילה</title>
+        <singer classification="unknown">צביקה אברהם</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>שמואל אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בסוף הלילה</head>
+        <lg number="1" type="stanza">
+          <l>מבלי מילים את מספרת</l>
+          <l>את כאבך סוגרת</l>
+          <l>עמוק בלב את האש השורפת</l>
+          <l>אל תוך השתיקה את אוספת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בסוף הלילה כל העצב יגמר</l>
+          <l>בסוף הלילה לא תרצי לבכות יותר</l>
+          <l>בסוף הלילה לא תהיי כואבת</l>
+          <l>בסוף הלילה כבר לא יכאב יותר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני איתך כשאת צוחקת</l>
+          <l>עם הכאב את נאבקת</l>
+          <l>הוא מסתתר בליבך ופוצע</l>
+          <l>בך הוא מכה ופוגע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בסוף הלילה כל העצב יגמר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

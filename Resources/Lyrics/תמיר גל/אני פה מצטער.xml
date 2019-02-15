@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני פה מצטער</title>
+        <singer classification="male singer">תמיר גל</singer>
+        <writer>יוש גרנות</writer>
+        <composer>יוש גרנות</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני פה מצטער</head>
+        <lg number="1" type="stanza">
+          <l>לבדי בתוך התא הקר ביגון מכתב אני כותב</l>
+          <l>ורושם את מילותי האלה לכם הורי עמוק מתוך הלב</l>
+          <l>אני כואב ומצטער ורוצה כל כך להיות אתכם</l>
+          <l>הלוואי הכל היה אחרת מדוע לא שמעתי בקולכם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני פה מצטער אני מצטער</l>
+          <l>הרסתי את הכל ברגע של משבר</l>
+          <l>אין לי כל תשובה אין לי כל הסבר</l>
+          <l>איך זה שפתאום הייתי לאחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בתאי כותב לכם מכתב הקירות סוגרים על בדידותי</l>
+          <l>חברי נטשו אותי בכלא רק אתם נותרתם לצידי</l>
+          <l>אני כואב ומצטער ורוצה כל כך להיות אתכם</l>
+          <l>הלוואי הכל היה אחרת מדוע לא שמעתי בקולכם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני פה מצטער...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

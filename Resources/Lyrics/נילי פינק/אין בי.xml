@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין בי 3</title>
+        <singer classification="unknown">נילי פינק</singer>
+        <writer>נילי פינק</writer>
+        <composer>נילי פינק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין בי</head>
+        <lg number="1" type="stanza">
+          <l>אין בי </l>
+          <l>מה שלא היה </l>
+          <l>שקר שסיפרתי </l>
+          <l>הולך ונעלם </l>
+          <l>קשר נפרם </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רגע </l>
+          <l>של אושר בינוני </l>
+          <l>בינך אלי ביני </l>
+          <l>כמו עוצר פנימי </l>
+          <l>אין יוצא ואין בא </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>די לי </l>
+          <l>מחנק אזיקים </l>
+          <l>מהחול הטובעני </l>
+          <l>להעמיד פנים </l>
+          <l>שטוב לי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>די לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

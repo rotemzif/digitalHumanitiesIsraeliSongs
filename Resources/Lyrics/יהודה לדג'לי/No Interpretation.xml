@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>No Interpretation</title>
+        <singer classification="unknown">יהודה לדג לי</singer>
+        <writer>יהודה לדג'לי</writer>
+        <composer>יהודה לדג'לי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>No Interpretation</head>
+        <lg number="1" type="stanza">
+          <l>My legs take me to all manner of places </l>
+          <l>I need to get </l>
+          <l>Upon my beautiful, practical, environmentally-friendly </l>
+          <l>Bicyclette </l>
+          <l>My hands rape me at night beneath the all-knowing stars </l>
+          <l>They seduce my emotions by caressing the heartstrings of my guitar </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>Don't ask for an interpretation to this dream </l>
+          <l>Don't ask me to explain myself again </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>My heart is an instrument for gauging what you feel </l>
+          <l>My mind's a justice of peace that discerns what is bullshit and what is real </l>
+          <l>My mouth only speaks what is true for him and her, for you and me </l>
+          <l>My eyes see beyond the future that your god has decreed </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>Don't ask for an interpretation to this dream </l>
+          <l>Don't ask me to explain myself again</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

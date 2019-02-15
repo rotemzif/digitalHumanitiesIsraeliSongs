@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלום לעולם</title>
+        <singer classification="unknown">דייב לסרי</singer>
+        <writer>דייב לסרי</writer>
+        <composer>יהודה גמליאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלום לעולם</head>
+        <lg number="1" type="stanza">
+          <l>אם יבוא שלום לעלום</l>
+          <l>אז הוא יהיה טוב לכולם</l>
+          <l>לא נדע עוד מלחמות</l>
+          <l>ולא נשמע עוד אכזבות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מלחמה היא אכזבה</l>
+          <l>השלום הוא אהבה</l>
+          <l>מלחמה היא אכזבה</l>
+          <l>השלום הוא אהבה</l>
+          <l>מי יתן ונדע רק שלום ושמחה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בוא שלום בוא מהר</l>
+          <l>רק אתה תיהיה גואל</l>
+          <l>לא נדע עוד מלחמות</l>
+          <l>ולא נשמע עוד אכזבות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מלחמה היא אכזבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

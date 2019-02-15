@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סיפור קצר 2</title>
+        <singer classification="female singer">דנה אינטרנשיונל</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>missing</composer>
+        <album>החלום האפשרי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סיפור קצר</head>
+        <lg number="1" type="stanza">
+          <l>בין הצדפים בחוף אותך מצאתי</l>
+          <l>ואותך איבדתי</l>
+          <l>מה כבר היה בעצם</l>
+          <l>קיץ אחד של קסם</l>
+          <l>אחר כך מסע של גשם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ילדה הייתי</l>
+          <l>לשתות רציתי</l>
+          <l>את כל הים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את שמך על החוף</l>
+          <l>השחפים כתבו לי</l>
+          <l>הגלים מחקו לי</l>
+          <l>כמה קשה לשכוח</l>
+          <l>למי שבחר לברוח</l>
+          <l>לפני שנתחיל לשכוח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ילדה הייתי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הייתי רוצה לגעת</l>
+          <l>בכל אניה נוסעת</l>
+          <l>היום אני כבר יודעת</l>
+          <l>מה הוא שמר לי כשהוא אמר לי</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>האהבה היא פרפר שעף לא...</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>ילדה הייתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

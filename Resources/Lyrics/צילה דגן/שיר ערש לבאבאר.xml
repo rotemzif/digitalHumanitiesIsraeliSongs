@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר ערש לבאבאר</title>
+        <singer classification="female singer">צילה דגן</singer>
+        <writer>תלמה אליגון רוז</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר ערש לבאבאר</head>
+        <lg number="1" type="stanza">
+          <l>תישן בבר, פילון שלי,</l>
+          <l>ואל תדע מצער.</l>
+          <l>תישן, ילדי, בין העלים,</l>
+          <l>אתה הכי יפה ביער.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נומה, נומה, פילוני פיל,</l>
+          <l>אמא עליך שומרת,</l>
+          <l>כשתגדל תהיה לפיל</l>
+          <l>עם חדק לתפארת.</l>
+          <l>אי, לו לי, לו לי, לו.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תישן בבר, תישן תינוק,</l>
+          <l>ותעצום עיניים.</l>
+          <l>אתה פילון הכי מתוק</l>
+          <l>ביבשה ובשמיים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נומה, נומה, פילוני פיל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

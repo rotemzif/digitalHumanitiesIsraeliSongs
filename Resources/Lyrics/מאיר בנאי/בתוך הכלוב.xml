@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בתוך הכלוב</title>
+        <singer classification="male singer">מאיר בנאי</singer>
+        <writer>מאיר בנאי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בתוך הכלוב</head>
+        <lg number="1" type="stanza">
+          <l>קח אותי מתוך הכלוב</l>
+          <l>הפחדים קוראים לי שוב</l>
+          <l>הכוכב המתרחק - כבה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>המילים בלי משמעות</l>
+          <l>מנצחות על זמן אבוד</l>
+          <l>הנרות בחלונות - כבו</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הו, אמא קחי אותי מכאן</l>
+          <l>הו, אמא קחי אותי מכאן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הדלתות ננעלות משאירות אותך</l>
+          <l>לבדך, לבדך</l>
+          <l>זר בחשיכה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הו, אמא קחי אותי מכאן</l>
+          <l>הו, אמא קחי אותי מכאן</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>גלגלים מסתובבים</l>
+          <l>לעולם אינם עוצרים</l>
+          <l>העצים הזוהרים</l>
+          <l>אבדו</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>הו, אמא קחי אותי מכאן</l>
+          <l>הו, אמא קחי אותי מכאן</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>הדלתות ננעלות משאירות אותך</l>
+          <l>לבדך, לבדך</l>
+          <l>זר בחשיכה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

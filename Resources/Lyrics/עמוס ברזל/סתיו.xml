@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סתיו 28</title>
+        <singer classification="male singer">עמוס ברזל</singer>
+        <writer>עמוס ברזל</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סתיו</head>
+        <lg number="1" type="stanza">
+          <l>שלכת - עץ משיר עליו, זה סתיו,</l>
+          <l>שלכת - רוחות וגשם שב, בסתיו.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש מעט אבק ברוח</l>
+          <l>הציפורים שבות לנוע</l>
+          <l>לחפש מקום בטוח מן הסתיו.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שלכת - ובגן חצב, זה סתיו,</l>
+          <l>הופך את הקיץ שעבר לסתיו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש מעט אבק ברוח...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>חורף, לא כל כך בטוח, זה סתיו,</l>
+          <l>שמש, יצאה לנוח בסתיו,</l>
+          <l>יש עננים גבוהים כל כך</l>
+          <l>וציפורים של בוא הסתיו,</l>
+          <l>עץ שעולמו חרב.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יש מעט אבק ברוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

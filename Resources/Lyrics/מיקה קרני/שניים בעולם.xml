@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שניים בעולם</title>
+        <singer classification="female singer">מיקה קרני</singer>
+        <writer>מיקה קרני</writer>
+        <composer>מיקה קרני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שניים בעולם</head>
+        <lg number="1" type="stanza">
+          <l>אחר הצהריים</l>
+          <l>הסתכלתי לשמיים</l>
+          <l>שוב נזכרתי בעינייך היפות</l>
+          <l>תמיד היינו שניים,</l>
+          <l>שנופלים על הרגליים</l>
+          <l>ומבפנים הכל שבור לחתיכות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הלב זוכר הכל</l>
+          <l>גם אם אתה לא יכול</l>
+          <l>אנחנו שניים בעולם</l>
+          <l>תראה עברה שנה</l>
+          <l>הכל פה השתנה</l>
+          <l>הגעגוע הידוע מעציב אותי קבוע</l>
+          <l>שום דבר כבר לא מרגיש בטוח</l>
+          <l>מאז שאתה לא איתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דמיינתי שעברת ברחוב אחרי הגשם</l>
+          <l>וקראת לי לצאת אל החלון</l>
+          <l>זוכר אז שאמרנו, שהכל יהיה בסדר,</l>
+          <l>שנשרוד את כל המלחמות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הלב זוכר הכל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

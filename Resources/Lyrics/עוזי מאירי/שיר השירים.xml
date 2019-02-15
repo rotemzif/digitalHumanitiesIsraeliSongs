@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר השירים 10</title>
+        <singer classification="male singer">עוזי מאירי</singer>
+        <writer>מן המקורות</writer>
+        <composer>שמוליק זוהר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר השירים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>שיר השירים אשר לשלמה יישקני מנשיקות פיהו</l>
+          <l>כי טובים דודיך מיין.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני חבצלת השרון, שושנת העמקים</l>
+          <l>כשושנה בין החוחים כן רעייתי</l>
+          <l>רעייתי בין הבנות.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שיר השירים אשר לשלמה יישקני מנשיקות פיהו</l>
+          <l>כי טובים דודיך מיין.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הנך יפה רעייתי, הנך יפה, עינייך יונים</l>
+          <l>שערך כעדר העיזים</l>
+          <l>כעדר העיזים שגלשו מהר גלעד.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שיר השירים אשר לשלמה יישקני מנשיקות פיהו</l>
+          <l>כי טובים דודיך מיין.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

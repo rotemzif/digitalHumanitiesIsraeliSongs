@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמחה גדולה</title>
+        <singer classification="male singer">רון שובל</singer>
+        <writer>נחום מוכיח</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמחה גדולה</head>
+        <lg number="1" type="stanza">
+          <l>בואי נסיכה נלך למועדון</l>
+          <l>בא לי לבלות לרקוד עד אור ראשון</l>
+          <l>לראות רק אותך איך את זזה קצב באגן</l>
+          <l>כולם נכנסים לאקסטזה שוכחים ת'זמן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שים לי עוד יין בכוסית שמחה גדולה</l>
+          <l>המסיבה של החיים עכשיו היא מתחילה</l>
+          <l>שים לי עוד יין בכוסית שמחה גדולה</l>
+          <l>המסיבה של החיים עכשיו היא מתחילה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש כאן אווירה הכל זורם נכון</l>
+          <l>התרגשות בגוף ויובש בגרון</l>
+          <l>מרגיש איך אלי את נצמדת</l>
+          <l>שיכרון מתוק</l>
+          <l>דופק על הבר עוד טקילה</l>
+          <l>הלילה עוד עמוק</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שים לי עוד יין בכוסית שמחה גדולה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חמש מעשר</title>
+        <singer classification="male singer">דידי שחר</singer>
+        <writer>דידי שחר</writer>
+        <composer>דידי שחר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חמש מעשר</head>
+        <lg number="1" type="stanza">
+          <l>אני חמש מעשר בתור הפסיכולוג שלך</l>
+          <l>בתור הליצן שלך אני בערך שש</l>
+          <l>אני גם הסבל שלך בציון עובר</l>
+          <l>וכל הזמן נכשל בתור חבר</l>
+          <l>אני עשר בלקחת ולא בסדר בלתת</l>
+          <l>ובתור המאהב שלך אני בדרך למועד ב‘</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבל אני לומד חוזר ומתאמן</l>
+          <l>יורד את הרחוב לוחש ומשנן</l>
+          <l>כן אני לומד ויש לי סבלנות</l>
+          <l>ייקח כל החיים אני אמות בהצטיינות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני אומר לך מה שאת לא רוצה לשמוע</l>
+          <l>אפילו שהסברת לי כבר כמה פעמים</l>
+          <l>את מרימה אותי לסל ועוזרת לי לקלוע</l>
+          <l>ואיכשהו עפים לי כל הכדורים</l>
+          <l>עשר בלקחת ולא בסדר בלתת</l>
+          <l>ובתור המאהב שלך אני בדרך למועד ב‘</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבל אני לומד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

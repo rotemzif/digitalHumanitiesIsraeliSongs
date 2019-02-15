@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טבעת</title>
+        <singer classification="unknown">יוסי חדיף</singer>
+        <writer>יוסי חדיף</writer>
+        <composer>מאיה גלאור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טבעת</head>
+        <lg number="1" type="stanza">
+          <l>אל מול עולם עומד,לא מאמין שנאבד,את הטוב</l>
+          <l>עינייך בעיניי מסתכלות עליי</l>
+          <l>זאת המשמעות של לאהוב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ועכשיו ברגעים,החלטה של החיים</l>
+          <l>עומד אני מולך ובידי טבעת</l>
+          <l>מרגיש את נשמתך,יוצאת ובי נוגעת...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ימים שלמים חיכיתי לקבל אוצר כמוך</l>
+          <l>שנים איתך עברתי עם הטוהר והרוך</l>
+          <l>ועכשיו זה קורה את ליבנו ממלא</l>
+          <l>בצעדים קטנים עולים על דרך לחיים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ועכשיו ברגעים,החלטה של החיים</l>
+          <l>עומד אני מולך ובידי טבעת</l>
+          <l>מרגיש את נשמתך,יוצאת ובי נוגעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

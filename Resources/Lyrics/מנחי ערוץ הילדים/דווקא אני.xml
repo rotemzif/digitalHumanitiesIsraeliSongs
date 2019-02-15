@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דווקא אני</title>
+        <singer classification="unknown">מנחי ערוץ הילדים</singer>
+        <writer>דנה שץ</writer>
+        <composer>דני רייכנטל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דווקא אני</head>
+        <lg number="1" type="stanza">
+          <l>אם משהו יזוז פה זה יתחיל אצלי</l>
+          <l>אם משהו ישתנה פה זה יקרה בגללי</l>
+          <l>אם משהו מפריע לי אני אומר</l>
+          <l>כבר לא יהיה בסדר אם אני לא אתעורר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>דווקא אני מוכן לעשות</l>
+          <l>דווקא אני רוצה לשנות</l>
+          <l>דווקא אני מכל העולם</l>
+          <l>דווקא אני ואז גם כולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לוקח ברצינות את מה שהוא חושב</l>
+          <l>כבר לא עומד בצד</l>
+          <l>מתחיל להתערב</l>
+          <l>יודע שבסוף זה ישתלם לו בגדול</l>
+          <l>לוקח אחריות</l>
+          <l>שווה עם זה הכל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>דווקא אני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני לוקח אחריות</title>
+        <singer classification="male singer">עמוס ברזל</singer>
+        <writer>אורלי בינדר</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני לוקח אחריות</head>
+        <lg number="1" type="stanza">
+          <l>אני לוקח אחריות על כל מעשי</l>
+          <l>לטוב ולרע זה קורה לי ידידי,</l>
+          <l>לפעמים אני מצליח, לפעמים אני נכשל,</l>
+          <l>העיקר מאחריות לא לברוח כלל וכלל.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אחריות חשוב לקחת</l>
+          <l>למעשים ולמילים,</l>
+          <l>אחריות כה חשובה</l>
+          <l>לקטנים ולגדולים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נשבר לי צעצוע - איני מאשים אף לא אחד,</l>
+          <l>מאחר ללימודים - זאת לשנות צריך מיד,</l>
+          <l>אני נקי, אני חרוץ ומשתדל להיות נחמד </l>
+          <l>הכול תלוי רק בי, זו אחריות שלי לעד.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אחריות חשוב לקחת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

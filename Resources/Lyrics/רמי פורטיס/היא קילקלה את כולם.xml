@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היא קילקלה את כולם</title>
+        <singer classification="male singer">רמי פורטיס</singer>
+        <writer>סמי בירנבך</writer>
+        <composer>רמי פורטיס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היא קילקלה את כולם</head>
+        <lg number="1" type="stanza">
+          <l>פנים של מלאך, רציתי כל כך</l>
+          <l>שכל העיר ממנה תשכח.</l>
+          <l>גילגלתי אתה שיחה מתוקה</l>
+          <l>על כוס, כוס קפה ועוגה.</l>
+          <l>עשיתי לה שריר, כתבתי לה שיר,</l>
+          <l>אך היא נשארה אדישה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מישהו אמר, מישהו זכר,</l>
+          <l>מישהו חשש, אך מישהו קבע:</l>
+          <l>היא קילקלה את כולם,</l>
+          <l>היא קילקלה את כולם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ביקשתי אותה: עשי לי טובה,</l>
+          <l>רק תני לי להישאר איתך עוד דקה.</l>
+          <l>סיפור מסרטים כמו בחיים</l>
+          <l>הכל הסתיים בלי מלים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מישהו אמר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

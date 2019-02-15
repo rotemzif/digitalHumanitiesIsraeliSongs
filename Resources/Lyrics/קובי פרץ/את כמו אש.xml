@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את כמו אש</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>לא ידוע</composer>
+        <album>כל מה שיש בי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את כמו אש</head>
+        <lg number="1" type="stanza">
+          <l>שמש של בוקר חיממה את גופינו</l>
+          <l>מה שעבר עלינו שנינו ידענו</l>
+          <l>שמש של בוקר ואני לוחש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את כמו אש</l>
+          <l>לידך הכל מואר ומרגש</l>
+          <l>אש, חום כובש מה עוד אבקש</l>
+          <l>הו אש, תבקשי ולך אתן כל מה שיש</l>
+          <l>את כמו אש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אילו הכל היה תלוי רק בנו</l>
+          <l>יש עוד הרבה דברים שלא טעמנו</l>
+          <l>מלטף אותך ולך לוחש</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את כמו אש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר חורף יוגוסלבי</title>
+        <singer classification="unknown">להקת בלקן</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר חורף יוגוסלבי</head>
+        <lg number="1" type="stanza">
+          <l>מה היה לי, מה היה לי, מה היה לי אמש?</l>
+          <l>אווזי הבר הטעוני אל ארצות השמש.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אולה לה, אולה לה אה,</l>
+          <l>מערבות השלג</l>
+          <l>אווזים נשאוני</l>
+          <l>אל אינסוף התכלת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אויה לי, כיצד אשובה אל בתי האבן?</l>
+          <l>אל גדרות וארובות, וגגות התבן?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אולה לה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אהובי, אותך ראיתי משוטט ביער</l>
+          <l>בכנפי אגן עליך מכאב וצער.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אולה לה...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אוי, אמי, לא עוד אשובה, אל נא תבקשיני</l>
+          <l>שאי עיניים אל התכלת, שמה תמצאיני.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>אולה לה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

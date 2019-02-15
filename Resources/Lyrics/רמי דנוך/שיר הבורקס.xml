@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הבורקס</title>
+        <singer classification="male singer">רמי דנוך</singer>
+        <writer>גיא אסיף</writer>
+        <composer>אורי כנרות</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הבורקס</head>
+        <lg number="1" type="stanza">
+          <l>יום חדש הגיע, </l>
+          <l>יא חביבי איזה חום</l>
+          <l>הולך על הרחוב מזיע,</l>
+          <l>רואה אותך מולי פתאום</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את השיער קולט ראשון,</l>
+          <l>ואחר כך - שפתיים</l>
+          <l>ויש לך מן חיוך כזה</l>
+          <l>גנבת אותי בדקותיים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז בואי ונאכל בורקס,</l>
+          <l>לאט לאט, מעדנות</l>
+          <l>נוסיף מלפפון מלוח</l>
+          <l>אני איתך רוצה לחיות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז בואי ונאכל בורקס</l>
+          <l>שיניים צחורות</l>
+          <l>אנגוס את פיך פרינצ'סקה </l>
+          <l>ולא אשבע ולא אסוג</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רשרושי הפיח,</l>
+          <l>מנסרים את הגרון</l>
+          <l>מרים את החזה, מביט בך</l>
+          <l>כל העולם מואר היום</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>הקצף טוב על הגלים,</l>
+          <l>אני נושם שמיים</l>
+          <l>איני מכיר אותך בכלל</l>
+          <l>אך את שלי פה בינתיים</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אז בואי ונאכל בורקס...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

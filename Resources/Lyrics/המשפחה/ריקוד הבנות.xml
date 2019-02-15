@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ריקוד הבנות</title>
+        <singer classification="band">המשפחה</singer>
+        <writer>אמיר חיים</writer>
+        <composer>אמיר חיים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ריקוד הבנות</head>
+        <lg number="1" type="stanza">
+          <l>כשהמנגינה שלי יוצאת מתוך הלב</l>
+          <l>אור הצליל שוב מהבהב יוצא ומתלהב</l>
+          <l>נשיר ונזמר בקול גדול אל העולם</l>
+          <l>הללויה הללו גם לבורא עולם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ריקדו בנות לקצב היין משכר</l>
+          <l>ריקדו בנות ריקדו בנות היין משחרר</l>
+          <l>ריקדו בנות בטון אוהב ואל תאמרו חבל</l>
+          <l>ריקדו בנות אם עצב יש הצילו את הגורל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נמשיך לרקוד יחדיו עד ליל נמשיך להשתולל</l>
+          <l>אם יש אחת שבא לה גבר, היא לא תתנצל</l>
+          <l>אשיר ואזמר עד שתגיעו לחופה</l>
+          <l>הללויה הללו תקימו משפחה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ריקדו בנות...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תפוס תקטע היא הבינגו שלך</l>
+          <l>כול השכונה רצתה אותה והיא מריה הקדושה</l>
+          <l>נשארה בת שלושים רוקדת עם בנות</l>
+          <l>נשארה בת שלושים אבל לא מהזקנות...נותנות...נותנות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

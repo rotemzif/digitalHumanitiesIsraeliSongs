@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נומי נוגה</title>
+        <singer classification="female singer">נעמי שמר</singer>
+        <writer>נעמי שמר</writer>
+        <composer>נעמי שמר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נומי נוגה</head>
+        <lg number="1" type="stanza">
+          <l>רוח קל עובר בלילה,</l>
+          <l>על גבעת הכרכומים,</l>
+          <l>בכנפיו יביא בשורה טובה</l>
+          <l>וכל מיני בשמים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נומי נומי,</l>
+          <l>נוגה נוגה,</l>
+          <l>נומי נומי יקירה,</l>
+          <l>מעלייך</l>
+          <l>בשמיים</l>
+          <l>כוכבים אומרים שירה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מעלייך בשמים</l>
+          <l>כוכבים במסילותם</l>
+          <l>זה לזה ישמיעו זמר,</l>
+          <l>שלנצח לא ייתם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נומי נומי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כל הדשא כל העשב,</l>
+          <l>הגדל במדרונים</l>
+          <l>יתכסה גם הוא הלילה </l>
+          <l>בשמיכה של עננים </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>נומי נומי...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>עייפים עצי האשל</l>
+          <l>העומדים על הירדן</l>
+          <l>אמא ללי לך לוחשת</l>
+          <l>זה הזמן להירדם</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>נומי נומי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

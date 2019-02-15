@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מידה טובה</title>
+        <singer classification="unknown">ריש לקיש</singer>
+        <writer>ריש לקיש</writer>
+        <composer>ריש לקיש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מידה טובה</head>
+        <lg number="1" type="stanza">
+          <l>אמת שנאתי </l>
+          <l>שקר אהבתי</l>
+          <l>הדרי השלכתי </l>
+          <l>הבל לבשתי</l>
+          <l>רעות פעלתי בגסות רוחי</l>
+          <l>כי עני ואביון אני</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איני צעיר וגם ניבזה</l>
+          <l>ריקם אני מזה וגם מזה</l>
+          <l>איכה תהיה אחריתי</l>
+          <l>אמור נא די לצרתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה עזרא</l>
+          <l>אתה מרפא</l>
+          <l>לך אלי אקרא</l>
+          <l>אנא ענה</l>
+          <l>כוחי הדל הוא רק תפילה</l>
+          <l>מידה טובה ואמונה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איני צעיר וגם נבזה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

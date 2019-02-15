@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילדה מלאך</title>
+        <singer classification="unknown">נאוה גפן</singer>
+        <writer>נאוה גפן</writer>
+        <composer>נאוה גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילדה מלאך</head>
+        <lg number="1" type="stanza">
+          <l>ילדה, איפה את שרה עכשיו</l>
+          <l>למי את מחייכת</l>
+          <l>על נדנדת זהב</l>
+          <l>ושני מלאכים צחורים  לצידך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ילדה מלאך</l>
+          <l>ילדה מלאך, כל כך... אותך</l>
+          <l>ילדה מלאך איפה את?</l>
+          <l>תני לי סימן</l>
+          <l>סימן קטן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ילדה, מה את לומדת עכשיו</l>
+          <l>עם מי את מתלחשת</l>
+          <l>על ספסלי ענן</l>
+          <l>ולוח של אור  ותכלת אין סוף</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ילדה מלאך....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

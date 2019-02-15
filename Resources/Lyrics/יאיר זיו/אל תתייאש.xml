@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תתייאש 3</title>
+        <singer classification="male singer">יאיר זיו</singer>
+        <writer>יאיר זיו</writer>
+        <composer>יאיר זיו</composer>
+        <album>זמן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תתייאש</head>
+        <lg number="1" type="stanza">
+          <l>חיכית שיבוא</l>
+          <l>כמשהו גדול</l>
+          <l>חיכית לסימן</l>
+          <l>כמשהו קטן</l>
+          <l>כמה זמן עוד תחכה</l>
+          <l>הלב שלך צמא למחסה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תתיאש אל תפחד</l>
+          <l>בסוף תראה אתה תצא מזה</l>
+          <l>אל תיכנע אל תיפגע</l>
+          <l>גם אם בפנים יש מלחמה</l>
+          <l>ואם אתה פתאום מרגיש לבד</l>
+          <l>אני תמיד אהיה איתך</l>
+          <l>אז אל תתיאש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לפעמים אתה לבד</l>
+          <l>מפחד להיות לבד כמו כל אחד</l>
+          <l>והקור חוטף ת'אוויר</l>
+          <l>עוד מעט הבוקר יאיר</l>
+          <l>כמה זמן עוד תחכה</l>
+          <l>הלב שלך צמא למחסה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תתיאש אל תפחד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כמה זמן עוד תחכה </l>
+          <l>הלב שלך צמא למחסה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אל תתיאש אל תפחד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

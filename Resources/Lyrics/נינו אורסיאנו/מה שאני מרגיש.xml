@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה שאני מרגיש</title>
+        <singer classification="male singer">נינו אורסיאנו</singer>
+        <writer>ארז ברזוליק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה שאני מרגיש</head>
+        <lg number="1" type="stanza">
+          <l>מה שאני מרגיש עכשיו </l>
+          <l>זאת לא אהבה </l>
+          <l>לא עוד חלמת שלקחת ממני </l>
+          <l>מה שאני מרגיש עכשיו </l>
+          <l>שפתיים סדוקות שרוצות לגעת </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני שונא את האימה </l>
+          <l>בכל שנוגעים כמעט </l>
+          <l>אל תשחק איתי משחקים </l>
+          <l>וכבה את האור הזה לאט </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כי מה שאני מצאתי בך </l>
+          <l>שייך לעבר </l>
+          <l>קברתי אותך עמוק בתוכי </l>
+          <l>מה שקורה לי - קורה גם לך </l>
+          <l>נסה להבין בשבילי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני שונא את האימה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כי מה שאני מרגיש עכשיו </l>
+          <l>גשם צהוב שיורד לאיטו מעיניך </l>
+          <l>מה שאני מרגיש עכשיו </l>
+          <l>זה את הסוף שנקרע ממני אליך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

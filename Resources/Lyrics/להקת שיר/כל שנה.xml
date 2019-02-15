@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל שנה</title>
+        <singer classification="band">להקת שיר</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל שנה</head>
+        <lg number="1" type="stanza">
+          <l>כל שנה מתחילה, בסימן שאלה</l>
+          <l>כתינוק המודד צעדיו.</l>
+          <l>כמו זריחה מתגלה, על כנרת כחולה</l>
+          <l>ופניה לשמי מערב.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל שעה מתחילה בסימן שאלה,</l>
+          <l>כמו הלב הפועם לו קצובות.</l>
+          <l>כמו גבעול ירקרק שצומח בלאט</l>
+          <l>ופניו לפסגות הגבוהות.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זה נפלא ששנה מתחילה לה</l>
+          <l>בשיר וברוח טובה,</l>
+          <l>כל שנה מתחילה בסימן שאלה</l>
+          <l>ואנחנו נמצא לה תשובה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל שנה מתחילה בסימן שאלה</l>
+          <l>ולפני שתשיב היא תחמוק.</l>
+          <l>כמו ליטוף רוח ים, שעולה מאי שם</l>
+          <l>ניגונה עוד נשמע מרחוק.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זה נפלא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

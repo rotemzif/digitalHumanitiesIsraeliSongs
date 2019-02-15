@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בצל 10</title>
+        <singer classification="male singer">שלומי ברכה</singer>
+        <writer>שלומי ברכה</writer>
+        <composer>שחר אבן צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בצל</head>
+        <lg number="1" type="stanza">
+          <l>יש לה בצל בלב</l>
+          <l>וזה כל כך כואב</l>
+          <l>וגם מוריד דמעות</l>
+          <l>שאי אפשר להפסיק לבכות</l>
+          <l>מוריד דמעות עות עות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש לה נחש בפה</l>
+          <l>שכל הזמן עליי יורה</l>
+          <l>רעל שחור ממסתטל</l>
+          <l>שאי אפשר להיגמל</l>
+          <l>רעל שחור חור חור</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>גר בקרון או איזה קרוואן</l>
+          <l>זה נגרר גם את</l>
+          <l>טיול מחוף לחוף הרחק מכאן</l>
+          <l>הרחק ממך לעד</l>
+          <l>אני</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש לה קרנף באף</l>
+          <l>אני לא יודע אם זה קלף</l>
+          <l>קרן אחת דוקר</l>
+          <l>פוצע את הלב עוקר</l>
+          <l>שמה בצל במקום</l>
+          <l>עכשיו אני באותו מקום</l>
+          <l>מוריד דמעות עות עות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>גר בקרון או איזה קרוואן</l>
+          <l>זה נגרר גם את</l>
+          <l>טיול מחוף לחוף הרחק מכאן</l>
+          <l>הרחק ממך לעד</l>
+          <l>אני</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

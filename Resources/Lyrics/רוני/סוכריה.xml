@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סוכריה 3</title>
+        <singer classification="female singer">רוני</singer>
+        <writer>מקס פאדיב</writer>
+        <composer>מקס פאדיב</composer>
+        <album>לא עוצרת - מהדורה מלאה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סוכריה</head>
+        <lg number="1" type="stanza">
+          <l>לא מתקשרת לא חוזרת ולא עונה</l>
+          <l>כמעט נשארת מסתובבת ולא מחכה</l>
+          <l>ורק הראש שמסתובב חושב על מה שהיה</l>
+          <l>תשאיר מקום לעוד סוכריה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ורק נזכרת לא נרדמת ורק אותך</l>
+          <l>כבר לא סופרת משתחררת מהמחשבה </l>
+          <l>שאצלך הכל בסדר עם כל מה שהיה</l>
+          <l>תשאיר מקום לעוד סוכריה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תשאיר לי מואה מואה</l>
+          <l>תשאיר לי ג'גה ג'גה</l>
+          <l>אולי עוד או או</l>
+          <l>רק ככה זה ביחד</l>
+          <l>ורק הראש שמסתובב לא מוצא מנוחה</l>
+          <l>תשאיר מקום לעוד סוכריה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא מסונוורת לא עיוורת ולא רואה</l>
+          <l>כבר לא עוברת את הסרט רוצה שתדע </l>
+          <l>זה רק הראש שמסתובב חושב על מה שהיה</l>
+          <l>תשאיר מקום לעוד סוכריה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא מתחברת לא נקשרת ולא מרפה</l>
+          <l>והמשחק הזה נמשך וזה לא בשבילך</l>
+          <l>ורק הראש שמסתובב חושב על מה שהיה</l>
+          <l>תשאיר מקום לעוד סוכריה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תשאיר לי מואה מואה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

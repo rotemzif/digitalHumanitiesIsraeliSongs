@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>על הדרך 10</title>
+        <singer classification="female singer">מיכל ינאי</singer>
+        <writer>ירון כפכפי</writer>
+        <composer>ירון כפכפי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>על הדרך</head>
+        <lg number="1" type="stanza">
+          <l>נעלה על הכביש</l>
+          <l>המוביל למרחק</l>
+          <l>מול השמש נשיר</l>
+          <l>את השיר שנאהב</l>
+          <l>בעיר ובכפר</l>
+          <l>כל פינה ברחבי המדינה</l>
+          <l>כשהגשם מרטיב</l>
+          <l>כשמגיע אביב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>על הדרך נפגוש חברים חדשים</l>
+          <l>על הדרך נוסעים חלומות להגשים</l>
+          <l>נעבור יחד אש ומים</l>
+          <l>כי הגבול הוא עד השמים</l>
+          <l>נמשיך את המסע על הדרך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הגלגל התפנצ'ר</l>
+          <l>המנוע נשרף</l>
+          <l>והיום התקצר</l>
+          <l>כבר כמעט שחלף</l>
+          <l>טעינו בכביש, בסיבוב</l>
+          <l>מי יודע אם נשוב</l>
+          <l>אבל לא נוותר</l>
+          <l>עוד הכל יסתדר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>על הדרך נפגוש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

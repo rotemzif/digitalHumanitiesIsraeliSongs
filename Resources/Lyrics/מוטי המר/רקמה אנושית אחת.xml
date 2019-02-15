@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רקמה אנושית אחת 2</title>
+        <singer classification="male singer">מוטי המר</singer>
+        <writer>מוטי המר</writer>
+        <composer>מוטי המר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רקמה אנושית אחת</head>
+        <lg number="1" type="stanza">
+          <l>כשאמות, משהו ממני, משהו ממני</l>
+          <l>ימות בך, ימות בך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשתמות, משהו ממך בי, משהו ממך בי</l>
+          <l>ימות איתך, ימות איתך.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כי כולנו, כן כולנו</l>
+          <l>כולנו רקמה אנושית אחת חיה</l>
+          <l>ואם אחד מאיתנו</l>
+          <l>הולך מעמנו</l>
+          <l>משהו מת בנו -</l>
+          <l>ומשהו, נשאר איתו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם נדע, איך להרגיע, איך להרגיע</l>
+          <l>את האיבה, אם רק נדע.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם נדע, אם נדע להשקיט את זעמנו (אם נדע להשקיט)</l>
+          <l>על אף עלבוננו, לומר סליחה.</l>
+          <l>אם נדע להתחיל מהתחלה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי כולנו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

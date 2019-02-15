@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אישה זאב</title>
+        <singer classification="band">סטלה מאריס</singer>
+        <writer>אלון אבידר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אישה זאב</head>
+        <lg number="1" type="stanza">
+          <l>איך זה לא אמרת לי </l>
+          <l>איך זה לא גילית </l>
+          <l>איך זה החיה הזו ניצבה בינינו </l>
+          <l>ובליל ירח, שוב אני נרדף </l>
+          <l>ודמותך החדשה טרפה את שנינו </l>
+          <l>הפכת לפתע, לזאב רעב </l>
+          <l>מיללת לירח עד כאב </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לאט, את טורפת, אחרי את רודפת! </l>
+          <l>לאט, את טורפת, אחרי את רודפת! </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ולאור ירח את עוד תרדפי </l>
+          <l>יחד עם היצורים "אנשי הלילה" </l>
+          <l>אני בורח מתוכי גופי </l>
+          <l>מאימת אישה זאב שעוד לא די לה </l>
+          <l>אבירי החושך יקראו בשמך </l>
+          <l>מטריפים את הזאב בגופך </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לאט, את טורפת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

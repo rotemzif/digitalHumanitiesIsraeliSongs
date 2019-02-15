@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מול סורגים</title>
+        <singer classification="unknown">משה כהן</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מול סורגים</head>
+        <lg number="1" type="stanza">
+          <l>שילמתי ילדתי על הטעות שלי</l>
+          <l>קשה לי להבין מה יהיה איתי</l>
+          <l>חכי לי נשמתי אל תעזבי אותי</l>
+          <l>הביקור שלך היה קצר כל כך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מתגעגע לחיוך קטן שלך</l>
+          <l>זה קשה לי, בטח זה קשה גם לך</l>
+          <l>את שתי עינייך ילדתי לא אשכח</l>
+          <l>כל היום, כל היום סורגים בפני</l>
+          <l>חושב עלייך כל היום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הדרך הקצרה בסופה צרה</l>
+          <l>אם תסתכלו עלי תראו זאת ידידי</l>
+          <l>סגור בתוך חומה עולם מלא דממה</l>
+          <l>הרסתי את ביתי הרסתי את חיי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מתגעגע לחיוך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

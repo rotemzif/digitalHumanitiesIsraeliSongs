@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלכודות</title>
+        <singer classification="male singer">יהודה פוליקר</singer>
+        <writer>יהודה פוליקר</writer>
+        <composer>missing</composer>
+        <album>כל דבר מזכיר לי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלכודות</head>
+        <lg number="1" type="stanza">
+          <l>כשתיפתח לך הדלת לעולם </l>
+          <l>לא רק הטוב, לא רק היופי שם ימתינו </l>
+          <l>תביט תמיד אל המקום הנעלם </l>
+          <l>יש מלכודות שהחיים שלך הטמינו </l>
+          <l>תביט תמיד אל המקום הנעלם </l>
+          <l>יש מלכודות שהחיים שלך הטמינו </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי אם אתה נתפס בין הרשתות </l>
+          <l>אין מי שישחרר אותך לחופש </l>
+          <l>אתה לבד במלחמה שלך </l>
+          <l>תדליק לך פנס אמיץ בחושך </l>
+          <l>אתה לבד במלחמה שלך </l>
+          <l>תדליק לך פנס אמיץ בחושך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לכל מלכודת יש שמות והם כבדים </l>
+          <l>הם מפתים אותך גם בשמחה חוגגת </l>
+          <l>יש אנשים שבשנאה הם לכודים </l>
+          <l>ויש אלה שאהבתם הורגת </l>
+          <l>יש אנשים שבשנאה הם לכודים </l>
+          <l>ויש אלה שאהבתם הורגת </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי אם אתה נתפס בין הרשתות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

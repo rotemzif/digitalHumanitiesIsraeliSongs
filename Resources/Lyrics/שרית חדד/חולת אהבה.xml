@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חולת אהבה 3</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>הנרי</writer>
+        <composer>הנרי</composer>
+        <album>20</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חולת אהבה</head>
+        <lg number="1" type="stanza">
+          <l>מי יבוא מי יצלני כי חולת אהבה אני </l>
+          <l>מי יבוא מי ירפאני מי יתן מזור למכאובי </l>
+          <l>בשדות בלילות מהלכת יחפה </l>
+          <l>נטרפה דעתי מעל חלפה התעופפה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אהבה מה עשית לי מה עשית </l>
+          <l>אהבה מי יקשיב לי מי יסכית אהבה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בגופי שלי פצעתי במיטתי בסתר תשוקתי </l>
+          <l>בבשרי אז ידעתי כי חולת אהבה אני </l>
+          <l>קול קורא אלי שמעתי מי זה עומד בפתח חלוני </l>
+          <l>אהובי אותו בקשתי או היה זה רק בחלומי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קשה כשאול קנאה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

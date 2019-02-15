@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לחשוב הרבה</title>
+        <singer classification="male singer">טל שגב</singer>
+        <writer>טל שגב</writer>
+        <composer>טל שגב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לחשוב הרבה</head>
+        <lg number="1" type="stanza">
+          <l>אני מנחש לי ת'חיים</l>
+          <l>ובכל הזדמנות מצליח לי</l>
+          <l>לא אנ'לא מעמיק</l>
+          <l>שתי תרופות ומספיק</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הייתי מת לקטוף פרחים</l>
+          <l>לשכוח ת'פחדים</l>
+          <l>לרוץ כמו פעם בשדות</l>
+          <l>לבוא אלייך בשש</l>
+          <l>למות אותך לנשק</l>
+          <l>ובלי לחשוב הרבה לחשוב הרבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאין הרוגים זה יום גדול</l>
+          <l>התחלנו לחיות לקראת הסוף</l>
+          <l>לא אנ'לא מעמיק</l>
+          <l>למזל כה מחפשים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הייתי מת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

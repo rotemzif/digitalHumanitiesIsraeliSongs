@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כד קטן אני</title>
+        <singer classification="female singer">ורדינה כהן</singer>
+        <writer>אורלי בינדר</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כד קטן אני</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>כד קטן אני</l>
+          <l>כד קטן אני, ידית קטנה יש לי,</l>
+          <l>לי משפך בצד, ארקוד ריקוד נחמד.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לפני שנים רבות בבית המקדש,</l>
+          <l>התמלאתי שמן כל בקר מחדש.</l>
+          <l>כל העם אמר, הוי נס גדול קרה</l>
+          <l>שמונה ימים השמן הספיק למנורה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כד קטן אני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

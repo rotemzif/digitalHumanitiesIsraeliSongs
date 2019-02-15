@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מישהי כמוך</title>
+        <singer classification="male singer">יגאל רן דואק</singer>
+        <writer>יגאל רן דואק</writer>
+        <composer>יגאל רן דואק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מישהי כמוך</head>
+        <lg number="1" type="stanza">
+          <l>רוצה להיות ביחד אבל ביחד זה לא טוב</l>
+          <l>רוצה להמשיך בחיים אבל קשה לי לעזוב</l>
+          <l>כותב עוד שיר לך אין מחיר</l>
+          <l>אני יודע את זה אבל ממשיך לנסות</l>
+          <l>אם תשאלי אותי אז את עדיין שלי למרות הבעיות... </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך אפשר לשכוח מישהי כמוך סתם ככה?</l>
+          <l>למה קשה לי לוותר?</l>
+          <l>בעולם שלי אני ואת עוד יחד ולא צריכים יותר. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני חושב על זה לא אני לא אשקר</l>
+          <l>על מה אני עושה אם את עם מישהו אחר</l>
+          <l>אבל לשנות את הכל בעולם</l>
+          <l>אך אי אפשר לשנות הרגשה של בנאדם</l>
+          <l>כותב עוד שיר...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך אפשר לשכוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

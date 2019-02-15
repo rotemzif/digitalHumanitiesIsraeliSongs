@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ספרי 16</title>
+        <singer classification="band">סינרגיה</singer>
+        <writer>רון הופמן</writer>
+        <composer>רון הופמן</composer>
+        <album>צועקים על אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ספרי</head>
+        <lg number="1" type="stanza">
+          <l>את מחייכת, אבל כואב עוד</l>
+          <l>אלוהים אל תוותר, לא...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רוצה לשכוח את הכל,</l>
+          <l>שלא תרגישי את העול</l>
+          <l>לשטוף את הלכלוך שהצטבר מכל הכעס</l>
+          <l>מסתגרת עם עצמך</l>
+          <l>אבל כדור של אש בפנים</l>
+          <l>את לא נותנת לי לגעת בכל מה שלא תמים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ספרי לי כל מה שיש</l>
+          <l>את כל מה ששמעת</l>
+          <l>ספרי כל מה אבקש</l>
+          <l>כי את לא לבד</l>
+          <l>את מחייכת אבל כואב עוד</l>
+          <l>אלוהים אל תוותר, לא...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רוצה למחוק את הדמויות</l>
+          <l>להתגונן מאשליות</l>
+          <l>לשכוח תמילים שלא אמרו לך כלום אף פעם</l>
+          <l>מאזנת את עצמך</l>
+          <l>אבל עדיין אש בפנים</l>
+          <l>את לא נותנת לי לגעת בכל מה שלא תמים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ספרי לי כל מה שיש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

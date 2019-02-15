@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר על חברים</title>
+        <singer classification="male singer">רונן עניא</singer>
+        <writer>חיים חפר</writer>
+        <composer>רונן עניא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר על חברים</head>
+        <lg number="1" type="stanza">
+          <l>שיר לי חרש, כן שיר לי חרש </l>
+          <l>על חבריי שיר לי על רעות נרקמת </l>
+          <l>ארץ נלחמת שיר אחרי</l>
+          <l>שיר לדרך שיר קרב ופרך ומבחנים </l>
+          <l>שיר ישן על עוז ואומץ </l>
+          <l>וברית אין אומר שיר לוחמים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שים שירם בין כל תפילותיך </l>
+          <l>ביום אדום מול חרב מתהפכת </l>
+          <l>פרוס את כנפייך כנפי שלום</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

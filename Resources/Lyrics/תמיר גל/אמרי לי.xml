@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמרי לי 12</title>
+        <singer classification="male singer">תמיר גל</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמרי לי</head>
+        <lg number="1" type="stanza">
+          <l>כל דקה ארוכה לי בלעדייך אהובה</l>
+          <l>לא הרגשתי איך נכנסת לי לנשמה</l>
+          <l>רוצה תמיד רק אלייך אני זקוק למגע</l>
+          <l>חי ונושם למענך מה עשית לי מה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אמרי לי אמרי מי יתן חיו אם תבקשי </l>
+          <l>מי בלילות מי מחבק שלא תלכי לי </l>
+          <l>אמרי לי אמרי מי ישים נפשו אם תרצי </l>
+          <l>מי רק שלך מי לנצח אהובה שלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הרחיקי עצב מליבך, אני אגשים את חלומך</l>
+          <l>גם בקושי ובכאב לא אלך ממך</l>
+          <l>דברי איתי חופשי גלי לי את עצמך</l>
+          <l>מה נישאר לי מה רק אהבתך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אמרי לי אמרי מי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הראי לי דרך עד אלייך, הדרך אל האושר</l>
+          <l>לסגור ת'יום איתך ולראותך בבוקר</l>
+          <l>שנייה בלעדייך היא נצח לא עובר לי הזמן</l>
+          <l>לכן אני קורא לך שתבואי שוב לכאן</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אמרי לי אמרי מי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

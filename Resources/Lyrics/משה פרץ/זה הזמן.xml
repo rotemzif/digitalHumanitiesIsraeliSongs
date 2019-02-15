@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה הזמן 15</title>
+        <singer classification="male singer">משה פרץ</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>אקורדים</composer>
+        <album>אש: ההופעה בהיכל התרבות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה הזמן</head>
+        <lg number="1" type="stanza">
+          <l>לא יכול לשכוח</l>
+          <l>את הוא חלק מגופי</l>
+          <l>ואין לאן לברוח</l>
+          <l>גם בחלומות שלי</l>
+          <l>לו יכולת לראות אותי</l>
+          <l>ואת הדמעות שלי</l>
+          <l>אז היית בוכה איתי</l>
+          <l>הלילה בשבילי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה הזמן</l>
+          <l>זה הזמן אני יודע</l>
+          <l>וכל-כך מתגעגע</l>
+          <l>לך אני נשבע שזה</l>
+          <l>נכון ואמיתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לך אני מבטיח</l>
+          <l>לעולם לא תעצבי</l>
+          <l>לרגע לא אניח </l>
+          <l>אלחם בכל כוחי</l>
+          <l>באה כמו חלום אלי</l>
+          <l>ונרגעת בין ידי</l>
+          <l>ואולי לא אעצום </l>
+          <l>הלילה את עיני</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה הזמן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

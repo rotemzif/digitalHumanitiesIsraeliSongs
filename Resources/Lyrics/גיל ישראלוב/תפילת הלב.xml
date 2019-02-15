@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תפילת הלב</title>
+        <singer classification="unknown">גיל ישראלוב</singer>
+        <writer>אביחי אור</writer>
+        <composer>שימי כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תפילת הלב</head>
+        <lg number="1" type="stanza">
+          <l>גם התפילות עולות מתוך חדרי הלב</l>
+          <l>והן חודרות ומגשימות את כל עוצמתן</l>
+          <l>לא אל תיפול ואל תשקע בתוך הכאב</l>
+          <l>אם רק תשמור את זאת אתה תדע לאן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא אל תתייסר לא אל תכנע כך</l>
+          <l>גם אם זה קשה אל נא התעצב</l>
+          <l>את דרכך האל שומר אז בכאבך אל תתעטף</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>והתפילות עושות דרכן אל המרומים</l>
+          <l>נושאות שתיקה בלב נשבר והרהורים </l>
+          <l>גם אם קשה היא דרכך אל תוותר</l>
+          <l>היה חזק בנפשך אל תשבר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא אל תתייסר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

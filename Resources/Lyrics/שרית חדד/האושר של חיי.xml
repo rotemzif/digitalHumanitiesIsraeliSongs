@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האושר של חיי</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>עממי ערבי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האושר של חיי</head>
+        <lg number="1" type="stanza">
+          <l>איתך אני ראיתי את החלומות </l>
+          <l>נוגעים בי מקרוב איתם רוצה לחיות </l>
+          <l>כמו כולם פתאום חודרת אהבה </l>
+          <l>כל כך יפה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אתה האושר של חיי </l>
+          <l>תן מבט תראה עלי </l>
+          <l>כמו ספינה בים טרופה </l>
+          <l>משתוקקת בין גליך</l>
+          <l>אני באתי בשבילך </l>
+          <l>תן סימן ואני אלך איתך </l>
+          <l>איתך הלב שמח האושר מנצח </l>
+          <l>תמיד אני אלך איתך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מאז אנחנו אוהבים </l>
+          <l>מודים לאל נתן לנו את החיים </l>
+          <l>אתה לי בית לעולם האהבה </l>
+          <l>אני שלך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אתה האושר של חיי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

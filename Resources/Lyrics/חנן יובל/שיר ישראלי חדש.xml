@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר ישראלי חדש</title>
+        <singer classification="male singer">חנן יובל</singer>
+        <writer>עוזי בן כנען</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר ישראלי חדש</head>
+        <lg number="1" type="stanza">
+          <l>שיר ישראלי חדש יקום כאן!</l>
+          <l>עם ניחוחות גן, צעיר ורענן</l>
+          <l>שיר עשיר מאוד, בלי אלמנטים, אקספרימנטים.</l>
+          <l>בלי השפעות - אין זמן.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גבעות יהיו בו ואספסת</l>
+          <l>בנק תל אביבי גדול</l>
+          <l>אבני הכותל ובית כנסת רם,</l>
+          <l>חגים וחול - ים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בוא זמר לי על ימי מחר</l>
+          <l>שיר של עם, זמר חם</l>
+          <l>חוצפני ומפתיע.</l>
+          <l>בוא זמר גם אם גרונך ניחר</l>
+          <l>שיר ישראלי חי ומפציע.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שיר עברי עברי יוצא לדרך</l>
+          <l>הרימו ברך - זיכרו את החזה.</l>
+          <l>שיר ישיר מאוד - לא אנגלו-סקסי,</l>
+          <l>בלי "יס" וטקסי - עברית וזהו זה!</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מחרשות מלוא העין - מגן דוד כמובן</l>
+          <l>בשיר יהיו שמות כמו - אברהם</l>
+          <l>ורן ודן, גם.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בוא זמר לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו מלאך</title>
+        <singer classification="unknown">דודו אהרון</singer>
+        <writer>דודו אהרון</writer>
+        <composer>דודו אהרון</composer>
+        <album>אהבה ראשונה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו מלאך</head>
+        <lg number="1" type="stanza">
+          <l>לא ידעתי איך זה התאהבתי</l>
+          <l>כשפתאום הופעת אני נדהמתי</l>
+          <l>כל היום לא מרוכז כל כך, חושב עלייך</l>
+          <l>ומאז הלב רוצה אלייך...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלוהים שלח אותך אלי</l>
+          <l>כמו מלאך שלי, שמרת עלי</l>
+          <l>מבקש לחיות איתך את כל חיי</l>
+          <l>אני נושם אותך, חולם אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלב שלי שלם כשאת נוגעת</l>
+          <l>ורק אותך אוהב זה את יודעת</l>
+          <l>זה הזמן לומר לך שאני, רוצה אלייך</l>
+          <l>ומה חיי שווים כאן בלעדייך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלוהים שלח אותך אלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

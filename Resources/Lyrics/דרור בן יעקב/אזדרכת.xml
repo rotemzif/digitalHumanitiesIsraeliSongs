@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אזדרכת 2</title>
+        <singer classification="male singer">דרור בן יעקב</singer>
+        <writer>יעקב פסקו</writer>
+        <composer>יעקב פסקו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אזדרכת</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>קיץ עוד מעט עובר </l>
+          <l>אזדרכת מספר </l>
+          <l>לי ולו אותה תקווה</l>
+          <l>יותר מדי קרבות אהבה </l>
+          <l>אולי תבוא קצת שלווה </l>
+          <l>לכאן </l>
+          <l>כמו שיר קטן </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וצוחק לו הגויאב </l>
+          <l>לכל מצפי הסתיו </l>
+          <l>וגם לו תפילה קטנה</l>
+          <l>יותר מדי לילות בלי שינה </l>
+          <l>אולי תהא זו שנה טובה </l>
+          <l>כמו שיר קטן </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ופרדס אחד נזעק </l>
+          <l>כל עלי מלאים אבק </l>
+          <l>ונושא תפילה יפה</l>
+          <l>יותר מדי ימים של שרב </l>
+          <l>מתי יבוא כבר הסתיו </l>
+          <l>לכאן </l>
+          <l>כמו שיר קטן </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קיץ עוד מעט עובר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

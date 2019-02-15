@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הולך ישר</title>
+        <singer classification="male singer">תומר יוסף</singer>
+        <writer>תומר יוסף</writer>
+        <composer>תומר יוסף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הולך ישר</head>
+        <lg number="1" type="stanza">
+          <l>מעבר לגבול המדומה, אין גבול</l>
+          <l>אם תלך ישר</l>
+          <l>תתקל או בבניין או בעמוד או בשוטר</l>
+          <l>או שאולי תטבע בים</l>
+          <l>אבל בן - אדם</l>
+          <l>אם כבר יוצאים לטיול כזה ישר</l>
+          <l>יש לך את החכמה להצטייד בסירה</l>
+          <l>לעקוף בניין או עמוד</l>
+          <l>ולנסות לא להראות חשוד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אתה הולך ישר</l>
+          <l>אל תפחד משום דבר</l>
+          <l>אתה הולך ישר</l>
+          <l>תתרכז בעצמך ובעיקר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין צורך לשאול שם אף אחד</l>
+          <l>אתה כבר תגיע לבד</l>
+          <l>תמשיך ישר</l>
+          <l>אל תפחד משום דבר</l>
+          <l>תתרכז בעצמך ובעיקר</l>
+          <l>בדרך ארוכה לאותה נקודה</l>
+          <l>כמו בהתחלה</l>
+          <l>אז שיהיה בהצלחה, צא</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אתה הולך ישר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

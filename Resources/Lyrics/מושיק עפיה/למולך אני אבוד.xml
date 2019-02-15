@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>למולך אני אבוד</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>סיפור אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>למולך אני אבוד</head>
+        <lg number="1" type="stanza">
+          <l>כל חיי אני יצאתי עם המון בנות</l>
+          <l>ומחליף אותן בבוקר שמגיע</l>
+          <l>הן תמיד היו אחרי רודפות</l>
+          <l>ואני אותן לקחתי לרקיע</l>
+          <l>אך מאז שבאת השתנו העובדות</l>
+          <l>שבית ספר את עשית לי במפתיע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>למולך אני אבוד שוכח מה קורה לי</l>
+          <l>לצידך מוכן למות להיות איתך שווה לי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בשבילך אני כותב בלילה מנגינות</l>
+          <l>ולומד מילים יפות כדי להגיד לך</l>
+          <l>לפעמים אני כבר עושה שטויות</l>
+          <l>כי הנפש לא יודעת מה עובר בך</l>
+          <l>אם תתני לי צ'אנס אז נתחיל לחיות כי</l>
+          <l>אצלי הלב שלך הוא לא אורח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>למולך אני אבוד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

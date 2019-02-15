@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כאן בדרום</title>
+        <singer classification="unknown">סופה במדבר</singer>
+        <writer>שולמית שומרון</writer>
+        <composer>גבי סויסה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כאן בדרום</head>
+        <lg number="1" type="stanza">
+          <l>הקשיבי, ילדה, אל השקט</l>
+          <l>רק הרוח רוגש,</l>
+          <l>הביטי, ילדה, איך השמש</l>
+          <l>שולחת מבט של אש.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כאן בדרום החם</l>
+          <l>שקט של אין אדם</l>
+          <l>כאן בדרום החם</l>
+          <l>תבער השמש לעולם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נוף פרא קדמון וצחיח,</l>
+          <l>צוק ועמק טרשים.</l>
+          <l>קרקע לא תדשא, לא תצמיח,</l>
+          <l>זאת ארץ של בראשית</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כאן בדרום החם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רוגע, דומם, ים המלח</l>
+          <l>באור שמש נוצץ,</l>
+          <l>בלילה אל מול הירח</l>
+          <l>שחור ואילם רובץ.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כאן בדרום החם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

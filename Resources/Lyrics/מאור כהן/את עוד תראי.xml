@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את עוד תראי</title>
+        <singer classification="male singer">מאור כהן</singer>
+        <writer>מאור כהן</writer>
+        <composer>מאור כהן</composer>
+        <album>טוב לנו יחד</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את עוד תראי</head>
+        <lg number="1" type="stanza">
+          <l>את עוד תראי</l>
+          <l>יהיה לך כה יפה איתי</l>
+          <l>תוכלי לחשוב על העולם</l>
+          <l>לדעת שאני גם שם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את עוד תשבי</l>
+          <l>בחדר פה לידי</l>
+          <l>נדבר על מה שאת רוצה</l>
+          <l>נצחק על מה שהיה</l>
+          <l>את לא רוצה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא רוצה להיות איתי</l>
+          <l>אהיה אז שוב לבדי</l>
+          <l>ואחשוב עלינו עד הקיץ הבא.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אולי תנסי</l>
+          <l>לדמיין אותך איתי</l>
+          <l>מה את לא רואה</l>
+          <l>את מרגישה נפלא</l>
+          <l>את לא רוצה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא רוצה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לא, לא תדעי</l>
+          <l>איך היה יכול להיות איתי</l>
+          <l>אבל פתאום אחרי שנה</l>
+          <l>את נראית לי קצת שונה</l>
+          <l>זה לא נורא. את לא רוצה.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza" />
+        <lg Chorus="yes" number="8" type="stanza" />
+      </lg>
+    </body>
+  </text>
+</TEI>

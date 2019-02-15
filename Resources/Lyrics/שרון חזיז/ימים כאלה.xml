@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ימים כאלה 3</title>
+        <singer classification="female singer">שרון חזיז</singer>
+        <writer>אלונה קמחי</writer>
+        <composer>יזהר אשדות</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ימים כאלה</head>
+        <lg number="1" type="stanza">
+          <l>ובימים כאלה כמהה אליך</l>
+          <l>במקלטתך למצוא מקום</l>
+          <l>אך תהומות כהים בתוך עיניך</l>
+          <l>בחוץ חמסין ואין אוויר לנשום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עוד לילה ער פוער צלקת</l>
+          <l>גיבוב מכאיב של מחשבות</l>
+          <l>אז בוא אלי עם בוא השקט</l>
+          <l>פשוט ימים כאלה חסרי תשובות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מראה ריקה זגוגית העין</l>
+          <l>אין השתקפות בתוך מבט</l>
+          <l>אתה מולי רפוי ידיים</l>
+          <l>כי שם בעצם אין מקלט</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עוד לילה ער פוער צלקת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

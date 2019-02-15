@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ריקוד אחרון 2</title>
+        <singer classification="female singer">זהבה בן</singer>
+        <writer>משה גדסי</writer>
+        <composer>לאה שבת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ריקוד אחרון</head>
+        <lg number="1" type="stanza">
+          <l>עוד מעט אתה הולך, אורז מזוודה</l>
+          <l>אתה כבר לא אותו האיש, אני כבר לא ילדה</l>
+          <l>כל כך הרבה שנים הלכתי לצידך</l>
+          <l>תדע אתה לוקח חלק מחיי איתך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עוד מעט אתה הולך, תכתוב אלי משם</l>
+          <l>אהבתנו נישחקה כמו סלעים בים</l>
+          <l>אתה עומד בשער מסתובב לעוד מבט קטן</l>
+          <l>את הלהבות שבתוכנו יכבה הזמן</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הלב זוכר ולא שוכח תמונה בזיכרון</l>
+          <l>שנינו רוקדים תחת ירח, האם זה ריקוד אחרון?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוד מעט אתה הולך, אנשום אותך בכל מקום</l>
+          <l>ואם ארצה לגעת שוב אפליג אל החלום</l>
+          <l>וגם אם בלילה קר אש זרה תחמם את שנינו</l>
+          <l>האם תהיה זו אותה האש שבערה ביננו</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הלב זוכר ולא שוכח תמונה בזיכרון</l>
+          <l>שנינו רוקדים תחת ירח, האם זה ריקוד אחרון?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

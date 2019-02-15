@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה שיש לי זה מה שיש</title>
+        <singer classification="male singer">חיים משה</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>יצחק קלפטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה שיש לי זה מה שיש</head>
+        <lg number="1" type="stanza">
+          <l>יש הנושא עיניים</l>
+          <l>אל מה שמעליו</l>
+          <l>שואף אל זוהר החמה.</l>
+          <l>אני אגיד תודה אם</l>
+          <l>יהיו לי דווקא שתי</l>
+          <l>רגליים על האדמה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה שיש לי זה מה יש</l>
+          <l>ויותר לא אבקש</l>
+          <l>על פת הלחם שמן זית</l>
+          <l>מה שיש לי זה מה יש</l>
+          <l>רק שימרו לי על האש</l>
+          <l>של חום הלב וחום הבית.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תנו לי אשה אוהבת</l>
+          <l>ובית לא גדול</l>
+          <l>עם דשא וגדר חיה</l>
+          <l>ומדרכה של אבן</l>
+          <l>וגג מעל ראשי</l>
+          <l>וגם מעל החניה...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה שיש לי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וכשיומי יגיע</l>
+          <l>אשכב לי עם עצמי</l>
+          <l>ואחייך אל העולם</l>
+          <l>אם מישהו ישמיע</l>
+          <l>בשקט מהצד:</l>
+          <l>הוא היה, חביבי, בן אדם.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מה שיש לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

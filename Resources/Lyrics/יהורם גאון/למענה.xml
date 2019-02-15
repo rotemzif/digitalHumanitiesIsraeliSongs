@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>למענה</title>
+        <singer classification="male singer">יהורם גאון</singer>
+        <writer>שמרית אור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>למענה</head>
+        <lg number="1" type="stanza">
+          <l>כל אדם פוגש את כאבו</l>
+          <l>ומכיר פתאום את לבבו,</l>
+          <l>הוא ישא אותו עד סוף הדרך -</l>
+          <l>ישמור עליו כמו על פרח,</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל אדם נצרב בלהבה</l>
+          <l>לא ירפה עוד מן האהבה,</l>
+          <l>הוא לא יעזוב -</l>
+          <l>הוא לא יעזבה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>למענה - גבוה ישאף</l>
+          <l>למענה - יקום על רעיו שלו</l>
+          <l>חייו שלו,</l>
+          <l>כל כולו קורא למרחב -</l>
+          <l>למענה - גבוה ישאף.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל אדם פוגש את אביבו</l>
+          <l>בראשית יומו או בערבו,</l>
+          <l>הוא ינשום אותו עד סוף הדרך -</l>
+          <l>ישמור עליו כמו על פרח,</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כל אדם נצרב בלהבה</l>
+          <l>לא ירפה עוד מן האהבה,</l>
+          <l>הוא לא יעזוב -</l>
+          <l>הוא לא יעזבה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

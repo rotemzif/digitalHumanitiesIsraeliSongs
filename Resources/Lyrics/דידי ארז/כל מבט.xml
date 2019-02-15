@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל מבט</title>
+        <singer classification="unknown">דידי ארז</singer>
+        <writer>דידי ארז</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל מבט</head>
+        <lg number="1" type="stanza">
+          <l>כל מבט הוא סכין בלב שלך,</l>
+          <l>כל מבט, סכין בלב.</l>
+          <l>כל לחישה היא סטירה בפנים שלך,</l>
+          <l>כל לחישה, סטירה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הייתי נותן הכל, הכל, הכל, הכל</l>
+          <l>לא לחשוב יותר, לרגע אחד שקט.</l>
+          <l>לנשום.</l>
+          <l>לא לחשוב יותר. לרגע אחד שקט</l>
+          <l>לנשום.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל שמועה היא טיפה בים שלך,</l>
+          <l>כל שמועה, טיפה בים.</l>
+          <l>כל תקווה מובילה ליאוש שלך,</l>
+          <l>כל תקווה, יאוש.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הייתי נותן הכל...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כל מבט הוא סכין בלב שלך,</l>
+          <l>כל מבט, סכין בלב.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

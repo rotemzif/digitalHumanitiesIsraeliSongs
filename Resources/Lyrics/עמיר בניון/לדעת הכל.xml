@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לדעת הכל</title>
+        <singer classification="male singer">עמיר בניון</singer>
+        <writer>עמיר בניון</writer>
+        <composer>עמיר בניון</composer>
+        <album>לדעת הכל</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לדעת הכל</head>
+        <lg number="1" type="stanza">
+          <l>איזה כיף להיות חילוני </l>
+          <l>להיות דתי, להיות צמחוני</l>
+          <l>להיות כל מה שלא אני</l>
+          <l>ואיזה כיף לכתוב את </l>
+          <l>התורה שלי בעצמי</l>
+          <l>ולשכוח שאני רק יהודי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איזה כיף להיות מגודר</l>
+          <l>להיות מוגדר ומסוגר</l>
+          <l>להיות כל מה שאי אפשר</l>
+          <l>ולתכנן את העתיד שלי</l>
+          <l>הוורוד והמוכר</l>
+          <l>ולשכוח שלא אהיה כאן מחר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איזה כיף לדעת הכל</l>
+          <l>לרוץ בין הטיפות מבלי ליפול</l>
+          <l>מבלי להרטב אפילו </l>
+          <l>לדעת הכל</l>
+          <l>עיוור שהלפיד שבידו </l>
+          <l>צועק הצילו אותי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איזה כיף להיות דמיוני </l>
+          <l>להיות חופשי, להיות המוני</l>
+          <l>להיות כל מה שלא אני</l>
+          <l>ואיזה כיף למצוא שמות יפים </l>
+          <l>לכל החולשות שלי</l>
+          <l>ולשכוח שאני זה בגללי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>איזה כיף לדעת הכל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה קורה 14</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>יוסי גיספן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה קורה</head>
+        <lg number="1" type="stanza">
+          <l>אצלנו בשכונה כולם יודעים להסתדר</l>
+          <l>מחפשים קומבינות כל הזמן</l>
+          <l>כל אחד מוצא לו דרך איך להתעשר</l>
+          <l>ומיד הופך להיות בכיין</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חיים על הקומבינה</l>
+          <l>חיים בלי לעבוד</l>
+          <l>מציירים עוד קו</l>
+          <l>על המפלס של הדמעות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מה חדש, מה קורה, מה הענינים</l>
+          <l>טוב תודה, ברוך השם, הכל על הפנים</l>
+          <l>מה חדש, מה קורה, מה הענינים</l>
+          <l>טוב תודה, הכל על הפנים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא מספר מה יש לי</l>
+          <l>זה עניין של אמונה</l>
+          <l>את הסוד לימד אותי חבר</l>
+          <l>לך תלמד לבכות, תהיה אחד מהשכונה</l>
+          <l>כמה שתבכה תגדל יותר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>חיים על הקומבינה...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מה חדש, מה קורה, מה הענינים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

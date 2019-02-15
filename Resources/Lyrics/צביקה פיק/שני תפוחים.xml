@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שני תפוחים</title>
+        <singer classification="male singer">צביקה פיק</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שני תפוחים</head>
+        <lg number="1" type="stanza">
+          <l>שני תפוחים, שני אדומים</l>
+          <l>נפלו על דשא רך</l>
+          <l>התגלגלו, התכרבלו</l>
+          <l>בתוך העשב</l>
+          <l>הם זימזמו, הם נימנמו</l>
+          <l>וטוב להם כל כך</l>
+          <l>מתפוחים מה כבר אפשר</l>
+          <l>לדרוש בעצם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לפעמים אני רוצה</l>
+          <l>שכבר עכשיו יבוא הסתיו</l>
+          <l>שהכל הכל מאחורי הגב</l>
+          <l>ומעכשיו פשוט לשכב</l>
+          <l>בשקט על הגב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שני תפוחים, שני אדומים</l>
+          <l>חלמו שעה תמימה</l>
+          <l>איך הם עפים כמו ציפורים</l>
+          <l>אל השמיים</l>
+          <l>התלחשו, וקישקשו</l>
+          <l>עם אמא אדמה</l>
+          <l>מה כבר אפשר לדרוש מתפוח</l>
+          <l>או שניים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לפעמים אני רוצה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

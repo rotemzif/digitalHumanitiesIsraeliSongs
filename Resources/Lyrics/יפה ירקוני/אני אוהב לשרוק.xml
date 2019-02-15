@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני אוהב לשרוק 2</title>
+        <singer classification="female singer">יפה ירקוני</singer>
+        <writer>נורית זרחי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני אוהב לשרוק</head>
+        <lg number="1" type="stanza">
+          <l>אני אוהב לשרוק</l>
+          <l>אוהב לשרוק ברחוב</l>
+          <l>זה לא יפה, אבל זה טוב</l>
+          <l>ולא איכפת לי מה אומרים</l>
+          <l>האנשים ששם עוברים.</l>
+          <l>אני שואף את האוויר</l>
+          <l>בין השיניים חור משאיר</l>
+          <l>וכך שפתי יצפצפו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פו פו פו פו</l>
+          <l>אני אוהב לשרוק ברחוב</l>
+          <l>פו פו פו פו</l>
+          <l>אני אוהב לשרוק ברחוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני אוהב לשרוק</l>
+          <l>אוהב לשרוק ברחוב</l>
+          <l>זה לא מצליח כל כך טוב</l>
+          <l>וכל אחד שואל</l>
+          <l>שואל: "ברנש, ברנש,</l>
+          <l>השיר שלך הוא שיר חדש?"</l>
+          <l>אם גשם על פני נוטף</l>
+          <l>אני הולך ומצפצף</l>
+          <l>על כל טיפטוף שורק ציפצוף</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פו פו פו פו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

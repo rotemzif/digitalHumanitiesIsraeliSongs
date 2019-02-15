@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ליד באר מולדתי</title>
+        <singer classification="unknown">עופרה חזה</singer>
+        <writer>אלזה לסקר שילר</writer>
+        <composer>missing</composer>
+        <album>כל הנשמה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ליד באר מולדתי</head>
+        <lg number="1" type="stanza">
+          <l>אני שומעת את צעדיך </l>
+          <l>נאנחים מבין המשוכות</l>
+          <l>אני שומעת את צעדיך</l>
+          <l>ואתה מחפש אותי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ליד באר מולדתי ניצב מלאך</l>
+          <l>הוא שר את שיר אהבתי</l>
+          <l>ואתה מחפש אותי</l>
+          <l>אתה מחפש אותי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ועיניי הן טיפות כבדות ואפלות</l>
+          <l>בתוך נפשי יפרחו</l>
+          <l>במתיקות מבטיך</l>
+          <l>ומתמלאים בנדוד עיני</l>
+          <l>אל תוך השינה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ליד באר מולדתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

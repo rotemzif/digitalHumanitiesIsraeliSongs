@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צודקת</title>
+        <singer classification="male singer">עופר לוי</singer>
+        <writer>עינת הולנדר</writer>
+        <composer>אריק זנטי</composer>
+        <album>בדרך שבחרתי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צודקת</head>
+        <lg number="1" type="stanza">
+          <l>כל ויכוח אצלה הוא מלחמה </l>
+          <l>היא לא תנוח, תמיד תמצא על מה</l>
+          <l>אתה אף פעם לא תצא מנצח</l>
+          <l>וותר מראש, תהיה פיקח.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם אתה רוצה קצת שקט</l>
+          <l>מילות הקסם הן: "את צודקת". </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>צודקת, את צודקת</l>
+          <l>הטעות היא שלי</l>
+          <l>את יפה שמתעקשת</l>
+          <l>ליד מה אני...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את ליבה בשמחה זה ימלא</l>
+          <l>לך, חבר, זה בעצם לא עולה</l>
+          <l>בזכותך היא תרגיש על הגובה</l>
+          <l>תשוב לחייך, תסיר גם ת'כובע</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם אתה רוצה קצת שקט </l>
+          <l>מילות הקסם הן: "את צודקת".</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>צודקת, את צודקת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

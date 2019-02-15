@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פולנים 2</title>
+        <singer classification="unknown">דיה רז</singer>
+        <writer>דיה רז</writer>
+        <composer>דיה רז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פולנים</head>
+        <lg number="1" type="stanza">
+          <l>איך קמים </l>
+          <l>איך הולכים </l>
+          <l>כשנפרדים המפרקים כואבים </l>
+          <l>לא נופלים </l>
+          <l>מתרגלים </l>
+          <l>שהגוף כלו מלא חורים </l>
+          <l>מלא חורים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עולם שלם של פולנים </l>
+          <l>מתערבים לי בחיים </l>
+          <l>עולם שלם של מבינים </l>
+          <l>מתערבים לי בחיים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך נושמים נשימות </l>
+          <l>כשמתרחקים </l>
+          <l>הרגליים כושלות </l>
+          <l>לא מתים </l>
+          <l>מרחפים </l>
+          <l>כשהלב בוגד בורח לי </l>
+          <l>עם הראש שלי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עולם שלם של פולנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

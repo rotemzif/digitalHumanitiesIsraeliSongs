@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עובד בלילה</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>יגאל בשן</writer>
+        <composer>יגאל בשן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עובד בלילה</head>
+        <lg number="1" type="stanza">
+          <l>עובד בלילה וישן ביום</l>
+          <l>חושב בלילה ואוהב כל יום</l>
+          <l>כותב בלילה מספר ביום</l>
+          <l>שותה בלילה לשכוח את היום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבל אני עדין לא יודע אם זה נכון</l>
+          <l>או מה פתאום אני הופך את השעות</l>
+          <l>זה בטח בדם</l>
+          <l>זה כמו איזה סם</l>
+          <l>לשיר לשיר לשיר אני נרדם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רואה ת'בוקר בצהרי היום</l>
+          <l>תופס גיטרה ומתחיל לחלום</l>
+          <l>הרחוב למטה</l>
+          <l>פתאום מתחיל לנשום</l>
+          <l>אני יודע שאין לי פתרון</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבל אני עדין לא יודע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

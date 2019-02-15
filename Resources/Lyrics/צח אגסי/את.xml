@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את 443</title>
+        <singer classification="unknown">צח אגסי</singer>
+        <writer>צח אגסי</writer>
+        <composer>צח אגסי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את</head>
+        <lg number="1" type="stanza">
+          <l>יש דברים שאת רואה שונה ממני </l>
+          <l>ויש מילים שלא תאמרי </l>
+          <l>ולעולם אחשוב שאת בדיוק כמוני </l>
+          <l>למרות שאת בצד שני </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את, הבטחת לי שתהיי שמחה </l>
+          <l>פתאום את שוב הולכת מול הרוח </l>
+          <l>כן את, שוכחת שאת כמו כולם </l>
+          <l>גם את צריכה דקה אחת לנוח </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היו ימים בהם ידעת יותר ממני </l>
+          <l>מאז למדתי המון </l>
+          <l>את השיעור הכי חשוב ממך קיבלתי </l>
+          <l>צריך לעוף עם הדמיון </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>קשה כבר להפתיע - את המציאות </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את, הבטחת לי שתהיי שמחה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

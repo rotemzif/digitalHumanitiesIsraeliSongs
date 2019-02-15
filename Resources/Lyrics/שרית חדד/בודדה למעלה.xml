@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בודדה למעלה</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>אבי טבוך</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בודדה למעלה</head>
+        <lg number="1" type="stanza">
+          <l>וכמו פתאום נשברתי נדמה דמי קופא.</l>
+          <l>ברגע שנודע לי הכל הפך שונה</l>
+          <l>את העולם שנאתי אותך שוב לא אראה</l>
+          <l>והגורל נראה לי אכזר ומדכא.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>למה את בודדה למעלה? </l>
+          <l>ילדה של לב זהב לה האל אותה קטף.</l>
+          <l>יחד נולדנו וחגגנו</l>
+          <l>על אהבה חלמנו ועל עתיד יפה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אותך תמיד זוכרת, גם בימים יפים.</l>
+          <l>ועצב מכלכל בי קשים הרגעים.</l>
+          <l>ודמעתי שורפת הלב ניצבט בוכה.</l>
+          <l>ומה נותר שואלת ואין לי מענה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>למה את בודדה למעלה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

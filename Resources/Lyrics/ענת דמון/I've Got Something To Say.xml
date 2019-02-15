@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>I ve Got Something To Say</title>
+        <singer classification="female singer">ענת דמון</singer>
+        <writer>ענת דמון</writer>
+        <composer>ענת דמון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>I've Got Something To Say</head>
+        <lg number="1" type="stanza">
+          <l>I don't really know Trying not to show </l>
+          <l>I'm just looking around </l>
+          <l>For a place that can't be found </l>
+          <l>I don't really mind Leaving all behind </l>
+          <l>Don't you think it's too late </l>
+          <l>Will you press rewind </l>
+          <l>Put it straight, I'm not your kind ... </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>Will you look me in the eye Don't you stare high above </l>
+          <l>I've got no more tears to cry I forgot what is love </l>
+          <l>Don't stand still, why can't you lie? </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Want it all and now Start by showing how </l>
+          <l>I don't want to come down </l>
+          <l>I'm a queen without a crown </l>
+          <l>I don't really know </l>
+          <l>Why I let you go Explanations are far </l>
+          <l>Here we are </l>
+          <l>Take it slow, I'm not your car ... </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>Will you look me in the eye Don't you stare high above...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך אפשר 8</title>
+        <singer classification="male singer">רון שובל</singer>
+        <writer>מיכל חזון</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך אפשר</head>
+        <lg number="1" type="stanza">
+          <l>כשהלכת עוד הגשם ירד</l>
+          <l>ואני מבולבל לא הבנתי</l>
+          <l>איך הלכנו לישון כאחד</l>
+          <l>אבל קמנו כמו שני עולמות</l>
+          <l>בחלון דמעות של גשם</l>
+          <l>בעינייך יבש ועצוב</l>
+          <l>לא בכית בגללי אפילו דקה</l>
+          <l>וזה בכלל לא חשוב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך אפשר איך אפשר</l>
+          <l>בלי סיבה פתאום ללכת</l>
+          <l>הבית נשאר כינור בלי מיתר</l>
+          <l>כמו שיר מיותר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>השעון מתקתק כמו הסוף</l>
+          <l>הוא יודע בדיוק איך ללכת</l>
+          <l>רק אני מאבד כל כיוון</l>
+          <l>בביתי שהפך למבוך</l>
+          <l>לא ניסית להכין שום שטח</l>
+          <l>ופתאום פה נפלה הפצצה</l>
+          <l>בחיי שהכרתי היטב עד היום</l>
+          <l>הפכו רחוב בלי מוצא</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך אפשר איך אפשר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

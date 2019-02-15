@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תמיד יחכו לך</title>
+        <singer classification="female singer">לאה שבת</singer>
+        <writer>לאה שבת</writer>
+        <composer>לאה שבת</composer>
+        <album>כל השירים - אוסף</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תמיד יחכו לך</head>
+        <lg number="1" type="stanza">
+          <l>הו ילד עבר זמן</l>
+          <l>נסעת לחפש רחוק מכאן</l>
+          <l>ואני מחכה לך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הו ילד שלי בעולם</l>
+          <l>ציפור אדם כמו כולם</l>
+          <l>מחפש את האופק</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כל מטוס שטס בשמיים</l>
+          <l>כל כוכב מאיר בעיניים</l>
+          <l>מזכיר לי אותך</l>
+          <l>נחליאלי לפני הגשם</l>
+          <l>צרצרים בשעות הערב</l>
+          <l>תמיד יחכו לך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הו ילד כששקט</l>
+          <l>אני יושבת במרפסת לנגן</l>
+          <l>מנגינות געגוע</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הו ילד תשתדל</l>
+          <l>להגיע לכאן מהר</l>
+          <l>ככה אני מבקשת בשקט</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כל מטוס שטס בשמיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלונות 2</title>
+        <singer classification="unknown">סיון טלמור</singer>
+        <writer>סיון טלמור</writer>
+        <composer>סיון טלמור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלונות</head>
+        <lg number="1" type="stanza">
+          <l>חלונות חלונות כמו גלריית צלליות</l>
+          <l>פרושים בעיר הזאת.</l>
+          <l>ושורות ושורות של תקוות וחלומות</l>
+          <l>רצות בעיר הזאת. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הזמן נוזל מבין האצבעות</l>
+          <l>ואין לאן לברוח,</l>
+          <l>מהמרוץ הזה שרק נהייה יותר קשה</l>
+          <l>ולא נותר עוד כוח.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בין קירות וקורות אנחות מקלפות תקרות</l>
+          <l>בעיר הזאת.</l>
+          <l>ודלתות שנפתחות </l>
+          <l>ויום אחרי זה נסגרות פתאום,</l>
+          <l>ובלי לראות.</l>
+        </lg>
+        <lg number="4" type="stanza" />
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הזמן נוזל מבין האצבעות</l>
+          <l>ואין לאן לברוח,</l>
+          <l>מהמרוץ הזה שרק נהייה יותר קשה</l>
+          <l>ולא נותר עוד כוח.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>חלונות חלונות, </l>
+          <l>חלומות חלומות...</l>
+          <l>ושורות ושורות</l>
+          <l>חלומות חלומות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

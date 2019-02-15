@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תשמרי לי על עצמך</title>
+        <singer classification="male singer">משה פרץ</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>עדי לאון</composer>
+        <album>מביט אל המרומים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תשמרי לי על עצמך</head>
+        <lg number="1" type="stanza">
+          <l>שוב נוסע בכבישים בלי מטרה</l>
+          <l>והבדידות עושה לי רע</l>
+          <l>מחבר לי סתם מילים למנגינה</l>
+          <l>ונזכר ביד שבי נגעה</l>
+          <l>אני אוהב אותך שובי חזרה</l>
+          <l>כי הלב שלי רק לך נברא</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תשמרי לי על עצמך</l>
+          <l>כי משהו ממני עוד נמצא אצלך</l>
+          <l>גם כשאת אינך</l>
+          <l>רק אל תשכחי שאני עדיין</l>
+          <l>תמיד נמצא פה בשבילך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא שותה לי אלכוהול באיזה בר</l>
+          <l>כדי לשכוח ת'עבר</l>
+          <l>כי נשבעתי לא ליפול מהאהבה</l>
+          <l>גם כשהכאב עוד לא כבה</l>
+          <l>אני אוהב אותך שובי חזרה</l>
+          <l>כי הלב שלי רק לך נברא</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תשמרי לי על עצמך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

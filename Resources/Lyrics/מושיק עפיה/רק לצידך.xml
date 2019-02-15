@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק לצידך</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>יוני רועה</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק לצידך</head>
+        <lg number="1" type="stanza">
+          <l>איך הלב פועם ואלייך משתגע</l>
+          <l>איך האור דולק כשאת בנשמתי</l>
+          <l>ואיך מעל צוחק לשנינו הירח</l>
+          <l>וכמה כמה אושר הבאת בתוכי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וכך כל יום חוזר באושר שנוגע</l>
+          <l>ואין דבר אחר שיש לי מלבדך</l>
+          <l>שרק נמשיך להיות איתך אני יודע</l>
+          <l>שיש לי אור חיים רק לצידך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך הלב יוצא וכל הזמן מתגעגע</l>
+          <l>ואיך המנגינה שלך בוערת בקולי</l>
+          <l>ואיך איתך הזמן עומד</l>
+          <l>יפה שלי כמו פרח</l>
+          <l>אוהב אותך כל יום יותר</l>
+          <l>ברגש אינסופי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וכך כל יום חוזר באושר שנוגע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

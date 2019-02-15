@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חוטיני</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חוטיני</head>
+        <lg number="1" type="stanza">
+          <l>על החוף את שוב עוברת איזה שיגעון</l>
+          <l>הבובה עם החוטיני לא עושה חשבון</l>
+          <l>את הגוף שלך אוהבת ככה לחשוף</l>
+          <l>ואותי את משגעת מה יהיה הסוף</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מתי תביני, את עם החוטיני</l>
+          <l>מה זה עושה לי כשאת עוברת על החוף</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל המבטים אלייך לך זה לא אכפת</l>
+          <l>על החוף את מטיילת ממשיכה לאט</l>
+          <l>ואני יושב בשמש ונשרף מחום</l>
+          <l>מסתכל על החוטיני ורואה חלום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מתי תביני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

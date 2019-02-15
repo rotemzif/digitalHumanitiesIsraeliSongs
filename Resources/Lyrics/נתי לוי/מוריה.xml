@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מוריה</title>
+        <singer classification="male singer">נתי לוי</singer>
+        <writer>נתי לוי</writer>
+        <composer>נתי לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מוריה</head>
+        <lg number="1" type="stanza">
+          <l>אין כמוה בכל העולם</l>
+          <l>אין כמוה זאת יודעים כולם</l>
+          <l>כשהיא עוברת את כולם סוחפת</l>
+          <l>כמלכה מולכת בעולמה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מוריה, מוריה, מוריה, מוריה</l>
+          <l>כל העולם נברא בשבילך</l>
+          <l>מוריה, מוריה יפה את בת אלוה</l>
+          <l>הורגת בלי נשק-רק ביופייך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כסף ומוהר והרבה זהב</l>
+          <l>אתן אם תבואי אל חיי עכשיו</l>
+          <l>אומרים שאת אוהבת מישהו בסתר</l>
+          <l>לפחות תגידי, אז אוותר...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מוריה, מוריה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

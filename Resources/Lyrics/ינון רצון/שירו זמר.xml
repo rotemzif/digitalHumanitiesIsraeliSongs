@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שירו זמר</title>
+        <singer classification="unknown">ינון רצון</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי ערבי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שירו זמר</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>שירו זמר כל העיר,</l>
+          <l>שיר אשר לבכם יעיר.</l>
+          <l>שיר לוורד, לשושן,</l>
+          <l>שיר לכל ילדי הגן.</l>
+          <l>שירו, שירו, שירו, שירו,</l>
+          <l>שירו זמר כל העיר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בשמחת קהל נרקוד ונשירה עוד ועוד.</l>
+          <l>עם כוסית משקה ביד נצטרף אל כל אחד</l>
+          <l>ולבנו יתרונן עם השיר והצלילים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שירו זמר...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בשעה של דמדומים ושמיים אדומים</l>
+          <l>כשהלילה מרחוק אל בתינו יחמוק,</l>
+          <l>אז יבואה זה השיר ויגרש את הצללים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שירו זמר...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>זה הזמר לא יחדל מפי ילד ועולל</l>
+          <l>ותמיד אותו נשיר בכל רחובות העיר</l>
+          <l>נזמרו בכל שעה, בלילות ובימים.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>שירו זמר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

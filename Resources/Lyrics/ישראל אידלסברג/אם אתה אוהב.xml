@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם אתה אוהב</title>
+        <singer classification="male singer">ישראל אידלסברג</singer>
+        <writer>ישראל אידלסברג</writer>
+        <composer>ישראל אידלסברג</composer>
+        <album>בשורות טובות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם אתה אוהב</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>היי,חיוך קטן זה מה שיש</l>
+          <l>האושר להגיע מבקש</l>
+          <l>כן,הלב שלך עכשיו חושש</l>
+          <l>אבל מוכן לרגע האמת</l>
+          <l>בין מציאות למחשבה</l>
+          <l>בין הבדידות אל הקרבה</l>
+          <l>אם אתה אוהב זה מנצח כל כאב</l>
+          <l>לך על הרגש המתלהב</l>
+          <l>קח את מה שיש את החיוך ואת הלב</l>
+          <l>יש גל של אושר מתקרב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היי,כמו סופה זה בא וזה עובר</l>
+          <l>לפחד לעולם אל תוותר</l>
+          <l>כן,הדרך ארוכה יותר</l>
+          <l>אבל נגיע גם אם נאחר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם אתה אוהב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

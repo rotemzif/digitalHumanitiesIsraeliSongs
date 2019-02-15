@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תשתי</title>
+        <singer classification="female singer">יהודית תמיר</singer>
+        <writer>שפי ישי</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תשתי</head>
+        <lg number="1" type="stanza">
+          <l>כל לילה אל הבר שלי היה מגיע </l>
+          <l>יושב שעות מתחיל עם כל אשה </l>
+          <l>המשקאות היו זורמים אליהֿ </l>
+          <l>היה קונה כל מה שהיא בקשה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תעשי חשבון לשום דבר </l>
+          <l>תזמיני מה שבא </l>
+          <l>תשתי את כל הבר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל בוקר אל הבר היה מגיע </l>
+          <l>ובאותו שולחן היה יושב </l>
+          <l>ולאשתו מזמין רק כוס אחת של בירה </l>
+          <l>איתה על כל משקה היה חושב </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תעשי חשבון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

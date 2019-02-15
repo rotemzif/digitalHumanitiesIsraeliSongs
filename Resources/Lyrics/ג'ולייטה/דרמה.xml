@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דרמה</title>
+        <singer classification="unknown">ג ולייטה</singer>
+        <writer>ביגי</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דרמה</head>
+        <lg number="1" type="stanza">
+          <l>כמה זמן אנחנו רק ניסינו</l>
+          <l>שום דבר אינו עובד מוכר</l>
+          <l>לאהבה שלנו מה עשינו?</l>
+          <l>אך נשרוד לבד את המחר?</l>
+          <l>את הולכת את חוזרת </l>
+          <l>ואצלי הכל כמו סרט</l>
+          <l>מדבר אל השמיים</l>
+          <l>תסתכלי לי בעניים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מי מוכר לך את הדרמה?</l>
+          <l>חלומות פריז אירופה</l>
+          <l>בושם זול כמה דולרים</l>
+          <l>דרינק אחד בעיר הברים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מקום חדש פותח לי עוד דלת</l>
+          <l>לפניך הייתי קצת סגור</l>
+          <l>והינה שוב אלי את מתקרבת</l>
+          <l>מי יודע מה מותר?</l>
+          <l>מה אסור?</l>
+          <l>את הולכת את חוזרת </l>
+          <l>ואצלי הכל כמו סרט</l>
+          <l>מדבר אל השמיים</l>
+          <l>תסתכלי לי בעיניים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מי מוכר לך את הדרמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

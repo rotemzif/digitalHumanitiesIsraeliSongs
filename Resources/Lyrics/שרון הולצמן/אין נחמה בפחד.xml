@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין נחמה בפחד</title>
+        <singer classification="male singer">שרון הולצמן</singer>
+        <writer>שרון הולצמן</writer>
+        <composer>שרון הולצמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין נחמה בפחד</head>
+        <lg number="1" type="stanza">
+          <l>לא חשבון הפסד ורווח</l>
+          <l>לא כאב שורף כליות</l>
+          <l>לא לילות טרוטי עיניים</l>
+          <l>בחיפוש סיבה לחיות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא, אין לך מה לחשוש</l>
+          <l>הכל אצלך בראש</l>
+          <l>אין נחמה בפחד</l>
+          <l>לא, אין לך מה לחשוש</l>
+          <l>הכל אצלך בראש</l>
+          <l>אין נחמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא גברים קפוצי שפתיים</l>
+          <l>לא נשים מהירות חימה</l>
+          <l>לא הרעד בברכיים</l>
+          <l>שעוצר מבעדך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא, אין לך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא חשבון הפסד ורווח</l>
+          <l>לא כאב שורף כליות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

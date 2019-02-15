@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מבחן הזמן</title>
+        <singer classification="unknown">תמר יהלומי</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>סופיה ווסו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מבחן הזמן</head>
+        <lg number="1" type="stanza">
+          <l>אדם נושא את כל ימיו, </l>
+          <l>בתוך תרמיל שנים על גב </l>
+          <l>והוא יודע האנשים, כמו רגעים</l>
+          <l>מי הטובים, מי הרעים, הזמן קובע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמו שיבולת עם הרוח, גם הלב הכי קשוח, לפעמים נשבר</l>
+          <l>אם האהבה נובלת ואתה בוכה כמו ילד, גם לך מותר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לזמן יש טעם משכר</l>
+          <l>את התלאות הוא לא זוכר</l>
+          <l>זה מלמעלה, לכל אדם מותר לבכות</l>
+          <l>אבל בסוף כל הדמעות, ללכת הלאה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמו שיבולת עם הרוח, גם הלב הכי קשוח, לפעמים נשבר</l>
+          <l>אם האהבה נובלת ואתה בוכה כמו ילד, גם לך מותר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תימני קטן</title>
+        <singer classification="unknown">טלי בן עמי</singer>
+        <writer>דני בוקובזה</writer>
+        <composer>דני בוקובזה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תימני קטן</head>
+        <lg number="1" type="stanza">
+          <l>תימני קטן אבל גזעי</l>
+          <l>מתהלך בצעד תימני</l>
+          <l>פיאותיו שחורות היו לאות,</l>
+          <l>אותן קיצר בארץ האבות.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תן לי יד ורקוד איתי חופשי חופשי</l>
+          <l>בוא ולמדני צעד תימני... אה</l>
+          <l>בוא הבא לי פח בו אתופף</l>
+          <l>ולי ירקוד בחור שאותי אוהב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תימני קטן אבל חכם</l>
+          <l>את התורה יודע במושלם</l>
+          <l>ביום שבת אוהב להתענג</l>
+          <l>לועס הג'ת בשיר הוא מפזם.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תימני קטן אבל חריף</l>
+          <l>בניין קומות בנה מעל הצריף</l>
+          <l>את ידי ביקש הוא מאימי</l>
+          <l>ובאוזני לחש: את עיוני.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תן לי יד ורקוד איתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

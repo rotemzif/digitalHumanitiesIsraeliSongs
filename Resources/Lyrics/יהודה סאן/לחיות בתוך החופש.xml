@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לחיות בתוך החופש</title>
+        <singer classification="unknown">יהודה סאן</singer>
+        <writer>יהודה סאן</writer>
+        <composer>יהודה סאן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לחיות בתוך החופש</head>
+        <lg number="1" type="stanza">
+          <l>עכשיו אתה נלחם לבד</l>
+          <l>לבד, לחיות את החיים</l>
+          <l>אתה סוגר עם השנים מעגל</l>
+          <l>מעגל של שינויים</l>
+          <l>והכל נשמר בפנים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לחיות בתוך החופש בלי עניין לזמן </l>
+          <l>אתה נולד</l>
+          <l>לבד בתוך ההיגיון שיצרת לעצמך</l>
+          <l>אתה נקבר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה כותב לך שירים עצובים</l>
+          <l>שעל פנייך כבר רואים</l>
+          <l>מאוכזב מהחיים, מה הם מציעים</l>
+          <l>רק מלחמות ופיגועים</l>
+          <l>ורק הטובים נופלים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לחיות בתוך החופש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

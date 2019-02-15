@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל נא תשירי 2</title>
+        <singer classification="unknown">לי גנור</singer>
+        <writer>לי גנור</writer>
+        <composer>אלכסנדר פושקין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל נא תשירי</head>
+        <lg number="1" type="stanza">
+          <l>אל נא תשירי לפני </l>
+          <l>שירי ארצך רבי עצבת, </l>
+          <l>כי חוף רחוק והד חיי </l>
+          <l>בהם לנפש הכואבת. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהה! הזמר האכזר </l>
+          <l>את לבבי כחץ פולח, </l>
+          <l>הוא מזכירני לילה, כר </l>
+          <l>ודמות עלמה לאור ירח. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אותו הצלם האהוב </l>
+          <l>את משכיחה בי ומסגת, </l>
+          <l>אך קול שירך אשמע - ושוב </l>
+          <l>אני רואה אותו מנגד. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהה! הזמר האכזר </l>
+          <l>את לבבי כחץ פולח, </l>
+          <l>הוא מזכירני לילה, כר </l>
+          <l>ודמות עלמה לאור ירח.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

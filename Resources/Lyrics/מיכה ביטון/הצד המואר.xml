@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הצד המואר</title>
+        <singer classification="male singer">מיכה ביטון</singer>
+        <writer>מיכה ביטון</writer>
+        <composer>מיכה ביטון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הצד המואר</head>
+        <lg number="1" type="stanza">
+          <l>את הצד המואר קשה לראות</l>
+          <l>יותר מדי מילים שמסתירות</l>
+          <l>ביני לבינך בינו לבינה</l>
+          <l>אנחנו הר במישור בכי ושמחה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>למרות הכל נדלק עלינו אור</l>
+          <l>השמיים בכחול</l>
+          <l>עולם מלא בטוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את הצד המואר קשה לראות</l>
+          <l>יותר מדי מילים שצועקות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>דבר איתי דבר איתה</l>
+          <l>דבר יפה דברים של חוכמה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>למרות הכל נדלק עלינו אור...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>את הצד המואר קשה לראות</l>
+          <l>חשוך וקר בעולם של חומות</l>
+          <l>את הצד המואר שלי ושלך</l>
+          <l>אפשר להדליק</l>
+          <l>בואי נדליק באהבה</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>למרות הכל נדלק עלניו אור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

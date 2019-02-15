@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>במו ידי 4</title>
+        <singer classification="male singer">שלום חנוך</singer>
+        <writer>שלום חנוך</writer>
+        <composer>missing</composer>
+        <album>שלום חנוך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>במו ידי</head>
+        <lg number="1" type="stanza">
+          <l>אדם סופר ימיו עד קבר </l>
+          <l>פניו לשחר שיפציע</l>
+          <l>יפסיק לרדוף אחר האור </l>
+          <l>וכל האור אליו יגיע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל האמת ואל האושר </l>
+          <l>במנהרה בת שנות אלפיים</l>
+          <l>דורות רבים הלכו בחושך </l>
+          <l>קהל גדול ירא שמיים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קהל גדול אישה וגבר </l>
+          <l>עושים דרכם לירושלים</l>
+          <l>והם קוראים אלי מעבר - </l>
+          <l>הנה האור תפקח עיניים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני עושה דרכי ביושר </l>
+          <l>כל יום נולד ולא קבוע</l>
+          <l>גם אם כוכב אחד יאיר לי </l>
+          <l>בכל אשר נושבת רוח</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>במו ידי</l>
+          <l>אחצוב דרכי</l>
+          <l>במו ידי</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>בכל אשר נושבת רוח </l>
+          <l>מעוף נוצה איושה על מים</l>
+          <l>אל האמת ואל האושר </l>
+          <l>אחצוב דרכי בשתי ידיים</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>במו ידי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

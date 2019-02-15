@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחנות התברואה</title>
+        <singer classification="male singer">כפיר שתיוי</singer>
+        <writer>כפיר שתיוי</writer>
+        <composer>כפיר שתיוי</composer>
+        <album>שבוע ימים על הפצע</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחנות התברואה</head>
+        <lg number="1" type="stanza">
+          <l>במחנות התברואה היו מעליות חמצן </l>
+          <l>הכלב על הדשא על הכביש נרדם אצן </l>
+          <l>בציד עכברים מוביל המכשף </l>
+          <l>בסנט פטרבורג ציפור העף </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אחים שלי אוי אחים </l>
+          <l>הקריבו נפשותיכם למלחמה </l>
+          <l>הדם שלכם הוא פרחים </l>
+          <l>זרקו חמלה על אדמה חמה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עצים מיואשים חיות מתוסכלות </l>
+          <l>שיעול האויב מעיף אלינו מחלות </l>
+          <l>ארנב שולף אקדח מול חזיר במדים </l>
+          <l>כלבלב נורה בלב מרובה ציידים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אחים שלי אוי אחים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

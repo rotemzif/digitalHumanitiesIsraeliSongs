@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רובין הוד</title>
+        <singer classification="band">נוער שוליים</singer>
+        <writer>ארן אמיר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רובין הוד</head>
+        <lg number="1" type="stanza">
+          <l>את לא, לא לבדך ברחוב</l>
+          <l>יש מישהו קרוב</l>
+          <l>מוכן לך אל הטוב</l>
+          <l>אותך לא יעזוב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שנים רבות עומד בצד</l>
+          <l>עובר ליד מאז שהיית ילדונת</l>
+          <l>את לא לבדך ברחוב!</l>
+          <l>לא לבדך ברחוב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני, אני הוא הגואל</l>
+          <l>ממעל למסתכל</l>
+          <l>אף פעם לא נופל</l>
+          <l>הולך איתך כמו אל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שנים רבות עומד בצד</l>
+          <l>עובר ליד מאז שהיית ילדונת</l>
+          <l>את לא לבדך ברחוב!</l>
+          <l>לא לבדך ברחוב.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא לבדך ברחוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

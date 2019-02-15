@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשאתה נשבר</title>
+        <singer classification="female singer">מאיה בוסקילה</singer>
+        <writer>אהוד מנור</writer>
+        <composer>פבלו רוזנברג</composer>
+        <album>סיפור מכור</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשאתה נשבר</head>
+        <lg number="1" type="stanza">
+          <l>אתה ואני, זה רק שנינו, זה רק שנינו</l>
+          <l>לך אין שני, זה בינינו, זה בינינו</l>
+          <l>רק בך מתחילה, ואתה בי נגמר</l>
+          <l>אל ליבך המילה, שאומר, שאומר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואם אתה נשבר, אז גם אני נשברת</l>
+          <l>אך אם אתה נשאר, אז גם אני נשארת</l>
+          <l>ברע ובמר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>החלפנו פנים וידיים, ועיניים</l>
+          <l>כן אתה זה אני, פעמיים, פעמיים</l>
+          <l>זה התחיל בטירוף, כמו דו קרב, כמו דו קרב</l>
+          <l>ולמדנו לעוף, עד אין סוף, עד עכשיו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואם אתה נשבר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני רואה אותי במבטך,</l>
+          <l>ויש פה גם אותך,</l>
+          <l>בהבטחה והבטחה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואם אתה נשבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

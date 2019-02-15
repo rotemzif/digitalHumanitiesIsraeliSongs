@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשיש לך חבר</title>
+        <singer classification="unknown">הופה היי</singer>
+        <writer>יגאל בשן</writer>
+        <composer>יגאל בשן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשיש לך חבר</head>
+        <lg number="1" type="stanza">
+          <l>אם יש לך כלב אז יש לך חבר</l>
+          <l>אם יש לך ארנב אתה מאוהב</l>
+          <l>אם יש לך דוב אז אל תיגש קרוב</l>
+          <l>אם יש לך אריה אז נתראה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וזה כל כך נחמד שיש חיית מחמד</l>
+          <l>ושתמיד אני כבר לא אהיה לבד</l>
+          <l>אני כל כך אוהב ביער לבלות</l>
+          <l>ביחד עם כל החיות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם יש לך סוס אתה יכול לדהור</l>
+          <l>אם יש לך כנפיים תעוף כמו ציפור</l>
+          <l>אם יש לך נמר צריך להיזהר</l>
+          <l>אם יש לך קוף אז יש חבר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וזה כל כך נחמד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם יש לך כרמל זה רק בישראל</l>
+          <l>אם יש לך גליל זה בטח לא רגיל</l>
+          <l>אם יש לך מדבר כמו שיר שלא נגמר</l>
+          <l>ביער אתה מאושר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>וזה כל כך נחמד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

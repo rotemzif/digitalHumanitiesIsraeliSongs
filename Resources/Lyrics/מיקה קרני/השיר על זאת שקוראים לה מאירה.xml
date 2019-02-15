@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השיר על זאת שקוראים לה מאירה</title>
+        <singer classification="female singer">מיקה קרני</singer>
+        <writer>אורי כץ</writer>
+        <composer>אורי כץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השיר על זאת שקוראים לה מאירה</head>
+        <lg number="1" type="stanza">
+          <l>מאירה, אני מאירה, לא מסנוורת, לא זוהרת, רק מאירה</l>
+          <l>לא חשוכה, לא קודרת אבל מאירה</l>
+          <l>לאחר מותי אנשים יצטערו יגידו שקרן ממני אור</l>
+          <l>שזו צורה אחרת לומר - מאירה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בזמנים אחרים בתרבויות אחרות</l>
+          <l>אולי, יכולתי להיחשב אחרת</l>
+          <l>אבל אני מאירה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הרבה מתבלבלים וחושבים שאני מעדות המזרח</l>
+          <l>כי מאירה מאוד דומה למעיראק</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בזמנים אחרים בתרבויות אחרות</l>
+          <l>אולי, יכולתי להיחשב אחרת</l>
+          <l>אבל אני מאירה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא מהפנטת, לא מפלרטטת, לא מחרטטת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

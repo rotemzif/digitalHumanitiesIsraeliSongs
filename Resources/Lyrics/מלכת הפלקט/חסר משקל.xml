@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חסר משקל</title>
+        <singer classification="band">מלכת הפלקט</singer>
+        <writer>ברק גביזון</writer>
+        <composer>אמיתי אשר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חסר משקל</head>
+        <lg number="1" type="stanza">
+          <l>ידעתי שלא יהיה קל</l>
+          <l>הרגשתי פתאום שאני חסר משקל</l>
+          <l>מתוך לא ריגוש של ממש</l>
+          <l>התחלתי לראות טיפה יותר מטושטש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קשה לי קצת לזוז עכשיו קפאתי במקום</l>
+          <l>הרגשתי מוזר</l>
+          <l>ופרח שליטף את לחייה וריגש</l>
+          <l>כמו ריח מוכר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הכל מסתובב לי עכשיו</l>
+          <l>עוצר נשימה ואת רוצה שנשכב</l>
+          <l>קולות מרחוק אני שומע</l>
+          <l>שקרובים אני מותח עוד קו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יום אח היא לא תרצה יותר</l>
+          <l>תעלם לתוך חיוך של אחר</l>
+          <l>ואני שלא יודע</l>
+          <l>שהזמן הזה כל כך ממכר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>קשה לי קצת לזוז עכשיו...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מחיר לא יקר לשלם</l>
+          <l>כל עוד אני חי ונושם</l>
+          <l>קצת קר</l>
+          <l>ואני כבר מתלונן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תיכף אשוב 2</title>
+        <singer classification="male singer">יהורם גאון</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תיכף אשוב</head>
+        <lg number="1" type="stanza">
+          <l>בא לי לקחת רגע של שקט.</l>
+          <l>מין חופשה ללא תשלום, ללא תאריך.</l>
+          <l>במקום רחוק לא נודע</l>
+          <l>על יבשת בודדה.</l>
+          <l>זה נפלא -</l>
+          <l>הפסקה רק לרגע.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה לא יצא לי עד השבוע.</l>
+          <l>אני יוצא עד שאתפוס געגוע</l>
+          <l>ועל דלתי כתוב:</l>
+          <l>חכו לי, חכו לי, חכו לי</l>
+          <l>ותיכף אשוב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בא לי לקחת רגע של שקט.</l>
+          <l>פסק זמן מעינוגים וממלחמות.</l>
+          <l>בלי נשים ובלי חברים.</l>
+          <l>אין שותים ואין יורים.</l>
+          <l>זה נפלא -</l>
+          <l>הפסקה רק לרגע.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה לא יצא לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

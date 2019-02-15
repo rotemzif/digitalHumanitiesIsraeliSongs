@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ריקוד רומנטי 2</title>
+        <singer classification="unknown">ולדי בלייברג</singer>
+        <writer>ניסים מרי</writer>
+        <composer>missing</composer>
+        <album>כוכב נולד 7</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ריקוד רומנטי</head>
+        <lg number="1" type="stanza">
+          <l>לא מבין איך התאהבתי בך נערה</l>
+          <l>חץ אחד שלך פגע בי במטרה</l>
+          <l>ומיד לך התמכרתי, איך זה קרה</l>
+          <l>את חיי הפכת משקט לסערה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את משגעת במבטך</l>
+          <l>אני כל כך רוצה לדעת מה בליבך</l>
+          <l>תרקדי איתי הלילה ריקוד רומנטי לאור ירח</l>
+          <l>אותך לוקח עד סוף העולם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני מביט בך ולרגע שוב מתאהב</l>
+          <l>יש בך קטע שגורם לי להתלהב</l>
+          <l>בך כל כך רוצה לגעת, להתקרב</l>
+          <l>לריקוד הזה יש קצב מתוך הלב.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את משגעת במבטך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

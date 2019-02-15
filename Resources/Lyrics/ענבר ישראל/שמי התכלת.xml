@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמי התכלת</title>
+        <singer classification="unknown">ענבר ישראל</singer>
+        <writer>תומר עג'ם</writer>
+        <composer>תומר עג'ם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמי התכלת</head>
+        <lg number="1" type="stanza">
+          <l>חוף הים</l>
+          <l>שמי התכלת</l>
+          <l>לא שווים כלום בלעדיך</l>
+          <l>אם לרגע</l>
+          <l>לא אהבת</l>
+          <l>סתם שיחקת, ושיקרת</l>
+          <l>איך הרסת</l>
+          <l>את ליבי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בכל צעד</l>
+          <l>בכל רגע</l>
+          <l>נזכרת שוב בך</l>
+          <l>איך הייתי מאושר לצידך</l>
+          <l>זה אורו של הירח</l>
+          <l>מאיר לי את דמותך</l>
+          <l>איך ההינו נפגשים כאן בכל לילה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא אמרת</l>
+          <l>לא רמזת</l>
+          <l>שהסוף קרב ובא</l>
+          <l>רק מבט</l>
+          <l>שבעיניך</l>
+          <l>לי סיפר הוא את הכל</l>
+          <l>לא היית, אמיתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בכל צעד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

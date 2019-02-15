@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחת ושתיים</title>
+        <singer classification="male singer">ירמי קפלן</singer>
+        <writer>ירמי קפלן</writer>
+        <composer>ירמי קפלן</composer>
+        <album>ירמי קפלן והפרחים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחת ושתיים</head>
+        <lg number="1" type="stanza">
+          <l>אחת ושתיים הוא ארז,</l>
+          <l>ארז מהר, מהר מדי יגידו כמה.</l>
+          <l>לקח חולצה וגם פיג'מה,</l>
+          <l>זו מזכרת מחלום ישן.</l>
+          <l>פתח את דלת הסובארו,</l>
+          <l>הידק את סוליית הנעל לדוושת הגז.</l>
+          <l>חשב שמחכים לו.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קח את מה שתוכל</l>
+          <l>את מה שתראה</l>
+          <l>את מה שנשאר</l>
+          <l>כי מה שתיקח</l>
+          <l>זה מה שיהיה</l>
+          <l>הרוח לחשה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תשעים או מאה הוא נסע,</l>
+          <l>למרות השלט שהזהיר:</l>
+          <l>עד שישים מותר!</l>
+          <l>)אל תדאג, יש כח ששומר עלי לא פעם) הוא אמר.</l>
+          <l>חשב שלא יהיו עדים</l>
+          <l>לכל אלה שהשאיר מפרפרים מאחוריו.</l>
+          <l>עכשיו הם מחכים לו.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז תיקח את מה שתוכל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

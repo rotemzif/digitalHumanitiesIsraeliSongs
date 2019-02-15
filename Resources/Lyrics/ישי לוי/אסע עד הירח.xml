@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אסע עד הירח</title>
+        <singer classification="male singer">ישי לוי</singer>
+        <writer>טל שגב</writer>
+        <composer>יעקב למאי</composer>
+        <album>האחת שלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אסע עד הירח</head>
+        <lg number="1" type="stanza">
+          <l>את ואני זה חיבוק עולמי </l>
+          <l>ואף אחד בנינו לעולם לא יפריד </l>
+          <l>תדעי שאני מדבר אל עצמי</l>
+          <l>מאז שלא ראיתי את יופיך הנצחי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אסע עד הירח כדי לקרוא בשמך </l>
+          <l>אלמד להשתנות אחייה למענך </l>
+          <l>ורק אם תאהבי ואל ליבך אותי תיקחי </l>
+          <l>אוכל לחיות אם רק תהיי שלי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את ואני בחיבוק אין סופי </l>
+          <l>עוברים ליד הים מאושרים מתמיד </l>
+          <l>חדרת לליבי מחזיקה את ידי</l>
+          <l>עכשיו אני לוחש לך את הכל בשבילי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אסע עד הירח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

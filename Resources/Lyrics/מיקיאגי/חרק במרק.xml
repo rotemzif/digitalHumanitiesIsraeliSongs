@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חרק במרק</title>
+        <singer classification="male singer">מיקיאגי</singer>
+        <writer>מיקיאגי</writer>
+        <composer>מיקיאגי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חרק במרק</head>
+        <lg number="1" type="stanza">
+          <l>מצאתי זבוב בתוך המרק </l>
+          <l>איך זה שבתוך המרק יש חרק </l>
+          <l>שאלתי אם זה מרק זבובים </l>
+          <l>ענו לי שזה מרק, מרק עדשים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך זה עף לו החרק לתוך המרק </l>
+          <l>הסתכל עלי החרק מתוך המרק ושרק </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מצאתי פרעוש בכלבלב של ברק </l>
+          <l>איך בכלבלב של ברק יש חרק </l>
+          <l>שאלתי אם הוא כלבלב מחונך </l>
+          <l>ענו לי שהוא כלבלב, כלבלב מלוכלך </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איך זה עף לו החרק לכלבלב של ברק </l>
+          <l>הסתכל החרק בכלבלב של ברק ושרק </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ובלילה לפני שהלכתי לישון </l>
+          <l>מיהרתי לסגור את החריץ בווילון </l>
+          <l>דאגתי לסגור במהרה את הווילון </l>
+          <l>שלא ייכנסו חרקים לחלון </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>איך זה עף לו החרק לתוך המרק </l>
+          <l>הסתכל עלי החרק מתוך המרק ושרק</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

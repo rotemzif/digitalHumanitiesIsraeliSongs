@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם רק תבואי 5</title>
+        <singer classification="band">סינרגיה</singer>
+        <writer>אשכול נבו</writer>
+        <composer>missing</composer>
+        <album>חתום באש</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם רק תבואי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אם רק תרצי </l>
+          <l>שכל זה יגמר</l>
+          <l>מה שתרצי </l>
+          <l>אני אומר </l>
+          <l>תני לי סימן </l>
+          <l>ושוב אני חוזר</l>
+          <l>אם רק תרצי </l>
+          <l>סיום אחר</l>
+          <l>אם רק תבואי </l>
+          <l>אם רק תבואי </l>
+          <l>אלי </l>
+          <l>אם רק תבואי </l>
+          <l>שוב</l>
+          <l>לפני </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל תפחדי </l>
+          <l>הייתי אז אחר </l>
+          <l>כן, את הכל, אני זוכר </l>
+          <l>ארבע שנים </l>
+          <l>וזה לא עובר </l>
+          <l>אם רק תרצי </l>
+          <l>אני רוצה יותר </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם רק תבואי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

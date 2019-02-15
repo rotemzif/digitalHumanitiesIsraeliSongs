@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ברכת בת</title>
+        <singer classification="unknown">ליאור מיארה</singer>
+        <writer>מן המקורות</writer>
+        <composer>ליאור מיארה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ברכת בת</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>ישימך אלוקים כשרה רבקה רחל ולאה</l>
+          <l>ישימך אלוקים כשרה רבקה רחל ולאה</l>
+          <l>יברכך השם וישמרך יאר השם פניו אלייך ויחנך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ישא השם פניו אלייך </l>
+          <l>ישא השם פניו אלייך</l>
+          <l>וישם לך וישם לך שלום</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ישימך אלוקים כשרה רבקה רחל ולאה</l>
+          <l>ישימך אלוקים כשרה רבקה רחל ולאה</l>
+          <l>יברכך השם וישמרך יאר השם פניו אלייך ויחנך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

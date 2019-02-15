@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מכתב מהמוצב</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>יגאל בשן</writer>
+        <composer>יגאל בשן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מכתב מהמוצב</head>
+        <lg number="1" type="stanza">
+          <l>חייל כתב מכתב מהמוצב</l>
+          <l>אל אמא שבקשה כתוב מכתב</l>
+          <l>התותחים שקטו והרובים חדלו</l>
+          <l>עוד יום עבר</l>
+          <l>על גדות הנהר</l>
+          <l>כן, בבקעה אותו דבר</l>
+          <l>כך הוא כתב לחבריו ולהוריו שבמושב</l>
+          <l>האוכל פה נפלא, אבל קצת חם</l>
+          <l>החברה כאן שרים מי שחלם</l>
+          <l>הנוף כאן במקום</l>
+          <l>יפה כמו בחלום</l>
+          <l>והירדן ממשיך וזורם</l>
+          <l>הוא לעולם לא מזדקן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אולי ביום שישי</l>
+          <l>יתכן אהיה חופשי</l>
+          <l>גהצי בגדי שבת</l>
+          <l>ואפי לי את עוגת השוקולד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חייל כתב מכתב מהמוצב</l>
+          <l>אל אמא שבקשה כתוב מכתב</l>
+          <l>התותחים שקטו והרובים פסקו</l>
+          <l>עוד יום עבר</l>
+          <l>על גדות הנהר</l>
+          <l>כן, בבקעה אותו דבר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אולי ביום שישי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

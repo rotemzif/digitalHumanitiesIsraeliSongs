@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משחקת בתופסת</title>
+        <singer classification="male singer">ישי לוי</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>משה נגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משחקת בתופסת</head>
+        <lg number="1" type="stanza">
+          <l>בחוטים שאת מושכת</l>
+          <l>כמלכה את בי מולכת</l>
+          <l>ואני נסיך קטן בעולמך</l>
+          <l>את חיצייך את שולחת</l>
+          <l>מתקרבת ובורחת</l>
+          <l>גונבת את ליבי במבטך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לילה לילה את איתי</l>
+          <l>בתוך ליבי אהובתי</l>
+          <l>אותך אני יודע</l>
+          <l>אותך אני שומע</l>
+          <l>כי את כל עולמי</l>
+          <l>אותך אני יודע</l>
+          <l>אותך אני שומע</l>
+          <l>כי את בתוך דמי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>צחוקך בי רק נוגע</l>
+          <l>אותי שוב משגע</l>
+          <l>מהתל בי בימים ובלילות</l>
+          <l>מתפתל בתוך קסמייך</l>
+          <l>מתפזר בתלתלייך</l>
+          <l>רוקם איתך ים של משאלות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לילה לילה את איתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

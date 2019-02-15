@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלום עירי נוחמה 4</title>
+        <singer classification="male singer">יהורם גאון</singer>
+        <writer>שורקין אלכסנדר דימיטרוביץ'</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלום עירי נוחמה</head>
+        <lg number="1" type="stanza">
+          <l>נשיר ידידי מחר אלי קרב</l>
+          <l>נצא עם ענן מיתמר</l>
+          <l>כולנו נשיר עמנו יחדיו</l>
+          <l>גם ראש הפלוגה יזמר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שלום עירי נוחמה</l>
+          <l>מחר נצא אי שמה</l>
+          <l>מחר לבלי חוק</l>
+          <l>תזהיר בבת צחוק</l>
+          <l>מטפחת כחולה מרחוק.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שוב ערב נעים שוב ערב פלאים</l>
+          <l>זמרו נא אחי עד בלי די</l>
+          <l>על סוד הרעות על כת טנקאים</l>
+          <l>נשירה בצוותא רעי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שלום עירי נוחמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

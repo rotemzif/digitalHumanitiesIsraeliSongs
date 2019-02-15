@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי אתה שתהיה מאושר</title>
+        <singer classification="unknown">הקרקס של דולי</singer>
+        <writer>לירון רפאלי</writer>
+        <composer>דרור דורנבאום</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי אתה שתהיה מאושר</head>
+        <lg number="1" type="stanza">
+          <l>יש דברים שאסור לי להגיד אף פעם</l>
+          <l>יש גברים שאסור לי להכניס בשער</l>
+          <l>את השמש של חודש ניסן לא אהבתי במיוחד</l>
+          <l>את יפי הפנים שנברו לי בזבל,</l>
+          <l>גירשתי מייד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וכמה ימים שבכיתי</l>
+          <l>וכמה לילות בעצמו, </l>
+          <l>הלך התנשק עם אחרת</l>
+          <l>וכל זה בגלל שאמרתי לו לא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רחוק זה היום שלנו עוד יבוא</l>
+          <l>בקרוב יתרחק בשקט אין לי מה לומר</l>
+          <l>מי ידע שתהיה מאושר בשבעה ימים</l>
+          <l>מי ידע שהלילה נגמר שנשים יפות חגות מעלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וכמה ימים שבכיתי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מי אתה שתהיה מאושר?</l>
+          <l>מי ידע שהלילה נגמר שנשים יפות חגות מעלי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

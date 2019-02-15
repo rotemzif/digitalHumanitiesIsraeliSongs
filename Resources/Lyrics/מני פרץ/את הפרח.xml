@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את הפרח 2</title>
+        <singer classification="male singer">מני פרץ</singer>
+        <writer>ג'רבי סרוסי</writer>
+        <composer>ג'רבי סרוסי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את הפרח</head>
+        <lg number="1" type="stanza">
+          <l>מכל הפרחים שבגן</l>
+          <l>ליבלב לו רק פרח קטן</l>
+          <l>מראהו שובה ומקסים</l>
+          <l>עליו הקטנים יפים ורכים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בחופה הזו אני נשבע לך פרח</l>
+          <l>בגופי אגן על נשמתך לנצח</l>
+          <l>בחופה הזו אני נשבע לך פרח</l>
+          <l>את הברית הזו יזכור גם הירח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בחורף הקר אכסה</l>
+          <l>בקיץ אדאג לצילך</l>
+          <l>אשמור אפנק ואגן</l>
+          <l>יפרח בבטנך ניצן מחייך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בחופה הזו אני נשבע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

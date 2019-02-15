@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק שיר אהבה</title>
+        <singer classification="male singer">משה הלל</singer>
+        <writer>אילן גולדהירש</writer>
+        <composer>יגאל כוכבי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק שיר אהבה</head>
+        <lg number="1" type="stanza">
+          <l>אהבה היא עסק בשל, כמו תפוח</l>
+          <l>שרוצים לבלוע את כולו,</l>
+          <l>אהבה היא עסק עצוב, כמו הרוח</l>
+          <l>שבוכה בשקט בלילות.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהבה נתנה לי אותך</l>
+          <l>ועכשיו לקחה לי אותך</l>
+          <l>הייתי כה מאושר, ומה נשאר?</l>
+          <l>רק שיר אהבה, רק שיר אהבה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהבה היא עסק נפלא, כשהיא פורחת</l>
+          <l>שמור עליה, אם אתה יכול,</l>
+          <l>אהבה היא סוף העולם, כשהיא לוקחת</l>
+          <l>היא פשוט לוקחת, את הכל.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהבה נתנה לי אותך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אהבה היא עסק שביר, אני יודע</l>
+          <l>אז מתי אלמד להיזהר?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

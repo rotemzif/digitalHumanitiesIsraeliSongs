@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גבריאל 3</title>
+        <singer classification="band">חמסין</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>אפרים שמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גבריאל</head>
+        <lg number="1" type="stanza">
+          <l>חצי ירח מתכסה בפסלי העננים</l>
+          <l>לפני רגע הייתי שטוף ביגון</l>
+          <l>מסתכל על הירח - הוא עושה לי סימנים</l>
+          <l>אולי הוא יעזור לראות יותר נכון</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואת אומרת לי: </l>
+          <l>היי, תיקח אוויר עמוק במלוא כל הגרון</l>
+          <l>תתנפח עד שהשד יתעלף ויעזוב</l>
+          <l>ואז את צוחקת כי אני נראה כמו בלון</l>
+          <l>וכבר הצחוק הזה עושה לי טוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל פעם מחדש אני נזרק לתוך מדרון</l>
+          <l>כל צעד מאיים עלי באלף נפילות</l>
+          <l>נופל ונופל כמעט נבלע בפי התהום</l>
+          <l>לבד קשה למצוא את הדרך לעלות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואת אומרת לי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בימי מחנק כאלה תמיד, תמיד זו את</l>
+          <l>שמובילה אותי במים סוערים לסירה</l>
+          <l>אז איך את יכולה לומר שזה מעט?</l>
+          <l>הרי הבאת אותי לחיות בחזרה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואת אומרת לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

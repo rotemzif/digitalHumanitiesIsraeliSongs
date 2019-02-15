@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק איתך 4</title>
+        <singer classification="unknown">חי רוקח</singer>
+        <writer>ראובן המלאך</writer>
+        <composer>מני חן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק איתך</head>
+        <lg number="1" type="stanza">
+          <l>אני מביט שוב בעינייך ורואה את העולם,</l>
+          <l>רוצה לנשק שפתייך העולם כזה מושלם,</l>
+          <l>את ויחידה בשבילי את אהבה,</l>
+          <l>לך אומר תמיד תמיד האהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק איתך רוצה לחיות להרגיש פעימות ליבך,</l>
+          <l>רק איתך רוצה להיות לחוש את חום אהבתך,</l>
+          <l>רק איתך רוצה לחיות להרגיש פעימות ליבך,</l>
+          <l>רק איתך רוצה להיות לחוש את חום אהבתך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מבקש רק את ידך התינשאי לי אהובה,</l>
+          <l>נעמוד בפתח לצלילי המנגינה,</l>
+          <l>את השיר אני מקדיש רק לך אהובה,</l>
+          <l>את החיים את האושר בשבילי את אהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק איתך רוצה לחיות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השירים ההם</title>
+        <singer classification="male singer">דודו זכאי</singer>
+        <writer>דודו זכאי</writer>
+        <composer>דודו זכאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השירים ההם</head>
+        <lg number="1" type="stanza">
+          <l>עם השירים האלה טוב לצאת לדרך </l>
+          <l>מהשירים פורצות עולות המנגינות </l>
+          <l>גם בדרכים הארוכות</l>
+          <l>את סימני הדרך שביל אל האהבות </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>השירים ההם מלווים אותנו </l>
+          <l>עם הדמעה והחיוך ותום הנעורים</l>
+          <l>הם ילוו אותנו עד לסוף הדרך </l>
+          <l>איתם נלך ומן הלב אנחנו עוד שרים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גם אהבה גדולה גם מלחמות ידעה </l>
+          <l>זכרונות על אם הדרך פזורים</l>
+          <l>גם עצב יום, שמחות קטנות</l>
+          <l>אנחנו נאסוף לשיר ומנגינות </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי השירים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מאוד יפה היום מאוד יפה הדרך </l>
+          <l>הדרך בה נלך שותקים את ואני </l>
+          <l>הנה קרבים ימים טובים </l>
+          <l>ושוב הם כאן איתנו יחד השירים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי השירים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

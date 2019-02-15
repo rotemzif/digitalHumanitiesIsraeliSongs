@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה לא עשינו</title>
+        <singer classification="unknown">מאיר בן מיכאל</singer>
+        <writer>מאיר בן מיכאל</writer>
+        <composer>מאיר בן מיכאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה לא עשינו</head>
+        <lg number="1" type="stanza">
+          <l>שכרנו ביחד בית קטן</l>
+          <l>שכפלנו מפתח ורצנו לים</l>
+          <l>הדלקנו בערב מאה נרות</l>
+          <l>לא חיברו ת'חשמל אך היו ניצוצות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תנתקי לי בלי תשובה</l>
+          <l>מה לא עשינו? איך לא ניסינו?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הכנתי לך שוקו, רצית למיטה</l>
+          <l>הזמנו גם סרט, וסינית קטנה</l>
+          <l>על הצלחת נותרה לבדה</l>
+          <l>עוגית המזל שלא נפתחה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תנתקי לי בלי תשובה</l>
+          <l>מה לא עשינו? איך לא ניסינו?</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>האם זה הכל</l>
+          <l>הכל בגללי?</l>
+          <l>תראי מה עשינו?</l>
+          <l>איך לא ניסינו?</l>
+          <l>תראי מה עשינו?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

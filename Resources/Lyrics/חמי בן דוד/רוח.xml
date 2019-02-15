@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוח 36</title>
+        <singer classification="unknown">חמי בן דוד</singer>
+        <writer>חמי בן דוד</writer>
+        <composer>חמי בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוח</head>
+        <lg number="1" type="stanza">
+          <l>לילה טוב לשדים</l>
+          <l>לילה טוב לפחדים </l>
+          <l>מהיום שעבר נפרד</l>
+          <l>ואנחנו על ציר של זמן</l>
+          <l>אבודים לא יודעים לאן</l>
+          <l>אין מפה שתראה את השביל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל שביקשתי </l>
+          <l>את הרוח בתוכי</l>
+          <l>אין משמעות לי </l>
+          <l>אם הרוח לא איתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בוקר טוב לחיים</l>
+          <l>בוקר טוב לדרכים</l>
+          <l>משהו מתבהר ונוגע</l>
+          <l>וכבר לא מפחד</l>
+          <l>לדבר באמת</l>
+          <l>להגיד בקול רם אהבה</l>
+          <l>להגיד בקול רם אמונה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל שביקשתי </l>
+          <l>את הרוח בתוכי</l>
+          <l>אין משמעות לי</l>
+          <l>אם הרוח לא איתי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

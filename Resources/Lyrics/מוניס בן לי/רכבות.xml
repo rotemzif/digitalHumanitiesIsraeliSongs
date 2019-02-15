@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רכבות 5</title>
+        <singer classification="unknown">מוניס בן לי</singer>
+        <writer>הילה חיות</writer>
+        <composer>מוניס בן לי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רכבות</head>
+        <lg number="1" type="stanza">
+          <l>את שוב עומדת כאן עם אותו המבט</l>
+          <l>תמיד נדמה שיש לך חוסר שקט בעיניים</l>
+          <l>תמיד הולכת למקום אחר </l>
+          <l>אף פעם לא נשארת</l>
+          <l>כל מה שאת עושה הוא תמיד לבינתיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>האושר רודף אחרייך כבר כמה שנים</l>
+          <l>אולי בגללו את שוכבת ערה בלילות</l>
+          <l>חכי לו רגע הוא עומד להגיע</l>
+          <l>אבל כשאת רצה הוא פשוט לא יכול</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תביטי אלי ממה את פוחדת כל כך</l>
+          <l>רכבות דוהרות בתוכך גם באמצע החושך</l>
+          <l>תני לי להיות איתך רגע אחד אמיתי</l>
+          <l>גם כשעומדים במקום מגיע הבוקר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>האושר רודף אחרייך כבר כמה שנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

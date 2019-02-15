@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוץ 2</title>
+        <singer classification="band">האנשים</singer>
+        <writer>דרור שוסטק</writer>
+        <composer>דרור שוסטק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוץ</head>
+        <lg number="1" type="stanza">
+          <l>היכן הפרח שאת סודו לא אדע</l>
+          <l>היכן הניחוח שריחו לא נגלה</l>
+          <l>היכן הגעגוע שאת קולו לא אשמע</l>
+          <l>היכן היא הרוח שסודה לא נודע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ושום דבר אינו נחוץ</l>
+          <l>אין מה לחפש בחוץ</l>
+          <l>שום דבר אינו נחוץ</l>
+          <l>אני הולך לארץ עוץ</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מביט אל הירח ואל אוריון אני מחייך</l>
+          <l>אנ'לא יודע למה אנ'לא יודע איך</l>
+          <l>אני הולך אני הולך...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ושום דבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

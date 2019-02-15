@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אותה לאהוב</title>
+        <singer classification="unknown">גל גדסי</singer>
+        <writer>גל גדסי</writer>
+        <composer>גל גדסי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אותה לאהוב</head>
+        <lg number="1" type="stanza">
+          <l>תמיד כשהפנתה לך מבט</l>
+          <l>אני הבנתי את הכל אני הבנתי מיד </l>
+          <l>אתה שלחת לה חיוך היא הסמיקה התרגשה</l>
+          <l>אך איך לך לא הייתה הבושה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני ידעתי חבר</l>
+          <l>שעליה לעולם לא אוותר</l>
+          <l>אך לך לא היה אכפת יותר</l>
+          <l>כשאמרתי לך עזוב אז תעזוב</l>
+          <l>אך אתה בחרת אותה לאהוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תמיד כשהלכת אחריה</l>
+          <l>אתה ידעת שלא אוכל בלעדיה</l>
+          <l>לא היית נאמן אפילו לשניה</l>
+          <l>פגעת גם בגדת רק בשביל הבחורה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני ידעתי חבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

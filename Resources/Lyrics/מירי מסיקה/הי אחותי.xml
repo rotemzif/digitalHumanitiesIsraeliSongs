@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הי אחותי</title>
+        <singer classification="female singer">מירי מסיקה</singer>
+        <writer>אריק ברמן</writer>
+        <composer>אריק ברמן</composer>
+        <album>חדשות טובות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הי אחותי</head>
+        <lg number="1" type="stanza">
+          <l>הי אחותי חכי חכי, לאן את ממהרת</l>
+          <l>שבי איתי ותספרי לי מה קורה אצלך</l>
+          <l>מעבודה לעבודה עוד יש לך להספיק</l>
+          <l>מהעבודה אל הילדה שלך עברת דקה דרכי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הי אחותי עצרי תראי ת'נוף בצד הדרך</l>
+          <l>פתחי ת'רדיו תשמעי ת'שיר הזה שלך</l>
+          <l>מהילדה אל הילדה עוד יש לך להספיק</l>
+          <l>מהילדה לבן אדם שלך עברת דקה דרכי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הנה שוב את באה לבקר אותי וכבר בורחת</l>
+          <l>הנה שוב את רצה למקום אחר אבל,</l>
+          <l>שוכחת למה לילה למה יום לאט לך</l>
+          <l>קחי עוד נשימה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בין עבודה לבן-אדם שלך כמעט שכחת</l>
+          <l>לאסוף את הילדה שבך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הנה שוב את באה לבקר אותי וכבר בורחת</l>
+          <l>הנה שוב את רצה למקום אחר אבל,</l>
+          <l>שוכחת למה לילה למה יום לאט לך</l>
+          <l>קחי עוד נשימה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

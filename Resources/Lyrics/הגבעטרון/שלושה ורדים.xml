@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלושה ורדים</title>
+        <singer classification="band">הגבעטרון</singer>
+        <writer>יהודה גור אריה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלושה ורדים</head>
+        <lg number="1" type="stanza">
+          <l>שלושה ורדים באגרטל </l>
+          <l>ציפו ציפו עד בוש</l>
+          <l>לא באת אחד החל נובל </l>
+          <l>עצוב הרכין הראש </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שלושה ורדים באגרטל </l>
+          <l>לך ציפו ולא באת </l>
+          <l>ציפה שני לך וייחל </l>
+          <l>גם הוא ראשו שמט</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שלושה ורדים באגרטל </l>
+          <l>בציפייה כלים </l>
+          <l>שלושה ורדים עודפים בצל </l>
+          <l>עם שחר מוטלים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

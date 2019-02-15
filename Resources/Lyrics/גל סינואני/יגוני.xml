@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יגוני</title>
+        <singer classification="male singer">גל סינואני</singer>
+        <writer>נאור סינואני</writer>
+        <composer>נאור סינואני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יגוני</head>
+        <lg number="1" type="stanza">
+          <l>אני בורח מכאב איתך בליל</l>
+          <l>אני פוחד שכמו חלום את תעלמי</l>
+          <l>אני מחזיק אותך ובתוכך יש יין</l>
+          <l>כן אין כמוך את כלבבי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>והנרות דולקים המנגינה נמשכת</l>
+          <l>היום בורחים מאהבה את ואני</l>
+          <l>עשיתי לך מקום סגרתי את הדלת</l>
+          <l>עכשיו נבכה על יגוני על יגוני</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז למה את הלכת הפעם מאמי</l>
+          <l>ואיך הכל פה מסתבך נשבר לי</l>
+          <l>למה את הלכת כל כך רחוק</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז למה את הלכת הפעם מאמי</l>
+          <l>ואיך הכל פה מסתבך נשבר לי</l>
+          <l>למה את הלכת כל כך רחוק</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני מכיר אותך משהיתי נער</l>
+          <l>זרוקים בחושך מתנשקים מול לבנה</l>
+          <l>עברו האביבים נפתח בינינו פער</l>
+          <l>עכשיו את בטח ישנה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>איך כל דבר בסוף נגמר ללא תוחלת</l>
+          <l>אין משמעות עדיף למות מלספר</l>
+          <l>אני חולם עלייך מה את כבר חולמת</l>
+          <l>היית צריכה להישאר להישאר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

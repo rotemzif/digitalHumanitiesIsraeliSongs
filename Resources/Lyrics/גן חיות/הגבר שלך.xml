@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הגבר שלך</title>
+        <singer classification="band">גן חיות</singer>
+        <writer>שרון מולדבי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הגבר שלך</head>
+        <lg number="1" type="stanza">
+          <l>את, כל כך, קרובה אלי, מבעד לדמעות</l>
+          <l>נוגע בך, חיוך ראשון נפתח</l>
+          <l>את יכולה לראות</l>
+          <l>אין ממה לפחד</l>
+          <l>עברנו כבר את הכי גרוע</l>
+          <l>אין גם מה למהר</l>
+          <l>מכאן יהיה רק טוב יותר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני הגבר שלך, אני הגבר שלך</l>
+          <l>את כבר יודעת, אני כאן איתך</l>
+          <l>אני הגבר שלך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לאט, עוזבות, עיניים עצובות</l>
+          <l>הלב נרגע, כמעט</l>
+          <l>ולא תהיי לבד מעכשיו</l>
+          <l>יש מי שיאהב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אין ממה לפחד</l>
+          <l>עברנו כבר את הכי גרוע</l>
+          <l>אין גם מה למהר</l>
+          <l>מכאן יהיה רק טוב יותר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני הגבר שלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

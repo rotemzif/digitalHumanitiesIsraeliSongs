@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כלוא בגופו</title>
+        <singer classification="male singer">רגב הוד</singer>
+        <writer>פנינה מרגלית</writer>
+        <composer>אביחי מליחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כלוא בגופו</head>
+        <lg number="1" type="stanza">
+          <l>הוא עודו כלוא בתוך גופו מתייסר לו</l>
+          <l>האיש שאיתה דועך לו אט אט</l>
+          <l>היא כמו מלכה בארמונו הייתה סובבת</l>
+          <l>תחייך לעולם לבדה רק תסבול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אנא אלוקים רחם עליו וגם עליה</l>
+          <l>כי בתפילה קנה בקשה אליו לחזור</l>
+          <l>אל האהבה אשר הייתה ולו רגע</l>
+          <l>ובליבה תשמור אותו תנצור אותו תאהב תמיד </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קשה לה לראות בסבלו שפוגע</l>
+          <l>לימים תבקש היא גאולת אלוהים</l>
+          <l>אך יודעת היא שבלעדיו אין לה רע</l>
+          <l>בטעם נמוג לה מה כך אל יהיה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אנא אלוקים רחם עליו וגם עליה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

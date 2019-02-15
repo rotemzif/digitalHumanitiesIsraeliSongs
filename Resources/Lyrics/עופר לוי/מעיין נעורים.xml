@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מעיין נעורים</title>
+        <singer classification="male singer">עופר לוי</singer>
+        <writer>יוש גרנות</writer>
+        <composer>עממי</composer>
+        <album>כוכב שנות ה- 90</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מעיין נעורים</head>
+        <lg number="1" type="stanza">
+          <l>איש זקן אמר לי שיש בהרים בין סלעי בזלת מעיין סתרים </l>
+          <l>השותה ממנו מזלו יאיר לעולם לנצח יישאר צעיר </l>
+          <l>מעיין הנעורים אושרך יאיר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קמתי והלכתי גרתי בהרים לחפש יצאתי את מעיין סתרים </l>
+          <l>חודשים חיפשתי שאלתי בכפרים אבל לא מצאתי כל מעיין סתרים </l>
+          <l>נערה הכרתי נערת רועים ובה התאהבתי שם בין ההרים </l>
+          <l>ורק אז הבנתי זה כל כך בהיר</l>
+          <l>מי שאהבה יש בו לעולם צעיר</l>
+          <l>מי שאהבה יש בו לעולם צעיר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וכשבגרתי עם חלוף הזמן לילדי סיפרתי על המעיין </l>
+          <l>איך זקן גילה לי שיש בהרים בין סלעי בזלת מעיין סתרים </l>
+          <l>איך מצאתי אושר שם, שם בין ההרים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קמתי והלכתי גרתי בהרים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

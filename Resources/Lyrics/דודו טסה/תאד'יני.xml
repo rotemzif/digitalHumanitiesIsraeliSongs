@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תאד יני</title>
+        <singer classification="male singer">דודו טסה</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>דודו טסה והכוויתים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תאד'יני</head>
+        <lg number="1" type="stanza">
+          <l>אתה פוגע בי, </l>
+          <l>אהובי, מדוע זה תכאיב לי?</l>
+          <l>רחקת ממני ולבי נכווה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נותרתי תוהה</l>
+          <l>והשינה מעיניי פרְחה</l>
+          <l>לא שיערתי</l>
+          <l>שאהובי יגמול לי בנטישה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>تآذيني</l>
+          <l>تآذيني, تآذيني, </l>
+          <l>يا ولفي ليش تآذيني</l>
+          <l>فراقك صعب, يا هواي, بالقلب كاويني</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>تمّيت أنا حيران, </l>
+          <l>طول العمر سهران</l>
+          <l>ما ادري بالهجران </l>
+          <l>حبّي تجازيني</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

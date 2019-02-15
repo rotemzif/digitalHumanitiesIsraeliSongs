@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך שאת אוהבת</title>
+        <singer classification="male singer">זיו רובינשטיין</singer>
+        <writer>זיו רובינשטיין</writer>
+        <composer>דייב קלארק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך שאת אוהבת</head>
+        <lg number="1" type="stanza">
+          <l>בסוף את עוד תגידי</l>
+          <l>שאת אוהבת רק אותי</l>
+          <l>בסוף את עוד תגידי</l>
+          <l>שאת רוצה לחיות איתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עד מתי</l>
+          <l>כבר כדאי</l>
+          <l>אז אולי</l>
+          <l>אז אולי את כבר תבואי</l>
+          <l>ותישארי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את לא רוצה לשמוע</l>
+          <l>את לא רוצה לתת לי צ'אנס את רק רוצה ליסוע</l>
+          <l>לראות את העולם עם האנס</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עד מתי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>איך שאת</l>
+          <l>איך שאת בוחרת</l>
+          <l>אין לי שום תנאים</l>
+          <l> כל מה שאת תמיד אומרת</l>
+          <l>רק תישארי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

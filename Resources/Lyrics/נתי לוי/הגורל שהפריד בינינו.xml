@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הגורל שהפריד בינינו</title>
+        <singer classification="male singer">נתי לוי</singer>
+        <writer>נתי לוי</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הגורל שהפריד בינינו</head>
+        <lg number="1" type="stanza">
+          <l>הגורל שחיבק אותנו</l>
+          <l>הוא הגורל שהפריד בינינו </l>
+          <l>ועכשיו אני חצי נשמה </l>
+          <l>חילוקי דעות בינינו</l>
+          <l>אל הסוף לקחו אותנו</l>
+          <l>למחר עצוב ולא נודע </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם את עוד אוהבת אל תלכי מכאן </l>
+          <l>ואם את עוזבת רק תאמרי לאן </l>
+          <l>שאוכל לשמור עלייך נשמה שלי </l>
+          <l>את מה שנשאר לי את כל עולמי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>העתיד שלפנינו מאמין עכשיו בשנינו </l>
+          <l>בואי וניתן לו עוד הזדמנות </l>
+          <l>נחדש את אהבתינו,בואי ונאהב אותנו </l>
+          <l>את תתני ללב שלי למות </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם את עוד אוהבת אל תלכי מכאן </l>
+          <l>ואם את עוזבת רק תאמרי לאן </l>
+          <l>שאוכל לשמור עלייך נשמה שלי </l>
+          <l>את מה שנשאר לי את כל עולמי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יבוא היום</title>
+        <singer classification="DJ">קוקו</singer>
+        <writer>קוקו</writer>
+        <composer>עממי פרסי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יבוא היום</head>
+        <lg number="1" type="stanza">
+          <l>לא יודע מה קורה לי, איך ליבי בוער</l>
+          <l>מהיום שבך פגשתי רק עלייך חולם</l>
+          <l>ומאז תמיד ידעתי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חברות אמרו לי שאתה מסוכן</l>
+          <l>שאתה לא רציני וחבל לי על הזמן</l>
+          <l>לא תוכל ככה סתם לסובב אותי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יבוא לך יום תאהביני באמת</l>
+          <l>תמשיך לחלום לא מחכה לך יותר</l>
+          <l>יבוא עוד יום משחקת בי כעת</l>
+          <l>תמשיך לחלום, ליבי שייך כבר לאחר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מסתובבת ברחוב ולא עושה חשבון</l>
+          <l>ואני כמו משוגע, לעיני איני יכול</l>
+          <l>כבשת אותי ובגדול</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אל תספר לי סיפורים, אני כבר לא ילדה</l>
+          <l>אתה חיי בסרט, או באיזו אגדה</l>
+          <l>לא תוכל ככה סתם לסובב אותי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יבוא לך יום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

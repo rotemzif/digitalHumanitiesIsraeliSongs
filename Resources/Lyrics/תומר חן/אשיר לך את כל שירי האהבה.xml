@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אשיר לך את כל שירי האהבה</title>
+        <singer classification="male singer">תומר חן</singer>
+        <writer>שמואל אלבז</writer>
+        <composer>שמואל אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אשיר לך את כל שירי האהבה</head>
+        <lg number="1" type="stanza">
+          <l>ביום שבו היכרנו מצאנו אהבה </l>
+          <l>איך השתנו חיינו כמו נס הבריאה</l>
+          <l>זה רק פעם בחיים, אהבה לעולמים </l>
+          <l>לך אפרוט בלב, יחדיו נפנים. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא טוב היות האדם בלי אהבה </l>
+          <l>הגיע הזמן שלנו לטובה </l>
+          <l>יש יד מכוונת ואת כה יפה</l>
+          <l>אשים על ראשי כיפה </l>
+          <l>ואקדש אותך מתחת לחופה </l>
+          <l>אשיר לך את כל שירי האהבה. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש בינינו כימיה, זה מה שחשוב </l>
+          <l>המזל ישחק לו הכל כתוב</l>
+          <l>את תהיי לי בשבילי, איתך אחלוק את עולמי </l>
+          <l>אם נפגשנו זה לא סתם, את עוד תראי. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא טוב היות האדם בלי אהבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

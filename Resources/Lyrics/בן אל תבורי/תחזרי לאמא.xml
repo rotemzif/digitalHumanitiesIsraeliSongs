@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תחזרי לאמא</title>
+        <singer classification="unknown">בן אל תבורי</singer>
+        <writer>ברק רוני</writer>
+        <composer>ברק רוני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תחזרי לאמא</head>
+        <lg number="1" type="stanza">
+          <l>כמה שאת משגעת את עוד לא יודעת</l>
+          <l>וכשאת בי נוגעת שוב עובר בי רעד</l>
+          <l>ריקודים עד אור הבוקר מתחשמל ממך כמו שוקר</l>
+          <l>בזכותך נכנס לכושר איפה נעלם האושר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עוזבת חוזרת כמו עלילה בסרט,  בואי ונצעד קדימה </l>
+          <l>או שתחזרי לאמא</l>
+          <l>צועקת שותקת את הכלים שובר, את לא שחקנית בהבימה</l>
+          <l>או שתחזרי לאמא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רציתי שיהיה לך כיף אבל כבר אין בי כוח</l>
+          <l>נתתי מעצמי הכול רק רוצה לברוח</l>
+          <l>אבל האהבה גוברת גם כשאת כזאת חופר</l>
+          <l>באדום את לא עוצרת אולי את לא אוהבת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עוזבת חוזרת כמו עלילה בסרט,  בואי ונצעד קדימה </l>
+          <l>או שתחזרי לאמא</l>
+          <l>צועקת שותקת את הכלים שובר, את לא שחקנית בהבימה</l>
+          <l>או שתחזרי לאמא</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

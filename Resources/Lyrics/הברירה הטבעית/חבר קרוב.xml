@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חבר קרוב</title>
+        <singer classification="band">הברירה הטבעית</singer>
+        <writer>עממי תימני</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חבר קרוב</head>
+        <lg number="1" type="stanza">
+          <l>חבר קרוב לך</l>
+          <l>כמו נפשך בך</l>
+          <l>ואם הוא לא</l>
+          <l>אז בשביל מה כל הטרחה</l>
+          <l>ואם הוא כן, הוא כמו אוצר יקר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בלילות רעים של חורף קר</l>
+          <l>בשעת צרה ובאבק הסערה</l>
+          <l>הוא ינחם אותך, יושיט לך עזרה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

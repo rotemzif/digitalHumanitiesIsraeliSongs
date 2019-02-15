@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הפרא</title>
+        <singer classification="male singer">מאיר בנאי</singer>
+        <writer>מאיר בנאי</writer>
+        <composer>מאיר בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הפרא</head>
+        <lg number="1" type="stanza">
+          <l>היא קראה לו הפרא</l>
+          <l>כי ידעה שיילך יום אחד</l>
+          <l>כשהאש שוב תבער בו</l>
+          <l>הוא יברח יעלם לה לעד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היא שמעה את הבכי</l>
+          <l>כשהקיף את עצמו בחומות</l>
+          <l>אל תלך היא קראה לו</l>
+          <l>ונשקה את עיניו התועות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לילה עוד יום</l>
+          <l>הוא כבר לא ישתנה</l>
+          <l>פנימה הו פנימה</l>
+          <l>יש בו לו ילד בוכה שבוכה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הם קראו לו הפרא</l>
+          <l>כשהיה משתולל כמו מבול</l>
+          <l>ומכה וצורח</l>
+          <l>הוא לעולם לא ידע את הגבול</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הוא יישב בבית סוהר</l>
+          <l>או ימות באחת התיגרות</l>
+          <l>הם כולם איחלו לו</l>
+          <l>שילך ויאבד בשדות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לילה עוד יום...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>הוא ידע שהוא פרא</l>
+          <l>הוא פחד מהאש בגופו</l>
+          <l>כי ידע יום יגיע</l>
+          <l>והאש היא תשרוף גם אותו</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>לילה עוד יום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

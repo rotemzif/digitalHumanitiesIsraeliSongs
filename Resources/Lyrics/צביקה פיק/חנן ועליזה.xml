@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חנן ועליזה</title>
+        <singer classification="male singer">צביקה פיק</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חנן ועליזה</head>
+        <lg number="1" type="stanza">
+          <l>עליזה וחנן יצאו יחדיו אל השדה</l>
+          <l>חנן הוא הרועה הטוב עליזה היא השה</l>
+          <l>עליזה על הרים דילגה ולבבה הומה</l>
+          <l>חנן חילל ברוך והיא ענתה לו מה מה מה מה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>על שפת הנחל הכחול כרעו שניהם לשתות</l>
+          <l>חנן לגם מלוא הכף עליזה שתי טיפות</l>
+          <l>בין קני הסוף עצמו את עינהם העייפות</l>
+          <l>השמש והרוח את פניהם היו לוטפות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זה קרה מזמן מזמן</l>
+          <l>לעליזה וחנן</l>
+          <l>כשהיו עוד צעירים</l>
+          <l>והאמינו בשירים...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בעשב האפל נעורו והלילה קר</l>
+          <l>הלבנה ישבה דוממת על פסגת ההר</l>
+          <l>חנן קרא: "עליזה", וענה לו קול מוכר</l>
+          <l>כוכב נשר וכל מה שאסור היה מותר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זה קרה מזמן מזמן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

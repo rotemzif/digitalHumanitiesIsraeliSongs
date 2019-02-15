@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קצת שלום</title>
+        <singer classification="unknown">גיל בקנשטיין</singer>
+        <writer>גיל בקנשטיין</writer>
+        <composer>גיל בקנשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קצת שלום</head>
+        <lg number="1" type="stanza">
+          <l>שתים עשרה בלילה, ואני</l>
+          <l>לא מוצא בינתיים, את עצמי</l>
+          <l>המצב הזה, זה לא בשבילי</l>
+          <l>שוב בחירות בפתח, אלוהים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק רוצה קצת שלום</l>
+          <l>שגראד, קאסם, פצצות יעופו</l>
+          <l>אולי בחלום</l>
+          <l>רק רוצה קצת שלום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אנשים, חושבים גם כמוני</l>
+          <l>מה רוצים הם בכלל</l>
+          <l>קצת שלווה, בריאות וגם כסף</l>
+          <l>ואולי זה בגלל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז אני מבקש,לעצור בינתיים, את האש</l>
+        </lg>
+        <lg number="5" type="stanza" />
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רק רוצה קצת שלום</l>
+          <l>שגראד, קאסם, פצצות יעופו</l>
+          <l>אולי בחלום</l>
+          <l>רק רוצה קצת שלום</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

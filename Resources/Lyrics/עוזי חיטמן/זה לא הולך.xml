@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה לא הולך</title>
+        <singer classification="male singer">עוזי חיטמן</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>עוזי חיטמן</composer>
+        <album>עכשיו התור לאהבה - חלק ב'</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה לא הולך</head>
+        <lg number="1" type="stanza">
+          <l>את רוצה שאראה את העולם,</l>
+          <l>דרך העיניים שלך,</l>
+          <l>זה לא הולך, </l>
+          <l>זה לא הולך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את רוצה שאבלע את החיים,</l>
+          <l>דרך הטעם שלך - </l>
+          <l>זה לא הולך,</l>
+          <l>זה לא הולך.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בואי לא נריב,</l>
+          <l>בואי לא נבעט,</l>
+          <l>אני אהיה אני,</l>
+          <l>ואת כמו שאת.</l>
+          <l>בואי ונלך </l>
+          <l>עם מה שכבר נולד,</l>
+          <l>כי יש מקום לשני עולמות,</l>
+          <l>בתוך עולם אחד.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את רוצה שאשא את הכאב </l>
+          <l>דרך הצער שלך - </l>
+          <l>זה לא הולך,</l>
+          <l>זה לא הולך.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את רוצה שאקח הכל ללב,</l>
+          <l>את מה שהוא שלך - </l>
+          <l>זה לא הולך,</l>
+          <l>זה לא הולך.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בואי לא נריב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

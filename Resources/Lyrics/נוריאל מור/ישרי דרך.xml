@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ישרי דרך</title>
+        <singer classification="unknown">נוריאל מור</singer>
+        <writer>נוריאל מור</writer>
+        <composer>נוריאל מור</composer>
+        <album>לילה טוב חיים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ישרי דרך</head>
+        <lg number="1" type="stanza">
+          <l>ישרי דרך</l>
+          <l>עיניהם כבדות</l>
+          <l>ערלי לב</l>
+          <l>בתולי צרות.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נר אלי</l>
+          <l>גווע בלבי</l>
+          <l>עולל נטשתני</l>
+          <l>במאורה לקוית אור.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כעת זקנתי</l>
+          <l>אך אובד נותרתי</l>
+          <l>אם מאמין אתה</l>
+          <l>אז איך כזאת עשית.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מפיך אין תשובה</l>
+          <l>אין אין תשובה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

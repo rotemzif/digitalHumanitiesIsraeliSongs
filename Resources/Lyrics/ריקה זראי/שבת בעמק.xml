@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שבת בעמק</title>
+        <singer classification="female singer">ריקה זראי</singer>
+        <writer>איתן פרץ</writer>
+        <composer>נחצ'ה היימן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שבת בעמק</head>
+        <lg number="1" type="stanza">
+          <l>רוח של ערבית גולשת מן ההר,</l>
+          <l>ועל העמק נטו הצללים.</l>
+          <l>בבגדים צחורים הטף על מדרכה</l>
+          <l>ומה יפו פי שבע השבילים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שבת שלום, שבת שלום</l>
+          <l>שבת שלום ומבורך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בחורשה עצים יניעו צמרות,</l>
+          <l>ואת הערב יחבקו בלאט.</l>
+          <l>והעדרים אשר במדרונות,</l>
+          <l>בצליל ענבל יקבילו פני שבת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שבת שלום, שבת שלום</l>
+          <l>שבת שלום ומבורך.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מן החלונות אורה ושיר בוקעים,</l>
+          <l>וברקיע שוב כוכב ניצת.</l>
+          <l>על השולחנות כבר יין בגביעים,</l>
+          <l>ובכל פה מזמור לבוא שבת.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שבת שלום, שבת שלום</l>
+          <l>שבת שלום ומבורך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

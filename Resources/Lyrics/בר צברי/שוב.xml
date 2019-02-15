@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שוב 32</title>
+        <singer classification="unknown">בר צברי</singer>
+        <writer>בר צברי</writer>
+        <composer>בר צברי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שוב</head>
+        <lg number="1" type="stanza">
+          <l>שוב נופל אל תהום המחשבות </l>
+          <l>שמכות בי כשאלייך אני שר </l>
+          <l>שוב מתכנס בתוך ים של תהיות </l>
+          <l>העתיד,העבר ומה עכשיו </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רק כשאתה נזרק בין ייאוש לתקווה </l>
+          <l>ברגע נופלת חליפת הגאווה </l>
+          <l>פתאום מחפש רק מחסה זועק לשמיים </l>
+          <l>אותך מולי הוזה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שוב נאבק בדמיון הפרוע </l>
+          <l>לרגע חוזרת וברגע עוזבת </l>
+          <l>שוב לי תופר את הלב הקרוע </l>
+          <l>וחוזר לתלם המוכר הידוע </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק שאתה נזרק בין...... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מנסה להמשיך ונתקל במעצור </l>
+          <l>מבין שמכאן אין דרך חזור </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רק שאתה נזרק בין...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

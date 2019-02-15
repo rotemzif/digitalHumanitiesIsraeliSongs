@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה קורה לך 2</title>
+        <singer classification="unknown">רמי פז</singer>
+        <writer>ישי ויסמן</writer>
+        <composer>עממי יווני</composer>
+        <album>המלאך השומר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה קורה לך</head>
+        <lg number="1" type="stanza">
+          <l>בואי ביחד נספור עד שלוש</l>
+          <l>ואז אני אסובב לך ת'ראש</l>
+          <l>מה שקורה לי את לא מבינה</l>
+          <l>כמה קשה להסתיר אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה קורה לך? מה עובר בך?</l>
+          <l>זר פרחים אני שולח</l>
+          <l>מחכה לך ונותן לך, את הנשמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מותק תגידי שבא לך עלי</l>
+          <l>ואל תגידי שזה לא כדאי</l>
+          <l>יש בי הרבה רגשות ותשוקה</l>
+          <l>זה מתגבר כמו אש להבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה קורה לך? מה עובר בך?</l>
+          <l>זר פרחים אני שולח</l>
+          <l>מחכה לך ונותן לך, את הנשמה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

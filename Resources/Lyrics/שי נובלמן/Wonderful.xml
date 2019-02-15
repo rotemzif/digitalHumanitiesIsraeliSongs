@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Wonderful</title>
+        <singer classification="male singer">שי נובלמן</singer>
+        <writer>שי נובלמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Wonderful</head>
+        <lg number="1" type="stanza">
+          <l>Wonderful, children smiling around the world </l>
+          <l>Holding hand in hand, together </l>
+          <l>Everywhere, roses dancing everywhere, secrets in the garden, the garden </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>We need a place to wonder, there isn’t a place to stay </l>
+          <l>Running around ourselves till the end </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Little child, hold you’re crying, little tears </l>
+          <l>Rolling down your eyes, your eyes </l>
+          <l>little child, you’ll grow up and understand, life is not so easy, believe me </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>We need a place to wonder, there isn’t a place to stay </l>
+          <l>Running around ourselves till the end</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

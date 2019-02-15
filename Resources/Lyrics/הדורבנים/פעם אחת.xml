@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פעם אחת 2</title>
+        <singer classification="band">הדורבנים</singer>
+        <writer>גיא מזיג</writer>
+        <composer>גיא מזיג</composer>
+        <album>לוי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פעם אחת</head>
+        <lg number="1" type="stanza">
+          <l>בבוקר כמה נעים להתעורר אל העיתון</l>
+          <l>איך התרחקתי מכל החלומות מהתיכון, רוצה לישון</l>
+          <l>מוצא קפה ומביט באנשים המתחלפים</l>
+          <l>תמיד קשה מאוד להבין אחרי מה הם רודפים, רדופים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שלח לי את המושיע שבשחור יופיע</l>
+          <l>אם הוא מתעכב בינתיים אז אולי ארוחה ויין</l>
+          <l>פעם אחת תספיק לי לעוד הרבה ימים איומים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בצהריים השאלות הופכות לקיר בטון</l>
+          <l>בתוך הראש זעקות רמות גוברות עולות בטון, הכל נכון</l>
+          <l>צולל אל תוך השינה בורח מהתהיות, שוטף עיניי בדמעות</l>
+          <l>לא החלטתי עת ערב אם להיות או לא להיות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שלח לי את המושיע...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לילה והכוכבים נקשרים באור</l>
+          <l>ולכל האוהבים יש כל לילה סיבה לחזור להימלט מן הקור</l>
+          <l>לילה ובאפלולית אני עומד שיכור</l>
+          <l>מחכה לחללית שתיקח אותי אלף שנות אור, אני לא רוצה לעצור</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

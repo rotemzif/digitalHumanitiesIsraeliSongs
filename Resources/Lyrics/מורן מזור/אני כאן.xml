@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני כאן 3</title>
+        <singer classification="unknown">מורן מזור</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני כאן</head>
+        <lg number="1" type="stanza">
+          <l>בין מציאות לאשליה</l>
+          <l>חולפים ימים של ציפייה</l>
+          <l>ללא ידוע</l>
+          <l>אותך ראיתי בחלום</l>
+          <l>קורא אלי מכל מקום</l>
+          <l>כמו געגוע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תמיד לכל אדם חולם</l>
+          <l>יש צעקה והיא שותקת</l>
+          <l>אני יוצאת מתוך השקט</l>
+          <l>כדי לאמר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני כאן</l>
+          <l>אתה קראת לי אליך</l>
+          <l>אני כאן</l>
+          <l>וזה קשה לי לעצור את הדמעה</l>
+          <l>אם תביט לתוך עיני</l>
+          <l>תראה טיפות קטנות של אושר</l>
+          <l>קראת לי, באתי, אני כאן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בלב עוברת סערה</l>
+          <l>עוד פעימה היא מחסירה</l>
+          <l>ונעלמת</l>
+          <l>תפילות על רוח נישאות</l>
+          <l>אתה היית שם לראות</l>
+          <l>אותי חולמת</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תמיד לכל אדם חולם</l>
+          <l>יש צעקה והיא שותקת</l>
+          <l>אני יוצאת מתוך השקט</l>
+          <l>כדי לאמר</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אני כאן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קח הכל באהבה</title>
+        <singer classification="male singer">חיים ישראל</singer>
+        <writer>דורית מוגרבי</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קח הכל באהבה</head>
+        <lg number="1" type="stanza">
+          <l>האמונה חובקת </l>
+          <l>אותך היא מחזקת </l>
+          <l>מאירה לך סוללת את הדרכים </l>
+          <l>השמחה סוחפת </l>
+          <l>בכאב לוחמת </l>
+          <l>את הכעס היא עודפת למרחקים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קח הכל באהבה </l>
+          <l>החיים הם מתנה </l>
+          <l>זו הדרך שם האושר </l>
+          <l>לימים יפים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הנשמה קורנת </l>
+          <l>ובטוב עוסקת </l>
+          <l>את הדוף היא מטהרת ממעשים </l>
+          <l>המצווה שומרת </l>
+          <l>אותך היא מעדנת </l>
+          <l>לא ניתן ללב לשגת לעולמים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קח הכל באהבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

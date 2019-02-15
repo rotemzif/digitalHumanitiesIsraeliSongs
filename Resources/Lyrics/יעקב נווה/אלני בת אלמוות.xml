@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלני בת אלמוות</title>
+        <singer classification="male singer">יעקב נווה</singer>
+        <writer>דודו ברק</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלני בת אלמוות</head>
+        <lg number="1" type="stanza">
+          <l>מן הים הנה עולה עמוד השחר,</l>
+          <l>ספינה רוגעת שם באופק, מול התל,</l>
+          <l>קרן שמש אדמונית עלינו נחה,</l>
+          <l>את ואני על חוף רחוק מכל נמל.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלני בת אלמוות,</l>
+          <l>את יפה מרבבה,</l>
+          <l>הו מוזה נהדרת,</l>
+          <l>אלת האהבה.</l>
+          <l>אלני בת אלמוות,</l>
+          <l>אהובה שלי נאווה,</l>
+          <l>הו אלילת היופי,</l>
+          <l>חכי, אני כבר בא.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ממזרח הנה עולה גלגל הסהר,</l>
+          <l>ספינה הרחיקה מיותמת, עזובה.</l>
+          <l>בליבי את לעולם, בטוב וצער,</l>
+          <l>אלני, אלתי, אלת האהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלני בת אלמוות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

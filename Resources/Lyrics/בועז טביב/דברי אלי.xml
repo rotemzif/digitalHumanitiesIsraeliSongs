@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דברי אלי 2</title>
+        <singer classification="male singer">בועז טביב</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דברי אלי</head>
+        <lg number="1" type="stanza">
+          <l>אם פגעתי בך בלי כוונה עיצרי מלכת</l>
+          <l>זו היתה ודאי אי הבנה שמסתבכת</l>
+          <l>אם את רוצה לגעת באמת ראשך הניחי</l>
+          <l>אם את רוצה לדעת כבר כעת ליבך הסיחי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>דברי אלי, דברי אלי</l>
+          <l>על כל מה שבינינו הביטי בעיני</l>
+          <l>דברי אלי, דברי אלי</l>
+          <l>עוד יש סיכוי לשנינו הביטי בעיני</l>
+          <l>דברי אלי, דברי אלי, דברי אלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש מילים מתוך הנשמה כמו מבטייך</l>
+          <l>למילים יש צליל של נחמה מתוך שפתייך</l>
+          <l>אם את רוצה לגעת באמת ראשך הניחי</l>
+          <l>אם את רוצה לדעת כבר כעת ליבך הסיחי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>דברי אלי, דברי אלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

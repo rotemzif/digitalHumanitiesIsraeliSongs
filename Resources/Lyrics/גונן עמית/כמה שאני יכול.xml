@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה שאני יכול</title>
+        <singer classification="unknown">גונן עמית</singer>
+        <writer>אסף טל</writer>
+        <composer>גונן עמית</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה שאני יכול</head>
+        <lg number="1" type="stanza">
+          <l>עוד מעט חמש, ערב מתקרב </l>
+          <l>לא הספקתי עוד לומר הכל </l>
+          <l>מה שאבקש ממך אני לומד </l>
+          <l>לקחת כמה שאני יכול </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עוד מעט נלך למרחקים שונים </l>
+          <l>לא הספקתי לנשק הכל </l>
+          <l>הפסקתי לחייך אנחנו משתנים </l>
+          <l>נישקתי כמה שאני יכול </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בטח את תגיעי למקומות יפים </l>
+          <l>תעשי לך ילד לאהוב ללא תנאים </l>
+          <l>בטח את תגעי בי רק במכתבים </l>
+          <l>לפעמים כשתזכרי היו לנו ימים טובים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוד מעט לישון ומייד לחלום </l>
+          <l>אם רק אפשר היה לחלום יחדיו </l>
+          <l>מהחלום שלך הייתי בא לטעום </l>
+          <l>את חולמת גשם ואני נרטב </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בטח את תגיעי למקומות יפים... </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>עוד מעט חמש, ערב מתקרב.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

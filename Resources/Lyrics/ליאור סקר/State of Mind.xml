@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>State of Mind</title>
+        <singer classification="male singer">ליאור סקר</singer>
+        <writer>ליאור סקר</writer>
+        <composer>ליאור סקר</composer>
+        <album>Ordinary Life</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>State of Mind</head>
+        <lg number="1" type="stanza">
+          <l>Sitting on a branch , Playing my guitar </l>
+          <l>And time just barely just barely goes by </l>
+          <l>Over me birds fly </l>
+          <l>Awaken from the sound </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>I try (Try to get out of) </l>
+          <l>This state of mind (To feel like I'm alive) </l>
+          <l>Be here and now </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Resting in a field I tell myself again - "Do this more often" </l>
+          <l>Time is slowing down </l>
+          <l>feel like I can hold </l>
+          <l>Hold it in my palm</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

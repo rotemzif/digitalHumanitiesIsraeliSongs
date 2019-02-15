@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אף אחד לא מושלם</title>
+        <singer classification="unknown">ניבין</singer>
+        <writer>מרטין גל</writer>
+        <composer>מרטין גל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אף אחד לא מושלם</head>
+        <lg number="1" type="stanza">
+          <l>אתה אומר לי שאני</l>
+          <l>לפעמים קצת ילדותית</l>
+          <l>אתה מעיר לי בלי חשבון</l>
+          <l>יש לך תמיד מה להגיד</l>
+          <l>אף אחד לא מושלם דבר כזה לא קיים</l>
+          <l>קח אותי כמו שאני כך עושים שאוהבים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כן אני רק בת אדם יש בי גם חסרונות</l>
+          <l>לא אתה לא כזה מושלם תשלים אם זה מה לעשות</l>
+          <l>כן אני רק בת אדם יש בי גם חסרונות</l>
+          <l>לא אתה לא כזה מושלם תשלים אם זה מה לעשות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש ימים אתה טועה</l>
+          <l>ולא תמיד אתה צודק</l>
+          <l>מקשקש לי כשלא צריך</l>
+          <l>וכשצריך אתה שותק</l>
+          <l>כמו תינוק מתנהג בפינוק נוהג</l>
+          <l>אוהבת כמו שאתה ככה זה באהבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כן אני רק בת אדם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

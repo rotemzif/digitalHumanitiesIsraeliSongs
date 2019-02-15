@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דרך ארוכה 3</title>
+        <singer classification="male singer">יזהר אשדות</singer>
+        <writer>יזהר אשדות</writer>
+        <composer>יזהר אשדות</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דרך ארוכה</head>
+        <lg number="1" type="stanza">
+          <l>אתמול עבר עוד יום</l>
+          <l>שלא השאיר מנוח</l>
+          <l>אין לצפות לשום שיפור</l>
+          <l>ואין מאיפה לקחת עוד כח</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הלילה שוב סוגר עלי</l>
+          <l>ממחיש את הבדידות</l>
+          <l>אני זקוק לאור בקצה החושך</l>
+          <l>ודרך ארוכה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד יום עובר עליך</l>
+          <l>עוד יום עובר עלי</l>
+          <l>ואין לי כח לשנות</l>
+          <l>ואין לי שכל לשכוח את הכל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הלילה שוב סוגר עלי</l>
+          <l>ממחיש את הבדידות</l>
+          <l>אני כמה לשמש מסנוורת</l>
+          <l>ודרך ארוכה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני זקוק לאור בקצה החושך ודרך ארוכה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הלילה שוב סוגר עלי</l>
+          <l>ממחיש את הבדידות</l>
+          <l>אני כמה לשמש מסנוורת</l>
+          <l>ודרך ארוכה</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>עוד יום עובר עליך</l>
+          <l>עוד יום עובר עלי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

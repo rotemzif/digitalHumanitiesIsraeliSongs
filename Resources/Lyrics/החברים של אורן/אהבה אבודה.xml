@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה אבודה</title>
+        <singer classification="unknown">החברים של אורן</singer>
+        <writer>אורן הופמן</writer>
+        <composer>אורן הופמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה אבודה</head>
+        <lg number="1" type="stanza">
+          <l>אביבים חלפו נמוגו </l>
+          <l>אך השלג לא הפשיר </l>
+          <l>בראש צבא אדיר יצאת </l>
+          <l>אל גורל בלתי נודע. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הו הו אהוב יקר </l>
+          <l>אשר יצא לו אל הקרב </l>
+          <l>סיפור גדול עוד יסופר </l>
+          <l>על איש אשר אותי אהב. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בדמיוני חזרת אמש </l>
+          <l>אל חיי אשר אבדו. </l>
+          <l>יחדיו נפליג אל המרחק </l>
+          <l>נשוט אל ארץ התקוות. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הו הו אהוב יקר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוא נתחתן שוב</title>
+        <singer classification="unknown">יעל נחשון</singer>
+        <writer>יעל נחשון</writer>
+        <composer>מאיה בלזיצמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוא נתחתן שוב</head>
+        <lg number="1" type="stanza">
+          <l>הדרכים הצדדיות</l>
+          <l>דרך הבתים</l>
+          <l>דרך הר כביסה</l>
+          <l>בוא נתחתן שוב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>סיגריה אחת ביום</l>
+          <l>והבניין ממול</l>
+          <l>היד שלי, הכתף שלך</l>
+          <l>בוא נתחתן שוב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בארץ אחרת</l>
+          <l>מישהו נפל</l>
+          <l>באמצע היום</l>
+          <l>אני נזכרת</l>
+          <l>לא היה מי שיתפוס</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש חיים בצהריים</l>
+          <l>בערב זה הספה</l>
+          <l>פעם היינו</l>
+          <l>רק אני ואתה</l>
+          <l>בוא נתחתן שוב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בארץ אחרת</l>
+          <l>מישהו נפל</l>
+          <l>באמצע היום</l>
+          <l>אני נזכרת</l>
+          <l>לא היה מי שיתפוס</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

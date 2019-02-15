@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלאכים נופלים</title>
+        <singer classification="male singer">חמי רודנר</singer>
+        <writer>חמי רודנר</writer>
+        <composer>חמי רודנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלאכים נופלים</head>
+        <lg number="1" type="stanza">
+          <l>העיר מתכרבלת לה באפלה</l>
+          <l>כמו דרקון עייף כמו סימן שאלה</l>
+          <l>הנה באו ימים, ימים אפורים</l>
+          <l>נבקש על נפשנו בימים אפורים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>צא למרפסת השקף אל הרחוב</l>
+          <l>אורות צהבהבים כמו מאוב</l>
+          <l>אלו הם חייך, אורות וצללים</l>
+          <l>נבקש על נפשנו בימים אפורים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני מנגן שירים ישנים</l>
+          <l>סנטימנטלים תמיד הם חוזרים</l>
+          <l>שום דבר לא ישאר לעולם</l>
+          <l>ואנחנו מלאכים נופלים</l>
+          <l>כמו כולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני מתגעגע ולא יודע למה</l>
+          <l>אולי לשדות, לריחות האדמה</l>
+          <l>בוא אלי זכרון, בואי אלי אהבה</l>
+          <l>הביאו לי חסד, הביאו לי נחמה...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני מנגן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

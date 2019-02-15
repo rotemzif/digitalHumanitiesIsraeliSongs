@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד אליך</title>
+        <singer classification="female singer">חני דינור</singer>
+        <writer>דורית בק הלוי</writer>
+        <composer>רמי הראל</composer>
+        <album>עד מתי...</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד אליך</head>
+        <lg number="1" type="stanza">
+          <l>מקלף אותי במבטך - שוב עומדת חשופה מולך</l>
+          <l>רוצה לגעת עד הלב, לדעת עד כאב</l>
+          <l>מתקרבת עד הגבול שלך, משילה שרידים של מסיכה</l>
+          <l>ולא עוצרת כשכואב - תמיד רוצה יותר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עד אליך, עד העצב ישכח בין מילותי</l>
+          <l>עד יפלו חומות אימה מעיניך</l>
+          <l>עד אליך, עד ינוחו הגלים על חוף לבך</l>
+          <l>יכסו אותי עלי שלכת- שלכת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מחפשת דרך ללבך ונופלת לתהום זרה</l>
+          <l>ושם בחושך אל תפחד- אני רואה אותך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עד אליך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני הרוח בגבך, אני הקול שבלבך - צועק לך</l>
+          <l>אשמע אותך בשתיקתך, בעצב בדידותך, ארקום אותך אלי</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מושיטה ידיי בחשיכה- עוד אמת נחשפת עירומה</l>
+          <l>לאט שוקעת בצילך- עד שתהיה שלי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

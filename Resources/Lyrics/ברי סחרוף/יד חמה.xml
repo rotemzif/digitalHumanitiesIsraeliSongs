@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יד חמה</title>
+        <singer classification="male singer">ברי סחרוף</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>מעליי דממה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יד חמה</head>
+        <lg number="1" type="stanza">
+          <l>יד חמה בי נוגעת</l>
+          <l>חום גופי עולה לפתע</l>
+          <l>בראותי אותך מול עיניי</l>
+          <l>שב אלי העבר</l>
+          <l>יד חמה נחמה לי</l>
+          <l>רק הלב מפנים פנימה</l>
+          <l>את ימי התום שחלפו</l>
+          <l>בליבי תמיד אשמור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הזמנים שחלפו לא ישובו בחיינו</l>
+          <l>את היום אישה יפה מי הגבר שבך זכה</l>
+          <l>אני שמעולם לא אהבתי עוד אישה</l>
+          <l>אני הוא האדם שלך תמיד חיכה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בילדות אנו אהבנו</l>
+          <l>נשיקה לתת פחדנו</l>
+          <l>יד קטנה שלחתי לגופך</l>
+          <l>כל גופי ידע כאב</l>
+          <l>אותך אני תמיד אהבתי</l>
+          <l>מעולם לא שכחתי</l>
+          <l>גם היום אחרי שנים רבות</l>
+          <l>שמך עולה לי בחלום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הזמנים שחלפו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

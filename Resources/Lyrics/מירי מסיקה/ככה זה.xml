@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ככה זה 9</title>
+        <singer classification="female singer">מירי מסיקה</singer>
+        <writer>ברי סחרוף</writer>
+        <composer>ברי סחרוף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ככה זה</head>
+        <lg number="1" type="stanza">
+          <l>אל תחפש רחוק</l>
+          <l>תישאר קרוב</l>
+          <l>כי ככה זה</l>
+          <l>לאהוב את עצמך</l>
+          <l>לא מול המראה</l>
+          <l>תיכנס לתוך</l>
+          <l>כן זה יכול</l>
+          <l>להאיר אותך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תסתכל לה בעיניים</l>
+          <l>תישך את השפתיים</l>
+          <l>עד שזה יכאב לך קצת</l>
+          <l>בתוך תוכך היא מחכה</l>
+          <l>שתקפוץ לתוך המים</l>
+          <l>ותפתח את העיניים</l>
+          <l>עד שזה ישרוף לך קצת</l>
+          <l>בתוך תוכך תדע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בוא, בוא ותעזור</l>
+          <l>לשפוך טיפה של אור</l>
+          <l>לתוך החור</l>
+          <l>החשוך הזה</l>
+          <l>רק אל, אל תיסע רחוק</l>
+          <l>לא אל תעזוב</l>
+          <l>כי ככה זה לאהוב אותך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תסתכל לה בעיניים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

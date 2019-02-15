@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נגועה</title>
+        <singer classification="female singer">רוני אלטר</singer>
+        <writer>עלי מוהר</writer>
+        <composer>נפתלי אלטר</composer>
+        <album>כיס אוויר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נגועה</head>
+        <lg number="1" type="stanza">
+          <l>זה הולם בי כל היום   </l>
+          <l>כל היום הולם </l>
+          <l>זה פועם כל היום, כל הליל </l>
+          <l>והלב דוהר בלי לדעת את הדרך </l>
+          <l>כמו פרפר עיוור שנמשך אל תוך האש   </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זה מכה בי כל היום </l>
+          <l>כל היום מכה </l>
+          <l>זה צועק פתאום וצוחק ובוכה </l>
+          <l>זה חולף בגוף כמו חשמל חולף בחושך </l>
+          <l>זה רוצה לעוף, מתפוצץ בתוך הלב   </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אתה נוגע בי - אני כבר נגועה </l>
+          <l>אתה שומע בי כל רחש כל שמועה </l>
+          <l>אתה עובר בי בכל עצב, בכל תא </l>
+          <l>אתה קרוב, אתה אני, אני אתה   </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זה בוער בי כל היום </l>
+          <l>כל היום בוער </l>
+          <l>זה פועם כל היום כל הליל </l>
+          <l>כי הלב דוהר בלי לדעת את הדרך </l>
+          <l>כי הלב פרפר שנמשך אל תוך הלב   </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אתה נוגע בי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילד בוא הביתה</title>
+        <singer classification="unknown">רוני תורג מן</singer>
+        <writer>יעקב גלעד</writer>
+        <composer>רוני תורג'מן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילד בוא הביתה</head>
+        <lg number="1" type="stanza">
+          <l>בחצר של בית הספר</l>
+          <l>על הגבעה</l>
+          <l>חורשת עצי האורן</l>
+          <l>כאילו קפאה</l>
+          <l>ומעל מגדל המים</l>
+          <l>לעת ערבים</l>
+          <l>משתנים הגוונים</l>
+          <l>באותה השעה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמו תמיד בארבע</l>
+          <l>אמא מחכה</l>
+          <l>ילד בוא עם אבא</l>
+          <l>השמש מעלינו</l>
+          <l>עוד מעט שוקעת</l>
+          <l>בוא נחזור הביתה</l>
+          <l>אמא מחכה לך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בחצר של בית הספר</l>
+          <l>פעם מזמן</l>
+          <l>על גזע אזדרכת</l>
+          <l>הייתי נשען</l>
+          <l>ועכשיו אני בורח</l>
+          <l>כלום לא צומח</l>
+          <l>רק דחליל עוד מבהיל</l>
+          <l>מי שבא לכאן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמו תמיד בארבע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

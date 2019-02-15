@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תמיד ידעתי</title>
+        <singer classification="male singer">משה פרץ</singer>
+        <writer>משה פרץ</writer>
+        <composer>משה פרץ</composer>
+        <album>מהשמיים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תמיד ידעתי</head>
+        <lg number="1" type="stanza">
+          <l>אני חולם אותך איתי </l>
+          <l>מעלה בי את אותם הזכרונות המתוקים </l>
+          <l>אני שומע את קולך צוחק </l>
+          <l>עכשיו אם תבקשי אוכל </l>
+          <l>לתת לך את הלב ואת הנשמה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איתך תמיד ידעתי שזה מהלב </l>
+          <l>כי להיות רחוק ממך זה יותר כואב </l>
+          <l>את לי מתנת שמיים וכל העולם </l>
+          <l>ולאחוז בשתי ידייך שיהיה מושלם </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני רוצה שתחבקי </l>
+          <l>ותאהבי רק כמו שאת יודעת </l>
+          <l>בואי תנסי ונחזור אל הימים</l>
+          <l>הכי יפים שבליבי </l>
+          <l>ואז נדע שיש תקווה לאהבה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איתך תמיד ידעתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

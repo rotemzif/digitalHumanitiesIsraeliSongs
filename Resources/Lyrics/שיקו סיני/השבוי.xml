@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השבוי</title>
+        <singer classification="unknown">שיקו סיני</singer>
+        <writer>שיקו סיני</writer>
+        <composer>שיקו סיני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השבוי</head>
+        <lg number="1" type="stanza">
+          <l>לאן נושבת הרוח ?</l>
+          <l>את מושכת בכתפך,</l>
+          <l>ואני לא כאן,</l>
+          <l>אני שבוי בתוך יופייך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כשאת חוזרת הביתה,</l>
+          <l>הולכת לישון מאוחר.</l>
+          <l>את נרדמת כמו שלכת,</l>
+          <l>כמו נהר...</l>
+          <l>אצלי עוד יום עבר.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עוד יום...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשאת חושפת עיניים,</l>
+          <l>את עדיין על אותו הר.</l>
+          <l>וכך גם אני,</l>
+          <l>כל יום אותו דבר.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לאן נושבת הרוח ?</l>
+          <l>את מושכת בכתפך</l>
+          <l>ואני לא כאן</l>
+          <l>אני שבוי בתוך יופייך</l>
+          <l>עוד יום...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כשאחזור הביתה</l>
+          <l>בתרמילי,</l>
+          <l>הביטי בעיניי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

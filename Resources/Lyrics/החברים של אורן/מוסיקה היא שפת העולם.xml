@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מוסיקה היא שפת העולם</title>
+        <singer classification="unknown">החברים של אורן</singer>
+        <writer>אורן הופמן</writer>
+        <composer>אורן הופמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מוסיקה היא שפת העולם</head>
+        <lg number="1" type="stanza">
+          <l>כשהגשם יורד בחוזקה </l>
+          <l>והאדמה שותה לרוויה. </l>
+          <l>רוח שורקת לה ממרחק, </l>
+          <l>מלודיה, הרמוניה וקצב יחדיו. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מוסיקה היא שפת העולם </l>
+          <l>מוסיקה מחברת בין כולם. </l>
+          <l>מוסיקה היא שנינו יחדיו </l>
+          <l>יחד נצעד לאורך הזמן. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תווים רבים מציפים את חדרי </l>
+          <l>צלילי כינורות קסומים באוויר. </l>
+          <l>שפה חדשה יוצאת מליבי </l>
+          <l>שיר אהבה, אכתוב אהובתי. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מוסיקה היא שפת העולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

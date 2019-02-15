@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר חקלאי</title>
+        <singer classification="unknown">הופה היי</singer>
+        <writer>חמוטל בן זאב</writer>
+        <composer>יורם צדוק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר חקלאי</head>
+        <lg number="1" type="stanza">
+          <l>רחוק מהבית, קרוב לאדמה</l>
+          <l>חיידק כזה נדנד לי תמיד בנשמה</l>
+          <l>מטרטר את הטרקטור, קוצר את הפירות</l>
+          <l>חולב טיפת מידע מעדר של פרות</l>
+          <l>חולב טיפה מעדר של פרות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פה זורעים ברינה</l>
+          <l>וקוצרים בגילה</l>
+          <l>ודינה ודיצה רוקדות בגינה</l>
+          <l>פה חורשים ולומדים</l>
+          <l>מטפסים על עצים</l>
+          <l>ורק אלימלך נופל, מתלכלך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בחדר יש לי פוסטר עם בניינים של עיר</l>
+          <l>וריח פרדסים שוטף את האויר</l>
+          <l>זה הנוף והצבע, חולפות עונות שנה</l>
+          <l>הטבע זה החוק שמכתיב את האופנה</l>
+          <l>הטבע שמכתיב את האופנה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פה זורעים ברינה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כמה זמן לוקח להשקות את הגינה</l>
+          <l>כמה זמן לוקח להכין את הגבינה</l>
+          <l>כמה זמן אני יכול לחיות ללא שינה</l>
+          <l>כמה זמן דחילק כבר נמשכת העונה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>פה זורעים ברינה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

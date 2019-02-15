@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טוב לנו יחד</title>
+        <singer classification="male singer">מאור כהן</singer>
+        <writer>מאור כהן</writer>
+        <composer>מאור כהן</composer>
+        <album>טוב לנו יחד</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טוב לנו יחד</head>
+        <lg number="1" type="stanza">
+          <l>טוב לנו יחד</l>
+          <l>טוב לי בנחת</l>
+          <l>לא לעמוד, לרקוד עוד...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>טוב לי בטבע</l>
+          <l>טוב לי השפע</l>
+          <l>לא לחכות, לחיות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כן זהו יום נפלא</l>
+          <l>כולם רואים אותך</l>
+          <l>כזה היום הזה</l>
+          <l>לכולם הוא עוד יהיה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>גפן אקטוף לי</l>
+          <l>בשקט אחטוף לי</l>
+          <l>לא המחר, היום...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תן לי למעלה</l>
+          <l>הלאה והלאה</l>
+          <l>לקלף את העור לאור.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כן זהו יום נפלא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

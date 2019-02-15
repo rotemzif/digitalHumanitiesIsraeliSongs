@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משאיר סימן</title>
+        <singer classification="unknown">ליהי עטר</singer>
+        <writer>סהר חגי</writer>
+        <composer>ניצן קייקוב</composer>
+        <album>ליהי עטר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משאיר סימן</head>
+        <lg number="1" type="stanza">
+          <l>אני לא מבינה הכל </l>
+          <l>אני רק מנסה לשאול </l>
+          <l>על מה אתה לא מדבר </l>
+          <l>כשאתה מסתכל עמוק </l>
+          <l>בשנייה שלפני הצחוק </l>
+          <l>יש דמעה שאתה מאבד </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה לא כואב לך עכשיו </l>
+          <l>זה מתעורר בשדה הקרב </l>
+          <l>במלחמה שלך איתי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואיך אני פוגעת בך </l>
+          <l>תמיד פוצעת ואז מטפלת </l>
+          <l>ושוב אתה בורח </l>
+          <l>נוגע ושוכח </l>
+          <l>אבל משאיר סימן </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זה היום הלפני אחרון </l>
+          <l>הולכת לא רוצה לחזור </l>
+          <l>למצוא את כל מה שחסר </l>
+          <l>כשאתה מסתכל בי עמוק </l>
+          <l>מבקש לעמוד ולשתוק </l>
+          <l>יש מילה שאתה לא אומר </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זה לא כואב לך עכשיו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

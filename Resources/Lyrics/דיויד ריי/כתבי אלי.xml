@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כתבי אלי</title>
+        <singer classification="unknown">דיויד ריי</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כתבי אלי</head>
+        <lg number="1" type="stanza">
+          <l>לחש עונג הצחוק המתוק שלי</l>
+          <l>רגש עמוק כמו שבוי למגע שלך</l>
+          <l>מים שעזבת את הותרת אדם מיותם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כתבי אלי מפסגת העולם</l>
+          <l>ואגיע לשם אישה</l>
+          <l>הנשמה מעונה כמו יונה</l>
+          <l>שאיבדה את קינה-אישה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אושר פנימי אמיתי תבקש נפשי</l>
+          <l>קצת מהצחוק המתוק שידעת איתי</l>
+          <l>ישבתי סגור מפוחד כל גופי רעד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כתבי אלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

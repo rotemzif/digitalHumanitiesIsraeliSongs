@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טוב לדעת שיש לי חברים</title>
+        <singer classification="band">להקת שיר</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טוב לדעת שיש לי חברים</head>
+        <lg number="1" type="stanza">
+          <l>חשוב מאד שיש על מי לסמוך, </l>
+          <l>חשוב לראות שיש אל מי לפנות, </l>
+          <l>אתם יודעים, לא רק בסיפורים, </l>
+          <l>עדיין יש כאלה שעוזרים. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>טוב לדעת שיש לי חברים, </l>
+          <l>ככה החיים יותר יפים. </l>
+          <l>בעת צרה הם באים חיש ועוזרים, </l>
+          <l>לעת שמחה הם שותפים. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חשוב שיש כתף להישען </l>
+          <l>חשוב שיש מי שעונה לי כן, </l>
+          <l>אתם יודעים שכל הגיבורים, </l>
+          <l>עושים הרבה ולא רק מדברים. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>טוב לדעת שיש לי חברים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

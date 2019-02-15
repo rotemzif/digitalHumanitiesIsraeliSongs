@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל הציפורים</title>
+        <singer classification="male singer">הראל סקעת</singer>
+        <writer>קרן פלס</writer>
+        <composer>קרן פלס</composer>
+        <album>הראל סקעת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל הציפורים</head>
+        <lg number="1" type="stanza">
+          <l>רוח בהרים אבל בחדרי דממה</l>
+          <l>רק יד שתלטף בתוך השממה</l>
+          <l>צמרות עצים שמוטות על הרצפה</l>
+          <l>ובתמונה הישנה אהבתי הראשונה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מצעים דקים נשברים אלי לאט</l>
+          <l>מגע שהתלכלך וחצי מבט</l>
+          <l>עושה אותי אחר</l>
+          <l>עצוב ומתמסר אל ההרים</l>
+          <l>שקרים ועוד שקרים ועוד שקרים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כל הציפורים ששלחתי לדרכן</l>
+          <l>שבות אל חלוני והזיכרון איתן</l>
+          <l>אותה צעקה שרעדה משתיקתי</l>
+          <l>שבה אל אזני האם תציל אותי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רוח בהרים אבל הצל שלך עלי</l>
+          <l>קורא לי לחזור אלייך, אלי</l>
+          <l>משגע אותי בלחישות מרוחקות</l>
+          <l>נוכל להתקרב אך לא נוכל לבכות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כל הציפורים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

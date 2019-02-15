@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אוהב אותך 9</title>
+        <singer classification="male singer">ליאור אלבו</singer>
+        <writer>מאיר נווה</writer>
+        <composer>ליאור אלבו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אוהב אותך</head>
+        <lg number="1" type="stanza">
+          <l>אוהב אותך יותר ממה שאת אוהבת</l>
+          <l>אוהב אותך יותר ממה שאת חווה</l>
+          <l>אוהב אותך יותר ממה שאת חושבת</l>
+          <l>אוהב אותך יותר ממה שאת רוצה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מרפרפת על עורי כמו רוח</l>
+          <l>זורמת בתוכי כמו ירדן</l>
+          <l>גופך שלצידי מיתר מתוח</l>
+          <l>רוצה עליו לפרוט ולנגן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יפה יותר מפרח שבאביב פורח</l>
+          <l>ממך האור זורח להביט לשאול</l>
+          <l>ובעינייך מתגלה סוד הירח</l>
+          <l>רק לנשק רצה עכשיו ולא יכול</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מרפרפת על עורי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

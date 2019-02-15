@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילד פרא</title>
+        <singer classification="male singer">לירן טל</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>עופר לב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילד פרא</head>
+        <lg number="1" type="stanza">
+          <l>אני זוכר אותך ילדונת מדהימה</l>
+          <l>כמו שחקנית בסרט שעוצרת נשימה</l>
+          <l>את אצלי בחלומות משחרית ימי</l>
+          <l>בעיניים עצומות אקח אותך אלי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הייתי ילד פרא והיום איש מאוהב</l>
+          <l>שלא יכול עוד רגע בלעדייך</l>
+          <l>הראי לי את הדרך שתוביל אותי עכשיו</l>
+          <l>רק אלייך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אותך אני מרגיש מאז ומעולם</l>
+          <l>רציתי רק לדעת אם אצלך אני קיים</l>
+          <l>עוד ועוד געגועים כבר לא יכול לשאת</l>
+          <l>יחד נעשה חיים אז בואי כבר כעת. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הייתי ילד פרא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

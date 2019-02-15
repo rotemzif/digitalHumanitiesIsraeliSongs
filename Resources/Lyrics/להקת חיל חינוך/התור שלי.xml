@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>התור שלי</title>
+        <singer classification="unknown">להקת חיל חינוך</singer>
+        <writer>בת אל לכטמן</writer>
+        <composer>גלעד שגב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>התור שלי</head>
+        <lg number="1" type="stanza">
+          <l>אני משאיר אותו כאן, ישן במיטה שלי,</l>
+          <l>הילד שהייתי ונשאר.</l>
+          <l>כמו דרך זכוכית, מושיט את היד שלי</l>
+          <l>כמעט כמעט נוגע בעבר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ובדרך לשם, המבט של אבי,</l>
+          <l>הוא אומר לי עכשיו שהגיע תורי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ממציאות למציאות אני חזק, אני גיבור,</l>
+          <l>את הילד שהייתי השארתי מאחור,</l>
+          <l>עוד אשוב אליו, עוד אחלום איתו, עוד אחזור אליו בזמן,</l>
+          <l>אבל עכשיו התור שלי ואני כאן,</l>
+          <l>עכשיו התור שלי ואני כאן.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני אשאיר אותה כאן, ישנה במיטה שלי,</l>
+          <l>לשכב ולרקום חלומות.</l>
+          <l>כמו דרך זכוכית, אושיט את היד שלי,</l>
+          <l>לחזור לתקן עולמות.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ובדרך לשם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

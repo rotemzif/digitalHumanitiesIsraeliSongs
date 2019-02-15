@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גבר מאוהב</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>הרצל צפר</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גבר מאוהב</head>
+        <lg number="1" type="stanza">
+          <l>רואה בתוך הצל דמותך בערפל</l>
+          <l>הכאב מעטל השעון גם לא עוצר</l>
+          <l>אם תשובי אלי ישתנו פתאום חיי</l>
+          <l>מתחנן לאלוקי מה יהיה עכשיו עלי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני גבר מאוהב לך נתתי עולמי</l>
+          <l>חיזרי והאירי את חיי</l>
+          <l>את שומעת ולא עונה את הולכת לאיבוד</l>
+          <l>הקשיבי לי ילדה אני כצל אבוד.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בוער כאש הלב הכאב לא לא עוזב</l>
+          <l>והזמן אינו חולף כמה לך אחכה</l>
+          <l>אין לי מנוחה עם תפתח תסגור ליבה</l>
+          <l>עד מתי אוהב אותה היא אחת ויחידה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני גבר מאוהב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כאב חד</title>
+        <singer classification="unknown">נוריאל מור</singer>
+        <writer>נוריאל מור</writer>
+        <composer>נוריאל מור</composer>
+        <album>לילה טוב חיים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כאב חד</head>
+        <lg number="1" type="stanza">
+          <l>כאב חד לא יחתוך</l>
+          <l>את חוט אהבתינו.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>צרות זקנות מתקמטות בלבנו</l>
+          <l>כנראה שאף פעם לא מבוגרים מדי</l>
+          <l>בשביל לסבול.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ומי זה האלוהים,אב הרחמנים</l>
+          <l>כבר הצפתי בדמעות</l>
+          <l>את שער הרחמים.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>והוא חונק אותי בשתיקתו</l>
+          <l>כנראה שאת הצדק הוא</l>
+          <l>מסתיר בגלימתו.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ומי זה האלוהים ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

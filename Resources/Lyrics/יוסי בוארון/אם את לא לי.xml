@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם את לא לי</title>
+        <singer classification="unknown">יוסי בוארון</singer>
+        <writer>לאה זלוטניק</writer>
+        <composer>לאה זלוטניק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם את לא לי</head>
+        <lg number="1" type="stanza">
+          <l>הלכתי ברחובות החשוכים</l>
+          <l>מחפש, מגשש אחרי האור </l>
+          <l>וכמו הקשת ביום של עננים</l>
+          <l>הגעת אלי ומחקת את השחור </l>
+          <l>איזה מזל איזה גורל</l>
+          <l>שהביא את שנינו עד לכאן </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם את לא לי אז מי לי</l>
+          <l>חברה אהובה שלי </l>
+          <l>אם את לא לי אז מי לי</l>
+          <l>נשמה תאומה שלי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חזרתי ממקומות כל כך קרים</l>
+          <l>מחפש, מגשש אחרי החום </l>
+          <l>וכמו השמש בימים אפורים</l>
+          <l>באת ונתת את כולך עד תום </l>
+          <l>איזה מזל איזה גורל</l>
+          <l>שהביא את שנינו עד לכאן </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם את...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שורדת</title>
+        <singer classification="male singer">ניסו סימן טוב</singer>
+        <writer>ניסו סימן טוב</writer>
+        <composer>ניסו סימן טוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שורדת</head>
+        <lg number="1" type="stanza">
+          <l>פותח לי דלת של יום המחר</l>
+          <l>מנסה להחזיר את היום שעבר</l>
+          <l>ושתי עיני טועות בדרך</l>
+          <l>מנסה לעלות על דרך המלך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אחת היא שורדת עולם בשתיקה</l>
+          <l>ואחת זועקת מתוך הנשמה</l>
+          <l>פותח עוד דלת ואת יפה</l>
+          <l>מנסה לדבר ולא מוצא מילה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גם אני חיכיתי שוברת שתיקה</l>
+          <l>גם אני פיללתי לכזאת אהבה</l>
+          <l>דמעה נושרת חיוך גדול</l>
+          <l>איתך מרגיש אשרוד את הכל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אחת היא שורדת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לו הייתי לוקח אותך הרחק מכאן</l>
+          <l>מטפס על העיר ועוצר את הזמן שלי איתך</l>
+          <l>כי לך נבראתי ואת יודעת</l>
+          <l>שעמוק בפנים את בי נוגעת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמרו לי</title>
+        <singer classification="male singer">דני סנדרסון</singer>
+        <writer>דני סנדרסון</writer>
+        <composer>דני סנדרסון</composer>
+        <album>לא יפריד דבר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמרו לי</head>
+        <lg number="1" type="stanza">
+          <l>בערב חם באכזיב </l>
+          <l>לאור ירח מרהיב </l>
+          <l>נמסת בזרועותי</l>
+          <l>יפה וקסומה </l>
+          <l>חלפו ימים </l>
+          <l>הגיעה השמועה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חשבתי להתעקש </l>
+          <l>לגרום לו להתייאש </l>
+          <l>מהר מאוד הבנתי </l>
+          <l>הקרב אבוד מראש </l>
+          <l>למען מעט כבוד </l>
+          <l>עדיף לפרוש </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אמרו לי שאת לא אוהבת אותי </l>
+          <l>מצאת לך אחד מסודר עצמאי </l>
+          <l>והוא מספר לך סיפור מגומגם </l>
+          <l>על איך שכבש הוא את כל העולם </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>דברים כאלה קורים </l>
+          <l>כותבים על זה גם שירים </l>
+          <l>לא מחפש כאן צדק </l>
+          <l>יש סוף לכל סיפור </l>
+          <l>חצי עולם נותר עם לב שבור </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אמרו לי שאת לא אוהבת אותי... </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לא מחפש כאן צדק </l>
+          <l>יש סוף לכל סיפור </l>
+          <l>חצי עולם נותר </l>
+          <l>עם לב שבור </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אמרו לי שאת לא אוהבת אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אותה תראה</title>
+        <singer classification="band">החשמליות</singer>
+        <writer>בועז כהן</writer>
+        <composer>עמירם לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אותה תראה</head>
+        <lg number="1" type="stanza">
+          <l>אותה תראה בצבעים של ערב</l>
+          <l>עיר מלאה אנשים</l>
+          <l>יוצא מכבילות</l>
+          <l>להיות חופשי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש וכחולים הם המים</l>
+          <l>לפעמים אפורים</l>
+          <l>ניתן לעבור</l>
+          <l>לראות ימים רחוקים</l>
+          <l>לזכור</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

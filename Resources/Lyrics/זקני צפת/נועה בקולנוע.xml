@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נועה בקולנוע</title>
+        <singer classification="band">זקני צפת</singer>
+        <writer>מאור כהן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נועה בקולנוע</head>
+        <lg number="1" type="stanza">
+          <l>הלכנו לקולנוע אני ונועה</l>
+          <l>לראות איזה סרט ישן</l>
+          <l>בכוכבת התאהבתי ואת נועה עזבתי</l>
+          <l>ועכשיו אני מצטער</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי אז רציתי כמו ילד קטן</l>
+          <l>מישהי יפה ממך</l>
+          <l>כי אז רציתי כמו ילד קטן</l>
+          <l>ועכשיו אני בוכה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לנועה התקשרתי ומיד התנצלתי</l>
+          <l>אבל אותי היא לא רצתה</l>
+          <l>עכשיו שהתבגרתי שוב לנועה התקשרתי</l>
+          <l>מה לעשות זאת אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי אז רציתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

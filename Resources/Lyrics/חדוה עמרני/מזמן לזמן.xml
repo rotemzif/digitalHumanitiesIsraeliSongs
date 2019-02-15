@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מזמן לזמן</title>
+        <singer classification="female singer">חדוה עמרני</singer>
+        <writer>חמוטל בן זאב</writer>
+        <composer>עמית צח</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מזמן לזמן</head>
+        <lg number="1" type="stanza">
+          <l>מזמן לזמן רחוק מכאן</l>
+          <l>אור זוהר בך פוגע</l>
+          <l>אני כבר כאן אך לא כולי</l>
+          <l>חלקי בך מתמהמה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עוטף אותי, מגן עלי</l>
+          <l>משאיר סימן, מתגעגע</l>
+          <l>מקצה עולם אתה אלי</l>
+          <l>מלאך שומר כמעט נוגע</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מכאן אני, משם אתה</l>
+          <l>כך נולדים השירים בעקבותיך</l>
+          <l>גם בלכתי אני איתך</l>
+          <l>כאן לפניך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אדם קשור לאדמתו</l>
+          <l>והמרחק שכרו תובע</l>
+          <l>בלב תועה אהבתו</l>
+          <l>את מקומו הוא שם קובע</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מכאן אני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

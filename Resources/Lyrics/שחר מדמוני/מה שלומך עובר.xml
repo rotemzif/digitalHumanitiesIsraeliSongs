@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה שלומך עובר</title>
+        <singer classification="unknown">שחר מדמוני</singer>
+        <writer>שחר מדמוני</writer>
+        <composer>שחר מדמוני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה שלומך עובר</head>
+        <lg number="1" type="stanza">
+          <l>מה שלומך עובר?</l>
+          <l>האם גדלת כבר?</l>
+          <l>כשתצא אל העולם</l>
+          <l>ספק אם יישארו עוד בני אדם.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה שלומך עובר?</l>
+          <l>האם אכלת כבר?</l>
+          <l>ישנם מקומות בעולם ששורר שם רעב גדול</l>
+          <l>אל תדאג, לך יהיה הכל.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה שלומך עובר?</l>
+          <l>נהיה כבר מאוחר</l>
+          <l>כדאי שתלך לישון עכשיו</l>
+          <l>אמא כאן, גם אבא לא עזב.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לילה טוב עובר</l>
+          <l>ניפגש מחר</l>
+          <l>לילה טוב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני פוחד לצאת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

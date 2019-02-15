@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא רואה אותי</title>
+        <singer classification="female singer">הילה הררי</singer>
+        <writer>הילה הררי</writer>
+        <composer>הילה הררי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא רואה אותי</head>
+        <lg number="1" type="stanza">
+          <l>כשהוא עובר אותי הוא כמו קרן אור</l>
+          <l>כמו טיפת השמש הראשונה בשמיים</l>
+          <l>כשהוא רוקד הוא גורם לי לחייך</l>
+          <l>הוא תמיד גורם להתחבא כשהוא מתקרב</l>
+          <l>ואני יודעת...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הוא מלך שצריך מלכה</l>
+          <l>אבל אני לא מלכה</l>
+          <l>והוא לא רואה אותי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל מה שנמצא מסביבו תמיד זוהר</l>
+          <l>יש לו חן ויופי שלא קיים בי</l>
+          <l>אני יודעת שאני אצטרף להתגבר</l>
+          <l>הוא מלך שזכאי למישהי שונה ממני</l>
+          <l>ואני יודעת...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הוא מלך שצריך מלכה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דינה 3</title>
+        <singer classification="female singer">מיקה קרני</singer>
+        <writer>מיקה קרני</writer>
+        <composer>מיקה קרני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דינה</head>
+        <lg number="1" type="stanza">
+          <l>יש אחת דינה, אומרים עליה היא קשה קשה.</l>
+          <l>יום אחד כולה שלך, אחר כך היא בורחת.</l>
+          <l>דינה אומרת אני אוהבת אותם-באמת.</l>
+          <l>אחר כך מוסיפה אולי בעצם אני סתם רוצה לקחת.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כשדינה בוכה, אם אתה ליד - אתה נשבר.</l>
+          <l>תופסת חזק בידיים כאילו לא נשאר דבר.</l>
+          <l>דינה שואלת "למה אני לא יכולה לחיות?",</l>
+          <l>לוקחת סכין וחותכת את כל הטעויות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דינה תגיד "אני כולי שלך,</l>
+          <l>בוא קח אותי לעננים, אני רוצה קצת נחת".</l>
+          <l>יש לה הכל, והיא לא מרוצה,</l>
+          <l>כשהיא לא מבינה מה אין לה אז היא משתגעת.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כשדינה בוכה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

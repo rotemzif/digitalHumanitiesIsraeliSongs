@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק את 11</title>
+        <singer classification="male singer">גידי גוב</singer>
+        <writer>דני סנדרסון</writer>
+        <composer>דני סנדרסון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק את</head>
+        <lg number="1" type="stanza">
+          <l>כל פעם שאני מביט עלייך</l>
+          <l>משהו נדלק בתוכי כמו אש</l>
+          <l>כל פעם שאני מביט עלייך</l>
+          <l>משהו מחדש את לבי כובש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק את - הולכת על המים</l>
+          <l>רק את - יודעת להקל</l>
+          <l>רק את - נותנת לי פי שניים</l>
+          <l>מכל אחת אחרת בתבל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל פעם שאני מביט עלייך</l>
+          <l>משהו מופלא משתלט עלי</l>
+          <l>כל פעם שאני מביט עלייך</l>
+          <l>הצרות חולפות, הן מאחורי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק את...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לשנייה עצמתי את עיני</l>
+          <l>ונכנסת ישר אל תוך חיי</l>
+          <l>בחיי</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כל פעם שאני מביט עלייך</l>
+          <l>לא רוצה בכלל שזה יגמר</l>
+          <l>כל פעם שאני מביט עלייך</l>
+          <l>חושב שוב לעצמי "מי צריך יותר"</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>רק את...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

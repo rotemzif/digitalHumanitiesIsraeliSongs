@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלום חיי</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>עממי יווני</composer>
+        <album>אין הגיון באהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלום חיי</head>
+        <lg number="1" type="stanza">
+          <l>את הולכת וחוזרת</l>
+          <l>מבלי לומר לי אף מילה</l>
+          <l>את ליבי שוברת</l>
+          <l>וברשת מפילה</l>
+          <l>ואני כמו דג במים</l>
+          <l>לא יודע מה עושים</l>
+          <l>ולחיות איתך בשניים</l>
+          <l>לתת לך את החיים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את בשבילי כל העולם</l>
+          <l>למענך אני קיים</l>
+          <l>אוהב אותך עד סוף ימי</l>
+          <l>את האושר את חלום חיי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בליבי משחקת</l>
+          <l>לא עושה טיפת חשבון</l>
+          <l>מתקרבת מתרחקת </l>
+          <l>לא נותר בי הגיון</l>
+          <l>ואני חולם עלייך</l>
+          <l>ולא מבין מה לי קרה</l>
+          <l>מבקש שרק שתביני</l>
+          <l>שליבך רק לי נברא.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את בשבילי כל העולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

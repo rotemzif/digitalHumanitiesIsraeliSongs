@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לשיר לך</title>
+        <singer classification="unknown">רועי סנדלר</singer>
+        <writer>רועי סנדלר</writer>
+        <composer>קובי אש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לשיר לך</head>
+        <lg number="1" type="stanza">
+          <l>אני זוכר את הימים והלילות</l>
+          <l>את כל השבתות בהן עברנו </l>
+          <l>דרך ארוכה מלאה בהפתעות</l>
+          <l>אתה ורק אני ידענו </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שכאן זה התחיל ולא יגמר </l>
+          <l>אבא אותך אני אוהב </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אבא אני אוהב אותך</l>
+          <l>ורק אתה יודע כמה </l>
+          <l>אני רוצה לשיר איתך</l>
+          <l>את השיר הזה באהבה </l>
+          <l>אוו אבא</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני רוצה להגשים לך חלום</l>
+          <l>לראות אותך שמח</l>
+          <l>להגיד שעוד יבוא היום</l>
+          <l>אבא לך אני מבטיח</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שכאן זה התחיל ולא יגמר </l>
+          <l>אבא אותך אני אוהב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

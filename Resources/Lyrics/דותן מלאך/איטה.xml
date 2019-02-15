@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איטה</title>
+        <singer classification="unknown">דותן מלאך</singer>
+        <writer>דותן מלאך</writer>
+        <composer>דותן מלאך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איטה</head>
+        <lg number="1" type="stanza">
+          <l>אז איך הגעת לאיטה </l>
+          <l>ולמה אתה חוזר </l>
+          <l>אתה תודה שטעית </l>
+          <l>ותיסע למקום אחר </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כי יש מלחמות </l>
+          <l>שהן לא המלחמות שלך </l>
+          <l>ויש קרבות </l>
+          <l>שלא צריך לנצח </l>
+          <l>אתה חוזר כי אתה רוצה </l>
+          <l>אתה לא בורח. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כי אחר במקום אחר </l>
+          <l>ויש זריחה במקום אחר </l>
+          <l>תחושה במקום אחר </l>
+          <l>תחושה נדרשת </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז איך הגעת לאיטה </l>
+          <l>ואיך בהולנד אחר </l>
+          <l>אתה תודה שזכית </l>
+          <l>ותישאר </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כי יש טוב שהוא גם הטוב שלך </l>
+          <l>ויש נעים שלא צריך להשכיח </l>
+          <l>אתה נשאר כי אתה רוצה </l>
+          <l>אתה לא בורח. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי אחר במקום אחר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

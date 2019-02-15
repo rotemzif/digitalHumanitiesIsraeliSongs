@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מנטה</title>
+        <singer classification="unknown">דיויד ברוזה</singer>
+        <writer>רחל שפירא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מנטה</head>
+        <lg number="1" type="stanza">
+          <l>ציפור לא מזוהה אל ענפי העץ פנתה לנוח</l>
+          <l>קלה כמו שמועה בצמרת הסתבכה הרוח</l>
+          <l>כלבלב בלי בעלים משחק לו בסנדל שכוח</l>
+          <l>מסרקת תלתלים מסתכלת בחלון פתוח</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את הרקע מאפרים הדימדומים</l>
+          <l>ריח מנטה וקפה ושושנים</l>
+          <l>בוא הביתה ותרחץ את הפנים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הזמן לא נעצר השעה שלך עוד מחכה לי</l>
+          <l>ליבי נותן עצה לדואגת שתמיד בכתה לי</l>
+          <l>בוא הביתה במרוצה ותביא איתך גם נשיקה לי</l>
+          <l>בוא הביתה ותמצא שאני לך כמו שאתה לי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את הרקע מאפרים הדימדומים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

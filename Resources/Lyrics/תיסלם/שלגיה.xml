@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלגיה 5</title>
+        <singer classification="band">תיסלם</singer>
+        <writer>גי באר</writer>
+        <composer>גי באר</composer>
+        <album>לאספנים בלבד</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלגיה</head>
+        <lg number="1" type="stanza">
+          <l>כבר ירד השלג בהרים רחוקים</l>
+          <l>ובשלג אנו צועדים,</l>
+          <l>כי בתוך היער האפל מחכים</l>
+          <l>שלגיה עם כל הגמדים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חורפים שבעה חיכינו לך,</l>
+          <l>לא קראת אבל ענינו לך,</l>
+          <l>ובהבל פה בנינו לך ,</l>
+          <l>מגדלים של בדולח וזהב.</l>
+          <l>עטרות של חן קשרנו לך,</l>
+          <l>סרנדה חרש שרנו לך,</l>
+          <l>ועדיין לא ספרנו לך,</l>
+          <l>עד כמה אותך נאהב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עת עלים הזהיבו בראשי צמרות</l>
+          <l>בא הסתיו אל ארץ רחוקה,</l>
+          <l>הוא צבע את כל התפוחים בורוד</l>
+          <l>וגם את לחייך המתוקה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חורפים שבעה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כבר נמס השלג בהרים, זה נכון,</l>
+          <l>תשכחי את כל אשר היה,</l>
+          <l>מספרים בעיר שלבבך הוא קרחון,</l>
+          <l>ועל כן קוראים לך שלגיה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>חורפים שבעה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

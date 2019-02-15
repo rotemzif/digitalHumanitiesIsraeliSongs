@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נשאר בבית</title>
+        <singer classification="male singer">דני סנדרסון</singer>
+        <writer>דני סנדרסון</writer>
+        <composer>דני סנדרסון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נשאר בבית</head>
+        <lg number="1" type="stanza">
+          <l>הרוח מפצחת תמרורים בסיטונות</l>
+          <l>אלפי דמעות יורדות לי על הגג</l>
+          <l>מסייה לה-מזג האוויר מפגין קצת נוכחות</l>
+          <l>מבטיח פרנסה לכל זגג</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אנטנות לא קולטות את הקורה כאן מסביבן</l>
+          <l>חוטי חשמל קופצים על העצים</l>
+          <l>החלונות יוצאים מפוקוס בשללי גוון</l>
+          <l>פרופסור קלט סוגר את התריסים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני לא מחפש סיבוב קטן בעיר</l>
+          <l>להפליג במכונית לאיזה שייט</l>
+          <l>אני לא מחפש בילוי בכל מחיר</l>
+          <l>אני נשאר בבית</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מתכרבלים בריפודים מנעל ועד סנטר</l>
+          <l>בקור הזה שומעים את השיניים</l>
+          <l>ולתנור המנומנם דבר אינו בוער</l>
+          <l>פרופסור קלט לובש עוד זוג גרביים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני לא מחפש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

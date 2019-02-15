@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכל שלך</title>
+        <singer classification="female singer">צילה דגן</singer>
+        <writer>חן פלד</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכל שלך</head>
+        <lg number="1" type="stanza">
+          <l>הבט השמיימה, וספור הכוכבים -</l>
+          <l>אם תוכל למנות אותם</l>
+          <l>אם תוכל לך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל השמיים שלך</l>
+          <l>כל השמיים שלך</l>
+          <l>הבט, כל השמיים שלך!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כחול אשר על שפת הים</l>
+          <l>אתה כחול, אתה קיים</l>
+          <l>אתה בחול, אתה בגל</l>
+          <l>אם תוכל, אם תוכל...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ורוח על פני המים</l>
+          <l>אתה בים ובשמיים</l>
+          <l>ואור גדול, הבט סביבך - </l>
+          <l>הכל שלך, הכל שלך, הכל שלך!</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כל השמיים שלך</l>
+          <l>כל השמיים שלך</l>
+          <l>הבט, כל השמיים שלך!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

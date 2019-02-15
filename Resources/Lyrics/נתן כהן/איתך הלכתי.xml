@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איתך הלכתי</title>
+        <singer classification="male singer">נתן כהן</singer>
+        <writer>דודו ברק</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איתך הלכתי</head>
+        <lg number="1" type="stanza">
+          <l>באוויר ניחוח מי הבושם.</l>
+          <l>את עכשיו מולי בקסמייך.</l>
+          <l>כברכות כחולות הן שתי עינייך.</l>
+          <l>עמוקות מים האושר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ולילנו הצעיר הוא נצח.</l>
+          <l>בשמיו את קרן אור זוהרת.</l>
+          <l>בקרבי עולה את ובוערת,</l>
+          <l>כלבנה אשר הנצה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אותך נשקתי, אותך חבקתי,</l>
+          <l>אל ליבי, אל כובד זרועותיי.</l>
+          <l>איתך הלכתי, איתך משכתי,</l>
+          <l>במשעול. במעלה חיי.</l>
+          <l>איתך הלכתי, אהובתי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בתשוקה סוערת, חי שמיים,</l>
+          <l>אל פסגת ההר עוד נגיע.</l>
+          <l>אל כוכב רחוק שברקיע,</l>
+          <l> בוא נבוא יחדיו, בשניים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אותך נשקתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

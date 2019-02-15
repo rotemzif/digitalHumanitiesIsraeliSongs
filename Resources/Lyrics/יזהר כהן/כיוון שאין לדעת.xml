@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כיוון שאין לדעת</title>
+        <singer classification="male singer">יזהר כהן</singer>
+        <writer>אהוד מנור</writer>
+        <composer>יזהר כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כיוון שאין לדעת</head>
+        <lg number="1" type="stanza">
+          <l>כיון שאין לדעת מה יקרה מחר</l>
+          <l>ויום אחד עוד נצטרך להיפרד.</l>
+          <l>כיוון שאת סופנו אנו לא נבחר</l>
+          <l>והמסך, נרצה או לא נרצה, ירד</l>
+          <l>והמסך, נרצה או לא נרצה, ירד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תשמרי דבר לעצמך</l>
+          <l>ותני לי את סודך במתנה,</l>
+          <l>כאילו שאני אביך וגם אמך</l>
+          <l>ואת ילדה קטנה, ילדה קטנה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כי רק לאהבה הכוח להשלים</l>
+          <l>את החסר והשדוד והמובטח,</l>
+          <l>וגם אם אשתדל הן לא אמצא מילים</l>
+          <l>לומר לך מה טובות היו שנותי איתך</l>
+          <l>לומר לך מה טובות היו שנותי איתך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תשמרי דבר לעצמך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

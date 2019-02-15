@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צא וראה</title>
+        <singer classification="band">תופעת דופלר</singer>
+        <writer>ברוך פרידלנד</writer>
+        <composer>ברוך פרידלנד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צא וראה</head>
+        <lg number="1" type="stanza">
+          <l>היית כבר בהודו</l>
+          <l>היית בנפאל</l>
+          <l>ראית את בומביי וקטמנדו</l>
+          <l>ביקרת כבר בתיאלנד</l>
+          <l>"עישנת פטריות"</l>
+          <l>רצית קצת ללכת לאיבוד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>צא וראה, עולם מלא נמצא בתוכך    </l>
+          <l>צא וראה עולם שלם נפלא</l>
+          <l>צא וראה את נפשך</l>
+          <l>חזור מן המסע</l>
+          <l>צא ולמד - אינך לבד</l>
+          <l>צא ולמד - את עצמך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ראית את הגורו</l>
+          <l>היית במקדש</l>
+          <l>היית בכתות ומפגשים</l>
+          <l>חיפשת את הדרך</l>
+          <l>הושטת את היד</l>
+          <l>חיכית לאותות ולמופתים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>צא וראה עולם מלא נמצא בתוכך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כי כאן ‟ יש לך שמש</l>
+          <l>כי כאן ‟ יש אהבה גדולה</l>
+          <l>וכאן ‟ מחר, כמו היום ואמש</l>
+          <l>לא תהיה לבד</l>
+          <l>לא תהיה לבד...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>צא וראה עולם מלא נמצא בתוכך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זו רק אני</title>
+        <singer classification="unknown">שני שטלריד</singer>
+        <writer>שני שטלריד</writer>
+        <composer>מאיר עמר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זו רק אני</head>
+        <lg number="1" type="stanza">
+          <l>גם אם מטפסת על קירות, </l>
+          <l>גם אם שוברת מראות, </l>
+          <l>אצלי הכל נקי. </l>
+          <l>גם אם אני עושה טעויות, </l>
+          <l>גם אם אני מדברת שטויות, </l>
+          <l>אני זו רק אני. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גם אם לא כמו כל הבנות, </l>
+          <l>גם אם חסרת מגננות, </l>
+          <l>אצלי הכל נקי. </l>
+          <l>גם אם מלאה בחרדות, </l>
+          <l>גם אם טועה בהחלטות, </l>
+          <l>אני זו רק אני. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מה שיש, זה מה שרואים, </l>
+          <l>אתם לא מבינים, </l>
+          <l>לא שוברת כלים, </l>
+          <l>הכל בפנים, </l>
+          <l>אצלי הכל נקי, </l>
+          <l>אני זו רק אני </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>גם אם סיימתי לצפות, </l>
+          <l>גם אם הפסקתי לקוות, </l>
+          <l>אני זו רק אני. </l>
+          <l>גם אם עושה טעויות, </l>
+          <l>גם אם מדברת שטויות, </l>
+          <l>אצלי הכל נקי. </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מה שיש, זה מה שרואים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

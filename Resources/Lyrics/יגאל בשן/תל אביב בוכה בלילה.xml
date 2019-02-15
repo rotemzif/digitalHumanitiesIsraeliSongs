@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תל אביב בוכה בלילה</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>יגאל בשן</writer>
+        <composer>יגאל בשן</composer>
+        <album>תלוי רק בך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תל אביב בוכה בלילה</head>
+        <lg number="1" type="stanza">
+          <l>אני מזמן רציתי לכתוב לך שיר כזה</l>
+          <l>עם ים ורחובות צרים ושוק בתי קפה</l>
+          <l>ציירתי את תמונות חיי על כל המדרכות</l>
+          <l>ובכיכר ההיא מזמן רצחו לי ת'דמעות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תל אביב בוכה בלילה ואני איתך נפגש</l>
+          <l>כי אולי מחר בבוקר יזרח תיכון חדש</l>
+          <l>תל אביב שותה בלילה ואני איתך נפגש</l>
+          <l>כי אולי מחר בבוקר יזרח תיכון חדש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יושבים מתפלספים כל יום מה יהיה הסוף</l>
+          <l>בניין שלום מיליון קומות שובר לי את הנוף</l>
+          <l>אולי בעוד כמה שנים אם אסע רחוק</l>
+          <l>הבית ישאר תמיד המקום הכי עמוק</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תל אביב בוכה בלילה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וגם את תחייכי בסוף העצב יש תמיד שמחה</l>
+          <l>ואולי נעבור כמו ים סוער שבסופו נרגע</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תל אביב בוכה בלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את חסרה</title>
+        <singer classification="unknown">גיא גמזו</singer>
+        <writer>רמי לב</writer>
+        <composer>עממי ערבי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את חסרה</head>
+        <lg number="1" type="stanza">
+          <l>כשאת איתי הלילה,</l>
+          <l>כל דקה היא קסם</l>
+          <l>את לצידי הלילה,</l>
+          <l>פרח גן העדן.</l>
+          <l>כמה יפה הרגע במבט עינייך</l>
+          <l>כמה נפלא לנוח כאן בזרועותיך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את חסרה </l>
+          <l>רק אלוקים יודע כמה </l>
+          <l>שאהבתי וחלמתי להיות איתך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תני עוד סיכוי לשנינו</l>
+          <l>הזדמנות נוספת</l>
+          <l>יחד למצוא בנינו</l>
+          <l>דרך משותפת</l>
+          <l>כמה הלב צמא לך וחולם עלייך</l>
+          <l>כל יום שאת איננה, רע לי בלעדייך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את חסרה...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את חסרה הלילה ואין לי אותך</l>
+          <l>לו רק ידעת כמה, אהבתי אותך</l>
+          <l>ועלייך לעולם לא אוותר !</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

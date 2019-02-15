@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בכל מקום 3</title>
+        <singer classification="female singer">יהודית רביץ</singer>
+        <writer>נתן יונתן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בכל מקום</head>
+        <lg number="1" type="stanza">
+          <l>בכל מקום </l>
+          <l>יש תהום לאמיצים </l>
+          <l>וצל לעייפים </l>
+          <l>ומעין שקרירותו נגרת. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בסוף הדרך, בסוף הדרך </l>
+          <l>יש תהום לאמיצים. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בכל שחרית </l>
+          <l>יש טל לרועדים </l>
+          <l>ואור לאוהבים </l>
+          <l>ואבנים קרות ועשב פרא. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בכל ערבית </l>
+          <l>יש קץ לסוערים </l>
+          <l>ועץ לערירים </l>
+          <l>וסלע לשוכבים בסוף הדרך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בחדר הזה</title>
+        <singer classification="unknown">העברית</singer>
+        <writer>ערן פרץ</writer>
+        <composer>אורון שרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בחדר הזה</head>
+        <lg number="1" type="stanza">
+          <l>אם לא נשכח בחדר הזה</l>
+          <l>אם לא נחזור ינפצו הדברים</l>
+          <l>אני ואתה בעולם הזה</l>
+          <l>מחר הוא יבוא עם אותם גברים</l>
+          <l>אם לא נשכח בחדר הזה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>די פשוט תפסיקו</l>
+          <l>אני נעלם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ברגעים כה קשים זה תוקף אותי</l>
+          <l>הרגש שורף ומעיר תאים</l>
+          <l>קנה מעובה ומדים צבאיים</l>
+          <l>צלב כרס כתף לא הותיר חיים</l>
+          <l>אם לא נשכח בחדר הזה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>די פשוט תפסיקו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

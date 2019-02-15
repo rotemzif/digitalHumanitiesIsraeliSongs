@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חרציות 2</title>
+        <singer classification="male singer">דרור בן יעקב</singer>
+        <writer>יעקב פסקו</writer>
+        <composer>יעקב פסקו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חרציות</head>
+        <lg number="1" type="stanza">
+          <l>ומה חשבת לעצמך </l>
+          <l>כשהלכת אני נשארתי כאן </l>
+          <l>ונמוג והולך </l>
+          <l>אני נשטף עם הזמן </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וחרציות שוב פורחות עוד אביב </l>
+          <l>בא והולך מכאן </l>
+          <l>ואת עם כל הרוחות מסביב </l>
+          <l>רודפת אותי כל הזמן </l>
+          <l>אני כאן, אני כאן </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ומה חשבת לעצמך </l>
+          <l>כשהלכת רשמתי את הכל </l>
+          <l>ונמוג והולך </l>
+          <l>אני נסחף עם החול </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וחרציות שוב פורחות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

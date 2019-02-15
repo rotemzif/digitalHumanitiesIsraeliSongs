@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלאך 42</title>
+        <singer classification="male singer">עידן יניב</singer>
+        <writer>דורון מדלי</writer>
+        <composer>דורון מדלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלאך</head>
+        <lg number="1" type="stanza">
+          <l>אם תפקח את העיניים</l>
+          <l>יתגלה מולך</l>
+          <l>כל האור שבשמיים שלך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם תפרוש את הכנפיים</l>
+          <l>יתגלה לך</l>
+          <l>כל הטוב שבידיים, שבך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לצידך, לידך</l>
+          <l>תמיד אהיה שם בשבילך</l>
+          <l>אל תסגור, אל תסגור</l>
+          <l>אעטוף אותך באור</l>
+          <l>אם תאבד, אם תפחד</l>
+          <l>לא אשאיר אותך לבד</l>
+          <l>אל תשכח, אל תשכח</l>
+          <l>בעיניי אתה מלאך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם תיתן את השפתיים</l>
+          <l>תתגלה מולך</l>
+          <l>אהבה גדולה כמו מים</l>
+          <l>מחכה לך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם תאמין היום</l>
+          <l>השמש תעלה מולך</l>
+          <l>ותאמר - אני זורחת בשבילך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לצידך, לידך...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>עולם מלא יתמלא</l>
+          <l>בליבך, זאת הבטחה</l>
+          <l>רק תסמוך על עצמך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

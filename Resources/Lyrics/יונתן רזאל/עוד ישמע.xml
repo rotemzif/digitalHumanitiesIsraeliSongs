@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד ישמע</title>
+        <singer classification="unknown">יונתן רזאל</singer>
+        <writer>מן המקורות</writer>
+        <composer>יונתן רזאל</composer>
+        <album>בין הצלילים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד ישמע</head>
+        <lg number="1" type="stanza">
+          <l>עוד ישמע </l>
+          <l>בערי יהודה </l>
+          <l>ובחוצות ירושלים </l>
+          <l>קול ששון </l>
+          <l>וקול שמחה </l>
+          <l>קול חתן וקול כלה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מזל טוב!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

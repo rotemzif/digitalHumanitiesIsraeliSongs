@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מילים שלא אמרת</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>מילים שלא אמרת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מילים שלא אמרת</head>
+        <lg number="1" type="stanza">
+          <l>רציתי ללכת רחוק ולדעת יותר</l>
+          <l>לגעת בסוד השמור בליבך</l>
+          <l>בדרך אליך עצמתי עיני כעיוור</l>
+          <l>הייתי כצל הנובל לצידך</l>
+          <l>ושמעתי מילים שפוצעות את הלב</l>
+          <l>המילים שעולות אל פסגת הכאב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמו דפים חסרים בספר</l>
+          <l>אמרת כמעט הכל</l>
+          <l>גם חצי האמת זה שקר</l>
+          <l>שמדבר בלי קול</l>
+          <l>ואולי לא היה בי כוח להישאר לבד</l>
+          <l>רציתי כל כך לשכוח</l>
+          <l>מילים שלא אמרת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אילו יכולתי לשוב לאתמול שאבד</l>
+          <l>לחיות את היום שנותר מאחור</l>
+          <l>הייתי עוצר את הזמן וקורא לך שאת</l>
+          <l>תהיי לצידי עד שזה יעבור</l>
+          <l>ונמנע ממילים שצורבות את הלב</l>
+          <l>המילים שעולות אל פסגת הכאב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמו דפים חסרים בספר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

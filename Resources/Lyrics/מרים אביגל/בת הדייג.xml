@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בת הדייג 2</title>
+        <singer classification="female singer">מרים אביגל</singer>
+        <writer>בנימין אביגל</writer>
+        <composer>מרים אביגל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בת הדייג</head>
+        <lg number="1" type="stanza">
+          <l>השיק הדייג סירתו אל המים</l>
+          <l>לעבר הים העמוק</l>
+          <l>ילדה קטנטנה אפורת העיניים</l>
+          <l>נשאה תפילתה לרחוק</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלי, נצור מצולות האינסוף</l>
+          <l>ושמור נתיבות בימים</l>
+          <l>כמוני עומדים ילדים על החוף</l>
+          <l>והמה בני דייגים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רחק הדייג נעלם אל האופק</l>
+          <l>ורוח נשבה בהמיה</l>
+          <l>אי שם על החוף עמדה היא באופל</l>
+          <l>ילדת דייגים הומיה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלי, נצור מצולות האינסוף...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>חתר הדייג אל החוף, אל הסלע</l>
+          <l>מגל אלי גל במשוטיו</l>
+          <l>ילדת דייגים מי ידמה מי ישווה לה</l>
+          <l>לים לחשה אל גליו</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אלי, נצור מצולות האינסוף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

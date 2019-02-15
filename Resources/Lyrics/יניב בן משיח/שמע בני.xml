@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמע בני 2</title>
+        <singer classification="unknown">יניב בן משיח</singer>
+        <writer>מן המקורות</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמע בני</head>
+        <lg number="1" type="stanza">
+          <l>תתנהג תמיד לדבר כל דבריך בנחת</l>
+          <l>לכל אדם ובכל עת תנצל מן הכעס</l>
+          <l>וכאשר תעלה על ליבך מידת הענווה </l>
+          <l>שהיא מידה טובה מכל המידות הטובות</l>
+          <l>וכאשר תעלה על ליבך מידת היראה</l>
+          <l>תן ליבך להבין, להשכיל ותשמר מן החטא</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שמע בני מוסר אביך</l>
+          <l>ואל תיטוש תורת אמך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תתנהג תמיד לדבר כל דברייך בנחת</l>
+          <l>לכל אדם ובכל עת, תנצל מן הכעס...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>דע בני וראה מוסר אביך</l>
+          <l>והסר כל הבלי העולם, כל ימי חייך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שמע בני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

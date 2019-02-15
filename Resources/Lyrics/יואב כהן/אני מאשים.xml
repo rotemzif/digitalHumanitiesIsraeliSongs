@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני מאשים</title>
+        <singer classification="unknown">יואב כהן</singer>
+        <writer>יואב כהן</writer>
+        <composer>יואב כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני מאשים</head>
+        <lg number="1" type="stanza">
+          <l>טובע בוויסקי הסיגריה דלוקה </l>
+          <l>בחוץ חתול מיילל שובר את השתיקה </l>
+          <l>התקליט מסתובב מסתכל לתקרה </l>
+          <l>מנסה לשחזר להבין מה קרה </l>
+          <l>נולדתי ללילה אל תוך חשיכה </l>
+          <l>למדתי לרוץ בנתיבי הבריחה </l>
+          <l>מנזקי הסביבה נותרו המון צלקות </l>
+          <l>מעיל המוסר שלי נקרע לחתיכות </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את מי להאשים שאני מטורף </l>
+          <l>מי יפצה על הזמן שחלף </l>
+          <l>מי אחראי על שפיות דעתי </l>
+          <l>מי ינסה לעצור אותי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>המלחמה על האושר נמשכת שנים </l>
+          <l>השריון שלי נסדק כבר מכל הכיוונים </l>
+          <l>מתנשף מיוזע מנסה לעצור </l>
+          <l>הולך לאיבוד מחפש איך לחזור </l>
+          <l>בין הדמה לילד אני חוטף עוד סטירה </l>
+          <l>צועד בביבי השופכין של החברה </l>
+          <l>הביטלס אמרו לי אול יו ניד איז לאב </l>
+          <l>אבל בגיל הפריחה שלחו אותי לקרב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את מי להאשים שאני מטורף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

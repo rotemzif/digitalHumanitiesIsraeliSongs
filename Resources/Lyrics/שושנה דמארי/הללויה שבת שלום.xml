@@ -1,0 +1,39 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הללויה שבת שלום</title>
+        <singer classification="female singer">שושנה דמארי</singer>
+        <writer>דודו ברק</writer>
+        <composer>נחצ'ה היימן</composer>
+        <album>ביתי שלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הללויה שבת שלום</head>
+        <lg number="1" type="stanza">
+          <l>הללו אל בקדשו (בקדשו)</l>
+          <l>במרומיו במקדשו (מקדשו)</l>
+          <l>הללוהו בכינור</l>
+          <l>בחלילים ובמזמור</l>
+          <l>הללויה, שבת שלום.</l>
+          <l>(הללויה, שבת שלום.)</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

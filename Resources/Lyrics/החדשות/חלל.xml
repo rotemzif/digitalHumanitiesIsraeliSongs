@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלל 5</title>
+        <singer classification="unknown">החדשות</singer>
+        <writer>מיכה הרשליקביץ</writer>
+        <composer>מיכה הרשליקביץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלל</head>
+        <lg number="1" type="stanza">
+          <l>הכול סובב אותו במעגל</l>
+          <l>הולך לשבור עוד שיא לכבוש עוד הר</l>
+          <l>יוצא החוצה לא נשאר</l>
+          <l>הוא נוסע לחלל מחר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היום קצר עליו ואין לו זמן</l>
+          <l>רק הגיע כבר הולך מכאן</l>
+          <l>הם יחכו לו אין עניין</l>
+          <l>הוא נוסע לחלל מחר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עד סוף הערב הוא עוזב הכול</l>
+          <l>סוגר מגרה מפחד לנעול</l>
+          <l>בעיניים בורקות לא משאיר שום מכתב</l>
+          <l>הוא נוסע לחלל עכשיו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הוא ממתיק את מה שכל כך מר</l>
+          <l>מספר שזה לזמן קצר</l>
+          <l>רואים עליו הוא כבר לא כאן</l>
+          <l>הוא נוסע לחלל מחר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עד סוף הערב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

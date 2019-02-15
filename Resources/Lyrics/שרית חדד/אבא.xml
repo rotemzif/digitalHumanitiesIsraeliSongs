@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבא 85</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>שרית חדד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבא</head>
+        <lg number="1" type="stanza">
+          <l>בלילות מנסה, לא נרדמת,</l>
+          <l>בגללך כל דמעה מלוחה.</l>
+          <l>אל תחשוב שאני מתלוננת,</l>
+          <l>תפילתי היא פשוט לראותך,</l>
+          <l>לחבק את האיש שבך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והילדה הקטנה שהכרת,</l>
+          <l>השתנתה, מבינה קצת יותר.</l>
+          <l>אבא בוא וחזור כבר הביתה,</l>
+          <l>שנשב, לפחות לדבר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בלילות רק אותך מדמיינת,</l>
+          <l>בחדרי כאן מול תמונתך.</l>
+          <l>אל תחשוב שאני מתעלמת,</l>
+          <l>מחכה בכל יום לשובך,</l>
+          <l>עם הלב שפועם את שמך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והילדה הקטנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

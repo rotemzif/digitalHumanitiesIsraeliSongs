@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש בי אהבה 7</title>
+        <singer classification="male singer">רגב הוד</singer>
+        <writer>רגב הוד</writer>
+        <composer>שמואל אלבז</composer>
+        <album>אני לא מלך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש בי אהבה</head>
+        <lg number="1" type="stanza">
+          <l>ואני חלמתי שתהיי רק שלי</l>
+          <l>ולא חשבתי שפתאום תעלמי</l>
+          <l>וכמו תינוק הייתי ממש תמים</l>
+          <l>ואת אהובה העמדת פנים</l>
+          <l>אומרים שבשבילי זה לא בריא</l>
+          <l>וכמו שיכור רוצה שתחזרי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש בי אהבה לתת לך נערה</l>
+          <l>שרק אני ואת נמצא עתיד אחד</l>
+          <l>יש לי חלומות לפרוץ איתך גבולות</l>
+          <l>שרק אני ואת נגשים חלום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חושב אם לגשת אליך ולשרוק</l>
+          <l>מביט אל הכוכב וקר לי עכשיו</l>
+          <l>מתקרב אליך להגשים חלום</l>
+          <l>הכל השתנה הלילה פתאום</l>
+          <l>אומרים שבשבילי זה לא בריא</l>
+          <l>וכמו שיכור רוצה שתחזרי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש בי אהבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

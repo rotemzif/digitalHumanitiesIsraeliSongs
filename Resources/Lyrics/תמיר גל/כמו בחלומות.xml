@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו בחלומות</title>
+        <singer classification="male singer">תמיר גל</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>יוסי בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו בחלומות</head>
+        <lg number="1" type="stanza">
+          <l>חולם בשתי עינייך הקסומות</l>
+          <l>כל כך קשה לשכוח את כל האהבות</l>
+          <l>בזיכרוני עולות תמונות מאושרות</l>
+          <l>שכך לפתע נעלמת כמו בחלומות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את הרסת אותי ילדה</l>
+          <l>זה לא היה לפני שנה</l>
+          <l>את היית ילדה טובה</l>
+          <l>ופתאום הכל קרה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכשיו אני לבד מתפלל זה העבר</l>
+          <l>מביט מה השעה כל שנייה היא כמו דקה</l>
+          <l>מתייעץ אם כל חבר אל תדאג לי הוא אומר</l>
+          <l>סך הכל היא רק ילדה היא תחזור בחזרה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את הרסת אותי ילדה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

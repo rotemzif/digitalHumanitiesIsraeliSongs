@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילה בא</title>
+        <singer classification="male singer">שימי גל</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילה בא</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>לילה בא, אפלה בי מתכנסת,</l>
+          <l>לנפשי אין מנוח.</l>
+          <l>יושב לי בדד ושותה ושותה,</l>
+          <l>בעצמי משטה ומנסה לברוח.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לילה בא, אתו יבוא גם השקט</l>
+          <l>צליל-קולך נאלם ואת מתחמקת.</l>
+          <l>לילה בא, נפשי בי עוד נחנקת,</l>
+          <l>למה זה את שותקת?</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לילה בא ואוסף עוד יום גווע</l>
+          <l>בלי ידיד ובלי רע.</l>
+          <l>לוחשים הצלילים רק שברים של מלים</l>
+          <l>וקטעי-זכרונות שרק אני יודע.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

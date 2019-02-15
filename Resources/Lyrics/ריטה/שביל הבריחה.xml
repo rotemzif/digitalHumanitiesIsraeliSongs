@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שביל הבריחה 2</title>
+        <singer classification="female singer">ריטה</singer>
+        <writer>מיכל ברנט</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שביל הבריחה</head>
+        <lg number="1" type="stanza">
+          <l>כמו ציפור בשבי</l>
+          <l>בין קירות לבנים מסתגרת</l>
+          <l>אילו רק ידעתי</l>
+          <l>לסמן לי את שביל הבריחה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מן התפילה קורסת</l>
+          <l>אל חלומי הפרוע</l>
+          <l>הייה לי מלך</l>
+          <l>שבור צמאוני בנשיקה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שם אישה אחרת</l>
+          <l>את ימיך ברוך מציירת</l>
+          <l>טווה את לילותיך</l>
+          <l>בדמי הבוער מקנאה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מן התפילה קורסת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אין מפלט בשקט</l>
+          <l>גם הזמן לא תמיד מנצח</l>
+          <l>אילו רק ידעתי</l>
+          <l>לסמן לי את שביל הבריחה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מן התפילה קורסת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

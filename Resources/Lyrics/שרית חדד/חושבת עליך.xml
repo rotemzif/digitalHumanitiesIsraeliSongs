@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חושבת עליך</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>אופיר כהן</writer>
+        <composer>אופיר כהן</composer>
+        <album>20</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חושבת עליך</head>
+        <lg number="1" type="stanza">
+          <l>איך ברגע לחיי נכנסת </l>
+          <l>את הצבע לפני החזרת </l>
+          <l>רק אותך רק אותך </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא חשוב לי מה אומרים עליך </l>
+          <l>אני בורחת מכולם אליך </l>
+          <l>רק אותך רק אותך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא רוצה עוד לעבוד </l>
+          <l>ולא רוצה ללמוד </l>
+          <l>חושבת כל היום עליך </l>
+          <l>בוא נברח לנו מכאן </l>
+          <l>לתאילנד או יוון </l>
+          <l>תשא אותי בשתי ידיך </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אתה שולח הודעה הי מאמי </l>
+          <l>אני רוצה לפגוש אותך ספונטני </l>
+          <l>רק אותך רק אותך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

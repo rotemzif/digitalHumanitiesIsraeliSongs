@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השיר שלא נגמר</title>
+        <singer classification="unknown">בועז שרעבי</singer>
+        <writer>שייקה פייקוב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השיר שלא נגמר</head>
+        <lg number="1" type="stanza">
+          <l>שיר על אלה שאהבתי</l>
+          <l>שיר על אלה שהיו</l>
+          <l>שיר על אלה שידעתי</l>
+          <l>ועל אלה שחלפו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ממתי אתה קורא לי</l>
+          <l>ממתי אתה נוגב</l>
+          <l>ממתי אתה כואב לי</l>
+          <l>וכאילו מתחנן</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שיר לנו שיר חדש, השיר שלא נגמר</l>
+          <l>שיר על היום ועל מחר</l>
+          <l>שיר את השיר הזה, השיר אשר בלב</l>
+          <l>שיר לסובל ולאוהב. לאוהב!</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שיר כזה נולד עם ערב</l>
+          <l>שיר כזה פתאום יוצא</l>
+          <l>שיר כזה כוחו מה ייהה</l>
+          <l>שיר כזה פתאום עולה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שיר כזה עושה שמח</l>
+          <l>לפעמים הוא גם עצוב</l>
+          <l>מי ששר אותו שוכח</l>
+          <l>וחוזר ושר לו שוב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שיר לנו שיר חדש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

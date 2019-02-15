@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שובר ת ראש</title>
+        <singer classification="male singer">פבלו רוזנברג</singer>
+        <writer>פבלו רוזנברג</writer>
+        <composer>שושן</composer>
+        <album>האוסף</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שובר ת'ראש</head>
+        <lg number="1" type="stanza">
+          <l>חום של אישה כמו שלי</l>
+          <l>בגוף של אישה כמו שלי</l>
+          <l>זה כמו לחזור אל הרחם -</l>
+          <l>הרחם של יום היוולדי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>דם של אישה כמו שלי</l>
+          <l>בלב של אישה כמו שלי</l>
+          <l>זה כמו לחזור אל החדר -</l>
+          <l>החדר של בית ילדותי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שובר ת'ראש איך זכיתי לזה</l>
+          <l>כאילו לחדור את גן עדן</l>
+          <l>טרם יגיע יומי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אור של אישה כמו שלי</l>
+          <l>בעור של אישה כמו שלי</l>
+          <l>זה כמו לגעת בשמיים</l>
+          <l>שמיים זרועי כוכבים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שובר ת'ראש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

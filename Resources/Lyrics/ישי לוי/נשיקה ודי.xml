@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נשיקה ודי</title>
+        <singer classification="male singer">ישי לוי</singer>
+        <writer>יניב דהן</writer>
+        <composer>אבי פרץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נשיקה ודי</head>
+        <lg number="1" type="stanza">
+          <l>הלכתי חיפשתי </l>
+          <l>כמעט בכל מקום </l>
+          <l>ניסיתי טעמתי </l>
+          <l>הגשמתי כל חלום </l>
+          <l>בדקתי די, אז עד מתי </l>
+          <l>תגידי לי אולי </l>
+          <l>בשתי ידי אותך אלי</l>
+          <l>אקח בזרועותי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם תבואי ותתני לי נשיקה ודי </l>
+          <l>אם תבואי ותאמרי </l>
+          <l>רק אותך אני אוהבת </l>
+          <l>לי ולך שלי שלך </l>
+          <l>היה בינינו קליק שלא נשכח </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נסעתי הפלגתי </l>
+          <l>בים כל כך גדול </l>
+          <l>ממך בקשתי רק </l>
+          <l>סליחה קטנה אולי תרצי למחול </l>
+          <l>מתוקדה שלי יפה שלי </l>
+          <l>אותך רוצה מכל </l>
+          <l>אני מכור רק לך </l>
+          <l>שבוי שלך אתן לך הכל </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם תבואי ותתני לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

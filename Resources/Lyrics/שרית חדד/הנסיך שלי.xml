@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הנסיך שלי</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הנסיך שלי</head>
+        <lg number="1" type="stanza">
+          <l>חשבתי שאתה הנסיך שלי</l>
+          <l>כל מה שתרצה אתן לך</l>
+          <l>כל כך רוצה אותך, מאמינה בך</l>
+          <l>קח אותי איתך אני שלך </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל היום אני רוצה להיות איתך</l>
+          <l>בלעדיך אין לי מנוחה</l>
+          <l>בוא וספר לי מי זאת בביתך</l>
+          <l>שבגללה אני יושבת ובוכה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>האמנתי שאתה כל כך תמים</l>
+          <l>האמנתי שאתה הטוב בבחורים </l>
+          <l>האמנתי לך ואני בוכה אה אה אה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הייתי לצידך כולי שלך </l>
+          <l>איך נתת לי להאמין בך</l>
+          <l>איך שלא יהיה הכל עובד </l>
+          <l>מכל מי שתמצא אני טובה יותר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כל היום אני רוצה להיות איתך...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>האמנתי שאתה כל כך תמים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

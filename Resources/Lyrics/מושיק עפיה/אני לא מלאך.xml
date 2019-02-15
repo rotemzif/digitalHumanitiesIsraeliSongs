@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני לא מלאך</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>אלון צדוק</writer>
+        <composer>אריק זנטי</composer>
+        <album>מבט שנוגע</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני לא מלאך</head>
+        <lg number="1" type="stanza">
+          <l>אותי את מדהימה ביופייך</l>
+          <l>את העולם למענך הייתי הופך</l>
+          <l>את הלילה הייתי הופך ליום</l>
+          <l>ולך מגשים כמעט כל חלום</l>
+          <l>מבטך כובש לי את הלב</l>
+          <l>ובך ילדה אני מתאהב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני לא מלאך ובטח לא מושלם</l>
+          <l>אני אוהב אותך הכי הרבה בעולם</l>
+          <l>אני לא מלאך ובטח לא מושלם</l>
+          <l>אני אוהב אותך הכי הרבה בעולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כתר אניח על ראשך</l>
+          <l>שושנים אפזר במיטתך</l>
+          <l>מה שתבקשי אני לך אתן</l>
+          <l>אם רק תסכימי להגיד לי כן</l>
+          <l>מבטך כובש לי את הלב</l>
+          <l>ובך ילדה אני מתאהב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני לא מלאך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

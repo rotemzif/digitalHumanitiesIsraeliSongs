@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך אני אדע</title>
+        <singer classification="female singer">חוה אלברשטיין</singer>
+        <writer>חוה אלברשטיין</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>מעליי דממה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך אני אדע</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>איך אני אדע איך אני אדע</l>
+          <l>שהוא שלי ואני היחידה</l>
+          <l>איך אני אדע איך אני אדע</l>
+          <l>כל כך הרבה שנים הייתי בודדה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך אני אדע איך אני אדע</l>
+          <l>תמיד בהתחלה זה כמו באגדה</l>
+          <l>איך אני אדע אני כבר לא ילדה</l>
+          <l>מתי אדע שהחלום היה עובדה</l>
+          <l>איך אני אדע איך אני אדע</l>
+          <l>מדוע בחיי הכל חידה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איך אני אדע איך אני אדע</l>
+          <l>שהוא שלי ואני היחידה</l>
+          <l>אין לי אחיות אין לי ידידה</l>
+          <l>אמי שותקת ואבי בעבודה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך אני אדע איך אני אדע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

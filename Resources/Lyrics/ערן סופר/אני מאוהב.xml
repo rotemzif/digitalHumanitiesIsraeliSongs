@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני מאוהב</title>
+        <singer classification="unknown">ערן סופר</singer>
+        <writer>יוש גרנות</writer>
+        <composer>יוש גרנות</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני מאוהב</head>
+        <lg number="1" type="stanza">
+          <l>אני מאוהב, רציתי שאת</l>
+          <l>תהיי האחת אשר אחבק</l>
+          <l>אני מאוהב רציתי שאת</l>
+          <l>תהי האחת אשר אנשק</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אז בואי עכשיו</l>
+          <l>בואי נאהב עוד הליל</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יש לה עיניים שמשגעות</l>
+          <l>יש לה שפתיים כה מתוקות</l>
+          <l>יש לה חיוך עם שתי גומות</l>
+          <l>לא יכול עוד לחכות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני מאוהב, רציתי שאת</l>
+          <l>תהיי האחת אשר תחבקני אשר תחבקני</l>
+          <l>אני מאוהב וכמו בטירוף רציתי לעוף</l>
+          <l>איתך לתמיד אז בואי נאהב כמו בטירוף</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יש לה עיניים שמשגעות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

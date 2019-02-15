@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טיימסקוור</title>
+        <singer classification="unknown">העיר הגדולה</singer>
+        <writer>זיו הימלפרב</writer>
+        <composer>אורן סניה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טיימסקוור</head>
+        <lg number="1" type="stanza">
+          <l>פעם היה לי רצון לעזוב</l>
+          <l>לטוס שתיים עשרה שעות, לזרוק את כל מי שקרוב</l>
+          <l>לא לזכור אף אחד, להכיר אחרים</l>
+          <l>לשכור דירה יקרה, להיות מוקף בזרים</l>
+          <l>תפוח גדול ופארק מרכזי</l>
+          <l>כיכר של זמן אחר, לא הזמן שלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני אהיה שם לבד, לא אכיר אף אחד</l>
+          <l>אדבר באנגלית, אם בכלל אדבר</l>
+          <l>ואשיר בעברית, לבד, כמו בישראל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הבהלתי את עצמי ואני עדיין כאן</l>
+          <l>בלי פארק מרכזי אבל עם פארק לאומי</l>
+          <l>בלי תפוח גדול אבל עם יונתן</l>
+          <l>בלי דירה יקרה, עם דירה ברמת גן</l>
+          <l>שותה בתל אביב, מרוצה מעצמי</l>
+          <l>והכיכר הכי קרובה - כיכר המנהיג שלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני אהיה שם לבד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

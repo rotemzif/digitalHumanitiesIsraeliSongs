@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On Fire</title>
+        <singer classification="male singer">צחי הלוי</singer>
+        <writer>צחי הלוי</writer>
+        <composer>צחי הלוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>On Fire</head>
+        <lg number="1" type="stanza">
+          <l>think it's time for me to go </l>
+          <l>to plant a seed </l>
+          <l>to help it grow </l>
+          <l>my woman and me </l>
+          <l>we're together now </l>
+          <l>me and she </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>you enlighten my soul </l>
+          <l>and i'm bound to grow </l>
+          <l>just like all around </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>well you can be broke </l>
+          <l>have no money </l>
+          <l>what if money is a state of mind </l>
+          <l>sometimes you do </l>
+          <l>sometimes you don't </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>you enlighten my soul... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>it has all been said before </l>
+          <l>we are bulls on fire</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

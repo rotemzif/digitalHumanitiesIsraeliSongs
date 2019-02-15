@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סבונים</title>
+        <singer classification="female singer">סיון שביט</singer>
+        <writer>סיון שביט</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סבונים</head>
+        <lg number="1" type="stanza">
+          <l>התקפלתי לתוך ארון הכביסה</l>
+          <l>אין סיכוי שימצאו אותי כאן</l>
+          <l>יש מספיק אויר וחור</l>
+          <l>שדרכו נכנס אור</l>
+          <l>אם רוצים אפשר לראות דרכו</l>
+          <l>את חדר האמבטיה</l>
+          <l>אפילו חלק מהמסדרון</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הסנטר לחוץ בין הברכיים</l>
+          <l>הכתונת מתוחה עד כפות הרגליים</l>
+          <l>בכל פעם שמישהו נכנס לשטוף ידיים</l>
+          <l>אני עוצרת את הנשימה</l>
+          <l>אם הכל ילך חלק אני אשאר כאן לפחות שנה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני אשתה מים מהברז</l>
+          <l>ואוכל סבונים</l>
+          <l>ככה אני אהיה נקיה</l>
+          <l>גם מבפנים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

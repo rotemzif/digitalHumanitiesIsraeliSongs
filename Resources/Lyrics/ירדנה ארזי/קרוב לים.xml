@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קרוב לים</title>
+        <singer classification="female singer">ירדנה ארזי</singer>
+        <writer>רחל שפירא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קרוב לים</head>
+        <lg number="1" type="stanza">
+          <l>כל חייו הוא התכוון לשם</l>
+          <l>כשדבקו בו פיח ועשן</l>
+          <l>הוא אמר לה: את יודעת מרים</l>
+          <l>יש מקום אחד קרוב לים</l>
+          <l>אם הזה את המקום ההוא</l>
+          <l>רגליו בחול כבר הוטבעו</l>
+          <l>קשה לי להגיד אם בדה</l>
+          <l>אין אחד שאין בו אגדה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה מה משך אותו לשם</l>
+          <l>קסם מסוים אושר מאוים</l>
+          <l>נדמה לי</l>
+          <l>מה שמעתי בבכים</l>
+          <l>כן או לא קיים מקום קרוב אל הים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל חייו את חלומו עמס</l>
+          <l>לא אחת ראה אותו נרמס</l>
+          <l>בצער בפני התוודה</l>
+          <l>אין אחד שאין בו אגדה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה מה משך אותו לשם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

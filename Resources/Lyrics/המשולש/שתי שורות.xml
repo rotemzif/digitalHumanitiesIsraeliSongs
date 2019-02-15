@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שתי שורות</title>
+        <singer classification="band">המשולש</singer>
+        <writer>שבתאי גרשון</writer>
+        <composer>שבתאי גרשון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שתי שורות</head>
+        <lg number="1" type="stanza">
+          <l>שתי שורות של חיילים צועדים</l>
+          <l>הפחד הכי גדול שלי זה הקצב</l>
+          <l>ואצלנו הקצב לא תמיד אחיד</l>
+          <l>זה מעודד אותי שלחייל הזה יש מה להגיד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שתי שורות של חיילים מוכנים</l>
+          <l>הפחד הכי גדול שלי זה העצב</l>
+          <l>מסתובבים במרכאות של אחרים</l>
+          <l>וזה מדאיג שלאדם ממול אין מה להפסיד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תחפשו בכח, אין אמת בזמן כזה</l>
+          <l>רק תתחזקו ברוח, זה המעט שמוכרחים</l>
+          <l>זה המעט שמוכרחים בזמן הזה</l>
+          <l>זה המעט שמוכרחים בזמן הזה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שתי שורות של שיר שלום בדמיוני</l>
+          <l>התענוג הכי גדול שלי זה הקצב</l>
+          <l>ואצלנו התקווה הפכה לראשונה מבין שנים</l>
+          <l>זה מעודד אותי שהתקווה הזאת היכתה כבר שורשים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אל תחפשו בכוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אוניה 3</title>
+        <singer classification="female singer">יפה ירקוני</singer>
+        <writer>טרזה גויטיין</writer>
+        <composer>טרזה גויטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אוניה</head>
+        <lg number="1" type="stanza">
+          <l>אוניה אוניה,</l>
+          <l>עם כנף כשל יונה</l>
+          <l>אוניה אוניה,</l>
+          <l>עם כנף כשל יונה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היא מתנדנדת</l>
+          <l>עולה יורדת,</l>
+          <l>היא מתנדנדת</l>
+          <l>על הגלים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

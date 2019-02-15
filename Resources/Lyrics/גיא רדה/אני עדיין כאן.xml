@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני עדיין כאן</title>
+        <singer classification="unknown">גיא רדה</singer>
+        <writer>הילה ברוך</writer>
+        <composer>גיא רדה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני עדיין כאן</head>
+        <lg number="1" type="stanza">
+          <l>עד שהופעת לי הייתי מהלך </l>
+          <l>מיד ידעתי שלא ארפה ממך</l>
+          <l>יודע שהכול זמני</l>
+          <l>נוצר כל רגע בליבי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza" />
+        <lg number="3" type="stanza">
+          <l>עד שקבעתי פגישה עם אהבה</l>
+          <l>מיד ידעתי את הראשונה</l>
+          <l>מרגיש אותך בעצמותיי</l>
+          <l>חומך עוטף את כל חושיי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza" />
+        <lg number="5" type="stanza">
+          <l>פזמון: </l>
+          <l> אל תתני לי ללכת עכשיו*2</l>
+          <l> אל תאמרי מיותר זה נגמר</l>
+          <l> אני אוהב אני עדיין כאן</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza" />
+        <lg number="7" type="stanza">
+          <l>את מילותייך אשמור בתוך הלב</l>
+          <l>במבטייך רואים את הכאב</l>
+          <l>יד אוחזת בידי</l>
+          <l>נוצר כל רגע בליבי</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza" />
+        <lg number="9" type="stanza">
+          <l>פזמון:  </l>
+          <l>אל תתני לי ללכת עכשיו*2</l>
+          <l>אל תאמרי מיותר זה נגמר</l>
+          <l>אני אוהב אני עדיין כאן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

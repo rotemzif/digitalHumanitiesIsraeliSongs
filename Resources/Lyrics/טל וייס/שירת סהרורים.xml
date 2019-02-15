@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שירת סהרורים</title>
+        <singer classification="female singer">טל וייס</singer>
+        <writer>טל וייס</writer>
+        <composer>טל וייס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שירת סהרורים</head>
+        <lg number="1" type="stanza">
+          <l>גם היום לא אשן</l>
+          <l>בדיוק כמו אתמול</l>
+          <l>שם מולי על ענן</l>
+          <l>איש צבוע בכחול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מסביב העולם רוקד</l>
+          <l>בהילוך איטי</l>
+          <l>רק האיש שם בכוכבים</l>
+          <l>מנגן איתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>התנים מצטרפים</l>
+          <l>לשירת סהרורים</l>
+          <l>איש כחול - שלח עב"ם</l>
+          <l>ונשיר על מאדים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מסביב העולם רוקד</l>
+          <l>בהילוך איטי</l>
+          <l>רק האיש שם בכוכבים</l>
+          <l>מנגן איתי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

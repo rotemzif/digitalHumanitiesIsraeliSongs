@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו פעם</title>
+        <singer classification="unknown">ג וזי כץ</singer>
+        <writer>עדה נסטוביץ'</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו פעם</head>
+        <lg number="1" type="stanza">
+          <l>בוא נצא קצת לטיול</l>
+          <l>תעולל לי תעלול</l>
+          <l>כמו פעם</l>
+          <l>עוד פעם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תיקחני לחורשה</l>
+          <l>ותאמר בלחישה:</l>
+          <l>כמו פעם</l>
+          <l>עוד פעם</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני נערה יפה ותמימה</l>
+          <l>אתה מחייך, בוא למדני -</l>
+          <l>כיצד פרפרים</l>
+          <l>עפים אוהבים</l>
+          <l>עלי התאנה מה מכסים?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נשחק במחבואים</l>
+          <l>נסתתר בין השיחים</l>
+          <l>כמו פעם</l>
+          <l>עוד פעם</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואני אותך אתפוס</l>
+          <l>בין הדס לבין קיסוס</l>
+          <l>נרדם</l>
+          <l>כמו פעם</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני נערה יפה ותמימה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

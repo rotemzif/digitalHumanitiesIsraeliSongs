@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני רוקד עם אמא</title>
+        <singer classification="unknown">דיג דיג דוג</singer>
+        <writer>מיכל חזון</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני רוקד עם אמא</head>
+        <lg number="1" type="stanza">
+          <l>אני רוקד עם אמא ריקוד יפה מאוד</l>
+          <l>הוא רק שלנו ותמיד נשמור אותו בסוד</l>
+          <l>אני רוקד עם אמא ריקוד כל כך נחמד</l>
+          <l>נרקוד ביחד לבדנו יד ביד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>צעד לאחור וצעד קדימה</l>
+          <l>אסתובב סביב לאמא</l>
+          <l>צעד לאחור וצעד לפנים</l>
+          <l>מתקרבים ומתחבקים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני רוקד עם אמא ריקוד יפה מאוד</l>
+          <l>איתה במעגל אני כל כך אוהב לרקוד</l>
+          <l>אני רוקד עם אמא והיא אומרת לי</l>
+          <l>שכל הזמן אני שלה והיא שלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>צעד לאחור וצעד קדימה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה אני זה אתה</title>
+        <singer classification="male singer">מאור כהן</singer>
+        <writer>מאור כהן</writer>
+        <composer>מאור כהן</composer>
+        <album>טוב לנו יחד</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה אני זה אתה</head>
+        <lg number="1" type="stanza">
+          <l>זה אני זה אתה</l>
+          <l>זה אותה המטרה</l>
+          <l>זה מעל המשקל</l>
+          <l>זה ללכת על הקל</l>
+          <l>לא צריך לדבר</l>
+          <l>על נושא שלא עובר</l>
+          <l>להכיר בשמות</l>
+          <l>של מי שהביא הוכחות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זה לא בא בקלות</l>
+          <l>זה דורש קצת תחרות</l>
+          <l>להציג ת'עובדות</l>
+          <l>של מה שקורה בשניות</l>
+          <l>איש אחד אז יגיד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מי שכבר צר לו</l>
+          <l>על מה שהיה לו</l>
+          <l>לא יהיה חם לו איתי</l>
+          <l>מי שעוד תר לו</l>
+          <l>מה לי לזמר לו</l>
+          <l>לא יהיה די לו איתי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זה חשוב לעצור</l>
+          <l>לעבות את השחור</l>
+          <l>להבהיר ניגודים</l>
+          <l>להרגיש עם זה נעים</l>
+          <l>זה חלקיק וזה גל</l>
+          <l>זה חוזר במעגל</l>
+          <l>זה גורם התאבכות</l>
+          <l>זה נמצא בהסתברות</l>
+          <l>איש אחד אז יגיד</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מי שכבר צר לו</l>
+          <l>על מה שהיה לו</l>
+          <l>לא יהיה חם לו איתי</l>
+          <l>מי שעוד תר לו</l>
+          <l>מה לי לזמר לו</l>
+          <l>לא יהיה די לו איתי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

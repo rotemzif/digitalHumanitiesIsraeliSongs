@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עננים 5</title>
+        <singer classification="male singer">גבי שושן</singer>
+        <writer>אריה פרננד</writer>
+        <composer>אריה פרננד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עננים</head>
+        <lg number="1" type="stanza">
+          <l>עננים כיסו את השמיים</l>
+          <l>עוד מעט הגשם יטפטף</l>
+          <l>איך הזמן זוחל בעצלתיים</l>
+          <l>גלי לי מה הוא סוד ליבך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואני סגור בתוך החדר</l>
+          <l>כאן הכל כל כך שומם</l>
+          <l>איך עובר עוד יום כאן בלעדייך</l>
+          <l>ספרי איך עובר אצלך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יש רגעים אני נסער </l>
+          <l>הדמעות זולגות והלב נשבר</l>
+          <l>את יודעת לך אני רק שר...</l>
+          <l>יש רגעים אני נסער </l>
+          <l>הדמעות זולגות והלב נשבר</l>
+          <l>את יודעת לך אני רק שר... בדמי אלייך מחובר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עננים כיסו את השמיים </l>
+          <l>ואני יושב כותב</l>
+          <l>שר שירים שמתחברים אלייך</l>
+          <l>ואליי מדברים מתוך הלב...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יש רגעים אני נסער...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

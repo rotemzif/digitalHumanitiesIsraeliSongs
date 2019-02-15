@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מעריץ מטורף</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>שמואל אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מעריץ מטורף</head>
+        <lg number="1" type="stanza">
+          <l>החיוך שלך שווה לי את כל העולם, שווה לי הכל</l>
+          <l>את כל כך יפה כבר ארבע בבוקר קשה לי לישון</l>
+          <l>קם אל החלון נושם לי אויר של בוקר ראשון</l>
+          <l>מנשק אותך קלות, מפליג בדימיון.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איתך מסתובב כמו אויר עם הראש בשמים</l>
+          <l>נתת לי את כל הסיבות שאיתך כייף לחיות,</l>
+          <l>אם יש מעריץ מטורף, זה אני אחרייך</l>
+          <l>פשוט מרחף בחלל עשרים וארבע שעות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא צריך מילים, בינך וביני זה הלב שפועם בשתיקה</l>
+          <l>לפנק אותך, זה בא מבפנים ואין לי על זה שום שליטה</l>
+          <l>אין מה להסביר קוראים לי דברים שקשה לי מאוד להסתיר</l>
+          <l>יש לי מן תחושה כזאת שאין לה מחיר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איתך מסתובב כמו אויר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

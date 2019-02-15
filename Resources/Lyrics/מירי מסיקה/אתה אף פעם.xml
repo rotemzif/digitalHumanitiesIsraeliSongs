@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אתה אף פעם</title>
+        <singer classification="female singer">מירי מסיקה</singer>
+        <writer>איה כורם</writer>
+        <composer>איה כורם</composer>
+        <album>מירי מסיקה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אתה אף פעם</head>
+        <lg number="1" type="stanza">
+          <l>אתה אף פעם לא תביט בי באותן עיניים</l>
+          <l>ולמבט שלי נוסף שמץ אכזבה</l>
+          <l>כי אם אתה עוזב ואם אני נשארת</l>
+          <l>זאת לא אותה האהבה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני תמיד אשמור על כמה צעדים אחורה</l>
+          <l>אפילו אם תתן לי להיות קרובה</l>
+          <l>כי אם אתה שוכח ואני זוכרת</l>
+          <l>זאת לא אותה האהבה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ולא ישארו לי אליך רחמים</l>
+          <l>ויכאב לך הרבה אני מקווה</l>
+          <l>כי על מי אני בוכה</l>
+          <l>על מה אני עצובה</l>
+          <l>חבל על הדמעות שלי</l>
+          <l>זאת לא אותה האהבה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואם באות דמעות אז הן באות בערב</l>
+          <l>ואחריהן אני תמיד נרדמת בשלווה</l>
+          <l>אחרי הכל אני תמיד אוהב אותך</l>
+          <l>אבל זאת לא אותה האהבה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ולא ישארו לי אליך רחמים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתוך עינייך</title>
+        <singer classification="female singer">גליקריה</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>מעליי דממה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתוך עינייך</head>
+        <lg number="1" type="stanza">
+          <l>את העולם רואה דרך עינייך</l>
+          <l>כל חיי אני איתך</l>
+          <l>משחר נעוריי רק תפילה בפי לך</l>
+          <l>עינייך דרך לי שלא אטעה בדרכי</l>
+          <l>עינייך מה כוחן בי</l>
+          <l>אחרייך בלי מילים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהבתי באמונה</l>
+          <l>אהבתי עודני רק תמימה</l>
+          <l>בך נדבקתי לא עזבתי</l>
+          <l>כי חיים רק איתך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את עינייך רואה נעצמו מחמלה</l>
+          <l>אחדור אני לתוך גופך</l>
+          <l>אשקיט את יגונך את העצב שעל ליבך</l>
+          <l>יודעת מה אתה לי בלעדיך צער לי</l>
+          <l>יודעת זה אתה לי</l>
+          <l>בלעדיך מי אני</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהבתי באמונה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

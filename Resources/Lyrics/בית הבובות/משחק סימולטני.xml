@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משחק סימולטני</title>
+        <singer classification="band">בית הבובות</singer>
+        <writer>איתי שיף</writer>
+        <composer>איתי שיף</composer>
+        <album>שוב החיוך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משחק סימולטני</head>
+        <lg number="1" type="stanza">
+          <l>איך לתוך החלום הזה נשאבתי</l>
+          <l>והלילה כבר מזמן עבר</l>
+          <l>ואני לא מוכן לראות את הפחד</l>
+          <l>היום מתחילים את מחר</l>
+          <l>התקווה כבר בפתח ובנתיים</l>
+          <l>לא צריך לחפש ת'מזל </l>
+          <l>ולבטח נהיה כאן כולנו</l>
+          <l>עוד נבנה לכולנו גורל </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>במשחק הסימולטני שלנו</l>
+          <l>כל אחד בדרכו כבר יבחר</l>
+          <l>ובדרך לפתע לכולנו</l>
+          <l>יגיע עוד רמז מוכר</l>
+          <l>לא שכחתי לרגע איך נלחמנו </l>
+          <l>להביא את עצמנו לכאן</l>
+          <l>העיקר האמנו בכל רגע</l>
+          <l>לא ויתרנו למה שכשל </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עד שיהיה כאן טוב</l>
+          <l>יהיה, יהיה, יהיה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עד אלי</l>
+          <l>לצעוק, לשמוח, לא לברוח, לא לשכוח</l>
+          <l>עד אלי</l>
+          <l>לצעוק, לשמוח, לא לשכוח, לא לברוח</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עד אלייך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עד שיהיה כאן טוב</l>
+          <l>יהיה, יהיה, יהיה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

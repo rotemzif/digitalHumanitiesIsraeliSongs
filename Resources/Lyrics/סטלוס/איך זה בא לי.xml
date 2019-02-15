@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך זה בא לי</title>
+        <singer classification="unknown">סטלוס</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך זה בא לי</head>
+        <lg number="1" type="stanza">
+          <l>מימי לא חלמתי שתהיה לי נערה</l>
+          <l>שתיתן לי את לבה באמת ואמונה.</l>
+          <l>כי אני לא רומנטי, אף פעם לא קרה לי</l>
+          <l>שהיכרתי מישהי שנתנה לי אהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך זה בא לי לא אדע,</l>
+          <l>רק אומר לה תודה</l>
+          <l>שנתנה לי את ידה,</l>
+          <l>כי יפה היא כאגדה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>החיים שנתנה לי לא היו לי מעולם,</l>
+          <l>לא ידעתי שום-דבר על סודות האהבה.</l>
+          <l>לבדי חייתי, התרחקתי מאדם,</l>
+          <l>לא הייתי מאושר עד שבאה לחיי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך זה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

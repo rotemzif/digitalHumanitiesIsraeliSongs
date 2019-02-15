@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה כאב וזה יכאב</title>
+        <singer classification="unknown">צעירי תמיר</singer>
+        <writer>דודו ברק</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה כאב וזה יכאב</head>
+        <lg number="1" type="stanza">
+          <l>זה כאב וזה יכאב.</l>
+          <l>האהבה היא כמו כאב קולח.</l>
+          <l>היא צמא והיא רעב.</l>
+          <l>אך נורא מכל, להיות מאוהב לשווא.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את שוב נשארת איתי.</l>
+          <l>את שוב נגמרת איתי.</l>
+          <l>את שארית נשמתי.</l>
+          <l>את שוב אוהבת אותי.</l>
+          <l>ושוב עוזבת אותי.</l>
+          <l>את כמו חיי ומותי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא יודע מה לומר.</l>
+          <l>לא יודע איך לשמור עלינו.</l>
+          <l>זה מתחיל ולא נגמר.</l>
+          <l>אך נורא מכל גם מה שעבר, עבר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את שוב נשארת איתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

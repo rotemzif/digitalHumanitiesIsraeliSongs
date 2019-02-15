@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>My Stars My Moons My Love</title>
+        <singer classification="unknown">לימוס לימוס</singer>
+        <writer>נועם רפפורט</writer>
+        <composer>אדי רון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>My Stars My Moons My Love</head>
+        <lg number="1" type="stanza">
+          <l>Going home </l>
+          <l>(All that I want to do) </l>
+          <l>Feeling warm </l>
+          <l>(All that I wish for you) </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>My stars </l>
+          <l>My moons </l>
+          <l>My love </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Feel my flame </l>
+          <l>(All which I give to thee) </l>
+          <l>See my friend </l>
+          <l>(All that you have to be) </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>My trees </l>
+          <l>My seas </l>
+          <l>My love </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>My stars </l>
+          <l>My moons </l>
+          <l>My love</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

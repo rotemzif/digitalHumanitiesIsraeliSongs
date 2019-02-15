@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נס 58</title>
+        <singer classification="female singer">רונה קינן</singer>
+        <writer>רונה קינן</writer>
+        <composer>רונה קינן</composer>
+        <album>עיניים זרות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נס</head>
+        <lg number="1" type="stanza">
+          <l>היא לא רוצה לראות אפשרות אחרת</l>
+          <l>אולי יקרה נס</l>
+          <l>היא לא רוצה ליפול נפילה חוזרת</l>
+          <l>אל מה שנמס</l>
+          <l>נמס</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך אפשר לנשום</l>
+          <l>אין לנו מקום</l>
+          <l>איך אפשר לנשום</l>
+          <l>אין לנו מקום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא מבקשת</l>
+          <l>שאשאר לישון</l>
+          <l>ואולי זה יתמוסס</l>
+          <l>היא חושבת שאם נדבר על זה</l>
+          <l>אולי יקרה נס</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך אפשר לנשום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

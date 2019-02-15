@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק דקה</title>
+        <singer classification="unknown">טליה ברנדמן</singer>
+        <writer>טליה ברנדמן</writer>
+        <composer>טליה ברנדמן</composer>
+        <album>מתוך סופה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק דקה</head>
+        <lg number="1" type="stanza">
+          <l>רק דקה</l>
+          <l>הישאר, עוד שנייה</l>
+          <l>אל תלך, אהובי</l>
+          <l>תן לי יד, עוד שקיעה</l>
+          <l>נגיעה, עוד זריחה</l>
+          <l>אל תצא מהחום של החדר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי ראיתי את הגשם</l>
+          <l>ראיתי את הגשם נופל</l>
+          <l>על ביתי</l>
+          <l>ראיתי את הגשם</l>
+          <l>ראיתי את הגשם דופק</l>
+          <l>על דלתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין מילה</l>
+          <l>לתאר כמה עמוקה</l>
+          <l>היא האהבה שלי</l>
+          <l>תן לי יד, עוד שקיעה</l>
+          <l>נגיעה, עוד זריחה</l>
+          <l>אל תצא מהחום של החדר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי ראיתי את הגשם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רק דקה,</l>
+          <l>הישאר...</l>
+          <l>עוד שקיעה,</l>
+          <l>נגיעה אחת</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי ראיתי את הגשם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

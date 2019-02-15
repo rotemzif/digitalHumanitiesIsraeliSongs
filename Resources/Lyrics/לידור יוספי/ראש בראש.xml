@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ראש בראש 2</title>
+        <singer classification="male singer">לידור יוספי</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>יוסי בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ראש בראש</head>
+        <lg number="1" type="stanza">
+          <l>אני זוכר אותה ילדה</l>
+          <l>היום היא כבר גדולה</l>
+          <l>אני אליה לא יכול לגשת</l>
+          <l>כל חיי עוברים מולה</l>
+          <l>בעיניי היא רק מלכה</l>
+          <l>אלוקים הדרך עדיין מפותלת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ראש בראש אני אלך איתך</l>
+          <l>או יד ביד אני אוביל אותך</l>
+          <l>צעד וצעד נתקדם יחדיו</l>
+          <l>אל אותו שביל המשותף</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ובשעה הכי יפה</l>
+          <l>היא עוזבת ובוכה</l>
+          <l>היא אורזת מזוודה ומתקפלת</l>
+          <l>ואותי היא לא רוצה</l>
+          <l>כי פגעתי בה נורא</l>
+          <l>תני סיכוי קטן ולך אהיה אחרת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ראש בראש אני אלך איתך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

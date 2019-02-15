@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אתה מלאך שלי</title>
+        <singer classification="female singer">מישל</singer>
+        <writer>אריה פרננד</writer>
+        <composer>אריה פרננד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אתה מלאך שלי</head>
+        <lg number="1" type="stanza">
+          <l>הגשם שוב שוטף את הרחוב,</l>
+          <l>ואני שומעת את כל צעדיך,</l>
+          <l>מהדהד אלי משם, כל כך רחוק</l>
+          <l>משהו עושה לי בלב.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הלילה שוב אני כאן לבדי,</l>
+          <l>זה צורב בפנים קורע, את כולי</l>
+          <l>אם היית עכשיו כאן לידי,</l>
+          <l>הייתי לך נותנת, את נשמתי.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אתה מלאך שלי,</l>
+          <l>אתה לי כל חיי, הנשמה שלי.</l>
+          <l>אתה מאור עיני, היחיד שלי,</l>
+          <l>אין אחר בחיי, חזור אליי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בלילה שוב אני כאן לבדי,</l>
+          <l>עוצמת את העיניים,</l>
+          <l>ושואלת את עצמי.</l>
+          <l>האם היית אי פעם שלי,</l>
+          <l>אז למה זה הלכת, מלאך שלי.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אתה מלאך שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

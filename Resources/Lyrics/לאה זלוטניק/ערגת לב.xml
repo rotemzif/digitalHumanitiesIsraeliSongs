@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ערגת לב</title>
+        <singer classification="unknown">לאה זלוטניק</singer>
+        <writer>לאה זלוטניק</writer>
+        <composer>לאה זלוטניק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ערגת לב</head>
+        <lg number="1" type="stanza">
+          <l>אזעק ואזדקק לך</l>
+          <l>ואין שומע בדממתי</l>
+          <l>כולי כואבת אליך</l>
+          <l>ואין שומע בדממתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בשעות הקטנות הללו</l>
+          <l>מתחננת אלי פניך</l>
+          <l>רחקו חלומותי לא באו</l>
+          <l>להציליני מהגיגי עליך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אדאג כי קולי תשמע</l>
+          <l>ואיך אדע אם כך היה</l>
+          <l>כולי ערגת לב אליך</l>
+          <l>ואין שומע באפילה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בשעות הקטנות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

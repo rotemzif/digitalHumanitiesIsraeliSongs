@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני מולך</title>
+        <singer classification="female singer">מאיה אברהם</singer>
+        <writer>דנית צור אלמוג</writer>
+        <composer>רן אביב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני מולך</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אהוב</l>
+          <l>חלפה תקופה סוחפת ויפה</l>
+          <l>אני אתה בלי סוף בלי התחלה</l>
+          <l>עכשיו אני רוצה לומר לך</l>
+          <l>צריכה קצת מנוחה</l>
+          <l>לתחום עולם נפרד מעולמך</l>
+          <l>רוצה אותך בלי לפחד שתיכף אאבד</l>
+          <l>עוד רגע אבלע</l>
+          <l>להיות איתך מבלי להיעלם להיות עולם שלם</l>
+          <l>להיות אני מולך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אהוב</l>
+          <l>עברה שנה עוטפה מגנה</l>
+          <l>אני בתוך אתה בלי נשימה</l>
+          <l>עכשיו אני רוצה לומר לך</l>
+          <l>אני כבר מוכרחה למצוא מקום נפרד מזה שלך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רוצה אותך בלי לפחד שתיכף אאבד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

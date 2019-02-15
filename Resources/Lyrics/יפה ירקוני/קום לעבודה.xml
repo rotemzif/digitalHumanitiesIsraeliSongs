@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קום לעבודה</title>
+        <singer classification="female singer">יפה ירקוני</singer>
+        <writer>משה סחר</writer>
+        <composer>יוחנן זראי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קום לעבודה</head>
+        <lg number="1" type="stanza">
+          <l>קרן אור ראשון בא למושבה,</l>
+          <l>בוקר מחיך מעודן.</l>
+          <l>פעמון קורא: קום לעבודה;</l>
+          <l>תן קולך בשיר רענן.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>העבודה, העבודה - אם תתלהב בה,</l>
+          <l>העבודה, העבודה תתן פריה;</l>
+          <l>אם רק תדע, אם רק תדע להתאהב בה,</l>
+          <l>לא תדע בחור מצוקה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא הזמן לישון, קום מן המיטה,</l>
+          <l>הצטרף מהר לשורה,</l>
+          <l>ראש זקוף - עמוד מול האור איתן,</l>
+          <l>תן קולך בשיר רענן.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>העבודה, העבודה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

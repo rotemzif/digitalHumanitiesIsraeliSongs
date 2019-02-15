@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>להתראות 4</title>
+        <singer classification="male singer">חיים משה</singer>
+        <writer>שוש מולא</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>להתראות</head>
+        <lg number="1" type="stanza">
+          <l>אל תחכי לי אהובה, אני נוסע</l>
+          <l>עוזב הכל, יוצא לעיר אחרת</l>
+          <l>אוהב אותך אפילו שידעתי</l>
+          <l>אני לא מוותר ואת נשארת.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>להתראות, מפה אני נוסע </l>
+          <l>אבל ליבי נשאר כאן בשבילך</l>
+          <l>להתראות, אני אתגעגע</l>
+          <l>רע לי בלעדייך,</l>
+          <l>רק רוצה אלייך</l>
+          <l>תני לי את שפתייך לשכנע.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את תחכי לי אהובה, אני יודע  </l>
+          <l>הלב שבור ואי אפשר אחרת</l>
+          <l>אוהב אותך, תמיד אני אהבתי</l>
+          <l>אבל אני הולך ואת נשארת.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>להתראות, מפה אני נוסע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

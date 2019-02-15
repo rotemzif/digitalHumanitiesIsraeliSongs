@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נעשה חיים</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נעשה חיים</head>
+        <lg number="1" type="stanza">
+          <l>מחכה לך מול הבית</l>
+          <l>מחכה לך בפינה</l>
+          <l>למה את לא מדברת</l>
+          <l>וכזאתי משונה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל מקום שאת הולכת</l>
+          <l>כולם עלייך מסתכלים</l>
+          <l>נוצצות הן שתי עינייך</l>
+          <l>כמו שני יהלומים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מה שאת עושה לי</l>
+          <l>מה שאת עושה</l>
+          <l>לא הבנתי מה קורה לי</l>
+          <l>למה את כל כך קשה</l>
+          <l>מה שאת עושה לי</l>
+          <l>משגעת ת'חיים</l>
+          <l>לא הבנתי מה קורה לי</l>
+          <l>בואי נעשה חיים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מחכה לך יום ולילה</l>
+          <l>מחכה לך כל הזמן</l>
+          <l>את מכל דבר נפגעת</l>
+          <l>ועושה מזה עניין</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את חמה כמו השמש</l>
+          <l>רחוקה כמו ענן</l>
+          <l>לא יודע מה קורה לך</l>
+          <l>את בורחת כל הזמן</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מה שאת עושה לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

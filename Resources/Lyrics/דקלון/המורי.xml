@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המורי</title>
+        <singer classification="male singer">דקלון</singer>
+        <writer>שלמה מחדון</writer>
+        <composer>שלמה מחדון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המורי</head>
+        <lg number="1" type="stanza">
+          <l>יום יום אותה שעה, רואה אותה ממול</l>
+          <l>יושבים סביב תשעה, לומדים בסלסול</l>
+          <l>המורי הזקן, השוט על כתפו</l>
+          <l>במבט בוחן, עומד על משמרתו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הגיע הזמן אומרת אימי!</l>
+          <l>הכל כבר מוכן ללכת למורי</l>
+          <l>פאות על לחיי, הספר בידי</l>
+          <l>מחיש פעמי ללכת למורי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מרנן ליבי קולות בית רבן</l>
+          <l>שוב נזכר אני כשהייתי קטן</l>
+          <l>באותו מקום שבו הם יושבים</l>
+          <l>יום יום אותה שעה, שונים וחוזרים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הגיע הזמן אומרת אימי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

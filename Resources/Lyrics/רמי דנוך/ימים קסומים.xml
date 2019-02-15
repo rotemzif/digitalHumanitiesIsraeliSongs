@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ימים קסומים</title>
+        <singer classification="male singer">רמי דנוך</singer>
+        <writer>רמי דנוך</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ימים קסומים</head>
+        <lg number="1" type="stanza">
+          <l>הייתה לי אהבה כנה, אהבה כה מתוקה</l>
+          <l>נשארתי עם הדמיונות והחלומות</l>
+          <l>דמותך עולה מתוך תמונות המזכירות את העבר</l>
+          <l>הלכה אבדה לה אהבה אני פשוט נגמר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איתך היו לי ימים יפים</l>
+          <l>ימים קסומים ומתוקים </l>
+          <l>איתך חוויתי רגעים טעמתי אהבה</l>
+          <l>עכשיו כשאת כה רחוקה</l>
+          <l>והבדידות עלי סגרה</l>
+          <l>אבדה שמחה מתוך חיי גדולה האכזבה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מביט אני אל הקירות בחדר האפל</l>
+          <l>רוצה לעצור את השעון אבל הזמן עובר</l>
+          <l>ובין ייאוש לבין תקווה נמצאת האהבה</l>
+          <l>חולם דמותך הייתה לי אהבה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איתך היו לי ימים יפים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מסוחרר</title>
+        <singer classification="unknown">בן אל תבורי</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>יוסי בן דוד</composer>
+        <album>מוצא בך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מסוחרר</head>
+        <lg number="1" type="stanza">
+          <l>בך רציתי כל הזמן כבר מאז דלקו עיני </l>
+          <l>את תמיד הארת לי את חיי </l>
+          <l>כמה טוב להיות איתך ולחוש כל פעימה</l>
+          <l>כשאת נמצאת איתי האושר בא </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני מסוחרר ממך כמו פרפר </l>
+          <l>מכל הפרחים בגן ורק אלייך שב </l>
+          <l>את פשוט עושה את זה לפנק אותך רוצה </l>
+          <l>את אחת שמקפיצה לי את הלב </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק איתך מרגיש מושלם </l>
+          <l>את כמו השמש לעולם </l>
+          <l>ובלילה כמו כוכב מאיר עלי</l>
+          <l>כמו מאז היו יודעים ממלכה לנסיכים </l>
+          <l>בשבילי את כוח בחיים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני מסוחרר ממך כמו פרפר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחיי בני תימן 2</title>
+        <singer classification="male singer">שריף</singer>
+        <writer>מרדכי יצהרי</writer>
+        <composer>ציון גולן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחיי בני תימן</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אחי בני תימן קיראו לאל עליון</l>
+          <l>ישיב שבות ציון, אל עיר מהוללה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אחי בני תימן, קיראו למלך רם</l>
+          <l>אחי בני תימן, עושים רצון קונם</l>
+          <l>אחי בני תימן, קיראו לאל עליון.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שירי אני אשא אל אל ורם נישא.</l>
+          <l>על עמך חוסה וגאל בני גולה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אחי בני תימן...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>צורי שמע קולם חון וחמל סבלם.</l>
+          <l>הקל לרוב עולם ופקוד בני חמלה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אחי בני תימן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

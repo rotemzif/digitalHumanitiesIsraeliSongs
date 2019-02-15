@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נערה יפה</title>
+        <singer classification="male singer">בר כהן</singer>
+        <writer>סלימן בן חמו</writer>
+        <composer>סלימן בן חמו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נערה יפה</head>
+        <lg number="1" type="stanza">
+          <l>יש נערה יפה שאותי שיגעה</l>
+          <l>את ליבי שבתה ונפשי איתה</l>
+          <l>זוג עיניים אלי יפות ומדברות</l>
+          <l>שאותי כבשו ואליי אומרות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בוא אלי</l>
+          <l>דבר איתי</l>
+          <l>בוא אלי</l>
+          <l>אהוב אותי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>האהבה נמצאת ולא איתי</l>
+          <l>והלב הולם בכל גופי</l>
+          <l>נשמתי כמהה להכיר אותה</l>
+          <l>היום האהבה אותי פגשה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בדרכי חושב לומר לה</l>
+          <l>לי "נעים מאוד" היא ענתה</l>
+          <l>היא כבר תכננה, בי היא גם רצתה</l>
+          <l>איך אני מופתע</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בוא אלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מהשמיים 3</title>
+        <singer classification="band">טיפקס</singer>
+        <writer>קובי אוז</writer>
+        <composer>קובי אוז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מהשמיים</head>
+        <lg number="1" type="stanza">
+          <l>מאיפה באת אלי</l>
+          <l>אני שואל נדהם</l>
+          <l>ברגעים רכים של ים</l>
+          <l>מאיפה באת אלי</l>
+          <l>שואל בלחישה</l>
+          <l>ואז עונה לי העולם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מהשמיים</l>
+          <l>מהשמיים</l>
+          <l>כמו קוסמות בפוקס נפלת עלי</l>
+          <l>מהשמיים</l>
+          <l>מהשמיים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>במתנה מהגרלת חיי</l>
+          <l>מאיפה באת אלי</l>
+          <l>אני שואל חלום</l>
+          <l>שלא אקום ואת לא כאן</l>
+          <l>מאיפה באת אלי</l>
+          <l>אני כל כך מופתע</l>
+          <l>רואה אותך בכל ענן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מהשמיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

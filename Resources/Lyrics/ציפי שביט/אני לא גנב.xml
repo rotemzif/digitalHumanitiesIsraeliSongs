@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני לא גנב</title>
+        <singer classification="unknown">ציפי שביט</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני לא גנב</head>
+        <lg number="1" type="stanza">
+          <l>אני איני גנב, את זה אני יודע,</l>
+          <l>אך לפעמים דבר מוזר קורה אצלי.</l>
+          <l>כן, לפעמים אני במשהו נוגע,</l>
+          <l>ולא זוכר אם זה שלי או לא שלי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אולי זה לא אני,</l>
+          <l>אלא אדם שני,</l>
+          <l>אולי אני עצמי בעצם רובוטריק:</l>
+          <l>פתאום אני כזה,</l>
+          <l>פתאום אני אחר,</l>
+          <l>והאחר גונב ושם אצלי בתיק.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מצאתי בילקוט קלמר בצבע זיית</l>
+          <l>הרגשתי בליבי הרבה מאוד שמחה.</l>
+          <l>כשאמא ראתה את זה בתוך הבית,</l>
+          <l>היא שאלה: איך זה נכנס לתיק שלך?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אולי זה לא אני...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אל תסתכלו עלי ואל תראו באצבע,</l>
+          <l>כי זה יכול לקרות לכל אחד ודאי.</l>
+          <l>אני איני סוחב וגם לא מפלח,</l>
+          <l>פשוט ישנם דברים שנדבקים אלי.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אולי זה לא אני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

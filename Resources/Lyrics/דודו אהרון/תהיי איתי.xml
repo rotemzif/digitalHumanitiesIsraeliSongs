@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תהיי איתי</title>
+        <singer classification="unknown">דודו אהרון</singer>
+        <writer>עמית בוסידן</writer>
+        <composer>דודו אהרון</composer>
+        <album>גיבור</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תהיי איתי</head>
+        <lg number="1" type="stanza">
+          <l>ברגעים הקשים, ברגעים של עצבות</l>
+          <l>ברגעים שמחים בלי רגע של בדידות- תהיי איתי</l>
+          <l>בנסיעה בעיר, או הליכה בכפר</l>
+          <l>בקיץ חם או בחורף קר- תהיי איתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza" />
+        <lg number="3" type="stanza">
+          <l>פזמון: תהיי   איתי,   כל החיים תהיי איתי</l>
+          <l>         תהיי איתי חיי יהיו קלים תהיי איתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza" />
+        <lg number="5" type="stanza">
+          <l>בנגינת  גיטרה  כשאני  שר  לך  שיר</l>
+          <l>כשאני מסתכל לשמים, או בוהה בקיר-תהיי איתי</l>
+          <l>כשאני לבד בלילה מחפש אותך</l>
+          <l>כשלא קל לי לא קל לך  כשאני צריך אותך כל-כך</l>
+          <l>תהיי איתי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza" />
+        <lg number="7" type="stanza">
+          <l>פזמון: תהיי איתי,כל החיים תהיי איתי.</l>
+          <l>          תהיי איתי חיי יהיו קלים תהיי איתי</l>
+          <l>          תהיי איתי  כל החיים אוהב אותך</l>
+          <l>          תהיי איתי ואם תרצי אהיה איתך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

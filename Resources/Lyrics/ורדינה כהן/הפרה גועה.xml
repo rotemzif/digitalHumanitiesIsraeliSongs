@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הפרה גועה</title>
+        <singer classification="female singer">ורדינה כהן</singer>
+        <writer>אורלי בינדר</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הפרה גועה</head>
+        <lg number="1" type="stanza">
+          <l>בשדה ירוק עומדת הפרה </l>
+          <l>לועסת את העשב מעלה גרה</l>
+          <l>בואנה הפרות ועשב תטעמו</l>
+          <l>ככה היא גועה מו מו מו.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הפרה גועה מו, מו, </l>
+          <l>הפרה גועה מו, מו,</l>
+          <l>הפרה גועה מו, מו,</l>
+          <l>הפרה גועה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ברפת הגדולה חולבים את הפרה</l>
+          <l>חלב לבן נותנת למכונת החליבה</l>
+          <l>בואו היא גועה, שתו ותטעמו</l>
+          <l>החלב בריא טעים מו מו מו.</l>
+          <l>הפרה גועה מו, מו...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את החלב לקחו למחלבה,</l>
+          <l>הכינו מעדן וגם גבינה טובה</l>
+          <l>מו מו מו בואו נא כולם</l>
+          <l>זה כל כך טעים, זה כל כך מו-שלם</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הפרה גועה מו, מו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

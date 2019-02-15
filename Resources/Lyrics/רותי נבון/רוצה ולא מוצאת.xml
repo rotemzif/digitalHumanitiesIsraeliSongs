@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוצה ולא מוצאת</title>
+        <singer classification="female singer">רותי נבון</singer>
+        <writer>רימונה די נור</writer>
+        <composer>מישה סגל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוצה ולא מוצאת</head>
+        <lg number="1" type="stanza">
+          <l>מה זה קורה לי מה זה קורה</l>
+          <l>זה לא יוצא לי זה לא יוצא</l>
+          <l>רוצה לומר לך ללחוש לך לתת</l>
+          <l>מילים מילים רוצה ולא מוצאת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מי קורא לי מי קורא</l>
+          <l>מי בתוכי מי שומע מי רואה</l>
+          <l>מי צועק בי מי צוחק בי ובוכה</l>
+          <l>זורם אלי ולא ולא יוצא</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מה זה אוהב וכואב וכואב וכואב בי</l>
+          <l>מה זה אוהב וכואב וכואב וכואב בי</l>
+          <l>מה זה הולם ומה ומכה ומכה בי</l>
+          <l>נוגע בי אך לא לא לא יוצא</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה קורה לי מה קורה</l>
+          <l>זה לא יוצא לי זה לא לא יוצא</l>
+          <l>רוצה לשיר לך צליל שפתיים פה</l>
+          <l>פה לה מי דו רוצה ולא מוצאת</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מי קורא לי מי קורא</l>
+          <l>מי בתוכי מי שומע מי רואה</l>
+          <l>ולא מניח לי תופס ולא מרפה</l>
+          <l>קרב אלי קרב אלי ולא לא לא יוצא</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מה זה אוהב וכואב וכואב וכואב בי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

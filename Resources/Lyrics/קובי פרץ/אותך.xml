@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אותך 26</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>שמואל אלבז</composer>
+        <album>כמה אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אותך</head>
+        <lg number="1" type="stanza">
+          <l>זר שושנים ומנגינה נוגעת,</l>
+          <l>אני שולח לך באהבה.</l>
+          <l>את בליבי, זורחת ושוקעת,</l>
+          <l>את החיים שלי, וכמה את יפה.</l>
+          <l>רוצה לגור בתוך עינייך,</l>
+          <l>במבטך החם.</l>
+          <l>להישאר קרוב אלייך,</l>
+          <l>רק איתך, ולעולם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אותך,</l>
+          <l>יותר מכל דבר,</l>
+          <l>אותך,</l>
+          <l>רוצה הלב.</l>
+          <l>אותך,</l>
+          <l>חלום שלא נגמר.</l>
+          <l>אותך מהנשמה אני אוהב...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשכף ידך מעל כתפי מונחת,</l>
+          <l>אני בתוך עצמי עוצם עיניים.</l>
+          <l>ומדמיין איך את מולי פורחת,</l>
+          <l>כמו זר של שושנים, כמו המנגינה.</l>
+          <l>רוצה לגור בתוך עינייך,</l>
+          <l>במבטך החם.</l>
+          <l>להישאר קרוב אלייך,</l>
+          <l>רק איתך, ולעולם.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

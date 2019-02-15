@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תנגני קצת על גיטרה</title>
+        <singer classification="female singer">לאה שבת</singer>
+        <writer>לאה שבת</writer>
+        <composer>לאה שבת</composer>
+        <album>כל השירים - אוסף</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תנגני קצת על גיטרה</head>
+        <lg number="1" type="stanza">
+          <l>עברו שנים מאז היית ילדה</l>
+          <l>וזאת היתה התקופה הכי יפה</l>
+          <l>נולדת לחופש ככה את חשבת</l>
+          <l>אבל התחלת לפחד שהפחידו אותך</l>
+          <l>ההורים שלך כבר לא צעירים</l>
+          <l>ואת עכשיו כבר בת ארבעים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תנגני קצת על גיטרה,</l>
+          <l>ותשירי איך את שרה</l>
+          <l>את החיים שלך</l>
+          <l>לאן שאת הולכת</l>
+          <l>תנגני קצת על גיטרה,</l>
+          <l>ותשירי איך את שרה</l>
+          <l>את הסיפור שלך</l>
+          <l>את מה שאת עוברת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מנסה לא להתעצב</l>
+          <l>לחייך גם שהלב כואב</l>
+          <l>לבנות לך בית חם ובטוח</l>
+          <l>לבקש את מה שלא נתנו לך</l>
+          <l>לחפש את האהבה</l>
+          <l>את החופש את האמונה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תנגני קצת על גיטרה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

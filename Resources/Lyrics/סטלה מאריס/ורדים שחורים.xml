@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ורדים שחורים</title>
+        <singer classification="band">סטלה מאריס</singer>
+        <writer>פבלו רוזנברג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ורדים שחורים</head>
+        <lg number="1" type="stanza">
+          <l>עור כחול, קרוע מבפנים,</l>
+          <l>לב זוחל לאט על אבנים.</l>
+          <l>אני יודע - הכל עומד לקרוס,</l>
+          <l>שנה לבנות ו...שנייה כדי להרוס.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רועד בחושך,</l>
+          <l>צולל עירום אל תוך נהר.</l>
+          <l>רועד בחושך,</l>
+          <l>ורדים שחורים על ראש ההר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוף החול מרקד מעל,</l>
+          <l>מרחוק השער כבר ננעל.</l>
+          <l>אני שוקע - סביב יש ים ספקות,</l>
+          <l>הזמן טובע אין טעם לחכות.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רועד בחושך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

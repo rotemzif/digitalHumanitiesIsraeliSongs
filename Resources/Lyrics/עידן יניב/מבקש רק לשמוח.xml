@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מבקש רק לשמוח</title>
+        <singer classification="male singer">עידן יניב</singer>
+        <writer>עידן יניב</writer>
+        <composer>missing</composer>
+        <album>חושב עליה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מבקש רק לשמוח</head>
+        <lg number="1" type="stanza">
+          <l>בחלום לך נשקתי ואלייך נקשרתי</l>
+          <l>קטפתי לך פרח אדום כה פורח</l>
+          <l>ובך התאהבתי ורק לחשתי</l>
+          <l>נאהב כך לנצח,</l>
+          <l>באהבה ננצח.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מבקש רק לשמוח,</l>
+          <l>את תתני לי ת'כוח,</l>
+          <l>רק תהיי פה איתי.</l>
+          <l>תחשבי רק על שנינו,</l>
+          <l>על כל מה שבינינו</l>
+          <l>ויחדיו נישאר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את ידייך ליטפתי, בעינייך ראיתי</l>
+          <l>צבעו של הים, יופי מושלם.</l>
+          <l>לזכות בליבך,</l>
+          <l>חום גופך מרעיד את גופי,</l>
+          <l>רוצה שתדעי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מבקש רק לשמוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

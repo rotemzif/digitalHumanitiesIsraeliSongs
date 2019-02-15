@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תגיע אלי</title>
+        <singer classification="unknown">זיוה אביבי</singer>
+        <writer>זיוה אביבי</writer>
+        <composer>זיוה אביבי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תגיע אלי</head>
+        <lg number="1" type="stanza">
+          <l>לא יודעת מה קורה לי</l>
+          <l>מה יהיה מה לא יהיה לי</l>
+          <l>איך הכול פה משתנה לי</l>
+          <l>זה מאוחר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא יודעת מה עובר בי</l>
+          <l>השעון לא מתחשב בי</l>
+          <l>כל הזמן הוא ממהר כי כבר מאוחר.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תגיד אלוהים, תגיד לי מתי</l>
+          <l>אתה תסדר לי את חיי</l>
+          <l>מתי הוא יופיע,</l>
+          <l>מתי הוא יגיע אליי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל תגיד לי שאיחרתי</l>
+          <l>את הרגע לו ייחלתי</l>
+          <l>אל תסגור שוב את הדלת</l>
+          <l>אני צריכה תקווה.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אל תפיל אותי שאולה</l>
+          <l>אל תגלגל אותי אחורה</l>
+          <l>בוא הראה לי את הדרך</l>
+          <l>אני זקוקה לך.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תגיד אלוהים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

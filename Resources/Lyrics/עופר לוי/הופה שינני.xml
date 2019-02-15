@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הופה שינני</title>
+        <singer classification="male singer">עופר לוי</singer>
+        <writer>יוש גרנות</writer>
+        <composer>עממי</composer>
+        <album>אוהב לחיות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הופה שינני</head>
+        <lg number="1" type="stanza">
+          <l>את השיר הזה לא הפסקנו</l>
+          <l>עד אור הבוקר שחגגנו</l>
+          <l>את השיר הזה לא הפסקנו</l>
+          <l>ואת הדאגות סילקנו</l>
+          <l>ושרנו יחד כל החבורה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שינני שרנו שינני שינני</l>
+          <l>והופה הופה הופה שינני</l>
+          <l>שינני שרנו שינני שינני</l>
+          <l>והופה הופה הופה שינני</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>השירים לעולם לא נגמרים</l>
+          <l>אם יש עוד רוח ולב פתוח</l>
+          <l>השירים לעולם לא נגמרים</l>
+          <l>אם אין עוד פחד וחיים ביחד</l>
+          <l>ושרים כולנו עם החברים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שינני שרנו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא אכפת לי מה אתה בכלל</l>
+          <l>יהודי נוצרי ומוסלמי</l>
+          <l>לא אכפת לי מי אתה בכלל</l>
+          <l>אם אתה דתי או חילוני</l>
+          <l>כי השיר הזה בין לאומי</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>שינני שרנו...</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>השירים לעולם לא נגמרים</l>
+          <l>אם יש עוד רוח ולב פתוח</l>
+          <l>השירים לעולם לא נגמרים</l>
+          <l>אם אין עוד פחד וחיים ביחד</l>
+          <l>ושרים כולנו עם החברים</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>שינני שרנו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

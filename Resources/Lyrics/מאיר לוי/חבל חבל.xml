@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חבל חבל</title>
+        <singer classification="unknown">מאיר לוי</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חבל חבל</head>
+        <lg number="1" type="stanza">
+          <l>רואים שאת כה יפה</l>
+          <l>כפרח השושן.</l>
+          <l>זוהרת תמיד את ולא</l>
+          <l>נובלת עם הזמן.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חבל, חבל שאת לא באת אלי.</l>
+          <l>חבל, חבל ומה יהיה עלי?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שומעים שאת חכמה,</l>
+          <l>יודעת את הכל</l>
+          <l>שכל דבר לך גלוי</l>
+          <l>ואת לא צריכה לשאול.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חבל, חבל...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אומרים שאת לבבית,</l>
+          <l>פותחת את לבך;</l>
+          <l>לכל אדם ואדם</l>
+          <l>תושיטי את ידך.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>חבל, חבל...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אומרים שאת נפלאה,</l>
+          <l>כמים במדבר.</l>
+          <l>הנשמה הצמאה</l>
+          <l>תמצא בך כל דבר.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>חבל, חבל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד מעט 10</title>
+        <singer classification="band">המכשפות</singer>
+        <writer>ענבל פרלמוטר</writer>
+        <composer>ענבל פרלמוטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד מעט</head>
+        <lg number="1" type="stanza">
+          <l>עוד מעט, אחרי שכולכם תתאבדו</l>
+          <l>אני אשב לי באמבטיה עם שמפניה,</l>
+          <l>וסיגריה עם פומית,</l>
+          <l>ואקונן על מותכם.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וכמובן, שאחרי כמה שעות</l>
+          <l>של ישיבה במים מלאים בדלים,</l>
+          <l>זה כבר לא כל כך יצחיק,</l>
+          <l>ואצטער על מותכם.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואני אתגעגע,</l>
+          <l>ואני אשתגע,</l>
+          <l>אך בכל זאת אשמח באימה</l>
+          <l>כשזה יקרה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוד מעט, אחרי שכולכם תתאבדו</l>
+          <l>אני ארכב על אופניים עם עניבה,</l>
+          <l>וכובע רשת עם נוצה,</l>
+          <l>ואקונן על מותכם.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וכמובן, שאחרי כמה שעות</l>
+          <l>של דיווש בעלייה (והתכווצות שרירים),</l>
+          <l>זה כבר לא כל כך יצחיק,</l>
+          <l>ואצטער על מותכם.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואני אתגעגע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

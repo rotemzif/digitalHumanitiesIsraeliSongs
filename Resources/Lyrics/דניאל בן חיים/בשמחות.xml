@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בשמחות</title>
+        <singer classification="unknown">דניאל בן חיים</singer>
+        <writer>טל שגב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בשמחות</head>
+        <lg number="1" type="stanza">
+          <l>מי ייתן שהשמחה פה תסתובב </l>
+          <l>יהיה לך מתוק בלב </l>
+          <l>תמיד תסתכל על הטוב </l>
+          <l>מי ייתן שהשמחה פה תסתובב </l>
+          <l>ולא יהיה בך כאב </l>
+          <l>תצליח ושוב תתאהב </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בשמחות אני בא עם הלב </l>
+          <l>בשמחות נפתחים השמיים </l>
+          <l>בשמחות העולם מתאהב, </l>
+          <l>מאירות עיניים </l>
+          <l>בשמחות אני בא עם הלב </l>
+          <l>בשמחות נפתחים השמיים </l>
+          <l>בשמחות יש תקווה אין כאב </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מי ייתן והשמחה פה תסתובב </l>
+          <l>ולא נפסיק להתאהב </l>
+          <l>תמשיך לחייך אל הכול </l>
+          <l>נתקרב , נרקוד בקצב נסתובב </l>
+          <l>ונתחבק מכל הלב </l>
+          <l>נחיה ונצמח מהכול </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בשמחות אני בא עם הלב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

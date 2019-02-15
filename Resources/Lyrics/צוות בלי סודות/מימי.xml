@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מימי</title>
+        <singer classification="unknown">צוות בלי סודות</singer>
+        <writer>אילנה לופט</writer>
+        <composer>שלמה יידוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מימי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>מי תמיד עמי</l>
+          <l>מי? מי?</l>
+          <l>מימי!</l>
+          <l>בחלומי ובקומי</l>
+          <l>מי? מי?</l>
+          <l>מימי!</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יושב על המרפסת</l>
+          <l>על מי אני חושב?</l>
+          <l>על מי? על מי?</l>
+          <l>על מימי</l>
+          <l>מתבייש קצת, מתרגש</l>
+          <l>רק אותה אני אוהב</l>
+          <l>את מי? את מי?</l>
+          <l>את מימי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מי תמיד עמי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>קחו אותי מהר!</l>
+          <l>לאן?</l>
+          <l>למרפאה - מימי את לבי שברה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בלי מימי אני מסכן</l>
+          <l>אני משתעמם</l>
+          <l>מזל שהשיר על מימי</l>
+          <l>מסתיים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מי תמיד עמי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

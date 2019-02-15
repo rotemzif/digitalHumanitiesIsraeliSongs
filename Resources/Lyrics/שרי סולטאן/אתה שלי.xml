@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אתה שלי</title>
+        <singer classification="unknown">שרי סולטאן</singer>
+        <writer>מוטי אוחיון</writer>
+        <composer>מוטי אוחיון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אתה שלי</head>
+        <lg number="1" type="stanza">
+          <l>אני לך אתן הכל אתה מאיר את נשמתי</l>
+          <l>לחיות איתך זה החלום שפוגש</l>
+          <l>אותי כל יום</l>
+          <l>הרגש מתחזק כשפוגש אותך</l>
+          <l>אני לך מוכנה באהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בוא ותן לי את הכוח</l>
+          <l>שאיתך אוכל לשמוח</l>
+          <l>כן אתה שלי</l>
+          <l>בוא ותן לי את הכוח</l>
+          <l>איתך רוצה לשמוח</l>
+          <l>אתה שלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני חולמת איך אתה</l>
+          <l>נשבע איתי באהבה</l>
+          <l>מרים ראשי נותן לבטוח</l>
+          <l>מחזק את השלווה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הרגש מתחזק כשפוגש אותך...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בוא ותן לי את הכוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

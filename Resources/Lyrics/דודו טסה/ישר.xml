@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ישר 8</title>
+        <singer classification="male singer">דודו טסה</singer>
+        <writer>דודו טסה</writer>
+        <composer>דודו טסה</composer>
+        <album>בסוף מתרגלים להכל</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ישר</head>
+        <lg number="1" type="stanza">
+          <l>תלך ישר, תלך ישר גם אם אתה מכיר</l>
+          <l>אל דבר עם אף אחד</l>
+          <l>תדבר רק איתי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תדבר ישר, תדבר ישר מתוך הלב</l>
+          <l>אל תשחק עם אף אחד</l>
+          <l>תשחק רק איתי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יותר מדי קולות</l>
+          <l>הם יצחקו כשירדו הדמעות</l>
+          <l>אבל איכשהו, מתישהו, יקרה לך משהו טוב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תיפול ישר, תיפול ישר לידיים שלי</l>
+          <l>תנעל את הדלתות</l>
+          <l>תפתח רק לי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תעמוד על המשמר, עמוד על המשמר, ילד שלי</l>
+          <l>הם ינגסו בך, יאכלו אותך, יטרפו אותך</l>
+          <l>ישגעו אותך, ישגעו אותך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יותר מדי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

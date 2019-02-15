@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה מטורף</title>
+        <singer classification="unknown">יניב רם</singer>
+        <writer>עוזי בוקובזה</writer>
+        <composer>עוזי בוקובזה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה מטורף</head>
+        <lg number="1" type="stanza">
+          <l>יש לך מגע מלטף כל כך וחיוך של מלאך</l>
+          <l>איך בא לי לומר לך שאני איתך</l>
+          <l>מרגיש כמו ילד שלגדול שכח</l>
+          <l>רואה אותך ונעשה לי טוב</l>
+          <l>אז אני יודע מה זה לאהוב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה מטורף כמה שאני</l>
+          <l>אוהב אותך כמה שאני</l>
+          <l>רוצה אותך מכור אלייך</l>
+          <l>מחובר לך לנשמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא יכול לעצור ת'לב</l>
+          <l>שדוהר אלייך כמו קטר</l>
+          <l>ובשניה בך הוא יתאהב</l>
+          <l>ואם תלכי תראי שהוא נשבר</l>
+          <l>רואה אותך ונעשה לי טוב</l>
+          <l>אז אני יודע מה זה לאהוב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה מטורף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין דבר 3</title>
+        <singer classification="male singer">טל סונדק</singer>
+        <writer>שמרית אור</writer>
+        <composer>יאיר קלינגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין דבר</head>
+        <lg number="1" type="stanza">
+          <l>אם נדמה שכל הדרך לשווא</l>
+          <l>אם נדמה שלבי קרוע עכשיו</l>
+          <l>יש מן זמר שעולה בי ושר -</l>
+          <l>אין דבר, אין דבר, אין דבר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם כואב לך ושתי עיניך דומעות</l>
+          <l>אם כואב לך ואין סימן לבאות,</l>
+          <l>אזמר לך, אלטוף ראשך עד צוואר -</l>
+          <l>אין דבר, אין דבר, אין דבר.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כי הזמר הזה מנחם לבבות</l>
+          <l>לא מוותר ומוצא נתיבות,</l>
+          <l>שב והופך רעות לטובות</l>
+          <l>וחוזר הניגון המוכר -</l>
+          <l>אין דבר, אין דבר, אין דבר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מול גל אושר - ים העצב הוא רב</l>
+          <l>אור וחושך נלחמים עלינו עכשיו</l>
+          <l>רק הזמר שוב עולה, אהוב ומוכר -</l>
+          <l>אין דבר, אין דבר, אין דבר.</l>
+          <l>עוד תראי אהובה, אין דבר.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כי הזמר הזה מנחם לבבות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

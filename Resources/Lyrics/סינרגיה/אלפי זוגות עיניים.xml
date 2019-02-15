@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלפי זוגות עיניים</title>
+        <singer classification="band">סינרגיה</singer>
+        <writer>רון הופמן</writer>
+        <composer>רון הופמן</composer>
+        <album>מרגיש אחר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלפי זוגות עיניים</head>
+        <lg number="1" type="stanza">
+          <l>אלפי זוגות עיניים פונות אלי בינתיים</l>
+          <l>שואלות שוב את אותן השאלות.</l>
+          <l>כל אחד מוצא עוד טעם לשנות אצלי הפעם</l>
+          <l>את מה שלא נראה אצלו נכון.</l>
+          <l>זה כל מה שקיים אצלי שלא קיים בכם,</l>
+          <l>מרחק שעוד מחזיק אותי שלא אהיה כמוכם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז מה שלא נמצא איתכם, זה משנה</l>
+          <l>לכל אחד יש אהבות שאין לכם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אותו מבט של זעם, אדם צמא לדם</l>
+          <l>מרוב עבר כבר לא רואה עתיד.</l>
+          <l>מצטט עוד פתגם שלא הבין אף פעם</l>
+          <l>אולי כל המילים לא בשבילי</l>
+          <l>זה כל מה שקיים אצלי שלא קיים בכם,</l>
+          <l>מרחק שעוד מחזיק אותי שלא אהיה כמוכם.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז מה שלא נמצא איתכם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

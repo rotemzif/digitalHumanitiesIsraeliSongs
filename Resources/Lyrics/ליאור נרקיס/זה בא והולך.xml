@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה בא והולך 2</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>אמיר פוני</writer>
+        <composer>אמיר פוני</composer>
+        <album>חתול רחוב </album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה בא והולך</head>
+        <lg number="1" type="stanza">
+          <l>אני נוסע לי מכאן</l>
+          <l>ולא עושה עניין</l>
+          <l>מכל מה שעבר עלינו</l>
+          <l>את אמרת לי כבר אתמול</l>
+          <l>שנמאס לך מהכל </l>
+          <l>שזה כבר לא עובד בינינו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני נתתי ת'נשמה </l>
+          <l>בכל רגע כל שעה</l>
+          <l>חשבתי שגם את אוהבת</l>
+          <l>אם נגמרה האהבה</l>
+          <l>פתאום הא מכאיבה</l>
+          <l>בסוף תמיד נשאר העצב</l>
+          <l>זה בא והולך</l>
+          <l>זה בא והולך</l>
+          <l>אני אומר לך </l>
+          <l>כל הבלאגן הזה רק בגללך</l>
+          <l>זה בא והולך הכל בגללך</l>
+          <l>אני נוסע לי מכאן</l>
+          <l>עזבי חבל כבר על הזמן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מי ישיר לך בלילות</l>
+          <l>ובשעות קשות</l>
+          <l>יאמר כמה את חשובה לו</l>
+          <l>אני משאיר לך את העיר </l>
+          <l>ונפרד ממל בשיר</l>
+          <l>שכל אחד יחיה כבר איך שבא לו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה בא והולך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

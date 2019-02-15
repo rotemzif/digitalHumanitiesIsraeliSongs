@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קול לחישה</title>
+        <singer classification="unknown">הראל יפת</singer>
+        <writer>הראל יפת</writer>
+        <composer>הראל יפת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קול לחישה</head>
+        <lg number="1" type="stanza">
+          <l>מנסה אך אתה לא בטוח</l>
+          <l>מתנדנד מצד לצד</l>
+          <l>כאילו היית עלה ברוח</l>
+          <l>עלה אחד לבד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza" />
+        <lg number="3" type="stanza">
+          <l>תגיד אני, לא מציאותי</l>
+          <l>אולי זה סתם כי קצת עצוב</l>
+          <l>תגיד אני חי בתוך עצמי</l>
+          <l>מחכה לעבר שישוב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza" />
+        <lg number="5" type="stanza">
+          <l>קול לחישה, שוב ירד ועלה</l>
+          <l>ואתה רוצה ללכת</l>
+          <l>אל המקום, אל החלום</l>
+          <l>אבל, ממשיך ללכת</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza" />
+        <lg number="7" type="stanza">
+          <l>רוב הזמן אתה בורח</l>
+          <l>גם לך לא ברור לאן</l>
+          <l>מנסה לשווא, לא לשכח</l>
+          <l>איך לחזור בזמן</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza" />
+        <lg number="9" type="stanza">
+          <l>תגיד אני, לא מציאותי</l>
+          <l>אולי זה סתם כי קצת עצוב</l>
+          <l>תגיד אני, חי בתוך עצמי</l>
+          <l>מחכה לעבר שישוב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

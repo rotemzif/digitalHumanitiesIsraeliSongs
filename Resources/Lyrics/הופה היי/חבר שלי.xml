@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חבר שלי</title>
+        <singer classification="unknown">הופה היי</singer>
+        <writer>יגאל בשן</writer>
+        <composer>יגאל בשן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חבר שלי</head>
+        <lg number="1" type="stanza">
+          <l>כששיר רוצה לגדול</l>
+          <l>אנחנו מטפסים איתו</l>
+          <l>כששיר רוצה לשאול</l>
+          <l>אנחנו מבינים אותו</l>
+          <l>כששיר רוצה שלום</l>
+          <l>אנחנו משלימים איתו</l>
+          <l>כששיר צוחק פתאום</l>
+          <l>אנחנו צוחקים איתו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי הוא נשאר חבר שלי</l>
+          <l>והוא איתי תמיד כשאני רוקד איתו, בוכה איתו</l>
+          <l>כששיר תמיד יהיה חבר שלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כששיר נשכח פתאום</l>
+          <l>אנחנו מזכירים אותו</l>
+          <l>כששיר רוצה לשיר</l>
+          <l>אנחנו מזמרים אותו</l>
+          <l>כששיר כמעט נופל</l>
+          <l>אנחנו מרימים אותו</l>
+          <l>כששיר לבד צוהל</l>
+          <l>אנחנו צוהלים איתו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי הוא נשאר חבר שלי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כששיר פתאום נולד</l>
+          <l>אנחנו נולדים איתו</l>
+          <l>כששיר פתאום לבד</l>
+          <l>אנחנו מחבקים אותו</l>
+          <l>כששיר קצת מאוהב</l>
+          <l>אנחנו אוהבים אותו</l>
+          <l>כששיר כל כך נלהב</l>
+          <l>אנחנו נלהבים איתו</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי הוא נשאר חבר שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

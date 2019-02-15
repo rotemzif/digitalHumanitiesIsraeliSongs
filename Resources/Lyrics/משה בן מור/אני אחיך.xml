@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני אחיך</title>
+        <singer classification="unknown">משה בן מור</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>אבשלום צוברה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני אחיך</head>
+        <lg number="1" type="stanza">
+          <l>מעליך יום אפור, לבך עצוב</l>
+          <l>הלבן הופך שחור ונוגע שוב</l>
+          <l>כל דבר אינו הולך ושוב מסתבך</l>
+          <l>אתה מזמן לא מחייך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני אחיך האוהב</l>
+          <l>העצב שלך אצלי בלב</l>
+          <l>בוא ספר לי מה כואב, מה כואב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מבטיך הטובים פתאום כבו</l>
+          <l>אוהביך הקרובים כל כולם עזבו</l>
+          <l>הוא אשר שוכן מעל ולא אחר</l>
+          <l>עליך אחי הוא שומר. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני אחיך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הפיג מה</title>
+        <singer classification="female singer">זהבה בן</singer>
+        <writer>יואב גינאי</writer>
+        <composer>חנן יובל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הפיג'מה</head>
+        <lg number="1" type="stanza">
+          <l>לפני השינה, שומעת סיפור עם שיר על הכר</l>
+          <l>לפני השינה, רואה בחלום כוכב מצוייר</l>
+          <l>וכל הנסיכות העייפות, באות על איילות מעפפות</l>
+          <l>וכל הנסיכות העייפות, מטפסות אלי על הפיג'מה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הפג'ימה שלי, עושה לי בלילה קסמים</l>
+          <l>הפיג'מה שלי, שומעת אותי מבפנים</l>
+          <l>הפג'ימה, לוקלת לכל המקומות</l>
+          <l>הפג'ימה, רואה לי את כל החלומות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לפני השינה, כיבו את האור וזה די מפחיד</l>
+          <l>ואין כבר את מי לשאול שאלה או סתם להגיד</l>
+          <l>ואז אני נוגעת בה פתאום, עומדת איתה על החלון</l>
+          <l>ואז אני נוגעת בה פתאום, והיא נרדמת קודם הפיג'מה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הפיג'מה שלי עושה לי בלילה קסמים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

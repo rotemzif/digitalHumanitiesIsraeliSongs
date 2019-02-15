@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הנודד 3</title>
+        <singer classification="female singer">גאולה גיל</singer>
+        <writer>יהודה יניב</writer>
+        <composer>דובי זלצר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הנודד</head>
+        <lg number="1" type="stanza">
+          <l>שלחתי את שירי בצהלה לה לה לה לה לה</l>
+          <l>חיפש קולות ילדה שיענו נו נו נו</l>
+          <l>וכשחזר אלי ברוח הקלה</l>
+          <l>לא היא היתה זו שנתנה קולה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לה לה לה לה</l>
+          <l>לה לה לה...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>המשיך שירי לנדוד שם בדממה מה מה מה מה</l>
+          <l>לשמוע את הדו ביקש מאד אד אד אד</l>
+          <l>וכל הנערות כבר שרו לי את שמה</l>
+          <l>ורק קולה שלה חסר שם עוד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לה לה לה לה</l>
+          <l>לה לה לה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ושוב חזר אלי רק הד הצליל ליל ליל ליל ליל</l>
+          <l>כל הבנות נתנו מזמן קולן לן לן לן</l>
+          <l>אם לא אשמע קולך, אם לא תשיבי לי</l>
+          <l>שוב אשלח אותו אל העולם</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לה לה לה לה</l>
+          <l>לה לה לה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

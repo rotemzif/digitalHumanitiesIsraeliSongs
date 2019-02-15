@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלוני</title>
+        <singer classification="unknown">דיג דיג דוג</singer>
+        <writer>מיכל חזון</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלוני</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>בלוני, בלוני</l>
+          <l>עגלגל וצבעוני</l>
+          <l>לאן אתה עף?</l>
+          <l>קח אותי, קח אותי</l>
+          <l>עד מעל העננים</l>
+          <l>בוא נעוף עכשיו!</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בשמיים הכחולים</l>
+          <l>חופש כל הזמן</l>
+          <l>קח אותי, קח אותי</l>
+          <l>לא חשוב לאן.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בלוני, בלוני...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נתגלגל בעננים</l>
+          <l>כמו בתוך שמיכה</l>
+          <l>נדבר עם היונים</l>
+          <l>קח אותי איתך.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בלוני, בלוני...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מעלה מעלה נתעופף</l>
+          <l>מעלה, כמו ציפור</l>
+          <l>בשמיים איזה כיף</l>
+          <l>לא נרצה לחזור!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

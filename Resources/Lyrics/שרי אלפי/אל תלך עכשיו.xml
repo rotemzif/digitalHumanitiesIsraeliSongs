@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תלך עכשיו 2</title>
+        <singer classification="unknown">שרי אלפי</singer>
+        <writer>עדית פאנק</writer>
+        <composer>שרי אלפי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תלך עכשיו</head>
+        <lg number="1" type="stanza">
+          <l>הגשם לא מגיע החורף מאחר </l>
+          <l>היום אתה קרוב לי מחר אתה אחר </l>
+          <l>לומדים הרבה מילים בשביל משפט אחד </l>
+          <l>ולא זוכרים דבר כשנישארים לבד. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תלך עכשיו יהיה עוד זמן ללכת </l>
+          <l>אל תגיד עכשיו שזה הזמן ללמוד </l>
+          <l>אם רק היית בא או סתם הולך אחרת </l>
+          <l>יכולנו לאהוב, יכולנו לאהוב. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הקיץ לא יודע איך להוריד בגדים </l>
+          <l>ירח על המים מציף בי עוד שדים </l>
+          <l>לומדים הרבה מילים ולא זוכרים אחת </l>
+          <l>אחר כך שוב לומדים אבל לאט לאט. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תלך עכשיו...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אז אל תלך עכשיו יהיה עוד זמן לשכוח </l>
+          <l>אל תגיד עכשיו שזה הזמן ללמוד </l>
+          <l>אם רק היית שם נשאר במקום לברוח </l>
+          <l>יכולנו לאהוב, יכולנו לאהוב. </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>(רק היית בא)</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

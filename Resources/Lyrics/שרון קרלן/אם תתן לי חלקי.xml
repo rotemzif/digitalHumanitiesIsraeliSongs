@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם תתן לי חלקי</title>
+        <singer classification="female singer">שרון קרלן</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>missing</composer>
+        <album>מעליי דממה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם תתן לי חלקי</head>
+        <lg number="1" type="stanza">
+          <l>אם תתן לי חלקי</l>
+          <l>באימת מחשכיך</l>
+          <l>אולי יאור לי מעט</l>
+          <l>אם תפרוק על כתפי</l>
+          <l>את כובד עולך מעליך</l>
+          <l>אולי יקל לי מעט</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והיה מכאובך לי תשורה</l>
+          <l>בידיים טובות אשאנו</l>
+          <l>לא אפול</l>
+          <l>לא אכרע</l>
+          <l>אל תירא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו עץ בשלגיו</l>
+          <l>הנוצר את אביב ניצניו</l>
+          <l>בקרה אעמוד בפתחי יגוניך</l>
+          <l>אם תביא אלי כפור</l>
+          <l>עזבותי את צינת בדידותך</l>
+          <l>אולי יחם לי מעט</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והיה מכאובך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

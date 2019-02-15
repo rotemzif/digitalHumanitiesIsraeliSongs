@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קדה על הטול</title>
+        <singer classification="male singer">עופר לוי</singer>
+        <writer>עופר לוי</writer>
+        <composer>עופר לוי</composer>
+        <album>בדרך שבחרתי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קדה על הטול</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אנא מושחב דל קדה על הטול </l>
+          <l>מושחזתן עומרי אעתי </l>
+          <l>אנא מושחז קול קזי מעול </l>
+          <l>עדי מאחו עדי מאדי </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אנא דיבלי אווה נא לקפסי </l>
+          <l>אנל פיתל אנתי פו </l>
+          <l>וושן חגת האיש </l>
+          <l>חגת קיטיר לה זינדעו </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מושקיד באיה לקיט בסאלח </l>
+          <l>קולי שעי פים תסר </l>
+          <l>וואין רבה אינק תעיש </l>
+          <l>זייל מלה בלין בשאר </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יאניברה חי אינפזי </l>
+          <l>ווליזמה אנא אושתרים </l>
+          <l>אנא דיל וואה ינאיש נא לקפסי </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אנא מושחב דל קדה על הטול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

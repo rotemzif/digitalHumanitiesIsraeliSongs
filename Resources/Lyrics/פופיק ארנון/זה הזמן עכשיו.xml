@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה הזמן עכשיו</title>
+        <singer classification="male singer">פופיק ארנון</singer>
+        <writer>פופיק ארנון</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה הזמן עכשיו</head>
+        <lg number="1" type="stanza">
+          <l>אולי אפשר לברוח</l>
+          <l>אני רוצה לצאת מכאן</l>
+          <l>תנו לשמוח</l>
+          <l>תנו לראות את העולם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פתח לי את הדלת</l>
+          <l>תן לראות את החיים</l>
+          <l>טוב לדעת</l>
+          <l>כמה טוב ומה נעים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זה הזמן עכשיו</l>
+          <l>זה הזמן לראות הכל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני רוצה לצרוח</l>
+          <l>אני רוצה לצאת מכאן</l>
+          <l>תנו לי כוח</l>
+          <l>לחדש את הישן</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זה הזמן עכשיו</l>
+          <l>זה הזמן לראות הכל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

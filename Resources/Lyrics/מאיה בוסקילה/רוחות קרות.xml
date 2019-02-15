@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוחות קרות</title>
+        <singer classification="female singer">מאיה בוסקילה</singer>
+        <writer>יהודה פוליקר</writer>
+        <composer>יהודה פוליקר</composer>
+        <album>שוברת שתיקה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוחות קרות</head>
+        <lg number="1" type="stanza">
+          <l>רוחות קרות וקצף ים</l>
+          <l>גונבים אותי מכאן</l>
+          <l>אל מה שעוד חי בי וקיים</l>
+          <l>עבר שלם חוזר אל המציאות שלי</l>
+          <l>בא קרוב אלי</l>
+          <l>כדי לצייר תמונות שמבלבלות אותי</l>
+          <l>ושוב משחק במחבואים אני שבויה</l>
+          <l>בין פעם ועכשיו</l>
+          <l>ואיך אתה, עובר ושב</l>
+          <l>ואם אני שואלת את עצמי אולי</l>
+          <l>זאת לא הדרך</l>
+          <l>זה הקול שבתוכי לוחש</l>
+          <l>עכשיו זה כאן, עכשיו זה כאן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לוותר ולסלוח</l>
+          <l>להשלים כדי לראות</l>
+          <l>אפשר תמיד לברוח אל הפחד</l>
+          <l>פחד לא יודע אהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואם אתה מביט מבלי לראות</l>
+          <l>את מה שכבר נגמר</l>
+          <l>אני יודעת, זה זמן עבר</l>
+          <l>שזורם בשלוליות חיי</l>
+          <l>אל תהומות הדרך</l>
+          <l>עוברת פה, עוצרת שם</l>
+          <l>אוספת את עצמי אלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לוותר ולסלוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

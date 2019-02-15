@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שרון 2</title>
+        <singer classification="male singer">דני דותן</singer>
+        <writer>דני דותן</writer>
+        <composer>יזהר אשדות</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שרון</head>
+        <lg number="1" type="stanza">
+          <l>באת אלי אישה מסוכנת</l>
+          <l>פתרתי לך חלום ונתתי לך ללכת</l>
+          <l>סובבתי אותך לכיוון הנכון</l>
+          <l>כמו מחוג במצפן לכוכב הצפון</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נתתי לך הכל נתתי לך לגדול</l>
+          <l>רוצה אותך איתי ואת נותנת לי לזחול</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שרון, נתתי לך הכל נתתי לך לגדול</l>
+          <l>שרון, נתתי לך הכל ואת נותנת לי לזחול</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כמה את יפה ונוצצת</l>
+          <l>כמה את קרובה אלי כמה את לוחצת</l>
+          <l>כמה מילים שאמרת בלי בושה</l>
+          <l>כמה את יודעת,</l>
+          <l>כמה את אישה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>נתתי לך הכל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

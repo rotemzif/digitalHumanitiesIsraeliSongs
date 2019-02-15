@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלא יגמר 4</title>
+        <singer classification="band">נורוק</singer>
+        <writer>אמיר גבריאל</writer>
+        <composer>אמיר גבריאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלא יגמר</head>
+        <lg number="1" type="stanza">
+          <l>בשבילי היום הזה נגמר </l>
+          <l>אם אני עוד הוזה על מה שנשאר </l>
+          <l>בשבילי את תשארי האחת </l>
+          <l>אך אני עוד משתהה איפה את </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חיכיתי כל כך </l>
+          <l>שמשהו טוב יקרה </l>
+          <l>לא שכחתי אותך </l>
+          <l>תראי מה עכשיו אני עושה </l>
+          <l>שלא יגמר </l>
+          <l>שלא יגמר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני עוד כאן נשאר מאחור </l>
+          <l>בלילה לבן את החלטת לחזור </l>
+          <l>עד שלמדתי להכיר במה שקרה </l>
+          <l>בבוקר יום בהיר הפכתי משוגע </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חיכיתי כל כך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלב בוער</title>
+        <singer classification="unknown">גיא יעקובי</singer>
+        <writer>רמי לב</writer>
+        <composer>יניב רם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלב בוער</head>
+        <lg number="1" type="stanza">
+          <l>לחלום על אהבה שעוד תהיה לשנינו</l>
+          <l>ולחלום על דרך שתוביל אותנו</l>
+          <l>עכשיו זה מתגבר אני חוזר</l>
+          <l>אלייך ורוצה לומר לך...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הלב בוער הלילה אני בא אלייך</l>
+          <l>אני בא עם כל הנשמה</l>
+          <l>הלב בוער הלילה אני בא אלייך</l>
+          <l>להיות איתך מאהבה!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לאהוב אותך ולחבק כל לילה</l>
+          <l>את המנגינה שלנו אני שר לך</l>
+          <l>לדעת שהלב שלך אוהב</l>
+          <l>ואת כולי אליו סוחף.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הלב בוער הלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

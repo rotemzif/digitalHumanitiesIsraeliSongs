@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ארץ מזמרת</title>
+        <singer classification="male singer">ליאור אלבו</singer>
+        <writer>אבי קורן</writer>
+        <composer>נמרוד טנא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ארץ מזמרת</head>
+        <lg number="1" type="stanza">
+          <l>איך עולה הבוקר על ההר?</l>
+          <l>איך לים עם ערב בא השמש?</l>
+          <l>איך פתאום ברוח מתנגן לו שיר מוכר</l>
+          <l>ונישא על גיא, על הר ועמק?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איך נוגנות צמרות כל העצים,</l>
+          <l>גבעולים וגם עלי כותרת?</l>
+          <l>בין כלניות, בין סביונים וחמציצים</l>
+          <l>הדבורים יזמזמוהו חרש.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ארץ מזמרת שרה לנו שיר</l>
+          <l>מתנגן מבוקר ועד ערב,</l>
+          <l>שיר נישא ברוח מהכפר לעיר,</l>
+          <l>מאילת ועד אל ים כנרת.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל החוף שבים כל הגלים,</l>
+          <l>צפורים נושאות אותו למעלה</l>
+          <l>משדה ירוק עד השמיים הכחולים</l>
+          <l>עוד נישא הזמר הלאה הלאה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ארץ מזמרת בקולה</l>
+          <l>בין אביב לקיץ, סתיו וחורף,</l>
+          <l>ארץ מזמרת ולפתע היא כולה</l>
+          <l>גם המקהלה, גם התזמורת.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ארץ מזמרת שרה לנו שיר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

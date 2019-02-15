@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את המנגינה</title>
+        <singer classification="unknown">יגאל גינת</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>בנצי מור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את המנגינה</head>
+        <lg number="1" type="stanza">
+          <l>חשבתי כבר על כל מה שאמרת לי</l>
+          <l>ורק את נשארת אצלי בלב</l>
+          <l>חשוב לי רק שנתקרב</l>
+          <l>איתך ידעתי</l>
+          <l>שאני עוד אשתנה</l>
+          <l>בין כל הצלילים אני לוחש לך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את המנגינה, את לי הצלילים</l>
+          <l>שמלטפים בחום את כל גופי</l>
+          <l>כי אני שייך לך נשמתי</l>
+          <l>את לי החלום אהובתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בכביש סואן איתך אני נסעתי</l>
+          <l>היו ימים של חוסר ודאות</l>
+          <l>אבל איתך כמו תמיד ניצחתי</l>
+          <l>זה בזכותך בגלל העקשנות</l>
+          <l>איתך ידעתי שאני חייב אותך בעולמי</l>
+          <l>טוב לי בחיים אני לוחש לך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את המנגינה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

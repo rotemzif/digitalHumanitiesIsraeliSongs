@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חי כמו פרפר</title>
+        <singer classification="band">המשפחה</singer>
+        <writer>אמיר חיים</writer>
+        <composer>אמיר חיים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חי כמו פרפר</head>
+        <lg number="1" type="stanza">
+          <l>מצלמה נסתרת חיכית שאתבדה</l>
+          <l>בתוכי ידעתי אתה לא תשתנה</l>
+          <l>הפחיד אותי היום בו אשאר בלעדיך</l>
+          <l>אך כשהיום כבר בא</l>
+          <l>הוא לא השאיר כלום אחריך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אתה חי כמו פרפר חופשי ומאושר</l>
+          <l>מחפש תלוק תצא מהבקבוק</l>
+          <l>אתה חי כמו פרפר חופשי ומאושר</l>
+          <l>כשתיזכר רק בי לא יהיה לנו מחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שוב אותו הסרט יצאת עם אחרת</l>
+          <l>אחרת שבנת לך בית לתפארת</l>
+          <l>בתוכה ידעה אתה רגיש ולא כלפיה</l>
+          <l>וכשביקשה "תשפוך תפח" </l>
+          <l>נטשת את חייה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אתה חי כמו פרפר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>או......אתה ילדון של אמא</l>
+          <l>או......תפחד מעצמך</l>
+          <l>או......היא לא ציפי פרימה</l>
+          <l>או......אתה חי באשליה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אתה חי כמו פרפר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

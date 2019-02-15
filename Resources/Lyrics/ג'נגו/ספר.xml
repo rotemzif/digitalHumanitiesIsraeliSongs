@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ספר 8</title>
+        <singer classification="unknown">ג נגו</singer>
+        <writer>ג'נגו</writer>
+        <composer>ג'נגו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ספר</head>
+        <lg number="1" type="stanza">
+          <l>אתמול בלילה</l>
+          <l>אמי נכנסה אלי לחדר</l>
+          <l>היא לא דיברה איתי</l>
+          <l>העיניים שלה היו כמו ספר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היא סיפרה לי שהוא מת</l>
+          <l>והיא לא רוצה להמשיך לחיות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ושכל מה שהוא התחיל</l>
+          <l>נגמר פתאום כי לא הספיק</l>
+          <l>היא גם סיפרה לי</l>
+          <l>איך ומתי הכל התחיל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היא סיפרה לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

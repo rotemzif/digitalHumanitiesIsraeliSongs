@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאוהבת 4</title>
+        <singer classification="female singer">דניאלה פיק</singer>
+        <writer>מירית שם אור</writer>
+        <composer>צביקה פיק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאוהבת</head>
+        <lg number="1" type="stanza">
+          <l>הוא רק מסתכל</l>
+          <l>ואני מתרגשת</l>
+          <l>לוחשת את שמו</l>
+          <l>הפנים שלי לוהטות</l>
+          <l>הפכתי לצל</l>
+          <l>אני חיה בשביל שהוא</l>
+          <l>יאהב אותו כמו שאני</l>
+          <l>אוהבת אותו.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מאוהבת, לגמרי מאוהבת</l>
+          <l>כמו שלא אהבתי בחיים</l>
+          <l>מאוהבת, ואני פשוט חייבת</l>
+          <l>שהוא יהיה רק שלי לעולמים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא ישנתי בכלל</l>
+          <l>כל הלילה חלמתי</l>
+          <l>חשבתי עליו</l>
+          <l>ועל איך שהוא מנשק</l>
+          <l>זה הכל בגורל,</l>
+          <l>פשוט התאהבתי</l>
+          <l>קשה לי עכשיו,</l>
+          <l>מתי הוא יתקשר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מאוהבת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

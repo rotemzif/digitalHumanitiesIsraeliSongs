@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איש גדול 4</title>
+        <singer classification="band">שובבי ציון</singer>
+        <writer>קובי רכט</writer>
+        <composer>קובי רכט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איש גדול</head>
+        <lg number="1" type="stanza">
+          <l>ברחוב קטן עומד לו איש גדול גדול,</l>
+          <l>עומד עצוב כל כך, עומד שם מאתמול,</l>
+          <l>ואף אחד עוד לא ניגש אליו לשאול</l>
+          <l>ולא צריך לשאול כי הוא רואה הכל.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז למה איש גדול אתה כל כך עצוב?</l>
+          <l>אז למה איש גדול כל היום אתה עצוב?</l>
+          <l>אולי שכח את שמו, אולי רצה לשאול</l>
+          <l>אולי לברוח הוא רוצה ולא יכול</l>
+          <l>אז למה איש גדול אתה כל כך עצוב?</l>
+          <l>אז למה איש גדול כל היום אתה עצוב?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>האנשים כבר התחלפו, הלילה בא</l>
+          <l>הוא עוד עומד ברחוב ולא יודע מה</l>
+          <l>ואף אחד עוד לא ניגש אליו לשאול</l>
+          <l>ולא צריך לשאול, כי הוא רואה הכל.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז למה איש גדול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

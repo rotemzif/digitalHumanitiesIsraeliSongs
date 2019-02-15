@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דוניה 3</title>
+        <singer classification="unknown">רפי פרסקי</singer>
+        <writer>רפי פרסקי</writer>
+        <composer>רפי פרסקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דוניה</head>
+        <lg number="1" type="stanza">
+          <l>אני מקווה שהגשם שטף את עקבותינו בחול</l>
+          <l>אני מקווה שאף אחד לא זיהה אותנו ברחוב אתמול</l>
+          <l>אני מקווה שאת יודעת שאין דרך חזרה</l>
+          <l>ואם כן אז במקום הקבוע באותה השעה</l>
+          <l>במקום הקבוע, אותה השעה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני מקווה שאת לא תיפגעי</l>
+          <l>אני מתפלל לאלוהים</l>
+          <l>שאותך ודאי הוא מכיר יותר</l>
+          <l>אבל בינינו זה חייב להיגמר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כן בשבילך זוהי רק פעם ראשונה</l>
+          <l>אני עוזר לך להוציא את הקוצים מהשיער</l>
+          <l>ברדיו מואזין שר</l>
+          <l>דוניה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מדליק סיגריה, מעשן</l>
+          <l>כבר כמה לילות אני לא ישן</l>
+          <l>ומסתובב בכיכר המדינה</l>
+          <l>משתקף בחלונות הראווה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כן בשבילך זוהי רק פעם ראשונה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

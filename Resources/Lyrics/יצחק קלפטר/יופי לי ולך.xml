@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יופי לי ולך</title>
+        <singer classification="male singer">יצחק קלפטר</singer>
+        <writer>יצחק קלפטר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יופי לי ולך</head>
+        <lg number="1" type="stanza">
+          <l>פעם כשהיינו צעירים ויפים</l>
+          <l>הסתובבנו כל היום</l>
+          <l>הלכנו להרים וטיפסנו על גבעות</l>
+          <l>לקחנו את הזמן כדי לראות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הלכנו אל הים</l>
+          <l>הלכנו יד ביד</l>
+          <l>לא ידענו מי ומה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יופי יופי לי</l>
+          <l>יופי יופי לך</l>
+          <l>יופי יופי לי ולך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היום כשהתבגרנו אחרי כל השנים</l>
+          <l>הגוף כבר לא מגיב אותו דבר</l>
+          <l>עד בלי להכיר משהו השתנה</l>
+          <l>אבל בלב אותה האהבה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יופי יופי לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

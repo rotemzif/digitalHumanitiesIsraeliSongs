@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>להרוס אהבה</title>
+        <singer classification="male singer">שלומי שבת</singer>
+        <writer>שמואל אלבז</writer>
+        <composer>שמואל אלבז</composer>
+        <album>זמן אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>להרוס אהבה</head>
+        <lg number="1" type="stanza">
+          <l>איך את לפעמים סתם נעלמת</l>
+          <l>משנה תנוחה ונרדמת</l>
+          <l>פורשת לך כנפייים בחלום</l>
+          <l>את עיני לא יכול לעצום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני זוכר איך שאהבת את המגע המלטף</l>
+          <l>שבימים טובים גרם להיסחף</l>
+          <l>תני לי להסביר לך הכל אהובה</l>
+          <l>למה את נראית לי כל כך עצובה</l>
+          <l>זה אולי פשוט כך לברוח</l>
+          <l>חבל להרוס אהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך פתאום בחרת להסתגר</l>
+          <l>ולזרום בקצב אחר</l>
+          <l>בלי לתת סיכוי לאהבה</l>
+          <l>אני שואל, אך את לא מקשיבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני זוכר איך שאהבת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

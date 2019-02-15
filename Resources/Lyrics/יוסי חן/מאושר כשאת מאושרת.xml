@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאושר כשאת מאושרת</title>
+        <singer classification="unknown">יוסי חן 2</singer>
+        <writer>אלון צדוק</writer>
+        <composer>אריק זנטי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאושר כשאת מאושרת</head>
+        <lg number="1" type="stanza">
+          <l>מתעורר לצידך בכל בוקר זו מתנה </l>
+          <l>מתרגש כל יום מחדש זו אהבה </l>
+          <l>כל שיר שלך אני שר זה מהלב </l>
+          <l>אף פעם לא תדעי כמה אני אוהב </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני מאושר כשאת מאושרת </l>
+          <l>ועצוב כשאת עצובה </l>
+          <l>אני דומע כשאת בוכה </l>
+          <l>כי זוהי באמת אהבה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לנשום אותך כל רגע זו חוויה </l>
+          <l>לחוש את רוך שפתייך זה בנשמה </l>
+          <l>לראות שאת כזו זוהרת זה מרגש </l>
+          <l>אף פעם לא תדעי כמה אני אוהב אותך </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני מאושר כשאת מאושרת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

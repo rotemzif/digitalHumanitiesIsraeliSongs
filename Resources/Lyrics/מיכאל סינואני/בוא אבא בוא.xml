@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוא אבא בוא 2</title>
+        <singer classification="male singer">מיכאל סינואני</singer>
+        <writer>בצלאל אלוני</writer>
+        <composer>שומלי בן עמי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוא אבא בוא</head>
+        <lg number="1" type="stanza">
+          <l>אתה בוכה שלא נשארתי</l>
+          <l>איתך בבית החמים</l>
+          <l>מעולם לא הסתובבת</l>
+          <l>כמו נווד על הדרכים</l>
+          <l>אז בוא לראות פה את כולם</l>
+          <l>פרועים מלהט מקצבים</l>
+          <l>והאמן לא כלום בידם</l>
+          <l>כולם כמוני, כמוני רעבים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז בוא, אבא בוא</l>
+          <l>ואל תעזוב אותי</l>
+          <l>בוא אבא בוא</l>
+          <l>ואל תחזיר אותי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תמוך בי ונלך ביחד </l>
+          <l>ומקרוב נראה הכל</l>
+          <l>תמוך בי ונלך ביחד</l>
+          <l>כמו שהבטחת לי אתמול</l>
+          <l>עזור, עזור לי להבין</l>
+          <l>את הפיתוי שבדרכים</l>
+          <l>עזור, עזור לי להאמין</l>
+          <l>שדמעותיך אינן דמעות תנין</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז בוא, אבא בוא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

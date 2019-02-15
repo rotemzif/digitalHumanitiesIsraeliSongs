@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בסוף היום 3</title>
+        <singer classification="male singer">יהורם גאון</singer>
+        <writer>עמיר בניון</writer>
+        <composer>עמיר בניון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בסוף היום</head>
+        <lg number="1" type="stanza">
+          <l>בסוף היום כולם הולכים בעקבות חלום</l>
+          <l>מחשבות על זמן ועל מקום,על מלחמה ושלום</l>
+          <l>בסוף היום הזה אהיה גם אני יודע</l>
+          <l>למצוא לי את הדרך ולרוץ בעקבותיה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza" />
+        <lg number="3" type="stanza">
+          <l>בסוף היום כולם מגיעים בדיוק לאותו מקום</l>
+          <l>בסוף היום נגמרות המילים והכל היה כחלום</l>
+          <l>בסוף היום כולם מגיעים בדיוק אל אותו מקום</l>
+          <l>בסוף היום דועכים הצלילים נגמר לו גם החלום.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza" />
+        <lg number="5" type="stanza">
+          <l>בסוף היום כולם אוחזים בפיסת אמונה</l>
+          <l>בין שהיא גדולה ובין שהיא צנומה וקטנה</l>
+          <l>בסוף היום הזה אהיה גם אני , שומע</l>
+          <l>את המלאכים שרים שיר ישן, שיר נוגע.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

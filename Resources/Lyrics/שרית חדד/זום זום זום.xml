@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זום זום זום</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>סמדר שיר</writer>
+        <composer>משה דץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זום זום זום</head>
+        <lg number="1" type="stanza">
+          <l>זום זום זום פנו לי דרך</l>
+          <l>כי אני כה ממהרת</l>
+          <l>מהיער לכוורת</l>
+          <l>זום זום זום מיד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זום זום זום פנו לה דרך</l>
+          <l>דבורה הדבורה כה ממהרת</l>
+          <l>מהיער לכוורת </l>
+          <l>זום זום זום מיד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זום אני ארים כנפיים </l>
+          <l>זום אל הגינה אעוף</l>
+          <l>זום הנחת על פרח</l>
+          <l>ואשתה ממנו צוף</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זום אני מלכת היער</l>
+          <l>הדבורה העסוקה</l>
+          <l>יש לי עוקץ חד כתער</l>
+          <l>אך אני כה מתוקה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

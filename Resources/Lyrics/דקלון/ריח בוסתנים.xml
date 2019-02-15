@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ריח בוסתנים</title>
+        <singer classification="male singer">דקלון</singer>
+        <writer>אברהם לוי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ריח בוסתנים</head>
+        <lg number="1" type="stanza">
+          <l>שוב זורח האור בשדותייך, היום כמו</l>
+          <l>לפני שנים ממש אותה זריחה,</l>
+          <l>כמעט דבר לא השתנה, אבל חלפו</l>
+          <l>שנים רק זכרונות ילדות אלי שבים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>צל עץ השקמה וריח בוסתנים,</l>
+          <l>שרנו אז שירים על מלכים וסולטנים,</l>
+          <l>ובחשאי זימרנו בלהט התמימות</l>
+          <l>הו ארצי שלי את כל השלמות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לך זימרנו ארצי הקטנטונת, ידענו</l>
+          <l>רגעים יפים ידענו גם מכאוב אבל</l>
+          <l>היום את ממהרת לא אבין לאן,</l>
+          <l>חכי מעט וקחי לך פסק זמן.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>צל עץ השקמה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>דיבורך לפעמים לא מובן, </l>
+          <l>כל יום סגנון דיבור חדש את הזירה כובש</l>
+          <l>אבל אני את כל שירייך אשיר וגם אשמור</l>
+          <l>לכן אזכור כל שיר וכל פזמון.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>צל עץ השקמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משחק חנוכה</title>
+        <singer classification="band">חבורת ילדים</singer>
+        <writer>אירית תמיר</writer>
+        <composer>אירית תמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משחק חנוכה</head>
+        <lg number="1" type="stanza">
+          <l>המשחק בחג החנוכה הוא הסביבון,</l>
+          <l>סביבונים קטנים גדולים, יש המון.</l>
+          <l>שלל צבעים וגם וצורות של סביבונים,</l>
+          <l>מזמרים שרים רוקדים מסתובבים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בחג החנוכה</l>
+          <l>קיבלתי מתנה,</l>
+          <l>סביבון זוהר</l>
+          <l>ששר ומזמר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>סביבון, סביבון,</l>
+          <l>סביבון, סביבון,</l>
+          <l>סביבון, נשיר את הפזמון.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>סביבון, סביבון,</l>
+          <l>סביבון, סביבון,</l>
+          <l>סביבון, נסתובב נרקוד המון.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>סובבו ידיים, סובבו</l>
+          <l>סובבו רגליים, סובבו</l>
+          <l>סובבו מותניים</l>
+          <l>ועכשיו הסתובבו.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>סביבונים לרצפה נפלו והמשחק נגמר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

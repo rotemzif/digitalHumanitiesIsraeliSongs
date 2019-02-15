@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לכי נא נערתי</title>
+        <singer classification="male singer">עופר לוי</singer>
+        <writer>עופר לוי</writer>
+        <composer>עממי</composer>
+        <album>כוכב שנות ה- 90</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לכי נא נערתי</head>
+        <lg number="1" type="stanza">
+          <l>את ראית אותי טועה ולא אמרת מילה</l>
+          <l>את ראית אותי בוכה ולא ניגבת דמעה</l>
+          <l>את אישה כזאת גאה שלא שווה דמעה</l>
+          <l>את הרסת את האהבה מבלי לומר מילה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לכי נא לכי נא נערתי</l>
+          <l>לא שווה את הדמעה ואת נשמתי</l>
+          <l>לכי נא לכי נא נערתי</l>
+          <l>לא שווה את הדמעה ואת נשמתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני הולך בדד אחרי האהבה</l>
+          <l>לא אראה אותך יותר את שמך אמחק לעד</l>
+          <l>עוד אמצא לי נערה תמה ומתוקה</l>
+          <l>שתנעים את החיים ואת האהבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לכי נא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

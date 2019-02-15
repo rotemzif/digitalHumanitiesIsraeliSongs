@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דקה 2</title>
+        <singer classification="unknown">ג נגו</singer>
+        <writer>ג'נגו</writer>
+        <composer>ג'נגו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דקה</head>
+        <lg number="1" type="stanza">
+          <l>אין לי מספיק לכולם</l>
+          <l>אין לי שעון מדויק</l>
+          <l>אין לי מקום חופשי</l>
+          <l>ואת רוצה לפגוש אותי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תני לי דקה להתכונן</l>
+          <l>תני לי דקה להתחיל ליפול על הברכיים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין שום תוכנית השנה</l>
+          <l>השבוע כבר ברחת יותר מדי</l>
+          <l>אני רואה אותך מולי</l>
+          <l>את אומרת לי אתה הכל בשבילי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תני לי דקה להתכונן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

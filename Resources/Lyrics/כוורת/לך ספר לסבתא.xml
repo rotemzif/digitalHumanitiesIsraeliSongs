@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לך ספר לסבתא</title>
+        <singer classification="band">כוורת</singer>
+        <writer>אלון אולארצ'יק</writer>
+        <composer>missing</composer>
+        <album>צפוף באוזן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לך ספר לסבתא</head>
+        <lg number="1" type="stanza">
+          <l>באפריקה בג'ונגל הלכתי לתומי</l>
+          <l>ושבט קניבלים מיד תפס אותי</l>
+          <l>קשרו ידי ושמו אותי בתוך קומקום</l>
+          <l>מזל שלא היה להם סכו"ם.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לאוורסט עליתי עם כמה חברים</l>
+          <l>בדרך לא ישנו כי לא היו סדינים</l>
+          <l>וכשבסוף הגענו ממש עד הפסגה</l>
+          <l>ס'תובבנו וירדנו חזרה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אל תהיה כזה חכם</l>
+          <l>לך ספר לסבתא</l>
+          <l>בין אמת לבין מוגזם</l>
+          <l>שמה הסתבכת</l>
+          <l>לסיפור מתוח לא תמצא לקוח</l>
+          <l>ולא תוכל אותנו לבלבל.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נסעתי לאוסטרליה לראות ת'קנגורו</l>
+          <l>ובטעות נחתנו בהונלולילו</l>
+          <l>היה איתי יפני שטס לבולטימור</l>
+          <l>אמר לי הטייס הזה שיכור.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אל תהיה כזה חכם...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>בארץ אסקימוסים הייתי לא מזמן</l>
+          <l>גנבתי קילו קרח תפסו אותי על חם</l>
+          <l>בית דין בתוך האיגלו והשופט כועס</l>
+          <l>באמצע כל ההוכחה נמס.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אל תהיה כזה חכם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

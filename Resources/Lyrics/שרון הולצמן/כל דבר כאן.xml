@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל דבר כאן</title>
+        <singer classification="male singer">שרון הולצמן</singer>
+        <writer>שרון הולצמן</writer>
+        <composer>שרון הולצמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל דבר כאן</head>
+        <lg number="1" type="stanza">
+          <l>הגשם שהפתיע נחלש בהדרגה</l>
+          <l>וגושי העננים המשיכו הלאה</l>
+          <l>זאת תמונה מאוד יפה שלרגע משכיחה </l>
+          <l>את העובדה שאתה בגיהנום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל דבר כאן, כל דבר כאן,</l>
+          <l>כל דבר כאן אינו מה שנראה</l>
+          <l>כל דבר כאן, כל דבר כאן,</l>
+          <l>כל דבר כאן, אינו מה שנראה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם הבתים היו יכולים, הם וודאי היו הורגים</l>
+          <l>אני מכריח את עצמי להביט למעלה</l>
+          <l>זו עיר בלתי נראית ואלו אנשים בלתי נראים</l>
+          <l>מפתחים יחסים בלתי נראים,רועדים מפחד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל דבר כאן,...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הלוואי והייתי יכול להבטיח</l>
+          <l>שהכל שהכל שהכל יהיה בסדר</l>
+          <l>זה מסע מאוד כבד, ולפעמים אני לא בטוח</l>
+          <l>שאני מבין מה זה אומר שהכל בסדר כי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כל דבר כאן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

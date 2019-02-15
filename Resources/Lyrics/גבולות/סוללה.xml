@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סוללה</title>
+        <singer classification="unknown">גבולות</singer>
+        <writer>עמית שמואל</writer>
+        <composer>עמית שמואל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סוללה</head>
+        <lg number="1" type="stanza">
+          <l>יש לה תשובות, מנסה לבלבל את כל מי ששואל אותה</l>
+          <l>איך זה להיות בנאדם שנותן את הכול בלי לדרוש דבר?</l>
+          <l>יש לה חולשות, פצע שהולך וגדל ואף אחד לא טיפל אבל אין לה תלונות</l>
+          <l>היא לא רוצה ללכלך - זה יבריא בהמשך אולי...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואם במקרה נשאר בה כוח היא תחלק אותו לכל אחד</l>
+          <l>חושבת ששואבת חזרה אבל נשארת סוללה ריקה</l>
+          <l>היא נשארת סוללה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שיש לה תשובות ומצליחה לבלבל את כל מי ששואל אותה</l>
+          <l>איך זה להיות בנאדם שתומך בכל מי שדורך עליו?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואם במקרה נשאר בה כוח היא תחלק אותו לכל אחד</l>
+          <l>חושבת ששואבת חזרה אבל נשארת סוללה ריקה</l>
+          <l>היא נשארת סוללה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ויאגרה</title>
+        <singer classification="male singer">רמי פורטיס</singer>
+        <writer>רמי פורטיס</writer>
+        <composer>אייל אבן צור</composer>
+        <album>חצי אוטומטי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ויאגרה</head>
+        <lg number="1" type="stanza">
+          <l>מחר ניסע להודו, טנגו בפריז</l>
+          <l>אולי נדפוק ויאגרה או את הראש בקיר</l>
+          <l>בחליפה של גוצ'י נקיף את העולם</l>
+          <l>על טראנס או מדיטציה, על ב.מ.וו. גדולה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ועד שלא נמצא את האור</l>
+          <l>אין לנו לאן לחזור</l>
+          <l>בתוך הנשמה יש חור אפל עמוק כמו ים שחור.</l>
+          <l>כל כך הרבה אין</l>
+          <l>יותר מדי לא</l>
+          <l>כל כך הרבה כלום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מחר נצא לדרך, הלילה עוד צעיר</l>
+          <l>אולי נתפוס אורגזמה או גורו בקהיר.</l>
+          <l>ביערות הגשם נחזור בשאלה</l>
+          <l>וכשנשוב הביתה אז נקבל תשובה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ועד שלא נמצא את האור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היא 100</title>
+        <singer classification="unknown">שממל</singer>
+        <writer>דרור ויידמן</writer>
+        <composer>יניב רווה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היא</head>
+        <lg number="1" type="stanza">
+          <l>כמה שורות מאחורייך</l>
+          <l>יושב ועלייך מסתכל</l>
+          <l>מחשבותי סותרות אך לי ברור כבר</l>
+          <l>לפי דפיקות הלב זה מסתדר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>התבוננות כה ארוכה בעורף</l>
+          <l>במלוא תקווה למצוא מעט חזית</l>
+          <l>אולי אשדוד מבט אולי אצליח</l>
+          <l>לגרום לך להרהר אחורנית</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ובלילה</l>
+          <l>חולם אותך עוברת על ידי</l>
+          <l>בחיוך קצת מבלבל</l>
+          <l>מושיט ידי</l>
+          <l>פותח פי</l>
+          <l>כמעט</l>
+          <l>אך לא נוגע</l>
+          <l>לא מצליח לדבר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חסר אונים יושב ומתבונן בך</l>
+          <l>ובשעון החול המתדלדל</l>
+          <l>בעוד כמה שניות את תיעלמי לי</l>
+          <l>ולא יהיה על מה להסתכל</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את לא יודעת אך מאחורייך</l>
+          <l>ממתין לך כל הטוב שבעולם</l>
+          <l>אבל את קמה ויוצאת החוצה</l>
+          <l>כל כך יפה וכך הכל נגמר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ובלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

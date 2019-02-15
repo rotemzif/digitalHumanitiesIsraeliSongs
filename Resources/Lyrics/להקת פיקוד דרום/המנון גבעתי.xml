@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המנון גבעתי</title>
+        <singer classification="unknown">להקת פיקוד דרום</singer>
+        <writer>עמוס אטינגר</writer>
+        <composer>אפי נצר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המנון גבעתי</head>
+        <lg number="1" type="stanza">
+          <l>מול אורות של זריחה ושקיעות של אביב</l>
+          <l>את קולה של הרוח שמעתי</l>
+          <l>זאת הרוח אשר מהלכת סביב</l>
+          <l>זו הרוח ששמה הוא גבעתי</l>
+          <l>זו הרוח אשר מהלכת סביב</l>
+          <l>זו הרוח ששמה הוא גבעתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מי שחלם גבעתי מי שנשם גבעתי</l>
+          <l>מי שהלך עימנו בדרכים</l>
+          <l>שב וחוזר גבעתי, שב ואומר גבעתי</l>
+          <l>עם גבעתי הלאה ממשיכים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל גבעות הטרשים הצבר והדום</l>
+          <l>בעקבות לוחמים אז הגעתי</l>
+          <l>בחולות המדבר ברחבי הדרום</l>
+          <l>שם מצאתי עקבות של גבעתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מי שחלם גבעתי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>והיום הם שבים ונושאים על גבם</l>
+          <l>את תרמיל הרעות בו נשבעתי</l>
+          <l>הם שבים למפה ממדבר ומים</l>
+          <l>ונושאים הם את רוח גבעתי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מי שחלם גבעתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סרג ינה</title>
+        <singer classification="band">הפסגות</singer>
+        <writer>ג'קי עובד</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סרג'ינה</head>
+        <lg number="1" type="stanza">
+          <l>כל יום עוברת בשכונה </l>
+          <l>את כל החברה מדליקה </l>
+          <l>כל הבנין בשביתה לא עובדים בגללה. </l>
+          <l>כולם מתים עליה לחץ הדם גובהה </l>
+          <l>לנגוס מתפוחיה עולה לנו החום </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>או סרג'ינה או סרגי'נה בכל מקום </l>
+          <l>היא הופכת את הלילה ליום </l>
+          <l>מארגנטינה עד בנימינה עוד לא היתה </l>
+          <l>כמו סרגי'נה מארגנטינה כאן כולם לא עובדים בגללה. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש לה זוג רגליים אך איזה עיניים </l>
+          <l>מדליקות השפתיים </l>
+          <l>את עושה באלאגן לכולם. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>או סרגי'נה... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היא יפה מזינגרלה גם יותר ממקרנה </l>
+          <l>את הגוף שלך חובקת נעלמת היא איננה </l>
+          <l>היא רוקדת משגעת את הטוסיק "מזזעת" </l>
+          <l>כמו מגנט אותך מושכת רק תיגע בה </l>
+          <l>היא נושכת.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

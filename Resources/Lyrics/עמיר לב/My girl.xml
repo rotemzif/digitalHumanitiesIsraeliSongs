@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>My girl</title>
+        <singer classification="male singer">עמיר לב</singer>
+        <writer>עמיר לב</writer>
+        <composer>עמיר לב</composer>
+        <album>פעם בחיים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>My girl</head>
+        <lg number="1" type="stanza">
+          <l>אתה מחייך והאישה שלך שותקת</l>
+          <l>אתה אומר לי תרגיש בבית</l>
+          <l>פסנתר שחור הרבה ספרים</l>
+          <l>והתמונה שאתה על הג'יפ והיא לובשת מדים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אתה מגיש קפה ומוסיף סוכר</l>
+          <l>היד שלך עם הטבעת</l>
+          <l>אולי תשב תאכל עוגה</l>
+          <l>יש עם תפוחים ויש עם גבינה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תפסיק עם הרגל אתה מזיז את השולחן</l>
+          <l>היא מביאה מטלית לחה מהמטבח</l>
+          <l>אולי תשב תאכל עוגה</l>
+          <l>יש עם תפוחים ויש עם גבינה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הרוח מחכה אני אוהב שקר</l>
+          <l>אסע מהר, דרך הים</l>
+          <l>על בנות מפתות לא אסתכל</l>
+          <l>אני אשיר עם קורט my girl</l>
+          <l>קורט ואני נשיר my girl</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תראה בטלוויזיה בדיוק שם היינו</l>
+          <l>זה לא שם זה שם תראה את הבית</l>
+          <l>אני כאן ואתה מחזיק את השלט</l>
+          <l>תסע לאט אתה אומר, תיסע לאט</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הרוח מחכה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

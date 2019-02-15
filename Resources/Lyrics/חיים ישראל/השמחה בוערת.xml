@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השמחה בוערת</title>
+        <singer classification="male singer">חיים ישראל</singer>
+        <writer>רמי לב</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השמחה בוערת</head>
+        <lg number="1" type="stanza">
+          <l>תן לי מוסיקה טובה</l>
+          <l>שבלב חודרת</l>
+          <l>כמה חם ברחבה  </l>
+          <l>השמחה בוערת</l>
+          <l>יש פה קסם באוויר גם הלב פתוח</l>
+          <l>והערב עוד צעיר ומצב הרוח!</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קול ששון וקול שמחה </l>
+          <l>עד הבוקר מסיבה </l>
+          <l>חיבוקים וחיוכים והלב בעננים</l>
+          <l>קול ששון וקול שמחה </l>
+          <l>בשבילי ובשבילך </l>
+          <l>אין כאלה רגעים זה רק פעם בחיים!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה הזמן להתרגש</l>
+          <l>לא כל יום הוא פלא</l>
+          <l>ובלב עוד לבקש</l>
+          <l>רגעים כאלה</l>
+          <l>זה הקסם באוויר כל אחד יודע </l>
+          <l>והערב עוד צעיר ערב משגע!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קול ששון וקול שמחה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

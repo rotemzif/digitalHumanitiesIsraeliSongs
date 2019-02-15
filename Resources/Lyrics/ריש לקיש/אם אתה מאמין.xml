@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם אתה מאמין</title>
+        <singer classification="unknown">ריש לקיש</singer>
+        <writer>רבי נחמן מברסלב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם אתה מאמין</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אם אתה מאמין שיכולים לקלקל</l>
+          <l>תאמין שיכולים לתקן.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לעיניין התחזקות, לבל יפול אדם בדעתו</l>
+          <l>מחמת ריבוי הפגמים והקילקולים</l>
+          <l>שקילקל על ידי מעשיו</l>
+          <l>ענה רבנו ואמר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם אתה מאמין שיכולים לקלקל</l>
+          <l>תאמין שיכולים לתקן.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

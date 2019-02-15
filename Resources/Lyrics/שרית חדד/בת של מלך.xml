@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בת של מלך</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>אורי שמח</writer>
+        <composer>אורי שמח</composer>
+        <album>שרית חדד</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בת של מלך</head>
+        <lg number="1" type="stanza">
+          <l>מדליקה נרות מברכת</l>
+          <l>לאלוקיי למעלה מתפללת</l>
+          <l>באבא ובאמא גם נזכרת</l>
+          <l>בלילות שבת בריח מיוחד</l>
+          <l>לא אשכח אותם אף פעם בליבי</l>
+          <l>ליבי ליבי בזיכרונות בשבתות</l>
+          <l>ובימים הכי יפים ונשאר רק געגוע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תודה לאל יומם וליל</l>
+          <l>שאני בת ישראל</l>
+          <l>בת של מלך המלכים</l>
+          <l>הילדה של אלוקים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מדליקה נרות ושומעת</l>
+          <l>תפילה של ילדים עולה בוקעת</l>
+          <l>האושר בביתי אני יודעת</l>
+          <l>בלילות שבת בריח מיוחד</l>
+          <l>לא אשכח אותם אף פעם בליבי</l>
+          <l>ליבי ליבי בזיכרונות בשבתות</l>
+          <l>ובימים הכי יפים ונשאר רק געגוע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תודה לאל יומם וליל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

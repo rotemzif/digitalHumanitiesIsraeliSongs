@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את ביתי</title>
+        <singer classification="male singer">לירן טל</singer>
+        <writer>אהוד מנור</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את ביתי</head>
+        <lg number="1" type="stanza">
+          <l>את ביתי</l>
+          <l>את אותי יום וליל מקבלת</l>
+          <l>יש בך דלת</l>
+          <l>וחלון ומיטה</l>
+          <l>את ביתי המואר והחם</l>
+          <l>ואלייך אלך</l>
+          <l>יש לי תמיד חדר שמור בליבך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את ביתי</l>
+          <l>את אותי מבינה ומחבקת</l>
+          <l>יש בך שקט</l>
+          <l>ורכות וסליחה</l>
+          <l>את ביתי כשאני מתייאש</l>
+          <l>ואלייך אלך</l>
+          <l>יש לי תמיד חדר שמור בליבך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מי שנשבר</l>
+          <l>מי שנשאר</l>
+          <l>בלי אור בחושך</l>
+          <l>מי שאבד</l>
+          <l>מי שנבגד</l>
+          <l>על סף האושר</l>
+          <l>הוא יאמין</l>
+          <l>רק הוא יבין</l>
+          <l>איזה בית יש בעינייך, בידייך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את ביתי</l>
+          <l>את איתי ישנה וצוחקת</l>
+          <l>את צודקת, חכמה וטובה</l>
+          <l>את ביתי הפתוח לעד</l>
+          <l>ואלייך אלך</l>
+          <l>יש לי תמיד חדר שמור בליבך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מי שנשבר...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יש בעינייך, בידייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

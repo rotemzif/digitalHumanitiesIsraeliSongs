@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלך הזנב</title>
+        <singer classification="male singer">רמי פורטיס</singer>
+        <writer>רמי פורטיס</writer>
+        <composer>אייל אבן צור</composer>
+        <album>חצי אוטומטי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלך הזנב</head>
+        <lg number="1" type="stanza">
+          <l>בימים האחרונים אני לא מחובר</l>
+          <l>מדבר על הכל והכל מיותר</l>
+          <l>עושה אהבה לעצמי ואיתך</l>
+          <l>הכל קדוש והכל מלוכלך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הדמיון לא משקר</l>
+          <l>כל כך שקוף ומתבהר</l>
+          <l>זה יותר מחבר בצהריים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שוב אני מרגיש כמו מלך הזנב</l>
+          <l>שוב אני אוהב אבל לא מאוהב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בימים אחרים שאני לא משוחרר</l>
+          <l>מטפס על הקיר והקיר לא נגמר</l>
+          <l>מבקש מחילה מעצמי וגם לך</l>
+          <l>מהאפס שבי אל האפס שבך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>השעון לא מאחר</l>
+          <l>כל כך לאט הוא ממהר</l>
+          <l>זה תמיד מסנוור את העיניים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שוב אני מרגיש כמו מלך הזנב</l>
+          <l>שוב אני אוהב אבל לא מאוהב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

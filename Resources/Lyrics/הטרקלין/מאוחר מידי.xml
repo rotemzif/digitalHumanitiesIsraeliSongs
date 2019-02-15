@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאוחר מידי</title>
+        <singer classification="unknown">הטרקלין</singer>
+        <writer>עמית שקד</writer>
+        <composer>עמית שקד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאוחר מידי</head>
+        <lg number="1" type="stanza">
+          <l>האיפור מרוח קצת, קצת בכוונה</l>
+          <l>זמן לא משנה אותה היא לא משתנה</l>
+          <l>רק זיוף יוציא ממנה רמז לחיוך</l>
+          <l>הליכתה המתוחה שיערה סבוך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה לא מאוחר מדי לאבד שליטה</l>
+          <l>וכשהיא תתחיל לזוז הכל יזוז איתה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>משקה חריף כוס ריקה עדות לצימאון</l>
+          <l>רק עוד רגע רק עוד קצת, עוד שיר אחרון</l>
+          <l>היא עושה הכל לאט קצת בכוונה</l>
+          <l>זמן לא משנה אותה היא לא משתנה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה לא מאוחר מדי לאבד שליטה</l>
+          <l>וכשהיא תתחיל לזוז הכל יזוז איתה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

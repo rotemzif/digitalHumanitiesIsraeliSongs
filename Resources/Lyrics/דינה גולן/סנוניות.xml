@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סנוניות</title>
+        <singer classification="female singer">דינה גולן</singer>
+        <writer>אהוד מנור</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סנוניות</head>
+        <lg number="1" type="stanza">
+          <l>סנוניות -</l>
+          <l>הגיחו מן הניר,</l>
+          <l>סנוניות -</l>
+          <l>הגיעו אל העיר,</l>
+          <l>ירדו מן השמיים</l>
+          <l>בתחנת ביניים,</l>
+          <l>סנוניות, סנוניות...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אור שמש ומרחב</l>
+          <l>עם טיפ טיפה של סתיו,</l>
+          <l>הביא לגאיות ענן של סנוניות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>סנוניות -</l>
+          <l>פלשו אל השדרה,</l>
+          <l>סנוניות -</l>
+          <l>למדו אנקור שירה,</l>
+          <l>דרכון כנף הציגו,</l>
+          <l>אשרת כניסה השיגו,</l>
+          <l>סנוניות, סנוניות...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אור שמש ומרחב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>סנוניות -</l>
+          <l>אספו את הכלים,</l>
+          <l>סנוניות -</l>
+          <l>הפסידו לאקלים,</l>
+          <l>שהו ימים חדשיים</l>
+          <l>חזרו אל השמיים,</l>
+          <l>סנוניות, סנוניות...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אור שמש ומרחב,</l>
+          <l>עם טיפ טיפה של סתיו,</l>
+          <l>יחזיר לגאיות ענן של סנוניות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תאהבי אותי תמיד</title>
+        <singer classification="male singer">עמיר לב</singer>
+        <writer>עמיר לב</writer>
+        <composer>עמיר לב</composer>
+        <album>לפעמים אני מאושר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תאהבי אותי תמיד</head>
+        <lg number="1" type="stanza">
+          <l>חלונות כהים חלונות כהים</l>
+          <l>מה שבחוץ בלי מה שבפנים</l>
+          <l>אייס קפה עם קש מרפא זוועות</l>
+          <l>גם שקיות מלאות ומוכרות יפות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>משפחות כבדות נועלות אלפים</l>
+          <l>עניבות ושליחים רצים</l>
+          <l>בנות עשירות מתחתנות עם בתים</l>
+          <l>ובלילה כל הספסלים תפוסים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>דם בטלוויזיה</l>
+          <l>רק שנינו מסתכלים</l>
+          <l>תאהבי אותי תמיד תאהבי אותי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בין המוסיקה והילדים</l>
+          <l>בין מה שאני רוצה למה שהם צריכים</l>
+          <l>לפעמים זה עובד כולנו צוחקים</l>
+          <l>אני מזכיר את זה בבוקר</l>
+          <l>לפני שהולכים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>דם בטלוויזיה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

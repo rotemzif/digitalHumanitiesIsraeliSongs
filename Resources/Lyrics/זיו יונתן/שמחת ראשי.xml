@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמחת ראשי</title>
+        <singer classification="male singer">זיו יונתן</singer>
+        <writer>זיו יונתן</writer>
+        <composer>זיו יונתן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמחת ראשי</head>
+        <lg number="1" type="stanza">
+          <l>זה נכון שמחת ראשי </l>
+          <l>היית תמיד איתי </l>
+          <l>נגעת בחום גופי </l>
+          <l>הלילה</l>
+          <l>ובתוך החשיכה מצאתי לי כיוון</l>
+          <l>איתך </l>
+          <l>כן רק איתך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>טוב לי כאן </l>
+          <l>ורע לי כאן </l>
+          <l>בארץ המטורפת</l>
+          <l>טוב לי כאן </l>
+          <l>ורע לי כאן </l>
+          <l>איתך אמשיך ללכת</l>
+          <l>לעולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה נכון יפת לילי </l>
+          <l>נגעת בכל כולי </l>
+          <l>שמעת גם את קולי</l>
+          <l>בבוקר</l>
+          <l>ובתוך האור החם הלכתי לאיבוד</l>
+          <l>לבד </l>
+          <l>כן כך לבד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>טוב לי כאן </l>
+          <l>ורע לי כאן </l>
+          <l>בארץ המטורפת</l>
+          <l>טוב לי כאן </l>
+          <l>ורע לי כאן </l>
+          <l>איתך אמשיך ללכת</l>
+          <l>לעולם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

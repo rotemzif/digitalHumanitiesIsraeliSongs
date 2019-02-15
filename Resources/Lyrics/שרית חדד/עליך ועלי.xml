@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עליך ועלי</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>טל שגב</writer>
+        <composer>יעקב למאי</composer>
+        <album>זה ששומר עלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עליך ועלי</head>
+        <lg number="1" type="stanza">
+          <l>אל תמהרי לצאת </l>
+          <l>אל תמהרי לפסול</l>
+          <l>את מה שהיה אתמול</l>
+          <l>פעימה בגוף גדול</l>
+          <l>יד אוחזת במכחול</l>
+          <l>זה נראה ציור גדול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עליך ועלי</l>
+          <l>אפשר לכתוב סיפור חיי</l>
+          <l>עומדת לי בתוך רחוב</l>
+          <l>וליבי ליבי רטוב</l>
+          <l>עליך ועלי </l>
+          <l>אפשר לכתוב סיפור חיי</l>
+          <l>עומדת לי בתוך רחוב</l>
+          <l>וליבי מת לאהוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך ורוד הפך אפור </l>
+          <l>בליבי כבה האור</l>
+          <l>לא נוכל לשם לחזור</l>
+          <l>מסתכלת ובוהה</l>
+          <l>התמונה שלך קפאה</l>
+          <l>אהבה שלי יפה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עליך ועלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לואי 2</title>
+        <singer classification="band">פופ אפ</singer>
+        <writer>ברוך פרידלנד</writer>
+        <composer>רפאל סופר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לואי</head>
+        <lg number="1" type="stanza">
+          <l>אנל'א יודעת מה לעשות איתך יותר</l>
+          <l>תמיד רק מיתמם ומספר סיפור אחר</l>
+          <l>אל תבלבל לי שאני לא זמינה</l>
+          <l>נמאסו השקרים שלך הם כבר לא באופנה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זוז כבר, לואי</l>
+          <l>אל תהיה לי קולי </l>
+          <l>עוד מעט כבר יולי </l>
+          <l>ואני מחכה...</l>
+          <l>די כבר לואי</l>
+          <l>עם אכלו שתו לי</l>
+          <l>את הכל סיפרו לי</l>
+          <l>בשנה שעברה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כולם אומרים לי: זה הזמן להתעורר </l>
+          <l>שברת את הלב שלי, תמצא לך אחר </l>
+          <l>אל תתקשר יותר אני לא פנוייה</l>
+          <l>אל תשלח לי עוד SMS כי כבר אין לי קליטה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זוז כבר, לואי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

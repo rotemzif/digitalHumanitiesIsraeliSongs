@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחר אחר</title>
+        <singer classification="male singer">גבי ברלין</singer>
+        <writer>יובב כץ</writer>
+        <composer>יצחק סלע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחר אחר</head>
+        <lg number="1" type="stanza">
+          <l>הדליקי את האור</l>
+          <l>הרימי מבטך</l>
+          <l>אם רע זה יחלוף</l>
+          <l>הגידי לנפשך</l>
+          <l>מעבר להרים</l>
+          <l>במרכבות זהב</l>
+          <l>עולה ובא מחר אחר</l>
+          <l>קדמי פניו.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עוד יבוא מחר אחר, מחר אחר</l>
+          <l>שיבוא שימהר שימהר</l>
+          <l>עוד נדע זמנים טובים יותר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לבשי שמלה של חג</l>
+          <l>טפסי אל ראש ההר</l>
+          <l>הגביהי, שם, למעלה</l>
+          <l>עד כמה שאפשר</l>
+          <l>קראי לו שיבא</l>
+          <l>רכבו עשוי זהב</l>
+          <l>ושובי אל ביתנו במרכבותיו...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עוד יבוא מחר אחר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

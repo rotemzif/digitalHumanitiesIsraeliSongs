@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האמת המרה</title>
+        <singer classification="female singer">ענבל פרלמוטר</singer>
+        <writer>ענבל פרלמוטר</writer>
+        <composer>ענבל פרלמוטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האמת המרה</head>
+        <lg number="1" type="stanza">
+          <l>מטפחים את הנוף</l>
+          <l>בצידי הדרך</l>
+          <l>אבל הדרך עצמה</l>
+          <l>היא קשה ומכוערת!</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זוהי האמת המרה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אשר רק נולדה</l>
+          <l>ועוד לא התבגרה</l>
+          <l>לא ניתן עוד לאמר:</l>
+          <l>"QUE SERA, SERA"</l>
+          <l>זה רע!</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשהחושך גובר</l>
+          <l>כל תמרור משקר</l>
+          <l>וכל שלט עיוור.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זוהי האמת המרה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ואסור לעצור</l>
+          <l>ואסור לוותר</l>
+          <l>אבל זה שרץ הכי מהר</l>
+          <l>הוא אשר יאחר.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>זוהי האמת המרה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד עונה</title>
+        <singer classification="female singer">רומי הלחמי</singer>
+        <writer>יהודה בן נחום</writer>
+        <composer>חיים לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד עונה</head>
+        <lg number="1" type="stanza">
+          <l>ציית לפקודותי</l>
+          <l>עצום עינך</l>
+          <l>אתה נכנע אלי אט אט</l>
+          <l>הנה נפתח השער</l>
+          <l>ראשך יצנח - אל הזירה</l>
+          <l>אתה מובס</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמה קרוב אליך</l>
+          <l>כמה רחוק משם</l>
+          <l>מישהי פה</l>
+          <l>רוצה אליך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין דרך חזרה</l>
+          <l>הנה הוזהרת</l>
+          <l>אבל יש אור במנהרה</l>
+          <l>היופי שמצאת זורם אלי</l>
+          <l>אני קרובה וחם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמה קרוב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ענן בקו רקיע</l>
+          <l>הוריד את ממטריו</l>
+          <l>טיפות גדולות ירדו עלי</l>
+          <l>לאט ולא בכח</l>
+          <l>מלאת תבונה</l>
+          <l>נאספה לי עוד עונה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כמה קרוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

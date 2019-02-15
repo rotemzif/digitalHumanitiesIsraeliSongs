@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שונאים בע מ</title>
+        <singer classification="male singer">רמי פורטיס</singer>
+        <writer>רמי פורטיס</writer>
+        <composer>גיל סמטנה</composer>
+        <album>פורטיס משולש</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שונאים בע"מ</head>
+        <lg number="1" type="stanza">
+          <l>חטא קדמון אחר שהתווכח</l>
+          <l>בא נחש והפך הכל</l>
+          <l>אח לאח מזון למזבח</l>
+          <l>אין גואל בחדרי ביתו</l>
+          <l>נעבור לנוח</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שונאים אותי שונאים אותך שונאים אותם</l>
+          <l>שונאים שמח לכולם</l>
+          <l>שונאים מהר שונאים יותר שונאים בע"מ</l>
+          <l>שונאים אורח לכולם שונאים בע"מ</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש כבוד עתיק ומתפקע</l>
+          <l>מר בלב וכבד העול</l>
+          <l>אויב חבר אוהב אך לא יודע</l>
+          <l>טוב או רע ורודף זנבו</l>
+          <l>נעבור לרוח</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

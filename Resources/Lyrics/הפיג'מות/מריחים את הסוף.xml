@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מריחים את הסוף</title>
+        <singer classification="unknown">הפיג מות</singer>
+        <writer>הפיג'מות</writer>
+        <composer>הפיג'מות</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מריחים את הסוף</head>
+        <lg number="1" type="stanza">
+          <l>לא ציפינו שיצא לנו להיט </l>
+          <l>אחרי כל העונות כבר שכחנו מתקליט </l>
+          <l>אבל עכשיו כשמריחים כבר את הסוף </l>
+          <l>אמרנו ננסה, אולי יצא לנו טוב </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פרק אחד לפני אחרון </l>
+          <l>אין מה להפסיד, זה לא פרק ראשון </l>
+          <l>זה לפני אחרון </l>
+          <l>אין לנו מילים, אז נצרח את הפזמון </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אה, אה, אה, וואו, או-וואו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

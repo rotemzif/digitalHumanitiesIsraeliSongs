@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר ערש לגשש החיוור</title>
+        <singer classification="band">הגשש החיוור</singer>
+        <writer>עמוס אטינגר</writer>
+        <composer>קרלו קונסינה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר ערש לגשש החיוור</head>
+        <lg number="1" type="stanza">
+          <l>השמש כי תשקע באופל ליל </l>
+          <l>נצאה אל החוף ונחכה </l>
+          <l>לאבא ולאחי שפרשו מפרשם במרחב </l>
+          <l>סירת הדוגה היא הפליגה באופל ליל </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נומה בני עצום עיניך </l>
+          <l>שכב הירדם איתך אני, </l>
+          <l>אבא מרחוק יבוא אליך </l>
+          <l>רוב מתנות לך יביא. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>השמש כי תזרח באור הבוקר </l>
+          <l>נצאה אל החוף ונחכה </l>
+          <l>ללובן מפרש יבהיק </l>
+          <l>לסירת הדוגה כי תופיע, </l>
+          <l>אביך בשלום יחזור בשלום יגיע. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נומה בני עצום עיניך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

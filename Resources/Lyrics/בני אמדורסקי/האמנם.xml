@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האמנם 3</title>
+        <singer classification="male singer">בני אמדורסקי</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>דובי זלצר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האמנם</head>
+        <lg number="1" type="stanza">
+          <l>האמנם מצא השחר</l>
+          <l>את שניכם על שפת הנחל</l>
+          <l>האמנם אמר לך אז</l>
+          <l>את יפה מקרן פז?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>במילים נפלאות כל כך</l>
+          <l>הוא את ליבה לקח</l>
+          <l>אך מה יהיה אחר כך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>האמנם על טל הדשא</l>
+          <l>הוא פרש לך את הרשת</l>
+          <l>האמנם ליבך נפתח</l>
+          <l>עת אמר ליבי שלך?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>במילים נפלאות...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>האמנם נשק לך שמה</l>
+          <l>בלי לדעת איך ולמה</l>
+          <l>האמנם נדהמת מאד</l>
+          <l>כשמייד אמרת לו עוד?</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>במילים נפלאות...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>האמנם עם בוא הערב</l>
+          <l>הוא הלך לו אל אחרת</l>
+          <l>האמנם רק בגללו</l>
+          <l>לעולם תגידי לא?</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>במילים נפלאות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

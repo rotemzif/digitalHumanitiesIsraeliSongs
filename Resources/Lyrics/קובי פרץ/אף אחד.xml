@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אף אחד 18</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>שמואל אלבז</composer>
+        <album>כל מה שיש בי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אף אחד</head>
+        <lg number="1" type="stanza">
+          <l>אני הולך בשבילך את כל הדרך</l>
+          <l>תחכי לי רק דקה, אלייך בא</l>
+          <l>במקדש אהבתך כורע ברך</l>
+          <l>מביטה בי בעיניים של בובה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שוב הרגש משתלט לי על השכל</l>
+          <l>זה גורם לי רק לרצות אותך יותר</l>
+          <l>לפנק אותך זה טוב, זה בסדר</l>
+          <l>ועלייך לעולם לא אוותר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אף אחד לא אוהב אותי כמוך</l>
+          <l>אין כמוך, אני יודע</l>
+          <l>תחייכי לי, תצחקי</l>
+          <l>את עושה לי טוב כשאת נוגעת בי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אף אחד לא אוהב אותי כמוך</l>
+          <l>אין כמוך, אני יודע</l>
+          <l>תחייכי לי, תצחקי</l>
+          <l>את היחידה שמבינה אותי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את שוכנת בליבי בתוך הנפש</l>
+          <l>אין בינינו משחקים של גאווה</l>
+          <l>מיתר בשם פורק לי על הרגש</l>
+          <l>יש בינינו אהבה כל כך טובה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אף אחד לא אוהב אותי כמוך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

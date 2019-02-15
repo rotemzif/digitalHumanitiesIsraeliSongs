@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה שאני לא יודעת</title>
+        <singer classification="female singer">יעל קראוס</singer>
+        <writer>ברק פלדמן</writer>
+        <composer>יוני בלוך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה שאני לא יודעת</head>
+        <lg number="1" type="stanza">
+          <l>אם יש בך עוד קול שלא עוזב,</l>
+          <l>וכף ידך בוערת מכאב</l>
+          <l>לטף איתה ברוך את שערי,</l>
+          <l>נשוף את השתיקות על צווארי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל תאמר סליחה, כי לא אסלח לך-לא.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תעטוף אותי בלהט, עד שלא יוכלו לגעת</l>
+          <l>דמעותיך בליבי.</l>
+          <l>מה שאני לא יודעת, מה שאני לא יודעת </l>
+          <l>לא יכול לפגוע בי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם יש בך צלקת לא נראית,</l>
+          <l>שקרים קטנים שלא תוכל לשאת</l>
+          <l>הנח אותם בשקט על כתפי,</l>
+          <l>חבר איתם בחושך את גופי.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אל תאמר סליחה כי לא אסלח לך,</l>
+          <l>לא אסלח לך, לא אסלח לך, לא.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תעטוף אותי בלהט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

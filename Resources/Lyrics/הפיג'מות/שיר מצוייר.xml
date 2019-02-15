@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר מצוייר</title>
+        <singer classification="unknown">הפיג מות</singer>
+        <writer>אריאל זילבר</writer>
+        <composer>חן קלימן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר מצוייר</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אם הייתי יכול </l>
+          <l>הייתי צובע הכל במכחול </l>
+          <l>אורז את כל הדברים </l>
+          <l>ועובר לחיות.... </l>
+          <l>בעולם המצויירים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כי כשאתה מצוייר </l>
+          <l>אתה יכול כל דבר </l>
+          <l>לגדל חייזרים </l>
+          <l>ולשוט במדבר </l>
+          <l>לקבץ עוד סירים </l>
+          <l>לחלק כדורים </l>
+          <l>לעוף כמו ציפורים </l>
+          <l>ולהיות מאושרים </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם הייתי יכול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלך הגרפיטי</title>
+        <singer classification="band">הגמלים</singer>
+        <writer>מעין אוחנה</writer>
+        <composer>דני גפני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלך הגרפיטי</head>
+        <lg number="1" type="stanza">
+          <l>את כל הסיטי מילא הוא בגרפיטי</l>
+          <l>על הקירות משאיר הוא חותמות</l>
+          <l>ואין בעיר גדר שעליה לא צייר</l>
+          <l>כל יום מקיר אחר איתם הוא מדבר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את שמו איש לא יודע</l>
+          <l>את פניו איש לא מכיר</l>
+          <l>את קולו איש לא שומע</l>
+          <l>הוא רק כתובת על הקיר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה מלך הגרפיטי שחזר מניו יורק סיטי</l>
+          <l>הביא מהגלות וואלה אחללה אומנות</l>
+          <l>הוא כותב כל מה יש לו בלב</l>
+          <l>הוא כותב הכל גם אם זה כואב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את שמו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כולם צמאים לראות מה יגידו הכתובות</l>
+          <l>שיהיו מחר בעיר שיופיעו על הקיר</l>
+          <l>כמו צל בלילה הוא מופיע נעלם</l>
+          <l>רק הריח של הצבע אחריו קיים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>את שמו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

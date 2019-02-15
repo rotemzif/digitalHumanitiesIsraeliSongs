@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אגדת רועים</title>
+        <singer classification="band">הפרברים</singer>
+        <writer>אריה אהרוני</writer>
+        <composer>נחצ'ה היימן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אגדת רועים</head>
+        <lg number="1" type="stanza">
+          <l>ושוב השמש האדום</l>
+          <l>פנה פנה לעבר ים</l>
+          <l>וכמו תמיד באגדות</l>
+          <l>רבצו כבשים על מעיין</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רבצו והעלו גרה</l>
+          <l>חלב בעטינים גאה</l>
+          <l>ושום דבר עוד לא קרה</l>
+          <l>רק טל-טלה אחד פעה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הו, מה! הו, מה מה מה מה!</l>
+          <l>מה מה מה מה!</l>
+          <l>הו, מה! הו, מה מה מה מה!</l>
+          <l>מה מה!</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל בין העדר בא גנב</l>
+          <l>מעיו המו כחלילים</l>
+          <l>הנה יתפוס כבשה שמנה</l>
+          <l>בסתר ערב וצללים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אבל העדר בדממה</l>
+          <l>היה דרוך ולא נרתע</l>
+          <l>מרוב חרון וברוב חמה</l>
+          <l>מכות חילק לו עד זוב דם</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הו, מה...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>וכשראו כבשים פתאום</l>
+          <l>כי דם טעים מן החציר</l>
+          <l>טרוף טרפו אותו עד תום</l>
+          <l>מאז אין שה תמים בדיר</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>הו, מה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

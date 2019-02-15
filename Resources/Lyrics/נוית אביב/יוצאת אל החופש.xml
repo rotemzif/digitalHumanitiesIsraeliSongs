@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יוצאת אל החופש</title>
+        <singer classification="unknown">נוית אביב</singer>
+        <writer>ברוך פרידלנד</writer>
+        <composer>הנרי ברטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יוצאת אל החופש</head>
+        <lg number="1" type="stanza">
+          <l>באה שעה לעזוב ולפרוש לי כנפיים </l>
+          <l>אני קרובה לנקודת הרתיחה בה אגע בשמיים </l>
+          <l>ומנסה להחזיק במשהו יציב </l>
+          <l>וטסה בין גגות תל אביב </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>באה שעה לעזוב ולפתוח לי דלת </l>
+          <l>מן הרחובות ההומים בני אדם לירוק בין התכלת </l>
+          <l>להשתולל בחוצות, לפרוץ בצעקות </l>
+          <l>בלי חוקים, בלי חובות </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יוצאת אל החופש </l>
+          <l>מוצאת את החופש שלי </l>
+          <l>מוצאת את החופש באופן פרטי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יוצאת אל החופש </l>
+          <l>נושמת אותו אל תוכי </l>
+          <l>מוצאת את החופש רחוק מן העיר </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>באה שעה לעזוב ואני מסתלקת </l>
+          <l>עם שק שינה ותרמיל על הגב ממשיכה לי ללכת </l>
+          <l>להתבגר בדרכים, למצוא עוד אזורים </l>
+          <l>מרקיעה לשחקים </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יוצאת אל החופש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

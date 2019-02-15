@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בך לא נוגע</title>
+        <singer classification="female singer">יהודית רביץ</singer>
+        <writer>דן תורן</writer>
+        <composer>דן תורן</composer>
+        <album>געגוע</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בך לא נוגע</head>
+        <lg number="1" type="stanza">
+          <l>יש דובים גדולים ביער</l>
+          <l>ופחד מורגש</l>
+          <l>ריקודים מול האש - יש</l>
+          <l>ינשופים ונחש</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש מפלצת בתוך הנהר</l>
+          <l>רעבה וערה</l>
+          <l>אבל החדר חמים ונעים</l>
+          <l>ואת ישנה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הבל פיך התמים</l>
+          <l>שקט ורוגע</l>
+          <l>שום דבר לא מפחיד</l>
+          <l>בך לא נוגע</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש מלחמה באמצע אירופה</l>
+          <l>הימים שחורים</l>
+          <l>שיירה בורחת בלי בית</l>
+          <l>מפני הרעים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יש חיידק משוגע שפוגע</l>
+          <l>חסר הבחנה</l>
+          <l>אבל החדר חמים ונעים</l>
+          <l>ואת ישנה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הבל פיך התמים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכל מתבהר</title>
+        <singer classification="female singer">מור שטייגל</singer>
+        <writer>מור שטייגל</writer>
+        <composer>בועז ריינשרייבר</composer>
+        <album>מחשבות יכולות לשנות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכל מתבהר</head>
+        <lg number="1" type="stanza">
+          <l>לא יודעת מה לחשוב</l>
+          <l>לא יודעת מה לכתוב</l>
+          <l>למה? למה?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמה זמן נשאר לי פה</l>
+          <l>למצוא את עצמי לבד</l>
+          <l>כמה? כמה?</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ברגע אחד הכל מתבהר...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תן לי להספיק למצוא</l>
+          <l>כשאסיים אבוא</l>
+          <l>קמה! אני קמה!...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לשחרר את מה שהחזקתי</l>
+          <l>לוותר על מה שידעתי</l>
+          <l>באה! אני באה!</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ברגע אחד הכל מתבהר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אישה אישה 3</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>מבט שנוגע</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אישה אישה</head>
+        <lg number="1" type="stanza">
+          <l>איך את משתנה לי </l>
+          <l>בזמן האחרון</l>
+          <l>אין לך זמן לאהבה</l>
+          <l>את רק רוצה לישון</l>
+          <l>תסגרי לי דלת אבוא מהחלון</l>
+          <l>לא אני לא אוותר עליך</l>
+          <l>אתמול כתבתי בשבילך</l>
+          <l>את כל מילות אהבתי</l>
+          <l>היום בשם האהבה</l>
+          <l>אני יוצא מדעתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אישה אישה</l>
+          <l>איך את מרגישה</l>
+          <l>תראי מה שקורה לי בגללך</l>
+          <l>אין לך בושה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מבטך קורא לי </l>
+          <l>ועם חיוך מתוק</l>
+          <l>שוב את מתחמקת </l>
+          <l>ועושה ממני צחוק</l>
+          <l>בא קרוב אליך</l>
+          <l>אבל מרגיש רחוק</l>
+          <l>כל הלילה קר לי בלעדייך</l>
+          <l>אתמול כתבתי בשבילך</l>
+          <l>את כל מילות אהבתי</l>
+          <l>היום בשם האהבה </l>
+          <l>אני יוצא מדעתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אישה אישה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הצייר 2</title>
+        <singer classification="female singer">נעמי רותם</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>מיכה קיזנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הצייר</head>
+        <lg number="1" type="stanza">
+          <l>שנתו נודדת כשיש רעיון בראשו,</l>
+          <l>הולם ברקותיו נקישות-נקישות.</l>
+          <l>מחפש לו גוונים להתיז על הבד</l>
+          <l>עד אשר ציור חדש אצלו נולד.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כשהוא כואב - הצבעים אפורים.</l>
+          <l>כשהוא אוהב - הצבעים בהירים.</l>
+          <l>כשהוא לוחם - הצבעים רועמים.</l>
+          <l>כשהוא חולם - הצבעים נעימים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דמעה הופכת לכתם מאיר על הבד</l>
+          <l>וקול מחאותיו לעיטור מיוחד.</l>
+          <l>אין לו דרך שונה להביע דברו</l>
+          <l>כמו המשורר אשר כותב שירו.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כשהוא כואב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אפשר בחושך לראות בתוך לב הציור</l>
+          <l>וכל אהבותיו משתקפות בבירור.</l>
+          <l>מבקש שתראו על הבד את לבו.</l>
+          <l>אם ראיתם זאת, נתתם לו את שכרו.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כשהוא כואב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

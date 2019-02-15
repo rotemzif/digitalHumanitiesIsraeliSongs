@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא יכול בלעדיה</title>
+        <singer classification="male singer">עופר לוי</singer>
+        <writer>מרים גרנות</writer>
+        <composer>לא ידוע</composer>
+        <album>לא יכול בלעדיה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא יכול בלעדיה</head>
+        <lg number="1" type="stanza">
+          <l>כל הלילה לא ישנתי וחשבתי רק עליה</l>
+          <l>כל הלילה רק דימיינתי את קולה ואת מראה</l>
+          <l>עד הבוקר התייסרתי ועכשיו אני יודע</l>
+          <l>שלנצח אוהבנה לא יכול עוד בלעדיה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אנא אהובה תתני לי</l>
+          <l>סודותייך נא גלי גלי</l>
+          <l>אהביני והביני</l>
+          <l>לא יכול עוד בלעדייך</l>
+          <l>אהביני אטעימיני</l>
+          <l>והדבש שבשפתייך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל הלילה לא ישנתי וחשבתי רק עלייך</l>
+          <l>כל הלילה רק דימיינתי את קולך ואת פנייך</l>
+          <l>כל הלילה רק טיילתי וחשבתי אודותיה</l>
+          <l>וסברתי והרגשתי שאני מתגעגע</l>
+          <l>עד הבוקר התיסרתי ועכשיו אני יודע</l>
+          <l>שלנצח אוהבנה לא יכול עוד בלעדיה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אנא אהובה תתני לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

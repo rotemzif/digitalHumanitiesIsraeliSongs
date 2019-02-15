@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פומה פומה</title>
+        <singer classification="male singer">יהודה פוליקר</singer>
+        <writer>יהודה פוליקר</writer>
+        <composer>missing</composer>
+        <album>כל דבר מזכיר לי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פומה פומה</head>
+        <lg number="1" type="stanza">
+          <l>בפינת רחוב לוינסקי שפונה לשוק </l>
+          <l>ראיתי רומני קטן חצי צימוק</l>
+          <l>דובר שפה עילגת וכולו קצה חוט</l>
+          <l>סיגריה מה נותן לך אתה מבסוט</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי פומה פומה את הסיגריה </l>
+          <l>שם רומני חשיש מריחואנה</l>
+          <l>כי פומה פומה מסטול הריח </l>
+          <l>תודה חבר אני אומר אני לא לוקח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תיקח הרומני דוחף אחת קטנה</l>
+          <l>כי למה אתה בא בתחנה הישנה</l>
+          <l>זה כאן עולם אחר זה משטרה אין חוק</l>
+          <l>רק צינגלה קטן קונה והופ לצחוק </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי פומה פומה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה לא אומר</title>
+        <singer classification="unknown">בן ישראלי</singer>
+        <writer>בן ישראלי</writer>
+        <composer>בן ישראלי</composer>
+        <album>לעוף איתך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה לא אומר</head>
+        <lg number="1" type="stanza">
+          <l>אהבה ראשונה שלך ילדה</l>
+          <l>התרגשת כמו נסיכה</l>
+          <l>באגדה קסומה</l>
+          <l>לא היית רוצה </l>
+          <l>שכך זה יגמר</l>
+          <l>אבל את ודאי יודעת</l>
+          <l>שמחר יבוא אחר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה לא אומר</l>
+          <l>שאת צריכה לבכות</l>
+          <l>ולהיות עצובה</l>
+          <l>ביום וגם בליל</l>
+          <l>התקווה בלב והחלומות,</l>
+          <l>פתאום פסקה האהבה</l>
+          <l>אותך זה מבלבל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זאת הפרידה הראשונה שלך ילדה</l>
+          <l>מנסה להיות שקטה </l>
+          <l>אבל בלב את עוד בוכה</l>
+          <l>היית רוצה לחזור </l>
+          <l>להיות באהבה</l>
+          <l>שעשתה לך טוב</l>
+          <l>תמיד בנשמה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה לא אומר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

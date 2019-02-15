@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד אלי 6</title>
+        <singer classification="unknown">מאור פיניה</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד אלי</head>
+        <lg number="1" type="stanza">
+          <l>כמה זמן עבר נשאר ממך רק שקט,</l>
+          <l>עד לאן את יכולה להתרחק,</l>
+          <l>מה את מרגישה האם את עוד צוחקת,</l>
+          <l>כשאני חולם אותך ומתפרק,</l>
+          <l>הולך על הקצה קורא לך ורוצה שתבואי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עד אלי עד שאגע בך מקרוב</l>
+          <l>ואולי ניקח את הזמן לאהוב</l>
+          <l>כמו אז שהייתה בנו תמימות</l>
+          <l>לא פחדנו לאבד אותה</l>
+          <l>הכל חוזר אלי עכשיו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דרך ארוכה הרבה ימים של יחד</l>
+          <l>ועכשיו געגועים ודאגה </l>
+          <l>קר לי בנשמה הלב רועד מפחד </l>
+          <l>מסתובב לבד בעיר כמו משוגע </l>
+          <l>הולך על הקצה קורא לך ורוצה שתבואי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עד אלי עד שאגע בך מקרוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

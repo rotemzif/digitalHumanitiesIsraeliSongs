@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>החושך המר</title>
+        <singer classification="male singer">תמיר גל</singer>
+        <writer>אבי ביטר</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>החושך המר</head>
+        <lg number="1" type="stanza">
+          <l>היה לי קשה לראות את עצמי</l>
+          <l>ניסיתי לברוח זה משך אותי</l>
+          <l>נפלתי קורבן לפיתוי הלבן</l>
+          <l>שרפתי באש ת'שנים והזמן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עכשיו אני בורח מהחושך המר</l>
+          <l>אני חוזר אליך חדש ומשוחרר</l>
+          <l>עכשיו אני בורח כמו שושן לבן</l>
+          <l>עכשיו אני בורח לא משחק בזמן </l>
+          <l>לא משחק בזמן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עברתי ימים שחורים וקשים</l>
+          <l>הייתי לבד ובלי חברים</l>
+          <l>לא ישנתי לילות לא ישנתי ימים</l>
+          <l>נפלתי קורבן כי הייתי תמים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עכשיו אני בורח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

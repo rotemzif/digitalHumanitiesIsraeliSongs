@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלב יודע 2</title>
+        <singer classification="unknown">דוד ד אור</singer>
+        <writer>דוד ד'אור</writer>
+        <composer>דוד ד'אור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלב יודע</head>
+        <lg number="1" type="stanza">
+          <l>אם תתקרבי עכשיו אלי ולא תלכי רחוק</l>
+          <l>תגלי את האמת שבעיני</l>
+          <l>אחרי כל כך הרבה ימים של בכי ושל צחוק</l>
+          <l>את נשארת יקרה לי מחיי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה יהיה מחר איש לא קובע</l>
+          <l>לפעמים נדמה שהעולם משתגע</l>
+          <l>בואי נספיק לפני שעוד יום גווע</l>
+          <l>להגיד את מה שהלב יודע.....הלב יודע.....</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נכון שלפעמים אנחנו כמו עננים</l>
+          <l>כל משב של רוח משנה צורה</l>
+          <l>ולפעמים נראים קטנים ולפעמים גדולים</l>
+          <l>ותמיד זזים לאיזו מטרה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה יהיה מחר איש לא קובע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

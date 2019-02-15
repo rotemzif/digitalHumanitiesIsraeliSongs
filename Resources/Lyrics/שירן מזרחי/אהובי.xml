@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהובי 10</title>
+        <singer classification="unknown">שירן מזרחי</singer>
+        <writer>שירן מזרחי</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהובי</head>
+        <lg number="1" type="stanza">
+          <l>מחכה אני ליד הטלפון</l>
+          <l>את קולך לשמוע זה כמו חלום</l>
+          <l>גם ברע וגם בטוב אני שלך</l>
+          <l>אותך אוהבת</l>
+          <l>דמותך חולמת</l>
+          <l>ולא נרדמת כל זה בגללך</l>
+          <l>אותך אוהבת</l>
+          <l>דמותך חולמת</l>
+          <l>ולא נרדמת כל זה בגללך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כשאותך ראיתי ברחוב, אהוב</l>
+          <l>התמכרתי לקסם מבטך, אהוב</l>
+          <l>רק רציתי סימן אחד קטן, אהוב</l>
+          <l>שתאמר לי - את שלי לעד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גדלתי ואני כבר מבינה</l>
+          <l>לא ילדה, יודעת מה אני רוצה</l>
+          <l>אז בוא ותן ידך וכך נחיה לעד</l>
+          <l>אותך אוהבת</l>
+          <l>דמותך חולמת</l>
+          <l>ולא נרדמת כל זה בגללך</l>
+          <l>אותך אוהבת</l>
+          <l>דמותך חולמת</l>
+          <l>ולא נרדמת כל זה בגללך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כשאותך ראיתי ברחוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

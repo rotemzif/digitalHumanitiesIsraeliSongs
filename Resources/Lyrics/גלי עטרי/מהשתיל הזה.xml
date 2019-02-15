@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מהשתיל הזה</title>
+        <singer classification="female singer">גלי עטרי</singer>
+        <writer>דני סנדרסון</writer>
+        <composer>דני סנדרסון</composer>
+        <album>לא יפריד דבר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מהשתיל הזה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>מהשתיל הזה בסוף יצמח היער</l>
+          <l>מטלה אחד יקומו עדרים</l>
+          <l>מהאור המהבהב יאיר השחר</l>
+          <l>מטיפה אחת יבליחו ממטרים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פה אני עומדת</l>
+          <l>כל כיסי גלויים</l>
+          <l>מחכה באור המתגבר</l>
+          <l>חשופה בפתח</l>
+          <l>בלי תעתועים</l>
+          <l>מושיטה ידי ולא יותר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מהשתיל הזה בסוף יצמח היער...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא אפרוש עליך</l>
+          <l>מרבדי זהב</l>
+          <l>לא אצבע שמיים בסגול</l>
+          <l>רק אבוא אליך</l>
+          <l>נטולת מכחול</l>
+          <l>מושיטה ידי וזה הכל</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מהשתיל הזה בסוף יצמח היער...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

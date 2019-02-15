@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה הרגע 2</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>דודו ויזר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה הרגע</head>
+        <lg number="1" type="stanza">
+          <l>זה הרגע לו חיכיתי</l>
+          <l>זה הטעם שחיפשתי</l>
+          <l>כל ימי כל ימי</l>
+          <l>זה הרגע שרציתי</l>
+          <l>זה האושר שביקשתי</l>
+          <l>כל חיי כל חיי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל הדרך שהיתה</l>
+          <l>בשבילי הסוד שבה</l>
+          <l>לא עברנו מעולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה הרגע לו חיכיתי</l>
+          <l>זה הטעם שחיפשתי</l>
+          <l>כל ימי כח ימי</l>
+          <l>זה האומץ שרציתי</l>
+          <l>זה היופי שבקשתי</l>
+          <l>כל חיי כל חיי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל הדרך שהיתה</l>
+          <l>בשבילי הסוד שבה</l>
+          <l>לא עברנו מעולם</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה הרגע שרציתי</l>
+          <l>זה האושר שבקשתי</l>
+          <l>כל ימי כל ימי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אל הדרך שהיתה</l>
+          <l>בשבילי הסוד שבה</l>
+          <l>לא עברנו מעולם</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>זה הרגע לו חיכיתי כל ימי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רמזור</title>
+        <singer classification="male singer">ערן צור</singer>
+        <writer>ערן צור</writer>
+        <composer>missing</composer>
+        <album>חותך בחתך הזהב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רמזור</head>
+        <lg number="1" type="stanza">
+          <l>הרמזור ירוק, הגבר נעלם</l>
+          <l>הרמזור אדום, מתקרב, עכשיו הוא רץ</l>
+          <l>מתיישב לידה, יש לו ריח של בושם</l>
+          <l>ריח של עור</l>
+          <l>היא עוצמת עיניים, בעוד שנייה</l>
+          <l>הוא יהיה איתה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הם מתנשקים עם השפתיים</l>
+          <l>אחר כך השיניים</l>
+          <l>הם ממשיכים להתנשק</l>
+          <l>עוצמים את העיניים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הרמזור אדום הגבר נעלם,</l>
+          <l>הרמזור ירוק, מתקרב, עכשיו הוא רץ</l>
+          <l>הוא נושך בצווארה</l>
+          <l>"אל תשאיר סימנים, אסור הוא ידע"</l>
+          <l>הוא יוצא מהאוטו, חוצה את הכביש, נכנס לקפה</l>
+          <l>היא נשארת לבד בתוך המכונית, עם המרירות שבפה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>והיא יוצאת אחריו...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הם מתנשקים עם השפתיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

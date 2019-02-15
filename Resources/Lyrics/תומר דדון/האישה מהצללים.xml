@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האישה מהצללים</title>
+        <singer classification="unknown">תומר דדון</singer>
+        <writer>אלי קשת</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האישה מהצללים</head>
+        <lg number="1" type="stanza">
+          <l>היא האישה העצובה מהצללים</l>
+          <l>השפתיים מחייכות אך מה בפנים</l>
+          <l>כה חיוור לה בפניה מכסה את הכאב</l>
+          <l>אף אחד עוד לא יודע מה כואב</l>
+          <l>הוא לקח לה את חייה</l>
+          <l>את הלב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בלילות אליו היא עוד בוכה</l>
+          <l>למה כה אכזר הוא גורלה</l>
+          <l>מפניו פוחדת לעזוב, פוחדת שזה יהיה הסוף</l>
+          <l>הוא אינו מניח לנפשה</l>
+          <l>בלילות זועקת לאמה</l>
+          <l>מי אותה יציל מפניו כי אין לה מי שאותה יאהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בחלום שלה היא שקטה ושמחה</l>
+          <l>לגבר זר נותנת אהבה</l>
+          <l>כי בבית לה עצוב</l>
+          <l>לא רוצה שהוא ישוב</l>
+          <l>אין אותה מי שיאהב אלא הוא</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בלילות אליו היא עוד בוכה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

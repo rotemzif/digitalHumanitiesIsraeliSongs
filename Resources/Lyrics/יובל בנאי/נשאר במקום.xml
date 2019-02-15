@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נשאר במקום</title>
+        <singer classification="male singer">יובל בנאי</singer>
+        <writer>יובל בנאי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נשאר במקום</head>
+        <lg number="1" type="stanza">
+          <l>אנשים עוברים אוקיינוסים ומחפשים את המחר</l>
+          <l>כל אחד והעולם שלו</l>
+          <l>אני בעיר הזאת נשאר</l>
+          <l>סוגרים רחוב פורקים את הפצצה</l>
+          <l>שמתקתקת לי בראש</l>
+          <l>ובתוכי יש כמה אנשים לא יכול אותם לנטוש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אולי אפגוש אותך בבוקר לרגע של יאוש</l>
+          <l>אפשר לקרוא לזה גם אושר אם מסתכלים הפוך</l>
+          <l>משהו בתוכי נשבר נגמר נסגר זה רע ומר</l>
+          <l>כמה שאני הולך אני נשאר במקום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אנשים עוברים אוקיינוסים וילדים גדלים מהר</l>
+          <l>כל אחד והעולם שלו</l>
+          <l>כל אחד מרגיש אחר</l>
+          <l>סוגרים אורות יורדים מהבמה והקהל מתחיל לנטוש</l>
+          <l>חוזרים את כל הדרך חזרה</l>
+          <l>את לא יוצאת לי מהראש</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אולי אפגוש אותך בבוקר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

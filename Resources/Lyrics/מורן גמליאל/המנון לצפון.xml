@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המנון לצפון</title>
+        <singer classification="male singer">מורן גמליאל</singer>
+        <writer>חמוטל בן זאב</writer>
+        <composer>ורדה גרנות</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המנון לצפון</head>
+        <lg number="1" type="stanza">
+          <l>מצפון שמעתי בשורות טובות</l>
+          <l>באתי לפגוש חברים</l>
+          <l>קשר כזה בין הלבבות</l>
+          <l>כמו אז נפתחו הסכרים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והכל זורם כמו הירדן</l>
+          <l>גלים של שמחה מתוכנו</l>
+          <l>אם אנחנו כאן אז הכל יתכן</l>
+          <l>באנו לשיר את חיינו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אנחנו אוהבים המון</l>
+          <l>את הצפון</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כבר אז שרו שלושה חיילים</l>
+          <l>לצפון באהבה</l>
+          <l>אלף שיר ועוד שיר בפינו עולים</l>
+          <l>עם כל התקווה הטובה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אלפי כינורות לכנרת אחרת</l>
+          <l>גולן מתגלגל לגליל</l>
+          <l>מלכות החרמון יפה וזוהרת</l>
+          <l>אצלנו הכל כרגיל</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>והכל זורם כמו הירדן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

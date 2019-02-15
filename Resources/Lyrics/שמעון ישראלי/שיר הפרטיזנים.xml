@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הפרטיזנים</title>
+        <singer classification="male singer">שמעון ישראלי</singer>
+        <writer>הירש גליק</writer>
+        <composer>דימיטרי פוקרס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הפרטיזנים</head>
+        <lg number="1" type="stanza">
+          <l>אל נא תאמר הנה דרכי האחרונה</l>
+          <l>את אור היום הסתירו שמי העננה</l>
+          <l>זה יום נכספנו לו עוד יעל ויבוא</l>
+          <l>ומצעדנו עוד ירעים אנחנו פה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מארץ התמר עד ירכתי כפורים</l>
+          <l>אנחנו פה במכאובות ויסורים</l>
+          <l>ובאשר טיפת דמנו שם נגרה</l>
+          <l>הלא ינוב עוד עוז רוחנו בגבורה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עמוד השחר על יומנו אור יהל</l>
+          <l>עם הצורר יחלוף תמולנו כמו צל</l>
+          <l>אך אם חלילה יאחר לבוא האור</l>
+          <l>כמו סיסמה יהא השיר מדור לדור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בכתב הדם והעופרת הוא נכתב</l>
+          <l>הוא לא שירת ציפור הדרור והמרחב</l>
+          <l>כי בין קירות נופלים שרוהו כל העם</l>
+          <l>יחדיו שרוהו ונגאנים בידם</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>על כן, אל נא תאמר דרכי האחרונה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

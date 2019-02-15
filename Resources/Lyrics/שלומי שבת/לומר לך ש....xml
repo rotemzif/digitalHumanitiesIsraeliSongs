@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לומר לך ש </title>
+        <singer classification="male singer">שלומי שבת</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>אלי קשת</composer>
+        <album>שתדעי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לומר לך ש...</head>
+        <lg number="1" type="stanza">
+          <l>אני צריך אותך כי זה מה שחסר לי</l>
+          <l>את הפרח שקרוב, קרוב ללב</l>
+          <l>בימים יפים, הרגש שוב בוער בי</l>
+          <l>כי רק איתך אני כמו ילד מתלהב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה יופייך אשר תופס אותי</l>
+          <l>אני נשבע לך שזה אמיתי</l>
+          <l>מאוהב רוצה כל כך</l>
+          <l>לומר לך ש... את עושה את זה יפה</l>
+          <l>והלב שלי רוצה רק לעוף איתך למעלה, הלאה</l>
+          <l>זה, זה מכה בי בחזה ובלילה שכזה</l>
+          <l>אני שיכור רץ אחרייך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ולפעמים אני מרגיש כל כך רומנטי</l>
+          <l>נותן שמות לרגעים שלי איתך</l>
+          <l>ובלילות כותב לך כל מה שהרגשתי</l>
+          <l>כי את הטעם לחיי הבאת איתך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה יופייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

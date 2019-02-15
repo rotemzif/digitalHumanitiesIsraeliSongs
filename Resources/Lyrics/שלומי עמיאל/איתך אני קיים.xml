@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איתך אני קיים</title>
+        <singer classification="unknown">שלומי עמיאל</singer>
+        <writer>שלומי עמיאל</writer>
+        <composer>שלומי עמיאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איתך אני קיים</head>
+        <lg number="1" type="stanza">
+          <l>לראות אותך איתי </l>
+          <l>מתחת לחופה </l>
+          <l>להביט בך בעיניים </l>
+          <l>כמה שאת יפה </l>
+          <l>לראות אותך צוחקת מתחת להינומה </l>
+          <l>שנינו זה צליל של אהבה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואת יפה כמו החול והים </l>
+          <l>את הנסיכה שלי בעולם </l>
+          <l>איתך אני יודע איתך אני קיים </l>
+          <l>כי רק איתך אני מרגיש מושלם </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איתך אני יודע מה זאת אהבה </l>
+          <l>המבט שבעיניך כובשות בי כל פינה </l>
+          <l>הינשאי לי אהובה </l>
+          <l>תהיי לי לאישה </l>
+          <l>כי רק איתך הלב נפלא </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואת יפה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

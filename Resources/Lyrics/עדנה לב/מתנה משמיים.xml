@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתנה משמיים</title>
+        <singer classification="female singer">עדנה לב</singer>
+        <writer>אהוד מנור</writer>
+        <composer>יואל שר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתנה משמיים</head>
+        <lg number="1" type="stanza">
+          <l>מי קרב לאי עכשיו, ונוגע בשנתי? </l>
+          <l>מי הוא זה אשר יושב, ושותק על מיטתי? </l>
+          <l>מי הוא שצילו מוטל על המשי בחלון? </l>
+          <l>מי הוא שפרחים שתל חרש נתתי לו? </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ושוב קולות מהלכים בגן. </l>
+          <l>והם קרבים לכאן. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מי קרב אלי עכשיו, נוגע בשנתי? </l>
+          <l>מי פוקד את חלומי, ופוקד עלי לישון? </l>
+          <l>מי הוא שקורא בשמי, וחומק עם אור ראשון? </l>
+          <l>מי פוסע לצידי, וראשו בתוך ענן? </l>
+          <l>מי אוחז בכף ידי, ושואל לאן? </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ושוב קולות מהלכים בגן. </l>
+          <l>והם קרבים לכאן. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מי פוקד את חלומי, ופוקד עלי לישון?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

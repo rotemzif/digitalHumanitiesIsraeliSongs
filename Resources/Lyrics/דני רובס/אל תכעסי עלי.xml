@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תכעסי עלי</title>
+        <singer classification="male singer">דני רובס</singer>
+        <writer>דני רובס</writer>
+        <composer>דני רובס</composer>
+        <album>מסגרות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תכעסי עלי</head>
+        <lg number="1" type="stanza">
+          <l>קם להביא לך משהו קר מהמטבח</l>
+          <l>גם אם עכשיו את לא רוצה כל כך</l>
+          <l>מה שאמרתי לא התכוון לשום דבר</l>
+          <l>סתם איזה ריב טפשי ומיותר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עוד נשימה אחת, אור מנורה עירום</l>
+          <l>לא מתרומם להחליף לתקליט אחר</l>
+          <l>מתקרב אליך אל החום</l>
+          <l>אל תכעסי עלי, אל תרדמי בוכה</l>
+          <l>אל תתכסי בחשיכה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תני לי לשמוע איך התינוק בועט בפנים</l>
+          <l>תיכף הם יתפזרו העננים</l>
+          <l>אז תספרי לי כמה קשה היה היום</l>
+          <l>או שנצא סתם כך לשום מקום.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עוד נשימה אחת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אז אנגן לך שיר שנולד ממש עכשיו</l>
+          <l>את תסדרי כרית ליד הגב</l>
+          <l>ככה בשקט בואי אלי קרוב קרוב</l>
+          <l>עד שנשמע שבוקר ברחוב.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

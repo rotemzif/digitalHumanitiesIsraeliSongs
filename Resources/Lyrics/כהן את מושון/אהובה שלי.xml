@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהובה שלי 3</title>
+        <singer classification="band">כהן את מושון</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהובה שלי</head>
+        <lg number="1" type="stanza">
+          <l>לו ניצחתי את הזמן</l>
+          <l>היית שב, אל שחר נעורייך</l>
+          <l>לבקש שוב את ידך</l>
+          <l>ופוקח את עיני אל החלום</l>
+          <l>את קולך שומע</l>
+          <l>וביופייך שוקע</l>
+          <l>והלב רוקד ושר לך, אהובה שלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איתך לאהבה כל יום אני נולד</l>
+          <l>מודה לאלוהים על כל הטוב, ויודע שזו את</l>
+          <l>כי בכל יום שעובר, בתוכי עמוק בלב</l>
+          <l>האושר מתגבר, ואוהב יותר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את הרגע בו נפגשנו זוכר</l>
+          <l>ימים יפים היו לי, ואיתך הרבה יותר</l>
+          <l>לך פתחתי את השער לליבי</l>
+          <l>בתוכו את שוכנת, שם בטוחה ומוגנת</l>
+          <l>מקשיבה ללב ששר לך, אהובתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איתך לאהבה כל יום אני נולד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

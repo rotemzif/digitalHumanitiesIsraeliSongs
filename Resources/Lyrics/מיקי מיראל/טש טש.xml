@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טש טש</title>
+        <singer classification="unknown">מיקי מיראל</singer>
+        <writer>שחר אריאל</writer>
+        <composer>עממי גרוזיני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טש טש</head>
+        <lg number="1" type="stanza">
+          <l>בואי תתקרבי זה רק אני. </l>
+          <l>אל תפחדי להרגיש אותי. </l>
+          <l>מה שאבד לך אבד גם לי. </l>
+          <l>נסחף ממך אל תעצרי אותי. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>tash tash, taram taram </l>
+          <l>mr'aval jamier </l>
+          <l>tush tush patara </l>
+          <l>mr'aval jamier </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בואי ותהיי רק בשבילי. </l>
+          <l>אל תפחדי זה אמיתי. </l>
+          <l>תשתלטי עלי, תאלפי אותי. </l>
+          <l>רק תני עוד מהקסם שכישף אותי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>tash tash, taram taram...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

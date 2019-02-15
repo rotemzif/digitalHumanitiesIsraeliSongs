@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>An Ode</title>
+        <singer classification="unknown">עומר לשם</singer>
+        <writer>עומר לשם</writer>
+        <composer>עומר לשם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>An Ode</head>
+        <lg number="1" type="stanza">
+          <l>You are world famous, </l>
+          <l>You are the everlasting soul </l>
+          <l>Which I try keeping all for my self </l>
+          <l>You are the infamous requiem. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>You are left out </l>
+          <l>You are the logical of which I see </l>
+          <l>You are the backhand, The twilight sonnet </l>
+          <l>The killer bee. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>You are sound asleep </l>
+          <l>You are my scenery of prophet </l>
+          <l>You were the last signature </l>
+          <l>The everfading guide.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

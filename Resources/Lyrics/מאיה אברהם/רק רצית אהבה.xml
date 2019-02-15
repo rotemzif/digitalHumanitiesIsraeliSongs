@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק רצית אהבה</title>
+        <singer classification="female singer">מאיה אברהם</singer>
+        <writer>מורן גמליאל</writer>
+        <composer>מורן גמליאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק רצית אהבה</head>
+        <lg number="1" type="stanza">
+          <l>את יודעת הכל</l>
+          <l>צבעת במכחול תמונות</l>
+          <l>מקום לאהבה</l>
+          <l>רצית לדבר</l>
+          <l>ורק חלונות גבוהים בלילה מאירים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק רצית אהבה</l>
+          <l>ואת בשמלת פרחים</l>
+          <l>חיכית והוא עוד לא הופיע</l>
+          <l>רק רצית לדבר</l>
+          <l>קיווית שיש מקום לאהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את עוזבת הכל נודדת בתוך ראשי</l>
+          <l>כמו רוח בשדות נותרת להיות</l>
+          <l>ושוב זה אותו מבט שנעלם לאט</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק רצית אהבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו שאתה אוהב</title>
+        <singer classification="female singer">שלומית אהרון</singer>
+        <writer>אדמית הראל</writer>
+        <composer>יצחק קלפטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו שאתה אוהב</head>
+        <lg number="1" type="stanza">
+          <l>אולי תשכח מהעיתון</l>
+          <l>מהחדשות כל שעה</l>
+          <l>בוא נעיז לצאת מהשגרה</l>
+          <l>נשק אותי עכשיו</l>
+          <l>בלי כל סיבה</l>
+          <l>האהבה הזאת</l>
+          <l>היא כמו מוזיקה טובה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תן לי להתעטף</l>
+          <l>בקצב המכשף</l>
+          <l>תן לי לשכוח</l>
+          <l>מהחושך הנושף</l>
+          <l>תן לי להתקרב</l>
+          <l>אליך עד כאב</l>
+          <l>תן לי לאהוב אותך</l>
+          <l>כמו שאתה אוהב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>די תשכח מדאגות</l>
+          <l>ומבזקים חמים</l>
+          <l>בוא נעיז להנות מהחיים</l>
+          <l>נשק אותי עכשיו</l>
+          <l>ככה סתם</l>
+          <l>האהבה הזאת</l>
+          <l>היא כמו שיר מושלם.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תן לי להתעטף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

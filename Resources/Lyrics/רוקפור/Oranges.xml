@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Oranges</title>
+        <singer classification="band">רוקפור</singer>
+        <writer>מרק לזר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Oranges</head>
+        <lg number="1" type="stanza">
+          <l>Come eat oranges with me </l>
+          <l>Peel them with your fingers </l>
+          <l>Down where people cannot see </l>
+          <l>Let yourself go free </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Light is out and suddenly </l>
+          <l>The feeling of your touch </l>
+          <l>It’s ten-past-six and you’re asleep </l>
+          <l>I’ll wipe away your foolish grin </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Time is running and I know </l>
+          <l>I need to get out of this maze </l>
+          <l>To find what’s written in the cards </l>
+          <l>Or am I going insane? </l>
+          <l>Then again… </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>Grey’s the color in my mind </l>
+          <l>Never black and white </l>
+          <l>A thousand shades before my eyes </l>
+          <l>Afraid of almost anyone </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>Come eat oranges with me... </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>Time is running and I know... </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>Grey’s the color in my mind... </l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>But now I’m tired, I can’t go on </l>
+          <l>Don’t want to wake up and return </l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>Grey’s the color in my mind...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

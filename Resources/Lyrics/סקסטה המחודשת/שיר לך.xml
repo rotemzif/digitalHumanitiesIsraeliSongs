@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר לך 5</title>
+        <singer classification="unknown">סקסטה המחודשת</singer>
+        <writer>יואב פורת</writer>
+        <composer>יורם צדוק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר לך</head>
+        <lg number="1" type="stanza">
+          <l>בוא ואגע בך כמו שנגעתי פעם</l>
+          <l>כמו שאהבנו לעולם ומעולם לא נגעתי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בוא ואדע איתך פינה שאין לדעת</l>
+          <l>מקום שלא היה לי ולעולם לא אדע</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שיר לך ושיר ממך</l>
+          <l>ושיר לשארית ימיך.</l>
+          <l>שיר באור ולצילך</l>
+          <l>ושיר ללילותיך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שוב ואשמע לך מה ששמעתי פעם</l>
+          <l>מילים שלא זכרת בי ומעולם לא שמעתי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שוב ואמצא איתך שמחה שלא היתה בי</l>
+          <l>פשוטה כמו שחלמנו ולעולם לא אדע</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שיר לך ושיר ממך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

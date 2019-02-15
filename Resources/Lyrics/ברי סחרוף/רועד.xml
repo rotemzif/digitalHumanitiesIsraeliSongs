@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רועד</title>
+        <singer classification="male singer">ברי סחרוף</singer>
+        <writer>ברי סחרוף</writer>
+        <composer>missing</composer>
+        <album>האחר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רועד</head>
+        <lg number="1" type="stanza">
+          <l>רועד עלי הבית</l>
+          <l>רוח מהים אש על ההר</l>
+          <l>עקום ולא ברצף</l>
+          <l>הנה זה מתחיל, הנה זה נגמר</l>
+          <l>כולם על הרגליים</l>
+          <l>חצי כדור חצי מחוק</l>
+          <l>הזמן נחצה לשניים</l>
+          <l>השעון מתקתק לו הפוך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואני רואה כפליים</l>
+          <l>אור תעתועים שחור לבן</l>
+          <l>רועד עלי הבית מתנדנד מצד לצד</l>
+          <l>ונדמה שבינתיים</l>
+          <l>משיח מחכה להזמנה</l>
+          <l>בסלולרי בביזארי</l>
+          <l>בחלום ובתקווה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רועד עלי הבית</l>
+          <l>הסדק מדמם מהתקרה</l>
+          <l>הפחד בעיניים</l>
+          <l>והלב, הלב במזוודה</l>
+          <l>עשן מעל המים</l>
+          <l>השמש אפורה האור חסום</l>
+          <l>הרעש באוזניים</l>
+          <l>הזיעה שנדבקת לגוף</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואני רואה כפליים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

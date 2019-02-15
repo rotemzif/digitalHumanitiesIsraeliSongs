@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פנס הרחוב</title>
+        <singer classification="band">תמוז</singer>
+        <writer>שלום חנוך</writer>
+        <composer>שלום חנוך</composer>
+        <album>סוף עונת התפוזים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פנס הרחוב</head>
+        <lg number="1" type="stanza">
+          <l>פנס הרחוב כיבה עצמו לדעת</l>
+          <l>כי בלי חשמל הוא לא מצא שום טעם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מישהו הפסיק, מישהו הפסיק</l>
+          <l>מישהו הפסיק את הזרם בסניף המרכזי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הנחל התייבש ונעלם לו</l>
+          <l>כי בלי נוזלים הראש פשוט נסתם לו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מישהו הפסיק...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את ואני ישבנו ועישנו</l>
+          <l>רק משהו כמו פתאום עזב אותנו</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מישהו הפסיק...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>ואם השיר יתם ניתן לקבוע</l>
+          <l>לא יעזור לי ללחוץ אותו בכח</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>מישהו הפסיק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

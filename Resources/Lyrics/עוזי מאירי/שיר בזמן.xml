@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר בזמן</title>
+        <singer classification="male singer">עוזי מאירי</singer>
+        <writer>עוזי מאירי</writer>
+        <composer>יאיר מילר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר בזמן</head>
+        <lg number="1" type="stanza">
+          <l>ושוב זהב האור</l>
+          <l>ואני נפעם </l>
+          <l>העומק הזך</l>
+          <l>ואני מעז, </l>
+          <l>להביט ישר</l>
+          <l>אל עיני השיר </l>
+          <l>שלך ושלי</l>
+          <l>ואת יודעת את צוחקת </l>
+          <l>את יפה ואת הולכת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

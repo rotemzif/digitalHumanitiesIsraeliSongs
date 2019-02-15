@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלגן בגן</title>
+        <singer classification="female singer">זהבה בן</singer>
+        <writer>אבי רן טוויג</writer>
+        <composer>אבי רן טוויג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלגן בגן</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>בחצר על הרצפה תמיד מפוזרים</l>
+          <l>הרבה מאוד צעצועים לא מסודרים</l>
+          <l>משחקים בכל דבר כמו קשבת בענן</l>
+          <l>קוביות שחור לבן איזה בלאגן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הבובה זהבה, יש לה שתי צמות</l>
+          <l>עוצמת ופוקחת זוג עיניים ירוקות</l>
+          <l>לשחק מאוד נחמד נסיך וגם גמד</l>
+          <l>אך בסוף היום הולכים וכלום לא מסדרים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איזה בלאגן בלאגן בגן</l>
+          <l>איזה בלאגן בלאגן בגן</l>
+          <l>איזה בלאגן בלאגן בגן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בלילה כשהן סגור ושקט מסביב</l>
+          <l>חוזרים אל המדף בובה ודובון חביב</l>
+          <l>בבוקר כשהשמש דוחפת הענן</l>
+          <l>יום ראשון הולכים לגן ושוב יש בלאגן</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>איזה בלאגן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

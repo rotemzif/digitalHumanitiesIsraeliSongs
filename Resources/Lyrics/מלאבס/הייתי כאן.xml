@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הייתי כאן</title>
+        <singer classification="unknown">מלאבס</singer>
+        <writer>מלאבס</writer>
+        <composer>מלאבס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הייתי כאן</head>
+        <lg number="1" type="stanza">
+          <l>הייתי כאן אתמול עצוב </l>
+          <l>מישהו שעומד בצד ומביט אלייך </l>
+          <l>עמדתי כאן ברחבה חשבתי שתבחיני בי </l>
+          <l>שתשלחי חיוך או קריצה </l>
+          <l>אולי משהו בליבך יתחיל להרגיש </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הייתי כאן ניצב שעות </l>
+          <l>מישהו שליבו נשבר וקורץ אלייך </l>
+          <l>התמקמתי לי כאן ברחבה חשבתי שתתני סימן </l>
+          <l>שתשלחי חיוך או קריצה </l>
+          <l>אולי משהו בליבך יתחיל להבין </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מישהו כאן באזור הוא האחד שאת מחפשת </l>
+          <l>חולמת עליו ימים ולילות </l>
+          <l>כמו שאני תמיד חולם עלייך </l>
+          <l>כמו שאני תמיד חולם </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הייתי כאן נסער שעות </l>
+          <l>מישהו שלא יכול לזוז רק חושב עלייך </l>
+          <l>עמדתי כאן ברחבה ציפיתי שתתני לי יד </l>
+          <l>שתרגישי את כוחי כאן </l>
+          <l>שתחושי את ליבי מפזר לך ריגושים ושר </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מישהו כאן באזור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

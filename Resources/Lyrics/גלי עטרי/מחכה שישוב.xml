@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחכה שישוב</title>
+        <singer classification="female singer">גלי עטרי</singer>
+        <writer>ישי אמיר</writer>
+        <composer>ישי אמיר</composer>
+        <album>חבק אותי לאט</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחכה שישוב</head>
+        <lg number="1" type="stanza">
+          <l>פותחת חלון עם האור הראשון</l>
+          <l>ספטמבר בחוץ וקצת קר</l>
+          <l>נגעתי מעט באוויר הרטוב</l>
+          <l>לנשום את הרחוב המואר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק מחכה לו שישוב</l>
+          <l>ועדיין מאמינה</l>
+          <l>הוא יביא איתו בין שתי ידיו</l>
+          <l>את הלב במתנה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הערב ירד כל העיר חשוכה</l>
+          <l>קולות צעדים מהרחוב</l>
+          <l>כל צעד קטן עוצר נשימה</l>
+          <l>הלוואי שתהיה שם אתה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק מחכה לו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

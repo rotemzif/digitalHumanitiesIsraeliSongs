@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דרך המשי</title>
+        <singer classification="female singer">יהודית רביץ</singer>
+        <writer>צרויה להב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דרך המשי</head>
+        <lg number="1" type="stanza">
+          <l>בוא נעבור בדרך המשי</l>
+          <l>דרך קירות התוך</l>
+          <l>בוא נטביע את כל הקושי</l>
+          <l>בכל אגמי הרוך -</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גוף בתוך גוף, בתוך גוף</l>
+          <l>חוֹם בתוך חוֹם בתוך חוֹם</l>
+          <l>ציפור מתרוממת לעוף</l>
+          <l>אישה נשברת בי פתאום.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

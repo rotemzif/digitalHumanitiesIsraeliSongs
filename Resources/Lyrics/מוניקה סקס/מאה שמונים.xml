@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאה שמונים</title>
+        <singer classification="band">מוניקה סקס</singer>
+        <writer>שחר אבן צור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאה שמונים</head>
+        <lg number="1" type="stanza">
+          <l>איך זה שאני בחור כזה נחמד ו...</l>
+          <l>הביקוש לנחמדים כל כך ירד ש...</l>
+          <l>תפסתי איזה גל כך לבינתיים</l>
+          <l>ופיתחתי לעצמי סטיה או שתיים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לנסוע על מאה שמונים</l>
+          <l>לחכות שבוע בקופת חולים</l>
+          <l>לנסות לכתוב בחרוזים</l>
+          <l>למה מה קרה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך זה כל אחד נהיה לי איזה רוקסטאר</l>
+          <l>כשלי יש עדיין קשיים לשרוך את האולסטאר</l>
+          <l>כי העיניים מפוצצות לכלוך של בוקר</l>
+          <l>אבל זה לא קשור אז די!!!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לנסוע על מאה שמונים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

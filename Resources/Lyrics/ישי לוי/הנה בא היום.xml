@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הנה בא היום</title>
+        <singer classification="male singer">ישי לוי</singer>
+        <writer>ציון שרעבי</writer>
+        <composer>משה בן מוש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הנה בא היום</head>
+        <lg number="1" type="stanza">
+          <l>הנה בא היום, עת נשתה דודים, צלצלו פעמונים</l>
+          <l>וקולי אשא, מעלה מרומים, לציון באור וגיל</l>
+          <l>לא תנום עיני, אורה מיתרי, רד הלילה שר עודני</l>
+          <l>נגן כינורי, הו מה יפו לילות העיר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואו חברים, עוד כוסית נרים, לחיי הזמר הנעים</l>
+          <l>סובו מעגלים, הניגון יעיר, לילה לילה בחוצות העיר</l>
+          <l>הן, את חיי אתן בשיר, עד כלות אחרון המיתרים</l>
+          <l>לא תדום עיני, אורה מיתרי, רד הלילה שר עודני</l>
+          <l>נגן כינורי, הו מה יפו לילות העיר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כוכבי זרח, אזמר שירי, כיד המלך גבירי</l>
+          <l>אל תשפוט שיחי, לא יכלה ייני, לא ירא ירום ליבי</l>
+          <l>לא תדום עיני, אורה מיתרי, רד הלילה שר עודני</l>
+          <l>נגן כינורי, הו מה יפו לילות העיר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בואו חברים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

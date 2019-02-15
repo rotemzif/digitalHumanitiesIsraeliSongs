@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חייל דמיוני</title>
+        <singer classification="unknown">טוטובל</singer>
+        <writer>זאב נחמה</writer>
+        <composer>זאב נחמה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חייל דמיוני</head>
+        <lg number="1" type="stanza">
+          <l>עיניים דומעות, נושק לכותל,</l>
+          <l>שומע תפילות ואין מענה,</l>
+          <l>אדון הסליחות חזרתי מאופל </l>
+          <l>השארתי הכל מאחור</l>
+          <l>וניגבתי דמעה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גם אם האמת היא קשה </l>
+          <l>לא אחיה על השקר </l>
+          <l>הייתי חייל דמיוני בלי מדים,</l>
+          <l>בלי צבא, </l>
+          <l>השארתי הכל מאחור </l>
+          <l>כי רציתי לחזור</l>
+          <l>לתום של ילדות, </l>
+          <l>לבית מלא אהבה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חכי לי עכשיו, </l>
+          <l>אני כבר מגיע,</l>
+          <l>נפל שוב כוכב והבנתי הכל,</l>
+          <l>אולי זה סימן שבא המשיח</l>
+          <l>עזב את הכל מאחור </l>
+          <l>ואולי יעזור.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גם אם האמת היא קשה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

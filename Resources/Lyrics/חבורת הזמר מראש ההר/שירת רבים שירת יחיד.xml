@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שירת רבים שירת יחיד</title>
+        <singer classification="unknown">חבורת הזמר מראש ההר</singer>
+        <writer>דודו ברק</writer>
+        <composer>יואב נטע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שירת רבים שירת יחיד</head>
+        <lg number="1" type="stanza">
+          <l>על הדשאים הרטובים, ניצבת מקהלה.</l>
+          <l>הנה, כי כן, שירת רבים, על סולמות עולה.</l>
+          <l>והשמיים נפתחים בנוגה כה בהיר.</l>
+          <l>וניצבים המלאכים, בכלי ניגון ושיר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וקול המון כקול שדי,</l>
+          <l>נוגע בשחקים.</l>
+          <l>וכל זמר הוא נזר חי, </l>
+          <l>בפני האלוקים.</l>
+          <l>וכל אחד מהם אחד,</l>
+          <l>אחד ואין שני.</l>
+          <l>אחד יחיד ומיוחד,</l>
+          <l>בתכלת ושני.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שירת רבים, שירת יחיד, אמרה המשוררת.</l>
+          <l>אותה הגברת בשינוי כנפיים ואדרת.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שירי מקדש, שירי חולין, מזמור תפילה ונהי.</l>
+          <l>וכינורות וענבלים נוגנים, נוגנים, לו יהי.</l>
+          <l>יהי הזמר בעולם חומק ממצרים.</l>
+          <l>אדם, חוה כולם, כולם, לעד יהיו שרים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>וקול המון כקול שדי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

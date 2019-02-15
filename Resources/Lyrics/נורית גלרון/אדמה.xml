@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אדמה 9</title>
+        <singer classification="female singer">נורית גלרון</singer>
+        <writer>ארקדי דוכין</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אדמה</head>
+        <lg number="1" type="stanza">
+          <l>הו אדמה, סובלת אותנו</l>
+          <l>נותנת חיים לכל מי שבא</l>
+          <l>והשמיים לוקחים מאיתנו</l>
+          <l>אולי בעת צורך, וגם בלי סיבה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני למדתי לחכות</l>
+          <l>למדתי לא לבכות, אה</l>
+          <l>אני למדתי לא לראות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>והמלחמה עוזבת אותנו</l>
+          <l>ומה שנשאר - זה רק זכרונות</l>
+          <l>אלה ששם, ואלה ששבו...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני למדתי לחכות</l>
+          <l>למדתי לא לבכות, אה</l>
+          <l>אני למדתי לא לראות.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הו אדמה, סובלת אותנו</l>
+          <l>נותנת חיים לכל מי שבא.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

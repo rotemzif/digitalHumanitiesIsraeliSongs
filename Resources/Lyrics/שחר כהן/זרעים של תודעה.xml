@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זרעים של תודעה</title>
+        <singer classification="unknown">שחר כהן</singer>
+        <writer>אבירם מעין</writer>
+        <composer>שחר כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זרעים של תודעה</head>
+        <lg number="1" type="stanza">
+          <l>זרעים של תודעה נובטים בגשם</l>
+          <l>בתוך הגוף שלי</l>
+          <l>בתוך הגוף שלך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בגלל האוויר הסמיך</l>
+          <l>דחוס</l>
+          <l>בגלל שהרוח נשבה רחוק</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

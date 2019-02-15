@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יברך מבורך</title>
+        <singer classification="male singer">בני בשן</singer>
+        <writer>בני בשן</writer>
+        <composer>בני בשן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יברך מבורך</head>
+        <lg number="1" type="stanza">
+          <l>מי שברך את אבי ה'</l>
+          <l>הוא יברך גם אותי</l>
+          <l>ומי שברך את אימי ה'</l>
+          <l>הוא יברך את ביתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יברך מבורך יברך מבורך יברך מבורך</l>
+          <l>יברך מבורך יברך מבורך יברך מבורך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל חטאיי כמו סופה על הים</l>
+          <l>באו ללא הועיל</l>
+          <l>רק לבשר על השקט החם</l>
+          <l>שכל מי שחי מכיל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יברך מבורך יברך מבורך יברך מבורך</l>
+          <l>יברך מבורך יברך מבורך יברך מבורך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>טל ומטר על ליבי ה'</l>
+          <l>טל ומטר על לחיי</l>
+          <l>ומי שנתן הדמעות בעיני</l>
+          <l>הוא יצמח תקוותי</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>יברך מבורך יברך מבורך יברך מבורך</l>
+          <l>יברך מבורך יברך מבורך יברך מבורך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מרחב אחר</title>
+        <singer classification="female singer">דנה לפידות</singer>
+        <writer>ברי כהן</writer>
+        <composer>ברי כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מרחב אחר</head>
+        <lg number="1" type="stanza">
+          <l>הו, אם בחיים לא הייתה תחלופה כל כך מהירה של נתונים</l>
+          <l>כל רגע, כל דקה יש משהו חדש, עניינים</l>
+          <l>הו, אם בחיים היינו חיים אחרת</l>
+          <l>הייתי עוצרת, יותר מבררת</l>
+          <l>לאן כל הנהרות מובילים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אפקח את עיניי אחרת לא יראו</l>
+          <l>כמה אני יודעת להיות חזקה</l>
+          <l>אסיט את מבטי הרחק, אל מרחב אחר</l>
+          <l>מקום בו לא אראה עוד, לא אשמע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הו, אם בחיים לא הייתה מן מועקה כזאת צורבת</l>
+          <l>כר מזמן לא מחכה</l>
+          <l>לא מאהבת, לא שלך ולא עוצרת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אפקח את עיניי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הו, אם בחיים לא הייתה מן מועקה כזאת צורבת</l>
+          <l>כבר מזמן לא מחכה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

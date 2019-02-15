@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה עשית לי 4</title>
+        <singer classification="unknown">ניבין</singer>
+        <writer>מרטין גל</writer>
+        <composer>דניץ אוזקן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה עשית לי</head>
+        <lg number="1" type="stanza">
+          <l>איי איי איי איי מה עשית לי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נלהבת כמו ילדה קטנה</l>
+          <l>הלב שלי מחסיר פעימה</l>
+          <l>כשאתה בא ולוחש את שמי</l>
+          <l>איי איי איי איי מה עשית לי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חיצים קטנים של אהבה</l>
+          <l>עם השמות שלי ושלך</l>
+          <l>אתה אני</l>
+          <l>אני ואתה</l>
+          <l>שווה ביחד אהבה</l>
+          <l>אוהבת רק אותך</l>
+          <l>בוא וחבק אותי</l>
+          <l>בלעדיך אבודה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נלהבת כמו ילדה קטנה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הרבה שנים שמרתי בסוד</l>
+          <l>מלחמה של רגשות</l>
+          <l>תאהב אותי</l>
+          <l>אל תיתן לי לחכות</l>
+          <l>רק איתך רוצה להיות</l>
+          <l>אוהבת רק אותך</l>
+          <l>בוא וחבק אותי</l>
+          <l>בלעדיך אבודה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

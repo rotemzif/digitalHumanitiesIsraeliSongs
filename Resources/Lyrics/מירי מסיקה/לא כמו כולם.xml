@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא כמו כולם</title>
+        <singer classification="female singer">מירי מסיקה</singer>
+        <writer>מירי מסיקה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא כמו כולם</head>
+        <lg number="1" type="stanza">
+          <l>אמרת שאני לא כמו כולם </l>
+          <l>אמרת הם בונים חומות </l>
+          <l>ואת זורקת את עצמך </l>
+          <l>להתאבדויות קטנות </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אמרת שזה דווקא טוב </l>
+          <l>אמרת את הכי יפה </l>
+          <l>ואיך שהאמנת בזה </l>
+          <l>באמונה כל כך שקופה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איך אתה מציל אותי מהחיה המפוחדת </l>
+          <l>יורה חיצים של נדיבות, לא נסוג, לא נשמר </l>
+          <l>לוקח אותי לסיבובים במרכבת זבל מפוארת </l>
+          <l>למקום שלא מגיע, לא מתחיל ולא נגמר </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היום היית עצוב </l>
+          <l>ולא שאלתי למה </l>
+          <l>שוב דיברתי על עצמי </l>
+          <l>שוב לקחתי בלי לתת </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אבל לך בכלל לא משנה </l>
+          <l>אולי אתה רגיל לזה </l>
+          <l>אולי אתה אוהב את זה </l>
+          <l>אולי אתה אוהב אותי באמת </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>איך אתה מציל אותי מהחיה המפוחדת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

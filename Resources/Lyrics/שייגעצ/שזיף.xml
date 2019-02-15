@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שזיף</title>
+        <singer classification="band">שייגעצ</singer>
+        <writer>יובל מנדלסון</writer>
+        <composer>יובל מנדלסון</composer>
+        <album>ניו יורק רפיח</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שזיף</head>
+        <lg number="1" type="stanza">
+          <l>כל מה שאני רוצה</l>
+          <l>אף פעם לא יוצא</l>
+          <l>כל מי שאני אוהב</l>
+          <l>בסוף אותי שונא</l>
+          <l>כל החברים שלי פתאום נעלמים</l>
+          <l>החלומות שלי הופכים לסיוטים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את היית היחידה</l>
+          <l>שנשארה איתי</l>
+          <l>ברגעים שלא ידעתי מי אני</l>
+          <l>ועכשיו שאת הולכת</l>
+          <l>זה עושה עצוב</l>
+          <l>כל מה שהבשיל אצלי חוזר להיות רקוב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני מרגיש כמו שזיף</l>
+          <l>שעבר זמנו</l>
+          <l>אני מרגיש כמו שזיף</l>
+          <l>את מחייכת אבל לא בדיוק אלי</l>
+          <l>אולי תגידי מתי</l>
+          <l>יהיה לך פנאי</l>
+          <l>להיכנס לתוך חיי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בואי ואקח אותך, אתן לך נשיקה</l>
+          <l>כן ואת הרי יודעת כמה את רוצה</l>
+          <l>בואי ונלך לאיזה סרט פעולה</l>
+          <l>כי המציאות לא משאירה לנו ברירה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני מרגיש כמו שזיף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

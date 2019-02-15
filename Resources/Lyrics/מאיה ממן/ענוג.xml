@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ענוג 2</title>
+        <singer classification="female singer">מאיה ממן</singer>
+        <writer>חנה גולדברג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ענוג</head>
+        <lg number="1" type="stanza">
+          <l>תם הלילה</l>
+          <l>תם לתוך האור</l>
+          <l>נופל ירח</l>
+          <l>יותר מדי שיכור</l>
+          <l>שם למעלה</l>
+          <l>כמו תינוק טהור</l>
+          <l>אתה למעלה</l>
+          <l>לא עצוב לך לבד?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמה ענוג הוא</l>
+          <l>כמה ענוג</l>
+          <l>בי מתפוררת האימה</l>
+          <l>כמה ענוג הוא</l>
+          <l>כמה ענוג</l>
+          <l>בי מתעוררת אהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את השמש</l>
+          <l>אש חמה שלי</l>
+          <l>את נשרפת</l>
+          <l>בכאב שלך לבד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמה ענוג הוא...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כשהאור הופך כחול</l>
+          <l>וגם ירח מתבייש בבדידותו שלא נגמרת</l>
+          <l>נעלם שלא יראו כולם</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אור</l>
+          <l>כמה ענוג הוא</l>
+          <l>כמה ענוג</l>
+          <l>כמה ענוג האור, עולם</l>
+          <l>כמה ענוג הוא</l>
+          <l>כמה ענוג</l>
+          <l>כמה ענוג האור שלך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

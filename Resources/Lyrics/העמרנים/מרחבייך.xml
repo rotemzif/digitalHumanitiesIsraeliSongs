@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מרחבייך</title>
+        <singer classification="unknown">העמרנים</singer>
+        <writer>אברהם בר עוז</writer>
+        <composer>דניאל סמבורסקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מרחבייך</head>
+        <lg number="1" type="stanza">
+          <l>מרחבייך ינגנו </l>
+          <l>אדמת מגד אהובה</l>
+          <l>אבן סלע ירננו </l>
+          <l>מול שמשך הזהובה</l>
+          <l>תמיד נשכיבה שחר </l>
+          <l>תלמיך נשובב</l>
+          <l>אהבנוך זקן ונער</l>
+          <l>ערבותיך נדובב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רוני רון אדמת מולדת רוני רון </l>
+          <l>נרפד בך צוק והר </l>
+          <l>נלבישך עדי תפארת רוני רון </l>
+          <l>שוש ישיש בך המגל </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>צהלי נא אם מולדת</l>
+          <l>מחרשת בך תגיל </l>
+          <l>נפלח רגב רגב </l>
+          <l>נפריחך בדמע גיל </l>
+          <l>יד עמל אותך תנטורה </l>
+          <l>בחורים ישאו לך שיר</l>
+          <l>דגנך ירקדו הורה</l>
+          <l>לזרעים יכמה הניר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רוני רון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

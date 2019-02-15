@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דוניה</title>
+        <singer classification="female singer">דרורה חבקין</singer>
+        <writer>עממי</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דוניה</head>
+        <lg number="1" type="stanza">
+          <l>הלכה דוניה אל העיר</l>
+          <l>ופגשה שם בצעיר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היי דוניה, דוניה דוניה דה</l>
+          <l>דוניה, את כה נחמדה</l>
+          <l>היי דוניה, דוניה דוניה דה</l>
+          <l>דוניה, את כה נחמדה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלכה דוניה לקיבוץ</l>
+          <l>ופגשה שם בחלוץ</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היי דוניה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הלכה דוניה אל הדיר</l>
+          <l>ופגשה שם בחזיר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>היי דוניה...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>הלכה דוניה אל ההר</l>
+          <l>ופגשה שם בעכבר</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>היי דוניה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו צב</title>
+        <singer classification="band">בייב</singer>
+        <writer>אורי מור</writer>
+        <composer>אורי מור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו צב</head>
+        <lg number="1" type="stanza">
+          <l>מסתבר שיש דברים שהסתרתם ממני</l>
+          <l>לשמור עלי מעצמי</l>
+          <l>מתברר שמכרתם אותי כמו שפן</l>
+          <l>לציד הצבאים נחשו מה קרה</l>
+          <l>סיפרו לי הכל נהייתי חכם פתאום</l>
+          <l>אני בא לקחת הכל חזרה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קופץ רחוק נופל מגבוה</l>
+          <l>רואה הכל ולא מפסיק לנגוע</l>
+          <l>הולך כמו צב כדי לא להגיע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מותק תגידי לי מה את לובשת</l>
+          <l>שאת יוצאת להרוג בלילות</l>
+          <l>מה יש מתחת לבגדים שלך</l>
+          <l>אני בא לקחת אותך מכאן</l>
+          <l>נוהג במרכבות השנאה</l>
+          <l>והמוות הוא השותף המתנשא שלך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קופץ רחוק נופל מגבוה</l>
+          <l>רואה הכל ולא מפסיק לנגוע</l>
+          <l>הולך כמו צב כדי לא להגיע</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

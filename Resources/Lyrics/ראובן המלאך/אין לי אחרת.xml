@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין לי אחרת 3</title>
+        <singer classification="unknown">ראובן המלאך</singer>
+        <writer>ראובן המלאך</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין לי אחרת</head>
+        <lg number="1" type="stanza">
+          <l>את יפה את יפה</l>
+          <l>כשושנה אדומה</l>
+          <l>את יפה את יפה</l>
+          <l>איתך רואה את השקיעה</l>
+          <l>גם אני מרגיש את אותה</l>
+          <l>את אותה ההרגשה</l>
+          <l>כשליבי רוצה אותך</l>
+          <l>מתגברת על החולשה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין לי אחרת מלבדך</l>
+          <l>רוצה להיות בתוך ליבך</l>
+          <l>זהו סיפור האהבה</l>
+          <l>ולנו יש את התקווה</l>
+          <l>זהו סיפור האהבה</l>
+          <l>ולנו יש את התקווה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתי תדעי מתי תדעי</l>
+          <l>שאת שייכת לי</l>
+          <l>מתי תדעי מתי תדעי</l>
+          <l>שאת הכל בשבילי</l>
+          <l>רק אתמול אמרת לי שלום</l>
+          <l>מתעורר לי באמצע הים</l>
+          <l>רק אתמול אמרת לי שלום</l>
+          <l>מתעורר רואה זה חלום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין לי אחרת מלבדך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

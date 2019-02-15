@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל אחד 7</title>
+        <singer classification="male singer">פופיק ארנון</singer>
+        <writer>פופיק ארנון</writer>
+        <composer>מיקי גבריאלוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל אחד</head>
+        <lg number="1" type="stanza">
+          <l>כל אחד חולם אותו דבר</l>
+          <l>זה תמיד נראה מוזר</l>
+          <l>בבוקר פותח עיניים</l>
+          <l>כל אחד רואה אותו דבר</l>
+          <l>איך הכל לאט נגמר</l>
+          <l>עדיין גם לי יש עיניים</l>
+          <l>גם לי יש עיניים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והיא בשקט לה שוכבת</l>
+          <l>אני רואה אותה חולמת</l>
+          <l>עזוב את השטויות</l>
+          <l>ושב לך בשקט</l>
+          <l>קח לך ת'זמן</l>
+          <l>ואל תחשוב אחרת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל אחד חושב אותו דבר</l>
+          <l>יום אחר יבוא מחר</l>
+          <l>מתי כבר יבוא מחרתיים</l>
+          <l>כל אחד אוהב אותו דבר</l>
+          <l>כשהוא קם הכל עבר</l>
+          <l>אבל כבר זה רק בינתיים</l>
+          <l>זה רק בינתיים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והיא בשקט לה שוכבת</l>
+          <l>אני רואה אותה חולמת</l>
+          <l>עזוב את השטויות</l>
+          <l>ושב לך בשקט</l>
+          <l>קח לך ת'זמן</l>
+          <l>ואל תחשוב אחרת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

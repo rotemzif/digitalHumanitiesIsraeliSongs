@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלילות הקסומים</title>
+        <singer classification="band">המכשפות</singer>
+        <writer>עדה נסטוביץ'</writer>
+        <composer>אילן וירצברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלילות הקסומים</head>
+        <lg number="1" type="stanza">
+          <l>ילד קט בבוקר קם</l>
+          <l>לחצר הביט נדהם</l>
+          <l>במרפסת השכנה</l>
+          <l>נמה לה פיה קטנה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>התפלא לו הילדון</l>
+          <l>אם פיה או רק חלום</l>
+          <l>או סיפור שלא נגמר</l>
+          <l>מהקיץ שעבר.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הו מה יפים הלילות הקסומים</l>
+          <l>עת פיה ונסיך וגם מלך רוקדים</l>
+          <l>נסיכה וצפרדע, ארנב וגמד</l>
+          <l>שרים עד אור בוקר, רוקדים יד ביד.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>גשם עז בחוץ ירד</l>
+          <l>וליבו הקט רעד</l>
+          <l>אך חייב היה לראות</l>
+          <l>מקרוב אותם פלאות.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הו מה יפים...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>את הבית חיש יצא</l>
+          <l>פיה קטנה למצוא רצה</l>
+          <l>אך ראו - תעלומה</l>
+          <l>הפיה כבר נעלמה</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>הו מה יפים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

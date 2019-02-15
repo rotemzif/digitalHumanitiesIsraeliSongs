@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני לא יודעת 2</title>
+        <singer classification="female singer">חני דינור</singer>
+        <writer>יהודה פוליקר</writer>
+        <composer>יעקב גלעד</composer>
+        <album>עד מתי...</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני לא יודעת</head>
+        <lg number="1" type="stanza">
+          <l>אני לא יודעת אם אתה יודע</l>
+          <l>לאהוב אותי כמו שאני</l>
+          <l>לא יודעת אם אני יודעת</l>
+          <l>לאהוב אותך כמו שאתה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני לוקחת בחזרה</l>
+          <l>דברים קשים נורא</l>
+          <l>שאמרתי לך ואמרת גם לי</l>
+          <l>כי כל מילה היא כמו סטירה,</l>
+          <l>כמו דקירה,</l>
+          <l>כל מילה שנאמרה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אולי טעיתי ולא ראיתי</l>
+          <l>אולי אהבת אותי בדרך שלך</l>
+          <l>אם יכולתי רק לדעת</l>
+          <l>אולי הייתי נרגעת ונחה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

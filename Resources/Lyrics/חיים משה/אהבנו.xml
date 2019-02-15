@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבנו 4</title>
+        <singer classification="male singer">חיים משה</singer>
+        <writer>אנסטסיה סקלירי</writer>
+        <composer>קירוקוס פפדופולוס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבנו</head>
+        <lg number="1" type="stanza">
+          <l>אהבנו והשעות היו קסומות</l>
+          <l>הוי כמה שאהבנו ולא היו לנו חומות</l>
+          <l>אפילו כשכאבנו, אהבנו כמו בסיפורים נסיך וסינדרלה</l>
+          <l>פתאום אנחנו שני זרים ספרי לי מה קורה לך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ספרי לי מה אומר ליבך אם המילים נדמו</l>
+          <l>ספרי על מה ואיך כלו כל הלילות ותמו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהבנו בין השקיעות והזריחות</l>
+          <l>הן רק אתמול אהבנו והדלתות היו פתוחות</l>
+          <l>אפילו כשעזבנו אהבנו כמו באגדות נסיך וסינדרלה</l>
+          <l>ואם תרצי להתוודות אני כאן אחכה לך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ספרי לי מה אומר ליבך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אוטובוסים נחפזים</title>
+        <singer classification="unknown">חבורת כרמים</singer>
+        <writer>אברהם שלונסקי</writer>
+        <composer>נתן אלתרמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אוטובוסים נחפזים</head>
+        <lg number="1" type="stanza">
+          <l>אוטובוסים נחפזים - במטען התפוזים</l>
+          <l>ורצות העגלות - בהמון קולי-קולות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מי פילל, ומי מילל - יש נמל בישראל</l>
+          <l>מי פילל, ומי מילל - נמל בישראל.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בואי, בואי, אנייה - העלי לי אנייה</l>
+          <l>עלייה לי העלי - יא חי לי, לי עמלי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מי פילל, ומי מילל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

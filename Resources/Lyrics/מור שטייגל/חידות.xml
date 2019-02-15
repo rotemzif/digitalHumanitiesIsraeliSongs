@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חידות</title>
+        <singer classification="female singer">מור שטייגל</singer>
+        <writer>מור שטייגל</writer>
+        <composer>מיכל חכם</composer>
+        <album>מחשבות יכולות לשנות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חידות</head>
+        <lg number="1" type="stanza">
+          <l>חידות כל היקום</l>
+          <l>מגולגלות בתוך תוכי</l>
+          <l>ילדה שבי פועמת </l>
+          <l>ואני  שוב חוזרת אל ביתי</l>
+          <l>ובימים את מציפה אותי</l>
+          <l>גאות ושפל בתוכי</l>
+          <l>ובלילות אני חולמת...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מחפשת א-מ-א</l>
+          <l>מבקשת פנימה </l>
+          <l>מחפשת פנימה</l>
+          <l>מבקשת אמא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו סירה שמתנדנדת</l>
+          <l>על הגלים אני רוקדת </l>
+          <l>מחכה ליבשה  </l>
+          <l>ילדה שבי פועמת </l>
+          <l>ואני שואלת:</l>
+          <l>מתי תגיע אל חופה?</l>
+          <l>ובימים את מציפה אותי</l>
+          <l>במחשבות וריגושים</l>
+          <l>ובלילות אני חולמת...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מחפשת א-מ-א</l>
+          <l>מבקשת פנימה </l>
+          <l>מחפשת פנימה</l>
+          <l>מבקשת אמא</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את ואני את ואני</l>
+          <l>מעגל שני מעגל שלישי</l>
+          <l>ועוד יהיה יפה יותר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

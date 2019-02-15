@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סע לחו ל</title>
+        <singer classification="male singer">מאור כהן</singer>
+        <writer>מאור כהן</writer>
+        <composer>תמיר שקולניק</composer>
+        <album>דיסקגרפי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סע לחו"ל</head>
+        <lg number="1" type="stanza">
+          <l>כמה קל לנסוע</l>
+          <l>להתרחק מכאן לשם</l>
+          <l>להישאר קבוע משכיח שהזמן עבר</l>
+          <l>תמיד אחרי יומיים תרצה לחזור בחזרה</l>
+          <l>תחכה חודשיים ואז תגיע הפתעה</l>
+          <l>מי אתה?!</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היי היי היי סע לחו"ל</l>
+          <l>תחזור מסטול תגיד זה קול</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את העיר ראיתי</l>
+          <l>אחרי הזמן היא נראתה</l>
+          <l>כמו חולצה של חורף שהוצאתי לי מן המגרה</l>
+          <l>מזכירה...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היי היי היי סע לחו"ל</l>
+          <l>תחזור מסטול תגיד זה קול</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היי היי סע לחו"ל</l>
+          <l>קבל שלשול תגיד זה פול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

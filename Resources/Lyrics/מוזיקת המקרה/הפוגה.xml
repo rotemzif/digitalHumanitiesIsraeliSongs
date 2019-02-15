@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הפוגה 2</title>
+        <singer classification="unknown">מוזיקת המקרה</singer>
+        <writer>אסף קרן</writer>
+        <composer>אסף קרן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הפוגה</head>
+        <lg number="1" type="stanza">
+          <l>"תן לי הפוגה", היא אומרת אחרי שהיא פונה להינתק מהמגע.</l>
+          <l>"תן לי הפוגה".</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>"אין לי מנוחה", הוא עונה לה אחרי שהוא רואה את צל גבה, והיא בוכה.</l>
+          <l>"אין לי מנוחה".</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>"דרך בלי חמדה", הוא לוקח את הזבל והילד והולך לעבודה.</l>
+          <l>דרך בלי חמדה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

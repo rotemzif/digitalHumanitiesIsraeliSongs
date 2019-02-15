@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הקליק</title>
+        <singer classification="female singer">גיתית שובל</singer>
+        <writer>עמוס אטינגר</writer>
+        <composer>דוד קריבושי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הקליק</head>
+        <lg number="1" type="stanza">
+          <l>מבט אחד ועוד אחד</l>
+          <l>ועוד מבט ודי</l>
+          <l>ומה שלא נקלט מיד</l>
+          <l>יאבד לו בחשאי</l>
+          <l>כוסית אחת ועוד אחת</l>
+          <l>ועוד מבט מספיק</l>
+          <l>כדי להבין בבת אחת</l>
+          <l>שכאן נולד הקליק</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וכמו מעל נפתחים שמים</l>
+          <l>כמו רוח המדוכה נושב</l>
+          <l>ומסביב נפקחות עיניים</l>
+          <l>ובנתיים - עוד קליק בלב בלב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כתף נוגעת בכתף</l>
+          <l>מקרה או שיכרון</l>
+          <l>מן חמימות בלתי ברורה</l>
+          <l>וחנק בגרון</l>
+          <l>הראש כמו נע מצד לצד</l>
+          <l>בקצב הריקוד</l>
+          <l>פתאום אינך כל כך לבד</l>
+          <l>פתאום אינך אבוד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וכמו מעל...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ומרגישים את התחושה</l>
+          <l>של יד לוחצת יד</l>
+          <l>ואין כלל צורך בלחישה</l>
+          <l>כי גם הלב אחד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

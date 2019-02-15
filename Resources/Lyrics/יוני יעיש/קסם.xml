@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קסם 14</title>
+        <singer classification="unknown">יוני יעיש</singer>
+        <writer>יוני יעיש</writer>
+        <composer>יוני יעיש</composer>
+        <album>זוהי דרכי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קסם</head>
+        <lg number="1" type="stanza">
+          <l>חוזר אבל לא בטוח </l>
+          <l>אני מרגיש את הרוח הקרירה </l>
+          <l>במקום שרק אתמול מצאתי </l>
+          <l>רק התכוונתי שתחכה ולו מעט </l>
+          <l>שאחזור ושוב אצחק </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מרחוק מדמיין לי ילד </l>
+          <l>שאולי כמו פעם נראה כמוני </l>
+          <l>כמוני כמו פעם </l>
+          <l>ואתו מדמיין לי קסם </l>
+          <l>שרחף פה פעם כשצחקתי </l>
+          <l>צחקתי כמו פעם </l>
+          <l>קסם... </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוצם עיני כדי לברוח </l>
+          <l>עודי זוכר את הכוח כשליטפה </l>
+          <l>במקום שרק אתמול מצאתי </l>
+          <l>איך אז חשבתי שתחכה ולו מעט </l>
+          <l>שאחזור ושוב אצחק</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מרחוק מדמיין לי ילד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

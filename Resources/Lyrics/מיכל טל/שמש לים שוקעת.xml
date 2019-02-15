@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמש לים שוקעת</title>
+        <singer classification="female singer">מיכל טל</singer>
+        <writer>אפי נצר</writer>
+        <composer>גריגורי פונומארנקו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמש לים שוקעת</head>
+        <lg number="1" type="stanza">
+          <l>שמש לים שוקעת</l>
+          <l>רוח על צמרות.</l>
+          <l>ומרחוק נשמעת</l>
+          <l>שירה של נערות.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק אלון עתיק דומם</l>
+          <l>שם ניצב כמו חולם.</l>
+          <l>התוכל, תוכל להביא</l>
+          <l>אלי את אהובי?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לאט מכסיף הסהר</l>
+          <l>מעל גגות העיר.</l>
+          <l>ומהדהד ביער</l>
+          <l>שירו של הזמיר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק אלון עתיק דומם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אהוב ליבי היכן הוא,</l>
+          <l>אנה מכאן הלך?</l>
+          <l>כל השירים כבר תמו</l>
+          <l>גם הזמיר פרח.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רק אלון עתיק דומם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

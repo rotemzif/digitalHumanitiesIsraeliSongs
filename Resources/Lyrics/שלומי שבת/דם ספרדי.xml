@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דם ספרדי</title>
+        <singer classification="male singer">שלומי שבת</singer>
+        <writer>יוני רועה</writer>
+        <composer>מנואל אוטז</composer>
+        <album>שלומי שבת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דם ספרדי</head>
+        <lg number="1" type="stanza">
+          <l>כבר מאוחר ואת שוב כאן </l>
+          <l>יפה פשוטה ועם פרח </l>
+          <l>יושב על הבר שותה את העצב </l>
+          <l>כמה כאב בעינייך ואיך בליבך קר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חולמת בלילה ודם ספרדי בך </l>
+          <l>כל הכוכבים שרים לך </l>
+          <l>בוכה הגיטרה שחור הוא הפרח </l>
+          <l>צוענייה הרחובות קוראים לך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כבר מאוחר ואת עוד כאן </l>
+          <l>מוכרת חיוך רק לרגע </l>
+          <l>אישה אבודה נלחמת בחושך </l>
+          <l>כמה קשים ימייך ואיך בדרכך סתיו </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חולמת בלילה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כבר מאוחר ואת לא כאן </l>
+          <l>הלכת ונשאר רק הפרח </l>
+          <l>לא ישאר הוא לנצח </l>
+          <l>לילה נגמר ואולי הבוקר יאיר לך </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>חולמת בלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

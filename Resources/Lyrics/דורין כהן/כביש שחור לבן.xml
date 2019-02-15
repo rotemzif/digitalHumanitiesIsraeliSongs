@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כביש שחור לבן</title>
+        <singer classification="unknown">דורין כהן</singer>
+        <writer>חדוה פרידמן</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כביש שחור לבן</head>
+        <lg number="1" type="stanza">
+          <l>אם הכביש רק שחור</l>
+          <l>לא כדאי פה לעבור.</l>
+          <l>אם הכביש שחור לבן</l>
+          <l>לעבור בו זה מצוין.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם בכביש יש מעבר שחור לבן</l>
+          <l>רק בו לעבור זה מצוין.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשחוצים כביש מסתכלים</l>
+          <l>בערנות לכל הכוונים,</l>
+          <l>אין מכוניות זה הסימן</l>
+          <l>לחצות הנה הגיע זמן.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם בכביש יש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

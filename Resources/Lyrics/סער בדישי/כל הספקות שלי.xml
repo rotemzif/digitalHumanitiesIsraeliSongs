@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל הספקות שלי</title>
+        <singer classification="male singer">סער בדישי</singer>
+        <writer>סער בדישי</writer>
+        <composer>סער בדישי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל הספקות שלי</head>
+        <lg number="1" type="stanza">
+          <l>כל הספקות שלי וכל הפחדים שלי</l>
+          <l>התכנסו לאספה בתוך הראש שלי</l>
+          <l>הספקות אמרו ספק אם יחזיק מעמד</l>
+          <l>הפחדים אמרו הוא מפחד להיות לבד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין לי מנוח או לאן לברוח</l>
+          <l>אין לי מנוח או לאן לברוח</l>
+          <l>מה קורה לי מאבד כיוון</l>
+          <l>מה קורה לי חש פתאום ניוון</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל השמחה שלי וכל העצבות שלי</l>
+          <l>התכנסו לאספה בתוך הראש שלי</l>
+          <l>השמחה אני בשביתה רצינית</l>
+          <l>העצבות אמרה הנה אני מכה בשנית</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין לי מנוח...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כל הספקות שלי וכל הפחדים שלי</l>
+          <l>וכל השמחה שלי וכל העצבות</l>
+          <l>נכנסו לתוך השיר שלי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

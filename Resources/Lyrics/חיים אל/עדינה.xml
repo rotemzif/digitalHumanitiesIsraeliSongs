@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עדינה</title>
+        <singer classification="male singer">חיים אל</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עדינה</head>
+        <lg number="1" type="stanza">
+          <l>אם ברחוב את לידי עוברת</l>
+          <l>אם הלב חולם כל כך חזק</l>
+          <l>ואני יודע כי את ולא אחרת</l>
+          <l>את לבבי כבשת רק במבט</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>די לך עדינה</l>
+          <l>מה את עושה לי</l>
+          <l>הלב שלי חולה מהאהבה</l>
+          <l>את מסתלבטת עלי ואומרת</l>
+          <l>יאללה חבוב חפש לך כיוון</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את אותי ימים כך משגעת</l>
+          <l>לא יכול לצאת יותר לרחוב</l>
+          <l>רק רוצה בשתי ידייך לגעת</l>
+          <l>ולהרגיש אותך קרוב קרוב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>די לך עדינה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

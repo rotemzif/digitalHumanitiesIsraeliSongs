@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמש בחיי</title>
+        <singer classification="unknown">לאה זלוטניק</singer>
+        <writer>לאה זלוטניק</writer>
+        <composer>לאה זלוטניק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמש בחיי</head>
+        <lg number="1" type="stanza">
+          <l>ההכרות שלי איתך</l>
+          <l>היא תקווה להמונים</l>
+          <l>אמנם מאוחרת</l>
+          <l>אך טובה אלפי מונים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שמש מעלי, האהבה הגיעה</l>
+          <l>היא לא רואה היא לא שומעת</l>
+          <l>היא לא יודעת כמה חכיתי לה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלילות שלי איתך</l>
+          <l>כמו מעל מרחפים</l>
+          <l>עוד מחוברת </l>
+          <l>בלי שעות ובלי ימים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שמש מעלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

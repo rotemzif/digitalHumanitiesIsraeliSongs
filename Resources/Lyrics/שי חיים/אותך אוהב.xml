@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אותך אוהב</title>
+        <singer classification="unknown">שי חיים</singer>
+        <writer>דודו חוטר</writer>
+        <composer>שי חיים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אותך אוהב</head>
+        <lg number="1" type="stanza">
+          <l>יושב בחדרי עטוף בכאב ובקולי את שמך לוחש</l>
+          <l>העצב שוב לדמעה קורא ושוב נזכר במגע ידיך</l>
+          <l>אני זוכר את חיוך חיוך עדין חיוך זוהר</l>
+          <l>והאור קורא לי שוב אלייך רוצה לחוש במגע ידיך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אותך אוהב נשמה</l>
+          <l>אותך חולם אהובה</l>
+          <l>אמרי מילה טובה </l>
+          <l>פתחי ליבך לאהבה</l>
+          <l>כי רק אותך אני אוהב</l>
+          <l>אני נשבע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק עוד תפילה אחת בליבי שיתגשם לו חלומי</l>
+          <l>התמונות תלויות עוד כאן בחדרי </l>
+          <l>רוצה אותך קרוב כאן לליבי</l>
+          <l>והנה כמו התגשם חלום כמלאך לבן הופעת פתאום</l>
+          <l>וכשקרבת קרבו גם שפתותינו ולי לחשת לחשת אהבתנו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אותך אוהב נשמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

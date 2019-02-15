@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלהיט</title>
+        <singer classification="male singer">משה פרץ</singer>
+        <writer>רמי לב</writer>
+        <composer>שמואל אלבז</composer>
+        <album>מביט אל המרומים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלהיט</head>
+        <lg number="1" type="stanza">
+          <l>המנגינה שלך משגעת</l>
+          <l>ומילותייך משקפות לי את חיי</l>
+          <l>באווירה מקסימה את נוגעת</l>
+          <l>ומגשימה לי את חלומותי</l>
+          <l>אותך בכל מקום אני שומע </l>
+          <l>ושר אותך לכל העולם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את הלהיט שלי בחיים</l>
+          <l>ויש לך קצב כזה שמקפיץ את הלב</l>
+          <l>הכי יפה בפזמונים</l>
+          <l>את הלהיט שאני הכי אוהב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ויש לך מסר כזה משכנע</l>
+          <l>כל חרוז הוא כמו פנינה קטנה בלב</l>
+          <l>וכל צליל אמיתי ופוגע</l>
+          <l>כשנכנס הוא יותר לא עוזב</l>
+          <l>אותך בכל מקום אני שומע </l>
+          <l>ושר אותך לכל העולם.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את הלהיט שלי בחיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

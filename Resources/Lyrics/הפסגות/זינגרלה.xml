@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זינגרלה</title>
+        <singer classification="band">הפסגות</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זינגרלה</head>
+        <lg number="1" type="stanza">
+          <l>זינגרלה זינגרלה</l>
+          <l>היא רוקדת הוא קורא לה</l>
+          <l>איזה פלא את כובשת</l>
+          <l>בלי מילים ומרגשת</l>
+          <l>זינגרלה זינגרלה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זינגרלה זינגרלה</l>
+          <l>את הדרך מי יראה לה?</l>
+          <l>הגיטרה לך פורטת</l>
+          <l>אוהבים אותך רוקדת</l>
+          <l>זינגרלה זינגרלה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זינגרלה מה ניתן לה</l>
+          <l>אהבה קטנה שאין לה</l>
+          <l>בלי תוים עוד ננגן לה</l>
+          <l>זינגרלה זינגרלה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זינגרלה זינגרלה</l>
+          <l>את הדרך מי יראה לה</l>
+          <l>הגיטרה לך פורטת</l>
+          <l>אוהבים אותך רוקדת</l>
+          <l>זינגרלה זינגרלה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זינגרלה מה ניתן לה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

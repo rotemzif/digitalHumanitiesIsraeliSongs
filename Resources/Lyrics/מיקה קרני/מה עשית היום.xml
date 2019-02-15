@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה עשית היום 2</title>
+        <singer classification="female singer">מיקה קרני</singer>
+        <writer>יריב גוטליב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה עשית היום</head>
+        <lg number="1" type="stanza">
+          <l>הרכב דוהר בלילה סוער</l>
+          <l>ואתה לא כל כך ממהר</l>
+          <l>תפסיק להרשים</l>
+          <l>יש בכביש אנשים</l>
+          <l>שרוצים לחזור הביתה שלמים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>האוטו חדש, המערכת טובה</l>
+          <l>ואתה מרוכז בשלך</l>
+          <l>אבל מישהי חוצה</l>
+          <l>גם אם היא לא רוצה</l>
+          <l>החיים שלה תלויים גם בך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מה עשית היום כדי למנוע את ההרוג הבא.</l>
+          <l>כמה זמן השקעת במישהו אחר, לא בעצמך</l>
+          <l>זה הרגע שלך להבין מה קורה</l>
+          <l>זה הזמן שלך לעשות מעשה</l>
+          <l>כי אני ואתה יכולים לשנות - אם נרצה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הרכב עוקף, אתה מזדקף</l>
+          <l>לא תיתן לו עכשיו לעבור</l>
+          <l>עשית טעות, תוריד מהירות</l>
+          <l>יש אומרים אתה תצא הגיבור</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מה עשית היום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

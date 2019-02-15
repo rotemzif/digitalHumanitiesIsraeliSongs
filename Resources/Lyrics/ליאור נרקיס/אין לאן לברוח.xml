@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין לאן לברוח 2</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>מייק לוק</writer>
+        <composer>מייק לוק</composer>
+        <album>חתול רחוב </album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין לאן לברוח</head>
+        <lg number="1" type="stanza">
+          <l>לקחתי מכחול</l>
+          <l>וציירתי ים כחול</l>
+          <l>שיזכיר לי את צבע העיניים</l>
+          <l>ציירתי גם שמש </l>
+          <l>שתביע חום ורגש</l>
+          <l>ושתחמם אותי בינתיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עד שתשובי אל הלב</l>
+          <l>שאותך מאוד אוהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את הלב את לקחת איתך </l>
+          <l>כל דבר כאן מזכיר אותך</l>
+          <l>לא יכול אותך לשכוח</l>
+          <l>איןן מקום לאן לברוח</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לקחתי ת'גיטרה</l>
+          <l>ודמינתי שאת שרה</l>
+          <l>כמה טוב היה לשיר בשניים</l>
+          <l>לוחש את שמך ברוח</l>
+          <l>מסמן עוד יום בלוח</l>
+          <l>לא יודע מה לעשות בינתיים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עד שתשובי אל הלב</l>
+          <l>שאותך מאוד אוהב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

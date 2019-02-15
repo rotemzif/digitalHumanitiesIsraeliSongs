@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תנשמי</title>
+        <singer classification="unknown">ינון מועלם</singer>
+        <writer>ינון מועלם</writer>
+        <composer>ינון מועלם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תנשמי</head>
+        <lg number="1" type="stanza">
+          <l>שתי נשמות טועות, מהלכות באטמוספרה. </l>
+          <l>רגישות וטועות, מהלכות באטמוספרה. </l>
+          <l>נפגשנו, נמתחנו, נפגשנו, נמתחנו. </l>
+          <l>הקסם מתרומם, הקסם מתרומם. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תנשמי, תנשמי, תקחי חזק אל הריאות. </l>
+          <l>הוא גדל שם בתוכך, עושה שם נפלאות. </l>
+          <l>תנשמי, תנשמי, תקחי חזק אל הריאות. </l>
+          <l>הוא גדל שם בתוכך, עושה שם נפלאות. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שתי נשמות יפות, מהלכות באטמוספרה. </l>
+          <l>שתי נשמות יפות, מהלכות באטמוספרה. </l>
+          <l>הכל ברור, הקול צלול, הכול ברור, הקול צלול. </l>
+          <l>ההיסטוריה לא חוזרת, היא אומרת </l>
+          <l>ההיסטוריה לא חוזרת. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תנשמי, תנשמי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

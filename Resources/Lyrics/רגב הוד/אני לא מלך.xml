@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני לא מלך</title>
+        <singer classification="male singer">רגב הוד</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>אני לא מלך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני לא מלך</head>
+        <lg number="1" type="stanza">
+          <l>לו הייתי מלך - </l>
+          <l>את היית מלכה שלי,</l>
+          <l>חצי מלכות למענך,</l>
+          <l>את היית זוהרת </l>
+          <l>ושומרת בשבילי את כל החום שבליבך,</l>
+          <l>כל אהבתי לך - </l>
+          <l>אבל לא מבטיח לקשור לך כתרים של מלכה.</l>
+          <l>מה שיהיה לי ומה שיש לי אתן לך הכל מתוקה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני לא מלך, אפילו לא בערך,</l>
+          <l>סתם בחור פנוי שפשוט אוהב אותך,</l>
+          <l>אני לא מלך אפילו לא בערך,</l>
+          <l>סך הכל רוצה להיות שלך...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני לא אבנה לך מגדלים וארמונות,</l>
+          <l>נמצא דירה ליד הים,</l>
+          <l>אין מחיר לאושר אין סוף לחלומות,</l>
+          <l>רוצה להיות כמו כולם,</l>
+          <l>כל אהבתי - </l>
+          <l>לך אבל לא מבטיח לקשור לך כתרים של מלכה.</l>
+          <l>מה שיהיה לי ומה שיש לי אתן לך הכל מתוקה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני לא מלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

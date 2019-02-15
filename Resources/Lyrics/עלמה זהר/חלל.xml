@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלל 10</title>
+        <singer classification="unknown">עלמה זהר</singer>
+        <writer>עלמה זהר</writer>
+        <composer>עלמה זהר</composer>
+        <album>לחם אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלל</head>
+        <lg number="1" type="stanza">
+          <l>כל הימים המשונים</l>
+          <l>כל הלילות הלבנים</l>
+          <l>אתה אבוד לי בחלל</l>
+          <l>לא רואים אותך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איך שהלב לא מתרפא</l>
+          <l>איך הוא אוחז ולא מרפה</l>
+          <l>אל תעלה לחללית</l>
+          <l>אל תמריא מכאן</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תדליק לי כוכב</l>
+          <l>תן לי סימן, שאדע</l>
+          <l>הבהוב מרחוק</l>
+          <l>כמו פרידה</l>
+          <l>כמו רכבת בלילה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שתי נקודות בחלל</l>
+          <l>רק קו אחד מחבר</l>
+          <l>אתה מרחף חסר משקל</l>
+          <l>לא קשור יותר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תדליק לי כוכב...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כל השנים שכבר עברו</l>
+          <l>אני תקועה בתוך הזמן</l>
+          <l>אל תעלה לחללית</l>
+          <l>אל תמריא מכאן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גשם במורד</title>
+        <singer classification="unknown">רביעיית נענה</singer>
+        <writer>הרצליה רז</writer>
+        <composer>יעל גרמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גשם במורד</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>רוץ, רוץ, קר בחוץ</l>
+          <l>כל הרחוב רחוץ, רחוץ</l>
+          <l>גשם, רוח המירוץ</l>
+          <l>רוץ, רוץ, רוץ</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עלעלים מתעופפים </l>
+          <l>שערים מתרופפים </l>
+          <l>ציפורים סומרות מקור</l>
+          <l>רטובות ראש ומקור</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רוץ, רוץ...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חורף בא אל תחרד</l>
+          <l>גשם רוח, אין ברד</l>
+          <l>סגור הסוודר, גשם רד</l>
+          <l>רוץ, דלג פה במורד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

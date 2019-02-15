@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Seatbelts</title>
+        <singer classification="band">רוקפור</singer>
+        <writer>מרק לזר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Seatbelts</head>
+        <lg number="1" type="stanza">
+          <l>SeatBelts are locking </l>
+          <l>The count is just about to begin </l>
+          <l>Strange yet so beautiful </l>
+          <l>Will I ever see you again? </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Came uninvited </l>
+          <l>Security was right on our tail </l>
+          <l>Still these reminders </l>
+          <l>Maybe you'll arrive to connect </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>Oh, turn in on, turn it on </l>
+          <l>Play it loud before it's gone </l>
+          <l>Yet I wish you'd find a home </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>Carry on, carry on </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>Slightly distorted </l>
+          <l>Serenity was not to be found </l>
+          <l>Deep in the traffic jam </l>
+          <l>Somehow I will find my way out </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>Oh, turn in on, turn it on </l>
+          <l>Play it loud before it's gone </l>
+          <l>Yet I wish you'd find a home </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>Carry on, carry on </l>
+          <l>Turn it on, turn it on</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

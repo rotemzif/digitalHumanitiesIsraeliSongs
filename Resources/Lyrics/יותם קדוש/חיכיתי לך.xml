@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חיכיתי לך 3</title>
+        <singer classification="unknown">יותם קדוש</singer>
+        <writer>אבירם דרעי</writer>
+        <composer>אבירם דרעי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חיכיתי לך</head>
+        <lg number="1" type="stanza">
+          <l>אני נזכר בדמעותייך</l>
+          <l>בדממה שבי נותרה</l>
+          <l>נשבע לא לוותר</l>
+          <l>הלב פועם חזק יותר</l>
+          <l>כל כך רוצה אלייך</l>
+          <l>אלייך אהובה</l>
+          <l>כשאת לא לידי</l>
+          <l>שובר שתיקה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חיכיתי לך לנשום אותך</l>
+          <l>את בחלומותי</l>
+          <l>וזה אני שמשתגע מיופייך</l>
+          <l>חיכיתי לך לנשום אותך</l>
+          <l>כל רגע בחיי</l>
+          <l>וזה אני שמשתגע בגללך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מצייר אותך בדמיוני</l>
+          <l>לא מרפה המחשבה</l>
+          <l>שיום יבוא ואת תהיי כאן לצידי</l>
+          <l>ואומר לך כמה, כמה שאוהב</l>
+          <l>מחבק אותך חזק ולא עוזב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חיכיתי לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הדרך לאהוב</title>
+        <singer classification="unknown">דיויד ברוזה</singer>
+        <writer>שירה גפן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הדרך לאהוב</head>
+        <lg number="1" type="stanza">
+          <l>תמיד היית שלו </l>
+          <l>והוא היה למעלה </l>
+          <l>ניסה לקטוף אותך </l>
+          <l>מצמרת הכוכב </l>
+          <l>נשבת את האביב </l>
+          <l>אל תוך שמלת הלילה </l>
+          <l>והוא חיפש אותך </l>
+          <l>בין שבילי הסתיו. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הוא רצה אותך </l>
+          <l>אבל הוא לא הכיר </l>
+          <l>את הדרך שנפתחת לאהוב </l>
+          <l>את היית הצער </l>
+          <l>את היית השיר </l>
+          <l>בחולות בפרדסים וברחוב. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חיכית לו בשדה </l>
+          <l>והוא חיפש ביער </l>
+          <l>למה שכבר נגמר </l>
+          <l>המציא עוד התחלה </l>
+          <l>בנה לך ארמונות </l>
+          <l>לא תגלי שום שער </l>
+          <l>לפי שתמצאי את השביל אליו. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הוא רצה אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

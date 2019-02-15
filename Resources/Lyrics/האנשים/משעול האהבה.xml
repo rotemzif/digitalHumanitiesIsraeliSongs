@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משעול האהבה</title>
+        <singer classification="band">האנשים</singer>
+        <writer>ערן נתנס</writer>
+        <composer>ערן נתנס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משעול האהבה</head>
+        <lg number="1" type="stanza">
+          <l>קהו חושיי זה זמן נפשי עודנה חשה</l>
+          <l>את רטט האוויר ורעדת האדמה</l>
+          <l>קהו חושיי מזמן רוחי עודנה חשה</l>
+          <l>עכשיו נפשי שואלת נחמה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יהא ליבי נוצה ונשמתי הרוח</l>
+          <l>גופי כחץ שלוח במשעול האהבה</l>
+          <l>תהא דרכי ברוכה בונה ומלמדת</l>
+          <l>היו עיניי פקוחות לרווחה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לימדו אותי הזמן העצים והשלכת</l>
+          <l>לימד אותי אבי לימד אותי ללכת</l>
+          <l>לימדוני הריחות והצילילים והמגע</l>
+          <l>לימד אותי האיש המשוגע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יהא ליבי נוצה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוא מלאך</title>
+        <singer classification="band">האנשים</singer>
+        <writer>דרור שוסטק</writer>
+        <composer>דרור שוסטק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוא מלאך</head>
+        <lg number="1" type="stanza">
+          <l>בוא מלאך בוא וקח קח את השמש קח את זריחתה</l>
+          <l>את כנפיך פתח ידך הנח</l>
+          <l>קח את השמש קח את זריחתה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בוא מלאך אל תשכח שקט על הארץ</l>
+          <l>בלחישתך</l>
+          <l>את כנפיך פתח ידך הנח</l>
+          <l>שקט על הארץ</l>
+          <l>בלחישתך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>וראית כי בא היום</l>
+          <l>וידעת</l>
+          <l>תם</l>
+          <l>חלום</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בוא מלאך עיניך פקח</l>
+          <l>יופי על הארץ פרי אהבתך</l>
+          <l>את כנפיך פתח ידך הנח</l>
+          <l>יופי על הארץ פרי אהבתך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>וראית...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>בוא מלאך אל תשכח</l>
+          <l>נגעת נפשך נגעת בם</l>
+          <l>נגעת נפשך נגעת בם</l>
+          <l>נגעת נפשך נגעת בם.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

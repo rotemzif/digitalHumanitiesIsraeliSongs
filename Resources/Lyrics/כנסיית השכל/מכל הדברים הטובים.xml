@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מכל הדברים הטובים</title>
+        <singer classification="band">כנסיית השכל</singer>
+        <writer>רן אלמליח</writer>
+        <composer>missing</composer>
+        <album>שורות של אנשים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מכל הדברים הטובים</head>
+        <lg number="1" type="stanza">
+          <l>כלבים תופסים מחסה מהגשם</l>
+          <l>נערות קלות דעת חוצות את הכביש</l>
+          <l>ומכל המילים הטובות שאמרת לי</l>
+          <l>רק אחת אני זוכר בלילה כזה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וגם את ריח הגשם ואור הירח</l>
+          <l>וניגון ישן שנשכח מהלב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נשים מביטות מחלון למרחק</l>
+          <l>אמהות מכסות ילדים בשנתם</l>
+          <l>ומכל הדברים הטובים שידעתי</l>
+          <l>רק אותך אני זוכר בלילה כזה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וגם את ריח הגשם ואור הירח</l>
+          <l>וניגון ישן שנשכח מהלב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וגם את ריח הגשם ואור הירח </l>
+          <l>וניגון ישן שחזר אל הלב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

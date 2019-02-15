@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא הכל ורוד</title>
+        <singer classification="unknown">שלום קדושים</singer>
+        <writer>דודו מתנה</writer>
+        <composer>דודו מתנה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא הכל ורוד</head>
+        <lg number="1" type="stanza">
+          <l>כמה כאב כמה דמעות</l>
+          <l>גם אלוהים לא נרדם בלילות</l>
+          <l>מאז שעזבת הפסקתי לצחוק</l>
+          <l>מאבד את עצמי מרוב מחשבות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נומי ילדה נומי בזרועות אחר וודאי תקומי</l>
+          <l>ואני כה מבולבל שואל עצמי אוליי</l>
+          <l>אליי את תשובי...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין לי אוויר קשה לי לנשום</l>
+          <l>לא העמדתי פנים שהכל אצלי ורוד</l>
+          <l>נסעתי רחוק במסלול הכאב</l>
+          <l>שלא יראו אותי מאהבה מתפתל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נומי ילדה נומי בזרועות אחר וודאי תקומי</l>
+          <l>ואני כה מבולבל שואל עצמי אוליי</l>
+          <l>אליי את תשובי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

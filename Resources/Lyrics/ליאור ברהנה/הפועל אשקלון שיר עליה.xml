@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הפועל אשקלון שיר עליה</title>
+        <singer classification="unknown">ליאור ברהנה</singer>
+        <writer>ליאור ברהנה</writer>
+        <composer>יואב ארבלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הפועל אשקלון שיר עליה</head>
+        <lg number="1" type="stanza">
+          <l>הפועל אשקלון קדימה את הקבוצה שלי </l>
+          <l>האוהדים כפיים השחקנים עולים </l>
+          <l>שוקי נגר שמאלה קוז'וק בצד ימין </l>
+          <l>קובי דג'אני נשמה וצגאי התותח </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קדימה אשקלונה </l>
+          <l>ליגת העל קוראת לי קדימה אשקלונה</l>
+          <l>קדימה הפועל </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הצעיף על הכתפיים האוהדים שרים </l>
+          <l>ומוחאים כפיים לאורי מלמיליאן </l>
+          <l>ווהבה שומר על השער עם ביטון ואלול </l>
+          <l>עוד כדור של אונגר לרומאו וגול.... </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קדימה אשקלונה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

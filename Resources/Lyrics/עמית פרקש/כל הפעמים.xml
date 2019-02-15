@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל הפעמים</title>
+        <singer classification="unknown">עמית פרקש</singer>
+        <writer>אילן רוזנפלד</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל הפעמים</head>
+        <lg number="1" type="stanza">
+          <l>כל הפעמים שרציתי לשמוח </l>
+          <l>כל המקומות שרציתי לברוח </l>
+          <l>כל הרגעים שהיית איתי </l>
+          <l>כל הזיכרונות שהיית שלי </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל הארמונות שהתפרקו לי בידיים </l>
+          <l>כל האהבות שזרמו עם המים </l>
+          <l>כל האכזבות שבחיי </l>
+          <l>כל הנשיקות שדילגו עלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק אל תתני ללילה לעבור סתם כך </l>
+          <l>תתני ללילה לאכזב אותך </l>
+          <l>מבט ממך ואני...</l>
+          <l>שלך, שלך! </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מבט ממך ואני, שלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

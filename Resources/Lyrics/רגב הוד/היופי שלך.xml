@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היופי שלך</title>
+        <singer classification="male singer">רגב הוד</singer>
+        <writer>דודו אהרון</writer>
+        <composer>דודו אהרון</composer>
+        <album>מרגיש בטוח</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היופי שלך</head>
+        <lg number="1" type="stanza">
+          <l>אני מרגיש את זה, מה שאותך רואה</l>
+          <l>אני מרגיש את הטירוף אוחז ברגשותי</l>
+          <l>זה מסוכן איתך כל כך אבל רוצה אותך</l>
+          <l>בכל מחיר להיות איתך ולהגשים אותך</l>
+          <l>אם יש בך אהבה גדולה אז בואי</l>
+          <l>אני מבטיח לך שרק אותך אוהב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה היופי שלך שמשגע כל כך</l>
+          <l>את ואני כמו ים סוער באהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני מרגיש את זה כל לילה שאותך רואה</l>
+          <l>כשאת עוברת לידי הרגש מתעורר</l>
+          <l>זה לא יכול כך להמשיך, אני עכשיו אותך צריך</l>
+          <l>וכל מה שחלמת עליו יהיה שלך, תיראי</l>
+          <l>אם יש בך אהבה גדולה אז בואי</l>
+          <l>אני מבטיח לך שרק אותך אוהב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה היופי שלך שמשגע כל כך</l>
+          <l>את ואני כמו ים סוער באהבה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

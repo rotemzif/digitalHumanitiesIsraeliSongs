@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תני לי את זה</title>
+        <singer classification="male singer">רמי פורטיס</singer>
+        <writer>רמי פורטיס</writer>
+        <composer>רמי פורטיס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תני לי את זה</head>
+        <lg number="1" type="stanza">
+          <l>מה את חושבת ומה את רוצה</l>
+          <l>תגידי באמת תגידי ילדה</l>
+          <l>את לא רואה שאת מגזימה</l>
+          <l>ואין לך בושה להיות כה רעה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז קדימה או החוצה</l>
+          <l>תני לי את זה</l>
+          <l>כן, תני לי את זה,</l>
+          <l>כן, תני לי את זה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את משחקת משחק משחק מסוכן</l>
+          <l>לא, אני לא מוכן</l>
+          <l>אני מחכה וכלום לא קורה</l>
+          <l>אז בואי מהר אני כבר בוער</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז קדימה או החוצה</l>
+          <l>תני לי את זה</l>
+          <l>כן, תני לי את זה,</l>
+          <l>כן, תני לי את זה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בזבזתי עלייך את מיטב השעות</l>
+          <l>ואת צחקת, אמרת לי שטויות</l>
+          <l>ופעם אחרונה, אני מבקש</l>
+          <l>תני לי ילדה, תני מה שיש</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אז קדימה או החוצה</l>
+          <l>תני לי את זה</l>
+          <l>כן, תני לי את זה,</l>
+          <l>כן, תני לי את זה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

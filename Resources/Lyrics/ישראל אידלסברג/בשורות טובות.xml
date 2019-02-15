@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בשורות טובות 2</title>
+        <singer classification="male singer">ישראל אידלסברג</singer>
+        <writer>ישראל אידלסברג</writer>
+        <composer>ישראל אידלסברג</composer>
+        <album>בשורות טובות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בשורות טובות</head>
+        <lg number="1" type="stanza">
+          <l>צלצול קצר בטלפון,פותח הודעות</l>
+          <l>מצפה כמו כולם לבשורות טובות</l>
+          <l>נוסע לצפון שומע חדשות</l>
+          <l>כמו כולם רוצה לשמוע רק בשורות טובות</l>
+          <l>פותח את תיבת הדואר,שולף מעטפות</l>
+          <l>אולי אמצא בשורה טובה,לא תשלומי קנסות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בשורות טובות מאין הן באות</l>
+          <l>משאלות וגם תקוות,תהיות ואכזבות</l>
+          <l>איך תמיד זה מסתדר כשאין לי ציפיות</l>
+          <l>פתאום משום מקום שומע:יש בשורות טובות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שמועה אחת טובה נותנת את האות</l>
+          <l>מצ'וטט עם חברים מכמה ארצות</l>
+          <l>כולם עושים לחיים כשיש להם סיבות</l>
+          <l>אולי ביום אחד אני אהיה לאיש בשורות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בשורות טובות מאין הן באות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

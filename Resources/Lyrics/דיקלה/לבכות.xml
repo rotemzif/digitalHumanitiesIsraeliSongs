@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לבכות 3</title>
+        <singer classification="female singer">דיקלה</singer>
+        <writer>חנה לפידות</writer>
+        <composer>דיקלה</composer>
+        <album>ארלוזרוב 38</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לבכות</head>
+        <lg number="1" type="stanza">
+          <l>שוב אני בידיים ריקות </l>
+          <l>אין דמעות אין תקוות נולדות </l>
+          <l>חלומות שנופלים על פני</l>
+          <l>רק רציתי שתביט אל תוך עיני</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שוב אני מחפשת עוד שיר </l>
+          <l>בדרכי מי היה אז איתי </l>
+          <l>לחבק להחזיק עצבותי </l>
+          <l>ואתה לא שמעת אותי </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רציתי לבכות איתך איתך איתך </l>
+          <l>רציתי להיות שלך שלך שלך </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שוב כוכב מציף לו בין הרוחות </l>
+          <l>אהבה בדוכני הפירות </l>
+          <l>מי ידע את נפשי בלילות </l>
+          <l>רק חלמתי את עצמי להיות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רציתי לבכות איתך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

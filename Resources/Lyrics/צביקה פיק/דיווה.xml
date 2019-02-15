@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דיווה 3</title>
+        <singer classification="male singer">צביקה פיק</singer>
+        <writer>יואב גינאי</writer>
+        <composer>missing</composer>
+        <album>האוסף המשולש</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דיווה</head>
+        <lg number="1" type="stanza">
+          <l>יש אישה גדולה מהחיים</l>
+          <l>יש חושים שיש רק לה</l>
+          <l>יש קסמים ויש ימים קשים</l>
+          <l>ובמה שהיא כולה שלה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>למלאכים דיווה היא אימפריה</l>
+          <l>על הבמה דיווה היא היסטריה</l>
+          <l>היא כולה שיר אהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ויוה נריע, ויוה ויקטוריה, אפרודיטה</l>
+          <l>ויוה לדיווה, ויוה ויקטוריה, קליאופטרה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש נשים, דמעות של החיים</l>
+          <l>הן ישאו תפילה ללא מילים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>למלאכים דיווה היא אימפריה</l>
+          <l>על הבמה דיווה היא היסטריה</l>
+          <l>היא כולה שיר אהבה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ויוה נריע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

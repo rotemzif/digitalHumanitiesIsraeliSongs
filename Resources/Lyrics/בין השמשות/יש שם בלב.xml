@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש שם בלב</title>
+        <singer classification="band">בין השמשות</singer>
+        <writer>יוני גנוט</writer>
+        <composer>יוני גנוט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש שם בלב</head>
+        <lg number="1" type="stanza">
+          <l>יש שם בלב</l>
+          <l>מקום שלמרות הכאב</l>
+          <l>עדיין אוהב אותי</l>
+          <l>יש שם בלב</l>
+          <l>מקום שלא התאכזב</l>
+          <l>שעדיין בוטח בי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מסביבי יש סופה גדולה</l>
+          <l>ורעש מתעתע</l>
+          <l>מונע לא נותן לראות</l>
+          <l>שבתוכי יש אור גדול</l>
+          <l>אז למה לא אשתכנע</l>
+          <l>לחיות בתוך, לא לחמוד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש שם בלב</l>
+          <l>מקום שלא התבלבל</l>
+          <l>שעדיין יודע אותי</l>
+          <l>יש שם בלב</l>
+          <l>מקום שאין בו ספק</l>
+          <l>שבסוף אהיה רק עצמי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מסביבי יש...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יש שם בלב</l>
+          <l>מקום שלמרות הכאב</l>
+          <l>עדיין אוהב אותי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

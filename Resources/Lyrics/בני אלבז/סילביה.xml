@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סילביה</title>
+        <singer classification="male singer">בני אלבז</singer>
+        <writer>אלי מטרסו</writer>
+        <composer>אלי מטרסו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סילביה</head>
+        <lg number="1" type="stanza">
+          <l>את נראית מחייכת גם כשאת עצובה </l>
+          <l>ומשום מה נדמה לך שאת לא אהובה </l>
+          <l>אם תביטי סביבך תראי שאת כמו מנגינה </l>
+          <l>ששרים בלי לדעת את שמה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פזמון...</l>
+          <l>סילבי סילביה </l>
+          <l>את ילדה יפיפיה </l>
+          <l>לו הייתי יכול להיות אהובך </l>
+          <l>את לבי לך הייתי נותן </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את חולמת על בית אהבה ילדים </l>
+          <l>ורואים בענייך חלומות אבודים </l>
+          <l>את כמו שמש ביום סגריר את כוכב אהבה </l>
+          <l>ואיתך זה כמו קרנבל </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סילבי סילביה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אך זיכרי זאת ילדונת שהכל בחיים </l>
+          <l>זה לא רק הצבע זה גם מה שבפנים </l>
+          <l>עוד יאירו לך כוכבים ותדעי אהבה </l>
+          <l>שתרעיד את לבך לעד </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>סילבי סילביה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

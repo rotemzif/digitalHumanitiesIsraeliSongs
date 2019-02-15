@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>החליל 2</title>
+        <singer classification="band">גאיה</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>דוד זהבי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>החליל</head>
+        <lg number="1" type="stanza">
+          <l>החליל </l>
+          <l>הוא פשוט ועדין,</l>
+          <l>וקולו כמו </l>
+          <l>קול של הלב.</l>
+          <l>החליל,</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשכשוך הפלגים,</l>
+          <l>כמו שיר ילדים.</l>
+          <l>כמשק הרוחות </l>
+          <l>בפרדס מלבלב</l>
+          <l>החליל, החליל.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מנגינת החליל, לאילן, לענן,</l>
+          <l>מנגינת החליל, למרבץ עדרים,</l>
+          <l>מנגינת החליל, לאחי הקטן,</l>
+          <l>מנגינת החליל, להרים להרים</l>
+          <l>החליל.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>המקשיב לו יודע</l>
+          <l>ידוע היטב,</l>
+          <l>הוא יעיר את הדמי,</l>
+          <l>הוא ירונו בצליל</l>
+          <l>כמשק הרוחות </l>
+          <l>בפרדס מלבלב</l>
+          <l>החליל</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מנגינת החליל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

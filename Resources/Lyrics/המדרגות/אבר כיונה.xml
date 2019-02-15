@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבר כיונה</title>
+        <singer classification="band">המדרגות</singer>
+        <writer>אילן דמרי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבר כיונה</head>
+        <lg number="1" type="stanza">
+          <l>ארחיק לי נדוד מכל אדם והמון לשקט</l>
+          <l>צמאה נפשי למנוחה</l>
+          <l>ללכת למקום שהנשמה אוהבת</l>
+          <l>עיני וליבי לך עד שאמצא ואומר:</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מי יתן לי אבר כיונה אבר כיונה</l>
+          <l>אעופה ואשכונה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אשא כנפי שחר אפרוש כפיים,</l>
+          <l>בין ארץ לשמיים</l>
+          <l>אולי מעבר ים לשם אעופה</l>
+          <l>ואני לי טוב בקרבתך ואומר:</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מי יתן לי אבר כיונה אבר כיונה</l>
+          <l>אעופה ואשכונה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פשוט אוהב אותך</title>
+        <singer classification="male singer">עידן יניב</singer>
+        <writer>ינאי רטפן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פשוט אוהב אותך</head>
+        <lg number="1" type="stanza">
+          <l>זה שאני אוהב אותך כבר כולם מנחשים </l>
+          <l>זה בטח בגללך, שמסמיקות לי הפנים </l>
+          <l>איך הלב שלי רועד מהתרגשות </l>
+          <l>כשאת מתקרבת, אני לגמרי הולך לאיבוד </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז מה אם אני ככה פשוט אוהב אותך </l>
+          <l>וכל מה שחשוב לי, זה רק להיות איתך </l>
+          <l>הציפורים שרות לך, ואני מוכרח </l>
+          <l>להיות תמיד קרוב אלייך ולחיוך שלך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתוך שפתי נשמעת לה תפילה קטנה </l>
+          <l>מתי תהיי שלי, שאדע בבקשה </l>
+          <l>את כל מה שיש לי, אתן רק לך </l>
+          <l>מתי כבר תביני הלב הזה שלך </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז מה אם אני ככה פשוט אוהב אותך </l>
+          <l>וכל מה שחשוב לי, זה רק להיות איתך </l>
+          <l>הציפורים שרות לך, ואני מוכרח </l>
+          <l>להיות תמיד קרוב אלייך ולחיוך שלך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

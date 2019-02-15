@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היי לי לאישה</title>
+        <singer classification="male singer">יהודה סעדו</singer>
+        <writer>אלירן זגורי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היי לי לאישה</head>
+        <lg number="1" type="stanza">
+          <l>רוצה לראותך בהינומה</l>
+          <l>לבושה שמלת כלה</l>
+          <l>רוצה רק אותך לי לאישה</l>
+          <l>לומר לך ברוך בלחישה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רוצה לפזם לשרוק ברכות</l>
+          <l>להפוך חלום למציאות</l>
+          <l>לענוד לך טבעת ולקדש אותך ברעד </l>
+          <l>שלנצח נהיה יחדיו לעד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לכן אל מול כולם מוכן אני להתחייב</l>
+          <l>שעד כלות נשמתי אותך אני אוהב</l>
+          <l>מילים של קדושה תחת החופה</l>
+          <l>רק לך יפהפייה היי לי לאישה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ביחד חבוקים ברחבה</l>
+          <l>נצעד יחדיו כבעל ואישה</l>
+          <l>מלאכים ירחפו מעלינו קטנים לבנים</l>
+          <l>ברכתם תעלה למרומים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לכן אל מול כולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

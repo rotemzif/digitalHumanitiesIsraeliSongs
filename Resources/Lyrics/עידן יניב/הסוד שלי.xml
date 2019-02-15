@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הסוד שלי 2</title>
+        <singer classification="male singer">עידן יניב</singer>
+        <writer>אסף לביא צנעני</writer>
+        <composer>אסף לביא צנעני</composer>
+        <album>חכי לי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הסוד שלי</head>
+        <lg number="1" type="stanza">
+          <l>שומר מקום רק לך עמוק בתוך הלב,</l>
+          <l>נשבעתי לעצמי שלך לא אגלה,</l>
+          <l>שאת כבשת אותי, נכנסת לנשמתי,</l>
+          <l>אוהב אותך תמיד, האם תהיי שלי?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את נוגעת בנשמה שלי,</l>
+          <l>ואת לא יודעת</l>
+          <l>וגם לא תדעי,</l>
+          <l>כי זה הסוד שלי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל רגע שעובר רוצה אותך יותר,</l>
+          <l>הבטחתי לעצמי שלך לא אספר.</l>
+          <l>כי את האור שלי, שמורה בתוך ליבי,</l>
+          <l>ביום שתגלי, האם תהיי שלי?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את נוגעת בנשמה שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה בסדר</title>
+        <singer classification="unknown">יעל נחשון</singer>
+        <writer>יעל נחשון</writer>
+        <composer>יעל נחשון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה בסדר</head>
+        <lg number="1" type="stanza">
+          <l>זה בסדר אני לא כועסת</l>
+          <l>אתה יכול להמשיך לישון</l>
+          <l>אני כבר מכירה את הסיבוב החד הזה לבד</l>
+          <l>אל תטרח להסביר</l>
+          <l>זה רק מגביר את העלבון</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני לא מופתעת</l>
+          <l>אתה יכול להיות שקט</l>
+          <l>כן, אני זוכרת שאמרת קודם "זה לא זה"</l>
+          <l>לא השלית אף אחד</l>
+          <l>וזה נחמד שאמרת את האמת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אבל לי חסר רגע מנוחה</l>
+          <l>רוצה לחזור אל התנוחה...</l>
+          <l>ולא לדאוג בכלל</l>
+          <l>חסר לי רגע מנוחה</l>
+          <l>רוצה לחזור אל התנוחה...</l>
+          <l>ולא לדאוג בכלל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זה בסדר אני לא נפגעת</l>
+          <l>אתה לא שונה מכל האחרים</l>
+          <l>נראה שאני אחת שאוהבים רק עד איזה גבול</l>
+          <l>אל תטרח לעודד</l>
+          <l>זה עובד רק אם מתכוונים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ולי חסר רגע מנוחה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

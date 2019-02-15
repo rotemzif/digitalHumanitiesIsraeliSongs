@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק לך 2</title>
+        <singer classification="unknown">ילד על הירח</singer>
+        <writer>זיו זק</writer>
+        <composer>זיו זק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק לך</head>
+        <lg number="1" type="stanza">
+          <l>יותר מידי זמן אני עסוק בלהבין</l>
+          <l>מה צריך להשתנות</l>
+          <l>נשען על רסיסים</l>
+          <l>של רגעים בלי מבוכה</l>
+          <l>אני לא רוצה לשתוק</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את המחשבות נתתי לך</l>
+          <l>המנגינות ניגנו רק לך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שוכח את התסריט</l>
+          <l>מנסה להתרגש</l>
+          <l>איך להיות אחד?</l>
+          <l>הלחץ מתגבר והידיים בכיסים</l>
+          <l>במקום להיות עלייך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את המחשבות נתתי לך</l>
+          <l>המנגינות ניגנו רק לך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עמדתי בתור לחיוך שלך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

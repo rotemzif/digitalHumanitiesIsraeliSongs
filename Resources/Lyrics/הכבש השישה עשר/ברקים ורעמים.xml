@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ברקים ורעמים</title>
+        <singer classification="band">הכבש השישה עשר</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>missing</composer>
+        <album>הכבש הששה עשר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ברקים ורעמים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>רעמים וברקים בליל חורף קר</l>
+          <l>לא נשמעים תמיד אותו הדבר</l>
+          <l>ברקים ורעמים, רעמים וברקים</l>
+          <l>לפעמים קרובים ולפעמים רחוקים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רעמים וברקים בלילות הגשומים</l>
+          <l>את הברק רואים אבל את הרעם שומעים</l>
+          <l>יש רעמים שמאוד מפחידים</l>
+          <l>ויש כאלה שרק קצת</l>
+          <l>יש רעם חלש ורעם בינוני</l>
+          <l>ורעם חזק חזק שלא נעים לשמוע</l>
+          <l>בעיקר אם אתה לבד</l>
+          <l>(לעתים רחוקות אתה פוגש רעם נחמד)</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רעמים וברקים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

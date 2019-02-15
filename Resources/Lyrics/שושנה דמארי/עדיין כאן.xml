@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עדיין כאן 5</title>
+        <singer classification="female singer">שושנה דמארי</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>אור</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עדיין כאן</head>
+        <lg number="1" type="stanza">
+          <l>היית עלם שחור עינים ואני ילדה,</l>
+          <l>הקשבתי לדבריך ושמעתי אגדה.</l>
+          <l>בחליל, בתוף ובמצלתיים העולם נבנה,</l>
+          <l>בשירים חולמים, שנה אחר שנה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אתה איתי הלילה, כמו לפני שנים,</l>
+          <l>כשלמה רועה בשושנים.</l>
+          <l>ושנינו יחד, צוחקים לזמן,</l>
+          <l>עדיין כאן, עדיין כאן.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ידענו סער ומבול וחילופי עונות,</l>
+          <l>ואת אהבתה של הנאוה שבבנות,</l>
+          <l>החליל צלול והד מסלע עוד עונה "אמן",</l>
+          <l>ושירנו הישן שוב מתנגן.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אתה איתי הלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הסוף מהתחלה</title>
+        <singer classification="band">נובמבר</singer>
+        <writer>שרון רביבו</writer>
+        <composer>שרון רביבו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הסוף מהתחלה</head>
+        <lg number="1" type="stanza">
+          <l>ארוכים לילות הניאון בלעדייך</l>
+          <l>תמונות זרוקות על השולחן, הריח עצוב</l>
+          <l>הוא לא חשב איך שהכל יפרוש כנפיים</l>
+          <l>מעליו יעוף מבלי לשוב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ימים קצרים מאוד של בני אדם ושמש</l>
+          <l>חולפים כל כך מהר והוא מרגיש מיושן</l>
+          <l>מסתכלים עליו כולם, תמיד נדמה לו</l>
+          <l>בורח ללילות של עיר שטן</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את שומעת, את יודעת</l>
+          <l>איך שהלב נקרע</l>
+          <l>שוב עובר את הסוף מהתחלה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הוא לא רוצה ובטח לא יכול לדעת</l>
+          <l>איפה מסתתרת קשת, יש רק ענן</l>
+          <l>עד שיפתחו לו שערי שמיים</l>
+          <l>תמיד ימשיך ללכת לו מכאן</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את שומעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

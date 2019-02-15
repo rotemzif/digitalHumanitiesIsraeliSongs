@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוצה אותך 8</title>
+        <singer classification="unknown">מירי רביבו</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>מירי רביבו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוצה אותך</head>
+        <lg number="1" type="stanza">
+          <l>הלילה שיורד אוסף אותי אלייך</l>
+          <l>ושוב ליבי נודד אחרי כפות ידיך</l>
+          <l>ואין לי מנוחה רוצה להיות איתך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רוצה אותך ליבי שלך אני נשבעת</l>
+          <l>רוצה אותך לצל גופך אני נכנעת</l>
+          <l>אתה מאור עיניי אתה חלום חיי</l>
+          <l>ושנינו פה לבד הופכים לגוף אחד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ניגון כינור נשמע אצלי בתוך החדר</l>
+          <l>לוחש לי יש תקווה ועוד יהיה בסדר</l>
+          <l>ואין לי מנוחה רוצה להיות איתך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רוצה אותך ליבי שלך אני נשבעת</l>
+          <l>רוצה אותך לצל גופך אני נכנעת</l>
+          <l>אתה מאור עיניי אתה חלום חיי</l>
+          <l>ושנינו פה לבד הופכים לגוף אחד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

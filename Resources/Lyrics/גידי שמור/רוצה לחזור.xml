@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוצה לחזור</title>
+        <singer classification="male singer">גידי שמור</singer>
+        <writer>גידי שמור</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוצה לחזור</head>
+        <lg number="1" type="stanza">
+          <l>אמרי לי אם אותי את עוד אוהבת</l>
+          <l>ספרי לי מה את מרגישה....</l>
+          <l>ואם על אחר עכשיו את חושבת</l>
+          <l>את יכולה לספר לי כל מילה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז למה את אינך עונה</l>
+          <l>שותקת וכזו שונה</l>
+          <l>ספרי לי מה רוצה ליבך </l>
+          <l>בכי לא יעזור</l>
+          <l>אז למה את לא מבינה</l>
+          <l>את כבר לא ילדה קטנה</l>
+          <l>הגידי שאת מסכימה</l>
+          <l>אני לעד אחזור...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נכון בתחילה אני זילזלתי</l>
+          <l>אולי נהגתי בטיפשות</l>
+          <l>אבל היום אני השתנתי</l>
+          <l>יש בי האומץ להודות בטעות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז למה את אינך עונה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ספרי לי על הכל אני כבר יודע</l>
+          <l>אל מי את עומדת להינשא</l>
+          <l>לחשוב על זה בלב זה פוגע...</l>
+          <l>איך שיכולתם לעולל דבר שכזה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אז למה את אינך עונה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הולך לגן</title>
+        <singer classification="male singer">עמוס ברזל</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הולך לגן</head>
+        <lg number="1" type="stanza">
+          <l>אמא מעירה אותי כל בוקר מחדש</l>
+          <l>חולצה ומכנסיים תוך רגע מלובש</l>
+          <l>מצחצח את שיני, ורוחץ את פני</l>
+          <l>עושה הכול לבד, לבד ממש.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הולך לגן כל בוקר כמובן,</l>
+          <l>הגננת מחייכת כל הזמן.</l>
+          <l>קוביות ומשחקים, לי גם מחכים,</l>
+          <l>כולנו שם שמחים ונהנים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>החול, הנדנדה שוב קוראים מהגינה</l>
+          <l>וכל הבובות כבר מחכות לי בפינה</l>
+          <l>מקשיבים לסיפורים, שר עם כל החברים</l>
+          <l>עד שאמא שוב בפתח ממתינה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הולך לגן כל בוקר כמובן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

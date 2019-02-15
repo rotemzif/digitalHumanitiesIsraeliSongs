@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני גבר גבר</title>
+        <singer classification="male singer">צדי אור</singer>
+        <writer>צדי אור</writer>
+        <composer>צדי אור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני גבר גבר</head>
+        <lg number="1" type="stanza">
+          <l>איך בא לי להשתגע</l>
+          <l>שאני חושב עליה</l>
+          <l>רק היא מסוגלת</l>
+          <l>לשגע לי ת'ראש</l>
+          <l>איך בא לי רק אותך</l>
+          <l>אני רוצה את הלב שלך</l>
+          <l>זו את ולא אחרת</l>
+          <l>ששיגעה לי את הראש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני גבר גבר</l>
+          <l>אני גבר גבר</l>
+          <l>אני אחלה גבר</l>
+          <l>אני אחלה גבר</l>
+          <l>אני רוצה אותך</l>
+          <l>עד שהיה שלך </l>
+          <l>ולא רוצה יותר</l>
+          <l>אני לא אוותר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך בא לי לנשק אותך</l>
+          <l>אני רוצה להיות שלך</l>
+          <l>בשבילי את מיוחדת </l>
+          <l>מכל האחרות</l>
+          <l>איך בא...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני גבר גבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

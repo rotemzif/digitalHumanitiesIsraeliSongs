@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ארקוד למענך 2</title>
+        <singer classification="unknown">ניר כרמלי</singer>
+        <writer>מיקי מדר</writer>
+        <composer>מיקי מדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ארקוד למענך</head>
+        <lg number="1" type="stanza">
+          <l>המתיקות שבך ממיסה אותי </l>
+          <l>צבע עורך מרגיע את נפשי </l>
+          <l>אודם לחייך צימרר לי את גופי </l>
+          <l>ואת עודך שותקת </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ארקוד למענך את הריקוד של חייך </l>
+          <l>אל תנסי בי לפגוע </l>
+          <l>ארקוד למענך בלילות מול עינייך </l>
+          <l>אל תגרמי לי לדמוע </l>
+          <l>אל תגרמי לי לדמוע </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בחלומות שלי את מפתה אותי </l>
+          <l>חושפת הכל זורמת אל תוכי </l>
+          <l>את נשימותייך אוסף לתוך ליבי </l>
+          <l>מרגיש כן שאת עוד אוהבת </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ארקוד למענך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

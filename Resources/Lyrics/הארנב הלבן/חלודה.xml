@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלודה</title>
+        <singer classification="unknown">הארנב הלבן</singer>
+        <writer>מאיה אור</writer>
+        <composer>יובל אור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלודה</head>
+        <lg number="1" type="stanza">
+          <l>שמיים צפופים מעלים חלודה </l>
+          <l>נשענים על עמוד שידרה </l>
+          <l>בניינים תלושים באפור ושחור </l>
+          <l>ניכור ברחובות </l>
+          <l>אני עומד לגמור </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בדלי סיגריות מונחים על פרחי זהב קטנים </l>
+          <l>אבל אני יודע שהזמן קצוב, העולם מחליד </l>
+          <l>כל רגע שעובר אני מאפיר </l>
+          <l>אני יודע </l>
+          <l>זה עולם רפאים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בניתי קופסא מבטון ופלדה </l>
+          <l>נשארתי בפנים מסוגר בתוך בועה </l>
+          <l>סדקים שנפערים בגופי מגלים ריקנות </l>
+          <l>מגלים שאין אני </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא אנסה להרגיש, כי יבש וקריר </l>
+          <l>אני יודע שהזמן קצוב העולם מחליד </l>
+          <l>כל רגע שעובר אני מתפורר </l>
+          <l>אני יודע שהזמן קצוב </l>
+          <l>ושאוותר </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שמיים צפופים מעלים חלודה... </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לא אנסה להרגיש, כי יבש וקריר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

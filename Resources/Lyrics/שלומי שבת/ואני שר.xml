@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ואני שר</title>
+        <singer classification="male singer">שלומי שבת</singer>
+        <writer>זיו רובינשטיין</writer>
+        <composer>זיו רובינשטיין</composer>
+        <album>שתדעי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ואני שר</head>
+        <lg number="1" type="stanza">
+          <l>ניסיתי לשתף אותך בכאב</l>
+          <l>ולא ידעתי איך</l>
+          <l>זה תופס אותי בבטן, מתגבר והולך</l>
+          <l>לרגע לא דועך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני יודע, כשאת נפגעת זה כל כך כואב</l>
+          <l>ולא שוכח, למרות הכול אני אותך אוהב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואני שר</l>
+          <l>שתאמיני שאני מאושר</l>
+          <l>כי משהו בתוכי נשאר</l>
+          <l>מזכיר לי שעוד לא נגמר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אתמול קפצו החברים לבקר</l>
+          <l>ישבנו בחצר</l>
+          <l>אני מביט בתמונתך ומחפש מענה</l>
+          <l>כי משהו חסר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני שומע את כולם אומרים לי להרפות</l>
+          <l>אני יודע, אני אמצא עוד דרך לנסות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואני שר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

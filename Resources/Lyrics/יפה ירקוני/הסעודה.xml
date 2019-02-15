@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הסעודה</title>
+        <singer classification="female singer">יפה ירקוני</singer>
+        <writer>חיים נחמן ביאליק</writer>
+        <composer>נחום נרדי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הסעודה</head>
+        <lg number="1" type="stanza">
+          <l>ברוכה היושבה!</l>
+          <l>מה תאכלי, ביתי?"</l>
+          <l>"ברוך הבא!</l>
+          <l>שב וסעד איתי!</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שולחני ערוך,</l>
+          <l>כל טוב יש עליו:</l>
+          <l>גם דיסה, ביצה,</l>
+          <l>גם ספל חלב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וגם תפוח,</l>
+          <l>פרי תפארת,</l>
+          <l>אדמוני כולו</l>
+          <l>לפרפרת."</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>"איכלי פיתך</l>
+          <l>ושתי חלבך</l>
+          <l>ויערב לך</l>
+          <l>וייטב לבבך."</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

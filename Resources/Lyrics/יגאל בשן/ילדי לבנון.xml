@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילדי לבנון</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>יגאל בשן</writer>
+        <composer>יגאל בשן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילדי לבנון</head>
+        <lg number="1" type="stanza">
+          <l>הם נסעו למזרח לתפוס ת'שמיים</l>
+          <l>לרכב על ענן כחול או לבן</l>
+          <l>הם ילדי לבנון עם אדום בעיניים</l>
+          <l>אלוהים שישמור על כל שערה בראשם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ובתוך התרמיל הם ארזו את נפשם</l>
+          <l>יש כמה צלקות ופצע פתוח אחד</l>
+          <l>במזרח הרחוק החוק הוא השקט</l>
+          <l>ואנחנו נשמור על כל שערה בראשם</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ובתוך הדממה תהדהד זעקה</l>
+          <l>כי ביופי הזה ישנה רגיעה</l>
+          <l>שם למעלה בהר עם כל המותר</l>
+          <l>הם מוצאים את עצמם</l>
+          <l>כי רק להם מותר</l>
+          <l>לילדי לבנון</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בין הרבה פטריות הם נחים על החול</l>
+          <l>ממולם הכחול לא מסתיר ת'אתמול</l>
+          <l>רכבות שם נוסעות לדמיון בלי גבולות</l>
+          <l>אלוהים שישמור את כל התשובות לשאלות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ובתוך הדממה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>הוא יגיע מחר הרבה יותר מבוגר</l>
+          <l>עם אותו החיוך והרגש המר</l>
+          <l>עם אותו שיכרון של לפני המחר</l>
+          <l>אלוהים שישמור את ילדי לבנון מניכר</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>ובתוך הדממה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

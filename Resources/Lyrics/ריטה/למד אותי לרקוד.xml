@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>למד אותי לרקוד</title>
+        <singer classification="female singer">ריטה</singer>
+        <writer>עודד ארביב</writer>
+        <composer>עודד ארביב</composer>
+        <album>רמזים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>למד אותי לרקוד</head>
+        <lg number="1" type="stanza">
+          <l>לצלול עכשיו לתוך עיניך</l>
+          <l>לשכוח כמה קר</l>
+          <l>לחוש בקצב נשימותיך</l>
+          <l>לראות ת'אור נשבר,</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לצלול עכשיו לתוך עיניך</l>
+          <l>להשתוקק לנגיעה, </l>
+          <l>לקפוא מקור אצבעותיך</l>
+          <l>עיני למנוע מדמעה. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רוח פורעת בשערי ואור חזק מאיר</l>
+          <l>אתה נוגע ברעד בצווארי, ידיים באויר</l>
+          <l>להסתחרר בזרועותיך, לא לבקש לנדוד</l>
+          <l>להתגבר על כל העצב, למד אותי לרקוד.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לצלול עכשיו לתוך עיניך</l>
+          <l>לכאוב לא לוותר</l>
+          <l>לחוש רכות של שפתותיך</l>
+          <l>לא להרפות עד יגמר.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רוח פורעת בשערי...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>להתעורר מתוך חלום</l>
+          <l>למות למות מחום, </l>
+          <l>שקט נפצע מאנחותיך</l>
+          <l>עכשיו ליפול לתוך עיניך. </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>רוח פורעת בשערי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

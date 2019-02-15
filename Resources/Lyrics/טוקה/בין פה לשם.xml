@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בין פה לשם</title>
+        <singer classification="unknown">טוקה</singer>
+        <writer>טוקה</writer>
+        <composer>טוקה</composer>
+        <album>הווה אחר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בין פה לשם</head>
+        <lg number="1" type="stanza">
+          <l>בין פה לשם, בין אתמול להיום</l>
+          <l>בין מחר לעכשיו, בינו לבינה</l>
+          <l>בין בפנים לבחוץ, בין חלום למציאות</l>
+          <l>בין מטרה לדרך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בין בורא לאדם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בין תקווה לאכזבה, בין עץ לאדמה</l>
+          <l>בין תינוק לאם, בין רצון לשינוי</l>
+          <l>בין חלום למציאות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בין בורא לאדם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

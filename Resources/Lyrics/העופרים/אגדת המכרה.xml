@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אגדת המכרה</title>
+        <singer classification="unknown">העופרים</singer>
+        <writer>דידי מנוסי</writer>
+        <composer>מאיר נוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אגדת המכרה</head>
+        <lg number="1" type="stanza">
+          <l>מעשה בכורה שחצב מכרה במו ידו</l>
+          <l>וכשמת הכורה הורישו לשלושת ילדיו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בהרים מכרה ניצב</l>
+          <l>לרגלי הצוק הרם</l>
+          <l>יש נחושת וזהב</l>
+          <l>ויש פחם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הבן הראשון רק להתעשר נפשו ביקשה</l>
+          <l>בחר בזהב כי היה לו מצח נחושה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בהרים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הבן השני בשדה קטל כל חייו נלחם</l>
+          <l>בנחושת בחר כי נפשה שחורה כמו פחם</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בהרים...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>הבן השלישי איש פשוט היה במעשיו</l>
+          <l>בחר בפחם כי לבו היה לב של זהב</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>בהרים...</l>
+        </lg>
+        <lg number="9" type="stanza">
+          <l>ראשון התרושש, השני בקרב נפשו נפח</l>
+          <l>השלישי עד היום מתחמם בנחת מול האח</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

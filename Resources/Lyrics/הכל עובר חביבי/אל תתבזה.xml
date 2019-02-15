@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תתבזה</title>
+        <singer classification="band">הכל עובר חביבי</singer>
+        <writer>רחל שפירא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תתבזה</head>
+        <lg number="1" type="stanza">
+          <l>אולי דוקא עכשיו</l>
+          <l>כשעצומות עיניך</l>
+          <l>אתה מדליק לעצמך איזו נורה</l>
+          <l>אולי איזה מסך</l>
+          <l>נקרע מעפעפיך</l>
+          <l>ורצונך נחשף כמו ממערה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תתבזה</l>
+          <l>ואל תבוז למניעיך</l>
+          <l>אין בעלות על הדבר האמיתי</l>
+          <l>השקר המושלם</l>
+          <l>אינו יפה כמוך</l>
+          <l>כמו שרואות אותך עיני אהבתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אולי דוקא עכשיו</l>
+          <l>גופך מגיב ביושר</l>
+          <l>כבר מנותק כליל מחבל הטבור</l>
+          <l>מותש מחום וקור</l>
+          <l>מכיל אזור של אושר</l>
+          <l>אומר דברים שלא הבעת בדיבור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תתבזה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

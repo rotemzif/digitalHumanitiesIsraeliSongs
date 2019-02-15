@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בבאי</title>
+        <singer classification="female singer">חני נחמיאס</singer>
+        <writer>לאה נאור</writer>
+        <composer>יוריק בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בבאי</head>
+        <lg number="1" type="stanza">
+          <l>יש לי חבר, יש לי חבר</l>
+          <l>שבא אלינו מעולם אחר</l>
+          <l>מתוך הקשת בענן</l>
+          <l>הוא התגלגל ישר לכאן.</l>
+          <l>והוא מציל, והוא עוזר,</l>
+          <l>והוא הכי הכי חבר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גלו לי ידידי </l>
+          <l>מאין בא בבאי? </l>
+          <l>איפה נולד ואיך נדד </l>
+          <l>ואיפה הוא היה? </l>
+          <l>גלו לי ידידי </l>
+          <l>איך בא אלי בבאי? </l>
+          <l>גלו לי ידידי </l>
+          <l>איך בא אלי בבאי? </l>
+          <l>איך הוא צנח, מצחיק כל כך </l>
+          <l>מחזיק בשמשיה?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש לי חבר ושמו בבאי</l>
+          <l>איזה מזל שבא דווקא אלי.</l>
+          <l>כי הוא מצחיק והוא צוחק,</l>
+          <l>והוא יודע לשחק,</l>
+          <l>ויש לו אלף ידידים</l>
+          <l>בין החיות והילדים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גלו לי ידידי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

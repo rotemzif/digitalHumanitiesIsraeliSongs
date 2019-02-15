@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צאנה צאנה</title>
+        <singer classification="female singer">גאולה גיל</singer>
+        <writer>יחיאל חגיז</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צאנה צאנה</head>
+        <lg number="1" type="stanza">
+          <l>צאנה צאנה הבנות וראינה</l>
+          <l>חיילים במושבה</l>
+          <l>אנא אנא אל נא תתיראנה</l>
+          <l>מבן חייל איש צבא</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אנו אנו עליזים כולנו</l>
+          <l>מצעדינו - מנגינה</l>
+          <l>התגעגענו - באנו והגענו</l>
+          <l>צאינה, בואנה ברינה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>צאנה הבנות ורינה</l>
+          <l>חיילים באים בעיר</l>
+          <l>אנא אנא באנה הגלינה</l>
+          <l>ומזמור יחדיו נשיר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אנו אנו אמיצים כולנו</l>
+          <l>ובחזנו לב גועש</l>
+          <l>באנו באנו - מרץ רב איתנו</l>
+          <l>ובדמנו להט אש</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

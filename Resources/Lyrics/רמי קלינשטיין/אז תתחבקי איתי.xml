@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אז תתחבקי איתי</title>
+        <singer classification="male singer">רמי קלינשטיין</singer>
+        <writer>צרויה להב</writer>
+        <composer>רמי קלינשטיין</composer>
+        <album>תפוחים ותמרים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אז תתחבקי איתי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>את לא לבד כבר</l>
+          <l>תשתדלי להרגע</l>
+          <l>אולי כדאי בשקט עם הגב לרוח</l>
+          <l>תשעני על הקיר</l>
+          <l>או תטפסי על גג</l>
+          <l>או תתחבקי איתי, מה שיותר בטוח</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>השינויים מתרחשים</l>
+          <l>אין שיטה אחרת</l>
+          <l>תמיד רוצים להסתתר ומהרבה דברים</l>
+          <l>אבל אחרי הכל</l>
+          <l>את בטח כבר זוכרת</l>
+          <l>שגם אם רע, דברים טובים קורים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש אנשים סביבי</l>
+          <l>מנפנפים בטראומה</l>
+          <l>כמו לעשות להם אויר ביום שרב</l>
+          <l>ואני נצמד אלייך</l>
+          <l>עוד מופתע מכמה</l>
+          <l>כמה שאני אוהב אותך עכשיו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את לא לבד כבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

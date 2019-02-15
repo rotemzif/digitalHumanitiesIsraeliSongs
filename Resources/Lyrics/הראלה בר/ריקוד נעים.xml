@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ריקוד נעים</title>
+        <singer classification="female singer">הראלה בר</singer>
+        <writer>מיכל גבריאלוב</writer>
+        <composer>מיקי גבריאלוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ריקוד נעים</head>
+        <lg number="1" type="stanza">
+          <l>מתחיל ריקוד נעים</l>
+          <l>והשעה כבר מאוחרת</l>
+          <l>מתקרבת לקראת אהבה</l>
+          <l>אבל את הרואה אחרת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את הלא איתי אתה כבר לא איתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חולמת בלילות</l>
+          <l>אתה נוגע לא נוגע בי</l>
+          <l>רוצה שפתיים חמות</l>
+          <l>עיניים שרק בי יביטו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אתה לא איתי אתה כבר לא איתי</l>
+          <l>ואם לא אתה מי אני ומה יהיה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שבורה אני בתוך תוכי</l>
+          <l>בתוך אהבתי כלואה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אתה לא איתי...</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>רוצה לרקוד עכשיו אה</l>
+          <l>עכשיו כבר לא</l>
+          <l>אולי איזה ריקוד קטן</l>
+          <l>לא לא איתך לא</l>
+          <l>ואם לא איתך מי אני ומה יהיה</l>
+          <l>אתה לא איתי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

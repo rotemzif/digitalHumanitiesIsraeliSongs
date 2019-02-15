@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עופרים</title>
+        <singer classification="unknown">העופרים</singer>
+        <writer>עמוס אטינגר</writer>
+        <composer>אריה לבנון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עופרים</head>
+        <lg number="1" type="stanza">
+          <l>מספרים יושבי הדרך</l>
+          <l>מספרים יושבי הרים</l>
+          <l>כי ראו הם עם הערב עופרים</l>
+          <l>אבל הם נשאו רגליים</l>
+          <l>מן ההר אל המדרון</l>
+          <l>בוקר ערב צהרים</l>
+          <l>שרו את אותו פזמון</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סודנו בצליל הגיטר</l>
+          <l>סודנו ברוח השר</l>
+          <l>והרוח נושא את קולו בהרים</l>
+          <l>עופרים עופרים עופרים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז לקחנו בידינו</l>
+          <l>את גיטר המיתרים</l>
+          <l>לחפש את ידידינו עופרים</l>
+          <l>אבל הם נשאו רגליים</l>
+          <l>נעלמו בין ההמון</l>
+          <l>בוקר ערב צהרים</l>
+          <l>שרו את אותו פזמון</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סודנו בצליל הגיטר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הסתובבנו ונסענו בימים הבהירים</l>
+          <l>אך עדיין לא מצאנו עופרים</l>
+          <l>אם תראו אותם</l>
+          <l>אז לנו תקראו מן ההמון</l>
+          <l>כי את שמם נישא עמנו</l>
+          <l>ונשיר אותו פזמון</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>סודנו בצליל הגיטר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

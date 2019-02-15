@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמש בוקר</title>
+        <singer classification="male singer">יזהר כהן</singer>
+        <writer>חנה גולדברג</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמש בוקר</head>
+        <lg number="1" type="stanza">
+          <l>לא רואים שם נרקיסים, לא רואים שם ילדות </l>
+          <l>כשיורדים מהפסים שם מותר לבכות </l>
+          <l>איך שעוברים את הקצה שאחריו גומרים לחיות </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שמש בוקר מנחמת מפזרת הבטחות </l>
+          <l>מופיעה ונעלמת למדי אותי לשחות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תביטו לאחור אל תביטו לצדדים</l>
+          <l>לכו עם כל כוחות האור ברחובות שקטים </l>
+          <l>גם כשהמים עמוקים נסו לרקוד עם הגלים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שמש בוקר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נשימה של מאהב תסלק את הכאב </l>
+          <l>אל המים בוא איתי גם אם הכל זמני </l>
+          <l>עלה קטן אתה אחי וכמוך גם אני</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שמש בוקר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

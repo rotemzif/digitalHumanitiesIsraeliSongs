@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את הכי חתיכה</title>
+        <singer classification="unknown">ראובן המלאך</singer>
+        <writer>ברק לידני</writer>
+        <composer>אריק זנטי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את הכי חתיכה</head>
+        <lg number="1" type="stanza">
+          <l>תלתלים זהובים עד הכתפיים </l>
+          <l>ופנים של מלאך מהשמיים</l>
+          <l>יש לך לק וקישוט בציפורניים</l>
+          <l>וצמידי יהלום על הידיים</l>
+          <l>את כה יפה בשמלה הפרחונית</l>
+          <l>חיוך מסמיק מבט של ביישנית</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את הכי חתיכה ניראת כמו נסיכה </l>
+          <l>כמה יופי יש בגוף אחד</l>
+          <l>עד חצי ממלכה תבקשי מה את צריכה</l>
+          <l>לך אתן את כל כולי לעד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש לך אודם אהבה על השפתיים</l>
+          <l>אור זוהר שנשקף מהעיניים</l>
+          <l>עגיליי זהב צמודים על האוזניים </l>
+          <l>ועור חלק של תינוק כבן יומיים</l>
+          <l>את כה יפה בשמלה הפרחונית </l>
+          <l>חיוך מסמיק מבט של ביישנית</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את הכי חתיכה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

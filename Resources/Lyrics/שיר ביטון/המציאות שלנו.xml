@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המציאות שלנו</title>
+        <singer classification="female singer">שיר ביטון</singer>
+        <writer>ארז ברזוליק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המציאות שלנו</head>
+        <lg number="1" type="stanza">
+          <l>חיים בתוך חיים בתוך חיים</l>
+          <l>ואהבה כמו אהבה מאהבה. </l>
+          <l>וחלוֹמוֹת שעשויים מזיכרונות, </l>
+          <l>הם המציאות שלנו.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>סרטים עם גיבורים שנגמרים</l>
+          <l>והאוויר שמזוהם מעננים.</l>
+          <l>וחדשות ופרסומות עם דוגמנים,</l>
+          <l>הם המציאות שלנו.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>והעיר כולה מלאה בשקרנים, </l>
+          <l>שכותבים שירי אהבה.</l>
+          <l>וברחוֹבוֹת שוחים התנינים, </l>
+          <l>הם יודעים את התשובה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז חיים בתוך חיים בתוך חיים,</l>
+          <l>כמו שורות - שורות דקות של קוקאין.</l>
+          <l>ואושר מעורבב באכזבה,</l>
+          <l>זאת המציאות שמצאנו.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>והשמיים עטופים בעיתונים</l>
+          <l>והאמת היא עטופה בפחדנים</l>
+          <l>ואנחנו כבר לא מאמינים,</l>
+          <l>שבשביל זה יצאנו.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>והעיר כולה מלאה בשקרנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ימי אתמול</title>
+        <singer classification="female singer">מאיה בוסקילה</singer>
+        <writer>דנה לפידות</writer>
+        <composer>דנה לפידות</composer>
+        <album>שוברת שתיקה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ימי אתמול</head>
+        <lg number="1" type="stanza">
+          <l>בחוץ נופים משתנים, בפנים עוד מעונן חלקית</l>
+          <l>שעון מתעורר אל שעת המבוכה</l>
+          <l>כמו אישה אני שואלת, מה פשר השתיקה</l>
+          <l>נגן בי סליחה</l>
+          <l>בלילות אני רוקמת שמיכת תלאים של חלומות</l>
+          <l>ולא תהיה בי עוד חלק</l>
+          <l>שוב, בבוקר אוותר, לא יותר, לא אשאר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך ימי אתמול בין השורות</l>
+          <l>דוהים מקומטים במגירות</l>
+          <l>איך אפקח את עיניי מול עיניך</l>
+          <l>שלא ידעו לחייך אל עצבותי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בחוץ מטוס ממריא, בפנים מלוח מפרידה</l>
+          <l>התזכור את חום גופי בעיר קרה</l>
+          <l>כמו אישה אני שואלת</l>
+          <l>מה פשר הבריחה? ומה איתך?</l>
+          <l>כנורות אני שולפת מתוך שברי שקיעה כתומה</l>
+          <l>נגנו בי נחמה</l>
+          <l>שהעצב יתפזר</l>
+          <l>לא יותר, לא אוותר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך ימי אתמול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

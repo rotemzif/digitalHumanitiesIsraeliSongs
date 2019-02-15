@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה 123</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>יוסי בן דוד</composer>
+        <album>מילים שלא אמרת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה</head>
+        <lg number="1" type="stanza">
+          <l>מספרים שאת נודדת בלי ארץ וגבולות</l>
+          <l>את יופייך את חושפת לכולם,</l>
+          <l>מספרים שאת יודעת לפתות </l>
+          <l>לתת כל מה שיש לך לעולם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואני חולם עלייך ושואל,</l>
+          <l>נו מתי תבואי כבר לעזאזל.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהבה, אל תעזבי אותי לבד</l>
+          <l>גם אני רוצה להיות עם האחת,</l>
+          <l>שתגור אצלי בלב ותגע לי בנשמה</l>
+          <l>להרגיש אותך בכל פעימה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לפעמים נדמה לי שהינה את מופיעה,</l>
+          <l>יש ימים שאת באה עד אלי</l>
+          <l>ונדמה שאת נוגעת בי כמעט,</l>
+          <l>ושוב את נעלמת מעיניי.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואני חולם עלייך ושואל,</l>
+          <l>נו מתי תבואי כבר לעזאזל.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אהבה, אל תעזבי אותי לבד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

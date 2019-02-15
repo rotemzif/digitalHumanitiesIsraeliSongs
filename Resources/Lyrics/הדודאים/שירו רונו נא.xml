@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שירו רונו נא</title>
+        <singer classification="band">הדודאים</singer>
+        <writer>גרשון פלוטקין</writer>
+        <composer>סשה ארגוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שירו רונו נא</head>
+        <lg number="1" type="stanza">
+          <l>קוֹרֵא הַזֶּמֶר לְרִקּוּדֵנוּ </l>
+          <l>זֶמֶר שִׁיר </l>
+          <l>קֶצֶב לַמָּחוֹל </l>
+          <l>שִׁירוּ נָא </l>
+          <l>קוֹרֵא הַזֶּמֶר לְרִקּוּדֵנוּ </l>
+          <l>קֶצֶב לַמָּחוֹל </l>
+          <l>שִׁירוּ נָא </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שִׁיר רֹנּוּ נָא זַמְּרוּ </l>
+          <l>רֹנּוּ נָא וְרִקְדוּ נָא </l>
+          <l>שִׁיר רֹנּוּ נָא זַמְּרוּ </l>
+          <l>רֹנּוּ נָא וְרִקְדוּ </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הָבָה נֵצֵא בַּמָּחוֹל </l>
+          <l>וְיָנוּס אֲזַי כָּל צַעַר </l>
+          <l>רִקּוּדֵנוּ כָּל יָכוֹל </l>
+          <l>חוֹלְלוּ זָקֵן וָנַעַר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שִׁיר רֹנּוּ נָא זַמְּרוּ </l>
+          <l>רֹנּוּ נָא וְרִקְדוּ נָא </l>
+          <l>שִׁיר רֹנּוּ נָא זַמְּרוּ </l>
+          <l>רֹנּוּ נָא וְרִקְדוּ</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נד נד 2</title>
+        <singer classification="male singer">יהודה פוליקר</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נד נד</head>
+        <lg number="1" type="stanza">
+          <l>בכל מקום בו מישהו מעופף</l>
+          <l>מישהו אחר מתכופף</l>
+          <l>בכל מקום בו מישהו צועק</l>
+          <l>מישהו אחר שותק</l>
+          <l>בכל מקום בו מישהו חוגג</l>
+          <l>מישהו אחר בודד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נד נד</l>
+          <l>נד נד</l>
+          <l>רד עלה ורד</l>
+          <l>נד נד</l>
+          <l>נד נד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בכל מקום בו מישהו מרחף</l>
+          <l>מישהו אחר מכייף</l>
+          <l>איך קסמך מתחלף בבוקר ובערב</l>
+          <l>אחפש לי קסם חדש</l>
+          <l>בכל מקום בו מישהו חזק</l>
+          <l>מישהו אחר חלש</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נד נד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בכל מקום בו מישהו אוהב</l>
+          <l>מישהו אחר נבגד</l>
+          <l>בכל מקום בו מישהו מת</l>
+          <l>משהו אחר נולד</l>
+          <l>בכל מקום בו מישהו רץ</l>
+          <l>מישהו אחר עומד</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>נד נד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

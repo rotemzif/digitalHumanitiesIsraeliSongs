@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוקנ רול מציץ בחלון</title>
+        <singer classification="male singer">מיקי גבריאלוב</singer>
+        <writer>מיכל גבריאלוב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוקנ'רול מציץ בחלון</head>
+        <lg number="1" type="stanza">
+          <l>ניסיתי להכיר בחור נגן</l>
+          <l>הייתי פספוס ורציתי לנגן</l>
+          <l>ילד עקשן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לאבא נדנדתי קנה לי גיטרה</l>
+          <l>ענה: לך תעבוד בנגריה</l>
+          <l>חלפה שנה גיטרה לא קנה</l>
+          <l>שיניתי החלטתי נגנתי</l>
+          <l>מהבית הישן ברחתי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רוקנ'רול מציץ בחלון</l>
+          <l>רוקנ"רול מציץ בחלון</l>
+          <l>אני תופס את הגיטרה</l>
+          <l>תופס את הגיטרה</l>
+          <l>רוקנ'רול מציץ בחלון</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז יצחק וחיים בגיטרה מנגנים</l>
+          <l>אני על הבס ועמי בתופים</l>
+          <l>איך אנחנו מנגנים וכולם רוקדים</l>
+          <l>לאבא אמרתי קניתי גיטרה</l>
+          <l>ענה: רק אל תשכח את הנגריה</l>
+          <l>מתי תביא הביתה פרנסה</l>
+          <l>שיניתי החלטתי נגנתי</l>
+          <l>מהבית הישן ברחתי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רוקנ'רול מציץ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

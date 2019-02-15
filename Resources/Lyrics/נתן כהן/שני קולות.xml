@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שני קולות</title>
+        <singer classification="male singer">נתן כהן</singer>
+        <writer>אהוד מנור</writer>
+        <composer>נתן כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שני קולות</head>
+        <lg number="1" type="stanza">
+          <l>במה שונה אדם מאדם</l>
+          <l>מעת שקם ועד שנרדם</l>
+          <l>אדם אוכל פיתו אדם ישן שנתו</l>
+          <l>אדם מונה עיתו ככה לעולם</l>
+          <l>כל בני אדם שונים זה מזה</l>
+          <l>בנעימה בקול במראה</l>
+          <l>מראה עיני כוזב לנעימה הקשב</l>
+          <l>קולי מוצא ללב הוא לא מתחזה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שני קולות עולים ושואלים לב אל לב</l>
+          <l>שני קולות גולים מייחלים עד כאב</l>
+          <l>את קולך השמיעי את קולך השמיע</l>
+          <l>שני קולות רוצים להשתלב</l>
+          <l>שני קולות שאת דרכם עכשיו מבקשים</l>
+          <l>שני קולות אשר לעד אינם מתעקשים</l>
+          <l>את קולך השמיעי את קולך השמיע</l>
+          <l>שני קולות בסוף הם נפגשים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני נושא קולי בשירי</l>
+          <l>נותן את כל כולי בלי שיירים</l>
+          <l>הביטי בעיני הביטי בפני</l>
+          <l>חייך וחיי יחד נקשרים</l>
+          <l>במה שונה אדם מאדם</l>
+          <l>מעת שקם ועד שנרדם</l>
+          <l>אדם אוכל פיתו אדם ישן שנתו</l>
+          <l>אדם מונה עיתו ככה לעולם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שני קולות עולים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

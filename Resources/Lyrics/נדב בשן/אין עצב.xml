@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין עצב</title>
+        <singer classification="unknown">נדב בשן</singer>
+        <writer>נדב בשן</writer>
+        <composer>נדב בשן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין עצב</head>
+        <lg number="1" type="stanza">
+          <l>אין עצב שדומה לקודמו </l>
+          <l>איך האדם חי עם עצמו </l>
+          <l>דממה בחוץ, אך הרעש לא פוסק </l>
+          <l>כי בראשנו ממשיך הוא להדהד </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל כך רצית, היכן טעית </l>
+          <l>קובר חלומות בחול </l>
+          <l>לומד לשכחו, ממשיך בכוח </l>
+          <l>נשבע שוב לא תיפול </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין עצב שדומה לקודמו </l>
+          <l>אדם לאדם זאב לעצמו </l>
+          <l>דממה בחוץ, אך הרעש לא פוסק </l>
+          <l>כי בראשנו ממשיך הוא להדהד </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל כך רצית...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

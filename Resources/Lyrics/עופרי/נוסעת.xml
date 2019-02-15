@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נוסעת 10</title>
+        <singer classification="unknown">עופרי 8</singer>
+        <writer>עופרי</writer>
+        <composer>עופרי</composer>
+        <album>אל תאמר מילה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נוסעת</head>
+        <lg number="1" type="stanza">
+          <l>אני נוסעת למקום אחר</l>
+          <l>אני רואה איך שהכול מתבהר</l>
+          <l>אני לוקחת את התיק הירוק</l>
+          <l>ומרגישה איך שהכול יותר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הלוואי ויכולתי</l>
+          <l>כך להישאר</l>
+          <l>הענן מחייך לי</l>
+          <l>עוד מעט הכול ייגמר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עלי שלכת זהובים יפים</l>
+          <l>לו רק יכולתם קצת להישאר</l>
+          <l>ולכסות את הרחוב שלי</l>
+          <l>וכך ארגיש איך שהכול יותר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הלוואי ויכולתי כך לחיות</l>
+          <l>בין סתיו לסתיו</l>
+          <l>הענן מחייך לי</l>
+          <l>עוד מעט הכול ייגמר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הלוואי ויכולתי כך לחיות</l>
+          <l>בין סתיו לסתיו</l>
+          <l>הענן מחייך לי</l>
+          <l>עוד מעט הכול ייגמר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

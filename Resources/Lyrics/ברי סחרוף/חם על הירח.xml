@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חם על הירח</title>
+        <singer classification="male singer">ברי סחרוף</singer>
+        <writer>ברי סחרוף</writer>
+        <composer>ברי סחרוף</composer>
+        <album>חם על הירח</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חם על הירח</head>
+        <lg number="1" type="stanza">
+          <l>חם על הירח אפשר להפסיק לשתוק</l>
+          <l>אולי נבנה ביחד בית ספר לחלומות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ויהיה, יהיה לנו טוב</l>
+          <l>כשיהיה חם על הירח</l>
+          <l>יהיה, יהיה לנו טוב</l>
+          <l>לא נוכל להפסיק לאהוב</l>
+          <l>כן יהיה לנו טוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חם על הירח אפשר להסיר ספקות</l>
+          <l>עכשיו נפתח ביחד בית ספר לחלומות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ויהיה, יהיה לנו טוב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בשמיים זרקורים</l>
+          <l>בעיניים פרפרים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ויהיה, יהיה לנו טוב...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>חם, חם</l>
+          <l>חם על הירח</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

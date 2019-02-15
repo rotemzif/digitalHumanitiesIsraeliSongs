@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תמונות חייה</title>
+        <singer classification="male singer">מיקי גבריאלוב</singer>
+        <writer>מיקי גבריאלוב</writer>
+        <composer>מיקי גבריאלוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תמונות חייה</head>
+        <lg number="1" type="stanza">
+          <l>כל התמונות תלויות כאן בחדר שלך</l>
+          <l>מציירות לי פנים ושמיים</l>
+          <l>ספרו לי סיפור על פרח שעף אל פרפר</l>
+          <l>ובידייך תפרת לו כנפיים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הוא עף לשמיים פרש לו כנפיים</l>
+          <l>ומלאכים שם נושקים לעיניים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בשבילך אני חי בשבילך כל ימי</l>
+          <l>שום חלום ממני אותך לא יקח</l>
+          <l>בלעדייך אינני והאור כבה לי</l>
+          <l>בשבילך אני חי כל ימי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בוקר עולה יצאת אל הדרך שלך</l>
+          <l>לא ידעת מה מחכה לך</l>
+          <l>איפרת את עינייך האדמת את שפתייך</l>
+          <l>ולא חלמת שיקחו את חייך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בשבילך אני חיי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

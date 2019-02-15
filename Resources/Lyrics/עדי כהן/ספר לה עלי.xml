@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ספר לה עלי</title>
+        <singer classification="unknown">עדי כהן</singer>
+        <writer>ברק פלדמן</writer>
+        <composer>תמיר חיטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ספר לה עלי</head>
+        <lg number="1" type="stanza">
+          <l>ספר לי עליה, ספר לי מעט</l>
+          <l>החיוך בעיניה, המבט</l>
+          <l>איך היית יודע מתי היא שמחה</l>
+          <l>מתי היא אוהבת, היא אוהבת אותך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואולי פשוט תספר לה עלי</l>
+          <l>פשוט תספר לה עלי</l>
+          <l>אז אולי פשוט תספר לה עלי</l>
+          <l>תספר לה עלי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ספר לי עליה, ספר אל תלחש</l>
+          <l>המגע של ידיה, איך הוא חש</l>
+          <l>איך היית יודע מתי היא נוחה</l>
+          <l>ומתי היא חושדת, היא חושדת בך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואולי פשוט תספר לה עלי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ספר לי עליה, אל תסתיר</l>
+          <l>הלחש מפיה מה הסגיר</l>
+          <l>איך היית שומע מתי היא בוכה</l>
+          <l>וכלום לא הפריע לך.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואולי פשוט תספר לה עלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

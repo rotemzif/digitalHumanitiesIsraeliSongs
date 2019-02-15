@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לאלף אותך</title>
+        <singer classification="male singer">ירמי קפלן</singer>
+        <writer>ירמי קפלן</writer>
+        <composer>ירמי קפלן</composer>
+        <album>לרע ולטוב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לאלף אותך</head>
+        <lg number="1" type="stanza">
+          <l>כל אחד פתאום נהיה רודן קטן</l>
+          <l>תמיד יש שוט ומלחציים בסביבה</l>
+          <l>אומרים את החוקים עכשיו אני אקבע</l>
+          <l>תתחיל למחוק את החיוך שלך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>צריך לאלף אותך</l>
+          <l>צריך לאלף אותך</l>
+          <l>צריך לאלף אותך</l>
+          <l>שתרגע</l>
+          <l>צריך לאלף אותך</l>
+          <l>צריך לאלף אותך</l>
+          <l>צריך לאלף אותך</l>
+          <l>שתרגע גע גע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בהתחלה קשה לשבור הרגל ישן</l>
+          <l>בסוף אתה תקפוץ לפי פקודה הא הא הא</l>
+          <l>בוא תראה את החיוך עכשיו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>צריך לאלף אותך...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>צריך לאשפז אותך</l>
+          <l>שתרגע</l>
+          <l>צריך לאלף אותך</l>
+          <l>צריך לאשפז אותך</l>
+          <l>צריך לאלף אותך</l>
+          <l>שתרגע</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

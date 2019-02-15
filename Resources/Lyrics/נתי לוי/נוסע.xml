@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נוסע 22</title>
+        <singer classification="male singer">נתי לוי</singer>
+        <writer>אלונה בן עמי</writer>
+        <composer>נתי לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נוסע</head>
+        <lg number="1" type="stanza">
+          <l>אל תשכחי כשאת חוזרת</l>
+          <l>השארתי פתק על הדלת</l>
+          <l>הבדלים במאפרה</l>
+          <l>והספר במגירה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל תשכחי כוסית של יין</l>
+          <l>בשבת בצהריים</l>
+          <l>בשישי תזמיני זר</l>
+          <l>כי אין עוד דרך לכפר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כי נסעתי, ואין דרך חזרה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נוסע לחפש את האישה שאהבתי</l>
+          <l>כשהיינו צעירים</l>
+          <l>אנסה ללדת אותך שוב בלי צירים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אל תשכחי כשאת חוזרת</l>
+          <l>שאת העבר את מיותרת</l>
+          <l>המילים מיותמות</l>
+          <l>הכאב בנה חומות</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כי נסעתי, ואין דרך חזרה</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>נוסע לחפש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

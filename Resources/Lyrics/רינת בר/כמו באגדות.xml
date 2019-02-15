@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו באגדות 4</title>
+        <singer classification="female singer">רינת בר</singer>
+        <writer>אבי ביטר</writer>
+        <composer>רינת בר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו באגדות</head>
+        <lg number="1" type="stanza">
+          <l>כמו באגדות</l>
+          <l>שרה ברחובות</l>
+          <l>אני הנסיכה של הרחובות</l>
+          <l>אוהבת מנגינות</l>
+          <l>אוהבת לבלות</l>
+          <l>אני הנסיכה של הלילות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עם טרבוקה ועם מקדמה</l>
+          <l>שרה רק שירים עם נשמה</l>
+          <l>נסיכה אני על הבמה</l>
+          <l>הנסיכה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שרה שיר מתוך הנשמה</l>
+          <l>שרה שיר כמו באגדה</l>
+          <l>זה כואב אבל זה לא נורא</l>
+          <l>לא נורא</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מטיילת ברחובות</l>
+          <l>בתוך הסימטאות</l>
+          <l>אני כמו נסיכה באגדות</l>
+          <l>חולמת חלומות</l>
+          <l>כמו באגדות</l>
+          <l>שרואה נסיך של הלילות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עם טרבוקה ועם מקדמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

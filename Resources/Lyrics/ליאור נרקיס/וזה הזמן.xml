@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>וזה הזמן</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>ליאור נרקיס</composer>
+        <album>מילים שלא אמרת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>וזה הזמן</head>
+        <lg number="1" type="stanza">
+          <l>וזה הזמן שלי ושלך</l>
+          <l>את יופייך אלי אני נושם.</l>
+          <l>אני רוצה להיות רק איתך - יפה שלי</l>
+          <l>רק שנינו בחלום שהתגשם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>להמריא איתך רחוק מכאן, מעבר לים</l>
+          <l>ולומר לך לפני כל העולם...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היי לי לנצח, אני שלך לעולם</l>
+          <l>במגע שלך את מחיה אותי.</l>
+          <l>היי לי לנצח, אדמה ושמיים</l>
+          <l>מעכשיו ועד הסוף את החיים שלי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>וזה הזמן, שלי ושלך</l>
+          <l>לב אוהב ניצב מולך חשוף.</l>
+          <l>הוא מבקש לקחת אותך - לאהבה,</l>
+          <l>לפרוש איתך כנפיים ולעוף.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>להמריא איתך רחוק מכאן, מעבר לים</l>
+          <l>ולומר לך לפני כל העולם...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>היי לי לנצח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

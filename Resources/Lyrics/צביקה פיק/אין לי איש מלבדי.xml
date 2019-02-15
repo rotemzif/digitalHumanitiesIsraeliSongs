@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין לי איש מלבדי</title>
+        <singer classification="male singer">צביקה פיק</singer>
+        <writer>שמואל קרול</writer>
+        <composer>missing</composer>
+        <album>המראה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין לי איש מלבדי</head>
+        <lg number="1" type="stanza">
+          <l>תנו לי עוד דקה לחשוב</l>
+          <l>לשבת להביט</l>
+          <l>שוב להתבונן קרוב</l>
+          <l>בשקט להחליט</l>
+          <l>ריח הורדים חודר</l>
+          <l>אל תוך ההיסוסים</l>
+          <l>צבע עננים קודר</l>
+          <l>מבעד לתריסים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם אין אני לי מי</l>
+          <l>וכשאני עצמי</l>
+          <l>אין לי אלא חלומי</l>
+          <l>אין לי איש מלבדי</l>
+          <l>אם לא עכשיו מתי?</l>
+          <l>מחר כבר לא כדאי</l>
+          <l>מאוחר יהיה מידי</l>
+          <l>לכן היום ודי די די....</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תנו לי עוד חלום אחד</l>
+          <l>ירח צבעוני</l>
+          <l>תנו עכשיו להיות לבד</l>
+          <l>ורק להיות אני</l>
+          <l>בדממת הדימדומים</l>
+          <l>נוצצת הדמעה</l>
+          <l>משקרים גם הימים</l>
+          <l>גם ברגעי שקיעה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם אין אני לי מי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

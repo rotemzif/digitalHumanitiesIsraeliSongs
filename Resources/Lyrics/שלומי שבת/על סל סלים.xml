@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>על סל סלים</title>
+        <singer classification="male singer">שלומי שבת</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>להיטי זהב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>על סל סלים</head>
+        <lg number="1" type="stanza">
+          <l>את היית לי סמדר, את היית לי אור נוגה</l>
+          <l>את היית לי התמר, את היית לי השונה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את היית לי בתחילה, את היית לי בכאב</l>
+          <l>את היית בכל מילה, את היית לי קור בלב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בקולי אצא, בשיר למדבר</l>
+          <l>אחצה ימים, אלך בניכר</l>
+          <l>אמלא כַּדִּי במים זכים</l>
+          <l>להרוות צמאונך, אלף כדים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>על סלסלים, על סלסלים, על</l>
+          <l>על סלסלים, על סלסלה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>על סלסלים, על סלסלים, על</l>
+          <l>על סלסלים, על סלסלה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>את היית לי פרי בשל, את היית לי פרח רענן</l>
+          <l>את היית לי חום בליל, את היית לי כל הזמן</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>את היית לי אור נוגה, את היית לי ריח סמדר</l>
+          <l>את היית לי השונה, את היית לי התמר</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>בקולי אצא...</l>
+        </lg>
+        <lg number="9" type="stanza">
+          <l>על סלסלים...</l>
+        </lg>
+        <lg Chorus="yes" number="10" type="stanza">
+          <l>בקולי אצא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

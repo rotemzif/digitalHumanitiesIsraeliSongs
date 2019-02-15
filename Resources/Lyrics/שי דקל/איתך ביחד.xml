@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איתך ביחד</title>
+        <singer classification="unknown">שי דקל</singer>
+        <writer>שי דקל</writer>
+        <composer>שי דקל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איתך ביחד</head>
+        <lg number="1" type="stanza">
+          <l>כבר ירד הערב</l>
+          <l>עוד יום חולף אורות בעיר</l>
+          <l>נוסע במכונית בדרך</l>
+          <l>פותח חלון נושם אוויר</l>
+          <l>אני חוזר אלייך את מחכה</l>
+          <l>עם חיוך בפנים</l>
+          <l>חיבוק בשתי ידיים</l>
+          <l>ושוב עולים הריגושים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רוח חמה על פני</l>
+          <l>שוכב ורואה אותך</l>
+          <l>את נעמדת</l>
+          <l>ומראה שופע מתוך עיני</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איתך ביחד זה סיפור ידוע</l>
+          <l>את הטעם של החיים</l>
+          <l>אני כמו ילד חושב שיודע</l>
+          <l>הלב לא נותן הסברים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עד מדברים על אהבה</l>
+          <l>זה זמן שנמשך </l>
+          <l>אחר כך מבינים</l>
+          <l>מוסיף כל פעם מחדש</l>
+          <l>עוד גחלים והם שוב לוהטים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רוח חמה על פני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

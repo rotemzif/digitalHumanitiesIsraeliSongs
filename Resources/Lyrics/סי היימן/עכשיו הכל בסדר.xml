@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עכשיו הכל בסדר 2</title>
+        <singer classification="female singer">סי היימן</singer>
+        <writer>סי היימן</writer>
+        <composer>נחצ'ה היימן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עכשיו הכל בסדר</head>
+        <lg number="1" type="stanza">
+          <l>עכשיו הכל בסדר,</l>
+          <l>הימים הרעים עברו.</l>
+          <l>אז כמו שאומרים - </l>
+          <l>אין כאב שהזמן והחיים</l>
+          <l>לא ירפאו.</l>
+          <l>אין כאב שהזמן והחיים</l>
+          <l>לא ירפאו.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כששאלת אותי, שאלת אותי,</l>
+          <l>מה עוד את מבקשת?</l>
+          <l>עניתי לך שאני עוד רוצה קצת לנוח</l>
+          <l>לשים זכרונות של כאב מאחור</l>
+          <l>ולשכוח ולשוב לשוב לפרוח, לפרוח.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכשיו, הכל בסדר,</l>
+          <l>ואני רק רוצה שתדע</l>
+          <l>אחרי שנגמר לי נותר רק חלום</l>
+          <l>של זכרונות ושל סליחה</l>
+          <l>ומעבר לזמן גם ימים של שיכחה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כששאלת אותי, שאלת אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

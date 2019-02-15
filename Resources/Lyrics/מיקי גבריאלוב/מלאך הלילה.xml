@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלאך הלילה</title>
+        <singer classification="male singer">מיקי גבריאלוב</singer>
+        <writer>רוני סומק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלאך הלילה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>הו מלאך הלילה שתמיד שומר עלי</l>
+          <l>אל תסתיר פניך בצעיף חלום</l>
+          <l>אבא שם שותה מחבק בקבוק</l>
+          <l>הוא קופא מקור ואין לאן לחזור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הו מלאך הלילה שתמיד שומר עלי</l>
+          <l>אל תסתיר פניך בצעיף חלום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אמא מחייכת על הקיר מן התמונה</l>
+          <l>בתהום עיניה שוב הטבעתי עוד דמעה</l>
+          <l>בוא אלי הלילה פרוש עלי כנף</l>
+          <l>וקולה של אמא שוב יגן עלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הו מלאך הלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

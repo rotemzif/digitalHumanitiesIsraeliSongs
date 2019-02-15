@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהובת לבבי</title>
+        <singer classification="male singer">דקלון</singer>
+        <writer>שלמה מחדון</writer>
+        <composer>שלמה מחדון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהובת לבבי</head>
+        <lg number="1" type="stanza">
+          <l>אהובת לבבי, היפה בנשים</l>
+          <l>ליבי לך נתתי איילת אהבים</l>
+          <l>אהבות לבבי, את לי כחלום</l>
+          <l>אם אינך יודעת אומר לך זאת היום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קומי התעוררי העלי חיוכך</l>
+          <l>אם לאן תשאלי אל יחת לבבך</l>
+          <l>בין עצי התפוח בליל ירח מלא</l>
+          <l>יחד נצאה לשוח אז לך אגלה</l>
+          <l>יחד נצאה לשוח אז לך אגלה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהובת לבבי, ראי הכוכבים</l>
+          <l>אותם לך נתתי איילת אהבים</l>
+          <l>ער אני בלילות לבבי איתך</l>
+          <l>בחוץ נמות היונים יונתי רב לך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קומי התעוררי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

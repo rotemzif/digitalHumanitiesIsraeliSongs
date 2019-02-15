@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אוהב ואוהב</title>
+        <singer classification="unknown">שר אל</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>צ'ולי זכאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אוהב ואוהב</head>
+        <lg number="1" type="stanza">
+          <l>אילו יכולתי לומר במילים לספר לך</l>
+          <l>כזאת אהבה המילים לא יודעות לתאר</l>
+          <l>גם אם אהיה משורר לא אוכל לתאר לך</l>
+          <l>כי את בשבילי העולם ואפילו יותר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא ידעתי כמוך מבינה ואוהבת</l>
+          <l>נותנת לי כוח לחיות את המחר</l>
+          <l>ברגעים שנפשי עייפה וכואבת</l>
+          <l>רק את יכולה להמתיק את המר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אותך שאהבתי אוהב ואוהב עד הנצח</l>
+          <l>אפילו אי שם בנימים הקטנים של הלב</l>
+          <l>בשדה הקוצים של חיי היית לי כפרח</l>
+          <l>היית המלאך שתמיד לצידי מרחף</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא ידעתי כמוך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

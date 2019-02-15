@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש מקום בלב</title>
+        <singer classification="unknown">רביד גואטה</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש מקום בלב</head>
+        <lg number="1" type="stanza">
+          <l>יש מקום בלב ילדונת לאהבה אחת </l>
+          <l>בואי נברח מכאן קטנטונת </l>
+          <l>בואי נברח אני ואת</l>
+          <l>חבקי אותי חבקי חזק</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עוד דקה אחת ילדה יעלה הבוקר</l>
+          <l>ומהשמים ייעלמו הכוכבים </l>
+          <l>עוד דקה אחת יפה עוד דקה של אושר</l>
+          <l>בואי נברח מהעולם ונעלם מה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל העיר עכשיו חולמת </l>
+          <l>העולם כולו שלך</l>
+          <l>בלי לחשוב על כולם צחקנו</l>
+          <l>שיכורים מאהבה חבקי אותי חבקי ילדה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עוד דקה אחת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

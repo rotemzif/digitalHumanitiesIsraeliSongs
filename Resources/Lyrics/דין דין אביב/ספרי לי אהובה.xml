@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ספרי לי אהובה</title>
+        <singer classification="female singer">דין דין אביב</singer>
+        <writer>אלון יופה</writer>
+        <composer>הדר גלרון</composer>
+        <album>חופשיה בין עולמות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ספרי לי אהובה</head>
+        <lg number="1" type="stanza">
+          <l>ספרי לי אהובה יפת עיניים</l>
+          <l>מה רוצה ליבך</l>
+          <l>הגידי לי ילדה יפת חלומי</l>
+          <l>איך אעיר יומך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יום ועוד לילה ויום</l>
+          <l>אני ערה וליבי ישן</l>
+          <l>כל מי שהייתי אינה</l>
+          <l>מכל מה שהיה נדמה</l>
+          <l>שרק אתה איתי</l>
+          <l>מנגן ליבי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את שאהבה נפשך</l>
+          <l>בכל העיר חיפשתי</l>
+          <l>גן נעול הינך</l>
+          <l>פתחי לי אהובה רכת עיניים</l>
+          <l>פתחי לי את דלתך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יום ועוד לילה ויום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהובי 7</title>
+        <singer classification="unknown">סער ליבן</singer>
+        <writer>סער ליבן</writer>
+        <composer>סער ליבן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהובי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>איך הבוקר עולה עכשיו </l>
+          <l>תסתכל עליו הוא זורח </l>
+          <l>איך אני מלחינה לך </l>
+          <l>מנגינה יפה, תנצח </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל תעצור עכשיו </l>
+          <l>אל תגיד דבר לא בכוח </l>
+          <l>ותעשה לי שיהיה לי </l>
+          <l>ואני אקרא לך - אהובי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך הלילה יוצא מכאן </l>
+          <l>לא במכוון הוא פוגע </l>
+          <l>ואתה לא אוהב אותי כן אוהב אותי משתגע </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל תעצור עכשיו... </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>איך הבוקר עולה עכשיו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

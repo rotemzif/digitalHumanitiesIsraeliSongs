@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ועוד לא אמרתי הכל</title>
+        <singer classification="male singer">חנן יובל</singer>
+        <writer>נתן זך</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ועוד לא אמרתי הכל</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>ועוד לא אמרתי הכל</l>
+          <l>ועוד יש לי מה לומר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לפני שיהיה מאוחר</l>
+          <l>והקהל יתפזר</l>
+          <l>וכל אחד יהיה זוכר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה שכל אחד זוכר</l>
+          <l>כשאחרים כילו לומר</l>
+          <l>מה שאמרו</l>
+          <l>ומה שלא אמרו.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ועוד לא אמרתי הכל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

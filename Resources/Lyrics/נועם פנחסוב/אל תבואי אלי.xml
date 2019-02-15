@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תבואי אלי</title>
+        <singer classification="unknown">נועם פנחסוב</singer>
+        <writer>נועם פנחסוב</writer>
+        <composer>נועם פנחסוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תבואי אלי</head>
+        <lg number="1" type="stanza">
+          <l>אל תבואי אלי להיפרד</l>
+          <l>כתבי לי מכתב ונתמודד</l>
+          <l>אל תכריחי אותי להתחבק</l>
+          <l>שלחי לי נשיקה ונסתובב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך היום שלי ברגע משתנה</l>
+          <l>תסתלקי אני רוצה כבר</l>
+          <l>להרגיש את זה קורה...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תרימי צלצול להיזכר</l>
+          <l>שלחי לי גלויה ונתגבר</l>
+          <l>תביטי על גברים ותחייכי</l>
+          <l>ספרי שהיה לך טוב איתי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך היום שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

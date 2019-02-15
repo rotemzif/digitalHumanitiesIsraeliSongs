@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בדירה ממול</title>
+        <singer classification="unknown">לאה זלוטניק</singer>
+        <writer>לאה זלוטניק</writer>
+        <composer>לאה זלוטניק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בדירה ממול</head>
+        <lg number="1" type="stanza">
+          <l>בדירה ממול</l>
+          <l>צללית של גבר בחלון</l>
+          <l>דמות מוכרת... רחוקה</l>
+          <l>ואני בוהה</l>
+          <l>מטה גופי קלות</l>
+          <l>מתבוננת... רכונה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לו רק פתח את חלונו</l>
+          <l>הזיהוי היה קרוב</l>
+          <l>לו רק הושיט את ידו</l>
+          <l>הסימון היה חשוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בדירה ממול</l>
+          <l>פתאום כבה האור</l>
+          <l>מתעוררת... מהשחור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זו אני ממול</l>
+          <l>מחייה את המחר</l>
+          <l>משתוקקת... לתגובה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לו רק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

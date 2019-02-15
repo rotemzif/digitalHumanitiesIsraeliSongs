@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלא ידוע</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>שמואל אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלא ידוע</head>
+        <lg number="1" type="stanza">
+          <l>עבר שבוע ועוד שבוע,</l>
+          <l>והלב שלי אומר,</l>
+          <l>תהיה חזק אל תוותר,</l>
+          <l>עבר שבוע גם שבועיים,</l>
+          <l>בגללך גם רבתי עם חבר,</l>
+          <l>הלא ידוע הכי גרוע,</l>
+          <l>אני הולך לעבודה ואת במחשבות שלי,</l>
+          <l>עכשיו גילתי שלא טעיתי,</l>
+          <l>אני מכור אלייך נשמה שלי,</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא הבנתי מה קורה לי לא הבנתי את עצמי,</l>
+          <l>חיכיתי לך בבית ואת נעלמת לי,</l>
+          <l>דעי לך שאותי זה משגע,</l>
+          <l>מה קורה לי לי אני כבר לא יודע.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פרחים שלחתי ולא שכחתי,</l>
+          <l>לספר לך במכתב אשאני בך מאוהב,</l>
+          <l>אני יודע אני שומע,</l>
+          <l>את כל הסיפורים שמספרים עלי,</l>
+          <l>ביום בלילה בצהריים,</l>
+          <l>שתיתי מים לצנן מעט את כל הרגשות,</l>
+          <l>זה לא עזר לי וזה מוזר לי,</l>
+          <l>אני לא יודע מה אפשר עוד לעשות.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא הבנתי מה קורה לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תיגרר</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>רן שריג</writer>
+        <composer>ישראל ברייט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תיגרר</head>
+        <lg number="1" type="stanza">
+          <l>בכל יום ישנו מצב שאני בתוך שדה קרב </l>
+          <l>ונותרת הבחירה בין הטוב ובין הרע </l>
+          <l>הם חושבים שזה מצחיק והלב אומר מספיק </l>
+          <l>שימי גבול, תהיי כנה, לא לכל את מוכנה. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תישבר, אל תיגרר, תשמור על עצמך </l>
+          <l>והכל יסתדר ותעמוד על שלך ואל תוותר </l>
+          <l>אם הוא לוחץ אותך אז הוא לא חבר </l>
+          <l>אל תישברי, אל תיגררי, תהיי מי שאת </l>
+          <l>ותמיד תסתדרי, תהיי חזקה ועמדי על שלך </l>
+          <l>בסוף כולם עוד ילכו איתך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שניים שניים חברים, משלושה זה חבורה </l>
+          <l>לפעמים כוח זה טוב, לפעמים כוח זה רע </l>
+          <l>אל תדאג ואל תפחד, לא תהיה בסוף לבד </l>
+          <l>רק תקשיב ללב שלך, עוד כולם ילכו איתך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תישבר, אל תיגרר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

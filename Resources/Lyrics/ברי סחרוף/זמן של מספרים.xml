@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זמן של מספרים</title>
+        <singer classification="male singer">ברי סחרוף</singer>
+        <writer>ברי סחרוף</writer>
+        <composer>missing</composer>
+        <album>אתה נמצא כאן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זמן של מספרים</head>
+        <lg number="1" type="stanza">
+          <l>את יודעת אני לא שומע כבר מילים </l>
+          <l>עכשיו זה זמן של מספרים </l>
+          <l>אז כמה זה עולה להשאר תמים </l>
+          <l>ואיך קשה לקנות קצת נחת </l>
+          <l>לא אני לא יכול לנדוד יותר </l>
+          <l>בחוץ רק בחוץ </l>
+          <l>תמיד הכל חוזר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה עשו לשיר שלנו מה מה </l>
+          <l>מה הטוב ומה נעים </l>
+          <l>מה הטוב ומה נעים </l>
+          <l>השיר של החיים שלנו מה מה </l>
+          <l>מה הטוב ומה נעים </l>
+          <l>מה הטוב ומה נעים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את יודעת אני לא רואה יותר פנים </l>
+          <l>עכשיו זה זמן של מספרים </l>
+          <l>אז כמה זה פשוט לשבת עם אחים </l>
+          <l>ליד שולחן ערוך ביחד </l>
+          <l>לא אני לא יכול לנדוד יותר </l>
+          <l>בחוץ רק בחוץ </l>
+          <l>תמיד הכל חוזר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה עשו לשיר שלנו מה מה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

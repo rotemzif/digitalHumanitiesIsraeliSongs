@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בתוך נפשי</title>
+        <singer classification="male singer">מורן גמליאל</singer>
+        <writer>מורן גמליאל</writer>
+        <composer>דוד אפשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בתוך נפשי</head>
+        <lg number="1" type="stanza">
+          <l>בימים טובים יותר סיפרתי לך הכל</l>
+          <l>חלמנו כמה העולם גדול</l>
+          <l>זכרונות מאושרים ראינו מסביב</l>
+          <l>בין בתים גדולים בתל אביב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לי נראה שיש עשן ואש בתוך מוחי</l>
+          <l>חיוורון חוזר שב לבקר בתוך נפשי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא עצרנו להביט לאן כולם הולכים</l>
+          <l>וכמה הדברים מסובכים</l>
+          <l>ולבסוף כשלא נותר במה להאמין</l>
+          <l>ברחתי לחפש ולהבין</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לי נראה שיש עשן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

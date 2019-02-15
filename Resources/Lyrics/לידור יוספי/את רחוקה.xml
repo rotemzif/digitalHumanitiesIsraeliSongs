@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את רחוקה 3</title>
+        <singer classification="male singer">לידור יוספי</singer>
+        <writer>אופיר כהן</writer>
+        <composer>לידור יוספי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את רחוקה</head>
+        <lg number="1" type="stanza">
+          <l>בוקר חדש עולה על ביתי </l>
+          <l>ויכוח קטן ואת לא איתי </l>
+          <l>הן רק אתמול צחקנו יחדיו</l>
+          <l>איך אתמודד לבדי כאן עכשיו</l>
+          <l>את השנים הישארת מאחור</l>
+          <l>את הלילות מול ירח אזכור </l>
+          <l>לך אחכה אם תחליטי לחזור </l>
+          <l>שובי אליי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין לי יום אין לי ליל </l>
+          <l>את רחוקה ואני מיתפלל</l>
+          <l>שתחזרי ונישכח את הכל </l>
+          <l>לחיות בלעדייך לא יכול </l>
+          <l>אין לי יום אין לי ליל </l>
+          <l>את רחוקה ואני מיתפלל </l>
+          <l>שתחזרי כי בוכה לו הלב </l>
+          <l>אל תשכחי אני אוהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה ימים וכמה לילות </l>
+          <l>עוד אחכה את פנייך ליראות</l>
+          <l>השיר שאהבנו עכשיו מיתנגן</l>
+          <l>ניזכר ביופייך בתמונות מיתבונן </l>
+          <l>מים רבים וים של דמעות </l>
+          <l>את אהבתי לא יוכלו לכבות</l>
+          <l>את נצורה בליבי לעולם </l>
+          <l>שובי אליי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין לי יום אין לי ליל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

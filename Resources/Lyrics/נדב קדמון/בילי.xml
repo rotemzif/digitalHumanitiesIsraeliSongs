@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בילי 2</title>
+        <singer classification="unknown">נדב קדמון</singer>
+        <writer>גיא עמיר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בילי</head>
+        <lg number="1" type="stanza">
+          <l>אמצע הקיץ יום חם בהיר </l>
+          <l>הולך לי ברחוב ובוהה באויר </l>
+          <l>פתאום היא הופיעה שיער אדמוני </l>
+          <l>עיניים גדולות וחיוך חולמני </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מאיפה הגעת בילי </l>
+          <l>את לא כמו כולם בילי </l>
+          <l>אולי מכוכב אחר </l>
+          <l>אולי מסוף העולם </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בילי רואה מה קורה לי בפנים </l>
+          <l>כשכולם רואים רק חיוך על הפנים </l>
+          <l>בילי קולטת כי בילי שונה </l>
+          <l>העיניים של בילי מסתכלות לי לנשמה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מאיפה הגעת בילי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

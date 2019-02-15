@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Just Do It</title>
+        <singer classification="unknown">יונתן שיינפלד</singer>
+        <writer>אלי קליין</writer>
+        <composer>איצי ברי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Just Do It</head>
+        <lg number="1" type="stanza">
+          <l>אם בבוקר אתה קם ולא רואה כבר את האור</l>
+          <l>מתלבט ומסתפק ולא יודע מה לבחור</l>
+          <l>תנסה לזוז קדימה כמה שאתה יכול</l>
+          <l>אל תוותר כל כך מהר רק תתחיל היום גדול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>Just do it, Just do it</l>
+          <l>no no dont be afraid</l>
+          <l>Just do it, Just do it</l>
+          <l>Hashem is at your side</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>Just do it, Just do it</l>
+          <l>no no dont hesitate</l>
+          <l>Just do it, Just do it</l>
+          <l>לא לא אל תפחד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>גם אם כבר ניסית ורצית ואמרת כל</l>
+          <l>מה שיש לך בלב ולא נותן לך לישון</l>
+          <l>אל תפסיק להתעקש ולבקש תדע שיש</l>
+          <l>מישהו ששומר עליך לא לא לא אל תתיאש</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>Just do it...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

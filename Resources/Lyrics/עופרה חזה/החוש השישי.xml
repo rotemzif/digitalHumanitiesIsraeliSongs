@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>החוש השישי</title>
+        <singer classification="unknown">עופרה חזה</singer>
+        <writer>בצלאל אלוני</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>החוש השישי</head>
+        <lg number="1" type="stanza">
+          <l>החלומות הם</l>
+          <l>מילים של</l>
+          <l>הנשמה</l>
+          <l>כל הכאב</l>
+          <l>כאב הלב...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>all of my life i wander</l>
+          <l>all of my life i wander</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וחלומות הם</l>
+          <l>שפה של האלוהים</l>
+          <l>וחלומות</l>
+          <l>שפה של</l>
+          <l>סתרים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>all of my life i wander</l>
+          <l>all of my life i wander</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

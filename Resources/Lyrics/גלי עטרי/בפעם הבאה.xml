@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בפעם הבאה</title>
+        <singer classification="female singer">גלי עטרי</singer>
+        <writer>מיקי אפריים</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בפעם הבאה</head>
+        <lg number="1" type="stanza">
+          <l>בפעם הבאה כשתראנו יחדיו</l>
+          <l>עשה נא שאמצא חן בעיניו</l>
+          <l>שלא ארבה ללהג, שאדע להתנהג</l>
+          <l>שאהיה מעודנת ומאוד מיוחדת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וכאשר הוא יופיע בפעם הבאה</l>
+          <l>עשה נא, אלי, שאהיה כה נאה</l>
+          <l>מאוד חכמה, חיננית ומקסימה</l>
+          <l>עם שתי גומות וחיוך, כזאתי בדיוק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ובפעם הבאה אבקש אלוהי</l>
+          <l>עשה שגם הוא ישא חן מלפני</l>
+          <l>ואם תעתר לבקשתי במלואה</l>
+          <l>עשה גם שתהיה הפעם הבאה</l>
+          <l>עשה גם שתהיה הפעם הבאה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וכאשר הוא יופיע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

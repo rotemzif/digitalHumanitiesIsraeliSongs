@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואי אלי 16</title>
+        <singer classification="female singer">מרגלית צנעני</singer>
+        <writer>סגיב כהן</writer>
+        <composer>סגיב כהן</composer>
+        <album>דווקא היום</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואי אלי</head>
+        <lg number="1" type="stanza">
+          <l>חשבתי שתהיה איתי קרוב</l>
+          <l>חשבתי שירדו המסכות</l>
+          <l>שחררתי את הלב והדמעות </l>
+          <l>גם הם לא שחקו את החומות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בוא אלי איך שתבוא אלי</l>
+          <l>אם זורח אם סגריר יומך</l>
+          <l>בוא אלי איך שתבוא אלי</l>
+          <l>מה שלא יהיה אני שלך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נראה שתחלופנה השנה בעוד שנים</l>
+          <l>ממני או ממך יסתיר פנים</l>
+          <l>אני עוד מחכה תגיד שזה תמים</l>
+          <l>ליום בו ייפתחו לי שערים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בוא אלי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ומה שלא אומר ומה שלא אשיר</l>
+          <l>היום הזה נראה רחוק כל כך </l>
+          <l>אבל הזמן מתוק לי</l>
+          <l>מן דבש של צפייה </l>
+          <l>יותר מתוק מכלום</l>
+          <l>יותר מלאבד אותך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סביב סביב</title>
+        <singer classification="band">נקמת הטרקטור</singer>
+        <writer>אילן גרין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סביב סביב</head>
+        <lg number="1" type="stanza">
+          <l>עולמות שונים מסרבים להתחבר</l>
+          <l>צבעים נשפכים נמרחים על הצד האחר</l>
+          <l>הם כל כך זרים לי</l>
+          <l>כל הצדדים בתוך בועה</l>
+          <l>עולמות שונים מחפשים את הסיכה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סביב סביב סביב</l>
+          <l>הם מסתכלים עליך</l>
+          <l>סביב סביב סביב סביב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עלומות שונים לוחשים להתחבר</l>
+          <l>אנשים קטנים לא רוצים להתקרב</l>
+          <l>הם כל כך זרים לי אך המשחק נראה מוכר</l>
+          <l>זה רק מתחיל</l>
+          <l>או אולי זה כבר נגמר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סביב סביב סביב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

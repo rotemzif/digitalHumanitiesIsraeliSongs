@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני קורא לך 2</title>
+        <singer classification="male singer">פבלו רוזנברג</singer>
+        <writer>זאב טנא</writer>
+        <composer>פבלו רוזנברג</composer>
+        <album>העולם שלנו</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני קורא לך</head>
+        <lg number="1" type="stanza">
+          <l>אני קורא לך</l>
+          <l>את פורסת עוגת יומולדת</l>
+          <l>פתאום זה כן חשוב</l>
+          <l>כבר שנתיים שאת לא מאחלת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני קורא לך</l>
+          <l>שוב שכחת לסגור את הדלת</l>
+          <l>את לא צריכה לדאוג</l>
+          <l>מישהו כבר סיפר לילד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דרך עיני מלאך את יכולה לראות</l>
+          <l>דרך עיני מלאך הוא עוד יכול לראות</l>
+          <l>איך שושנים פורחות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני קורא לך</l>
+          <l>את פורסת עוגת יומולדת</l>
+          <l>יש בי מספיק כוחות</l>
+          <l>לכבות את כל נרות החלב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

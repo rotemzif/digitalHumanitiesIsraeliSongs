@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הבן של הקוסם</title>
+        <singer classification="male singer">דני רובס</singer>
+        <writer>דני רובס</writer>
+        <composer>דני רובס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הבן של הקוסם</head>
+        <lg number="1" type="stanza">
+          <l>אני הבן של הקוסם בחליפה זוהרת</l>
+          <l>דחוק בין אבא והתיק במכונית דוהרת</l>
+          <l>על השמשה כתוב "נסיך הטלפתיה"</l>
+          <l>בין הבורקס והעוף אולי אמצא סימפטיה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני הבן של הקוסם, אני נשבע בלי נדר</l>
+          <l>שיום אחד אולי אהיה מוכר כמו אורי גלר</l>
+          <l>אשה שמנה תלחש מספר לאיש עם סוודר</l>
+          <l>והקהל ישאג את שמי, הכל יהיה בסדר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני נשבע בלי נדר, הכל יהיה בסדר...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ולי לבן של הקוסם נותנים כבוד וערך</l>
+          <l>בין חשפנית וקוף רוקד אני פשוט המלך</l>
+          <l>הם אוהבים אותי כולם, ואם אצליח</l>
+          <l>יקנו גם לי צמיד זהב, האמרגן הבטיח</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני נשבע בלי נדר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

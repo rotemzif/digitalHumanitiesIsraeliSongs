@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא תדע עוד מלחמה</title>
+        <singer classification="male singer">יהורם גאון</singer>
+        <writer>תלמה אליגון רוז</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא תדע עוד מלחמה</head>
+        <lg number="1" type="stanza">
+          <l>ארץ חמדת אבותי</l>
+          <l>ארץ שהיא שמש וים </l>
+          <l>ארץ שלי עד מתי </l>
+          <l>בשדותייך צער ודם </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לו רק יכולנו בשקט לחיות </l>
+          <l>ארץ חלב את ודבש </l>
+          <l>לו רק יכולנו אותך לעבוד </l>
+          <l>לו רק יבוא יום חדש </l>
+          <l>לא תדע, לא תדע </l>
+          <l>מלחמה שוב ארצי לא תדע </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ארץ בנייך הולכים </l>
+          <l>שוב לא יראו שמש וים </l>
+          <l>אלף אלפי תותחים </l>
+          <l>לך לא יוכלו, לך לא יוכלו </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לו רק יכולנו בשקט לחיות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

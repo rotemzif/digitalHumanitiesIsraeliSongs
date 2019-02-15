@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חבל על הזמן 2</title>
+        <singer classification="male singer">רון שובל</singer>
+        <writer>יוני רועה</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חבל על הזמן</head>
+        <lg number="1" type="stanza">
+          <l>יש לך עיניים מדברות</l>
+          <l>ומבט כובש</l>
+          <l>יש לך שפתיים מפתות</l>
+          <l>וחיוך הורס</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>המבטים נפגשים</l>
+          <l>אני מרגיש שאת קרובה</l>
+          <l>כמו תמיד את מתרחקת</l>
+          <l>כשאני בלהבה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אל תעשי מזה עניין זה פשוט נורא</l>
+          <l>אם את רוצה אני עוד כאן</l>
+          <l>אל תעשי מזה עניין</l>
+          <l>זה רק אני ואת</l>
+          <l>חבל, חבל לך על הזמן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם יש לך עדיין מחשבות</l>
+          <l>אז תני להן לצאת</l>
+          <l>זהו סוד האהבות</l>
+          <l>כשהאור דולק</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>המבטים שוב נפגשים</l>
+          <l>אני מרגיש שאת רוצה</l>
+          <l>וכמו תמיד את מתבלבלת</l>
+          <l>ואני ללא מוצא</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אל תעשי מזה עניין...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

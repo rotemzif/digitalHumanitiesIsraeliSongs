@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שם בכביש דימונה</title>
+        <singer classification="female singer">גאולה גיל</singer>
+        <writer>עמוס אטינגר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שם בכביש דימונה</head>
+        <lg number="1" type="stanza">
+          <l>חום השמש העולה ויוקדת,</l>
+          <l>הסופות תבואנה,</l>
+          <l>כי הדרך שלסדום אט יורדת</l>
+          <l>שם כביש דימונה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תלך לשם,</l>
+          <l>שם לוהט הדרום.</l>
+          <l>אל תלך לשם</l>
+          <l>כי בוער כי בוער</l>
+          <l>שם בסדום.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אור ירח לא זרח</l>
+          <l>בשמים אם לסדום תבואנה</l>
+          <l>טעם מלח שם צורב כל שפתיים,</l>
+          <l>גם את כביש דימונה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תלך לשם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

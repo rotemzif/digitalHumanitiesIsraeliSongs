@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתחת ליום</title>
+        <singer classification="unknown">תומר און</singer>
+        <writer>תומר און</writer>
+        <composer>תומר און</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתחת ליום</head>
+        <lg number="1" type="stanza">
+          <l>העיר מוקפת צל </l>
+          <l>הזמן שלי אוזל </l>
+          <l>מה נישאר בעצם </l>
+          <l>כשאני שר בעצב </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מתחת לגגות יש מי שמסתכל </l>
+          <l>מתחת לקירות אני נופל </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מתחת ליום... </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני מרגיש שכל העולם נמצא לידי </l>
+          <l>וחול העולם שומע אותי </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הלילה כמו חלום </l>
+          <l>היום נגמר פתאום </l>
+          <l>כל השנים האלה </l>
+          <l>והשקרים האלה </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מתחת לגגות יש מי שמסתכל </l>
+          <l>מתחת לדמעות אני נופל </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>מתחת ליום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השחפים עפים</title>
+        <singer classification="unknown">סיון שטרית</singer>
+        <writer>סיון שטרית</writer>
+        <composer>צמח מזיג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השחפים עפים</head>
+        <lg number="1" type="stanza">
+          <l>יושבת על סלע מביטה אל הגלים</l>
+          <l>חושבת על מבטך התמוהים והחודרים</l>
+          <l>המוסיקה ברקע מזכירה לי אותך</l>
+          <l>הגל הזה מתנפץ וגם מבטך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רוצה לומר כל-כך הרבה אבל אין למי</l>
+          <l>ומוצאת עצמי מפליגה בדמיוני</l>
+          <l>השחפים עפים, החיים היו יכולים להיות יפים,</l>
+          <l>אם רק היית מבין.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רוח ים מנשבת ומכה על הפנים</l>
+          <l>מחפשת את השמש בין כל העננים </l>
+          <l>בין הגלים השעה כבר מאוחרת</l>
+          <l>ורוצה אותך קרוב לאורך קו-החוף</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רוצה לומר כל-כך הרבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

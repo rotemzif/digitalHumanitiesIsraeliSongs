@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שחרית</title>
+        <singer classification="unknown">שחר ישי</singer>
+        <writer>סהר חגי</writer>
+        <composer>ניצן קייקוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שחרית</head>
+        <lg number="1" type="stanza">
+          <l>אור ראשון חלון נפתח </l>
+          <l>השמש בפנים </l>
+          <l>בחמלה רבה החזרת בי </l>
+          <l>את נשמתי , מודה אני. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יום חדש מתחיל </l>
+          <l>העיר קוראת לי להרגיש </l>
+          <l>על מה שרואים </l>
+          <l>ועל כל מה שיש בפנים </l>
+          <l>מודה אני </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שחרית, </l>
+          <l>לב מביט לתוך עצמו </l>
+          <l>בטן מלאה תפילה </l>
+          <l>נושם אוויר באמונה </l>
+          <l>שחרית, </l>
+          <l>אהבה ללא נודע </l>
+          <l>בעוד בוקר של בריאה </l>
+          <l>שהכל בו לטובה... שחרית </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>קול המון היכל גדול </l>
+          <l>ברגע של אמת </l>
+          <l>כל אדם בתוך עצמו </l>
+          <l>הוא גר ומתפלל, מודה אני. </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שחרית...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

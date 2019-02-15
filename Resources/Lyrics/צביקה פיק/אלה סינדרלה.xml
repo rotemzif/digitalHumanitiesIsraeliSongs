@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלה סינדרלה</title>
+        <singer classification="male singer">צביקה פיק</singer>
+        <writer>מירית שם אור</writer>
+        <composer>missing</composer>
+        <album>מוסיקה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלה סינדרלה</head>
+        <lg number="1" type="stanza">
+          <l>כוכבים בשמיים סובבים</l>
+          <l>עד שלפעמים גם הם כבים</l>
+          <l>כמו אותן המשאלות</l>
+          <l>שבחצות הם נופלות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כוכבים קורצים לאלה, ושוב נדמה לה</l>
+          <l>שיש נסיך שמחכה לה, כל הלילה</l>
+          <l>כבר מאוחר בנשף ולבנה של כסף</l>
+          <l>מאירה את תקוותה, סינדרלה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אלה סינדרלה, אלה -</l>
+          <l>מה נדמה לה, אלה סינדרלה</l>
+          <l>אלה סינדרלה, אלה-</l>
+          <l>שנדמה לה, אלה סינדרלה</l>
+          <l>ושעון שמתקתק לו, תיק תק תק</l>
+          <l>היא לא שומעת, תיק תק תק</l>
+          <l>היא משגעת</l>
+          <l>ושעון שמתקתק לו, תיק תק תק</l>
+          <l>מתנועעת, תיק תק תק</l>
+          <l>היא נפלאה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את יפה הלילה, אלה, כמו סינדרלה</l>
+          <l>את תלכי הביתה, אלה, בואי איתי</l>
+          <l>ושוב דולקות עיניה ומבריקות שפתיה</l>
+          <l>שוב הגיע הנסיך, סינדרלה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אלה סינדרלה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

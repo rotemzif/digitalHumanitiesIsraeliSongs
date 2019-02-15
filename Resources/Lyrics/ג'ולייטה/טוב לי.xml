@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טוב לי 5</title>
+        <singer classification="unknown">ג ולייטה</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>דורון מזר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טוב לי</head>
+        <lg number="1" type="stanza">
+          <l>נתתי אהבה נתתי נשמה</l>
+          <l>אני לא אשמה שלא לקחת</l>
+          <l>נתתי את הלב וזה עלה לי בכאב</l>
+          <l>הייתי לבדי ולא ידעת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הזמן עשה לי טוב והתגברתי</l>
+          <l>עכשיו אני כבר לא צריכה אותך</l>
+          <l>טוב לי ככה בלעדייך לא רוצה אותך יותר</l>
+          <l>אין לי שום דבר אלייך יש לי מישהו אחר</l>
+          <l>אם עדיין לא הבנת אין לך סיכוי בכלל</l>
+          <l>זה מה שאתה בישלת זה מה שאתה תאכל</l>
+          <l>מה שאתה בישלת זה מה שאתה תאכל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תשכח מה שהיה אני כבר חופשיה</l>
+          <l>טוב בלעדיך מסתדרת</l>
+          <l>ככל שתתרחק אני רק אתחזק</l>
+          <l>אני אחת שלא נשברת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הזמן עשה לי טוב והתגברתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

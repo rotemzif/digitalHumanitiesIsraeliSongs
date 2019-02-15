@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קול גלגל 2</title>
+        <singer classification="band">שוטי הנבואה</singer>
+        <writer>מן המקורות</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קול גלגל</head>
+        <lg number="1" type="stanza">
+          <l>קול גלגל המתגלגל ממטה למעלה,</l>
+          <l>מרכבות סתומות הולכות ומתגלגלות.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קול נעימות עולה, ויורד,</l>
+          <l>הולך ומשוטט בעולם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קול שופר נמשך בעומקי המדרגות,</l>
+          <l>ומסובב הגלגל סביב.</l>
+          <l>זהו קול, זהו קול גלגל עולה ויורד.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

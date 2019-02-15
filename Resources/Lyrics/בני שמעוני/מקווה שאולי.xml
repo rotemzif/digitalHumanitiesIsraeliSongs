@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מקווה שאולי</title>
+        <singer classification="unknown">בני שמעוני</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מקווה שאולי</head>
+        <lg number="1" type="stanza">
+          <l>לבד ישבתי כל הלילה</l>
+          <l>לא הבנתי מה קרה</l>
+          <l>לאישה אותך כל כך רציתי</l>
+          <l>לבנות קן חם של אהבה</l>
+          <l>מקווה שאולי מחר תחזרי</l>
+          <l>דף חדש נפתח</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלוהים איך שאותה אהבתי</l>
+          <l>אלוהים ליבי רק לה נתתי</l>
+          <l>אלוהים לא אשכח אותה  </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>סביב ביתך עוד מסתובב</l>
+          <l>לשם לקח אותי הלב</l>
+          <l>רציתי לדעת אם חזרת</l>
+          <l>חיכיתי לך את לא הרגעת</l>
+          <l>מקווה מחר תחזרי </l>
+          <l>דף חדש נפתח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלוהים איך שאותה אהבתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

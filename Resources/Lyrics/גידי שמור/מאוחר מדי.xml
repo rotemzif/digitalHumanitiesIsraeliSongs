@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאוחר מדי 2</title>
+        <singer classification="male singer">גידי שמור</singer>
+        <writer>גידי שמור</writer>
+        <composer>גידי שמור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאוחר מדי</head>
+        <lg number="1" type="stanza">
+          <l>יושב בבית קפה קטן </l>
+          <l>שלוש בלילה העולם דומם </l>
+          <l>ומנסה לשבור את הזמן </l>
+          <l>הלילה קשה להירדם. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תמיד ידעתי שאני קצת לא בסדר </l>
+          <l>זורק מילים בלי הכרה </l>
+          <l>אני נזכר איך היא אמרה לי </l>
+          <l>אז בעצם יבוא היום אברח ממך. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אכן היום היא כך עשתה </l>
+          <l>אמרה שלום ולא תשמע לה יותר. </l>
+          <l>אספה הכל והסתלקה </l>
+          <l>לא אמרה שתבקר. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תמיד ידעתי... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לבד בבית קפה קטן </l>
+          <l>המחשבות מהשתייה מתערפלות </l>
+          <l>ומסננת מעשן </l>
+          <l>עכשיו נותר רק לקוות. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תמיד ידעתי... </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>עצוב בבית קפה קטן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

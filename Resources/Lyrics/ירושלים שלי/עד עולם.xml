@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד עולם 5</title>
+        <singer classification="unknown">ירושלים שלי</singer>
+        <writer>דן אלמגור</writer>
+        <composer>נועם שריף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד עולם</head>
+        <lg number="1" type="stanza">
+          <l>אבינו מלכנו עלינו רחם</l>
+          <l>את מקדשנו כונן והקם</l>
+          <l>במהרה גלה כבוד מלכותך</l>
+          <l>הביאנו לציון עירך</l>
+          <l>לביתך רחמנא השיבנו ברינה</l>
+          <l>ובנהו בשמחת עולם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ליי ליי  ליי  ליי  ליי  ליי...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתי זה מלכנו שוכן מרומים</l>
+          <l>יבוא המשיח בשער הרחמים</l>
+          <l>וילדים נראה משחקים</l>
+          <l>ברחובות ציון השוקקים?</l>
+          <l>כי שלום בעירך ושלווה באוהלך</l>
+          <l>מעתה ועד עולם.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ליי ליי  ליי  ליי  ליי  ליי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

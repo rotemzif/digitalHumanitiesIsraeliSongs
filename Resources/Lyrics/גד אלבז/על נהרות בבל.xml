@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>על נהרות בבל 2</title>
+        <singer classification="male singer">גד אלבז</singer>
+        <writer>עממי</writer>
+        <composer>גד אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>על נהרות בבל</head>
+        <lg number="1" type="stanza">
+          <l>על נהרות בבל,</l>
+          <l>שם ישבנו גם בכינו,</l>
+          <l>בזוכרנו את ציון,</l>
+          <l>בזוכרנו את ציון עיר מקדשנו</l>
+          <l>על נהרות בבל, שם ישבנו גם בכינו</l>
+          <l>בזוכרנו את ציון בזוכרנו ציון</l>
+          <l>עיר מקדשנו.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ענינו, ענינו מלכינו</l>
+          <l>ענינו, ענינו בוראנו</l>
+          <l>ענינו ענינו מלכינו</l>
+          <l>ענינו מלכינו</l>
+          <l>ענינו</l>
+          <l>ענינו בוראנו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>על נהרות בבל </l>
+          <l>שם ישבנו גם בכינו</l>
+          <l>בזוכרנו את ציון, בזוכרנו את ציון</l>
+          <l>עיר מקדשנו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ענינו ענינו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

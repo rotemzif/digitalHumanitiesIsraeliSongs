@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין לי דג</title>
+        <singer classification="female singer">טל וייס</singer>
+        <writer>טל וייס</writer>
+        <composer>טל וייס</composer>
+        <album>backcaTALog</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין לי דג</head>
+        <lg number="1" type="stanza">
+          <l>אין לי דג קטן אחד</l>
+          <l>שירגיע את נפשי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אין חטיף של שוקולד</l>
+          <l>שימתיק את יגוני</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין לי רוח נעימה</l>
+          <l>שתפיח בי תקווה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אבל יש לי חברים</l>
+          <l>וגם יש לי משפחה</l>
+          <l>הם נותנים לי אהבה</l>
+          <l>(לא שיש להם ברירה...)</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

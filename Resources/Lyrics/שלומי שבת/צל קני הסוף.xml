@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צל קני הסוף</title>
+        <singer classification="male singer">שלומי שבת</singer>
+        <writer>צרויה להב</writer>
+        <composer>שלומי שבת</composer>
+        <album>שלומי שבת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צל קני הסוף</head>
+        <lg number="1" type="stanza">
+          <l>למה את מרימה ידיים</l>
+          <l>שום אקדח לא נשלף מולך</l>
+          <l>זה רק צל קני הסוף בין ערביים</l>
+          <l>מתגנב מתארך והולך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לאן את הולכת לאן רצית</l>
+          <l>את יודעת מאיפה באת</l>
+          <l>ובין הקולות המתרוצצים</l>
+          <l>יש הרי קול אחד שהוא את</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ורק אל תשאלי אותי למה ואל תשאלי האם</l>
+          <l>או איך מובילה מפת הדרך למקומות שאנחנו באים</l>
+          <l>נה...נה...נה...נה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז חשבת שמגיע לך</l>
+          <l>ונפלת וקמת ונפלת</l>
+          <l>ועכשיו תמצאי מחדש</l>
+          <l>יש ים מתנות שקיבלת</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ורק אל תשאלי אותי למה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

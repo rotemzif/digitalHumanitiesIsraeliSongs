@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מותק אל תבכי</title>
+        <singer classification="male singer">יצחק קלפטר</singer>
+        <writer>יצחק קלפטר</writer>
+        <composer>יצחק קלפטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מותק אל תבכי</head>
+        <lg number="1" type="stanza">
+          <l>את נתת לי את הכל ולא ביקשת מאומה</l>
+          <l>כשנשארתי מאחור לקחת אותי קדימה</l>
+          <l>קנית לי מתנות הרבה ולא היה לך כסף</l>
+          <l>כשלא היה עם מי לדבר דיברת איתי בשטף</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מותק, אל תבכי</l>
+          <l>עלי ללכת הלאה</l>
+          <l>זה לא בשליטתי</l>
+          <l>הכל בא מלמעלה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשהייתי חלש נתת לי את הכח</l>
+          <l>כשעשיתי טעויות חיזקת לי את הרוח</l>
+          <l>רצית אז להוכיח לי שאהבה היא נצח</l>
+          <l>אני רוצה לתת לך עכשיו מיליון נשיקות במצח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מותק, אל תבכי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

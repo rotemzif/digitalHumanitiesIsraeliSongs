@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני עוד ממשיכה</title>
+        <singer classification="unknown">שרי אלפי</singer>
+        <writer>לי גאון</writer>
+        <composer>שרי אלפי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני עוד ממשיכה</head>
+        <lg number="1" type="stanza">
+          <l>בנין בוער בקצה העיר </l>
+          <l>עוד תאונה באמצע כביש מהיר </l>
+          <l>בקול נמוך צרוד אומר השדרן</l>
+          <l>שהעיר פקוקה בגלל עם סקרן. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני עוד ממשיכה...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ילדה אוספת בקבוקים </l>
+          <l>של שיכורים זרוקים על ספסלים </l>
+          <l>מפגין עומד צועק בלי איש מסביב </l>
+          <l>שזה עולם שלישי בתוך תל אביב. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני עוד ממשיכה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אבל כשעזב בלי שרמז </l>
+          <l>נשארתי לבד וכבר ידעתי אז </l>
+          <l>שיום בלעדיך הוא יום מבוזבז. </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אישה בורחת ממכה </l>
+          <l>תלמיד זרק כיסא על המורה </l>
+          <l>זמר נרגש שר שיר חדש ברכות </l>
+          <l>עוד פזמון חוזר נגד אלימות. </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אני עוד ממשיכה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

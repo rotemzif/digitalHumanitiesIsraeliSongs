@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בסוף כל יום 2</title>
+        <singer classification="unknown">רן סנדלר</singer>
+        <writer>דורון גל</writer>
+        <composer>דורון גל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בסוף כל יום</head>
+        <lg number="1" type="stanza">
+          <l>איך השקט חזר אלי</l>
+          <l>כשאת כאן לצידי הולכת</l>
+          <l>בין אנשים תמיד היה חסר</l>
+          <l>כשלא היית נפלה שלכת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מעכשיו כשלא ייגמר</l>
+          <l>הזמן איתך כבר לא ממהר</l>
+          <l>תמיד בסוף כל יום</l>
+          <l>אמצא אותך</l>
+          <l>עומדת כאן</l>
+          <l>לא פוחדת לאהוב</l>
+          <l>זה שיר לאהבה שבתוכך</l>
+          <l>לא תיפסק</l>
+          <l>והיא תמשיך לחלום</l>
+          <l>כל עוד תרצי עוד יום</l>
+          <l>לאן שרק תרצי אני שלך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך הלב לא משקר</l>
+          <l>גם כשהוא עייף הוא תמיד יודע</l>
+          <l>שאת היית כל הגעגועים</l>
+          <l>חיפשתי אחרייך</l>
+          <l>עד שכמעט הוא משתגע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מעכשיו כשלא ייגמר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

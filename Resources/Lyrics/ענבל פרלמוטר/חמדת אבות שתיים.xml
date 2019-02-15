@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חמדת אבות שתיים</title>
+        <singer classification="female singer">ענבל פרלמוטר</singer>
+        <writer>ענבל פרלמוטר</writer>
+        <composer>ענבל פרלמוטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חמדת אבות שתיים</head>
+        <lg number="1" type="stanza">
+          <l>מקץ אלפיים שנות גלות, שואה, תקווה:</l>
+          <l>חלב חמוץ וגם דבש מר הארץ מניבה.</l>
+          <l>משפחת שכול - שיגרת יום חול,</l>
+          <l>ואיבה עתיקה שמכסה על הכל.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בראש מורכן נמשיך לסבול,</l>
+          <l>או שנצעק בקול גדול:</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אי אפשר לקנות גן עדן בדם.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

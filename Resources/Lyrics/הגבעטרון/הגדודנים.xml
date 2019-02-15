@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הגדודנים</title>
+        <singer classification="band">הגבעטרון</singer>
+        <writer>יעקב אורלנד</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הגדודנים</head>
+        <lg number="1" type="stanza">
+          <l>היו ימים של תכלת ברקיע,</l>
+          <l>קדימה צעדו גדודים ברחוב.</l>
+          <l>מו הפרוור אלינו היא הופיעה,</l>
+          <l>כי לפרוור הגיע קול התוף.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הגדודנים, בחוד חודי הכידונים,</l>
+          <l>הגדודנים - נשבענו לזכרך.</l>
+          <l>נשבענו לזוכרך בשיר ורננים,</l>
+          <l>נשבענו לך ולפרוורך.</l>
+          <l>הגדודנים, בחוד חודי הכידונים,</l>
+          <l>הגדודנים - נלך!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד יש ימים של תכלת ברקיע,</l>
+          <l>הבת, אל לבבנו נילחצך!</l>
+          <l>ראי הבת, תופנו לך מריע,</l>
+          <l>ליבנו שבי לך ולארצך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הגדודנים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עוד יבוא יום של תכלת ברקיע,</l>
+          <l>עוד יבוא יום של שמש בהרים,</l>
+          <l>וקול תופים ישוב עוד ויגיע,</l>
+          <l>ישוב עוד לבקשך בפרווריםץ</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הגדודנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

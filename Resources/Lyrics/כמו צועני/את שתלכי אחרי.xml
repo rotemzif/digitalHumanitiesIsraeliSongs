@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את שתלכי אחרי</title>
+        <singer classification="band">כמו צועני</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>עוזי חיטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את שתלכי אחרי</head>
+        <lg number="1" type="stanza">
+          <l>יש בי עיניים</l>
+          <l>יש בי ידיים</l>
+          <l>יש בי חיוך לתת</l>
+          <l>לב מפעם בי</l>
+          <l>שיר מנגן בי</l>
+          <l>איך הוא רוצה לצאת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קחי לי אותו</l>
+          <l>נגני לי אותו</l>
+          <l>כי הוא מוכרח</l>
+          <l>קחי לי אותו</l>
+          <l>נגני לי אותו</l>
+          <l>כי הוא שלך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את שתלכי אחרי</l>
+          <l>את תקטפי את שירי</l>
+          <l>ואני אהיה המשורר</l>
+          <l>את שתלכי אחרי</l>
+          <l>את תקטפי את שירי</l>
+          <l>בכל פעם אנגן לך שיר אחר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש בי כנפיים</l>
+          <l>יש בי כתפיים</l>
+          <l>את המשא לשאת</l>
+          <l>יחד את שנינו</l>
+          <l>מה שביננו</l>
+          <l>שיר שנולד כעת</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>קחי לי אותו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

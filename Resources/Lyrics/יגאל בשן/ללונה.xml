@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ללונה</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>יגאל בשן</writer>
+        <composer>יגאל בשן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ללונה</head>
+        <lg number="1" type="stanza">
+          <l>קצת פינה קולדה בתוך הקפה</l>
+          <l>הרבה שוקולדה תשימי בפה</l>
+          <l>קצת מלח בשומשום בתוך המחבת</l>
+          <l>כך אני וללונה עוברים ת'שבת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>למטה בדשא קופצים הילדים</l>
+          <l>עם סקטבורד מניו יורק קוטפים ת'פרחים</l>
+          <l>הורסים את הדשא לכל השכנים</l>
+          <l>רק אני וללונה לא כועסים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הו הו ללונה את מתנה מאלוהים</l>
+          <l>הו הו ללונה שימותו כל הקנאים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ללונה קטנה שלי מאה קילו גרם</l>
+          <l>רואים לה ת'טוסיק מעבר לים</l>
+          <l>שולפת סיגריה כל שבע דקות</l>
+          <l>חופפת כל חודש את כל הפינות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הו הו ללונה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>בתוך הפיג'מה אנחנו יושבים</l>
+          <l>רואים טלויזיה מלא ערוצים</l>
+          <l>כבר תשע בערב אז בואי לישון</l>
+          <l>היום תוותרי לי מחר יום ראשון</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>הו הו ללונה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

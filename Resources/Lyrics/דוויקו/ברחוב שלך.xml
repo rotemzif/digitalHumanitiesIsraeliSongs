@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ברחוב שלך</title>
+        <singer classification="unknown">דוויקו</singer>
+        <writer>יוני פוליקר</writer>
+        <composer>סטליוס קזנג'ידיס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ברחוב שלך</head>
+        <lg number="1" type="stanza">
+          <l>אני עובר ברחוב שלך, </l>
+          <l>היה פה עולם שאיננו </l>
+          <l>בתים קטנים גגות מפח, </l>
+          <l>היה לי פעם אותך </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה שהיה נמחק מזמן, </l>
+          <l>למי יש חיים למי יש זמן? </l>
+          <l>הייתי מחזיר את הכל </l>
+          <l>אם רק הייתי יכול </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יש רגעים שבהם אין כבר כלום </l>
+          <l>רק שמץ של געגוע, </l>
+          <l>אותו עולם נראה מושלם </l>
+          <l>שכלום לא היה ידוע. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני עובר ברחוב שלך </l>
+          <l>פוגש אנשים שהכרנו </l>
+          <l>כל אחד מזכיר אותך, </l>
+          <l>זה יופייך שאיננו נשכח. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מה שהיה נמחק מזמן... </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יש רגעים שבהם אין כבר כלום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

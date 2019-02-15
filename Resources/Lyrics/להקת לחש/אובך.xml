@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אובך</title>
+        <singer classification="unknown">להקת לחש</singer>
+        <writer>יואב שעיה</writer>
+        <composer>יואב שעיה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אובך</head>
+        <lg number="1" type="stanza">
+          <l>אובך כחלילי </l>
+          <l>לוחש ונמס בי </l>
+          <l>כמו משי רך </l>
+          <l>הבל אד הערפל </l>
+          <l>את הבוקר מחתל </l>
+          <l>באור מלאכותי ולח </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נושק ובורח </l>
+          <l>כמו הדים מתוך חלום </l>
+          <l>בין כאב לחיוורון </l>
+          <l>נושק ובורח </l>
+          <l>זה האור האחרון </l>
+          <l>בין חיוך לעיוורון </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל האור החלבי </l>
+          <l>כה קלוש, כה נצחי </l>
+          <l>נשמתי תפרח </l>
+          <l>רוחו לוחש </l>
+          <l>מלטף, גולש </l>
+          <l>עד שהכול ידעך </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נושק ובורח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

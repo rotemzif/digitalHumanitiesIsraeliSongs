@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עשרים וארבע שעות</title>
+        <singer classification="female singer">מור שטייגל</singer>
+        <writer>מיה כספי</writer>
+        <composer>מור שטייגל</composer>
+        <album>מחשבות יכולות לשנות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עשרים וארבע שעות</head>
+        <lg number="1" type="stanza">
+          <l>לפני השקיעה לשנתי</l>
+          <l>לא נרדמת</l>
+          <l>ועם הקימה לזריחה עוד חושבת</l>
+          <l>עשרים וארבע שעות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל הליכה בשדרה מחפשת</l>
+          <l>פנים מוכרות</l>
+          <l>סימנים בשלכת</l>
+          <l>עד שאולי תעבור</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם רק תבקש אותי אליך</l>
+          <l>אם אשוב אשתקף שם בעיניך</l>
+          <l>אם תגיד שאתה שוב חוזר</l>
+          <l>לא אפגע בך יותר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל מחשבה שנשטפת ברוח</l>
+          <l>לא תעצר</l>
+          <l>לא תשב עוד לנוח</l>
+          <l>עד שאלך תבוא</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נדודי מחשבה מציירות את פניך</l>
+          <l>מבקשות לעצור</l>
+          <l>לעגון בין חופיך</l>
+          <l>להפסיק לחפש ולמצוא</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אם רק תבקש אותי אליך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

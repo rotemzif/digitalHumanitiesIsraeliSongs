@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תודה לך מאמי</title>
+        <singer classification="male singer">תומר חן</singer>
+        <writer>שרון אסולין</writer>
+        <composer>שרון אסולין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תודה לך מאמי</head>
+        <lg number="1" type="stanza">
+          <l>את הלילה, את הבוקר</l>
+          <l>מגישה לי את האושר</l>
+          <l>בחיים אני ואחת זה אחד</l>
+          <l>את הרוח הנושבת, מלטפת ואוהבת</l>
+          <l>בחייו לכך יהיה זה חעד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תודה לך מאמי,</l>
+          <l>את לא יודעת מה את עושה לי</l>
+          <l>את הדבר הכי טוב שקרה לי</l>
+          <l>התחנה הסופית בחיי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את המים מהם רוויתי</l>
+          <l>הסתכלי אלי הביטי</l>
+          <l>העיניים מדברות בעד עצמן</l>
+          <l>את הפרח הצומח, בחיי אני שמח</l>
+          <l>רק איתך רוצה לחיות פה כל הזמן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תודה לך מאמי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

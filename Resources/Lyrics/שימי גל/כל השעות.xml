@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל השעות</title>
+        <singer classification="male singer">שימי גל</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל השעות</head>
+        <lg number="1" type="stanza">
+          <l>את מביטה בי כעת</l>
+          <l>מתמונתך הזאת שבחדרנו</l>
+          <l>ומזכירה לי בכאב</l>
+          <l>את השעות ההן בהן אהבנו.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל השעות ההן חלפו בשקט</l>
+          <l>ולא השאירו את הטעם המתוק.</l>
+          <l>כלום לא נשאר מהן מלבד שלכת,</l>
+          <l>מאז עצוב לי ושכחתי כבר לצחוק.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז לא ידעתי נפשי,</l>
+          <l>הייתי מאושר בזרועותייך</l>
+          <l>אז גם הייתי חופשי</l>
+          <l>לקחת אהבה בלילותייך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל השעות...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מר ועצוב לי היום</l>
+          <l>כי לא נשאר דבר מלבד פנייך</l>
+          <l>ולא אמרת לי שלום,</l>
+          <l>הלב שבי נשבר עוד רץ אלייך.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כל השעות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

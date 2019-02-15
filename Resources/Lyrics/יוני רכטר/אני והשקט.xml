@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני והשקט</title>
+        <singer classification="male singer">יוני רכטר</singer>
+        <writer>חיים גורי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני והשקט</head>
+        <lg number="1" type="stanza">
+          <l>שמעתי על השקט</l>
+          <l>לא פגשתי בו עדיין.</l>
+          <l>הוא שייך לארץ</l>
+          <l>שאת שמה איני יודע.</l>
+          <l>הוא קשור בעיר</l>
+          <l>שלא עברתי ברחובה</l>
+          <l>הוא שוכן בבית - </l>
+          <l>לא נשענתי בחלונותיו.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נדמה לי כי השקט הוא ככלות.</l>
+          <l>ואני בטרם. כמו רעב.</l>
+          <l>נדמה לי כי השקט הוא ככלות</l>
+          <l>ואני בטרם כמו רעב.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

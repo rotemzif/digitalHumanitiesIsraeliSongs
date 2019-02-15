@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רגע לפני 10</title>
+        <singer classification="unknown">יותם קדוש</singer>
+        <writer>ורד קדוש</writer>
+        <composer>יותם קדוש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רגע לפני</head>
+        <lg number="1" type="stanza">
+          <l>רגע לפני שאת בוחרת לעזוב </l>
+          <l>קחי פסק זמן ונסי לאהוב </l>
+          <l>רגע לפני שאת הולכת לדרכך </l>
+          <l>נגבי את הדמעות ונסי לחייך </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ורק רציתי לאהוב אותך </l>
+          <l>בפשטות ברכות להעניק לך </l>
+          <l>ואת הסתגרת בבדידות בכאב </l>
+          <l>לא נתת לעצמך להתאהב </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רגע לפני שאת מכבה את האור </l>
+          <l>עצרי לרגע אל תשאירי אותי מאחור </l>
+          <l>ורגע לפני שאת סוגרת את הדלת </l>
+          <l>דעי שמלבדך לא היתה לי אחרת </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ורק רציתי לאהוב אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

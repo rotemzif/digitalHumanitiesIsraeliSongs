@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לאט לאט 8</title>
+        <singer classification="unknown">רביד גואטה</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לאט לאט</head>
+        <lg number="1" type="stanza">
+          <l>לאט ולאט חולפים ימים</l>
+          <l>בגללך בגללי אין כאן חיים</l>
+          <l>עברנו שנינו ימים קשים</l>
+          <l>תראי גם השמיים בוכים עלי</l>
+          <l>אין לי לילות אין לי ימים </l>
+          <l>תראי גם השמיים בוכים עלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם תרצי נשמתי להבין אותי</l>
+          <l>זאת לא אשמתך וגם לא אשמתי</l>
+          <l>אל תלכי ילדתי אל תלכי מכאן </l>
+          <l>תראי גם השמיים בוכים נהרסו חיי</l>
+          <l>תראי גם השמיים בוכים עלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חיכיתי לתשובה לא ענית</l>
+          <l>חיפשתי אהבה שנעלמה לי</l>
+          <l>אבדה לה השלווה אבד השקט</l>
+          <l>הלב בכאב זועק לנחמה</l>
+          <l>אבד לה השלווה אבד השקט</l>
+          <l>תראי גם השמיים בוכים עלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם תרצי נשמתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

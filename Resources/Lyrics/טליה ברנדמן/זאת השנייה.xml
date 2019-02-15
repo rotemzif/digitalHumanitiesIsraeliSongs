@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זאת השנייה</title>
+        <singer classification="unknown">טליה ברנדמן</singer>
+        <writer>טליה ברנדמן</writer>
+        <composer>טליה ברנדמן</composer>
+        <album>מתוך סופה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זאת השנייה</head>
+        <lg number="1" type="stanza">
+          <l>רוח נושבת בפתח דלתי</l>
+          <l>לוחשת, נוקשת, מטלטלת שנתי</l>
+          <l>עצמתי עיניים</l>
+          <l>אוחזת בקרקע</l>
+          <l>זה קורה, זה מגיע</l>
+          <l>כשהיא נפערת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זאת השנייה</l>
+          <l>בלי אחיזה</l>
+          <l>נודדת על גב הרוח</l>
+          <l>דרך שער פתוח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>טעם הפחד, ריח הים</l>
+          <l>זהו הגשר בדרך לשם</l>
+          <l>אתמול עוד פסעתי</l>
+          <l>בשביל המוכר</l>
+          <l>אך סוף לאחד</l>
+          <l>וחדש למחר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זאת השנייה</l>
+          <l>בלי אחיזה</l>
+          <l>נודדת על גב הרוח</l>
+          <l>דרך שער פתוח</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עצמתי עיניים</l>
+          <l>אוחזת בקרקע</l>
+          <l>זה קורה, זה מגיע</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זאת השנייה</l>
+          <l>בלי אחיזה</l>
+          <l>נודדת על גב הרוח</l>
+          <l>דרך שער פתוח</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

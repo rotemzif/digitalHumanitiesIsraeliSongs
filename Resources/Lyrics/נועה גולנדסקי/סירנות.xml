@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סירנות</title>
+        <singer classification="unknown">נועה גולנדסקי</singer>
+        <writer>ז'אן בודריאר</writer>
+        <composer>נועה גולנדסקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סירנות</head>
+        <lg number="1" type="stanza">
+          <l>כמות הסירנות עולה </l>
+          <l>ביום כמו בלילה </l>
+          <l>המכוניות מהירות יותר </l>
+          <l>הפרסומות אלימות יותר </l>
+          <l>הזנות היא טוטאלית </l>
+          <l>גם אור החשמל </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והמשחק - </l>
+          <l>כל המשחקים מתעצמים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל המשחקים מתעצמים </l>
+          <l>כך זה תמיד כאשר מתקרבים </l>
+          <l>למרכז העולם </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אבל האנשים מחייכים </l>
+          <l>הם מחייכים יותר ויותר </l>
+          <l>אף פעם לא זה לזה </l>
+          <l>תמיד לעצמם </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>והמשחק - </l>
+          <l>כל המשחקים מתעצמים </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כל המשחקים מתעצמים </l>
+          <l>כך זה תמיד כאשר מתקרבים </l>
+          <l>למרכז העולם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

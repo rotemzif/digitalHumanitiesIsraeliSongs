@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לשיר ביחד 2</title>
+        <singer classification="male singer">פאדי</singer>
+        <writer>יוש גרנות</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לשיר ביחד</head>
+        <lg number="1" type="stanza">
+          <l>מה קורה לך נערה מסתתרת בפינה </l>
+          <l>מה קורה לך נערה את קולך השמיעי נא </l>
+          <l>לא יודעת איך אוכל אני חוששת מהקהל </l>
+          <l>נשיר ביחד את השיר יש לך קול כמו לזמיר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמה טוב לשיר איתך יש לך קול של מלאך </l>
+          <l>כמה טוב לשיר איתך ולשמוע את קולך </l>
+          <l>זהו שיר על אהבה שאת שנינו סחפה </l>
+          <l>ונשאר לעולם והכל יהיה מושלם </l>
+          <l>והכל יהיה מושלם אם נשיר מהנשמה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בואי בואי נשמה שירי לנו את שירך </l>
+          <l>בואי נא אל הבמה והשמיעי את קולך </l>
+          <l>בוא ותן לי את ידך ותאחל לי הצלחה </l>
+          <l>נשיר ביחד את השיר יש לך קול כמו לזמיר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמה טוב לשיר איתך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

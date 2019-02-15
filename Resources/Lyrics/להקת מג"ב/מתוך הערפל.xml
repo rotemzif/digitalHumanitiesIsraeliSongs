@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתוך הערפל</title>
+        <singer classification="unknown">להקת מג ב</singer>
+        <writer>טל משגב</writer>
+        <composer>ניר נהרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתוך הערפל</head>
+        <lg number="1" type="stanza">
+          <l>הוא נראה בחור רגיל, צנוע וישר</l>
+          <l>מקווה אני שהוא זהיר, בליבי תמיד נשאר</l>
+          <l>בזכותו אני יודעת בטוחים הילדים</l>
+          <l>בזכותכם אנחנו שוב ממשיכים את החיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לוחמי הצללים אומני ההסוואה</l>
+          <l>תמיד בקו ראשון בתוך המשימה</l>
+          <l>גיבורים כאריות עזים כנמרים</l>
+          <l>אנחנו יחידת יחידת המסתערבים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הם מתכנסים בתוך עצמם, מוסווים בעגלה</l>
+          <l>נחבאים מאחורי איפור איפור ורעלה</l>
+          <l>חולמים וחושבים על האשה והילדה</l>
+          <l>ועל מעלליהם איש לא ידע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לוחמי הצללים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

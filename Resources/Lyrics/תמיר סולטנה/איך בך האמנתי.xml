@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך בך האמנתי</title>
+        <singer classification="unknown">תמיר סולטנה</singer>
+        <writer>תמיר סולטנה</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך בך האמנתי</head>
+        <lg number="1" type="stanza">
+          <l>איך ילדה הבטחת לי את ליבך</l>
+          <l>איך נשבעת ילדה לתת אהבתך</l>
+          <l>איך איך אהבתי לבד נותרה לה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא הבנתי מה עשית לי,</l>
+          <l>עכשיו בודד אני</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איך ילדתי בך האמנתי</l>
+          <l>לא זוכר איך בך התאהבתי</l>
+          <l>אהבתי איך לך נתתי</l>
+          <l>לא יכול עוד בלעדייך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איך ילדה בכיתי בגללך</l>
+          <l>איך, איך אני יכול להיות שאת אינך</l>
+          <l>איך, איך שלטת בי אני נשבע לך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא רוצה בך, את פגעת בי</l>
+          <l>לכי אל תחזרי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>איך ילדתי בך האמנתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

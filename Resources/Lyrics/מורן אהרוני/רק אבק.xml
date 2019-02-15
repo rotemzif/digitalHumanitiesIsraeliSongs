@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק אבק</title>
+        <singer classification="female singer">מורן אהרוני</singer>
+        <writer>רחל שפירא</writer>
+        <composer>מורן אהרוני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק אבק</head>
+        <lg number="1" type="stanza">
+          <l>זה רק אבק שנכנס לי לעיניים </l>
+          <l>ובגללו הלחות החשודה </l>
+          <l>זה רק תרגיל, איך נושכים את השפתיים </l>
+          <l>אל תדאגו, באמת תודה רבה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה רק הבלוז שמפריע לי לנוח </l>
+          <l>נצמד אליי ונדבק אל נשמתי </l>
+          <l>זו רק שריטה, רק אתה, רק מצב רוח </l>
+          <l>זה רק עורי שבוער מקנאתי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק לדקה לעצום את העיניים </l>
+          <l>ורק כדי להרדים את הכאב </l>
+          <l>כל כך יפה פה בשעות בין הערביים </l>
+          <l>אז מה, אז מה אם דרכו לי על הלב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה רק הבלוז...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

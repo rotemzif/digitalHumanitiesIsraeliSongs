@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלום מתגשם</title>
+        <singer classification="male singer">עופר לוי</singer>
+        <writer>מוטי אוחיון</writer>
+        <composer>מוטי אוחיון</composer>
+        <album>בדרך שבחרתי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלום מתגשם</head>
+        <lg number="1" type="stanza">
+          <l>נאחז בכל הכוח שאני שואב ממך </l>
+          <l>רק בך אני בוטח ותמיד מחייך </l>
+          <l>כי את יודעת לאהוב קחי אותי קרוב </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לפעמים את יודעת חלום מתגשם </l>
+          <l>כמו הרוח מהים אותך אני נושם אהובה </l>
+          <l>איך העצב איתך הופך לשמחה </l>
+          <l>תמיד את מלאת אהבה אהובה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זאת את שמחממת את ליבי האהב </l>
+          <l>דואגת ושומרת מסירה כל כאב </l>
+          <l>כי את יודעת לאהוב </l>
+          <l>קחי אותי קרוב </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לפעמים את יודעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

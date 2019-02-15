@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בית ישן</title>
+        <singer classification="male singer">גידי גוב</singer>
+        <writer>עמיר בניון</writer>
+        <composer>עמיר בניון</composer>
+        <album>בקצה ההר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בית ישן</head>
+        <lg number="1" type="stanza">
+          <l>בית ישן, נראה בחלום.</l>
+          <l>בתוכו יש שקט, ישנים עדיין, ישנים עדיין</l>
+          <l>זה תיכף מתחיל, השולחן ערוך</l>
+          <l>ואדום של יין צובע את הבית</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמו עלה נידף ברוח להיות</l>
+          <l>והיא לא מפסיקה לנשוב,</l>
+          <l>כמו לקפוץ מגובה אינסופי בלי לנחות לעולם, לעולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא רחוק מכאן ציידים מחכים</l>
+          <l>הם לא שונאים, הם לא אוהבים, הם ציידים</l>
+          <l>מלחמה לא שלי, לא רוצה לנצח</l>
+          <l>אין לי כוח לשחק, אין לי חשק לברוח.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

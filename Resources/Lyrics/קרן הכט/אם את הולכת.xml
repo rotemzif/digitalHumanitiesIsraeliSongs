@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם את הולכת 6</title>
+        <singer classification="female singer">קרן הכט</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם את הולכת</head>
+        <lg number="1" type="stanza">
+          <l>איפה שלא הייתי הגיעו בחורים </l>
+          <l>כולם כל כך נורמאלים כולם כל כך שפויים </l>
+          <l>לאן שלא הגעתי חיפשתי את היציאה </l>
+          <l>ותמיד אני שמעתי את אותה השאלה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם את הולכת אז למה באת?</l>
+          <l>למה את מתאהבת לאט?</l>
+          <l>אני פגוע, תשארי כאן עוד דקה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתם האזיקים, אנחנו חופשיות </l>
+          <l>אתם החלשים, אנחנו חזקות </l>
+          <l>אתם הפחדנים, אנחנו אמיצות </l>
+          <l>אתם ששואלים אותי את אותן השאלות </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם את הולכת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הכוכב</title>
+        <singer classification="male singer">בנצי כהן</singer>
+        <writer>משה דור</writer>
+        <composer>יוסף הדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הכוכב</head>
+        <lg number="1" type="stanza">
+          <l>בחלון מהבהב כוכב,</l>
+          <l>אב נושא מבטו אליו</l>
+          <l>מן הים שהומים גליו.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נומה, בן</l>
+          <l>נומה, בן</l>
+          <l>וישן...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד הים הסוער ישלו</l>
+          <l>יחזור לביתו האב</l>
+          <l>ויקטוף אז לבנו כוכב. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נומה, בן...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את עיניך עוצם חלום,</l>
+          <l>גם השחר יבוא הלום</l>
+          <l>ולך ילחש שלום.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>נומה, בן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

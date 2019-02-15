@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לשכוח 4</title>
+        <singer classification="unknown">ההוצאה לפועל</singer>
+        <writer>טל קנון</writer>
+        <composer>אריאל אביזוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לשכוח</head>
+        <lg number="1" type="stanza">
+          <l>אתה לא שווה את המילים שאמרתי</l>
+          <l>את הכאב הארוך ביותר</l>
+          <l>אתה לא יודע כמה הצטערתי</l>
+          <l>כשהכרחתי את עצמי לא לוותר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לשכוח, לשכוח, רוצה לשכוח</l>
+          <l>רוצה לשכוח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה לא שווה כל רגע שנתתי</l>
+          <l>את כל כולי נתתי עד צאת הנשמה</l>
+          <l>אתה לא שווה את זה שנפגעתי</l>
+          <l>כל כך עמוק נפגעתי שנה אחר שנה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לשכוח, לשכוח, רוצה לשכוח</l>
+          <l>רוצה לשכוח</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

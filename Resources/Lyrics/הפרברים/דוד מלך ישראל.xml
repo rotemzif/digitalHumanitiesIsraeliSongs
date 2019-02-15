@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דוד מלך ישראל</title>
+        <singer classification="band">הפרברים</singer>
+        <writer>עממי</writer>
+        <composer>מרדכי זעירא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דוד מלך ישראל</head>
+        <lg number="1" type="stanza">
+          <l>דוד דוד מלך</l>
+          <l>דוד דוד מלך</l>
+          <l>דוד מלך ישראל חי וקיים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חי, חי וקיים</l>
+          <l>דוד מלך ישראל</l>
+          <l>חי, חי וקיים - מלך ישראל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

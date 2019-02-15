@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את בראש שלי</title>
+        <singer classification="male singer">שימי תבורי</singer>
+        <writer>רמי לב</writer>
+        <composer>רמי לב</composer>
+        <album>את בראש שלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את בראש שלי</head>
+        <lg number="1" type="stanza">
+          <l>תלבשי רק מה שאת אוהבת</l>
+          <l>ונצא לחרוש את העולם</l>
+          <l>תרקדי הפוך או איך שבא לך</l>
+          <l>תכנסי לראש את בעניין</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תני לעצמך לחיות בחופש</l>
+          <l>תהיי ב"high" תהיי בעננים</l>
+          <l>תזרקי את כל החושך</l>
+          <l>עזבי בראש שלך את הכללים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את בראש, את בראש, את בראש שלי</l>
+          <l>את עושה מה שאת אוהבת</l>
+          <l>ואיתך החיים סוחפים אותי</l>
+          <l>עולים ועולים בלי לרדת..</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תחלמי על מה שמתחשק לך</l>
+          <l>תפנקי אותך כזה בכיף</l>
+          <l>קחי חפיף את מה שקשה לך</l>
+          <l>את הקל חבקי אל תוך הלב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תני לעצמך לחיות בחופש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

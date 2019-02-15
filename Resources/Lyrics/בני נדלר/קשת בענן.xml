@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קשת בענן</title>
+        <singer classification="male singer">בני נדלר</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קשת בענן</head>
+        <lg number="1" type="stanza">
+          <l>והתחלתי ללכת, ללכת, </l>
+          <l>ועליתי על ראש גבעה. </l>
+          <l>אך ככל שהרחקתי לכת </l>
+          <l>הקשת לא קרבה. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היא עמדה במרום רקיע </l>
+          <l>כמצויירת על עננה, </l>
+          <l>וידעתי שלא אגיע </l>
+          <l>ושלחתי אליה יונה. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עופי, עופי, יפת כנפיים! </l>
+          <l>עופי, עופי אל המרום, </l>
+          <l>אל הקשת אשר בשמים </l>
+          <l>ומסרי לה ברכת שלום. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בשמים יונה וקשת, </l>
+          <l>בשמים הדרך פתוחה </l>
+          <l>וטיפות ראשונות של גשם </l>
+          <l>מבשרות שנת שלום וברכה. </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עופי, עופי, יפת כנפיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

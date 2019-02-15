@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דא לה קאמה</title>
+        <singer classification="band">כנסיית השכל</singer>
+        <writer>יורם חזן</writer>
+        <composer>יורם חזן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דא לה קאמה</head>
+        <lg number="1" type="stanza">
+          <l>דא לה קאמה</l>
+          <l>דא לה קאמה</l>
+          <l>רנה פאסה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בואי הינה</l>
+          <l>בואי הינה</l>
+          <l>ג'וחמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>האווה ז'ה</l>
+          <l>ג'ים מוריסה</l>
+          <l>האווה ז'ה</l>
+          <l>דיר מוריסיי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נקברה בו</l>
+          <l>נקברה בו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

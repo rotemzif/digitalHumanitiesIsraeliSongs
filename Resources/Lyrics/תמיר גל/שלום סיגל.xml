@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלום סיגל</title>
+        <singer classification="male singer">תמיר גל</singer>
+        <writer>מרטין גל</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלום סיגל</head>
+        <lg number="1" type="stanza">
+          <l>זו בירכתי לך אחותי</l>
+          <l>לך אומר שלום סיגי</l>
+          <l>אותך זוכר ולא אשכח</l>
+          <l>היי שלום יפתי</l>
+          <l>בדמעתי אכתוב שירי</l>
+          <l>בירכתך שילחי אלי</l>
+          <l>כי לי תמונה בלבד הותרת</l>
+          <l>ואת ליבי איתך לקחת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שלום סיגי שלום סיגל</l>
+          <l>זיכרי אותי זיכרי ילדה</l>
+          <l>הלב בוכה ונצבט</l>
+          <l>שלום אחות האחת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>האם עיוור הוא הגורל</l>
+          <l>האם ליבי מספיק סבל</l>
+          <l>מן הרע ומן המר</l>
+          <l>זיכרך יהיה למשאל</l>
+          <l>על כן סיגי אלי עדי</l>
+          <l>בליבי אחת תהיי</l>
+          <l>ועוד יבוא עוד היום</l>
+          <l>ונשמתך אלי תחזור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שלום סיגי שלום סיגל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

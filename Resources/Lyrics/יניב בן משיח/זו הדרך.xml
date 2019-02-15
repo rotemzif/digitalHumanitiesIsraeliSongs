@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זו הדרך</title>
+        <singer classification="unknown">יניב בן משיח</singer>
+        <writer>רמי לב</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זו הדרך</head>
+        <lg number="1" type="stanza">
+          <l>נשמה טובה, יש בכל אדם</l>
+          <l>אהבה גדולה מבורא עולם</l>
+          <l>אם עוד לא גילית, את האור בך</l>
+          <l>זהו שביל המלך - זוהי דרכך!</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זו הדרך, אני יודע </l>
+          <l>זה הלילה להאמין</l>
+          <l>זו הדרך, הלב שמח</l>
+          <l>בואו נתחזק אחים! </l>
+          <l>זו הדרך, אני יודע</l>
+          <l>זה הלילה להאמין</l>
+          <l>זו הדרך, הלב שמח</l>
+          <l>בואו ונרים כוסית!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אמונה אחת, זוהי דרכך </l>
+          <l>אהבת עולם, שמח בחלקך.</l>
+          <l>לפעמים יש רגע, בו אתה נשבר</l>
+          <l>תתחזק הלילה, לא יחסר דבר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זו הדרך, אני יודע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

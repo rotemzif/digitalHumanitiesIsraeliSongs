@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משהו קורה לי 2</title>
+        <singer classification="male singer">חיים משה</singer>
+        <writer>שלמה כישור</writer>
+        <composer>ניקי גונן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משהו קורה לי</head>
+        <lg number="1" type="stanza">
+          <l>משהו קורה לי, לא יודע מה</l>
+          <l>כמו אורח בא לי ובלי הזמנה.</l>
+          <l>לפעמים צוחק הוא, לפעמים נכלם</l>
+          <l>בי הוא מתעתע, בא ונעלם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>משהו קורה לי, משהו רוחש בי</l>
+          <l>ואינו אומר מלה.</l>
+          <l>אך הלב יודע כי רק הוא שומע</l>
+          <l>את ניגון האהבה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מישהו לוחש לי את שיר האביב,</l>
+          <l>מפזם בנחת וקולו חביב</l>
+          <l>והלב שומע איך השיר עולה,</l>
+          <l>מתוכי נובע כנהר גואה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>משהו קורה לי, משהו רוחש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

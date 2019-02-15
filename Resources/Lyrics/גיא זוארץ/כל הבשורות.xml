@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל הבשורות</title>
+        <singer classification="unknown">גיא זוארץ</singer>
+        <writer>גיא זוארץ</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל הבשורות</head>
+        <lg number="1" type="stanza">
+          <l>כמה רגעים קטנים עושים את ההבדל </l>
+          <l>האם אצליח לוותר על ההרגל להיסגר </l>
+          <l>כמה פעמים בחרתי בך להילחם </l>
+          <l>אלייך את חציי הזעם מכוון, לא מוותר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את כל הבשורות אני הבאתי לפנייך </l>
+          <l>את כל המראות שאספתי בעיני</l>
+          <l>ואת תמיד שותקת, אולי את מוותרת </l>
+          <l>תתני עוד רגע בחיי... </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה מסכות אספתי לי עם השנים </l>
+          <l>עומד מולך אותו האיש שלא מוצא את המילים </l>
+          <l>על במה גדולה אבדו לי כל הכיוונים </l>
+          <l>האם קולי נשמע, אולי בכלל קולם של אחרים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את כל הבשורות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

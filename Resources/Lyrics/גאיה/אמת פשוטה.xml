@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמת פשוטה</title>
+        <singer classification="band">גאיה</singer>
+        <writer>ישי גזית</writer>
+        <composer>גילי ליבר</composer>
+        <album>נולדנו להמשיך חיים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמת פשוטה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>לפעמים הדרך היא קצת קשה,</l>
+          <l>אך בסוף תמיד נמצאת אמת פשוטה.</l>
+          <l>ועם קצת רצון ואמונה,</l>
+          <l>נמצא מקום של שקט ואהבה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לילה כל הכוכבים כבו מזמן,</l>
+          <l>נשארנו רק שנינו.</l>
+          <l>אני ואת כאן,</l>
+          <l>ומעל שמיכה של כוכבים,</l>
+          <l>קרוב קרוב אנחנו שוכבים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהבה ברגעי הפחד,</l>
+          <l>תמיד נשארנו, נשארנו יחד.</l>
+          <l>גוף אחד ובין גלי חיים,</l>
+          <l>עד הסוף אנחנו ממשיכים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לפעמים הדרך היא קצת קשה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

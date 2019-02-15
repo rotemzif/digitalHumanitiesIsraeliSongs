@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שרון 3</title>
+        <singer classification="unknown">משה בן בסט</singer>
+        <writer>רונית וייס ברקוביץ'</writer>
+        <composer>משה בן בסט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שרון</head>
+        <lg number="1" type="stanza">
+          <l>חיכיתי לך כל חיי </l>
+          <l>שהיו ריקים בלעדיך </l>
+          <l>ליטפת את פניי </l>
+          <l>אני זוכרת את ידיך </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עולמי נשאר יתום </l>
+          <l>אני רוצה לברוח </l>
+          <l>רק כשאמות </l>
+          <l>אוכל אותך לשכוח </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני הולכת אל מותי </l>
+          <l>בלי שידעת אותי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

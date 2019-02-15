@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ברטה</title>
+        <singer classification="female singer">נופר גנור</singer>
+        <writer>נופר גנור</writer>
+        <composer>נופר גנור</composer>
+        <album>נופר גנור</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ברטה</head>
+        <lg number="1" type="stanza">
+          <l>ברטה היא ילדה שרוטה </l>
+          <l>כותבת שירים למגרה </l>
+          <l>ובלילה כשכולם הוכים לישון </l>
+          <l>היא יוצאת מהארון </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ברטה היא ילדה גדולה </l>
+          <l>לעשות הכל היא יכולה </l>
+          <l>וכשיש חושך בחדרים </l>
+          <l>היא רואה סרטים כחולים </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ברטה רואה את העולם בשחור </l>
+          <l>כך אומרים האנשים </l>
+          <l>אבל כשבאים לה מאחור </l>
+          <l>זה עושה לה ריגושים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ברטה חושבת כל הזמן </l>
+          <l>על חמור אחד חרמן </l>
+          <l>וכשאין לה מה לעשות </l>
+          <l>היא אוהבת לנסות </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ברטה בסלון עכשו </l>
+          <l>קושרת ידידון מורעב </l>
+          <l>ומה שהיא עושה לו בתוך הכלוב </l>
+          <l>מכניסה אותו לגרוב </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ברטה רואה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

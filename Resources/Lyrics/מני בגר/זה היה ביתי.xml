@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה היה ביתי 3</title>
+        <singer classification="male singer">מני בגר</singer>
+        <writer>מני בגר</writer>
+        <composer>מני בגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה היה ביתי</head>
+        <lg number="1" type="stanza">
+          <l>איך שבאו חברים יום יום לשבת</l>
+          <l>על כוסית או שתיים</l>
+          <l>סיפורי ילדות סיפרנו על שטיח בפינה</l>
+          <l>חתול ישב לו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קפה שחור מספלים קטנים</l>
+          <l>תקליטים, קוביות ומשחקים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זה היה ביתי</l>
+          <l>עם גינה ולול היה ביתי</l>
+          <l>היה שלך, היה שלי, היה שלנו</l>
+          <l>עם שחר יגורו בו זרים</l>
+          <l>ואנחנו עם כל הזכרונות נעלמים, נעלמים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שוב לא רואים נרות דולקים</l>
+          <l>בחלונות מאז עזבנו</l>
+          <l>כשאת הלכת הלכו איתך כל אותם</l>
+          <l>הידידים איתם תמיד צחקנו</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>החתול האפור כבר נעלם</l>
+          <l>הקול שבחצר נדם</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה היה ביתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

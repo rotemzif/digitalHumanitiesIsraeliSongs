@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משחק של דמעות 2</title>
+        <singer classification="band">נקמת הטרקטור</singer>
+        <writer>אבי בללי</writer>
+        <composer>אבי בללי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משחק של דמעות</head>
+        <lg number="1" type="stanza">
+          <l>בתוך שעות השקט</l>
+          <l>מיוזע מגופך</l>
+          <l>חש אותך נעלמת</l>
+          <l>חומקת אל תוך תוכך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בתוך עננים של דממה</l>
+          <l>את נוטפת</l>
+          <l>מליחות של פרידה</l>
+          <l>וזרות מתפזרת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>והכל רק משחק של דמעות</l>
+          <l>אני עף למקום אחר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ובבוקר היום עמדת</l>
+          <l>מולי שותקת</l>
+          <l>ומשחק של דמעות התחיל</l>
+          <l>עם רעש הרכבת</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>והכל רק משחק של דמעות</l>
+          <l>אני עף למקום אחר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

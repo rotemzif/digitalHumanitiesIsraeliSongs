@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לי מוסיקה בלב</title>
+        <singer classification="male singer">מאיר ישראל</singer>
+        <writer>מאיר ישראל</writer>
+        <composer>מאיר ישראל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לי מוסיקה בלב</head>
+        <lg number="1" type="stanza">
+          <l>כשהשמש שוקעת בים הכחול</l>
+          <l>זה מוסיקה בלב</l>
+          <l>כשזוגות אוהבים אוהבים על החול</l>
+          <l>זה מוסיקה בלב</l>
+          <l>עכשיו חם</l>
+          <l>עכשיו חם</l>
+          <l>כשהשמש זורחת</l>
+          <l>יש לי מוסיקה בלב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בין מלחמה ושלום</l>
+          <l>יש לי זמן לחלום</l>
+          <l>בין אם עצוב או כואב</l>
+          <l>יש לי שיר בלב</l>
+          <l>בואי נאהב עכשיו</l>
+          <l>גם אם חם עכשיו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכשיו את</l>
+          <l>עכשיו את</l>
+          <l>יש לי מוסיקה בלב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשטיפות ראשונות מרטיבות את העיר</l>
+          <l>זה מוסיקה בלב</l>
+          <l>כשמיליארד אנשים אוהבים סתם לשיר</l>
+          <l>זה מוסיקה בלב</l>
+          <l>עכשיו קר</l>
+          <l>עכשיו קר</l>
+          <l>כשהגשם יורד</l>
+          <l>יש לי מוסיקה בלב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בין מלחמה ושלום...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כשהשמש שוקעת</l>
+          <l>כשעלים צהובים</l>
+          <l>כשהכול שוב פורח</l>
+          <l>יש לי מוסיקה בלב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זהירות מהמרווח</title>
+        <singer classification="female singer">ענבל פרלמוטר</singer>
+        <writer>ענבל פרלמוטר</writer>
+        <composer>ענבל פרלמוטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זהירות מהמרווח</head>
+        <lg number="1" type="stanza">
+          <l>פעם הזמנים היו יותר טובים</l>
+          <l>כולם אומרים ככה כולם חושבים...</l>
+          <l>גלים של נוסטלגיה עפים באויר</l>
+          <l>כי פעם החורף היה די סביר...</l>
+          <l>גלים של נוסטלגיה עפים באויר</l>
+          <l>כי פעם בקיץ היה די קריר...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני לא כל כך זוכרת</l>
+          <l>מתגעגעת רק בערך,</l>
+          <l>כי העתיד נראה לי הרבה יותר מגניב:</l>
+          <l>רוצה לנסוע ברכבת התחתית של תל אביב...</l>
+          <l>והם יגידו:</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זהירות מהמרווח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זהירות מהמרווח</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זהירות מהמרווח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

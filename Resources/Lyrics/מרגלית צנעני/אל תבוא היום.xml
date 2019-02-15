@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תבוא היום</title>
+        <singer classification="female singer">מרגלית צנעני</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>מרגלית צנעני</composer>
+        <album>לעולם</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תבוא היום</head>
+        <lg number="1" type="stanza">
+          <l>אם תספור לי מעכשיו עד מאה,</l>
+          <l>אם תבכה לי שאתה עצוב,</l>
+          <l>גם אם תתחנן ותשתגע,</l>
+          <l>לעולם אליך לא אשוב.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היתה לי אהבה, אהבתי רק אותך,</l>
+          <l>ובגללך כמעט שכחתי את עצמי.</l>
+          <l>היתה לי אהבה, והיא כבר לא שלך,</l>
+          <l>מה שהיה כבר לא ישוב לעולמים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תבוא היום, ואל תבוא מחר,</l>
+          <l>כי האתמול חלף לו ואיננו,</l>
+          <l>אל תבוא היום, לא אל תבוא בכלל.</l>
+          <l>רק הגורל יפגיש ביננו...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כמה פעמים אתה שיקרת,</l>
+          <l>וחשבת שאקנה הכל,</l>
+          <l>האמת זוחלת מלמטה,</l>
+          <l>אני לא נולדתי אתמול.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>היתה לי אהבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

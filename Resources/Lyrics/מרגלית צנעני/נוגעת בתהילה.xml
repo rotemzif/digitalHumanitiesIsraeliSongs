@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נוגעת בתהילה</title>
+        <singer classification="female singer">מרגלית צנעני</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>מני קוממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נוגעת בתהילה</head>
+        <lg number="1" type="stanza">
+          <l>השמש מחייכת  לעיניה</l>
+          <l>מאירה מבעד לענן</l>
+          <l>הרוח מלטפת את פניה</l>
+          <l>במרוץ הרוגש אל תוך הזמן.</l>
+          <l>כבר משחר נעורים</l>
+          <l>דרך יין ושירים</l>
+          <l>עושה את לילותיה כימים</l>
+          <l>סוחפת לצלילים המקסימים. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>על כנפי סופה גדולה</l>
+          <l>לשחקים עולה עולה</l>
+          <l>ונוגעת בתהילה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הקצב הנפלא בעקבותיה</l>
+          <l>מרקד איתה בלי הפוגה</l>
+          <l>ולא נקרע מיתר מנגינותיה</l>
+          <l>מפלס דרכים אל הפסגה.</l>
+          <l>שירתה כאש חמה</l>
+          <l>מחלחלת בנשמה</l>
+          <l>עושה את לילותיה כימים</l>
+          <l>סוחפת לצלילים המקסימים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>על כנפי סופה גדולה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

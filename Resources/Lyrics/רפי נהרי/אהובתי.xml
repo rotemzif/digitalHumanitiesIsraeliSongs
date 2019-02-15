@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהובתי 36</title>
+        <singer classification="male singer">רפי נהרי</singer>
+        <writer>ציון חדד</writer>
+        <composer>רפי נהרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהובתי</head>
+        <lg number="1" type="stanza">
+          <l>את המנגינה אני השיר</l>
+          <l>לך עולה השחר ומאיר.</l>
+          <l>אוהב אותך שנה אחר שנה</l>
+          <l>את לבי אתן לך במתנה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את לי האור, את לי הנחמה</l>
+          <l>אהובתי, אהובתי.</l>
+          <l>אוהב אותך עד כלות הנשימה,</l>
+          <l>אהובתי, אהובתי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך בי ניצתה האש לא אדע</l>
+          <l>איך לוהט גופי מאהבה</l>
+          <l>ובחלום דמותך תאיר לילי,</l>
+          <l>מתי ילדה תהיי שלי?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את לי האור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

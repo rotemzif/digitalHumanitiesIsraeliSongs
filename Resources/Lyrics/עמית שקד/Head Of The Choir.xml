@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Head Of The Choir</title>
+        <singer classification="male singer">עמית שקד</singer>
+        <writer>עמית שקד</writer>
+        <composer>עמית שקד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Head Of The Choir</head>
+        <lg number="1" type="stanza">
+          <l>It's about time                                 </l>
+          <l>For us to shine                                  </l>
+          <l>Line up take a bow                          </l>
+          <l>Wait for your sign                            </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Pay up and walk                         </l>
+          <l>Dance your way out                        </l>
+          <l>You are best heard                       </l>
+          <l>When you don't shout                        </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>In this great rain                                    </l>
+          <l>I am plain                                            </l>
+          <l>It is under my skin in my bones       </l>
+          <l>My old town                                 </l>
+          <l>Won't be found                                    </l>
+          <l>It is under the heaviest stones             </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>I won't let go                                     </l>
+          <l>Of the thick wire                            </l>
+          <l>Break me make me                       </l>
+          <l>Head of the choir                               </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>In this great rain                                   </l>
+          <l>I am plain                                            </l>
+          <l>It is under my skin in my bones       </l>
+          <l>My old town                                 </l>
+          <l>Won't be found                                    </l>
+          <l>It is under the heaviest stones</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

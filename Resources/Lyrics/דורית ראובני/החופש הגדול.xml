@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>החופש הגדול</title>
+        <singer classification="female singer">דורית ראובני</singer>
+        <writer>נעמי שמר</writer>
+        <composer>נעמי שמר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>החופש הגדול</head>
+        <lg number="1" type="stanza">
+          <l>הכל אני יכול בחופש הגדול</l>
+          <l>לצמוח ולגדול בחופש הגדול</l>
+          <l>ללבוש סינור כחול בחופש הגדול</l>
+          <l>וככה לעמול בחופש הגדול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הכל הכל אני יכול</l>
+          <l>כי זה החופש הגדול</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמעט הכל אפשר בחופש הגדול:</l>
+          <l>אולי ניסע לכפר בחופש הגדול</l>
+          <l>לעזור שם בקציר בחופש הגדול</l>
+          <l>וקצת לקצור חציר בחופש הגדול</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הכל הכל אני יכול</l>
+          <l>כי זה החופש הגדול</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אבל הכי נחמד בחופש הגדול</l>
+          <l>פשוט להיות לבד בחופש הגדול</l>
+          <l>ועל חולות זהב בחופש הגדול</l>
+          <l>לשכב לי על הגב בחופש הגדול</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הכל הכל אני יכול</l>
+          <l>כי זה החופש הגדול</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

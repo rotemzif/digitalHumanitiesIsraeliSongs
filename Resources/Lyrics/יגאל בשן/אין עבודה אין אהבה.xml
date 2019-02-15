@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין עבודה אין אהבה</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>יגאל בשן</writer>
+        <composer>יגאל בשן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין עבודה אין אהבה</head>
+        <lg number="1" type="stanza">
+          <l>אם אין עבודה אין אהבה</l>
+          <l>כמו ציפור המעופפת לבדה</l>
+          <l>מסתובב לבד שקט ללא סיבה</l>
+          <l>איפה טעיתי, איפה הייתי</l>
+          <l>אם אין עבודה ואין שמחות</l>
+          <l>לא יודע אם לצחוק או אם לבכות</l>
+          <l>מחפש תקוה בין סימטאות צרות</l>
+          <l>איפה טעיתי תמיד היו לי חלומות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש שם אור קטן בקצה המנהרה</l>
+          <l>אל תלכי עכשיו כשאין לך מטרה</l>
+          <l>יש שם אור קטן שומר על השיר</l>
+          <l>כשאני עובד אני מתחיל לשיר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין עבודה אז יש לי זמן</l>
+          <l>את הראש אני זורק ללא מיניין</l>
+          <l>ופתאום חוזר אותו סיפור ישן</l>
+          <l>איפה טעיתי, בואי תני לי יד נלך מכאן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש שם אור קטן בקצה המנהרה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

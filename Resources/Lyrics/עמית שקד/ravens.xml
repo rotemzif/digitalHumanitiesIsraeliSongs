@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ravens</title>
+        <singer classification="male singer">עמית שקד</singer>
+        <writer>עמית שקד</writer>
+        <composer>עמית שקד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ravens</head>
+        <lg number="1" type="stanza">
+          <l>Walk right trough me</l>
+          <l>I'll stand still</l>
+          <l>Words are spoken</l>
+          <l>Lips are sealed</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>I've heard ravens</l>
+          <l>Sing like doves</l>
+          <l>It was quiet</l>
+          <l>It was love</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>There are no saints here</l>
+          <l>Only us my dear</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>Please excuse me</l>
+          <l>I'm in flames</l>
+          <l>Someone tell me</l>
+          <l>What's my name</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>There are no saints here</l>
+          <l>Only us my dear</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

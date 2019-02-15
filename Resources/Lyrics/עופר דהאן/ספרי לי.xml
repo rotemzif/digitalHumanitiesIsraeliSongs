@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ספרי לי 9</title>
+        <singer classification="unknown">עופר דהאן</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ספרי לי</head>
+        <lg number="1" type="stanza">
+          <l>אני רואה בך, נערה,</l>
+          <l>דמעה ועוד דמעה.</l>
+          <l>ספרי לי חרש מה קרה</l>
+          <l>ולמה את בוכה?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואי וספרי לי</l>
+          <l>מה שאת חושבת.</l>
+          <l>בואי ואמרי לי: </l>
+          <l>"אני אוהבת".</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בשתי עינייך היפות</l>
+          <l>עצב לא נגמר</l>
+          <l>וגם אני ממשיך להיות</l>
+          <l>כואב עוד את העבר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בואי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

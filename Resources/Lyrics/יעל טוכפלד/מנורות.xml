@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מנורות 2</title>
+        <singer classification="unknown">יעל טוכפלד</singer>
+        <writer>ברק אולייר</writer>
+        <composer>ברק אולייר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מנורות</head>
+        <lg number="1" type="stanza">
+          <l>מנורות בכל מיני צבעים נשרפות מולי</l>
+          <l>וחושך גדול מתגלה כשאני נחשפת</l>
+          <l>ואתם נפלתם עליי דחפתם אותי לבור</l>
+          <l>עם כל הסודות בלי המסכות שאני לובשת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מנורות מכל מיני תקופות </l>
+          <l>נדלקות וכבות בשבילי...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מנורות בכל מיני צבעים מאירות הכל</l>
+          <l>וחושך גדול מחיי הפך לעצב</l>
+          <l>ואני למדתי לחיות עם משקל גדול</l>
+          <l>בשם הקירבה לכאב שלא ביקשתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מנורות מכל מיני תקופות</l>
+          <l>נדלקות וכבות בשבילי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

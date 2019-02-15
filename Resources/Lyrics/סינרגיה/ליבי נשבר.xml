@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ליבי נשבר</title>
+        <singer classification="band">סינרגיה</singer>
+        <writer>צחי איטח</writer>
+        <composer>missing</composer>
+        <album>מרגיש אחר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ליבי נשבר</head>
+        <lg number="1" type="stanza">
+          <l>מתעורר לעוד בוקר חדש עם תקווה</l>
+          <l>מנסה לחפש ולא מוצא אהבה</l>
+          <l>אוסף אט אט אל חתיכות הייאוש </l>
+          <l>את תמונת חיי מרכיב בלי ריגוש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עכשיו אני יודע</l>
+          <l>שהזמן הוא יקר,</l>
+          <l>מכסים עננים,</l>
+          <l>השמיים בוכים</l>
+          <l>כי זה ליבי נשבר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>השמש כבר קמה הרבה לפני</l>
+          <l>שוטף פנים ופוקח את עיני</l>
+          <l>עכשיו כשהלכת, כשנשארנו לבד</l>
+          <l>חיפשתי סיבה ומצאתי אחת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עכשיו אני יודע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

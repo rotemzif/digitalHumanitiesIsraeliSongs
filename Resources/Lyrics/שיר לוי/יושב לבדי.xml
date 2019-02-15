@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יושב לבדי</title>
+        <singer classification="male singer">שיר לוי</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>יוסי בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יושב לבדי</head>
+        <lg number="1" type="stanza">
+          <l>אני עוד זוכר את היום הראשון שאלייך הגעתי </l>
+          <l>בעינייך ראיתי את האושר מגיע אליי </l>
+          <l>ופתאום העולם השתנה את נהיית לי כל כך משונה </l>
+          <l>כן רוצה , לא רוצה , מבולבלת ילדה ואותי משאירה מאחור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני יושב לבדי ושואל מה איתי </l>
+          <l>למה כך תוותרי על שנינו, חזרי </l>
+          <l>אני בא והולך אל תפני לי גבך </l>
+          <l>בגללך בחיי אני שוב מסתבך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלילה יורד והאור בחלון מספרים את חייך </l>
+          <l>את לבד ,לא לבד או עם מישהו שהגיע עכשיו </l>
+          <l>ופתאום העולם השתנה </l>
+          <l>את נהיית לי כל כך משונה </l>
+          <l>כן רוצה לא רוצה מבולבלת ילדה </l>
+          <l>ואותי משאירה מאחור </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני יושב לבדי ושואל מה איתי </l>
+          <l>למה כך תוותרי על שנינו, חזרי </l>
+          <l>אני בא והולך אל תפני לי גבך </l>
+          <l>בגללך בחיי אני שוב מסתבך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

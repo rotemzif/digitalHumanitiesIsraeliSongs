@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צעד לא חשוב</title>
+        <singer classification="male singer">דן תורן</singer>
+        <writer>דן תורן</writer>
+        <composer>דן תורן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צעד לא חשוב</head>
+        <lg number="1" type="stanza">
+          <l>אם צעד לא חשוב</l>
+          <l>יכול לגרום לך לשוב</l>
+          <l>מה המרחק שצריך לעבור</l>
+          <l>כדי אף פעם לא לחזור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה לא קורה לי אף פעם אנ' לא יודע</l>
+          <l>ומה שלא יהיה איתי אנ' לא פוגע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם מבט אחד קצר</l>
+          <l>יכול לקרוע בלב הצר</l>
+          <l>מה באמת צריך לקרות</l>
+          <l>כדי שזוג אחד יוכל לחיות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה לא קורה לי אף פעם אנ' לא יודע</l>
+          <l>ומה שלא יהיה איתי אנ' לא פוגע</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

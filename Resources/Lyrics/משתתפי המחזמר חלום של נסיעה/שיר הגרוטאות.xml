@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הגרוטאות</title>
+        <singer classification="unknown">משתתפי המחזמר חלום של נסיעה</singer>
+        <writer>רחל רוזנמן</writer>
+        <composer>אלון אולארצ'יק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הגרוטאות</head>
+        <lg number="1" type="stanza">
+          <l>נסעו בי במהירות</l>
+          <l>קדימה ואחור</l>
+          <l>הנהג התעלם</l>
+          <l>מכל תמרור עצור</l>
+          <l>בצומת אחרונה</l>
+          <l>קשה להאמין</l>
+          <l>התנגשה בי מכונית</l>
+          <l>שבאה מימין</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה באמת עצוב וטיפ טיפה מרגיז</l>
+          <l>אבל לנו לנו זה לא כל כך מזיז</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בלילה מאוחר</l>
+          <l>נסעתי לי בכביש</l>
+          <l>הנהג פשוט נרדם</l>
+          <l>אפילו לא הרגיש</l>
+          <l>ירד לתעלה</l>
+          <l>אני לא יודע איך</l>
+          <l>התנגש בעץ</l>
+          <l>אחר כך התהפך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה באמת עצוב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הייתי חדשה</l>
+          <l>יפה ונפלאה</l>
+          <l>נסעו בי מאתיים</l>
+          <l>קילומטר לשעה</l>
+          <l>דיברו בפלאפון</l>
+          <l>חצי שעה - שעה</l>
+          <l>עכשיו יפיפיית הכביש</l>
+          <l>הפכה לגרוטאה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה באמת עצוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נשיקה קטנה 2</title>
+        <singer classification="male singer">עידן יניב</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>missing</composer>
+        <album>מי אם לא עידן יניב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נשיקה קטנה</head>
+        <lg number="1" type="stanza">
+          <l>רק תתני לי עוד דקה</l>
+          <l>אחת של אהבה</l>
+          <l>אתן לך את כולי</l>
+          <l>אם רק תהיי שלי</l>
+          <l>את בשבילי מלכה</l>
+          <l>אחת ויחידה </l>
+          <l>חיוך קטן שלך</l>
+          <l>והעולם נפתח</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תלכי לי כי אני אוהב</l>
+          <l>אל תלכי לי כי זה ממש כואב</l>
+          <l>נשיקה אחת קטנה שלך</l>
+          <l>מציתה בי אש של אהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק חכי לי אהובה</l>
+          <l>אלייך אני בא</l>
+          <l>לחיות בתוך ליבך</l>
+          <l>בצל אהבתך</l>
+          <l>נכנסת לי לנשמה</l>
+          <l>כמו רוח סערה</l>
+          <l>מרגיש כה מאושר</l>
+          <l>ושוב אלייך שר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תלכי לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

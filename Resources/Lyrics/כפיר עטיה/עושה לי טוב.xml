@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עושה לי טוב 3</title>
+        <singer classification="unknown">כפיר עטיה</singer>
+        <writer>שרון אסולין</writer>
+        <composer>שרון אסולין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עושה לי טוב</head>
+        <lg number="1" type="stanza">
+          <l>בתוך הלב ידעתי את הכל</l>
+          <l>לחיות איתך חלום אחד גדול</l>
+          <l>מאושר איתך נרגש עד השמיים</l>
+          <l>נשיקה שלך עושה אותי בוער</l>
+          <l>אם את לא איתי אני עוצם עיניים</l>
+          <l>איך זה בא לי טוב וזה חוזר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את עושה לי טוב איך שאת בי נוגעת</l>
+          <l>עושה לי טוב בלב ובנשמה</l>
+          <l>אוהב אותך את זה את כבר יודעת</l>
+          <l>ובלעדייך לא שווה דבר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נשבעתי לך תהיי תמיד שלי</l>
+          <l>ואין אישה אחרת בשבילי</l>
+          <l>מאושר איתך נרגש עד השמיים</l>
+          <l>נשיקה שלך עושה אותי בוער</l>
+          <l>אם את לא איתי אני עוצם עיניים</l>
+          <l>איך זה בא לי טוב וזה חוזר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את עושה לי טוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

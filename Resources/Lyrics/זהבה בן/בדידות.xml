@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בדידות 3</title>
+        <singer classification="female singer">זהבה בן</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>שמואל אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בדידות</head>
+        <lg number="1" type="stanza">
+          <l>ערב מעונן, מביטה באופק</l>
+          <l>רציתי שתבוא לכאן</l>
+          <l>משהו לא מובן גורם לדופק</l>
+          <l>לאבד תחושה של זמן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הגשם מטפטף מרטיב את הרחוב</l>
+          <l>שוטף את התקוות שלנו</l>
+          <l>רציתי לפנק אותך לחוש קרוב</l>
+          <l>בוא אלי לבית שאהבנו</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הגשם מטפטף מרטיב את הרחוב</l>
+          <l>שוטף את הקירות שלנו</l>
+          <l>רציתי לחבק אותך לחוש קרוב</l>
+          <l>בוא אלי לבית שאהבנו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לנשק אותך אתה יקר לי</l>
+          <l>בלבי תפילה קטנה</l>
+          <l>כשבחוץ מואר אצלי החושך</l>
+          <l>משתלט בכל פינה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הגשם מטפטף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

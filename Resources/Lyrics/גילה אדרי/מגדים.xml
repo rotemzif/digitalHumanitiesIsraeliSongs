@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מגדים</title>
+        <singer classification="female singer">גילה אדרי</singer>
+        <writer>עמנואל זמיר</writer>
+        <composer>עמנואל זמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מגדים</head>
+        <lg number="1" type="stanza">
+          <l>מגדים לרעי בצנעה מי צפן?</l>
+          <l>שחוק עלים גשומים מה ירוק הוא?</l>
+          <l>וטרופה שמחתי מיינה כי שכר</l>
+          <l>ורוגעה - עינות בה ישוקו...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אחזו לי, לילות וימים ברוכים</l>
+          <l>משעולי בשמים - אחזו לי</l>
+          <l>בוא רעי, בוא דודי, גשומים העלים</l>
+          <l>הן לך משלך ואתה לי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

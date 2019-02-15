@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא יאמן</title>
+        <singer classification="male singer">רגב הוד</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>אלי צרויה</composer>
+        <album>בעקבותייך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא יאמן</head>
+        <lg number="1" type="stanza">
+          <l>הלילה את הולכת נפרדת מעלי</l>
+          <l>אל דרך שתוביל לשום מקום</l>
+          <l>אותך עד לב שמיים</l>
+          <l>אהבתי שבעתיים</l>
+          <l>היית לי כמלאך מהחלום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא יאמן, לא יתכן</l>
+          <l>למענך נתתי את כל מה שאין</l>
+          <l>כשנגענו רק בקצה הלהבה</l>
+          <l>לא יאמן, לא יתכן</l>
+          <l>תמיד ידעתי שבסוף תאמרי לי כן</l>
+          <l>כבר גילינו את סודות האהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נפשי עוד נאבקת זועקת מכאב</l>
+          <l>לאן תלכי עכשיו אשה שלי</l>
+          <l>מאין לך הכח</l>
+          <l>כל כך מהר לשכוח</l>
+          <l>את המילים אשר לחשת רק לי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא יאמן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

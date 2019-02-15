@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דברי אלי ללא מילים</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>משה בן שאול</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דברי אלי ללא מילים</head>
+        <lg number="1" type="stanza">
+          <l>את הולכת לאורך הקיץ</l>
+          <l>עם לובן זך מבעד לשיזוף</l>
+          <l>אני מרגיש שהמבט בשתי עינייך</l>
+          <l>חותך אותי עכשיו לרוחב כל הגוף</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>דברי אלי אישה יפה ללא מילים</l>
+          <l>אני שומע את קולך כחלילים, כחלילים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את פוסעת לאורך הערב</l>
+          <l>בסתיו זהוב לוקט עלעלים</l>
+          <l>אני מרגיש שמבטך דוקר כחרב</l>
+          <l>מבעד לעצבות הזאת ללא מילים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>דברי אלי אישה יפה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את עוברת לאורך הגשם</l>
+          <l>ליבך כולו עטוף, ליבך חורפי</l>
+          <l>אני רוצה לנגוע בך וגם לגשת</l>
+          <l>אך מרחקך מרטיב בגשם את גופי</l>
+          <l>את גופי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

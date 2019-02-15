@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני דוהר</title>
+        <singer classification="male singer">רגב הוד</singer>
+        <writer>אהוד מנור</writer>
+        <composer>מיקי גבריאלוב</composer>
+        <album>בעקבותייך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני דוהר</head>
+        <lg number="1" type="stanza">
+          <l>אני דוהר אופק הולך ומתרחק</l>
+          <l>דופק הולך ומתחזק ואני שואל לאן</l>
+          <l>עוד יום עובר לילה קצר הופך ליום</l>
+          <l>גשם וקור הופכים לחום</l>
+          <l>ואני דוהר בזמן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>העולם אינו מודאג מתחת לרקיע</l>
+          <l>אין לי אין לי שום מושג לאן נגיע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני אוהב רגע אני נשבע לעד</l>
+          <l>רגע אני נשאר לבד ומתחיל שוב לשוטט</l>
+          <l>עוד לב כואב עוד אהבה שנגמרה</l>
+          <l>עוד אהבה התעוררה ונדמה שבאמת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>העולם אינו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני ממשיך אילו יכולתי לעצור</l>
+          <l>אילו יכולתי לחזור להתחיל מהתחלה</l>
+          <l>זה לא הפיך מה שקרה הוא שיקרה</l>
+          <l>ועד הסוף כאן כנראה תשאל השאלה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>העולם אינו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

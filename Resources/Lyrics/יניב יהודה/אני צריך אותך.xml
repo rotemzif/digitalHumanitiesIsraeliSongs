@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני צריך אותך 2</title>
+        <singer classification="unknown">יניב יהודה</singer>
+        <writer>רמי לב</writer>
+        <composer>דורון אלימלך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני צריך אותך</head>
+        <lg number="1" type="stanza">
+          <l>כתבתי את השיר הזה בזמן של געגוע</l>
+          <l>זה מוקדש רק לך, קבלי באהבה.</l>
+          <l>אלייך כל הנשיקות עפות מכאן ברוח</l>
+          <l>כשאת לא כאן, אני כמו משוגע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני צריך אותך אני אוהב אותך</l>
+          <l>האהבה שלך שווה לי את כל העולם</l>
+          <l>ואת עמוק בלב אני אותך אוהב</l>
+          <l>את כל כך יפה שזה כואב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לפעמים אני חושב זה לא סתם שנפגשנו</l>
+          <l>רציתי שתדעי, שאת הסיבה</l>
+          <l>כל חיוך קטן שלך אומר הכל לשנינו</l>
+          <l>כשאת לא כאן, אני כמו משוגע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני צריך אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

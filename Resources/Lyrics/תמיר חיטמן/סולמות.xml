@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סולמות 3</title>
+        <singer classification="unknown">תמיר חיטמן</singer>
+        <writer>ארז ברזוליק</writer>
+        <composer>תמיר חיטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סולמות</head>
+        <lg number="1" type="stanza">
+          <l>סולמות לבנים בדרכי אל אלוהים</l>
+          <l>מחכה לי ומודיע,</l>
+          <l>בלבו רחמים, בלבי רק חטאים</l>
+          <l>ועדיף שלא אגיע.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק הזדמנות אחת בלבד </l>
+          <l>ואז אולי...</l>
+          <l>אני אחזור חזק יותר</l>
+          <l>על צעדי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הנשים הרכות שמילאו את לילותי</l>
+          <l>הן פיתו אותי לשמוח.</l>
+          <l>כמו שבוי באשמה התמכרתי, אלוהיי!</l>
+          <l>אם יכולת שוב לסלוח.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק הזדמנות אחת בלבד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

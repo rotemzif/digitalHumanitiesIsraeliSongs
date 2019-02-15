@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לך ירושלים 3</title>
+        <singer classification="male singer">רן אלירן</singer>
+        <writer>עמוס אטינגר</writer>
+        <composer>אלי רובינשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לך ירושלים</head>
+        <lg number="1" type="stanza">
+          <l>לך ירושלים, בין חומות העיר</l>
+          <l>לך ירושלים, אור חדש יאיר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בליבנו, בליבנו רק שיר אחד קיים</l>
+          <l>לך ירושלים, בין ירדן וים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לך ירושלים, נוף קדומים והוד</l>
+          <l>לך ירושלים, לך רזים וסוד.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בליבנו, בליבנו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לך ירושלים, שיר נישא תמיד</l>
+          <l>לך ירושלים, עיר מגדל דוד.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בליבנו, בליבנו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

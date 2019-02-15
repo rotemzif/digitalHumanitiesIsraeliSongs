@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אנסטסיה</title>
+        <singer classification="male singer">נינו אורסיאנו</singer>
+        <writer>ארז ברזוליק</writer>
+        <composer>נינו אורסיאנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אנסטסיה</head>
+        <lg number="1" type="stanza">
+          <l>לילה קר נפל על שנינו </l>
+          <l>לילה טוב לגעגועים </l>
+          <l>עוד גיבור שלא יחזור </l>
+          <l>כפות בכתונת משוגעים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הו אנסטסיה </l>
+          <l>הוא כבר לא אוהב אותי </l>
+          <l>הוא הבטיח לחזור עד מאי </l>
+          <l>או אנסטסיה </l>
+          <l>הוא כבר לא אוהב אותי </l>
+          <l>אז תגידי לי - מי כאן הרמאי? </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לילה קר ונדודי שינה </l>
+          <l>נשארו עוד כמה ימים </l>
+          <l>עוד גיבור שמאוהב </l>
+          <l>דם כחול באבריו החמים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הו אנסטסיה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תחזור אלי עד בוא האור </l>
+          <l>אנסטסיה דואגת וגם אני </l>
+          <l>עכשיו,אולי תחזור </l>
+          <l>אנסטסיה ואני לא נרדמים </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הו אנסטסיה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

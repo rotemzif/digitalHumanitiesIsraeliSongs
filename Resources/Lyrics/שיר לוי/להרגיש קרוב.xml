@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>להרגיש קרוב 2</title>
+        <singer classification="male singer">שיר לוי</singer>
+        <writer>אשר עשתון</writer>
+        <composer>אלי מור יוסף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>להרגיש קרוב</head>
+        <lg number="1" type="stanza">
+          <l>את רוקדת מסביבי </l>
+          <l>ושולחת לי מבט</l>
+          <l>את לוחשת לי את שמי</l>
+          <l>והלב בפנים נצבט</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>להרגיש קרוב ולאהוב </l>
+          <l>לחבק אותך חזק לא לעזוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה שיגעת אותי הלילה </l>
+          <l>כמה אני רוצה אותך</l>
+          <l>את תחלמי איתי הלילה</l>
+          <l>כמה אני אוהב אותך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את שוכבת לידי</l>
+          <l>ואני איני נרדם</l>
+          <l>מסתובב בתוך חדרי</l>
+          <l>כדי לראות שאת עוד כאן</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>להרגיש קרוב ולאהוב</l>
+          <l>לחבק אותך חזק לא לעזוב</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כמה שיגעת אותי הלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

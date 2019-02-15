@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הדרך שעברתי</title>
+        <singer classification="unknown">דייב מאיר</singer>
+        <writer>דייב מאיר</writer>
+        <composer>דייב מאיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הדרך שעברתי</head>
+        <lg number="1" type="stanza">
+          <l>הדרך שעברתי בחיי,</l>
+          <l>ארוכה מידיי, וקשה היא דיי,</l>
+          <l>לא ניראה הסוף.</l>
+          <l>מי יכפר לי על דימעותיי,</l>
+          <l>על שנים עוברות, על עונות חולפות,</l>
+          <l>עת נעלם הצחוק.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חסר לי קולה של אם אוהבת,</l>
+          <l>חסרה לי כף ידה המלטפת.</l>
+          <l>חסר לי הסיפור עת נדדה שנתי,</l>
+          <l>תמיד אשמור זאת בליבי, עד יום מותי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשהשמש תאיר ושוב אשא רגליי,</l>
+          <l>אחפש בעיר, במישעול בשביל,</l>
+          <l>אוליי יראו עיניי.</l>
+          <l>כמו סומא המגשש את הדך לפניו,</l>
+          <l>אני עובר עוד עיר, בקול עצוב עוד שיר,</l>
+          <l>שמיתנגן לו כל הזמן.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חסר לי קולה של אם אוהבת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

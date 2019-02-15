@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואי שמש אדומה</title>
+        <singer classification="male singer">שם טוב לוי</singer>
+        <writer>צפנת ירון</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואי שמש אדומה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>בואי שמש אדומה</l>
+          <l>בואי אל האדמה</l>
+          <l>ותשרפי אותי בקסמייך</l>
+          <l>ותצרפי אותי בחומך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואי שמש אדומה</l>
+          <l>בואי אל האדמה</l>
+          <l>איך שאשמח איתך הלילה</l>
+          <l>איך שאטרוף אותך כל היום</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בואי שמש אדומה</l>
+          <l>בואי אל האדמה</l>
+          <l>ונטפס בהר אל השחר</l>
+          <l>ונדרדר לים בשקיעה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בואי שמש אדומה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

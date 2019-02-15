@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכביש הוא מסוכן</title>
+        <singer classification="unknown">דורין כהן</singer>
+        <writer>עמוס ברזל</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכביש הוא מסוכן</head>
+        <lg number="1" type="stanza">
+          <l>נשחק בכדור בתופסת ומחבואים,</l>
+          <l>נשחק תמיד רק במגרש המשחקים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי הכביש הוא מסוכן הוא מלא מכוניות, </l>
+          <l>כי הכביש הוא מסוכן ואנחנו רוצים לחיות. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נשחק רק בחצר שם בטוח אני מרגיש,</l>
+          <l>ונשמור על החבר שלא ירוץ פתאום לכביש</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי הכביש הוא מסוכן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

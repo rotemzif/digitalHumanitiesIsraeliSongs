@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שוב הדיסקו כאן</title>
+        <singer classification="band">הדורבנים</singer>
+        <writer>עידו אופק</writer>
+        <composer>עידו אופק</composer>
+        <album>קובי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שוב הדיסקו כאן</head>
+        <lg number="1" type="stanza">
+          <l>מה המצב איתך? מה המצב יא גבר?</l>
+          <l>מה קורה איתך? האם הכל בסדר?</l>
+          <l>הכל מאה אחוז הלילה עם כוס בירה</l>
+          <l>תניע ת'עכוז - הדיסקו בא העירה!</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תזיזי את התחת, תניע ת'אגן</l>
+          <l>שמח שוב במודה, הקצב בלגאן</l>
+          <l>נרקוד כמו ג'ון טרבולטה</l>
+          <l>ושוב הדיסקו לא ילך מכאן</l>
+          <l>אה, אה, אה, אה</l>
+          <l>שוב הדיסקו כאן</l>
+          <l>אה, אה, אה, אה</l>
+          <l>טוב שבאת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רגליים בפישוק ויד אחת למעלה</l>
+          <l>ג'ל בשביל הלוק, מחשוף עמוק אם בא לה</l>
+          <l>גיטרה שעושה... וכינורות בטעם</l>
+          <l>מחלקת נשיפה... ובס עם סאונד של פעם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תזיזי את התחת, תניע ת'אגן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

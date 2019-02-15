@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פורט על גיטרה</title>
+        <singer classification="male singer">חיים ישראל</singer>
+        <writer>רמי לב</writer>
+        <composer>עממי יווני</composer>
+        <album>קסם נעוריי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פורט על גיטרה</head>
+        <lg number="1" type="stanza">
+          <l>כשעצוב לי על הלב</l>
+          <l>ובתוך תוכי מרגיש כאב</l>
+          <l>גם אם הכל נראה אפור</l>
+          <l>אמצא לי דרך אל האור</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל קרן שמש טובה</l>
+          <l>להתמלא באהבה</l>
+          <l>לתת מקום לחלומות</l>
+          <l>בין הצלילים למנגינות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza" />
+        <lg number="4" type="stanza">
+          <l>פורט על הגיטרה </l>
+          <l>ובתוכי המנגינה</l>
+          <l>והיא נותנת לי כח</l>
+          <l>נוגעת בעמקי הנשמה</l>
+          <l>פורט על הגיטרה </l>
+          <l>ועולמות בי נפתחים </l>
+          <l>וכל האושר בי בוקע </l>
+          <l>מעליי עולים יורדים המלאכים </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza" />
+        <lg Chorus="yes" number="6" type="stanza" />
+        <lg number="7" type="stanza">
+          <l>צליל מיתרים בא אליי</l>
+          <l>ומתנגן בלילותיי</l>
+          <l>כל שביקשתי מתגלה</l>
+          <l>איך בליבי האור העולה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

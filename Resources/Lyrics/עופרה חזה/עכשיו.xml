@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עכשיו 63</title>
+        <singer classification="unknown">עופרה חזה</singer>
+        <writer>בצלאל אלוני</writer>
+        <composer>בצלאל אלוני</composer>
+        <album>חי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עכשיו</head>
+        <lg number="1" type="stanza">
+          <l>עכשיו כשהשער כבר פרוץ</l>
+          <l>עקבותיך שם בחוץ</l>
+          <l>מחכה עוד שתשוב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עכשיו כשהרוח משתנה</l>
+          <l>וכל יום רודף שנה</l>
+          <l>אני עוד מקווה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא, לא נורא עוד אתגבר</l>
+          <l>מכל כאב אבין יותר</l>
+          <l>אבין יותר שאין מה למהר</l>
+          <l>ורק הטוב בינינו יישאר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עכשיו כשחייך הם חיי</l>
+          <l>ואתה בלעדי</l>
+          <l>מבכה את לילותי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא, לא נורא עוד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

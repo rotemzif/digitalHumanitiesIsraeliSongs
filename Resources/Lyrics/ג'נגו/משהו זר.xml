@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משהו זר</title>
+        <singer classification="unknown">ג נגו</singer>
+        <writer>ג'נגו</writer>
+        <composer>ג'נגו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משהו זר</head>
+        <lg number="1" type="stanza">
+          <l>משהו זר מתקרב</l>
+          <l>אני ישר מתחבא</l>
+          <l>הפכתי לאיש אחר</l>
+          <l>מוזר שזה קורה</l>
+          <l>זורק את עצמי לבור</l>
+          <l>לא מנסה לצאת</l>
+          <l>שבוע עובר לי כמו יום</l>
+          <l>מתחיל לשעמם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לעזוב את הבית</l>
+          <l>לעלות אל מטוס</l>
+          <l>להגיע לשמיים</l>
+          <l>לנסות להשתנות</l>
+          <l>קשה להשתנות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לשמור אותי ער</l>
+          <l>אסור להרדם</l>
+          <l>אני עומד לשחרר</l>
+          <l>את כל מה שעוצר</l>
+          <l>אותי מלהתקדם</l>
+          <l>אני אשבור את כולם</l>
+          <l>תנו לי לצאת</l>
+          <l>תנו לי סיבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לעזוב את הבית...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

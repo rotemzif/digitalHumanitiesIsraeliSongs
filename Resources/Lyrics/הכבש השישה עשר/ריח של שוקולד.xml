@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ריח של שוקולד</title>
+        <singer classification="band">הכבש השישה עשר</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>missing</composer>
+        <album>הכבש הששה עשר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ריח של שוקולד</head>
+        <lg number="1" type="stanza">
+          <l>בסוף רמת גן יש מקום מיוחד</l>
+          <l>שם אפשר לעמוד ולהריח שוקולד</l>
+          <l>יש שם בית גבוה גבוה בלי חלונות עם שלוש ארובות</l>
+          <l>ושלושים מכונות יום ולילה עובדות</l>
+          <l>ושבעים פועלים עם סינר וכפפות</l>
+          <l>מכינים שוקולד בכל הצורות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שוקולד קטן ושוקולד גדול</l>
+          <l>שוקולד יקר ושוקולד בזול</l>
+          <l>שוקולד אגוזים ושוקולד סתם</l>
+          <l>לעשירים ולכולם והריח בחינם</l>
+          <l>וכל האזרחים עוצרים ומריחים...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוצרים הילדים שרצים בשכונה</l>
+          <l>עוצר האוטובוס מעבר לפינה</l>
+          <l>החתולים מפסיקים לברוח מהכלבים</l>
+          <l>השוטרים עומדים ליד הגנבים</l>
+          <l>כולם מביטים אל הארובות</l>
+          <l>ולאט לאט, האף שלהם,</l>
+          <l>מתמלא בריח של שוקולד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שוקולד קטן ושוקולד גדול...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בסוף רמת גן יש מקום מיוחד</l>
+          <l>שם אפשר לעמוד ולהריח שוקולד.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,38 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה שירים אפשר להמציא בכלל</title>
+        <singer classification="male singer">מתי כספי</singer>
+        <writer>מתי כספי</writer>
+        <composer>מתי כספי</composer>
+        <album>צד א' צד ב'</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה שירים אפשר להמציא בכלל</head>
+        <lg number="1" type="stanza">
+          <l>כל השירים של היום נכתבו כבר לפני הרבה שנים</l>
+          <l>מה שחשבנו, הספיקו פשוט לחשוב גם אחרים</l>
+          <l>אל נהיה עד כדי כך תמימים</l>
+          <l>ונחשוב שיש יוצאים מן הכלל -</l>
+          <l>כמה שירים כבר אפשר להמציא בכלל?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

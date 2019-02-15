@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילה שלי 2</title>
+        <singer classification="male singer">רובי חן</singer>
+        <writer>אבי רן טוויג</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילה שלי</head>
+        <lg number="1" type="stanza">
+          <l>לילה שלי לילה בתוך תוכי,</l>
+          <l>לילה פרח שלי לילה חלום שלי,</l>
+          <l>לילה מלאך שלי לילה,</l>
+          <l>לילה שלי לילה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אתמול הייתה לילה ילדה קטנה תמה,</l>
+          <l>גדלה פרחה לילה הפכה לנערה,</l>
+          <l>קרובה אלי בנפש בלב וגם ברגש בחום וגם ברטט </l>
+          <l>אלך איתך לילה בטוב ורע לילה,</l>
+          <l>אלך איתך לילה בטוב ורע לילה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אך, לילה שלי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עיניים לא עצמתי ואותה מאוד חשקתי,</l>
+          <l>רק אותה אני רציתי ובה תקוות תליתי,</l>
+          <l>קרובה אלי בנפש בלב וגם ברגש בחום וגם ברטט </l>
+          <l>תמיד איתה לילה בכל מקום לילה,</l>
+          <l>תמיד איתה לילה בכל מקום לילה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אך, לילה שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

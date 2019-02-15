@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה שטוב</title>
+        <singer classification="unknown">ניר כרמלי</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>ניר כרמלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה שטוב</head>
+        <lg number="1" type="stanza">
+          <l>כמו גלי הים, כולי נפעם</l>
+          <l>מאז שהפכת להיות שלי</l>
+          <l>ובעולם בזכותך אני קיים</l>
+          <l>כי את נולדת רק למעני</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמה שטוב לאהוב כך עד הסוף</l>
+          <l>ובין חדרי הלב למצוא את שנינו</l>
+          <l>כמה שטוב לאהוב מבלי לחשוב</l>
+          <l>שרוך ואהבה עוטפים ליבינו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את כמו מלאך, ואני איתך </l>
+          <l>לאט מאבד את השפיות</l>
+          <l>כשהראש שלך על כתפי בחום מונח</l>
+          <l>חלום חיי הופך למציאות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמה שטוב לאהוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

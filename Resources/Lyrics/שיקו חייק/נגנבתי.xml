@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נגנבתי</title>
+        <singer classification="unknown">שיקו חייק</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>שיקו חייק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נגנבתי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>נגנבתי מהנשיקות שלך</l>
+          <l>נגנבתי כשהכפתור נפתח</l>
+          <l>נגנבתי מהטירוף איתך</l>
+          <l>איתך איתך איתך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשאנחנו נפגשים</l>
+          <l>אני יורד מהפסים</l>
+          <l>לא אכפת לי מכולם</l>
+          <l>שיתהפך כל העולם.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>נגנבתי מהנשיקות...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשאת לובשת בייבי דול</l>
+          <l>אני שוכח מהכל</l>
+          <l>בלי חוכמות ובלי תנאים</l>
+          <l>הלב שלי שובר שיאים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רכבת הרים</title>
+        <singer classification="unknown">בן אל תבורי</singer>
+        <writer>עינת הולנדר</writer>
+        <composer>missing</composer>
+        <album>מוצא בך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רכבת הרים</head>
+        <lg number="1" type="stanza">
+          <l>מהרגע הראשון הסתחררתי </l>
+          <l>מהיופי שלך הסתנוורתי </l>
+          <l>לא ידעתי כזאת אהבה </l>
+          <l>עד שהופעת בסביבה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני אוהב להתאהב בך </l>
+          <l>רק רציתי לספר לך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זאת רכבת הרים של רגשות </l>
+          <l>הלב דוהר, הנשימות מתקצרות </l>
+          <l>זאת רכבת הרים וזה מדהים </l>
+          <l>שרק איתך אין לי פחד גבהים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את הדבר הכי טוב שקרה לי </l>
+          <l>לא יודע מאיפה נפל לי </l>
+          <l>המזל לאחוז בידך </l>
+          <l>עכשיו אני חלק ממך </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני אוהב להתאהב בך </l>
+          <l>רק רציתי לספר לך </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>זאת רכבת הרים של רגשות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

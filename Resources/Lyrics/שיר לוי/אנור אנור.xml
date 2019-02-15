@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אנור אנור</title>
+        <singer classification="male singer">שיר לוי</singer>
+        <writer>ינאי רטפן</writer>
+        <composer>עממי פרסי</composer>
+        <album>יום אחד תבקשי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אנור אנור</head>
+        <lg number="1" type="stanza">
+          <l>ברחוב כולם מסתכלים עלייך </l>
+          <l>גלי להם את סודותייך </l>
+          <l>אוהב אותך, האל יודע </l>
+          <l>רק לך זקוק כבר משתגע</l>
+          <l>כמו רוח ים אנשק שפתייך </l>
+          <l>ליבי סוער יוצא אלייך </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אוי אנור אנור...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאת בוכה או סתם צוחקת </l>
+          <l>הזמן מיד עוצר מלכת </l>
+          <l>אני מרגיש נשימותייך </l>
+          <l>כל כך קשה לי בלעדייך </l>
+          <l>על קצה כל הר אקרא בשמך </l>
+          <l>כולם יראו אז את יופייך </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אוי אנור אנור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את צוחקת</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>שמואל אלבז</composer>
+        <album>כל מה שיש בי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את צוחקת</head>
+        <lg number="1" type="stanza">
+          <l>את הכל אמרתי</l>
+          <l>את הלב פתחתי</l>
+          <l>מתי תביני את המסר</l>
+          <l>כשאלייך באתי</l>
+          <l>ואותך ביקשתי</l>
+          <l>חייכת לי ואמרת בלי נדר</l>
+          <l>אך כמו גנב אני בא </l>
+          <l>לקבל ממך קצת אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את צוחקת אני מתגלגל</l>
+          <l>את כועסת אני מתנצל</l>
+          <l>את שותקת אני לא שואל</l>
+          <l>וזה בגלל האהבה שלי אלייך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עד הסוף הלכתי</l>
+          <l>לרגע לא וויתרתי</l>
+          <l>כרעתי לפנייך ברך</l>
+          <l>בידיך אחזתי</l>
+          <l>ולך אני נשבעתי</l>
+          <l>לאהוב לאורך כל הדרך</l>
+          <l>אך כמו גנב אני בא</l>
+          <l>לקבל ממך קצת אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את צוחקת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

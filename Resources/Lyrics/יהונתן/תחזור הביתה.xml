@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תחזור הביתה</title>
+        <singer classification="unknown">יהונתן 3</singer>
+        <writer>יהונתן</writer>
+        <composer>יהונתן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תחזור הביתה</head>
+        <lg number="1" type="stanza">
+          <l>חם לי</l>
+          <l>והזמן נגמר</l>
+          <l>מחפש מושיע</l>
+          <l>בעיר המלאכים</l>
+          <l>מנסה לגעת</l>
+          <l>לחתוך את השמיים</l>
+          <l>לבעור כמו כוכבים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תחזור הביתה</l>
+          <l>תשאיר את הכל מאחור</l>
+          <l>תחזור הביתה</l>
+          <l>תתקרב לאט אל האור</l>
+          <l>ותתחיל לנשום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לילה</l>
+          <l>ואין לי מנוחה</l>
+          <l>מחכה בשקט</l>
+          <l>שמישהו יבחין</l>
+          <l>שיעלה כבר בוקר</l>
+          <l>ותפקח את העיניים</l>
+          <l>אולי בסוף תבין</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תחזור הביתה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

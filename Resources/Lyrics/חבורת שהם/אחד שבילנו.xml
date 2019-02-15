@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחד שבילנו</title>
+        <singer classification="unknown">חבורת שהם</singer>
+        <writer>נתן יונתן</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחד שבילנו</head>
+        <lg number="1" type="stanza">
+          <l>אחד שבילנו בתבל,</l>
+          <l>על כן רעים היינו, אחא.</l>
+          <l>מתוך הלילה האפל</l>
+          <l>פנינו מועדות מזרחה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קדימה אח! ואל תשכח</l>
+          <l>דרכנו הרה עוד לא תמה</l>
+          <l>אם לא אתה תראה סופה -</l>
+          <l>אלפי העם יבואו שמה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שלובי זרועות נפסע אחים</l>
+          <l>ובדרכנו העוברת</l>
+          <l>יפרחו דשא ופרחים,</l>
+          <l>ולא תקטול עוד העופרת.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קדימה אח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

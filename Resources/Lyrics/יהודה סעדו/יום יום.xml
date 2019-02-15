@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יום יום 2</title>
+        <singer classification="male singer">יהודה סעדו</singer>
+        <writer>יהודה סעדו</writer>
+        <composer>יהודה סעדו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יום יום</head>
+        <lg number="1" type="stanza">
+          <l>בית 1:</l>
+          <l>יום יום אני הולך למענך</l>
+          <l>אל תגידי שאת לא רוצה איתי לעוף</l>
+          <l>ובשבילך אתן את כל החיים שלי</l>
+          <l>אל תאמרי לי שאת מוכרחה</l>
+          <l>אל תגידי שאת עייפה</l>
+          <l>אל תגידי לי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פזמון:</l>
+          <l>מתי תביני שאני לא מפחד</l>
+          <l>ואולי תגידי מה שאני רוצה</l>
+          <l>יום יום אני עובר מולך ורואה אותך</l>
+          <l>מחכה שאת תבואי ותחבקי אותי בחום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואולי אהיה לך מחסה</l>
+          <l>ואולי תבואי ותראי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בית 2:</l>
+          <l>איך אני מאושר כשאת איתי </l>
+          <l>ושוכח את העולם ברגעים יפים</l>
+          <l>ואיך שאת תבקשי אתן לך מה שתרצי</l>
+          <l>אז אל תאמרי לי שאת מוכרחה</l>
+          <l>אל תגידי שאת עייפה </l>
+          <l>אל תגידי לי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>פזמון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

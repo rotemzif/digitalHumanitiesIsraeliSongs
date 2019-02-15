@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ידיים למעלה</title>
+        <singer classification="band">כנסיית השכל</singer>
+        <writer>רן אלמליח</writer>
+        <composer>רן אלמליח</composer>
+        <album>ידיים למעלה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ידיים למעלה</head>
+        <lg number="1" type="stanza">
+          <l>אחד שיכור שכח לזכור את מה שהוא חייב לשכוח</l>
+          <l>אחד נפל מקצה רחוב כבר לא יכול יותר לברוח</l>
+          <l>והחיים הם עוד זורמים אל תוך משפט אחד מכריע</l>
+          <l>והלילות כבר לא קרים רק אור הבוקר שמבטיח</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היא אומרת זה טוב זה ההיפך מרע</l>
+          <l>ידיים למעלה היא אוהבת אותך</l>
+          <l>היא אומרת תבוא אפילו כשרע</l>
+          <l>ידיים למעלה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם זה נהיה רכבת הרים אני עוזב ידיים</l>
+          <l>אם זה דם על הפנים אני שוטף במים</l>
+          <l>אם אמא מספרת לי סיפור אני חושב פעמיים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היא אומרת זה טוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

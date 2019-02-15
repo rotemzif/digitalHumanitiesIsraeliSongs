@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלילה קר</title>
+        <singer classification="unknown">עומר אדם</singer>
+        <writer>עומר אדם</writer>
+        <composer>עומר אדם</composer>
+        <album>נמס ממך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלילה קר</head>
+        <lg number="1" type="stanza">
+          <l>יושב לבד בתוך חדרי </l>
+          <l>לאחר שהיא כל כך פגעה בי </l>
+          <l>הכל התחיל כל כך יפה </l>
+          <l>ונגמר ברגע שכזה </l>
+          <l>אינני מוכן לסלוח לך לעולם </l>
+          <l>בליבי נשבעתי אותך תמיד אהבתי </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היית איתו בלילה קר </l>
+          <l>עכשיו אני לבד נשאר </l>
+          <l>ולא יודע מה נותר עכשיו לומר</l>
+          <l>את היית כל עולמי בלעדייך מי אני </l>
+          <l>לא רוצה אותך איתי לעולם </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בלילה קר הכל נגמר </l>
+          <l>ורק נשאר דבר אחד לומר </l>
+          <l>אינני מוכן לסלוח לך עוד לעולם </l>
+          <l>בליבי נשבעתי אותך תמיד אהבתי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היית אותו בלילה קר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

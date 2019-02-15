@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רומן גדול רומן קטן</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>מני פאר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רומן גדול רומן קטן</head>
+        <lg number="1" type="stanza">
+          <l>אצלנו בכפר היא צמחה, היא צמחה</l>
+          <l>פרח קטן ונעול</l>
+          <l>ילדה עם צמה ארוכה, ארוכה</l>
+          <l>גרה בבית ממול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איזה רומן גדול</l>
+          <l>איזה רומן גדול</l>
+          <l>היה יכול פה לגדול</l>
+          <l>למה רומן קטן</l>
+          <l>למה רומן קטן</l>
+          <l>הרס לי פה את הכל</l>
+          <l>את הכל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לעיר הגדולה היא נסעה, היא נסעה</l>
+          <l>לחפש מזלה</l>
+          <l>במאי מפורסם שאותה שם ראה</l>
+          <l>הבטיח לה תהילה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איזה רומן גדול...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>קיבלה תפקיד רומן קטן</l>
+          <l>בסירטה הראשון</l>
+          <l>לא חזרה יותר לכאן</l>
+          <l>בגלל אותו תפקידון</l>
+          <l>כן, בגלל תפקידון</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>הצליחה יפה ברומן הקטן</l>
+          <l>כך סיפרו לה כולם</l>
+          <l>לו רק ידעה שבכפר יש רומן</l>
+          <l>הכי גדול בעולם</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>איזה רומן גדול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

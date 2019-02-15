@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תחייכי</title>
+        <singer classification="male singer">יואב יצחק</singer>
+        <writer>אופיר שמחי</writer>
+        <composer>אופיר שמחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תחייכי</head>
+        <lg number="1" type="stanza">
+          <l>אני הכל רוצה לתת לך על מגש של כסף</l>
+          <l>לחבק ולנשק לומר מילים ברצף</l>
+          <l>להביא מילים פשוטות לפגוש חיוך פנייך</l>
+          <l>לראות כל פעם יום חדש זורח מול עינייך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני רוצה לראות אותך איתי תמיד צוחקת</l>
+          <l>ואיך לאושר הניצחי שלך את מתרחקת</l>
+          <l>באשר את כי אני האושר בחייך</l>
+          <l>ומבטיח לך הכל יגיע עד אלייך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תחייכי, זה אני שאוהב אותך מאוד</l>
+          <l>בשבילך מחייך ונותן לך את הכל</l>
+          <l>תסדרי את כל הטוב בתוך הראש</l>
+          <l>ותדעי שיש אחד שאוהב אותך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני אוהב שבדיבוק כמו ים אותי סוחפת</l>
+          <l>ואם הגיע יום עצוב זריחה שבך לוחשת</l>
+          <l>אל תדאג אני איתך שטים על פני המים</l>
+          <l>אם נאמין ודאי נראה הגבול הוא השמיים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תחייכי, זה אני שאוהב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

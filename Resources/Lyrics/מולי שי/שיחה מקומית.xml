@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיחה מקומית</title>
+        <singer classification="male singer">מולי שי</singer>
+        <writer>מולי שי</writer>
+        <composer>מולי שי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיחה מקומית</head>
+        <lg number="1" type="stanza">
+          <l>כבר לא ילדה עזבה הלילה</l>
+          <l>הלכה והלכה לחפש</l>
+          <l>ויד זרה שרדפה אחריה</l>
+          <l>נגעה מבלי לבקש.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>סוף הלילה הימור אחרון</l>
+          <l>עוד שיחה מקומית</l>
+          <l>בין תמהונים שרוצים כבר לישון</l>
+          <l>על מדרכה עירונית.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שלוש לפנות בוקר באמצע חלום</l>
+          <l>שיחה מקומית התנתקה</l>
+          <l>ומה כבר יכולתי ממך לבקש</l>
+          <l>בשיחה מקומית...</l>
+          <l>ומה כבר יכולתי ממך לבקש</l>
+          <l>בשיחה מקומית...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שלוש לפנות בוקר בת קול נשמעה</l>
+          <l>לא ידעתי היכן לחפש</l>
+          <l>וחשבת שיש מן משחק שכזה</l>
+          <l>שהבלתי נמנע מתבקש.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כמעט כבר בוקר הלילה עזב</l>
+          <l>והשקט עטף את הרחוב</l>
+          <l>שיחה אחרונה למי שאהב</l>
+          <l>וחשב שיהיה לו רק טוב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שלוש לפנות בוקר באמצע חלום</l>
+          <l>שיחה מקומית התנתקה</l>
+          <l>ומה כבר יכולתי ממך לבקש</l>
+          <l>בשיחה מקומית...</l>
+          <l>ומה כבר יכולתי ממך לבקש</l>
+          <l>בשיחה מקומית...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

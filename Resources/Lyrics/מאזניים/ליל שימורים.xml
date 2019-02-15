@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ליל שימורים</title>
+        <singer classification="unknown">מאזניים</singer>
+        <writer>עפר מיה</writer>
+        <composer>עפר מיה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ליל שימורים</head>
+        <lg number="1" type="stanza">
+          <l>ובלילה ההוא ליל שימורים</l>
+          <l>נאספנו כל בני עמך</l>
+          <l>גם צידה לא עשו</l>
+          <l>כי מיהרו הם לברוח</l>
+          <l>מעבדות לחרות</l>
+          <l>מהחושך לאור</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ועדין הולכים בדרך</l>
+          <l>שמעט התארכה</l>
+          <l>אבודים במדבר החיים</l>
+          <l>עמוד האש כבר כבה</l>
+          <l>ועדין הולכים בדרך</l>
+          <l>את סופה לא נדע</l>
+          <l>מחכים לעוד נס</l>
+          <l>נחכה גם בבוקר הבא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ומתוך סנה בוער נגלית לנו</l>
+          <l>ומסלע נתת חיים</l>
+          <l>והלכנו ישר לא סטינו בדרך</l>
+          <l>ולנגד עינינו ארץ כנען תמתין</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ועדיין הולכים בדרך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

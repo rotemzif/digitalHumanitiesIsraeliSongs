@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חתיכה מחיי</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>שרית חדד</composer>
+        <album>מרוץ החיים - ההופעה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חתיכה מחיי</head>
+        <lg number="1" type="stanza">
+          <l>אני רוצה לחזור ואין לי לאן</l>
+          <l>כמו בסרט ישן שדאה עם הזמן</l>
+          <l>והיה לנו טוב והיה לנו מר</l>
+          <l>וחלמנו חצי חלום לא הספקנו דבר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והייתי מלאך ואהבתי אותך </l>
+          <l>ואספתי אותך אלי בסתר כנפיי</l>
+          <l>והיית לי ים ונסחפתי בך </l>
+          <l>ורציתי לתת לך חתיכה מחיי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בימים לבנים מחסירה פעימה </l>
+          <l>וזוכרת אותך בין דמעה לדמעה </l>
+          <l>ובסוף הלילות בשקט צורב</l>
+          <l>געגוע כל כל מתוק שצובט את הלב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והייתי מלאך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני רוצה לחזור ואין לי לאן</l>
+          <l>כמו בסרט ישן שדאה עם הזמן....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

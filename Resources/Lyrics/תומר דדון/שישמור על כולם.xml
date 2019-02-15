@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שישמור על כולם 2</title>
+        <singer classification="unknown">תומר דדון</singer>
+        <writer>אלי קשת</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שישמור על כולם</head>
+        <lg number="1" type="stanza">
+          <l>בחור צעיר שומר למעלה</l>
+          <l>המלחמות קורות בלילה</l>
+          <l>והוא נשבע לחזור לאמא</l>
+          <l>חולם הוא איך אותה יפתיע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שישמור על כולם</l>
+          <l>שישמור על כולם</l>
+          <l>באהבה ישמור אותם</l>
+          <l>באהבה אזכור אותם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הם שם בלילה והוא מזיע</l>
+          <l>עיניו נושא אל הרקיע</l>
+          <l>מתפלל לחזור הביתה</l>
+          <l>איך הוא נשבע ללחום בלילה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שישמור על כולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

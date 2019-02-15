@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כחכות רחל</title>
+        <singer classification="female singer">רוחמה רז</singer>
+        <writer>רחל שפירא</writer>
+        <composer>שם טוב לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כחכות רחל</head>
+        <lg number="1" type="stanza">
+          <l>אם גופי חסר מנוחה ורחוק משלמות</l>
+          <l>זו האהבה שבוכה לא יודעת למות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תפחד לשאול בפצעי אתמול זמן מחלחל</l>
+          <l>על גשרי סליחה מחכה לך כחכות רחל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש אצלי מקום בשבילך בגומת הכתף</l>
+          <l>להניח בו אנחה את ראשך העייף</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תפחד לשאול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

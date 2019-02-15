@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משחק בקוביה</title>
+        <singer classification="male singer">רמי פורטיס</singer>
+        <writer>רמי פורטיס</writer>
+        <composer>אייל אבן צור</composer>
+        <album>חצי אוטומטי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משחק בקוביה</head>
+        <lg number="1" type="stanza">
+          <l>הוא זורם על פני המים, מגרד את האדמה.</l>
+          <l>איש כזה עם משקפיים ולבוש לא באופנה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל תחפשו אותו הוא גר על הירח</l>
+          <l>מגדל שם את עצמו, מתכווץ ומתנפח</l>
+          <l>בחלל של עולמו.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מדליק ומכבה, זורע ומשקה</l>
+          <l>מסמן את המשבצת</l>
+          <l>וזורק עוד קוביה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הוא עוצם את העיניים, מסובב את הגלגל</l>
+          <l>מבקש מהשמיים שיתנו לו קצת מזל.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אל תשאלו אותו הוא לא שומע</l>
+          <l>מסתתר בתוך קופסא</l>
+          <l>מהמר ולא פוגע משחק בקוביה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מדליק ומכבה, זורע ומשקה</l>
+          <l>מסמן את המשבצת</l>
+          <l>וזורק עוד קוביה.</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אני חכם, אני טיפש, אני יודע</l>
+          <l>מתבייש ולא שומע בעצותיה</l>
+          <l>אני הילד שעוד לא נולד.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

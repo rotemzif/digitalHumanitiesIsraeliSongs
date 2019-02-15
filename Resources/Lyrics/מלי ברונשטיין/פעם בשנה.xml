@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פעם בשנה</title>
+        <singer classification="female singer">מלי ברונשטיין</singer>
+        <writer>אהוד מנור</writer>
+        <composer>מישה סגל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פעם בשנה</head>
+        <lg number="1" type="stanza">
+          <l>אתה הולך ושר</l>
+          <l>אתה חופשי עכשיו</l>
+          <l>בין עיר קרה לעיר חמה</l>
+          <l>שיער ראשך אפור</l>
+          <l>משלג ומכפור</l>
+          <l>ומבטך כל כך בודד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אתה חוזר ומאמין</l>
+          <l>שכל ימי לך אמתין</l>
+          <l>שכל ימי אמתין לך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ימי חולפים בשמש מול הים</l>
+          <l>נעורי טובעים בחול החם</l>
+          <l>לא אוכל עוד לחכות</l>
+          <l>לחיי רכות, רכות</l>
+          <l>ורגלי נוגעות באדמה הזאת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אתה כותב מכתב</l>
+          <l>מסוף המערב</l>
+          <l>אני קוראת אותו לאט</l>
+          <l>אני כבר לא עונה</l>
+          <l>כי את ביתי בנה</l>
+          <l>זה שתמיד חיכה לבד</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אתה חוזר ומאמין</l>
+          <l>שכל ימי לך אמתין</l>
+          <l>שכל ימי אמתין לך</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ימי חולפים בשמש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

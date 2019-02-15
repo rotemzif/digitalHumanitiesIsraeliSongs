@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בתנאי שישוב</title>
+        <singer classification="female singer">קרן הכט</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בתנאי שישוב</head>
+        <lg number="1" type="stanza">
+          <l>הוא גמר את התיכון, </l>
+          <l>ענד תליון של השיריון, </l>
+          <l>הסתפר מאד קצר, </l>
+          <l>זה מכוער אך אין דבר. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בתנאי שישוב </l>
+          <l>בתנאי שישוב אלי </l>
+          <l>בתנאי שישוב </l>
+          <l>בתנאי שישוב אלי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הוא הרס שלושים בתים </l>
+          <l>רץ בהרים הרחוקים </l>
+          <l>לא התרחץ שבועיים כבר </l>
+          <l>זה די מגעיל אך אין דבר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בתנאי שישוב... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא הגיע כבר שנים </l>
+          <l>זה גימיק של החיילים </l>
+          <l>לא הגיע כבר שנים </l>
+          <l>זה גימיק של החיילים </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בתנאי שישוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

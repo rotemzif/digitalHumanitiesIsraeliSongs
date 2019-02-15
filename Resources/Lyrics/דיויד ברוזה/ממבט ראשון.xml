@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ממבט ראשון</title>
+        <singer classification="unknown">דיויד ברוזה</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ממבט ראשון</head>
+        <lg number="1" type="stanza">
+          <l>ממבט ראשון נראה לי שככה מתחילים דברים טובים</l>
+          <l>ממבט ראשון נראה לי שבקרוב נהיה קרובים קרובים</l>
+          <l>ממבט ראשון קורה לי דבר שלא קרה כבר שנים</l>
+          <l>ממבט ראשון קורה לי סיפור כזה עם ראש בעננים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נניח למקרה להתרגל למי שהוא רוצה</l>
+          <l>נניח למקרה להתגלגל למי שהוא רוצה</l>
+          <l>נניח למקרה הביטי איך לדרכו יוצא</l>
+          <l>עולה יורד סובב קרב ואת ליבי רוצה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ממבט שני שאור יאיר לי שוב</l>
+          <l>ממבט שני נדמה לי שכל מה ששלך יהיה שלי</l>
+          <l>ממבט שני ברור לי שיעמוד מולך מיד</l>
+          <l>ממבט שני ברור לי מחר בבוקר לא אקום לבד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נניח למקרה להתרגל...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ממבט שלישי עולה בי</l>
+          <l>ממבט שלישי עולה בי תוכנית</l>
+          <l>ממבט שלישי עולה בי כמו כולם.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

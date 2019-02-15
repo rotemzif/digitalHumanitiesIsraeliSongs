@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה כמה 10</title>
+        <singer classification="unknown">שני יצהרי</singer>
+        <writer>טל רביב</writer>
+        <composer>תומר בירן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה כמה</head>
+        <lg number="1" type="stanza">
+          <l>כמה דיבורים, כמה הבטחות</l>
+          <l>כמה עצבים, כמה קילו לפחות</l>
+          <l>כמה פעמים תמכור את אותו סיפור ישן</l>
+          <l>כמה פעמים תגיד רוצה ואז תברח כמו שפן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני גדולה עליך בארבע מידות</l>
+          <l>אז תעשה לי טובה, אל תעשה לי טובות</l>
+          <l>כמה פעמים הבטחת שתפסיק להיות פרפר</l>
+          <l>כמה פעמים חתמת, אבל הצ'ק שלך חזר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה כאב לב, כמה אכזבות</l>
+          <l>כמה ערמות שקרים, כמה מטרים לפחות</l>
+          <l>כמה מדורות תדליק ותתחבא בתוך עשן</l>
+          <l>כמה פעמים תגיד רוצה ואז תברח כמו שפן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני גדולה עליך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ציפור כנף 2</title>
+        <singer classification="male singer">פיני חדד</singer>
+        <writer>אביחי מליחי</writer>
+        <composer>אביחי מליחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ציפור כנף</head>
+        <lg number="1" type="stanza">
+          <l>וציפור כנף יושבת על אדן חלוני </l>
+          <l>חוסה על גוזליה, אל פחד זה רק אני </l>
+          <l>וציפור כנף יושבת על אדן חלוני </l>
+          <l>חוסה על גוזליה, אל פחד זה רק אני </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וכשעפת לי </l>
+          <l>ידעתי שתשובי </l>
+          <l>לחמם </l>
+          <l>לחמם את קנך </l>
+          <l>וסוף לנדודייך בניכר </l>
+          <l>כי כאבת בלכתך </l>
+          <l>כי כאבת בלכתך </l>
+          <l>וזכרתי את שמך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וציפור כנף הנוסקת </l>
+          <l>מעלה אל שמיים כחולים </l>
+          <l>חובקת לעיתים נושקת </l>
+          <l>בשפתייך בנשור עלים </l>
+          <l>וציפור כנף הנוסקת </l>
+          <l>מעלה אל שמיים כחולים </l>
+          <l>חובקת לעיתים נושקת </l>
+          <l>בשפתייך בנשור עלים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וכשעפת לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

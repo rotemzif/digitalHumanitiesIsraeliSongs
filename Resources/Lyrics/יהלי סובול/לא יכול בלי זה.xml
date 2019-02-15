@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא יכול בלי זה</title>
+        <singer classification="male singer">יהלי סובול</singer>
+        <writer>יהלי סובול</writer>
+        <composer>יהלי סובול</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא יכול בלי זה</head>
+        <lg number="1" type="stanza">
+          <l>זה לא טוב, לא ממלא אותי</l>
+          <l>רק מרוקן אותי, זה לא טוב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבל אני לא יכול בלי זה</l>
+          <l>לא יודע למה</l>
+          <l>לא יודע כמה</l>
+          <l>יהיה מספיק בשבילי</l>
+          <l>בשבילי, בשביל שלי</l>
+          <l>הפנים שמחייכות הן מראות מעוקמות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה עגול, זה מלטף אותי</l>
+          <l>רק מיישן אותי, זה לא טוב</l>
+          <l>זה כחול, זה מושך אותי</l>
+          <l>רק מרוקן אותי, זה לא טוב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא יכול בלי זה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמי תכלת</title>
+        <singer classification="unknown">חבורת עולם קטן</singer>
+        <writer>מיכל חזון</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמי תכלת</head>
+        <lg number="1" type="stanza">
+          <l>תן לי קצת שמש, לחי עם נמש</l>
+          <l>תן לי קצת חול ומים</l>
+          <l>תן לי תמיד שמי תכלת</l>
+          <l>אז אני מלך ביום של קיץ.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אי אי אי אי</l>
+          <l>שיר שיר שמח</l>
+          <l>כי כששרים העצב בלב</l>
+          <l>מהר מסתלק, בורח</l>
+          <l>אי אי אי אי</l>
+          <l>שיר שיר שמח</l>
+          <l>כי כששרים עיניים שלי</l>
+          <l>העצב מהר בורח.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם אני הלך בשביל או דרך</l>
+          <l>בלי שום מקום או מים</l>
+          <l>תן לי תמיד שמי תכלת</l>
+          <l>אז אני מלך ביום של קיץ.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אי אי אי אי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שמש זורחת דרך נפתחת</l>
+          <l>בוקר צלול כמים</l>
+          <l>ככה עם שמי התכלת</l>
+          <l>אני המלך ביום של קיץ.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אי אי אי אי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

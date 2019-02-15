@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תן לי אהבה 2</title>
+        <singer classification="unknown">ניבין</singer>
+        <writer>מרטין גל</writer>
+        <composer>מרטין גל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תן לי אהבה</head>
+        <lg number="1" type="stanza">
+          <l>עברת ברחוב זרקת לי מבט</l>
+          <l>לו ידעת איך ליבי נצבט</l>
+          <l>שבית את ליבי בקסם ובצחוק</l>
+          <l>הלב שלי דופק בלי מעצור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני לבד אין לי אין לי אף אחד</l>
+          <l>יש לי רק לב אחד שאותך אוהב</l>
+          <l>בוא אלי תן לי תן לי אהבה</l>
+          <l>יש לי יש לי הרגשה שלעד נאהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עברת ברחוב לבשת ג'ינס כחול</l>
+          <l>זרקת לי חיוך ערמומי</l>
+          <l>אותי לשגע רק אתה יכול</l>
+          <l>מבטיחה אתה תהיה שלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני לבד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

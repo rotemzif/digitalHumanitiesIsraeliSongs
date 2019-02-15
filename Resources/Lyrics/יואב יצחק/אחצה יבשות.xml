@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחצה יבשות</title>
+        <singer classification="male singer">יואב יצחק</singer>
+        <writer>סיון מגזניק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחצה יבשות</head>
+        <lg number="1" type="stanza">
+          <l>שוב בעינייך היפות משתקפות המשאלות</l>
+          <l>איך להגיש לך את עצמי ולתת את כל כולי</l>
+          <l>רואה שוב אותנו יחד,</l>
+          <l>אין בי טיפה של פחד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אחצה יבשות, אשבור לבבות </l>
+          <l>אם רק תתני הזדמנות לנסות</l>
+          <l>ליבי רק שלך, לעולם לא אברח</l>
+          <l>אני לנצח רוצה רק אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פעם חשבתי שכל דבר רק יחזיק לי עד מחר</l>
+          <l>זוכרת צחקנו, ניגבנו דמעות</l>
+          <l>איך התשוקה פרצה גבולות</l>
+          <l>איך לא ראית אותנו,</l>
+          <l>מרוב אהבה השתגענו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אחצה יבשות, אשבור לבבות...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תמיד חשבתי שאברח רחוק</l>
+          <l>אבל עכשיו מרגיש אותך קרוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סו סופגניה</title>
+        <singer classification="male singer">עמוס ברזל</singer>
+        <writer>אורלי בינדר</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סו סופגניה</head>
+        <lg number="1" type="stanza">
+          <l>בואו ילדים נכין יחדיו סופגניה,</l>
+          <l>מבצק, מקמח, מים וריבה קנויה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סו, סו, סופגניה, חמה ומתוקה,</l>
+          <l>סו, סו, סופגניה, לחג החנוכה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כאן בשמן היא תרתח לה הסופגנייה.</l>
+          <l>ביץ, ביץ, בץ, היא תזמר, הנה כבר עשויה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סו, סו, סופגניה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נמלאנה בריבה לה בטן כה שמנה,</l>
+          <l>בואו לשולחן כולם, זה חג החנוכה. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>סו, סו, סופגניה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ציפור הגשם</title>
+        <singer classification="unknown">להקת פיקוד צפון</singer>
+        <writer>תרצה אתר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ציפור הגשם</head>
+        <lg number="1" type="stanza">
+          <l>שוב ציפור בחלוני</l>
+          <l>שוב הגשם ירד</l>
+          <l>שוב הגשם ירד</l>
+          <l>ואני ליבנת פנים</l>
+          <l>מחכה לברד, לברד...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מחכה לזמן</l>
+          <l>שיעבור דומם</l>
+          <l>מחכה לך</l>
+          <l>מחכה לך</l>
+          <l>שתחזור מאי שם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אץ ברד בחלוני</l>
+          <l>מנתר וגולש</l>
+          <l>מנתר וגולש</l>
+          <l>ואני נוגת פנים</l>
+          <l>מחכה לבוא אש, לבוא אש...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מחכה לזמן...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רוח רץ בחלוני</l>
+          <l>משוטט לו סביב</l>
+          <l>משוטט לו סביב</l>
+          <l>ואני סמוקת פנים</l>
+          <l>מחכה לאביב, לאביב...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מחכה לזמן ...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>קיץ רד לחלוני</l>
+          <l>שוב כבד השרב</l>
+          <l>שוב כבד השרב</l>
+          <l>ואני ליבנת פנים</l>
+          <l>מחכה לבוא סתיו, לבוא סתיו...</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>מחכה לזמן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

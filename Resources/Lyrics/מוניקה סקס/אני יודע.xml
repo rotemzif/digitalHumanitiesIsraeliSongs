@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני יודע 6</title>
+        <singer classification="band">מוניקה סקס</singer>
+        <writer>יהלי סובול</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני יודע</head>
+        <lg number="1" type="stanza">
+          <l>אני יודע כל מה שלא חשוב לדעת</l>
+          <l>אני חושב ש... אני חושב ש...</l>
+          <l>לא צריך לחשוב על זה יותר מדי</l>
+          <l>אולי כדאי רק להיסחף לתוך הזרם</l>
+          <l>של פרחים וספרים ודברים אחרים</l>
+          <l>שלא נתתי לך בעצם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שוב אני מוצא אותי רק מחכה מחוץ לדלת</l>
+          <l>רק מציץ מהחלון רק בחלום</l>
+          <l>אבל בבוקר הווילון נסגר הדלת שוב ננעלת</l>
+          <l>הדלת שוב ננעלת...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני יודע לומר מילים שהם בערך</l>
+          <l>אני חושב ש... אני חושב ש... אי אפשר יותר מזה</l>
+          <l>אולי כדאי רק להיסחף לתוך הזרם</l>
+          <l>של פרחים וספרים ודברים אחרים שלא נתתי לך בעצם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שוב אני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

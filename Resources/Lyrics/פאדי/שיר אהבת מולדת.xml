@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר אהבת מולדת</title>
+        <singer classification="male singer">פאדי</singer>
+        <writer>אייבי קזס</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר אהבת מולדת</head>
+        <lg number="1" type="stanza">
+          <l>הייתי בסעודיה, יפן גם סין ורוסיה</l>
+          <l>אוסטרליה, טייוואן ואמריקה</l>
+          <l>בירדן לך שרתי, בטורקיה חגגתי</l>
+          <l>אבל תמיד אני חוזר להיות איתך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין כמו המדינה, אין כמו המדינה</l>
+          <l>כמוני קטנה ושובבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ברודוס השתזפתי, באפריקה צילמתי</l>
+          <l>במקסיקו אכלתי טאקו משובח</l>
+          <l>בלונדון התקררתי, ברומא השתוללתי</l>
+          <l>קניתי בושם בצרפת לך מתנה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין כמו המדינה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תל אביב המפולפלת, שנים כבר לא יושנת</l>
+          <l>באילת חוגג הקיץ כל הזמן</l>
+          <l>חיפה וירושלים, בטבריה כבר יומיים</l>
+          <l>אוכלים שותים ומקדישים לך שיר תודה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אין כמו המדינה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

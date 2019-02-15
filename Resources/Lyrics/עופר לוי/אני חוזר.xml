@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני חוזר 8</title>
+        <singer classification="male singer">עופר לוי</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עממי טורקי</composer>
+        <album>מצייר אותך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני חוזר</head>
+        <lg number="1" type="stanza">
+          <l>חצי עולם כבר עברתי</l>
+          <l>קצת מכל דבר היה לי</l>
+          <l>התרחקתי התקרבתי</l>
+          <l>ועשיתי מה שבא לי</l>
+          <l>בין התמימות לשקר</l>
+          <l>רק את האמת לקחתי</l>
+          <l>ועכשיו אני בדרך</l>
+          <l>לקיים את מה שהבטחתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני חוזר חזק יותר</l>
+          <l>רק בשם אני בוטח</l>
+          <l>באהבה אני נשבע</l>
+          <l>לאהוב ולשמח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רחוק מכאן הסתובבתי</l>
+          <l>ועזבתי את הכוח</l>
+          <l>התחזקתי ולמדתי</l>
+          <l>לאהוב וגם לסלוח</l>
+          <l>בנשמתי באה השקט</l>
+          <l>ברוחי אני שומע</l>
+          <l>את הנשמה צוחקת</l>
+          <l>והלב מתגעגע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני חוזר חזק יותר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

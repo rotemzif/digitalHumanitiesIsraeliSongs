@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עכשיו אני סולחת</title>
+        <singer classification="female singer">רונית שחר</singer>
+        <writer>רונית שחר</writer>
+        <composer>רונית שחר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עכשיו אני סולחת</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>עכשיו אני סולחת</l>
+          <l>מקווה שתזכור אותי לטובה</l>
+          <l>פעם היינו טובים</l>
+          <l>גם כשהיה לנו רע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עכשיו אני סולחת</l>
+          <l>מקווה שתזכור אותי לטובה</l>
+          <l>עכשיו אני יכולה להגיד</l>
+          <l>זאת הייתה אהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היית נותן לי שירים</l>
+          <l>שלקחתי ממך</l>
+          <l>היית עושה לי פנים</l>
+          <l>של כל האשמה</l>
+          <l>וכוכב אחד ירד כל פעם</l>
+          <l>שהיינו שותקים, שותקים מזעם</l>
+          <l>עד שכוכב אחרון כבה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עכשיו אני יכולה להגיד</l>
+          <l>זאת הייתה אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עכשיו אני סולחת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

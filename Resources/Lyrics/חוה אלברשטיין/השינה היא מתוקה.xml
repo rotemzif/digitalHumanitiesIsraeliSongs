@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השינה היא מתוקה</title>
+        <singer classification="female singer">חוה אלברשטיין</singer>
+        <writer>רחל שפירא</writer>
+        <composer>חוה אלברשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השינה היא מתוקה</head>
+        <lg number="1" type="stanza">
+          <l>מי כבר התעייף מן המשחק,</l>
+          <l>מי רחץ פנים וגם ידיים</l>
+          <l>מי ישן מתחת לשמיכה</l>
+          <l>לילה - טוב ליל - מנוחה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל הסיפורים כבר הסתיימו</l>
+          <l>כל הגיבורים כבר נרדמו</l>
+          <l>לגורים בארץ רחוקה</l>
+          <l>השינה היא מתוקה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל הציפורים כבר השתתקו</l>
+          <l>כל הדיבורים כבר נפסקו</l>
+          <l>ולגור הכי קרוב</l>
+          <l>נשיקה ולילה טוב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מי יושב הלילה על ידך</l>
+          <l>מי אוהב אותך עד השמיים</l>
+          <l>מי עוטף ומלטף אותך</l>
+          <l>לילה טוה ליל מנוחה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כל הסיפורים כבר הסתיימו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

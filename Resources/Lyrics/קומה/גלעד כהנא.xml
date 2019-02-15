@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גלעד כהנא</title>
+        <singer classification="unknown">קומה</singer>
+        <writer>שי יחזקאלי</writer>
+        <composer>שי יחזקאלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גלעד כהנא</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>שוב להקשיב לתקליט של כהנא</l>
+          <l>למה אני לא מגניב כמו כהנא?</l>
+          <l>גלעד כהנא! גלעד כהנא!</l>
+          <l>אני רוצה לכתוב כמו גלעד כהנא</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גלעד כהנא!</l>
+          <l>גלעד כהנא!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גלעד כהנא!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שוב להקשיב לתקליט של כהנא</l>
+          <l>למה אני לא מגניב כמו כהנא?</l>
+          <l>גלעד כהנא! גלעד כהנא!</l>
+          <l>אני רוצה לכתוב כמו גלעד כהנא</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

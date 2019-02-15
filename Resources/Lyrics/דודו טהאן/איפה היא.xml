@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איפה היא 2</title>
+        <singer classification="unknown">דודו טהאן</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איפה היא</head>
+        <lg number="1" type="stanza">
+          <l>כל הכוכבים כבו</l>
+          <l>ואני לרגע לא נרדמתי,</l>
+          <l>מחכה לה אולי היא שוב תבוא,</l>
+          <l>על ליבה איך לא הגנתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איפה היא, איפה היא</l>
+          <l>נעלמה לה לדרכה</l>
+          <l>ואולי היא אשליה</l>
+          <l>איפה היא, איפה היא</l>
+          <l>היא לפתע חסרה לי איפה היא</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איפה היא...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רוח מן הים סיפרה</l>
+          <l>שהכל בנינו כבר איננו</l>
+          <l>את הדלת לפתע היא סגרה</l>
+          <l>ופזרה חלומותינו</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>איפה היא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

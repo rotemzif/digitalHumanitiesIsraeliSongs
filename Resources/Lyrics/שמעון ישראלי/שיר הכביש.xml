@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הכביש 2</title>
+        <singer classification="male singer">שמעון ישראלי</singer>
+        <writer>נתן אלתרמן</writer>
+        <composer>דניאל סמבורסקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הכביש</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>הך, פטיש, עלה וצנח</l>
+          <l>כבישי בטון בחול נימתח</l>
+          <l>עורי שממה, דינך נחתך</l>
+          <l>אנו באים לכבוש אותך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>דוד בוער באש</l>
+          <l>המכבש כובש</l>
+          <l>הלאה, הלאה רש</l>
+          <l>כח יש ויש</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הך, פטיש...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>דוד הזפת חם</l>
+          <l>יד נוטפת דם</l>
+          <l>ככה בן אדם</l>
+          <l>במדבר נילחם</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הך, פטיש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

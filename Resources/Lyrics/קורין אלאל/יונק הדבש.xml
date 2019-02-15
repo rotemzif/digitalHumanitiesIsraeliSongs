@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יונק הדבש</title>
+        <singer classification="female singer">קורין אלאל</singer>
+        <writer>משה בן שאול</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יונק הדבש</head>
+        <lg number="1" type="stanza">
+          <l>אל מפתן ביתי</l>
+          <l>אט ניגש</l>
+          <l>שחורות נוצותיו וסגולות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בוא הייה איתי</l>
+          <l>שיר לי דבש</l>
+          <l>ותן מצופך בלילות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שוב אלי יפה כסתיו</l>
+          <l>מן השרב משדות הבר</l>
+          <l>משמש רב</l>
+          <l>מפרח זר</l>
+          <l>הייה איתי עכשיו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אך יונק הדבש</l>
+          <l>לי נתן</l>
+          <l>רק צליל זמרתו המתוק</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כמה מבויש</l>
+          <l>וקטן</l>
+          <l>הוא טס אל הברוש הרחוק</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שוב אלי יפה כסתיו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

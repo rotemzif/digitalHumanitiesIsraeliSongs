@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא לגעת 2</title>
+        <singer classification="male singer">זאב טנא</singer>
+        <writer>זאב טנא</writer>
+        <composer>זאב טנא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא לגעת</head>
+        <lg number="1" type="stanza">
+          <l>חוף ימה של תל אביב, אווירון הולך סביב</l>
+          <l>ואני לא נים לא ניע, רק שוכב שם ומזיע</l>
+          <l>מעלי שמיים תכלת, בלבי קנאה זוחלת</l>
+          <l>לצידי הן מונחות, לא לגעת רק לראות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וו וו...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שם על דרך הבשר, מחפש את הנסתר</l>
+          <l>חופפות הן מלוא טפחיים, שווה צלעות ושווה שוקיים</l>
+          <l>לפני פשוטה מונחת, כל הארץ המובטחת</l>
+          <l>מהלך בין החומות, לא לגעת רק לראות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וו וו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עיר לחוף ים תשכון, שמו לה חומות בטון</l>
+          <l>בימה פשט הזפת, וחמה מכה שורפת</l>
+          <l>מלאים כדיי היין, ותוסס הי"ש מאין</l>
+          <l>וגולש אל החולות, לא לגעת רק לראות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

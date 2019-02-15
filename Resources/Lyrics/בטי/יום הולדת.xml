@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יום הולדת 5</title>
+        <singer classification="unknown">בטי</singer>
+        <writer>בטי</writer>
+        <composer>בטי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יום הולדת</head>
+        <lg number="1" type="stanza">
+          <l>תליתי לך על התקרה בלונים עשרים וארבעה.</l>
+          <l>הכנתי עוגת שוקולד במיוחד עם נר למשאלה,</l>
+          <l>הזמנתי כמה חברים, את אלה שהכי קרובים,</l>
+          <l>כאילו כלום לא השתנה, ממש כמו לפני שנה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יום הולדת, יום הולדת לך, אבל אתה כל כך רחוק,</l>
+          <l>אז מה איתך, עם מי אתה חוגג, האם אתה</l>
+          <l>בודד בלעדי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עף עוד בלון, כמו עוד זכרון מבעד לחלון.</l>
+          <l>כולם כבר מזמן חזרו לביתם, המתנות לקחו איתם.</l>
+          <l>ורק אני עוד מחכה, בוהה בנר שכבר כבה,</l>
+          <l>נמס כאילו לא ידע שזה בשבילך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יום הולדת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוא נפגש</title>
+        <singer classification="male singer">יזהר כהן</singer>
+        <writer>נתן יונתן</writer>
+        <composer>נחצ'ה היימן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוא נפגש</head>
+        <lg number="1" type="stanza">
+          <l>בוא נפגש בבית קפה על כוס של ארק.</l>
+          <l>עם השש בש עם הנגינות המוכרות.</l>
+          <l>עם קול הפטיפון המייבב</l>
+          <l>נוכל לשתוק אשר נותר לו שם בזכרון.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>או שנשב ונדבר בלי מעצור,</l>
+          <l>מה שאף פעם לא העזנו להגיד,</l>
+          <l>מה שיכולנו פה ושם לזכור</l>
+          <l>והמילים כמו תמיד.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מה שהיה אבל ישוב אל הדממה,</l>
+          <l>אך יש דבר מה שבין אני לבין אתה</l>
+          <l>שלא יקחו הצער והזמן</l>
+          <l>והוא אף פעם (הוא אף פעם) לא יתם.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>או זה יקרה בליל גשמים ברד ורעם.</l>
+          <l>בגן העיר ההוא ליד המדרכה,</l>
+          <l>נדליק גפרור אחד שיהבהב,</l>
+          <l>יאיר לנו פנים חוורות בתוך החשיכה.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את הדברים את המקומות והשמות.</l>
+          <l>שעות של בכי ושל צחוקים ומריבה</l>
+          <l>ובדרכי מסע עשן ומלחמות,</l>
+          <l>נותרה לנו האהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מה שהיה אבל ישוב אל הדממה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

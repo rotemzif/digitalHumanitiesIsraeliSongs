@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תביט 3</title>
+        <singer classification="unknown">ליאת בנאי</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>שמואל אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תביט</head>
+        <lg number="1" type="stanza">
+          <l>אל תבקש עוד פעם</l>
+          <l>אל תחפש עוד פעם</l>
+          <l>אני לא רוצה ליפגע שוב ממך</l>
+          <l>אין לי אוויר בנתיים</l>
+          <l>שברת אותי עוד פעם</l>
+          <l>אני לא יודעת מה קורה לי איתך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תסתכל עלי</l>
+          <l>אל תביט לי בעיניים</l>
+          <l>אל תדבר עליי זה מקשה עלי פי שניים</l>
+          <l>בתוך המבוך הזה רחוק כבר לא נגיע</l>
+          <l>אז תיתן לי מרחב ותשכח מהכל מעכשיו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תחכה לי בבית</l>
+          <l>אל תחכה לי עוד פעם</l>
+          <l>לא יעזור הפעם עזבתי הכל</l>
+          <l>עם כוכבים יש רוח</l>
+          <l>אל נא תרגיש פגוע</l>
+          <l>יום עוד תבין מדוע עזבתי הכל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תסתכל עלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

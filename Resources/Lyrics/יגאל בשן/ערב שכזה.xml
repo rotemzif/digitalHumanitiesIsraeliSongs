@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ערב שכזה</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>יגאל בשן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ערב שכזה</head>
+        <lg number="1" type="stanza">
+          <l>גשם יורד על כל הבתים</l>
+          <l>חורף בחוץ בבית חמים</l>
+          <l>יין אדום ושני תקליטים</l>
+          <l>עוצמים ת'עיניים כמה נעים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לאור הנרות קוראים עיתונים</l>
+          <l>על המסך סרטים ישנים</l>
+          <l>את מתיישבת ליד פסנתר</l>
+          <l>ערב כזה רק שלא יגמר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ערב כזה רק שלא יגמר</l>
+          <l>ערב כזה אי אפשר לתאר</l>
+          <l>ערב כזה כל כולי מתמסר</l>
+          <l>איך ערב שכזה עובר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את מנמנמת בין הכרים</l>
+          <l>עוד נשיקה לפני ששוקעים</l>
+          <l>חולמים על הקיץ שמש וים</l>
+          <l>שותה את הלילה לפני שנרדם</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ערב כזה רק שלא יגמר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כאן בלעדייך</title>
+        <singer classification="unknown">מאור אדרי</singer>
+        <writer>ראובן כרמל</writer>
+        <composer>מאור אדרי</composer>
+        <album>הגבר שכבש</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כאן בלעדייך</head>
+        <lg number="1" type="stanza">
+          <l>כאן בלעדייך</l>
+          <l>כלום כבר לא כל כך בסדר</l>
+          <l>מחשבות חונקות וראשי נופל כמו צונח</l>
+          <l>במיטה ריקה שוקע כך חיי כשאת לא פה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מי אני שאתמודד עם הלבד </l>
+          <l>אני לא אהיה שלם כאן בלעדייך</l>
+          <l>מי אני שאלחם עם הגורל שבא </l>
+          <l>אני לא אתמודד אני כמעט מועד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה טוב לה שאני פה והיא רחוקה</l>
+          <l>רוצה אליה חזרה מתגעגע נורא</l>
+          <l>הלבד הזה מוזר ואין לי עוד ברירה</l>
+          <l>שוב קורא לך חזרה ואת כל כך רחוקה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כלום כבר לא כל כך רגוע</l>
+          <l>ברחובות אני רץ כמו מטורף אחריה</l>
+          <l>מחפש ולא מוצא לי נחמה</l>
+          <l>כשאת לא פה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מי אני שאתמודד עם הלבד </l>
+          <l>אני לא אהיה שלם כאן בלעדייך</l>
+          <l>מי אני שאלחם עם הגורל שבא </l>
+          <l>אני לא אתמודד אני כמעט מועד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

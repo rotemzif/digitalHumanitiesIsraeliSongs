@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הינשאי לי</title>
+        <singer classification="male singer">ניסו סימן טוב</singer>
+        <writer>אלכס טופל</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הינשאי לי</head>
+        <lg number="1" type="stanza">
+          <l>אהובתי, אהובתי, </l>
+          <l>אהובתי, אהובתי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שתי נשמות תאומות בסוף יבינו, </l>
+          <l>כל הדרכים מובילות, אל עבר הגורל</l>
+          <l>הישארי לי תמימה, קרוב הוא יומינו</l>
+          <l>קרוב הוא עכשיו, </l>
+          <l>צועק משפתיי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם את אוהבת, תיהיי נאהבת</l>
+          <l>זאת אהבה, הינשאי לי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל המילים כולם מולך יחווירו,</l>
+          <l>שקט פשוט אותך, אותי ילווה</l>
+          <l>רק אהבה גדולה, תציל אותנו</l>
+          <l>אין לנו משהו אחר,</l>
+          <l>לברוח אליו</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם את אוהבת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

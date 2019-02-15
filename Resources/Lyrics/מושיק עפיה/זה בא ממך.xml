@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה בא ממך</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>מבט שנוגע</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה בא ממך</head>
+        <lg number="1" type="stanza">
+          <l>את מדליקה בי תשוקה</l>
+          <l>את הלהבה שבי בוערת</l>
+          <l>כמה שאת מתוקה</l>
+          <l>עוד בגללך אחטוף סכרת</l>
+          <l>איתך הלב צוחק</l>
+          <l>בפנים הנשמה רוקדת</l>
+          <l>עד שמתחשק</l>
+          <l>לומר לך אהובה</l>
+          <l>אין לי מלבדך</l>
+          <l>את יחידה ומיוחדת</l>
+          <l>כל יום לצידך</l>
+          <l>הוא חג לאהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה בא ממך</l>
+          <l>רק בגללך</l>
+          <l>אני לא נרדם בלילה</l>
+          <l>יש מסיבה אצלי בלב</l>
+          <l>זו המסיבה שלך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני צוחק בזכותך</l>
+          <l>שנינו השילוב המנצח</l>
+          <l>אתן הכל בשבילך</l>
+          <l>רק את עושה אותי שמח</l>
+          <l>איתך הלב צוחק</l>
+          <l>בפנים הנשמה רוקדת</l>
+          <l>עד שמתחשק</l>
+          <l>לומר לך אהובה</l>
+          <l>אין לי מלבדך</l>
+          <l>את יחידה ומיוחדת</l>
+          <l>כל יום לצידך</l>
+          <l>הוא חג לאהבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה בא ממך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

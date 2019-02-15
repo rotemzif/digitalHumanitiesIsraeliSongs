@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני לא מדונה</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>צביקה פיק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני לא מדונה</head>
+        <lg number="1" type="stanza">
+          <l>אני רואה אותך מביט בי מרחוק</l>
+          <l>תמיד מגיע בחיוך כזה מתוק</l>
+          <l>ומתייחס אלי כמו לאלילה</l>
+          <l>לא אומר מילה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אתה דלוק ולא יכול זאת להסתיר</l>
+          <l>וזה בדוק כי יש כאן מתח באויר</l>
+          <l>תגיד לי מה איתך ממה אתה נבהל</l>
+          <l>מי אני בכלל</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני לא מדונה ולא פרימדונה</l>
+          <l>אין עלי שום פוזה עשה לי טובה</l>
+          <l>אני לא כריסטינה אין לי לימוזינה</l>
+          <l>יש לי לב קטנצ'יק מלא אהבה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תהיה אמיץ כבר ותבוא אלי ממול</l>
+          <l>תפסיק להתרגש תצא מהבילבול</l>
+          <l>ותדבר על הפשוט בלי חרוזים</l>
+          <l>למה להגזים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני לא מדונה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

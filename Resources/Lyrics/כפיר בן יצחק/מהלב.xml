@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מהלב</title>
+        <singer classification="unknown">כפיר בן יצחק</singer>
+        <writer>שרון אבילחק</writer>
+        <composer>שרון אבילחק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מהלב</head>
+        <lg number="1" type="stanza">
+          <l>הבט ושא עיניים מי ברא אותך </l>
+          <l>מי נותן לך את כל הטוב והשמחה </l>
+          <l>רק תאמר תודה ומיד תראה ברכה </l>
+          <l>דע לך ה' תמיד איתך... </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מהלב כולנו נתפלל שיבוא גואל </l>
+          <l>ויבשר שלום על ישראל </l>
+          <l>מהלב כולנו נבקש נשמח ונתרגש </l>
+          <l>שבפנים תמיד תבער האש </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הימים חולפים עוברים ושוב עולה תפילה </l>
+          <l>שבורא עולם יחיש את זמן הגאולה </l>
+          <l>ואז ידעו כולם איזו מתנה </l>
+          <l>החיים על פני האדמה...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מהלב כולנו נתפלל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

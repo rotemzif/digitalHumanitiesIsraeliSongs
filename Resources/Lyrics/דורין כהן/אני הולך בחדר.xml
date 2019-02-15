@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני הולך בחדר</title>
+        <singer classification="unknown">דורין כהן</singer>
+        <writer>אורלי בינדר</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני הולך בחדר</head>
+        <lg number="1" type="stanza">
+          <l>אני הולך בחדר, </l>
+          <l>ידי צמודות לגוף,</l>
+          <l>חולף על יד חבר ולנו לא צפוף.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שומר על המרחק, </l>
+          <l>הולך בנתיב שלי</l>
+          <l>איני מפריע לו, אינו מפריע לי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שנינו צועדים </l>
+          <l>ובמקום עומדים,</l>
+          <l>מנופפים שלום, חוזרים אט למקום.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

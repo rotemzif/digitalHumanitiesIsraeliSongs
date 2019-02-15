@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תמיד איתי 4</title>
+        <singer classification="male singer">עמוס ברזל</singer>
+        <writer>איזי מן</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תמיד איתי</head>
+        <lg number="1" type="stanza">
+          <l>הפרח השמיים ושביל באדמה</l>
+          <l>הגשר על המים הרוח החמה.</l>
+          <l>הברוש וצל האורן הים והחולות</l>
+          <l>הצריף ליד הגורן החושך בלילות.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אתם תמיד איתי</l>
+          <l>ובתוכי בכל מקום.</l>
+          <l>אתכם אני נושם</l>
+          <l>בליליה וביום.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הדרך הנפקחת העיר הרדומה</l>
+          <l>השושנה פורחת בתוך החממה.</l>
+          <l>דקלים ואזדרכת ניחוח של קציר,</l>
+          <l>מרבד עלי שלכת אשכול מהבציר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אתם תמיד איתי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שדות חיטה בעמק וכל פרחי הבר</l>
+          <l>צחוקה של התנשמת וגשר במדבר.</l>
+          <l>השמש העפר הגשם הסופה,</l>
+          <l>הבית שבכפר הארץ היפה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אתם תמיד איתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

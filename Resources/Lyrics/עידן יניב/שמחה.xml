@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמחה 4</title>
+        <singer classification="male singer">עידן יניב</singer>
+        <writer>דורון מדלי</writer>
+        <composer>דורון מדלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמחה</head>
+        <lg number="1" type="stanza">
+          <l>לא ברחתי</l>
+          <l>רק הלכתי</l>
+          <l>לפזר שימחה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את בירכת לי</l>
+          <l>"שתחזור לי</l>
+          <l>והאל איתך.."</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>היום שלי יואר</l>
+          <l>ולא יחסר לי שום דבר</l>
+          <l>בלב שלי יש כפר</l>
+          <l>ולא חסר בו שום דבר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא עבר לי</l>
+          <l>לא נגמר לי</l>
+          <l>יש בי עוד שימחה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היא צוהלת</l>
+          <l>משתוללת</l>
+          <l>והאל איתה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>היום שלי יואר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

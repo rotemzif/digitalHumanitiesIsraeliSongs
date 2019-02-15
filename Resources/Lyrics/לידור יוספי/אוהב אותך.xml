@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אוהב אותך 7</title>
+        <singer classification="male singer">לידור יוספי</singer>
+        <writer>מוטי דוד</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אוהב אותך</head>
+        <lg number="1" type="stanza">
+          <l>עוצם את העיניים, לא יכול לישון </l>
+          <l>שואל כך את עצמי, איך פגעתי בך היום? </l>
+          <l>נושך את השפתיים, אל תגידי לי שלום </l>
+          <l>אם תלכי מהר ממני, יחדל ליבי לפעום </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אוהב אותך, אני אוהב אותך </l>
+          <l>כל לילה וכל יום, אהיה שלך </l>
+          <l>אוהב אותך, אני אוהב אותך </l>
+          <l>ככוכב זוהר, לא אדעך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יודע כי טעיתי, אבקש ממך סליחה </l>
+          <l>גם אלוקים סולח, תני לי עוד תקוה </l>
+          <l>שוכב לי כאן בחדר, מצפה לתשובה </l>
+          <l>סלחי לי זאת הפעם, אני נשבע באהבה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אוהב אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

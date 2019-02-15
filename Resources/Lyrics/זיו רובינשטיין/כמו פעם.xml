@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו פעם 3</title>
+        <singer classification="male singer">זיו רובינשטיין</singer>
+        <writer>זיו רובינשטיין</writer>
+        <composer>זיו רובינשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו פעם</head>
+        <lg number="1" type="stanza">
+          <l>התעוררתי בבקר ופקחתי עיניים וראיתי אותך לידי</l>
+          <l>וידעתי שהכל ימשיך להיות בסדר..</l>
+          <l>ואצבע אחת גיששה לעברך, לחבר את גופך לגופי</l>
+          <l>ורציתי שנישאר תמיד בחדר..</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וניזכרתי שביקשת שאכתוב לך עוד שיר אבל עם לחן כזה של פעם,</l>
+          <l>כשעוד הייתה בעולם אהבה כמו שלנו</l>
+          <l>אז נישקתי את שפתייך להרגיש שוב את הטעם</l>
+          <l>וסיפרתי לך כמה אני אוהב אותנו..</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז הכנתי כוס קפה והבאתי למיטה ולך לחשתי נשימות באוזן</l>
+          <l>והאצבע ששלחתי התגברה על כל מכשול.</l>
+          <l>את תמיד כל כך יפה לי, מחבקת וחמה, את הבית, את העוגן</l>
+          <l>כמה מעט צריך כדי שיהיה הכל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וניזכרתי שביקשת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

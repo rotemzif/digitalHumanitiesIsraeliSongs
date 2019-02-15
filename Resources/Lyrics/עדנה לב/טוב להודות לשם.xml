@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טוב להודות לשם</title>
+        <singer classification="female singer">עדנה לב</singer>
+        <writer>עממי</writer>
+        <composer>אהוד צוויג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טוב להודות לשם</head>
+        <lg number="1" type="stanza">
+          <l>טוב להודות לה' </l>
+          <l>טוב להודות לה' </l>
+          <l>ולזמר ולזמר לשמך עליון </l>
+          <l>טוב להודות לה' </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ולהגיד בבוקר חסדך </l>
+          <l>ולהגיד בבוקר חסדך </l>
+          <l>ואמונתך בלילות </l>
+          <l>ואמונתך בלילות </l>
+          <l>טוב להודות לה'</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

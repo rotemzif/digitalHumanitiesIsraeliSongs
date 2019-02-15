@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תאכזב אותי</title>
+        <singer classification="female singer">יעל לוי</singer>
+        <writer>יעל לוי</writer>
+        <composer>ג'וני שועלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תאכזב אותי</head>
+        <lg number="1" type="stanza">
+          <l>אני כל כך</l>
+          <l>כל כך קרה עכשיו</l>
+          <l>הסיפורים שלך</l>
+          <l>אין להם משמעות עבורי</l>
+          <l>אז בוא, בוא באמצע הלילה</l>
+          <l>הער אותי, אל תאכזב אותי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה חותך כמו סכין</l>
+          <l>אני לא מאמינה לך</l>
+          <l>אז אל תדבר איתי</l>
+          <l>אל תאכזב אותי</l>
+          <l>אם לבך כאן בצד שלי</l>
+          <l>אז תאהב אותי</l>
+          <l>תאהב אותי</l>
+          <l>אותי תאהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מבטך כל כך</l>
+          <l>רחוק עכשיו</l>
+          <l>אני מתייבשת</l>
+          <l>אל תאכזב אותי</l>
+          <l>ואדישות היא מפלט</l>
+          <l>מפלט הנצח שלי</l>
+          <l>אז בוא והער אותי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה חותך כמו סכין...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תחזור תחזור</title>
+        <singer classification="unknown">מיי פיינגולד</singer>
+        <writer>יובל בנאי</writer>
+        <composer>יובל בנאי</composer>
+        <album>כוכב נולד 7</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תחזור תחזור</head>
+        <lg number="1" type="stanza">
+          <l>תחזור, תחזור תן לי גב</l>
+          <l>מתי, מתי אני אוהב</l>
+          <l>אולי, אולי אני נגנב</l>
+          <l>חלום, חלום לך עכשיו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה כתוב בספרים בשירים במפות הכוכבים</l>
+          <l>מה כולם מחפשים את האושר מקווים</l>
+          <l>והגורל צבעו אפל עמוק בפנים</l>
+          <l>אל תבכי אחות קטנה זה לא פשוט את מבינה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מחר, מחר יום חדש</l>
+          <l>אויר, אויר אני נרגש</l>
+          <l>תחזור, תחזור תן לי גב</l>
+          <l>אולי, אולי אני אוהב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה כתוב בספרים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תחזור תחזור תן לי גב</l>
+          <l>מתי מתי אני אוהב</l>
+          <l>אולי אולי אני נגנב</l>
+          <l>חלום חלום לך עכשיו</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה כתוב בספרים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

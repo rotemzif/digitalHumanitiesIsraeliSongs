@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לבן זה יפה</title>
+        <singer classification="band">בוטן מתוק בקרקס</singer>
+        <writer>גדי אלטמן</writer>
+        <composer>גדי אלטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לבן זה יפה</head>
+        <lg number="1" type="stanza">
+          <l>זכרונות אני לא זוכר על מה</l>
+          <l>כואב להיות פה והשקט הירוק הזה</l>
+          <l>כואב להיות פה</l>
+          <l>אולי בים הצפוני</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בשקט קרחוני ביופי הכחול אוכל לפרוח</l>
+          <l>המקום הזה יהיה שלי</l>
+          <l>זה טוב להיות פה זה טוב להיות</l>
+          <l>אל השמיים בורות של מים</l>
+          <l>ועם השמש אני יכול לעוף</l>
+          <l>אל העינים שאת פותחת</l>
+          <l>אני צולל בך אני יכול לעוף</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אדמה במקומות רעים כואב להיות פה</l>
+          <l>שכחה של ילדים גדולים</l>
+          <l>ובקרקס שלי שאבירים רוקדים</l>
+          <l>והילדים שמחים אני יכול לברוח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>המקום הזה יהיה שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

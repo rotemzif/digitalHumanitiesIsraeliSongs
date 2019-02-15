@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היא אוהבת</title>
+        <singer classification="unknown">מופע הארנבות של ד ר קספר</singer>
+        <writer>אורן ברזילי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היא אוהבת</head>
+        <lg number="1" type="stanza">
+          <l>אני יודע שהיא בוכה</l>
+          <l>היא שוב רוצה רק אותך</l>
+          <l>אני יודע יש עוד חלום</l>
+          <l>שנשאר בשבילך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והיא אוהבת</l>
+          <l>היא כמו חולמת עליו</l>
+          <l>והיא אוהבת</l>
+          <l>היא כמו כוכב מעליו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תמיד יודעת הכל</l>
+          <l>הכל אבל לא מרגישה</l>
+          <l>עיני ילד חולמות</l>
+          <l>חולומת בפנים של אשה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והיא אוהבת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

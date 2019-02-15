@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נוסעת אל געגועי</title>
+        <singer classification="female singer">כרמל אקמן</singer>
+        <writer>כרמל אקמן</writer>
+        <composer>בן רייביץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נוסעת אל געגועי</head>
+        <lg number="1" type="stanza">
+          <l>בין עננים לאדמה</l>
+          <l>הנוף תמיד מאחורי</l>
+          <l>בין השמש לדממה</l>
+          <l>נוסעת אל געגועי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רוח לוחשת באוזני</l>
+          <l>כוכב ראשון מעיר מעל</l>
+          <l>ריח אורנים מוכר</l>
+          <l>נוסעת אל געגועי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שנים שלא ציפו ממני ליותר</l>
+          <l>הזמן נראה שלא עובר</l>
+          <l>נכון שלפעמים קשה להיזכר</l>
+          <l>ברגע שאינו חוזר</l>
+          <l>או.. לא חוזר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תמונה שבאלבום ישן</l>
+          <l>מכתב שכבר נשלח מזמן</l>
+          <l>מבט חטוף אל העבר</l>
+          <l>נוסעת אל געגועי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שנים שלא ציפו ממני ליותר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

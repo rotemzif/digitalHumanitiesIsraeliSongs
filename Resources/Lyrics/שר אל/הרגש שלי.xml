@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הרגש שלי</title>
+        <singer classification="unknown">שר אל</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>שר אל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הרגש שלי</head>
+        <lg number="1" type="stanza">
+          <l>את בליבי ובשפתי</l>
+          <l>מרגיש אותך קרובה אלי</l>
+          <l>סיפרתי לי שחלמת עלי</l>
+          <l>אמרת לי שקשה לך בלעדי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את העולם כולו וגם את הים</l>
+          <l>הבטחתי לך ברגע מסויים</l>
+          <l>ואת בליבי הרגש שלי רק את</l>
+          <l>ואני מסתפק לי במועט</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני מחפש מה שאין לי ושלך מה שיש לי</l>
+          <l>גם הזמן מסדר לך ולי מה שחסר</l>
+          <l>אם הכל מסתדר לי והכל מסתדר לך</l>
+          <l>אני לא ממהר כאן אנחנו נשאר</l>
+          <l>אמרת לי שחלמת עלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את העולם כולו וגם את הים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

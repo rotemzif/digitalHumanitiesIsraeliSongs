@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה אהבה 5</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>אלון צדוק</writer>
+        <composer>missing</composer>
+        <album>כמה אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה אהבה</head>
+        <lg number="1" type="stanza">
+          <l>געגועים מתוך לבך הם בי תמיד נוגעים</l>
+          <l>זה מהלב, ישר ללב</l>
+          <l>מבטים מתוך עינייך אותי הם מרגשים</l>
+          <l>אותך אוהב, עד כאב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אוהב אותך צוחקת לא בוכה</l>
+          <l>רוצה אותך מאושרת לא תמימה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה, כמה אהבה יש בנשמה</l>
+          <l>גם כשאת בוכה, את כל כך יפה</l>
+          <l>כמה אהבה יש בך נשמה</l>
+          <l>גם כשאת שמחה, את תמיד יפה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אלף כוכבים עוד יציירו לי את דמותך</l>
+          <l>זה מרגש, זה כמו אש</l>
+          <l>והגלים את שמך לא ימחקו עוד לעולם</l>
+          <l>זה מושלם, וזה קיים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אוהב אותך צוחקת לא בוכה</l>
+          <l>רוצה אותך מאושרת לא תמימה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כמה, כמה אהבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

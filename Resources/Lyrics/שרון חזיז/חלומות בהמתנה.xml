@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלומות בהמתנה</title>
+        <singer classification="female singer">שרון חזיז</singer>
+        <writer>דנה ברגר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלומות בהמתנה</head>
+        <lg number="1" type="stanza">
+          <l>יש לי יום הולדת. </l>
+          <l>אני נשברת לפניך. </l>
+          <l>באמצע דצמבר, בלי כוונה. </l>
+          <l>יש לי יום הולדת. </l>
+          <l>פרחים במתנה. </l>
+          <l>עדיין מבולבלת. עדיין מקווה. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עוד שנה אני נשארת איתך. </l>
+          <l>אם אתה רואה אותי. </l>
+          <l>סתם אחת שמתבזבזת לאט. </l>
+          <l>אתה תראה שזה אצלי. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש לי יום הולדת. </l>
+          <l>רק פעם בשנה. </l>
+          <l>ואיש שעושה לי עצוב, בלי כוונה. </l>
+          <l>יש לי יום הולדת. </l>
+          <l>חלומות בהמתנה. </l>
+          <l>עדיין מוותרת. מרגישה כבולה. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עוד שנה אני נשארת איתך... </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עוד שנה אני נשארת איתך. </l>
+          <l>כאן תראה שזה אצלי. </l>
+          <l>עוד שנה אני נשארת איתך. </l>
+          <l>כנראה שזאת אני אצלי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

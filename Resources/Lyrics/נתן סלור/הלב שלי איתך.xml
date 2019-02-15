@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלב שלי איתך</title>
+        <singer classification="male singer">נתן סלור</singer>
+        <writer>ערן צור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלב שלי איתך</head>
+        <lg number="1" type="stanza">
+          <l>אני קטן והם גדולים </l>
+          <l>אני חלש כל כך, הם חזקים </l>
+          <l>אני רזה והם שוקלים </l>
+          <l>אני ביישן נורא, הם נועזים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הלב שלי איתך, הלב שלי איתך </l>
+          <l>אתה תמצא לך, את המקום שלך </l>
+          <l>הלב שלי איתך, הלב שלי איתך </l>
+          <l>אתה תמצא לך את הדבר שלך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני חכם, והם טיפשים </l>
+          <l>אני רגיש נורא ,הם אטומים </l>
+          <l>אני צדיק, הם רשעים </l>
+          <l>אני עדין, הם יהירים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הלב שלי איתך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

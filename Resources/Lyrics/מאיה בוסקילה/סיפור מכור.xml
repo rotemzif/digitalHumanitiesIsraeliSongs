@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סיפור מכור</title>
+        <singer classification="female singer">מאיה בוסקילה</singer>
+        <writer>ירון כהן</writer>
+        <composer>ירון כהן</composer>
+        <album>סיפור מכור</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סיפור מכור</head>
+        <lg number="1" type="stanza">
+          <l>זה לא הגשם שזולג מתוך עיני</l>
+          <l>זו לא הרוח שנושבת על פני</l>
+          <l>אני נזכרת איך הלכת אחרי</l>
+          <l>ואיך היום אתה יוצא מתוך חיי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני שוקעת לנפשי אין עוד מוצא</l>
+          <l>איני יודעת אם תשוב בחזרה</l>
+          <l>אני פוחדת מעצמי אני מודה</l>
+          <l>עוד מעט אני נשברת ובוכה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זהו סיפור כזה מכור,</l>
+          <l>יכולת להיות יותר ברור</l>
+          <l>אני אדם כמו כולם,</l>
+          <l>אחת מבין כל העולם</l>
+          <l>זה לא עובר, זה עוד חוזר,</l>
+          <l>הפכת להיות אדם אחר</l>
+          <l>כזה גלוי ולא צפוי,</l>
+          <l>במה זה כבר עכשיו תלוי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני חולמת על מקום בו התקווה</l>
+          <l>אותי עוזבת מוציאה אותי ממך</l>
+          <l>לא מצטערת אם אני עכשיו בוכה</l>
+          <l>הדמעות שלי ירדו גם בשבילך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זהו סיפור כזה מכור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

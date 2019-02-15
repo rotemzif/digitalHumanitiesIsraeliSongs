@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>למדבר 2</title>
+        <singer classification="band">גאיה</singer>
+        <writer>חיים חפר</writer>
+        <composer>סשה ארגוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>למדבר</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>לך, לך למדבר</l>
+          <l>הדרכים יובילו,</l>
+          <l>ליל טרם בא</l>
+          <l>לך, אחי, אל המדבר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שוב, שוב נחזור,</l>
+          <l>הצוקים יריעו,</l>
+          <l>שמש גדולה של אור</l>
+          <l>עוד תזרח עלינו.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>למדבר</l>
+          <l>ארץ לא מים</l>
+          <l>הו, את, אדמתי,</l>
+          <l>שבנו אלייך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ארץ מלוחה</l>
+          <l>רוח וזעם</l>
+          <l>הלוחמים חזרו</l>
+          <l>הו, כסער.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>למדבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

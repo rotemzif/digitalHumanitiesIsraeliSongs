@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחזור אור שיר ואישה</title>
+        <singer classification="unknown">מור שאול</singer>
+        <writer>חלי אברהם איתן</writer>
+        <composer>ניסן פרידמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחזור אור שיר ואישה</head>
+        <lg number="1" type="stanza">
+          <l>ראה, איך ים טרף את תפוח החמה,</l>
+          <l>עננים אדומים צבעו דם את פני הים.</l>
+          <l>מלאו הגלים מלאכי אוון אדומי זקן</l>
+          <l>ופני כחול-עמוק עצב-ערב נצבעים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הים כהה </l>
+          <l>וקץ לאור</l>
+          <l>כנצח - לילה ניצב.</l>
+          <l>אך שחר יעלה</l>
+          <l>ושמש שוב תמשול</l>
+          <l>בגוף הנשטף באור.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לבנה עגומה, פגומה מקדם מבואה</l>
+          <l>עוטה עננים סגולים כשלמה בחלוף יומה</l>
+          <l>ליל יורד אל קרבה ועצב, עצב אישה</l>
+          <l>כיין התרעלה מחלחל לוורידים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הים כהה...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הים כהה וקץ לאור.</l>
+          <l>כשיום עולה, הכל ניעור.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

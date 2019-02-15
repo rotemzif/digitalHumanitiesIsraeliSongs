@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הדק</title>
+        <singer classification="unknown">שחר אבן צור</singer>
+        <writer>שחר אבן צור</writer>
+        <composer>שחר אבן צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הדק</head>
+        <lg number="1" type="stanza">
+          <l>אני לא הדק ואת לא אצבע</l>
+          <l>על אותו עץ אני יושב כמו נץ ומתבונן</l>
+          <l>אני לא אוהב את מה שאת  לובשת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זמן מלא ברגעים אז תני לי לאהוב אותך</l>
+          <l>זמן מלא במילים אז תני לי לחבק אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני בהלם הגעת ברגע שלא היה לי רגע לעצור</l>
+          <l>את לא אוהבת את הפסים על המגבת</l>
+          <l>שקניתי לך שחשבתי עלייך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זמן מלא ברגעים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

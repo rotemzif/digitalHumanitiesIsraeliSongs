@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שתבואי</title>
+        <singer classification="male singer">רגב הוד</singer>
+        <writer>יואב צדוק</writer>
+        <composer>רביד קשתי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שתבואי</head>
+        <lg number="1" type="stanza">
+          <l>בכל פעם שאני נזכר איך את רוקדת</l>
+          <l>אז פתאום הלב שלי נשבר את מתרחקת</l>
+          <l>תני לי להבין מה את רוצה על מה חושבת</l>
+          <l>אני קורא לך מרחוק בואי בואי אליי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פזמון: </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>או הו הו הו זה הכל בגללך </l>
+          <l>או הו הו הו אחרייך הולך</l>
+          <l>או הו הו הו זה אני שרוצה שתבואי</l>
+          <l>שתבואי עד אלי...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza" />
+        <lg number="5" type="stanza">
+          <l>מסתכל את לא מגניבה מבט </l>
+          <l>הוי איך את אוהבת להזיז את</l>
+          <l>הגוף מצד אל צד</l>
+          <l>רק אלוקים בשמיים יודע</l>
+          <l>כמה אני מחכה מחכה לך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza" />
+        <lg number="7" type="stanza">
+          <l>או הו הו הו זה הכל בגללך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יותר ברור</title>
+        <singer classification="male singer">דודו טסה</singer>
+        <writer>דודו טסה</writer>
+        <composer>missing</composer>
+        <album>בסוף מתרגלים להכל</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יותר ברור</head>
+        <lg number="1" type="stanza">
+          <l>יותר ברור פחות עצוב</l>
+          <l>יותר קרוב פחות כואב</l>
+          <l>אההה...אההה אהאוהאה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יותר פשוט פחות צועק</l>
+          <l>יותר שלו יותר אוהב</l>
+          <l>אהה...אההה אהאוהאה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שקט אל תעצור</l>
+          <l>תאיר בי את הילד - ילד חזור</l>
+          <l>שקט אל תעזוב</l>
+          <l>תאיר בי את הילד -ילד חזור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אוו...וו..</l>
+          <l>יותר בהיר פחות מפחיד</l>
+          <l>יותר קשה פחות שביר</l>
+          <l>אההה...אההה אהאוהאה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יותר לבוש פחות מסגיר</l>
+          <l>יותר ערום יותר קריר</l>
+          <l>אההה...אההה אהאוהאה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שקט אל תעצור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

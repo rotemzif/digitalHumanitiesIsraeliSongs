@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אגלי טל 2</title>
+        <singer classification="male singer">יהורם גאון</singer>
+        <writer>משה פישביין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אגלי טל</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אגלי טל ירעפו, השדות יצעפו,</l>
+          <l>נבט רך יבקע וייאור</l>
+          <l>ייפכו בלי גמר עיינות בזמר</l>
+          <l>שדה דגן רווי שטוף האור.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ערפילים נמוגו ואינם.</l>
+          <l>תכלת הרקיע זיו אביב תביע לך</l>
+          <l>עם משב הרוח, ירנן אשוח</l>
+          <l>יענו בשיר הר וגיא.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שיבולי העומר ירחשו בלי אומר</l>
+          <l>רחשי דודים בלי די</l>
+          <l>יד אל יד ברטט נשלב</l>
+          <l>לך שירת הלב וזמר אהבה הם שי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אגלי טל ירעפו, השדות יצעפו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

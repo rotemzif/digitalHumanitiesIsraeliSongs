@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>התנערי 4</title>
+        <singer classification="male singer">עמיר בניון</singer>
+        <writer>משה קלוגהפט</writer>
+        <composer>עמיר בניון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>התנערי</head>
+        <lg number="1" type="stanza">
+          <l>את עייפה </l>
+          <l>אלפיים סיבות לבכות </l>
+          <l>את עצובה </l>
+          <l>אין שנת בצורת מדמעות </l>
+          <l>את מיואשת </l>
+          <l>כשאת מנסה רק לדבר </l>
+          <l>את משתתקת </l>
+          <l>כשאין לך אח, כשאין חבר.. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>התנערי מעפר קומי </l>
+          <l>לבשי בגדי תפארתך </l>
+          <l>אני גרגר החול </l>
+          <l>איתך עברתי את כל נדודייך </l>
+          <l>התנערי וחיי, בדמייך חיי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את עייפה </l>
+          <l>וחייבת להישאר לשמור </l>
+          <l>את עצובה </l>
+          <l>לא רצית להיות בכלל גיבור </l>
+          <l>לא מוותרת </l>
+          <l>גם כשאין בית אליו לחזור </l>
+          <l>את מתעקשת </l>
+          <l>ותפילה זועקת לוחשת </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>התנערי מעפר קומי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

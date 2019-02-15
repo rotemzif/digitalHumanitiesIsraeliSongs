@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא הכל שחור</title>
+        <singer classification="unknown">תמיר אלקיים</singer>
+        <writer>שלמה כישור</writer>
+        <composer>שלמה כישור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא הכל שחור</head>
+        <lg number="1" type="stanza">
+          <l>יש ימים שאדם מרגיש</l>
+          <l>שהעולם כבד על הכתפיים,</l>
+          <l>שכל דבר אותו מתיש</l>
+          <l>ועוד מעט יפול אפיים</l>
+          <l>וגם באור הכי גדול,</l>
+          <l>יראה שחור מול העיניים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל בכי ואל צער,</l>
+          <l>לא הכל שחור-משחור.</l>
+          <l>אולי האור בשער,</l>
+          <l>חשכה תיסוב אחור.</l>
+          <l>עלינו רק לדעת</l>
+          <l>איך לחיות את החיים,</l>
+          <l>בתוך הלב תקווה לטעת,</l>
+          <l>להאיר את הפנים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש לילות שאדם נודד</l>
+          <l>בלי אהבה ובלי יד מלטפת,</l>
+          <l>ללא מלה שתעודד</l>
+          <l>והבדידות אותו עוטפת</l>
+          <l>עד שהלב כל-כך כבד</l>
+          <l>והתוגה רוחו אופפת.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל בכי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

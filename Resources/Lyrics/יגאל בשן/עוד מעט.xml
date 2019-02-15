@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד מעט 13</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>אבי קורן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד מעט</head>
+        <lg number="1" type="stanza">
+          <l>עוד מעט שוב תהיי לבד</l>
+          <l>שוב תהיי בלי אף אחד</l>
+          <l>לבד לבד בצד</l>
+          <l>בלי הזרקורים</l>
+          <l>בלי קריאות הידד</l>
+          <l>והנה הנה לפתע המסך ירד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואת תרדי מן הבימה המוארה</l>
+          <l>ותפשטי את שמלתך היקרה</l>
+          <l>אל הבימה כבר אין כל דרך חזרה</l>
+          <l>ורק ליבך בוכה ואין ברירה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד מעט שוב תהיי לבד</l>
+          <l>בלי קהל קורא הידד</l>
+          <l>לבד לבד בצד</l>
+          <l>כי את לא חשבת</l>
+          <l>מה יקרה עכשיו</l>
+          <l>את השלכת את כל אושרך מאחורי הגב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואת תרדי מן הבימה המוארה</l>
+          <l>ואת תהיי שוב אלמונית לא מוכרה</l>
+          <l>אל הבימה כבר אין כל דרך חזרה</l>
+          <l>ורק ליבך בוכה ואין ברירה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואת תרדי מן הבימה המוארה</l>
+          <l>ותפשטי את שמלתך היקרה</l>
+          <l>אל הבימה כבר אין כל דרך חזרה</l>
+          <l>ורק ליבך בוכה ואין ברירה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

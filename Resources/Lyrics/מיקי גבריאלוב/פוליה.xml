@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פוליה</title>
+        <singer classification="male singer">מיקי גבריאלוב</singer>
+        <writer>דוד בן גוריון</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פוליה</head>
+        <lg number="1" type="stanza">
+          <l>היודעת את שאני אוהב אותך</l>
+          <l>כאהבת אישה ואחות אם וילד</l>
+          <l>כי את בשבילי אהובה ואישה</l>
+          <l>אם ואחות ואם ילד שלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הכל הייתי נותן בעד</l>
+          <l>רגע אחד איתך</l>
+          <l>בעד שניה אחת</l>
+          <l>בעד מבט אחד חטוף</l>
+          <l>הכל הייתי נותן</l>
+          <l>פוליה, פוליה</l>
+          <l>אחת והיחידה</l>
+          <l>פוליה, פוליה</l>
+          <l>היקרה שלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהבה לך לילדה היקרה</l>
+          <l>לאישתי האהובה האהובה</l>
+          <l>לאמא היקרה שלי לאהובה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הכל הייתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

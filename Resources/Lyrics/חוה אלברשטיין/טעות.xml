@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טעות 3</title>
+        <singer classification="female singer">חוה אלברשטיין</singer>
+        <writer>תרצה אתר</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טעות</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>היה לי ידיד</l>
+          <l>והיום הוא כבר לא,</l>
+          <l>הוא אמר שיבוא ו...</l>
+          <l>והוא לא בא בשש</l>
+          <l>לפינה, מה יש.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אולי טעיתי במקום או בשעה</l>
+          <l>אולי טעיתי בשבוע,</l>
+          <l>זה קורה לאנשים כל יום.</l>
+          <l>אולי טעיתי בזמן, זה קורה תמיד,</l>
+          <l>ואולי פשוט טעיתי בידיד.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>היה לי ידיד...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אולי חלמתי את הכל</l>
+          <l>פשוט מאד,</l>
+          <l>אולי בכלל היה נדמה לי, יתכן,</l>
+          <l>גם זה יכול להיות.</l>
+          <l>אולי חשבתי שכן</l>
+          <l>בו-בזמן שלא,</l>
+          <l>ואולי בכלל הוא לא רצה לבוא.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>היה לי ידיד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

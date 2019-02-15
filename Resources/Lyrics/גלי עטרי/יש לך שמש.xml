@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לך שמש</title>
+        <singer classification="female singer">גלי עטרי</singer>
+        <writer>שמרית אור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לך שמש</head>
+        <lg number="1" type="stanza">
+          <l>על ספסל בגן יושבת ופרחים בשערה</l>
+          <l>שרה עם הרוח הקרירה.</l>
+          <l>ועיניים צוחקות לה, נמשים בקצה אפה</l>
+          <l>ושורק לה שחף מכפה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם יש לך שמש, יש לך שמש</l>
+          <l>יש לך שמש בליבך</l>
+          <l>בוא והושט לה את ידך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חתלתול אחד מופיע בא מעץ שבשדרה</l>
+          <l>הוא מביט בשקט לעברה.</l>
+          <l>היא על הספסל יושבת ושקועה בחלומות,</l>
+          <l>ועיניה אט נעצמות.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם יש לך שמש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בני 18</title>
+        <singer classification="unknown">סטלוס</singer>
+        <writer>שלמה כישור</writer>
+        <composer>יוסי גלעד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בני</head>
+        <lg number="1" type="stanza">
+          <l>אייה אדם ישמע לי, יקשיב לכל שבלבי?</l>
+          <l>מי לי, מי אני ומה יש לי בעולמי?</l>
+          <l>הלא מזמן עייפתי, נותר מעט מכל אוני</l>
+          <l>אין לי אלא בני, יתמוך אותי בסוף זמני.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לך קראתי, בני, אתה עץ בגני</l>
+          <l>כשתגדל אל תשכח שאתה הוא בני.</l>
+          <l>אם תשכח לא אסלח,</l>
+          <l>את אביך אל תשלח.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אותך תמיד שמרתי בכל ליבי אשר דאג</l>
+          <l>כל יום, כל שעה אני הוא זה אשר אהב.</l>
+          <l>איתך תמיד הייתי, אמרתי: "זה כל עמלי".</l>
+          <l>אנא אל תשכח, עד סוף ימי אתה שלי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

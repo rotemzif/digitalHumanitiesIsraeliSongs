@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טרוד</title>
+        <singer classification="unknown">ריברסייד</singer>
+        <writer>שגיא נווה</writer>
+        <composer>שגיא נווה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טרוד</head>
+        <lg number="1" type="stanza">
+          <l>צל, מתעורר ולא עובר </l>
+          <l>זה אומר הרבה יותר </l>
+          <l>מכאן מהיום הכל נגמר </l>
+          <l>ומוצא כיוון אחר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>דם, זה לא היה פעם </l>
+          <l>אני לא מפה, אני לא מפה </l>
+          <l>עם, ללא עולם קם </l>
+          <l>אני לא איתו, אני לא איתו </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ער, מדמיין אורות כחולים </l>
+          <l>וישבנו לדבר </l>
+          <l>לא אוותר אמרת לי ו... </l>
+          <l>לא עזבת אותי יותר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>דם, זה לא היה פעם </l>
+          <l>אני לא מפה, אני לא מפה </l>
+          <l>עם, ללא עולם קם </l>
+          <l>אני לא איתו, אני לא איתו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

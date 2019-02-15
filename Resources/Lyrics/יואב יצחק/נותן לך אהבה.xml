@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נותן לך אהבה</title>
+        <singer classification="male singer">יואב יצחק</singer>
+        <writer>רמי לב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נותן לך אהבה</head>
+        <lg number="1" type="stanza">
+          <l>אם את מבקשת את אהבתי </l>
+          <l>קחי אותה ממני קחי מנשמתי </l>
+          <l>את כל מה שיש לי בעולם הזה </l>
+          <l>כל מה שחלמתי בך אני מוצא </l>
+          <l>את כל מה שיש לי בעולם הזה </l>
+          <l>רק אותך אישה אני רוצה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נותן לך אהבה רוצה קרוב אלייך </l>
+          <l>ולא צריך סיבה להיות בתוך חייך </l>
+          <l>נותן לך אהבה אהבה כזאת בוערת </l>
+          <l>אלייך אני בא אין לי אהבה אחרת </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה את סוחפת כמה מקסימה </l>
+          <l>האוצר שיש לי על פני האדמה </l>
+          <l>זה לזו נועדנו בעולם הזה </l>
+          <l>כל מה שחלמתי בך אני מוצא </l>
+          <l>זה לזו נועדנו בעולם הזה </l>
+          <l>רק אותך אישה אני רוצה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נותן לך אהבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

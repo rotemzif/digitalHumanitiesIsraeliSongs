@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד סוף חיינו</title>
+        <singer classification="male singer">בועז טביב</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>טאקיס סוקאס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד סוף חיינו</head>
+        <lg number="1" type="stanza">
+          <l>אי שם למעלה עולה ירח</l>
+          <l>את שביל האושר לנו פותח</l>
+          <l>את מתרגשת, אני כפליים</l>
+          <l>ושנינו יחד שלובי ידיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהבתנו עד סוף חיינו</l>
+          <l>כי את כל כך שונה את נשמה</l>
+          <l>לאהבה שלך, איך שנכנעתי</l>
+          <l>מהשמיים את מתנה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשקצת עצוב לי את מתקרבת</l>
+          <l>אל זרועותיך אותי אוספת</l>
+          <l>כמו אם לילד את מקשיבה לי</l>
+          <l>בשתי עיניך את מביטה בי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהבתנו עד סוף חיינו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

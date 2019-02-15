@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הקול שמלווה</title>
+        <singer classification="unknown">חופית מסיקה</singer>
+        <writer>גל שריג</writer>
+        <composer>חן הררי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הקול שמלווה</head>
+        <lg number="1" type="stanza">
+          <l>מה עושים כשהשמיים מתהפכים בי</l>
+          <l>לאן הולכים כשהשמש לא יוצאת</l>
+          <l>איך מחייכים כשהכאב אינו עובר לי</l>
+          <l>וממשיכים כשאין מילה אחת אמת</l>
+          <l>איך מגלים עולם חדש שמסתתר לו</l>
+          <l>ומבלים את השעות בלי מנוחה</l>
+          <l>איך מתעלים כשהכל הופך קשה לי</l>
+          <l>ואיך יוצאים עכשיו לדרך ארוכה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza" />
+        <lg number="3" type="stanza">
+          <l>אני יודע שקיים בי עוד כח</l>
+          <l>אני שומעת את הקול שמלווה</l>
+          <l>אני אמצא תקווה לזכור וגם לשכוח</l>
+          <l>כלום לא אבוד אם רק אמשיך ואנסה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza" />
+        <lg number="5" type="stanza">
+          <l>מה עושים כשאהבה פתאום נגמרת</l>
+          <l>לאן הולכים כשהלב לאט נשבר</l>
+          <l>איך מתקנים עושים הכל עכשיו אחרת</l>
+          <l>ומבינים שהחלום אינו נגמר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

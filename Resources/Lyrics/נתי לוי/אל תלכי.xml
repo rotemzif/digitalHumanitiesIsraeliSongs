@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תלכי 26</title>
+        <singer classification="male singer">נתי לוי</singer>
+        <writer>ציון שרעבי</writer>
+        <composer>מיקי מדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תלכי</head>
+        <lg number="1" type="stanza">
+          <l>מחשבות חמות משטות בך בנשמתך</l>
+          <l>כמו תמיד באת אלי לבכות מסכנה אהבתך</l>
+          <l>אך בבוא היום כשתיהי אישה בוגרת</l>
+          <l>תעלי חיוך ותגידי הו ימי האלף-בית</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תלכי עכשיו הלילה מאיים הדרך מסוכנת</l>
+          <l>הישארי מוטב</l>
+          <l>כפור בחוץ לא כדאי ללכת</l>
+          <l>כאן תרגישי טוב תרגעי סוף סוף</l>
+          <l>אל תלכי אל תלכי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קנאתך שונה</l>
+          <l>היא שמכתיבה לך את הטון</l>
+          <l>החליטי שאת מאמינה</l>
+          <l>בעוצמת ההיגיון</l>
+          <l>ובבוא היום כשתיהי אישה בוגרת</l>
+          <l>תעלי חיוך ותגידי הו ימי האלף-בית</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תלכי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

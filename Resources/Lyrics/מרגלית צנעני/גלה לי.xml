@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גלה לי</title>
+        <singer classification="female singer">מרגלית צנעני</singer>
+        <writer>אסף לביא צנעני</writer>
+        <composer>אסף לביא צנעני</composer>
+        <album>גלה לי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גלה לי</head>
+        <lg number="1" type="stanza">
+          <l>מבקשת סליחה אם נפגעת</l>
+          <l>תעזוב את כל מה ששמעת</l>
+          <l>כי בליבי זה אתה שנגעת</l>
+          <l>ושוב נזכרת איך נשבעת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גלה לי את פניך</l>
+          <l>הלב יוצא אליך</l>
+          <l>בוא וספר לי בוא גלה</l>
+          <l>את מה שבליבך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשתתגבר ותמצא את הכוח</l>
+          <l>אולי תוכל להבין ולסלוח</l>
+          <l>יהיה קשה לי לחתוך ולשכוח</l>
+          <l>המחשבות לא נותנות לי מנוח</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אתן הכל להפיג את המתח</l>
+          <l>אם בליבך רק תשאיר לי עוד פתח</l>
+          <l>אז אל תסתיר זה כתוב על המצח</l>
+          <l>כי לא למדת את הלקח</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>גלה לי את פניך...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אם תאמין ותביט לשמיים</l>
+          <l>כל מעשיך על כף המאזניים</l>
+          <l>אל תעצור הדמעות בעיניים</l>
+          <l>אני איתך באש ובמים...</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>גלה לי את פניך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

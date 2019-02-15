@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מכושף</title>
+        <singer classification="unknown">מיקי אוזן</singer>
+        <writer>מיקי אוזן</writer>
+        <composer>דודו ביטון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מכושף</head>
+        <lg number="1" type="stanza">
+          <l>בבית קפה יושבת </l>
+          <l>אותי את מסקרנת</l>
+          <l>יש לי רק שאלה</l>
+          <l>לפני שאת הולכת</l>
+          <l>אמרי מה את חושבת</l>
+          <l>מחכה כאן לתשובה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק תהיי מי שאת ותדעי יש אחד</l>
+          <l>שלא רוצה ילדה שתשארי לבד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פז,</l>
+          <l>יש לי לב אוהב למה לסרב</l>
+          <l>תראי איך אני מכושף ממך</l>
+          <l>תתקרבי אליי תסתכלי עלי </l>
+          <l>החיוך שאת רואה הוא בגללך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז החלטת לענות</l>
+          <l>להגשים בי תתקוות </l>
+          <l>ועכשיו רק מה נשאר?</l>
+          <l>בים של בקשות</l>
+          <l>אין מה לעשות</l>
+          <l>הרגש בתוכי לך שר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רק תהיי מי שאת ותדעי יש אחד</l>
+          <l>שלא רוצה ילדה שתשארי לבד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

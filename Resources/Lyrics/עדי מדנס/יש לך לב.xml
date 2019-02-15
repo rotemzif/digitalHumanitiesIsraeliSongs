@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לך לב</title>
+        <singer classification="male singer">עדי מדנס</singer>
+        <writer>עדי מדנס</writer>
+        <composer>עדי מדנס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לך לב</head>
+        <lg number="1" type="stanza">
+          <l>מילים יבשות </l>
+          <l>על פרצוף רטוב </l>
+          <l>היא אמרה שהיא הולכת </l>
+          <l>ושהיא לא תשוב </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>משפטים קרים </l>
+          <l>על לב בוער </l>
+          <l>היה לי טוב </l>
+          <l>לא רוצה לוותר </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יש לך לב </l>
+          <l>אני עוד אמצא אותו </l>
+          <l>גם אם אחפש </l>
+          <l>עד יומי האחרון </l>
+          <l>יש לך לב </l>
+          <l>אני עוד אמצא אותו </l>
+          <l>אני ארוץ מהר </l>
+          <l>ואגיע ראשון </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הימים עוברים </l>
+          <l>מחשבות תקועות </l>
+          <l>תאי המוח </l>
+          <l>משחזרים תחושות </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>חיים נמשכים </l>
+          <l>וחיים שלא </l>
+          <l>בלב שלך האושר </l>
+          <l>והוא עוד יבוא</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יש לך לב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

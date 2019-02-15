@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלדה לזבוב</title>
+        <singer classification="band">השלושרים</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>שלום חנוך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלדה לזבוב</head>
+        <lg number="1" type="stanza">
+          <l>אלכסנדר זבוב היה רזה, כזה רזה</l>
+          <l>איזבל היתה כלילת היופי הזבובית</l>
+          <l>אלכסנדר זה היה מבליט את החזה</l>
+          <l>ומזמזם לאיזבל מן זמר שכזה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איזבל, מה-בל, בואי ונשים זומם</l>
+          <l>זום לפה וזום לשם, איזבל</l>
+          <l>איזבל, מה-בל, בואי ונשים זומם</l>
+          <l>זום לפה וזום לשם, איזבל מה-בל.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הוא זמזם לה כל הלילה זמר לוחמים</l>
+          <l>אך כשהיא שמעה את הפזמון היא נבהלה</l>
+          <l>היא חשבה אותו לזבוב הגון ורציני</l>
+          <l>אם את זה אתה רוצה, אז לך לנמלה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איזבל, מה-בל...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אלכסנדר זבוב נותר זרוק על החלון</l>
+          <l>בלי שוב הלכה משם זבובת חלומות</l>
+          <l>הוא לא ישכחנה עד יומו האחרון</l>
+          <l>ועד אז הוא לא יחדל לשיר את הפזמון:</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>איזבל, מה-בל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

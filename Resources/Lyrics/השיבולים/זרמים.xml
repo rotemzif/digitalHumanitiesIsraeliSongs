@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זרמים</title>
+        <singer classification="unknown">השיבולים</singer>
+        <writer>שחר נתן</writer>
+        <composer>שחר נתן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זרמים</head>
+        <lg number="1" type="stanza">
+          <l>הולך בחושך מחפש השראה </l>
+          <l>כוכב בודד זורח על עדשה </l>
+          <l>כל העיניים מחפשות הבעה </l>
+          <l>כל הידיים באוויר </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>השביל שלנו הוא ארוך וקשה </l>
+          <l>ובקצה, זקן אומלל מחכה </l>
+          <l>מה כבר נשאר לו? הפיה שוב תשאל </l>
+          <l>והוא אומר, זה הגורל </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וכשיורדות טיפות המים </l>
+          <l>נסגרות לו העיניים </l>
+          <l>אף אחד עליו כבר לא יבכה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ורצים כלבים בגשם </l>
+          <l>על גגות היא מעופפת </l>
+          <l>מי יהיה הבא שתנסה? </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואולי הוא יבוא </l>
+          <l>על הסוס האפור </l>
+          <l>ואולי הוא יגמור </l>
+          <l>טס ישר אל הבור </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ורצים כלבים בגשם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

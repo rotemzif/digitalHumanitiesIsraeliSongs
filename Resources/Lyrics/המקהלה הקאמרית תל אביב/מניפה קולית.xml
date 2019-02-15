@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מניפה קולית</title>
+        <singer classification="unknown">המקהלה הקאמרית תל אביב</singer>
+        <writer>אהוד מנור</writer>
+        <composer>גיל אלדמע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מניפה קולית</head>
+        <lg number="1" type="stanza">
+          <l>קול ראשון אומר כל מה שהוא מרגיש</l>
+          <l>קול שני מוסיף קצת צבע ומדגיש</l>
+          <l>קול שלישי את הראשון עם השני מפגיש</l>
+          <l>והרביעי הוא מיוחד, פחות נגיש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ארבעה קולות כמו ארבע רוחות שמיים</l>
+          <l>כמו ארבע עונות שזו מזו שונות</l>
+          <l>משלימות תמונה של מים ושל אש, אויר וחול</l>
+          <l>מניפה קולית בשיר לבן כחול.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קול ראשון מביא עיקר החדשות</l>
+          <l>קול שני עוצר אל מול תמונות קשות</l>
+          <l>קול שלישי עוסק בפרשנות ובתחושות</l>
+          <l>והרביעי בחוליות החלשות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ארבעה קולות...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>קול ראשון אומר, אני אוהב אותך</l>
+          <l>קול שני משמיע צליל של לב נפתח</l>
+          <l>קול שלישי פורש לאט מרבד עמוק ורך</l>
+          <l>והרביעי רק מתנשם ונאנח</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ארבעה קולות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

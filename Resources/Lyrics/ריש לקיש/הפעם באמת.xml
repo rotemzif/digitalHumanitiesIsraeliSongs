@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הפעם באמת</title>
+        <singer classification="unknown">ריש לקיש</singer>
+        <writer>ריש לקיש</writer>
+        <composer>ריש לקיש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הפעם באמת</head>
+        <lg number="1" type="stanza">
+          <l>הפעם באמת אתה מתחרט</l>
+          <l>כמה רע ומר טעם החטא.</l>
+          <l>הפעם באמת אתה נושא תפילה</l>
+          <l>שתתגבר ותתחזק שתזכה לישועה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא מעט מצוות אספת</l>
+          <l>בדרכך החדשה</l>
+          <l>על ראשך כיפה חבשת</l>
+          <l>נפתח ליבך לאמונה.</l>
+          <l>כמה שבתות שמרת</l>
+          <l>כמה ביטול והכנעה</l>
+          <l>תורה יומם וליל דרשת</l>
+          <l>למען שמו באהבה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש לו באמת כוונות טובות</l>
+          <l>אמונה וביטחון רצון להשתנות</l>
+          <l>אתה מכה על חטא, אדם מלא תקוות</l>
+          <l>כמו גלגל הם החיים עליות וירידות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא מעט מצוות אספת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הפעם באמת אתה מתחרט</l>
+          <l>כמה רע ומר טעם החטא.</l>
+          <l>עכשיו ובכל עת הבחירה היא בידך</l>
+          <l>קרוב אליך הדבר בפיך הוא ובלבבך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לא מעט מצוות אספת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

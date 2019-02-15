@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילדת השמש</title>
+        <singer classification="unknown">דיה רז</singer>
+        <writer>דיה רז</writer>
+        <composer>שחר אבן צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילדת השמש</head>
+        <lg number="1" type="stanza">
+          <l>מטר שישים ממוצע</l>
+          <l>מדהימה ביופייה</l>
+          <l>מסתכל בעיניה</l>
+          <l>אתה נשאב לתוכה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מאירה על כולם</l>
+          <l>בקרניים אהבה</l>
+          <l>אותי היא מבקרת כל שקיעה</l>
+          <l>בכל זריחה</l>
+          <l>ילדת השמש</l>
+          <l>זהו שמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ביום אביב של חורף</l>
+          <l>היא נולדה</l>
+          <l>ומאז השמש רק שלה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מאירה על כולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

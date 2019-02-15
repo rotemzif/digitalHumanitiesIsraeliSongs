@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דמעות זולגות</title>
+        <singer classification="male singer">יואב יצחק</singer>
+        <writer>דינה שמחי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דמעות זולגות</head>
+        <lg number="1" type="stanza">
+          <l>את חיי איתך חלקתי, מיופייך תמיד הוקסמתי</l>
+          <l>לא מרפה ולא מועדת, את יפה, את מיוחדת</l>
+          <l>בחיקך אני נינוח, את נותנת לי את הכח</l>
+          <l>לא דומה את לאחרת, את שלי, את נהדרת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>דמעות זולגות כופות על לחייך</l>
+          <l>באהבה שלחת מבטך</l>
+          <l>אני בך שבוי על אף חירותך</l>
+          <l>כן, זה הכל בזכותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך זה שלא הבנתי, כה קרוב ליד עברתי</l>
+          <l>מה רבות מעלותייך, איתנה את על רגלייך</l>
+          <l>לשלומך תמיד פיללתי ואיתך רק התחזקתי</l>
+          <l>כל הטוב שבך מצאתי, למלכה אותך היכתרתי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>דמעות זולגות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

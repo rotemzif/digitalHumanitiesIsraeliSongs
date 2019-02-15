@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גור חתולים</title>
+        <singer classification="male singer">שלומי שבן</singer>
+        <writer>שלומי שבן</writer>
+        <composer>שלומי שבן</composer>
+        <album>עיר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גור חתולים</head>
+        <lg number="1" type="stanza">
+          <l>אני לא יכול להיות מאהב טוב כי</l>
+          <l>אני יותר מדי אוהב להתפנק כמו גור חתולים</l>
+          <l>הארי הוא מאהב טוב</l>
+          <l>הלביא היא מאהבת טובה</l>
+          <l>גור החתולים הוא סתם מפונק</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבל</l>
+          <l>יש לי חשק לכבוש - כן!</l>
+          <l>רצון תמידי ללכת שבי אחרי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גור חתולים נכנס לבר</l>
+          <l>ומלקלק משקה</l>
+          <l>ומתנקה לקראת זוג לביאות</l>
+          <l>שלך תדע, שלך תדע</l>
+          <l>איזה מן נמר הן מדמות כשהן רואות.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>גור חתולים נכנס לבר</l>
+          <l>מלקלק משקה</l>
+          <l>ומתנקה ומתנקה ומתנקה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אבל</l>
+          <l>יש לי חשק לכבוש - כן!</l>
+          <l>רצון תמידי ללכת שבי אחרי</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>(אני מוצא עצמי בזרועותייך).</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

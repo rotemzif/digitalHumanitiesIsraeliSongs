@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ואם עכשיו 2</title>
+        <singer classification="male singer">סגיב כהן</singer>
+        <writer>סגיב כהן</writer>
+        <composer>סגיב כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ואם עכשיו</head>
+        <lg number="1" type="stanza">
+          <l>את השגרה ואת השקט אני מבקש לאלתר</l>
+          <l>כל השנאה וכל השקר הותירו בי טעם מר</l>
+          <l>בינתיים הלב מתקרב אל הפשוט המוכר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואם עכשיו אהבתנו תופיע</l>
+          <l>נוכל לעבור את הסתיו</l>
+          <l>השד יחלוף ויאיר לנו כוכב</l>
+          <l>ואז אקח בשתי ידי את ליבך</l>
+          <l>המוכה כגוזל נעזב </l>
+          <l>אשק את גופך ואותך כל כך אוהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בלי ניסיונות בלי הפתעות </l>
+          <l>שבאות אל פיתחך כל הזמן</l>
+          <l>בלי חדשות הרפתקאות שמגיע תמיד פרעונן</l>
+          <l>מבלי שביקשנו בכלל להגיע לשם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואם עכשיו אהבתנו תופיע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

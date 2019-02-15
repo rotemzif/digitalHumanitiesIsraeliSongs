@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחפש עולם</title>
+        <singer classification="unknown">מיקסולידי</singer>
+        <writer>ליאור כהן</writer>
+        <composer>ליאור כהן</composer>
+        <album>אין אבל - יש שכנים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחפש עולם</head>
+        <lg number="1" type="stanza">
+          <l>לא מחפש כאן צדק</l>
+          <l>כמה ימים שקטים</l>
+          <l>ומקווה שטוב יהיה</l>
+          <l>רק מלחמות של כסף </l>
+          <l>צובעים את השקרים </l>
+          <l>אין משמעות כאן למילים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מחפש עולם שלא קיים</l>
+          <l>ואיך זה מסתבך</l>
+          <l>בסוף כולם אותו דבר</l>
+          <l>ואין זה מה שיש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכשיו הכל חשוך פה</l>
+          <l>כולם כאן עייפים</l>
+          <l>שוכחים לחיות כשהם חיים</l>
+          <l>ומי שומר עלינו</l>
+          <l>אנחנו כאן לבד</l>
+          <l>מחכים לשמש שתזרח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מחפש עולם שלא קיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

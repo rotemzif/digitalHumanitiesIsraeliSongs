@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איתך 50</title>
+        <singer classification="male singer">רגב הוד</singer>
+        <writer>מיקי גבריאלוב</writer>
+        <composer>מיקי גבריאלוב</composer>
+        <album>בעקבותייך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איתך</head>
+        <lg number="1" type="stanza">
+          <l>איתך היתה לי דרך</l>
+          <l>בחושך הגדול</l>
+          <l>איתך היה לי בית</l>
+          <l>נטעת בי את הכל</l>
+          <l>פתחת לי את העיניים</l>
+          <l>הראית לי את האור</l>
+          <l>ועכשיו את השמיים</l>
+          <l>ואני רועד מקור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בלעדייך אין בי אושר</l>
+          <l>ואני כמו כלי שבור</l>
+          <l>רק איתך אני פורח</l>
+          <l>רק איתך אני לא קבור</l>
+          <l>אני עץ שתול בלי מים</l>
+          <l>במדבר בלי נשמה</l>
+          <l>ומתי ירד הגשם</l>
+          <l>שישטוף את חיי באהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ימים חולפים בינתיים</l>
+          <l>ואין לי שום תקווה</l>
+          <l>חושב איך זה קרה לי</l>
+          <l>ומה בעוד שנה</l>
+          <l>מביט אל השמיים</l>
+          <l>צמא לאמונה</l>
+          <l>ומתי אני אדע כבר</l>
+          <l>שזאת האהבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בלעדייך אין בי אושר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

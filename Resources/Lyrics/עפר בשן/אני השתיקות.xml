@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני השתיקות</title>
+        <singer classification="unknown">עפר בשן</singer>
+        <writer>עפר בשן</writer>
+        <composer>עפר בשן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני השתיקות</head>
+        <lg number="1" type="stanza">
+          <l>אני התירוץ, הבלתי נחוץ</l>
+          <l>מעגל האימה, אני הדמעות</l>
+          <l>האשמות, התקוות הכוזבות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עכשיו אני, לוקח את הכל</l>
+          <l>על עצמי, מפנה גבי לעול</l>
+          <l>של המילים, בקודש ובחול</l>
+          <l>אסבול כאב, בדידות אסבול</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אבל אני הטיפשות</l>
+          <l>הריקנות, הנכנעות</l>
+          <l>אבל אני הסורר, אני הנוטר</l>
+          <l>אני כל מה שחסר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עכשיו אני...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וכשהלילה יבוא</l>
+          <l>שתי מילים עוד דולקות</l>
+          <l>אני השתיקות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עכשיו אני...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אם תהיה לי</l>
+          <l>אהבה אחת קטנה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

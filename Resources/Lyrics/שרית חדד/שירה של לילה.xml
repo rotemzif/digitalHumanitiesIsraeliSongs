@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שירה של לילה</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>הנרי</writer>
+        <composer>הנרי</composer>
+        <album>20</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שירה של לילה</head>
+        <lg number="1" type="stanza">
+          <l>אלף מחשבות הלילה </l>
+          <l>חלפו עברו עלי</l>
+          <l>צועדת גם בלילה </l>
+          <l>במדבר שפתי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רק בך רציתי נערי שלי </l>
+          <l>מגע גופך הוא החטא היחיד שלי </l>
+          <l>סאלתק חביבי לאוון ראייחין </l>
+          <l>למה אנחנו מתחבאים ככה לך תבין </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אלף כוכבים עיניך </l>
+          <l>זכרוני בוער </l>
+          <l>חולמת את שפתיך </l>
+          <l>גופך המתעורר </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מנמין חייפין</l>
+          <l>לאן הולכים לאן בורחים </l>
+          <l>ממי אנחנו פוחדים </l>
+          <l>לא משנה מה הם אומרים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

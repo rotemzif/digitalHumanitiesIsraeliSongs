@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בקפה של סטליוס</title>
+        <singer classification="female singer">גליקריה</singer>
+        <writer>ציון קדם</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בקפה של סטליוס</head>
+        <lg number="1" type="stanza">
+          <l>בקפה של סטליוס, כנר עצוב מנגן לו</l>
+          <l>בעיניו דמעה, למה היא עזבה.</l>
+          <l>מנגינה של עצב, עם שירה וקצב</l>
+          <l>אך הלב בוכה לו כמו מיתר בודד.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הגברים שותים לחיים, הנשים עושות עיניים</l>
+          <l>מבקשים בקבוק של יין בשביל הנשמה.</l>
+          <l>הגברים רוקדים סירטקי, החיים עוברים בינתיים,</l>
+          <l>עוד בקבוק אחד של יין בשביל האהבה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בקפה של סטליוס, כנר עצוב מנגן לו</l>
+          <l>כנר בודד שיכור, היא לא תחזור</l>
+          <l>מנגינה של עצב, עם שירה וקצב</l>
+          <l>אך הלב בוכה לו כמו מיתר בודד.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הגברים שותים לחיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

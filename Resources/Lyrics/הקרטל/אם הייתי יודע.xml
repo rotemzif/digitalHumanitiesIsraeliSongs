@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם הייתי יודע</title>
+        <singer classification="unknown">הקרטל</singer>
+        <writer>יקיר בן טוב</writer>
+        <composer>missing</composer>
+        <album>זימה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם הייתי יודע</head>
+        <lg number="1" type="stanza">
+          <l>איזה כיף לשבת על הספה המוכרת </l>
+          <l>רואים שוב את אותו הסרט ואת מנקרת </l>
+          <l>בדרך לשמיכה את נשכבת על הצד על היד היוזמת </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם הייתי יודע לא הייתי שוקע כל כך</l>
+          <l>ואם הייתי יודע לא הייתי שוקע איתך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שוב היא מתקשרת החברה הדרמתית </l>
+          <l>ושוב את לא ממהרת משחקת אותה סימפטית </l>
+          <l>למרות שאני כאן יש בי חלק שמזמן רוצה ללכת </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם הייתי יודע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

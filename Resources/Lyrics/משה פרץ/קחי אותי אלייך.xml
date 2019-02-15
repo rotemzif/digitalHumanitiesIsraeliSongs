@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קחי אותי אלייך</title>
+        <singer classification="male singer">משה פרץ</singer>
+        <writer>משה פרץ</writer>
+        <composer>משה פרץ</composer>
+        <album>זיקוקים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קחי אותי אלייך</head>
+        <lg number="1" type="stanza">
+          <l>בואי נצעד אני ואת</l>
+          <l>אל מקום יותר רגוע</l>
+          <l>יד ביד לא לבד</l>
+          <l>ונביט אל הירח</l>
+          <l>כוכבים יאירו לך</l>
+          <l>את הדרך ואת התקווה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קחי אותי אלייך</l>
+          <l>קחי אותי ותביני</l>
+          <l>שאת החצי השני שלי</l>
+          <l>קחי אותי אלייך</l>
+          <l>קחי אותי ותראי</l>
+          <l>מי אוהב אותך יותר מכולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אף אחד לא יקח</l>
+          <l>אותך ממני לעולם</l>
+          <l>ואת תהיי לי לאישה</l>
+          <l>אותך אשמור מכל משמר</l>
+          <l>והתקווה שבעיניים</l>
+          <l>היא תיקח אותי תשא אותי לשם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קחי אותי אלייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

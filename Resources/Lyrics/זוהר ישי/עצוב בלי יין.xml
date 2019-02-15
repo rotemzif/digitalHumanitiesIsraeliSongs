@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עצוב בלי יין</title>
+        <singer classification="unknown">זוהר ישי</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עצוב בלי יין</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>עצוב בבית וכמו אבוד בלי זמר</l>
+          <l>ובלי כוסית של יין מולי על השולחן.</l>
+          <l>תוהה עדיין, האם עודני גבר</l>
+          <l>ולמה זה בלי נערה יושב לבד.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עצוב, עצוב לי בלי היין</l>
+          <l>ובלי מחול ונערות.</l>
+          <l>עצוב לי אם אני עדיין</l>
+          <l>יושב לבד בין ארבעה קירות.</l>
+          <l>עצוב בלי זמר, עצוב לי בלעדייך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רוצה עם חבר'ה אל השולחן לשבת</l>
+          <l>ועם כוסית של יין לצחוק אל העולם.</l>
+          <l>זמר, בינתיים, ישיר שירי-עצבת</l>
+          <l>אבל אני אשמח לי יחד עם כולם.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עצוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

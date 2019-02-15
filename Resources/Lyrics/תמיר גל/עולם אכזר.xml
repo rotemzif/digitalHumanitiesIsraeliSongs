@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עולם אכזר 2</title>
+        <singer classification="male singer">תמיר גל</singer>
+        <writer>חנן אסייג</writer>
+        <composer>חנן אסייג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עולם אכזר</head>
+        <lg number="1" type="stanza">
+          <l>נשארתי בודד כאן לבד</l>
+          <l>מנותק מכולם אין לי אף אחד</l>
+          <l>כל אשר עשיתי אין לי מוצא</l>
+          <l>בסוף נותרתי לבד עם הדמעה</l>
+          <l>בסוף נשארתי חסר בלי שום תקווה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עולם כה אכזר אני רק בן אדם</l>
+          <l>איך אוכל לחזור להיות מאושר</l>
+          <l>עולם כה אכזר אני רק בן אדם</l>
+          <l>איך אוכל לחזור להיות מאושר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכשיו אני קם נוסע רחוק</l>
+          <l>זה כלכך כואב איך בא לי לבכות</l>
+          <l>את הזכורונות משאיר מאחור</l>
+          <l>בליבי נותרו רק האכזבות</l>
+          <l>איך אלי דמעו אבדו כל התקוות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עולם כה אכזר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

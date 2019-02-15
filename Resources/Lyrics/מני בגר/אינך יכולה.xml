@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אינך יכולה 2</title>
+        <singer classification="male singer">מני בגר</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אינך יכולה</head>
+        <lg number="1" type="stanza">
+          <l>אינך יכולה ככה סתם ללכת</l>
+          <l>אינך יכולה לעזוב אותי</l>
+          <l>אינך יכולה כי עכשיו שלכת</l>
+          <l>יש גשם בחוץ ואת נשארת איתי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אפילו אם תגידי: "זה לא כדאי"</l>
+          <l>אפילו אם תגידי: "לא, אין לי פנאי"</l>
+          <l>אפילו אם תגידי: "לך לך מעלי".</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם רק תבקשי להרגיש בבית</l>
+          <l>את שחור צמתך חרש אלטף</l>
+          <l>ואם תבקשי לא לבכות הליל</l>
+          <l>אשב לידך וגם אתן לך כתף.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אפילו אם תגידי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואם תבקשי מעלי לברוח</l>
+          <l>אפתח את דלתי לך, ילדה קטנה</l>
+          <l>ואם תבקשי את פני לשכוח</l>
+          <l>אתן לך בלחי נשיקה אחרונה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אפילו אם תגידי...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אינך יכולה ככה סתם ללכת</l>
+          <l>יש גשם בחוץ ואת נשארת איתי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

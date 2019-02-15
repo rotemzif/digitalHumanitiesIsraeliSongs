@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משאלה אחת קטנה</title>
+        <singer classification="unknown">נריה חובב</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>אריה ברקוביץ'</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משאלה אחת קטנה</head>
+        <lg number="1" type="stanza">
+          <l>במסבאה ליד הבר</l>
+          <l>לוגם כוסית של יין</l>
+          <l>בנערה אני נזכר</l>
+          <l>ואור לי בעיניים.</l>
+          <l>נפגשנו כאן לראשונה</l>
+          <l>את עולמי כבשה בי</l>
+          <l>לכאן הבטיחה עוד שנה</l>
+          <l>לשוב היא לחשה לי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>משאלה אחת קטנה יוצאת אל עולמך</l>
+          <l>מתוך המנגינה.</l>
+          <l>משאלה אחת קטנה קוראת עכשיו בשמך</l>
+          <l>אבל את לא עונה, לא עונה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלילה עוד מעט נגמר</l>
+          <l>ושוב עלי פוסח</l>
+          <l>עם הניגון שבי נסער</l>
+          <l>לחלומות פוסע.</l>
+          <l>תופים הולמים בתוך הלב</l>
+          <l>המסרב לשכוח</l>
+          <l>רוצה לפרוק את הכאב</l>
+          <l>שלא נותן מנוח. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>משאלה אחת קטנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

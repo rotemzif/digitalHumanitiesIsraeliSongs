@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הליצן העצוב</title>
+        <singer classification="male singer">גידי גוב</singer>
+        <writer>עמיר בניון</writer>
+        <composer>עמיר בניון</composer>
+        <album>בקצה ההר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הליצן העצוב</head>
+        <lg number="1" type="stanza">
+          <l>זה אני הליצן הזה העצוב,</l>
+          <l>בעולם הזה שלנו איך אפשר להתבגר לאט</l>
+          <l>זה אני השחקן הזה שמכור לכל מה שזז</l>
+          <l>ויש לו כוח לטשטש את</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הכל מטושטש פתאום וקשה לראות</l>
+          <l>עד כמה האור יכול להיות יפה</l>
+          <l>רציתי כל כך לראות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה אני הביישן הזה שמפגין</l>
+          <l>בכל פעם שהחוצפה חוצה קווים ולא נסבלת בכלל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זה אני השכן הזה החדש</l>
+          <l>רק כמה ימים וכבר הספקתי לומר</l>
+          <l>בוקר טוב אחד להכל.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

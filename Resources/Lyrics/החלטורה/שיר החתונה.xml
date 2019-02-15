@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר החתונה</title>
+        <singer classification="unknown">החלטורה</singer>
+        <writer>נועם גבע</writer>
+        <composer>ניר בן זקן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר החתונה</head>
+        <lg number="1" type="stanza">
+          <l>הנה הנה בא, החתן הבא</l>
+          <l>לב זהב לו, וכולו שמחה גדולה</l>
+          <l>והנה איתו, זו ארוסתו</l>
+          <l>תנו לה בכפיים, תנו לה בכבוד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז קבלו אותו, הוא נושא את תפילתו</l>
+          <l>אם אשכחך ירושלים – תישכח ימינו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>והנה באים, כל החברים,</l>
+          <l>הם ברחבה, רוקדים וגם שרים</l>
+          <l>אז קבלו אותו, הוא מניף רגלו</l>
+          <l>הופה, הופה הופה הוא שבר ת'כוס!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז קבלו אותו, הוא נושא את תפילתו</l>
+          <l>אם אשכחך ירושלים – תישכח ימינו</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הנה החתן מנשק את הכלה, וכולם רוקדים והשמחה עולה, בכפיים, כל הלילה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אז קבלו אותו, הוא נושא את תפילתו</l>
+          <l>אם אשכחך ירושלים – תישכח ימינו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

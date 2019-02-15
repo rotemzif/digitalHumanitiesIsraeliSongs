@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל הבנות סביבי</title>
+        <singer classification="male singer">תמיר גל</singer>
+        <writer>שרון אסולין</writer>
+        <composer>משה פרץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל הבנות סביבי</head>
+        <lg number="1" type="stanza">
+          <l>אני אוהב אותך כל כך </l>
+          <l>ולא מבין איך את שוכחת לי </l>
+          <l>את כל השנים</l>
+          <l>רוצה שבועיים הפסקה </l>
+          <l>מחשבות ומנוחה </l>
+          <l>בזמן שכל אחת אותי רוצה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל הבנות סביבי</l>
+          <l>אולי קצת תחשבי </l>
+          <l>עוד כמה רגעים עלי</l>
+          <l>אותי חולמות כולן </l>
+          <l>ואת לוקחת זמן עד שתחליטי כבר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את מגיעה לכאן</l>
+          <l>את מגיעה לשם</l>
+          <l>עוקבת אחרי ללא סיבה</l>
+          <l>אנחנו לא שווים ואין אדם מושלם</l>
+          <l>את עוד תראי את כולן במסיבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל הבנות סביבי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

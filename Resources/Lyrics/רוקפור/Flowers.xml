@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Flowers 3</title>
+        <singer classification="band">רוקפור</singer>
+        <writer>מרק לזר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Flowers</head>
+        <lg number="1" type="stanza">
+          <l>Do I need to send you flowers? </l>
+          <l>Will it give us hope? </l>
+          <l>Through the streets I've walked for hours </l>
+          <l>With my endless thoughts </l>
+          <l>Can you hear me when I'm talking? </l>
+          <l>I seem to speak so loud </l>
+          <l>But this is getting boring </l>
+          <l>Golden girl is gone </l>
+          <l>There's so much more in life </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>This is a soundtrack of a silent dream </l>
+          <l>Freak shows of our life </l>
+          <l>It's under our skin </l>
+          <l>We never seem to get it off </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>So you filled your head with monsters </l>
+          <l>Up and down the two-world lane </l>
+          <l>Running through the sales </l>
+          <l>See your face again </l>
+          <l>It's hell for me </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>Do I need to send you flowers? </l>
+          <l>Will it give us hope? </l>
+          <l>Through the streets I've walked for hours </l>
+          <l>I'm the super scope </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>This is a soundtrack of a silent dream... </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>This is a soundtrack of a silent dream </l>
+          <l>Freak shows of our lives </l>
+          <l>Gomenasayi </l>
+          <l>We never seem to get it off </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>Freak shows of our lives…</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הייתי אור</title>
+        <singer classification="male singer">חמי רודנר</singer>
+        <writer>חמי רודנר</writer>
+        <composer>חמי רודנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הייתי אור</head>
+        <lg number="1" type="stanza">
+          <l>היה הייתי אור</l>
+          <l>היה הייתי אור</l>
+          <l>היה הייתי ולא אחזור</l>
+          <l>אור הייתי אור</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אמא הביטי אור</l>
+          <l>הביטי אמא אור</l>
+          <l>דמעותייך יזהרו בערבו של היום השחור</l>
+          <l>אור הייתי אור</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ולא הספקתי לשיר את יופייה</l>
+          <l>ולא הספקתי לשיר את יופייה של תבל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אהובתי אור</l>
+          <l>יפה אחת אור</l>
+          <l>פנה היום ברכי אותי לשלום</l>
+          <l>אור הייתי אור</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ולא הספקתי לשיר את יופייה</l>
+          <l>ולא הספקתי לשיר את יופייה של תבל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

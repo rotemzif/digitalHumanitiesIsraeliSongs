@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סופה גדולה</title>
+        <singer classification="unknown">בית אהבות</singer>
+        <writer>רועי טרגן</writer>
+        <composer>רועי טרגן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סופה גדולה</head>
+        <lg number="1" type="stanza">
+          <l>סופה גדולה ששוברת קירות </l>
+          <l>מתקרבת </l>
+          <l>מוטב לתפוס מחסה </l>
+          <l>לפני שיהיה מאוחר </l>
+          <l>עננים אפורים מכסים את השמיים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אור גדול מבפנים </l>
+          <l>מנחם ומרגיע </l>
+          <l>שמש רכה מלטפת </l>
+          <l>נותנת תקווה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רוח קרה שמכה בפנים </l>
+          <l>משתוללת </l>
+          <l>תחזיק חזק שלא </l>
+          <l>תישבר לרסיסים </l>
+          <l>זיכרונות ששקעו צפים על המים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אור גדול מבפנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

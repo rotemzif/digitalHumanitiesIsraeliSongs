@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עינייך מספרות</title>
+        <singer classification="male singer">תמיר גל</singer>
+        <writer>מרטין גל</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עינייך מספרות</head>
+        <lg number="1" type="stanza">
+          <l>בקרירות לחשת לי בינינו זה נגמר</l>
+          <l>שטעיתי ושלא יעזור דבר</l>
+          <l>רצית זמן, רצית להיות לבד</l>
+          <l>בלעדי במיוחד ובלי אף אחד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מדוע רעד קולך שביקשת שאלך</l>
+          <l>תגידי לי למה הבריקו עינייך</l>
+          <l>כמה תוכלי עוד לשקר</l>
+          <l>עינייך מספרות סיפור אחר</l>
+          <l>הן מבקשות אותי אלייך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכשיו אני יודע שגאוותך דיברה</l>
+          <l>זרקה מילים קשות ובי היא פגעה</l>
+          <l>ואני כמו מטורף האמנתי לך</l>
+          <l>כמעט וגרמת לי לאבד אותך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מדוע רעד קולך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

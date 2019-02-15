@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אדמה אחרי הגשם</title>
+        <singer classification="male singer">ערן צור</singer>
+        <writer>ערן צור</writer>
+        <composer>ערן צור</composer>
+        <album>כל מה שאנושי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אדמה אחרי הגשם</head>
+        <lg number="1" type="stanza">
+          <l>גשם טפטף על גבעה </l>
+          <l>מים יורדים במורד </l>
+          <l>אל העמק, בין שני הרים </l>
+          <l>הטיפה מפרה את הזרע </l>
+          <l>אדמה כמו אחרי אהבה </l>
+          <l>הגוף עוד רגיש, הראש מעט ריק </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לכן כשחמדה אדמה את פני השחק </l>
+          <l>היא רקמה בדי ערוגות ככוכבים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

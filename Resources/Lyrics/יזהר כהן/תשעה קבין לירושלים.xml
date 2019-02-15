@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תשעה קבין לירושלים</title>
+        <singer classification="male singer">יזהר כהן</singer>
+        <writer>תמר פרימור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תשעה קבין לירושלים</head>
+        <lg number="1" type="stanza">
+          <l>עשרה קבין כליל של יופי</l>
+          <l>ירדו ברוך את העולם</l>
+          <l>חן כה רב ובלי דופי</l>
+          <l>בידי בורא עולם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עשרה קבין גבורה</l>
+          <l>ירדו בצליל אל העולם</l>
+          <l>בלי צל ובלי מורא</l>
+          <l>בידי בורא עולם</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עשרה קבין אל העולם</l>
+          <l>ירדו כמו על מאזניים</l>
+          <l>אחד בלבד רק לעולם</l>
+          <l>תשעה מהם לירושלים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עשרה קבין של חכמה</l>
+          <l>ירדו בטעם לעולם</l>
+          <l>קול כה דק ובדממה</l>
+          <l>בידי בורא עולם</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עשרה קבין תורה</l>
+          <l>ירדו בחום אל העולם</l>
+          <l>זורחים ברוב אורה</l>
+          <l>בידי בורא עולם</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עשרה קבין אל העולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

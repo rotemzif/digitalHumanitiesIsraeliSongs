@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בתוך הדמעות</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>מייק לוק</writer>
+        <composer>מייק לוק</composer>
+        <album>איך שבא לי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בתוך הדמעות</head>
+        <lg number="1" type="stanza">
+          <l>את בוכה על אהבה נכזאבת</l>
+          <l>את הבגדים במזוודה אורזת</l>
+          <l>את מופיעה ובדלתי נוקשת</l>
+          <l>בגרון כה חנוק לי את לוחשת</l>
+          <l>מי אותי יואהב ואת לא יודעת</l>
+          <l>שאני בך מאוהב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בתוך הדמעות שלך</l>
+          <l>את הכאב ראיתי</l>
+          <l>מתוך הדמעות שלך את הכאב שמעתי</l>
+          <l>זה כואב להתאהב</l>
+          <l>אני נמצא איתך לאהוב ולעודד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בתוך הדמעות שלך</l>
+          <l>את הכאב ראיתי</l>
+          <l>מתוך הדמעות שלך את הכאב שמעתי</l>
+          <l>זה כואב להתאהב</l>
+          <l>אני רוצה אותך כי גם אני כואב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם את רוצה שהעצב</l>
+          <l>יגמר הביטי בעיני אני</l>
+          <l>מתאים לך יותר את כבר</l>
+          <l>מזמן שוכנת לי בלב</l>
+          <l>אני כאן איתך את הדמעות</l>
+          <l>לך מנגב יום חדש יזרח</l>
+          <l>ואת ואני מחר הכל נשכח</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בתוך הדמעות שלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

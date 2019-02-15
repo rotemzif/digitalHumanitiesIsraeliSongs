@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחת ויחידה 2</title>
+        <singer classification="male singer">ישי לוי</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחת ויחידה</head>
+        <lg number="1" type="stanza">
+          <l>הכחול שבעיניה</l>
+          <l>החיוך כובש וחם</l>
+          <l>הרכות בשפתותיה</l>
+          <l>אין כמוה אין כמוה</l>
+          <l>אין כמוה בעולם</l>
+          <l>אין כמוה אין כמוה</l>
+          <l>אין כמוה בעולם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היא אחת ויחידה</l>
+          <l>בכל זאת לבדה</l>
+          <l>אין אחד שבא אליה</l>
+          <l>לבקש את ידה</l>
+          <l>וביתה סוגר עליה</l>
+          <l>וליבה חתום נעול סגור שבור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>המגע בשתי ידיה</l>
+          <l>לגופה ציור מושלם</l>
+          <l>התמימות במבטיה</l>
+          <l>אין כמוה אין כמוה</l>
+          <l>אין כמוה בעולם</l>
+          <l>אין כמוה אין כמוה</l>
+          <l>אין כמוה בעולם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היא אחת ויחידה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

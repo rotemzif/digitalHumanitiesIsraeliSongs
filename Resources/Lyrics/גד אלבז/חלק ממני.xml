@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלק ממני 3</title>
+        <singer classification="male singer">גד אלבז</singer>
+        <writer>נועם חורב</writer>
+        <composer>מיטל דה רזון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלק ממני</head>
+        <lg number="1" type="stanza">
+          <l>חלק ממני תמיד יישאר של הרוח </l>
+          <l>ויידע להלך בין הרע והטוב </l>
+          <l>בעולם של פלדה, של קוצים ושל כוח </l>
+          <l>חלק ממני תמיד יזכור לאהוב </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חלק בי יבכה בלי להבין </l>
+          <l>חלק בי ימשיך להאמין </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>גם אם לא רואים כבר את האור </l>
+          <l>והחושך נוגע </l>
+          <l>חלק בי תמיד ימשיך לזכור ויהיה שם </l>
+          <l>חלק בי ישכח </l>
+          <l>חלק בי יאהב </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חלק ממני תמיד ישאר של המים </l>
+          <l>וייגע בשמיים יותר מתמיד </l>
+          <l>כשפתאום ישכחו להסתכל בעיניים </l>
+          <l>חלק ממני תמיד יזכור להביט </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>גם אם לא רואים כבר את האור </l>
+          <l>והחושך נוגע </l>
+          <l>חלק בי תמיד ימשיך לזכור ויהיה שם </l>
+          <l>חלק בי ישכח </l>
+          <l>חלק בי יאהב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

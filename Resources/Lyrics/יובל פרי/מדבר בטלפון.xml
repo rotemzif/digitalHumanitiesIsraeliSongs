@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מדבר בטלפון</title>
+        <singer classification="male singer">יובל פרי</singer>
+        <writer>שיקו חייק</writer>
+        <composer>שיקו חייק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מדבר בטלפון</head>
+        <lg number="1" type="stanza">
+          <l>כשאני עובר ברחוב עלי מסתכלים</l>
+          <l>אבל אני אדם פשוט כמו האחרים</l>
+          <l>זה עושה לי טוב בלב שאותי מכרים </l>
+          <l>אבל לפעמים יש כאלה שאותי משגעים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מדבר בטלפון שומע צליל של ממתינה</l>
+          <l>אני עובר אל השיחה שומע צחוק של נערה</l>
+          <l>את עושה לי בלאגן כמו ילדה קטנה בגן</l>
+          <l>נכנס בך איזה שיגעון </l>
+          <l>אותי את מטרידה במקום לישון</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני אוהב את הקהל מתוך הנשמה</l>
+          <l>בלעדיהם לא הייתה לי שום הצלחה</l>
+          <l>אבל יש נערה שמתקשרת ולא עונה</l>
+          <l>מעניין מה היא רוצה כשהיא אותי כך מטרידה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מדבר בטלפון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

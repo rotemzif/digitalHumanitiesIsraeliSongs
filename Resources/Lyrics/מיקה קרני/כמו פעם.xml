@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו פעם 5</title>
+        <singer classification="female singer">מיקה קרני</singer>
+        <writer>מיקה קרני</writer>
+        <composer>מיקה קרני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו פעם</head>
+        <lg number="1" type="stanza">
+          <l>ונראה ששוב החורף,</l>
+          <l>מקפל את אחרוני העננים</l>
+          <l>זו שעה שמבקשת,</l>
+          <l>את ליבך ואת עיניך להקסים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בוא נשב על המרפסת,</l>
+          <l>נסתכל רחוק מעבר להרים</l>
+          <l>כששוקעת שם השמש,</l>
+          <l>זה יפה כמו כשהיינו ילדים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כמה טוב ששוב אתה כאן</l>
+          <l>בוא אשמור עלייך אח, מהעולם</l>
+          <l>כמה טוב ששוב אתה כאן</l>
+          <l>שים ראשך עלי, כמו פעם,</l>
+          <l>כשהיינו ילדים בגן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בחולצה המכופתרת,</l>
+          <l>על הדשא בין ערביים של שישי</l>
+          <l>תשחק איתי תופסת,</l>
+          <l>ותגיד לאמא שוב, שבגללי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כמה טוב ששוב אתה כאן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

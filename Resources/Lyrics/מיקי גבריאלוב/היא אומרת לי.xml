@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היא אומרת לי</title>
+        <singer classification="male singer">מיקי גבריאלוב</singer>
+        <writer>מיקי גבריאלוב</writer>
+        <composer>מיקי גבריאלוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היא אומרת לי</head>
+        <lg number="1" type="stanza">
+          <l>היא אומרת לי שנמאס לה כאן</l>
+          <l>זה מקום מוטרף וזה מסוכן</l>
+          <l>המשחק מכור לאותו ספסר</l>
+          <l>הוא קנה ומכר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היא אומרת לי שקשה להסתיר</l>
+          <l>שבסוף נשלם את כל המחיר</l>
+          <l>זה הרי ברור מה שכאן קרה</l>
+          <l>הבלון התפוצץ הבלון נקרע</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז בוא נלך לים</l>
+          <l>ניקח סירה ונברח מכאן</l>
+          <l>אז בוא נמצא לנו אי</l>
+          <l>שקט ונחמד נתפוס שלווה</l>
+          <l>נעשה אהבה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היא אומרת לי היא מדברת על זה</l>
+          <l>על מה שהיה ומה יהיה</l>
+          <l>שאנחנו כאן לזמן מוגבל</l>
+          <l>אוי כמה חבל</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אז בוא נלך לים...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מיום ליום שוכח</l>
+          <l>רוצה אבל בורח</l>
+          <l>יורה ולא פוגע</l>
+          <l>תמיד נשאר פחדן</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אז בוא נלך לים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

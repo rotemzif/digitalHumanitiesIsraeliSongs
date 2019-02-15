@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גמעה בתימנית</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>נחלת הכלל</writer>
+        <composer>נחלת הכלל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גמעה בתימנית</head>
+        <lg number="1" type="stanza">
+          <l>אללה ג'ינה לך יקום </l>
+          <l>למיסמר אל מג'עקום </l>
+          <l>סאדאל ומאזל קום יא ג'מעה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>סאממ אללה יניכון </l>
+          <l>וואחידיה ג'מעה </l>
+          <l>איוטי אחהל קוני סאה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אללה ג'ינה לך יקום </l>
+          <l>למיסמר אל מעקום </l>
+          <l>סאדאל ומאזל קום </l>
+          <l>יא ג'מעה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

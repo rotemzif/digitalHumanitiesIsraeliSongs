@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Masquerade</title>
+        <singer classification="male singer">עמית ארז</singer>
+        <writer>עמית ארז</writer>
+        <composer>עמית ארז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Masquerade</head>
+        <lg number="1" type="stanza">
+          <l>I saw you as an indian </l>
+          <l>when I was a girl </l>
+          <l>we talked about the summertime </l>
+          <l>we gave each other winter rhymes </l>
+          <l>and you just couldnt care enough </l>
+          <l>and I just couldnt care less </l>
+          <l>you know it's wrong but it's all right </l>
+          <l>cuz now I know you sleep at night </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>racing to the yard </l>
+          <l>racing to the bed </l>
+          <l>how could I forget the good? </l>
+          <l>you know it's really wrong but it's all right.. </l>
+          <l>cause now I know you sleep at night </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>"you kill me with the way you smile" </l>
+          <l>the plastic Jesus cried </l>
+          <l>Maria landed on your head </l>
+          <l>we're heading for the masquerade </l>
+          <l>we're heading for the masquerade </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>racing to the yard...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

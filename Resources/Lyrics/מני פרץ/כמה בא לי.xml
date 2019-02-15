@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה בא לי</title>
+        <singer classification="male singer">מני פרץ</singer>
+        <writer>ניסים מרי</writer>
+        <composer>אבי גוטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה בא לי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>כמה בא לי, להיות איתך כאן כל הלילה</l>
+          <l>ועד הבוקר, אני ואת ביחד...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רציתי שתדעי, אותך אני כל כך רוצה,</l>
+          <l>רק את הדרך לליבך, אינני מוצא,</l>
+          <l>רציתי שתבואי ושתיקחי אותי מכאן,</l>
+          <l>למקומות קסומים בהם, עוצר הזמן...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כמה בא לי, להיות איתך כאן כל הלילה</l>
+          <l>ועד הבוקר, אני ואת ביחד,</l>
+          <l>לא נגמר לי, איתך הכל כל כך פורח,</l>
+          <l>האור זורח, כשאת לי מחייכת...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רוצה כבר להרגיש, אותך נוגעת בפני,</l>
+          <l>ומנשקת ברכות על שפתי,</l>
+          <l>רציתי לאחוז, אותך חזק בשתי ידי,</l>
+          <l>ולהצמיד קרוב, קרוב, אותך אליי...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כמה בא לי, להיות איתך כאן כל הלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>And Maybe Love</title>
+        <singer classification="male singer">כפיר בן ליש</singer>
+        <writer>קובי נעים</writer>
+        <composer>הלל גולדבלום</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>And Maybe Love</head>
+        <lg number="1" type="stanza">
+          <l>Don’t speak of the day </l>
+          <l>Don’t mention the night </l>
+          <l>We’d stumble and fall </l>
+          <l>Feel nothing at all </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>Maybe your fault maybe mine </l>
+          <l>We would worry all the time </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>And maybe love stands in our way </l>
+          <l>And maybe love leads us astray </l>
+          <l>And maybe love has its own way </l>
+          <l>And maybe love took you away - from us </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>We think we are strong </l>
+          <l>Feel right, when were wrong </l>
+          <l>Beyond each chasm, behind each wall </l>
+          <l>You’ll find nothing at all </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>Maybe your fault maybe mine </l>
+          <l>We would worry all the time </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>And maybe love…</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

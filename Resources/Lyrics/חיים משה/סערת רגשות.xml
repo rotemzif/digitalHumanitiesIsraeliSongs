@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סערת רגשות 3</title>
+        <singer classification="male singer">חיים משה</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>אבשלום צוברה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סערת רגשות</head>
+        <lg number="1" type="stanza">
+          <l>איך להבת האש עלתה בשתי עניה</l>
+          <l>איך שקר מלחש אסף אותי אליה</l>
+          <l>ובתוך הנשמה שלך כל כך פגעתי</l>
+          <l>להיות כאן לצידך בי נישבעתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סערת רגשות מחדרי ליבי עולה</l>
+          <l>שתי עיניך בוכיות בגללה</l>
+          <l>סערת רגשות את ידי לך משיבה</l>
+          <l>לא אסור עוד מדרכה של האהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נסחפתי לטרוף מתוך ים דמעותייך</l>
+          <l>הנפש והגוף שבים עכשיו אליך</l>
+          <l>אל עולמך אישה תמימה וכואבת</l>
+          <l>למצוא פינה חמה ואוהבת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סערת רגשות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

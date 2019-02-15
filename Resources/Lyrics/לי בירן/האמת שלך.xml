@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האמת שלך</title>
+        <singer classification="male singer">לי בירן</singer>
+        <writer>לירן פרידמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האמת שלך</head>
+        <lg number="1" type="stanza">
+          <l>מסתתר שלא יראו</l>
+          <l>מפחיד לחשוב שלא ידעו</l>
+          <l>מנסה להישאר רחוק</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רחוק מכל הבעיות</l>
+          <l>מהסודות רכילויות</l>
+          <l>זה ממש לא מעניין אותי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואל תדאג יש תמיד</l>
+          <l>מי שיחזיק אותך</l>
+          <l>ואל תפחד להוציא</l>
+          <l>את מה שיש בך בפנים</l>
+          <l>ת'אמת שלך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מסתובב ברחובות</l>
+          <l>מכוניות פקקים זה לא הולך -</l>
+          <l>לשום מקום</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא רואה ולא מבין</l>
+          <l>ואיך אנשים בוחרים</l>
+          <l>להאמין לזה</l>
+          <l>גם לא מעניין אותי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואל תדאג...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>ת'אמת שלך</l>
+          <l>לה לה לה לה...</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>ואל תדאג...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

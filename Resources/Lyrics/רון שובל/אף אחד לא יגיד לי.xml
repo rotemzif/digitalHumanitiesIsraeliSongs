@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אף אחד לא יגיד לי</title>
+        <singer classification="male singer">רון שובל</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אף אחד לא יגיד לי</head>
+        <lg number="1" type="stanza">
+          <l>כשאותך רציתי הם אמרו קח אחרת</l>
+          <l>אך נפשי בך בוחרת</l>
+          <l>רק אותך רוצה ואוהב</l>
+          <l>כשלשיר עוד חלמתי</l>
+          <l>הם אמרו תבחר מקצוע</l>
+          <l>אך החלטתי לשמוע רק בכל הלב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אף אחד לא יגיד לי איך</l>
+          <l>לאהוב ולשמוח</l>
+          <l>אף אחד לא יגיד לי מה</l>
+          <l>יש לזכור או לשכוח</l>
+          <l>אף אחד לא יגיד לי איך</l>
+          <l>לעבור את הלילה</l>
+          <l>אף אחד לא יגיד לי מה</l>
+          <l>מחכה לי שם הלאה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הם תמיד אומרים לי אם תזיע תגיע</l>
+          <l>אך אני מרגיע את כולם לא ממהר</l>
+          <l>בליבי עוד יודע כל דבר בעל ערך</l>
+          <l>אעשה את הדרך בדרכי לא אוותר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אף אחד לא יגיד לי איך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

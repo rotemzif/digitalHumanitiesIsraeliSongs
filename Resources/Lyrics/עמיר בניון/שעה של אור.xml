@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שעה של אור</title>
+        <singer classification="male singer">עמיר בניון</singer>
+        <writer>עמיר בניון</writer>
+        <composer>עמיר בניון</composer>
+        <album>שלכת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שעה של אור</head>
+        <lg number="1" type="stanza">
+          <l>כשיבוא הערב, את תהיי בסדר</l>
+          <l>ואם תרצי אולי נוכל קצת לדבר</l>
+          <l>כשנצא לדרך שם ישוב הקסם</l>
+          <l>ואם תרצי מעט לצחוק</l>
+          <l>זה אפשר, אפשר לרקוד בשניים אפשר סתם לאהוב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי די רק בשעה של אור ואנו נחזור אל המציאות</l>
+          <l>די רק בשעה של אור ואנו נחזור אל המציאות, אל המציאות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשיבוא הערב את תהיי בסדר</l>
+          <l>ואם תרצי אולי נוכל להשאר</l>
+          <l>ליד אותו הפלא שליווה אותנו אז ושוב נוכל להתלהב</l>
+          <l>זה אפשר, אפשר לרקוד בשניים אפשר סתם לאהוב.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי די רק בשעה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

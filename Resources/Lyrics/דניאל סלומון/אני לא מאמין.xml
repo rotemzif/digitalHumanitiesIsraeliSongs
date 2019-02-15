@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני לא מאמין 2</title>
+        <singer classification="male singer">דניאל סלומון</singer>
+        <writer>דניאל סלומון</writer>
+        <composer>דניאל סלומון</composer>
+        <album>דניאל סלומון</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני לא מאמין</head>
+        <lg number="1" type="stanza">
+          <l>אני לא מאמין בסוף רגוע</l>
+          <l>אני לא מאמין שיש סוף קל</l>
+          <l>אני לא מאמין בסוף של עצב</l>
+          <l>אני לא מאמין בסוף בכלל</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני לא מאמין שיש לי דרך</l>
+          <l>אני לא מאמין שהיא אחת</l>
+          <l>אני לא מאמין שיש אחרת</l>
+          <l>אני לא מאמין בזה בכלל</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יש אהבה טובה לנצח</l>
+          <l>והיא מכה בי לפעמים</l>
+          <l>והיא מראה לי את הדרך</l>
+          <l>כשאני אבוד בפנים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש ימים טובים של אושר</l>
+          <l>הם מביאים איתם תקווה</l>
+          <l>אז גם אם לפעמים זה חושך</l>
+          <l>יש אור שמחכה לי</l>
+          <l>הוא מחכה לי בפינה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני לא מאמין בסוף של מוות</l>
+          <l>כי יש עוד כל כך הרבה לחיות</l>
+          <l>אז גם אם זה נראה שרע לי</l>
+          <l>אני לא מאמין באשליות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יש אהבה טובה לנצח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

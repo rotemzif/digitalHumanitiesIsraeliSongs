@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גן שלנו</title>
+        <singer classification="male singer">עמוס ברזל</singer>
+        <writer>חינגה סמילר</writer>
+        <composer>פניה וגמן שלונסקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גן שלנו</head>
+        <lg number="1" type="stanza">
+          <l>גן שלנו מה נחמד הוא</l>
+          <l>לנו טוב בו עד מאוד</l>
+          <l>בוא נשיר ונשתעשע</l>
+          <l>נשחק ונעבוד.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עם השחר עם השמש</l>
+          <l>חיש נלך נרוץ לגן</l>
+          <l>לקבל את פני כולנו</l>
+          <l>הוא מוכן ומזומן.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

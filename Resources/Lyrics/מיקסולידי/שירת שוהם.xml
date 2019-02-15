@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שירת שוהם</title>
+        <singer classification="unknown">מיקסולידי</singer>
+        <writer>ליאור כהן</writer>
+        <composer>ליאור כהן</composer>
+        <album>אין אבל - יש שכנים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שירת שוהם</head>
+        <lg number="1" type="stanza">
+          <l>עכשיו היא הלכה כואב קצת בבטן</l>
+          <l>מרגיש קצת לבד, מרגיש קצת מוזר</l>
+          <l>והלילה יורד ועולה בי העצב</l>
+          <l>לדעת שהיא לא תבין לעולם</l>
+          <l>בעיניים שלי רואים את הסבל והלב שמכריז </l>
+          <l>רעידת אדמה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עוצם את שתי עיני</l>
+          <l>ומדמיין איך יום אחד היא עוד תשוב אלי</l>
+          <l>כמו באגדות</l>
+          <l>הכל בינינו יסתדר </l>
+          <l>ואז נשוב להיות ביחד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>והריח שלה מתפוגג מהחדר </l>
+          <l>מוחק זיכרון של תקופה שחלפה</l>
+          <l>ועדיין כואב ואולי קצת יותר</l>
+          <l>כן קשה למלא את כל מה שלקחת</l>
+          <l>ועכשיו זה הסוף את במילא הלכת</l>
+          <l>והלב שוב מכריז</l>
+          <l>רעידת אדמה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עוצם את שתי עיני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

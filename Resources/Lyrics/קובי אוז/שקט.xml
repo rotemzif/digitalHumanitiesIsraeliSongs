@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שקט 30</title>
+        <singer classification="male singer">קובי אוז</singer>
+        <writer>קובי אוז</writer>
+        <composer>קובי אוז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שקט</head>
+        <lg number="1" type="stanza">
+          <l>שקט, הלכת מכאן,  נשאר רק שקט</l>
+          <l>שומע את עצמי בשקט,</l>
+          <l>וזה מפחיד אותי מאוד.</l>
+          <l>שקט, באות המחשבות בשקט</l>
+          <l>ומעירות אותי בלילה ומתנפלות עלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבל כשהיינו יחד שכחתי את עצמי</l>
+          <l>ואת איבדת אותך, אחד את השני</l>
+          <l>היה לנו רק יחד, ולא היה לבד</l>
+          <l>היה לנו רק פחד להישאר בשקט.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני הכי לבד בבית,</l>
+          <l>שומע צעדים בחדר,</l>
+          <l>ומגלה שהם שלי</l>
+          <l>ואז פתאום פורץ הבוקר</l>
+          <l>ובראי של המקלחת יש ליצן</l>
+          <l>פרצוף של פוקר רואה אותי ומתעלם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבל כשהיינו יחד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היה לנו רק פחד להישאר</l>
+          <l>להישאר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

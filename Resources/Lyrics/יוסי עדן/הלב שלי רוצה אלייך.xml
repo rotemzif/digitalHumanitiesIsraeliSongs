@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלב שלי רוצה אלייך</title>
+        <singer classification="unknown">יוסי עדן</singer>
+        <writer>יוסי עדן</writer>
+        <composer>יוסי עדן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלב שלי רוצה אלייך</head>
+        <lg number="1" type="stanza">
+          <l>כל רגע שעובר מתגעגע</l>
+          <l>אני רוצה להיות איתך</l>
+          <l>מתי אותי את כבר תביני</l>
+          <l>כל הזמן את בראשי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הלב שלי רוצה אלייך</l>
+          <l>הלב שלי קורא רק לך</l>
+          <l>כל היום חושב עלייך</l>
+          <l>נישבעתי שאוהב אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בך אני מצאתי את האושר</l>
+          <l>עולם מלא באהבה</l>
+          <l>כמה שתגידי את אוהבת</l>
+          <l>אצלי זה בא מהנשמה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הלב שלי רוצה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

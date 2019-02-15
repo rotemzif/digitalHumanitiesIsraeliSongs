@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני כאן 4</title>
+        <singer classification="unknown">פרוייקט הגומיה</singer>
+        <writer>אריאל קליינר</writer>
+        <composer>אריאל קליינר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני כאן</head>
+        <lg number="1" type="stanza">
+          <l>עברתי את החששות </l>
+          <l>איפה שקשה לחיות </l>
+          <l>מכל הטעויות מכל ההבנות </l>
+          <l>אני כאן </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רמז לבאות </l>
+          <l>עכשיו אפשר לראות </l>
+          <l>בין כל הטעויות האופציות הפתוחות </l>
+          <l>אני כאן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

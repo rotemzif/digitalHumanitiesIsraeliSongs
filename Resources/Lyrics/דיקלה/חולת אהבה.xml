@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חולת אהבה</title>
+        <singer classification="female singer">דיקלה</singer>
+        <writer>דיקלה</writer>
+        <composer>דיקלה</composer>
+        <album>ארלוזרוב 38</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חולת אהבה</head>
+        <lg number="1" type="stanza">
+          <l>דיברתי עם אלוהים</l>
+          <l>מה איתי ומה שלי</l>
+          <l>מה גלוי, מה ניסתר</l>
+          <l>מה אסור וזה מותר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>דיברתי עם אלוהים</l>
+          <l>מה עלי להבין</l>
+          <l>האם זה גורלי</l>
+          <l>אעשה זאת בדרכי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כי חולת אהבה אני</l>
+          <l>חולת אהבה אני</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שאלתי מלאכים</l>
+          <l>מה עלי מדברים</l>
+          <l>האם טובה, האם רעה</l>
+          <l>האם עלי להיות רגועה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>דיברתי עם אלוהים</l>
+          <l>מה עלי להבין</l>
+          <l>האם לצחוק, האם לבכות</l>
+          <l>האם עלי רק לחכות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי חולת אהבה אני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

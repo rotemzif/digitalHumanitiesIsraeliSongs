@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יונה עייפה</title>
+        <singer classification="male singer">גבי שושן</singer>
+        <writer>אהוד מנור</writer>
+        <composer>צביקה נוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יונה עייפה</head>
+        <lg number="1" type="stanza">
+          <l>היא רוחפת בלי קול בשחקים</l>
+          <l>ורועפת דמעה</l>
+          <l>בין סופות רעמים וברקים</l>
+          <l>היא דומעת ודואה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זאת יונה עייפה ויפה</l>
+          <l>שכמעט נטרפה</l>
+          <l>זאת היונה הצופה במעופה</l>
+          <l>וחוזרת לתיבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אברתה חרוכה ופצועה</l>
+          <l>מעשן ואש</l>
+          <l>היא עושה את דרכה הקבועה</l>
+          <l>לעולם לא תיוואש</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ילדים מבקשים שתנחת</l>
+          <l>הם רוצים ללטפה</l>
+          <l>אוהבים מחרישים בחלפה </l>
+          <l>עם השמש בכנפה </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זאת יונה עייפה ויפה</l>
+          <l>שכמעט נטרפה</l>
+          <l>זאת היונה הצופה במעופה</l>
+          <l>וחוזרת לתיבה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

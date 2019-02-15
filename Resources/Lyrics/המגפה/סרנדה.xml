@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סרנדה 6</title>
+        <singer classification="unknown">המגפה</singer>
+        <writer>עופר זמיר</writer>
+        <composer>ראובן לביא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סרנדה</head>
+        <lg number="1" type="stanza">
+          <l>בתקופות מסוימות</l>
+          <l>כשהרעש מתרפא</l>
+          <l>ימים לא ימים</l>
+          <l>לילות לא לילות</l>
+          <l>גם ככה מתפורר</l>
+          <l>והקיץ לא עוזר</l>
+          <l>כי קר בלב</l>
+          <l>לא בגוף</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שיכור ולא נושם</l>
+          <l>תתפלאי כמה שידעתי</l>
+          <l>וכמה שאני מחכה</l>
+          <l>כמה שאני מחכה</l>
+          <l>שתיפלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל הגברים שהיו בחייך</l>
+          <l>תחפשי בהם אותי</l>
+          <l>אני אמצא אותך</l>
+          <l>כל הגברים שהיו בחייך</l>
+          <l>תחפשי בהם אותי</l>
+          <l>אני אמצא אותך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שיכור ולא נושם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

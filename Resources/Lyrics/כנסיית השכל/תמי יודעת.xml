@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תמי יודעת</title>
+        <singer classification="band">כנסיית השכל</singer>
+        <writer>רן אלמליח</writer>
+        <composer>רן אלמליח</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תמי יודעת</head>
+        <lg number="1" type="stanza">
+          <l>תמי עוזבת היום או מחר,</l>
+          <l>לוקחת תרמיל, את הכלב, מצלמה, זה מה שנשאר.</l>
+          <l>אמרו לה בלונדון, הרבה יותר קר,</l>
+          <l>יותר אנשים הרבה פחות חם.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל יום ראשון מנגנים בכיכר,</l>
+          <l>לא הורגים ילדים לא חושבים על מחר.</l>
+          <l>אפשר לנסוע לראות את הנהר,</l>
+          <l>ואז לחזור שנהיה מאוחר.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תמי יודעת זה לא ישנה,</l>
+          <l>מה שהיה זה מה שיהיה.</l>
+          <l>כשהשתיקה תהפוך טובה יותר ממילים,</l>
+          <l>תמי יודעת, יהיה אפשר לחזור.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תמי עוזבת היום או מחר,</l>
+          <l>לוקחת תרמיל, את הכלב, מצלמה ,זה מה שנשאר.</l>
+          <l>עכשיו בכיכר, מלאה אנשים,</l>
+          <l>תמי חולמת על חיים חדשים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תמי יודעת זה לא ישנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

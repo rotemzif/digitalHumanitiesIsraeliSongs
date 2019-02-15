@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האלופה</title>
+        <singer classification="unknown">הנרי</singer>
+        <writer>הנרי</writer>
+        <composer>הנרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האלופה</head>
+        <lg number="1" type="stanza">
+          <l>הוי אהובה שלי הוי יקירה שלי</l>
+          <l>תני לי עוד דקה לפני שריקת הסיום</l>
+          <l>אני בקו ההגנה ולא תמיד מבין על מה</l>
+          <l>זו אהבה אמיתית או מלחמת קיום</l>
+          <l>תזכרי שנתתי לך שבועה והבטחה</l>
+          <l>בשבילי את האחת היחידה האלופה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>האלופה אהה האלופה אהה</l>
+          <l>האלופה אהה האלופה..</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הו אהובה שלי הו יקירה שלי</l>
+          <l>תני לי עוד דקה לפני שאת מחליטה</l>
+          <l>אם להמשיך איתי לרוץ</l>
+          <l>אני מגן אני חלוץ</l>
+          <l>שלא מוכן להפסיד באותו המרוץ</l>
+          <l>אז תזכרי שנתתי לך שבועה והבטחה</l>
+          <l>בשבילי את האחת היחידה האלופה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>האלופה אהה האלופה אהה</l>
+          <l>האלופה אהה האלופה..</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ותמיד תהיי היחידה האלופה</l>
+          <l>ותמיד תהיי היחידה האלופה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

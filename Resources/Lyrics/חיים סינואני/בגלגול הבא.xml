@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בגלגול הבא</title>
+        <singer classification="unknown">חיים סינואני</singer>
+        <writer>ברק רוני</writer>
+        <composer>ברק רוני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בגלגול הבא</head>
+        <lg number="1" type="stanza">
+          <l>כל כך קשה שאת עוזבת כל כך עצוב</l>
+          <l>נפשי שוקעת לה בשקט בתוך הגוף</l>
+          <l>ילדה, אין בי כבר כוח לא אוכל לשאת את חיי בלעדייך</l>
+          <l>ילדה, אין לי מנוח גם בחלומותיי רוצה לשוב אלייך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי הימים ימים קשים שאת אינך</l>
+          <l>והלילות לא נגמרים לי בלעדייך</l>
+          <l>ובראש המחשבות לרגע לא מרפות</l>
+          <l>איך אמצא שוב את דרכי אלייך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל כך קשה לבד בבית שאת אינך</l>
+          <l>תני סיבה לקום בבוקר ולחייך</l>
+          <l>ילדה, אני מבטיח אם רק תגידי שאת עדיין אוהבת</l>
+          <l>אני כאן אחכה לך</l>
+          <l>גם בגלגול הבא לא תהיה לי אחרת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי הימים ימים קשים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

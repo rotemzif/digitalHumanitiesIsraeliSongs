@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד לילה 4</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>עדי כבירי</writer>
+        <composer>נאור סינואני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד לילה</head>
+        <lg number="1" type="stanza">
+          <l>עכשיו השקט נגמר והשעה כבר מחר </l>
+          <l>וזה כמעט סוף הלילה </l>
+          <l>ויש מיליון אנשים, אורות בתוך רעשים </l>
+          <l>אני קורא לך אז למה, את הולכת </l>
+          <l>אני רוצה רק שתדעי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היום אני הולך </l>
+          <l>לכבוש שוב את ליבך </l>
+          <l>ולא חשוב לי איך </l>
+          <l>קשה לי בלעדייך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמעט עוד לילה עבר ואף אחד לא נשאר </l>
+          <l>ולא יודע מה הלאה </l>
+          <l>בחוץ מיליון כוכבים, אורות שמהבהבים </l>
+          <l>אני קורא לך אז למה, את הולכת </l>
+          <l>אני רק רוצה שתדעי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היום אני הולך... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ועכשיו הכאב נגמר והכוח חזר </l>
+          <l>ואני שלך </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>היום אני הולך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

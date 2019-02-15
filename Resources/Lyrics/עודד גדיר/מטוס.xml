@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מטוס 6</title>
+        <singer classification="male singer">עודד גדיר</singer>
+        <writer>עודד גדיר</writer>
+        <composer>עודד גדיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מטוס</head>
+        <lg number="1" type="stanza">
+          <l>היד שלך ביד שלי, עורגים אנחנו זה לזה </l>
+          <l>הזמן שלך בזמן שלי, שלובי זרועות, צמודי חזה </l>
+          <l>נושמים, נושמים </l>
+          <l>אני שואל נפשי לעוף רחוק מכל זה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ראיתי בשמיים מטוס </l>
+          <l>רציתי שייקח גם אותי איתו </l>
+          <l>לארץ רחוקה למקום אחר </l>
+          <l>שם אולי אוכל להתעורר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דמי שלי, דמך שלך, ערבות הנפש בחוזה </l>
+          <l>ילדי שלי, ילדך שלך, חיוך שלו עושה את זה </l>
+          <l>ישן וקם </l>
+          <l>שואל נפשי לעוף רחוק מכל זה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ראיתי בשמיים מטוס...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>איפה אני, אני ישן, </l>
+          <l>אני שמיכה, אני כרית </l>
+          <l>אני עפעף עצום </l>
+          <l>הבוקר בא רוצה לקום </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ראיתי בשמיים מטוס...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלילה 9</title>
+        <singer classification="female singer">דין דין אביב</singer>
+        <writer>סיגל דריאל</writer>
+        <composer>אלון יופה</composer>
+        <album>חופשיה בין עולמות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלילה</head>
+        <lg number="1" type="stanza">
+          <l>בלילה בלילה בשקט בשקט</l>
+          <l>אני באה לראות איך את נושמת</l>
+          <l>לא לוחשת לך כלום ולא מלטפת</l>
+          <l>רוצה רק לשמוע איך את נושמת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יפה שלי יותר מהכל</l>
+          <l>רוצה רק לשמור עלייך מכל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>העיניים שלוות הפה חם ורך</l>
+          <l>כל החדר מלא בשקט שלך</l>
+          <l>ועם כל נשימה עם כל נשימה</l>
+          <l>נהיה לי קצת שקט בתוך הנשמה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יפה שלי יותר מהכל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

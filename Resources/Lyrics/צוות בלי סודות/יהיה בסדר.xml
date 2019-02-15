@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יהיה בסדר 3</title>
+        <singer classification="unknown">צוות בלי סודות</singer>
+        <writer>אילנה לופט</writer>
+        <composer>שלמה יידוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יהיה בסדר</head>
+        <lg number="1" type="stanza">
+          <l>לי אין חשק להתחיל את היום,</l>
+          <l>ורוצים עוד רגע להמשיך את החלום.</l>
+          <l>קר בחוץ, והכל נראה אפור,</l>
+          <l>אך אל תהיה עצוב - תראה, זה יעבור.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם רותי לא רוצה בחברות,</l>
+          <l>ורק לך - יש לו מספיק בהתעמלות.</l>
+          <l>אם כל דבר יוצא לך הפוך,</l>
+          <l>זה לא עוזר להתרגז אז תן חיוך.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יהיה בסדר, יהיה בסדר,</l>
+          <l>תשמעו מה שאני אומר:</l>
+          <l>יהיה בסדר, יהיה בסדר,</l>
+          <l>כן הכל עוד יסתדר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם החבר הבטיח ולא בא,</l>
+          <l>ואבא שוב כעס בלי שום סיבה,</l>
+          <l>ואם נפל העפיפון, נשבר,</l>
+          <l>אולי זה לא היום שלך,</l>
+          <l>אבל מחר -</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יהיה בסדר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

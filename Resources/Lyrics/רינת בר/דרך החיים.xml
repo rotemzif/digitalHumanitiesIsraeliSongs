@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דרך החיים</title>
+        <singer classification="female singer">רינת בר</singer>
+        <writer>אבי ביטר</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דרך החיים</head>
+        <lg number="1" type="stanza">
+          <l>תקשיבי לי ילדה הדרך מפתה</l>
+          <l>בעולם יש טוב ויש גם רע</l>
+          <l>אסור להישבר בעולם יש גם תקווה</l>
+          <l>גורלו של אדם רק האל יקבע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני עוד רק ילדה שעוד לא מבינה</l>
+          <l>מחפשת את הדרך אל התהילה</l>
+          <l>רבים המכשולים בדרך החיים</l>
+          <l>הדרך אל האושר ביד אלוהים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תקשיבי לי ילדה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בן אדם הולך בדרך החיים</l>
+          <l>לא תוכל לברוח זה דרך אלוקים</l>
+          <l>בן אדם הבן זו דרך החיים</l>
+          <l>כי מעשיך בספר נכתבים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני עוד רק ילדה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

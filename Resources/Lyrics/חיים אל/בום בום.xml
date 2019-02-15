@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בום בום 2</title>
+        <singer classification="male singer">חיים אל</singer>
+        <writer>ג'קי עובד</writer>
+        <composer>ג'קי עובד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בום בום</head>
+        <lg number="1" type="stanza">
+          <l>בום בום בום...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לקחת אותי אל תוך הלילה</l>
+          <l>ביד רועדת מחייכת</l>
+          <l>דיברת אלי שפה זרה</l>
+          <l>שלא היתה לי מובנת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רצית אהבה חופשיה</l>
+          <l>שכל אחד עושה מה שבא לו</l>
+          <l>חיפשת ריגושים חדשים</l>
+          <l>אסורים אסורים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בום בום בום בום בום</l>
+          <l>זה מה שבראש שלך</l>
+          <l>בום בום בום בום בום בום</l>
+          <l>לה לה לה לה לה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כל גבר שמדליק אותך</l>
+          <l>בקלות אליו את מתמסרת</l>
+          <l>סקס זה משחק מסוכן</l>
+          <l>שבו תמיד את שולטת</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רצית אהבה חופשיה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

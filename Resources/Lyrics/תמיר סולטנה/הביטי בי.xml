@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הביטי בי</title>
+        <singer classification="unknown">תמיר סולטנה</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>שמואל אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הביטי בי</head>
+        <lg number="1" type="stanza">
+          <l>הלילה כמעט נעלם לרגע אינני נרדם</l>
+          <l>הבכי שלך אהובה בליבי פוגע</l>
+          <l>השקט מתוח נורא</l>
+          <l>כאילו שאין כבר ברירה</l>
+          <l>ומה מתרחש בליבי רק האל יודע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הביטי בי אימרי לי שאני חולם</l>
+          <l>הביטי בי אימרי שלא אני אשם</l>
+          <l>חבקי אותי תלחשי לי רק מילה</l>
+          <l>שתאסוף את רסיסי האהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הביטי בי ועלי אל תוותרי</l>
+          <l>הביטי בי תנגבי את דמעתי</l>
+          <l>חבקי אותי תלחשי לי רק מילה</l>
+          <l>שתאסוף את רסיסי האהבה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נכון שעשיתי שטויות יצאתי תמיד לבלות</l>
+          <l>ולא התחשבתי בכלל בכל מה שתגידי</l>
+          <l>עכשיו מצטער עלייך איני מוותר</l>
+          <l>רק תני לי סיכוי אהובה כי אני טעיתי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הביטי בי אימרי לי שאני חולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

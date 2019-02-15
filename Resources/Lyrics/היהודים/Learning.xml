@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Learning</title>
+        <singer classification="band">היהודים</singer>
+        <writer>תום פטרובר</writer>
+        <composer>אורית שחף</composer>
+        <album>פורטה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Learning</head>
+        <lg number="1" type="stanza">
+          <l>Learning how to dream</l>
+          <l>Learning how to scream</l>
+          <l>Learning how to stay awake</l>
+          <l>Learning how to fly</l>
+          <l>Learning not to cry</l>
+          <l>Learning how to take a break</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Though you see me</l>
+          <l>I cannot see myself in your green eyes</l>
+          <l>And though you hear me</l>
+          <l>There's silence everywhere</l>
+          <l>I don't know why</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Seaching for a goal</l>
+          <l>Seaching in our souls</l>
+          <l>Seaching underneath the fence</l>
+          <l>Waiting for the sun</l>
+          <l>Waiting for someone</l>
+          <l>Waiting while there is a chance</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>And though you see me</l>
+          <l>I cannot see myself in your green eyes</l>
+          <l>And though you hear me</l>
+          <l>There's silence everywhere</l>
+          <l>I don't know why</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

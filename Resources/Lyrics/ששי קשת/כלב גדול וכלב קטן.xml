@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כלב גדול וכלב קטן</title>
+        <singer classification="male singer">ששי קשת</singer>
+        <writer>מתי רגב</writer>
+        <composer>יאיר קלינגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כלב גדול וכלב קטן</head>
+        <lg number="1" type="stanza">
+          <l>כלב גדול לוקח מלונה מכלב קטן</l>
+          <l>כלב קטן נעלב והולך לישון בגן</l>
+          <l>כלב גדול חוסם דרך לכלב קטן</l>
+          <l>כלב קטן אוהב את הדרך ליד הבוסתן</l>
+          <l>כלב קטן נובח כלב גדול שותק</l>
+          <l>כלב קטן צורח כלב גדול צוחק</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כלבים קטנים מתרגזים מחפשים צדק בעולם</l>
+          <l>כלבים גדולים צוחקים הצדק נמצא אצלם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כלב גדול לוקח כלבה מכלב קטן</l>
+          <l>כלב קטן צורח גנב הסתלק מכאן</l>
+          <l>כלב גדול לוקח עצם מכלב קטן</l>
+          <l>כלב קטן מצהיר שהוא בעצם נתן</l>
+          <l>כלב קטן נובח כלב גדול שותק</l>
+          <l>כלב קטן צורח כלב גדול צוחק</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כלבים קטנים מתרגזים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

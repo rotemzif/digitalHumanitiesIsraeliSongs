@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אדם רגשני</title>
+        <singer classification="male singer">קובי פרץ</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אדם רגשני</head>
+        <lg number="1" type="stanza">
+          <l>אל תהיה כזה לחוץ- תישאר רגוע</l>
+          <l>אנשים זורקים מילה - ואתה פגוע</l>
+          <l>תנסה להיות אדיש - את עצמי מרגיע</l>
+          <l>כי מילה היא רק מילה - ואני פגיע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין מה לעשות, אין מה לעשות</l>
+          <l>זה אצלי באופי</l>
+          <l>אדם רגשני, זה מה שאני, זה אצלי באופי</l>
+          <l>ספרתי כבר עד עשר - וגם עד עשרים</l>
+          <l>אני רגשני, זה מה שאני, אדם רגשני</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תהיה כזה לחוץ - תשאר רגוע</l>
+          <l>החיים כמו סוכריה - בטעם לא ידוע</l>
+          <l>אם תרצה או לא תרצה -</l>
+          <l>הסוכריה נגמרת</l>
+          <l>קבל הכל באהבה - ותרגיש אחרת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין מה לעשות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

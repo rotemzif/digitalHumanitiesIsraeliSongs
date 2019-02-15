@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אורח חיים</title>
+        <singer classification="unknown">הדר יעקב</singer>
+        <writer>הדר יעקב</writer>
+        <composer>הדר יעקב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אורח חיים</head>
+        <lg number="1" type="stanza">
+          <l>אורח חיים בריא לא מונע מחלות </l>
+          <l>אורח חיים אחראי לא מונע טעויות</l>
+          <l>אולי להיפרד זו בעצם זכות</l>
+          <l>מישהו שם למעלה משך חזק מידי בחוט</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואתה עוד קטן מי ישמור עליך </l>
+          <l>לבד בעולם מי יקבל את פניך</l>
+          <l>נסה להיות חזק גם בשבילי</l>
+          <l>הלוואי ויכולת לאהוב אותי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>גם אם יהיה לך עצוב גם אם אני לא אשוב</l>
+          <l>אל תוותר אף פעם עליך </l>
+          <l>גם אם אתה עוד קטן </l>
+          <l>גם אם לא אשוב לעולם </l>
+          <l>אל תתבייש להראות את פניך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מכל התמונות שלי תוכל תמונה לחבר</l>
+          <l>את פניך אני רק אוכל לשער</l>
+          <l>אולי זה יהיה לטובתך בסוף </l>
+          <l>אולי רק כך תגיע עד הסוף</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>גם אם יהיה לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

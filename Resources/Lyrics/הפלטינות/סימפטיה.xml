@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סימפטיה</title>
+        <singer classification="band">הפלטינות</singer>
+        <writer>"ציפור נדירה"</writer>
+        <composer>שלומי קינן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סימפטיה</head>
+        <lg number="1" type="stanza">
+          <l>וכשתלכי לישון לבד היום</l>
+          <l>ותנעלי את דלתך</l>
+          <l>חשבי על השרועים לבד בכפור</l>
+          <l>אין מספיק אהבה בעולם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סימפטיה אנו צריכים, חבר</l>
+          <l>כי אין מספיק אהבה בעולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חצי עולם שונא את כל השאר</l>
+          <l>ולחצי עולם יש את הכל</l>
+          <l>וחצי עולם גווע ברעב</l>
+          <l>כי אין מספיק אהבה בעולם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סימפטיה אנו צריכים, חבר</l>
+          <l>כי אין מספיק אהבה בעולם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה נשאר 2</title>
+        <singer classification="band">כנסיית השכל</singer>
+        <writer>רן אלמליח</writer>
+        <composer>missing</composer>
+        <album>כנסיית השכל</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה נשאר</head>
+        <lg number="1" type="stanza">
+          <l>עכשיו את שקטה</l>
+          <l>הילדים נרדמו במיטה</l>
+          <l>בחדשות אומרים שסוף</l>
+          <l>לנו זה נראה התחלה</l>
+          <l>עוד באותו היום</l>
+          <l>נפלו פגזים בצפון</l>
+          <l>העולם נראה כמו חלום</l>
+          <l>לא עוזב אותך היום</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה נשאר ולא כואב</l>
+          <l>לחמם בו את הלב</l>
+          <l>מה נשאר מה נשאר</l>
+          <l>שיר ישן אני שר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נגמרה העונה החמה</l>
+          <l>השאירה אותך עירומה</l>
+          <l>אל תוך החורף מה נשאר</l>
+          <l>לחמם בו את הגוף</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה נשאר ולא כואב...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza" />
+        <lg Chorus="yes" number="6" type="stanza" />
+        <lg Chorus="yes" number="7" type="stanza" />
+        <lg Chorus="yes" number="8" type="stanza" />
+        <lg Chorus="yes" number="9" type="stanza" />
+      </lg>
+    </body>
+  </text>
+</TEI>

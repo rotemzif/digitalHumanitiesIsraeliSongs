@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר תמים</title>
+        <singer classification="female singer">גלי עטרי</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר תמים</head>
+        <lg number="1" type="stanza">
+          <l>בלילות חמים, </l>
+          <l>היינו לפעמים נמים </l>
+          <l>באסמים ובכרמים, </l>
+          <l>ובשיר תמים </l>
+          <l>היינו מתלמים קמים, </l>
+          <l>ובאור השמש מתבשמים. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חרוזי טללים </l>
+          <l>הבהיקו על צווארי גמלים, </l>
+          <l>בין שיבולים וצאלים. </l>
+          <l>מי הנחלים, </l>
+          <l>איושת הרוח בעלים </l>
+          <l>ופרי הקיץ בסלים. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>השמש זרח והשמש צנח, </l>
+          <l>כמו פרפר גדול ורך, </l>
+          <l>ומניסן ועד אלול בארץ החמה, </l>
+          <l>נשכחו מילים, כמו מדוע, איך ומה? </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>להג של יונים, </l>
+          <l>המה כצליל פעמונים </l>
+          <l>מעל אגם של סביונים. </l>
+          <l>ארץ ראשונים, </l>
+          <l>היינו אז כל כך שונים, </l>
+          <l>כל כך שונים ונבונים. </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>השמש זרח... </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>בערבי סתווים, </l>
+          <l>היו בני יעקב שבים </l>
+          <l>אל עולם עם כוכבים. </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>השמש זרח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

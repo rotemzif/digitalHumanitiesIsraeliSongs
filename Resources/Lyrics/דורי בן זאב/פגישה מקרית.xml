@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פגישה מקרית</title>
+        <singer classification="unknown">דורי בן זאב</singer>
+        <writer>דורי בן זאב</writer>
+        <composer>עופר מאירי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פגישה מקרית</head>
+        <lg number="1" type="stanza">
+          <l>בלילה, בגשם שוטף</l>
+          <l>רחובות רטובים ואני מתעטף</l>
+          <l>בריח טיפות, באור יקרות</l>
+          <l>מול חלון רואה המוכר לי תקוות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בלילה, כשהכל ישנים</l>
+          <l>הלב לא מוכן לעשות עניינים</l>
+          <l>כמו ציפור אמיתית על חלון העולם</l>
+          <l>שורקת לך שיר החופשי מאדם</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>פגישה מקרית ליום פורח</l>
+          <l>פה לב הולם ולב בורח</l>
+          <l>הפרש גילים, מרווח צלילים</l>
+          <l>אני רואה אותך מולי</l>
+          <l>אח, איזה ריח</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואני מהלך בין טיפות העונה</l>
+          <l>מחפש לי ריחות, מחפש הבנה</l>
+          <l>ובינינו מפריד אור ירח מפחיד</l>
+          <l>המעיד על טירוף, אם נחזור לעתיד</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>פגישה מקרית...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

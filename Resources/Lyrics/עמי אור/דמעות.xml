@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דמעות 22</title>
+        <singer classification="unknown">עמי אור</singer>
+        <writer>רועי יעיש</writer>
+        <composer>אלי חמדי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דמעות</head>
+        <lg number="1" type="stanza">
+          <l>שוכב בתוך שק"ש, גרון חנוק מבכי, מכאב </l>
+          <l>בבקר קם, והדמעות חלפו להן וכבר אינן </l>
+          <l>ורק בראש עוד יורדות הדמעות אל תוך הלב </l>
+          <l>אין מזור לכאבי, גם לא תחבושת הזמן </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא ראית אותי בוכה, לא את ולא אחרת, </l>
+          <l>ולעולם גם לא תראי את הדמעות. </l>
+          <l>רק אל יודע את תפילת דמעה יורדת </l>
+          <l>את פירושן, יודעים רק מלאכים ונשמות </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שורד בתוך מדבר ושממון, </l>
+          <l>פה במדבר שולט אל ולא אדון. </l>
+          <l>כל יום עובר כמו גל, סוחף עוד חלק מהלב. </l>
+          <l>הגעגועים חודרים עמוק ומציפים את הכאב </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא ראית אותי בוכה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

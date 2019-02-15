@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סניוריטה 6</title>
+        <singer classification="male singer">משה הלל</singer>
+        <writer>משה הלל</writer>
+        <composer>משה הלל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סניוריטה</head>
+        <lg number="1" type="stanza">
+          <l>לעת ערב היא יוצאת לכיכר ההומה בני הכפר</l>
+          <l>שימלתה ברוח מתבדרת ונושקת לירך ולעפר,</l>
+          <l>וכולם אז ברון ישירו לכבוד הסניוריטה היפה</l>
+          <l>וכולם ברגליים אז ירקעו ונועצת בהם את מבטה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סניוריטה, סניוריטה, סניוריטה היפה</l>
+          <l>סניוריטה, סניוריטה, סניוריטה אהובה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ולפתע צליל גיטרה ממלא את הכיכר</l>
+          <l>ובקול אז היא שרה לצלילי כפיים וגיטר,</l>
+          <l>וכולם אז בגרון ניחר יצטרפו וסניוריטה הנאווה</l>
+          <l>ויריח מעל הכיכר, יפיץ אורו בהנאה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סניוריטה, סניוריטה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה סיפור על סניוריטה שהייתה המוקד של הכפר</l>
+          <l>ובכל ערב היא יצאה לה לרקד ולזמר בכיכר,</l>
+          <l>אך לפתע כך נעלמה לה, איש אינו יודע מה קרה?</l>
+          <l>יש אוצרים שמצאה לה, מצאה לה את אהובה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>סניוריטה, סניוריטה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

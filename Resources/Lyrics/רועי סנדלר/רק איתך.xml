@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק איתך 9</title>
+        <singer classification="unknown">רועי סנדלר</singer>
+        <writer>גל שריג</writer>
+        <composer>אריק זנטי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק איתך</head>
+        <lg number="1" type="stanza">
+          <l>תמיד כשאת בוכה אני יודע </l>
+          <l>כמה אהבה יש בשבילך </l>
+          <l>רוצה איתך לבכות ומשתגע </l>
+          <l>אני רוצה איתך להיות אני יודע </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שומר את התקווה לאהבה </l>
+          <l>רוצה איתך לגדול אני פוסע </l>
+          <l>איתך בין רחובות אני שלך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק איתך מוצא מקלט מכל העצב </l>
+          <l>מכל האכזבות בעולם </l>
+          <l>רק איתך רואה תחושה שמתגברת </l>
+          <l>רק איתך הכל הופך להיות מושלם </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל רגע בחיי קולך שומע </l>
+          <l>נוגע בליבי סוגר עיניי </l>
+          <l>רוצה איתך לשוט בים רוגע </l>
+          <l>אני רוצה איתך להיות אני יודע </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שומר את התקווה לאהבה </l>
+          <l>רוצה איתך לגדול אני פוסע </l>
+          <l>איתך בין רחובות אני שלך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

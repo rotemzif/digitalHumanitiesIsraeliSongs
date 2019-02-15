@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לחבק אותך 3</title>
+        <singer classification="band">סינרגיה</singer>
+        <writer>רון הופמן</writer>
+        <composer>missing</composer>
+        <album>צועקים על אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לחבק אותך</head>
+        <lg number="1" type="stanza">
+          <l>אני סולח לך גם אם את לא רואה את זה</l>
+          <l>שלכל דקה יש עוד טעם</l>
+          <l>יושב מלאך גבוה שעוד נותן לי כוח</l>
+          <l>הוא מחזק אותי כשאת איתי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש אנשים שלא מוצאים אף פעם</l>
+          <l>ויש גם מקומות שאין כבר טעם</l>
+          <l>ולפעמים זה שם גם אם זה לא מושלם</l>
+          <l>גם אם קשה לראות קשה לראות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כשאת צוחקת אני חי</l>
+          <l>כשאת בוכה עצוב מדי</l>
+          <l>אני פותח ת'ידיים לחבק אותך</l>
+          <l>כי זה האור שבענייך שמקרב אותי אלייך</l>
+          <l>כי זה הטעם שנשאר מלחבק אותך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש אנשים לא מוצאים אף פעם מקום שכזה</l>
+          <l>יש מקומות שאין כבר טעם</l>
+          <l>ואין טעם להמשיך את זה</l>
+          <l>ולפעמים לפעמים זה שם</l>
+          <l>גם אם זה גם אם זה קשה לראות</l>
+          <l>ולפעמים לפעמים זה שם</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כשאת צוחקת אני חי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

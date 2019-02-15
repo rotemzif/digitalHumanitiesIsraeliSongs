@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שדה נובמבר</title>
+        <singer classification="female singer">עידית אשל</singer>
+        <writer>עידית אשל</writer>
+        <composer>עידית אשל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שדה נובמבר</head>
+        <lg number="1" type="stanza">
+          <l>בשדה חרוש </l>
+          <l>של סוף הקיץ </l>
+          <l>אמא אדמה </l>
+          <l>מחכה לגשם שיבוא </l>
+          <l>להצמיח בי </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>השדה חרוש </l>
+          <l>בסוף הקיץ </l>
+          <l>הרגבים שחורים </l>
+          <l>ומתבקעים לגשם שיבוא </l>
+          <l>ויכנס </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הנה הוא מגיע אלי </l>
+          <l>הנה הוא מגיע אלי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>על קברך </l>
+          <l>האדמה מתחת לרגלי </l>
+          <l>עלים שנרקבים </l>
+          <l>חיים שצומחים </l>
+          <l>אני משתחווה אליך </l>
+          <l>אמא </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הנה הוא מגיע אלי </l>
+          <l>הנה הוא מגיע אלי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מטדור</title>
+        <singer classification="unknown">מוג דה</singer>
+        <writer>יוש גרנות</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מטדור</head>
+        <lg number="1" type="stanza">
+          <l>עם גיטרה בידה שרה היפייפיה </l>
+          <l>מזמרת בקולה נערה צועניה </l>
+          <l>שרה על המטדור האמיץ והגיבור </l>
+          <l>האחד והיחיד מטולדו עד מדריד </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לזירה היה עולה וכולם קראו הולה </l>
+          <l>עם החרב החדה הוא היה לאגדה </l>
+          <l>לזירה היה עולה וכולם קראו הולה </l>
+          <l>הוא היה אלוף קרבות ואלוף באהבות </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יום אחד פגש אישה שאת לבבו כבשה </l>
+          <l>נפגשו בערבים והיו לאוהבים </l>
+          <l>כשנודע לבעלה הוא ביקש לו נקמה </l>
+          <l>הוא הגיע לזירה ובמטדור ירה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לזירה היה עולה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

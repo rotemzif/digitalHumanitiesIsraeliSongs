@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בדד</title>
+        <singer classification="female singer">גליקריה</singer>
+        <writer>עמשי לוין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בדד</head>
+        <lg number="1" type="stanza">
+          <l>בדד, במשעול אל האין</l>
+          <l>בדד, בנתיב ללא כלום</l>
+          <l>בדד, עם הזמן הבורח</l>
+          <l>והזמן לא שוכח להציב את הגבול</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בדד, בלי כף יד מלטפת</l>
+          <l>בדד, ללא שכם ידיד</l>
+          <l>בדד, כמה טוב לא לדעת</l>
+          <l>שידך כבר נוגעת</l>
+          <l>בידו של אחר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בדד אלך גם תפילה אין לי</l>
+          <l>בדד בלי עתיד בלי תקווה בלי חלום</l>
+          <l>בדד אלך גם תפילה אין לי</l>
+          <l>בדד בלי עתיד בלי תקווה בלי חלום</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בדד, כמו השמש אנדודה</l>
+          <l>בדד, במדבר הלוהט</l>
+          <l>בדד, גם דמעות הן רק הבל</l>
+          <l>שיר מזמור אין לסבל</l>
+          <l>שיר מזמור של אילמים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בדד אלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

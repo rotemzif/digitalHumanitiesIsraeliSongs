@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא טוב לדעת</title>
+        <singer classification="male singer">פופיק ארנון</singer>
+        <writer>פופיק ארנון</writer>
+        <composer>מיקי גבריאלוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא טוב לדעת</head>
+        <lg number="1" type="stanza">
+          <l>פעם אהבתי</l>
+          <l>זה לא חדש</l>
+          <l>פעם ידעתי</l>
+          <l>זה לא ממש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא טוב לדעת יותר מדי</l>
+          <l>לא טוב לדעת יותר מדי</l>
+          <l>אם תדע יותר מדי תרגיש לא טוב</l>
+          <l>אם תדע יותר מדי תרגיש לא טוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פעם חשבתי</l>
+          <l>שזה הכל</l>
+          <l>פעם הבנתי</l>
+          <l>זה לא הכל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם תחשוב יותר מדי תרגיש לא טוב</l>
+          <l>אם תפסיק לחלום תרגיש יותר בנוח</l>
+          <l>אם תחשוב יותר מדי תרגיש לא טוב</l>
+          <l>זה לא טוב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אש בוערת בליבי</l>
+          <l>את שרפת את תוך תוכי</l>
+          <l>את לא יודעת כלום</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לא טוב לדעת יותר מדי</l>
+          <l>לא טוב לדעת יותר מדי</l>
+          <l>אם תדע יותר מדי תרגיש לא טוב</l>
+          <l>אם תדע יותר מדי תרגיש לא טוב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

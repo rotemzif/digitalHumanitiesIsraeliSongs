@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני מבטיח 2</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>יוסי בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני מבטיח</head>
+        <lg number="1" type="stanza">
+          <l>בלילה את קולך אני שומע</l>
+          <l>אלייך יפתי מתגעגע</l>
+          <l>ביום שתחבקי בכל הכוח</l>
+          <l>השמש של חיי תתחיל לזרוח.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהובה שלי אני מבטיח</l>
+          <l>אם תרצי שינוי ביחד שוב נצליח</l>
+          <l>אם תתני סיכוי אני לוקח</l>
+          <l>אלף נשיקות אני שולח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פתאום אני לבד וזה מפריע</l>
+          <l>הבנתי שאני מאוד פגיע</l>
+          <l>בלב שלי ילדה הכל פתוח</l>
+          <l>קשה לי לדבר קשה לנוח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהובה שלי אני מבטיח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

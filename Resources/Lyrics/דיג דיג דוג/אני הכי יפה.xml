@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני הכי יפה</title>
+        <singer classification="unknown">דיג דיג דוג</singer>
+        <writer>מיכל חזון</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני הכי יפה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>יש לי עגילים ומחרוזות</l>
+          <l>מכל מיני פרחים ומפירות</l>
+          <l>יש לי טבעות על האצבעות</l>
+          <l>אני הכי יפה מכל הילדות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני הכי יפה מכל הילדות</l>
+          <l>אני הכי הכי יפה מכל הילדות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק אתמול יצאתי לטייל</l>
+          <l>וכל אחד עמד והסתכל</l>
+          <l>כולם אמרו חגית</l>
+          <l>כמה את חגיגית</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני הכי יפה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

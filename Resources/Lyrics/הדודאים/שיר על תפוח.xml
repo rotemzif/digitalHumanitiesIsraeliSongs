@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר על תפוח</title>
+        <singer classification="band">הדודאים</singer>
+        <writer>חיים גורי</writer>
+        <composer>יחזקאל בראון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר על תפוח</head>
+        <lg number="1" type="stanza">
+          <l>שירי לי שירי על תפוח </l>
+          <l>שירי לי על תפוחים </l>
+          <l>שיר מתוק וחמצמץ בין העלים </l>
+          <l>שיר עסיס ניגר פרי הילולים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שירי לי שירי לי ברוח </l>
+          <l>שירי לי על ניחוחים </l>
+          <l>שירי לי על אשכולות הענבים </l>
+          <l>שיר על לילה ועל אוהבים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

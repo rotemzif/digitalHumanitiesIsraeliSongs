@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הנה היום בא</title>
+        <singer classification="unknown">מיקי מיראל</singer>
+        <writer>מיקי מיראל</writer>
+        <composer>מיקי מיראל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הנה היום בא</head>
+        <lg number="1" type="stanza">
+          <l>איפה הבקבוק, תן לגימה, </l>
+          <l>תן לרקוד בלי הכרה. </l>
+          <l>חבל על כל רגע, הזמן קצר. </l>
+          <l>האושר הוא רגעי ויקר. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אוי.. אוי.. אוי.. כי מה כולם רוצים, </l>
+          <l>להרגיש קצת בחיים. </l>
+          <l>אוי.. אוי.. אוי.. כל בוקר להשקים, </l>
+          <l>עם אור על הפנים. </l>
+          <l>הנה היום בא.. היום בא.. </l>
+          <l>הנה היום בא.. היום בא.. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז איפה החיוך על השפתיים, </l>
+          <l>איפה הניצוץ שבעיניים. </l>
+          <l>השמחה היא כאן, לא בשמיים, </l>
+          <l>אז בואו נרים עוד כוסית או שתיים. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אוי.. אוי.. אוי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

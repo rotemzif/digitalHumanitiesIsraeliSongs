@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה מתוקה</title>
+        <singer classification="unknown">חגית מלול</singer>
+        <writer>רונן ירקוני</writer>
+        <composer>אהרון קמיגרוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה מתוקה</head>
+        <lg number="1" type="stanza">
+          <l>מול ידך המושטת</l>
+          <l>אני פוסעת לאט</l>
+          <l>אהבה מקודשת</l>
+          <l>בליבי לעד</l>
+          <l>לאהוב נשבעת</l>
+          <l>וקולך רעד</l>
+          <l>ואלי לחשת</l>
+          <l>אנו גוף אחד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את כל המילים שבלב אני שרה אליך</l>
+          <l>ורואה בעיניך</l>
+          <l>אהבה מתוקה</l>
+          <l>אשמור תמיד בליבי עלי ועליך</l>
+          <l>ואלך אחריך כל הדרך איתך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>המילים שלחשת</l>
+          <l>נכנסות אל הלב</l>
+          <l>לא אשכח אך אמרת</l>
+          <l>רק אותך אוהב</l>
+          <l>זה הרגע שלנו</l>
+          <l>כמו חלום הושלם</l>
+          <l>אמונים נשבענו</l>
+          <l>יחד לעולם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את כל המילים שבלב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

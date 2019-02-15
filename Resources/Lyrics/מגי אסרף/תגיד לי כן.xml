@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תגיד לי כן</title>
+        <singer classification="unknown">מגי אסרף</singer>
+        <writer>רמי לב</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תגיד לי כן</head>
+        <lg number="1" type="stanza">
+          <l>הלילה לא נרדמת, עיניים לא עוצמת</l>
+          <l>מחשבות לרגע לא עוזבות</l>
+          <l>רוצה קרוב אליך, לתוך סיפור חייך</l>
+          <l>לאהוב, הלילה לאהוב.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תגיד לי כן תגיד לי לא</l>
+          <l>תהיה איתי פתוח </l>
+          <l>ואל תיתן לי לחכות לקשר לא בטוח</l>
+          <l>תגיד לי כן תגיד לי לא</l>
+          <l>רק אל תגיד לי עוד שבוע</l>
+          <l>ואל תיתן לי לחכות לחיות בלא ידוע...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לבד לאור ירח, הלב אינו שוכח </l>
+          <l>הבטחות תמיד רק הבטחות..</l>
+          <l>זה רק משחק של כוח שממנו אין לברוח</l>
+          <l>עד מתי, תגיד לי כבר ודי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תגיד לי כן תגיד לי לא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

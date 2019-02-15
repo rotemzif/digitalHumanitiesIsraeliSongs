@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מישהו גדול</title>
+        <singer classification="female singer">נינט טייב</singer>
+        <writer>חנה גולדברג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מישהו גדול</head>
+        <lg number="1" type="stanza">
+          <l>עוד ענן אפור בפנים עובר - שט</l>
+          <l>הוא מושיט ידיו שאבוא אליו בחושך</l>
+          <l>רק רוצה הביתה, רק רוצה הביתה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מישהו גדול שם ישמור עלי שלא אפול</l>
+          <l>יד רכה תבוא אלי שותקת שם ומרגיעה</l>
+          <l>אז ראשי יצנח עייף מפחד שוב בתוך חיקה</l>
+          <l>מישהו גדול שם ישמור עלי שלא אפול.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד ענף קטן בפנים נשבר - בום</l>
+          <l>עוד מכה, עוד מכה ולא אוכל לקום</l>
+          <l>רק רוצה הביתה, רק רוצה הביתה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מישהו גדול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

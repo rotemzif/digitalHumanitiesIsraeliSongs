@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ידעתי בליבי</title>
+        <singer classification="unknown">שיקו חייק</singer>
+        <writer>שיקו חייק</writer>
+        <composer>שיקו חייק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ידעתי בליבי</head>
+        <lg number="1" type="stanza">
+          <l>תמיד ידעתי שיום יבוא</l>
+          <l>ותרצי שוב אותי לראות</l>
+          <l>שלחת חברות לביתי לבקש את סליחתי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ידעתי בליבי שתרצי בי</l>
+          <l>ידעתי בתוכי שתבכי לי</l>
+          <l>ידעתי בליבי שתרצי בי</l>
+          <l>ידעתי שתתחרטי על כל מה שעשית לי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מרוב זעם שהיה בנישמתי</l>
+          <l>רציתי אלוקיי שיקח את נישמתי</l>
+          <l>היום אני יודע שאין דרך חזרה</l>
+          <l>תמשיכי לחיות בלעדי ילדה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ידעתי בליבי שעוד תרצי בי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

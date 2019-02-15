@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עברנו לצפון</title>
+        <singer classification="male singer">שלומי שבן</singer>
+        <writer>שלומי שבן</writer>
+        <composer>שלומי שבן</composer>
+        <album>עיר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עברנו לצפון</head>
+        <lg number="1" type="stanza">
+          <l>עברנו לצפון ואנחנו לא מתגעגעים</l>
+          <l>שואלים אותנו אם אנחנו משתגעים</l>
+          <l>ממש לא משתגעים</l>
+          <l>כל פעם שאתם באים</l>
+          <l>זה לא יותר מסקרנות</l>
+          <l>רגש ישן שמתעורר כמו שזה בא</l>
+          <l>זה כבר עובר</l>
+          <l>לא, זה ממש לא ברצינות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עכשיו תביט בשקדייה</l>
+          <l>בפרח לוע הארי</l>
+          <l>עכשיו תריח את זה</l>
+          <l>עכשיו תגיד לי ש</l>
+          <l>זה לא יותר בריא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>האנשים מצוינים</l>
+          <l>ומסתפקים כאן במועט</l>
+          <l>זה שרול והוא בונה עפיפונים</l>
+          <l>וזה תמיר וזאת אשתו ענת</l>
+          <l>כשהייתי שחקנית</l>
+          <l>וזה לא היה כל כך מזמן</l>
+          <l>שהעולם היה מונית ואהבה זמנית</l>
+          <l>וסידורים וכסף ועשן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עכשיו תביט בשקדייה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא מתגעגעים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

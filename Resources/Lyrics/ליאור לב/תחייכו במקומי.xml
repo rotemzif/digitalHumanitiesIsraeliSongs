@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תחייכו במקומי</title>
+        <singer classification="unknown">ליאור לב 3</singer>
+        <writer>ליאור לב</writer>
+        <composer>ליאור לב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תחייכו במקומי</head>
+        <lg number="1" type="stanza">
+          <l>יש רק דרך אחת להגיד לך את האמת בפנים </l>
+          <l>יש לי אלף סיבות עכשיו לברוח עדיף להיות עם עצמי </l>
+          <l>כי יש בך צד שצועק מקלל ושורט </l>
+          <l>כועסת לא רגועה מחפשת תשובה והכל בשביל מה? </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז תחייכו במקומי </l>
+          <l>ואל תגידו שאני הדיכאוני </l>
+          <l>אז תחייכו במקומי </l>
+          <l>ואל תסתירו את האושר הפנימי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תיכננת תוכניות על איך לנסוע לצפון הרחוק </l>
+          <l>את ארזת מזוודות מבלי לשמוע מה אני מבקש </l>
+          <l>כי יש בך צד ששולט אגואיסט מתנשא </l>
+          <l>איתך זה כמו מלחמה לדבר בפקודה לא לישון כל הלילה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז תחייכו במקומי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

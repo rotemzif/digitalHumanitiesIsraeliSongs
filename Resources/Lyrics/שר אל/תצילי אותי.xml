@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תצילי אותי</title>
+        <singer classification="unknown">שר אל</singer>
+        <writer>שרון אסולין</writer>
+        <composer>שרון אסולין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תצילי אותי</head>
+        <lg number="1" type="stanza">
+          <l>פיזרתי צ'קים בכל החנויות</l>
+          <l>לקחתי מאלפי חברים הלוואות</l>
+          <l>גם סלטות עשיתי באוויר</l>
+          <l>ואת אומרת שאין לך מחיר</l>
+          <l>אולי מרגיש כמו מלך בלי גלימה</l>
+          <l>אבל איתך עושה היום עסקת חבילה</l>
+          <l>אני עוטף ליבי במתנה</l>
+          <l>כי את פשוט התחנה האחרונה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תצילי אותי, תצילי</l>
+          <l>באהבה שלך אני טובע</l>
+          <l>תצילי אותי, תצילי</l>
+          <l>אם את מזל שלי</l>
+          <l>אני קמע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>במילון לאהבה פירוש לא מצאתי</l>
+          <l>כל הלילה עין לא עצמתי</l>
+          <l>זה כמו הפסים שברכבת</l>
+          <l>פשטה נפשי, אהבתי כאן לא נגמרת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תצילי אותי, תצילי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

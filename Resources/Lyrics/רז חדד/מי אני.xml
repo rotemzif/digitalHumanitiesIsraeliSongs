@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי אני 10</title>
+        <singer classification="unknown">רז חדד</singer>
+        <writer>ברק רוני</writer>
+        <composer>ברק רוני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי אני</head>
+        <lg number="1" type="stanza">
+          <l>עוד לא אמרתי לך הלילה</l>
+          <l>עד כמה שאני אוהב אותך</l>
+          <l>את מלאך שבא לי מלמעלה</l>
+          <l>להאיר את האושר שנשכח</l>
+          <l>אני אבוד בלעדייך</l>
+          <l>לבדי הייתי מוותר מזמן</l>
+          <l>את מראה לי את הדרך</l>
+          <l>להגשים את החלומות כולם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מי אני, מי אני</l>
+          <l>מי אני לבדי</l>
+          <l>מי אני, מי אני</l>
+          <l>כשאת לא לידי</l>
+          <l>אם לא את, אם לא את</l>
+          <l>אם לא את לצידי</l>
+          <l>הייתי כבר מזמן יוצא מדעתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאת נוסעת ליומיים</l>
+          <l>אני כאן מטפס על הקירות</l>
+          <l>הבלאגן שבעיניים</l>
+          <l>מייאש שבא לי כבר לבכות</l>
+          <l>אני מכור אלייך</l>
+          <l>אהובה, כל חיי הם בשבילך</l>
+          <l>אבל עכשיו אני בבית</l>
+          <l>מסתבך, כל דקה שאת אינך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מי אני, מי אני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

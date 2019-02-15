@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי אנחנו</title>
+        <singer classification="male singer">שמוליק קראוס</singer>
+        <writer>שמוליק קראוס</writer>
+        <composer>שמוליק קראוס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי אנחנו</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>מי אנחנו? מה אנחנו?</l>
+          <l>לאלוהים התשובה</l>
+          <l>מה חטאנו? מה פשענו?</l>
+          <l>לאלוהים התשובה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אלוהים הוא גדול, הוא גדול</l>
+          <l>הוא הכל, הוא הכל</l>
+          <l>אלוהים הוא גדול, הוא גדול</l>
+          <l>הוא יכול שבכל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם אין אני לי, מי לי? מי לי?</l>
+          <l>לאלוהים התשובה</l>
+          <l>אם לא עכשיו, אז אימתי?</l>
+          <l>לאלוהים התשובה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אלוהים הוא גדול...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מי אנחנו? מה אנחנו?</l>
+          <l>לאלוהים התשובה</l>
+          <l>מה חטאנו? מה פשענו?</l>
+          <l>לאלוהים התשובה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אלוהים הוא גדול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לישון בלי לחלום</title>
+        <singer classification="unknown">מטרופולין</singer>
+        <writer>עופר מאירי</writer>
+        <composer>ארז ברזוליק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לישון בלי לחלום</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>לישון בלי לחלום</l>
+          <l>לישון בלי לדעת</l>
+          <l>לשקר בלי לחשוב</l>
+          <l>לאהוב בלי לגעת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הולכים לדבר</l>
+          <l>שיחה בלי לשמוע</l>
+          <l>ללחוש מרחוק</l>
+          <l>ללחוש ולברוח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מטוסים עוברים נמוך</l>
+          <l>מוניות חוזרות בלילה</l>
+          <l>מהצפון אל הדרום</l>
+          <l>ואני תמיד למטה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לישון בלי לחלום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

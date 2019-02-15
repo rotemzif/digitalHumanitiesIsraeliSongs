@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לעולם 12</title>
+        <singer classification="female singer">מרגלית צנעני</singer>
+        <writer>מרגלית צנעני</writer>
+        <composer>מרגלית צנעני</composer>
+        <album>לעולם</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לעולם</head>
+        <lg number="1" type="stanza">
+          <l>שבועת עולם נדרתי בנשיקה</l>
+          <l>שעליך לא לא אוותר.</l>
+          <l>בין השמחות לבין המועקה</l>
+          <l>מיום ליום אוהבת עוד יותר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואם תרצה אני אבוא היום</l>
+          <l>אם תרצה אני אבוא עכשיו.</l>
+          <l>אבוא אליך בלילה בלי כוכב,</l>
+          <l>בגשמים, ברוח או בסתיו.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לעולם, לעולם,</l>
+          <l>לא אעזוב אותך לעולם,</l>
+          <l>ולתמיד אני אהיה שלך,</l>
+          <l>ואת חיי אני אקדיש לך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>גם אם תלך לארץ המדבר,</l>
+          <l>בתוך הלב שלי אתה נעוץ.</l>
+          <l>ואם תקרא אלי בקול נשבר,</l>
+          <l>מקצווי עולם אני ארוץ.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואם תרצה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

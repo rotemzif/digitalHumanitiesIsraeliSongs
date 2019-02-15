@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שירי לי כנרת</title>
+        <singer classification="female singer">מילי מירן</singer>
+        <writer>עודד פלדמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שירי לי כנרת</head>
+        <lg number="1" type="stanza">
+          <l>שם הרי גולן באופק, ניצבים עוד בדממה</l>
+          <l>ונערים בהולם דופק, עוד שומרים על הרמה</l>
+          <l>ובישבם עם ערב סביב למדורה</l>
+          <l>עונים הם לך כנרת בשירה:</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שירי לי כנרת שיר מזמור ישן</l>
+          <l>שירי לי כנרת שיר לי הגולן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הדוגית עודנה שטה, מפרשה מלבין בחוף</l>
+          <l>וחורשת האקליפטוס עוד שומרת על הנוף</l>
+          <l>עת נפרשת רשת עם שוך הסערה</l>
+          <l>עונים הם לך כנרת בשירה:</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שירי לי כנרת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הירדן נוגן סימפוניה עם אלפי הציפרים</l>
+          <l>וביחד בהרמוניה מנגנים ומזמרים</l>
+          <l>וילדים בטבריה בשעת שעור זמרה</l>
+          <l>עונים הם לך כנרת בשירה:</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שירי לי כנרת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

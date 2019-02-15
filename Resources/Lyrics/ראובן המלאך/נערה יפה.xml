@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נערה יפה 2</title>
+        <singer classification="unknown">ראובן המלאך</singer>
+        <writer>ראובן המלאך</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נערה יפה</head>
+        <lg number="1" type="stanza">
+          <l>את עיני נושא למעלה</l>
+          <l>תפילתי מבקש מלמעלה</l>
+          <l>אלוהים אנא עזור לי</l>
+          <l>כמה רע לי ככה טוב לי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>למה למה אדם סובל</l>
+          <l>האם יש עולם אחר</l>
+          <l>אם אראה שם את הנחת</l>
+          <l>לא אחיה יותר בפחד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נערה יפה היכרתי</l>
+          <l>סודותי רק לה סיפרתי</l>
+          <l>אהבה זרמה בינינו</l>
+          <l>רק האל ידע עלינו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>למה למה אדם סובל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

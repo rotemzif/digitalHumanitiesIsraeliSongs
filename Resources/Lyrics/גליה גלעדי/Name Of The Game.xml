@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Name Of The Game</title>
+        <singer classification="unknown">גליה גלעדי</singer>
+        <writer>גליה גלעדי</writer>
+        <composer>גליה גלעדי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Name Of The Game</head>
+        <lg number="1" type="stanza">
+          <l>Softness is the name of the game</l>
+          <l>Like feathers falling in love</l>
+          <l>I can hear myself calling your name</l>
+          <l>Don't want you to fit me like a glove</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>I touch you from a far</l>
+          <l>So delicate so wild</l>
+          <l>The light of night shines from your eyes</l>
+          <l>Your heart should be a place where beauty lies</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Kindness is what I should practice</l>
+          <l>I hope you'll make it all worth while</l>
+          <l>I've never known nothing like this</l>
+          <l>Don't want you to fit me like a glove</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>I touch you from a far</l>
+          <l>So delicate so wild</l>
+          <l>The light of night shines from your eyes</l>
+          <l>Your heart should be a place where beauty lies</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איפה היית</title>
+        <singer classification="band">בית הבובות</singer>
+        <writer>בית הבובות</writer>
+        <composer>בית הבובות</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איפה היית</head>
+        <lg number="1" type="stanza">
+          <l>מי ישבר ראשון </l>
+          <l>זה כבר נמשך כל הלילה</l>
+          <l>החלפנו מילים בדמעות</l>
+          <l>ועוד לא הבנתי מה היה שם</l>
+          <l>נעלמת לארבעה לילות</l>
+          <l>והשארת אותי עם השגעון</l>
+          <l>לא הצלחתי לעמוד</l>
+          <l>ורק סרטים רעים רצים בראש</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איפה היית? תגידי איפה היית</l>
+          <l>אני חיכיתי בחלון</l>
+          <l>שתחזרי ואת אפילו לא ענית</l>
+          <l>וחשבתי זה הסוף..</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איפה היית? תגידי איפה היית</l>
+          <l>אני חיכיתי בחלון</l>
+          <l>שתחזרי ואת אפילו לא ענית</l>
+          <l>וראיתי את הסוף..</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

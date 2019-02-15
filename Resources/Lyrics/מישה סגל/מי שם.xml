@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי שם 7</title>
+        <singer classification="male singer">מישה סגל</singer>
+        <writer>אהוד מנור</writer>
+        <composer>מישה סגל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי שם</head>
+        <lg number="1" type="stanza">
+          <l>קול עובר בחדר האפל</l>
+          <l>בלילה חם </l>
+          <l>בא ונעלם </l>
+          <l>ניגש קרוב קרוב</l>
+          <l>ושר בלחש </l>
+          <l>שותק ונאנח לא מנוחם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מי שם, מי שם </l>
+          <l>מי קורא לי לילה לילה </l>
+          <l>מי שם, מי שם </l>
+          <l>מי קורא בשמי</l>
+          <l>האם זו את אימי אימי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קול נושא המהום תפילה רחוק</l>
+          <l>וריח ים </l>
+          <l>עד שבוקר קם </l>
+          <l>מזכיר לי בית</l>
+          <l>ומאיין באתי</l>
+          <l>בחלק המואר של העולם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מי שם, מי שם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הלב מכה</l>
+          <l>מישהו בוכה</l>
+          <l>בתוך החדר לידי </l>
+          <l>אך אין איש מלבבי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מי שם, מי שם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

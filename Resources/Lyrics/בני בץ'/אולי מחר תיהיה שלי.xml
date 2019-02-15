@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אולי מחר תיהיה שלי</title>
+        <singer classification="unknown">בני בץ </singer>
+        <writer>בני בץ'</writer>
+        <composer>רוסי עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אולי מחר תיהיה שלי</head>
+        <lg number="1" type="stanza">
+          <l>הלכת הלכת כל כך מהר</l>
+          <l>אליי לא תחזרי יותר</l>
+          <l>שלו את עכשיו שלו</l>
+          <l>האם תשארי איתו</l>
+          <l>תשארי איתו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אולי היום את תחזרי</l>
+          <l>ולעולם שוב לא תלכי</l>
+          <l>אולי מחר תהיי שלי רק תחזרי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אוהב אותך אני אוהב</l>
+          <l>ושוב רק בך אני בוחר</l>
+          <l>תתני תני לי רק סימן</l>
+          <l>תאמרי תאמרי לי רק לאן</l>
+          <l>תאמרי לי רק לאן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אולי היום את תחזרי</l>
+          <l>ולעולם שוב לא תלכי</l>
+          <l>אולי מחר תהיי שלי רק תחזרי</l>
+          <l>ואיך נתת לו את ליבך</l>
+          <l>כל כך נשברתי בלכתך</l>
+          <l>שוב מחכה רק לשובך רק תחזרי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אולי היום את תחזרי</l>
+          <l>ולעולם שוב לא תלכי</l>
+          <l>אולי מחר תהיי שלי רק תחזרי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

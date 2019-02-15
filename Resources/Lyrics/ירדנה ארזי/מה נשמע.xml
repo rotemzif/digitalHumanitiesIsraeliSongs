@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה נשמע 3</title>
+        <singer classification="female singer">ירדנה ארזי</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה נשמע</head>
+        <lg number="1" type="stanza">
+          <l>בית אחד, שני אורנים </l>
+          <l>ושלושה חתולים אפורים בחצר </l>
+          <l>שער ברזל, שובך יונים </l>
+          <l>והלילה מתחיל את דרכו במרפסת </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>על הגדר יש בנות ובנים </l>
+          <l>מדברים ושרים עד שאמא כועסת </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מה נשמע, </l>
+          <l>מה נשמע בשדה בבית </l>
+          <l>מה נשמע</l>
+          <l>מה נשמע </l>
+          <l>ברחוב שלי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>גשם ראשון , קשת גדולה </l>
+          <l>מסוכת השומר עד גבעת הפרגים </l>
+          <l>עדר כבשים על המסילה </l>
+          <l>רק שלא תעבור לה פתאום הרכבת </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אבא צוחק ממרומי עגלה </l>
+          <l>עמוסת חמציצים ושקי תערובת </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מה נשמע...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>באתי לכאן, באתי מזמן, </l>
+          <l>בעקבות החליל, לספינה הטובעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

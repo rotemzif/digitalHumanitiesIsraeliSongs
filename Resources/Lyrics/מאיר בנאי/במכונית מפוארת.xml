@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>במכונית מפוארת</title>
+        <singer classification="male singer">מאיר בנאי</singer>
+        <writer>מאיר בנאי</writer>
+        <composer>מאיר בנאי</composer>
+        <album>לב סדוק</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>במכונית מפוארת</head>
+        <lg number="1" type="stanza">
+          <l>במכונית מפוארת, היא סוגרת חלון</l>
+          <l>חם בחוץ, קר בפנים, אור ירוק בשעון</l>
+          <l>הוא מביט בפניה, היא נראית רחוקה</l>
+          <l>בפנייה הבאה הוא ירד היא תיסע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זאת העיר הגדולה, עוד רומן בלי תקווה</l>
+          <l>זה הכל נגמר, זה הכל נגמר עכשיו.</l>
+          <l>אהבה לא טובה, של ריחות סכנה</l>
+          <l>זה הכל נגמר, זה הכל נגמר עכשיו.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>סעי עוד קצת הוא אומר לה</l>
+          <l>רק עוד קצת היא עונה</l>
+          <l>הרחוב מתפורר כמו תמונה ישנה</l>
+          <l>ברמזור מול הבית, הם עוצרים את הזמן</l>
+          <l>ניפגש, הוא אומר</l>
+          <l>ניפגש היא עונה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זאת העיר הגדולה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

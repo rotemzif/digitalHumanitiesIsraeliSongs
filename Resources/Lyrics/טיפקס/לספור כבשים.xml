@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לספור כבשים</title>
+        <singer classification="band">טיפקס</singer>
+        <writer>קובי אוז</writer>
+        <composer>קובי אוז</composer>
+        <album>שביל קליפות הגרעינים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לספור כבשים</head>
+        <lg number="1" type="stanza">
+          <l>אני תמיד בין שני דקלים במקומות המוצלים.</l>
+          <l>ומנגן בתוך אמבט על כפתורים מהשלט</l>
+          <l>אז בואי אלי, בואי עכשיו</l>
+          <l>ננסה ביחד לחסל קצת זמן...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי לי מתחשק מהכל לברוח</l>
+          <l>מנסה עכשיו לשכוח...</l>
+          <l>כי לי מתחשק מהכל לברוח</l>
+          <l>ורק פעם אחת להפסיק לספור כבשים...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני תמיד בתוך בועה, עושה פרצוף מול המראה</l>
+          <l>אני תמיד בתוך חלום, אצלי כל יום? זה יום שלשום,</l>
+          <l>אז בואי אלי, בואי עכשיו</l>
+          <l>ננסה ביחד לחסל קצת זמן...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שוכב על ערסל ומדמיין</l>
+          <l>מנזר בהודו, מנגן חליל</l>
+          <l>יושב ועל פני חיוך מסכן</l>
+          <l>ומתפלל כמו נזיר דביל...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כי לי מתחשק מהכל לברוח</l>
+          <l>מנסה עכשיו לשכוח...</l>
+          <l>כי לי מתחשק מהכל לברוח</l>
+          <l>ורק פעם אחת להפסיק לספור כבשים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

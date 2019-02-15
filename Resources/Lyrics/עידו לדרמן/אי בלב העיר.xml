@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אי בלב העיר</title>
+        <singer classification="male singer">עידו לדרמן</singer>
+        <writer>מאיר גולדברג</writer>
+        <composer>עידו לדרמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אי בלב העיר</head>
+        <lg number="1" type="stanza">
+          <l>עץ בחצר מאתר שמיים </l>
+          <l>סוס על הגג עוד מחפש סולם</l>
+          <l>יש לי יותר מעצמי ועדיין </l>
+          <l>איפה אני ומי כולם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה שלי השקט</l>
+          <l>בתוך הרעש גם</l>
+          <l>לידי הרוח עוברת </l>
+          <l>על עצמי שומר </l>
+          <l>מוגן מהעולם</l>
+          <l>באי בלב העיר נחיה  אחרת </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פרי שהבשיל כבר מתחיל לרדת</l>
+          <l>על הגדר שבלול שיש לו זמן</l>
+          <l>יש לי יותר, מתי את חוזרת</l>
+          <l>אי בלב עיר, ביקשת, אז מצאתי</l>
+          <l>אני כאן, הגעתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה שלי השקט...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>המקום הכי טבעי,</l>
+          <l>אי בלב העיר,</l>
+          <l>לקבל בו את עצמי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה שלי השקט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

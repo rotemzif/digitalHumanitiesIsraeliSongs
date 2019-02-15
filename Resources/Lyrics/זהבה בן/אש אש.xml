@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אש אש 3</title>
+        <singer classification="female singer">זהבה בן</singer>
+        <writer>דני שושן</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אש אש</head>
+        <lg number="1" type="stanza">
+          <l>איך הלכת אהובי בלילות איתה</l>
+          <l>איך עזבת כך אותי בודדה גלמודה</l>
+          <l>ונחל דימעותיי צערים יידע</l>
+          <l>עצובים לילותי חלומי איתך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אש אש אש אש בליבי האש</l>
+          <l>קש קש קש כמו סופה גועש</l>
+          <l>נשמתי בוערת באש </l>
+          <l>אש אש אש אש בליבי האש</l>
+          <l>קש קש קש כמו סופה גועש</l>
+          <l>נשמתי בוערת באש</l>
+          <l>אמונה אין בגבר כל חיי הם רק סבל</l>
+          <l>לא נשאר לי גם קצה חבל אין בי עוד תקווה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך ידך בעבר כך אותי ליטפה</l>
+          <l>רק אליך אהובי נשמתי יצאה</l>
+          <l>לא השארת לי דבר</l>
+          <l>לא נזכרת בי</l>
+          <l>איך נשכח העבר</l>
+          <l>שברת אותי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אש אש אש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

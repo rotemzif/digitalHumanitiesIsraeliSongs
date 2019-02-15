@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>החתיכה החסרה</title>
+        <singer classification="unknown">ועדת קישוט</singer>
+        <writer>פלג חלפין</writer>
+        <composer>פלג חלפין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>החתיכה החסרה</head>
+        <lg number="1" type="stanza">
+          <l>תמיד כשאתה בוכה אני יודעת שעשיתי רע, </l>
+          <l>בגדתי בך, בגדתי בליבך. </l>
+          <l>אפילו חברים צועדים בלי מחשבה... </l>
+          <l>ובכך הפרתי את בקשתך היחידה. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חלק מנפשי אבדתי לתמיד </l>
+          <l>ועם רבים אחרים שרפתי דרכים מצטלבות. </l>
+          <l>חלק מנפשי אבדתי לתמיד </l>
+          <l>ועם רבים אחרים שרפתי דרכים מצטלבות. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שמים בקשו אלי רחמים, שמיים בקשו אלי רחמיים, </l>
+          <l>תגידו לי איך להגליד את הפצעים. </l>
+          <l>לפעמים זה נראה כמו הסוף </l>
+          <l>אבל זאת רק ההתחלה. </l>
+          <l>היום אני עומדת כאן מול עברי </l>
+          <l>ונודרת לשנות את מהותי. </l>
+          <l>אין לי הבטחות, רק שאיפות לעתיד... </l>
+          <l>לתקן את עוולותי רוצה אני תמיד. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חלק מנפשי אבדתי לתמיד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

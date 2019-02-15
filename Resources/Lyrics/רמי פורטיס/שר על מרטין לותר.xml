@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שר על מרטין לותר</title>
+        <singer classification="male singer">רמי פורטיס</singer>
+        <writer>רמי פורטיס</writer>
+        <composer>אייל אבן צור</composer>
+        <album>חצי אוטומטי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שר על מרטין לותר</head>
+        <lg number="1" type="stanza">
+          <l>מעל המדרכות של הארלם</l>
+          <l>יורד השלג ונשרף</l>
+          <l>מאיר, דולק בחושך, נמס בעצב על הסף</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וג'יסס מנגן על סטראטו, שר וממוסמר על צלב</l>
+          <l>שר על מרטין לותר ואיך לאפריקה הוא שב</l>
+          <l>וכל הילדים בגטו שרים איתו עכשיו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אי שם בכנסיות של הארלם</l>
+          <l>הופך הזעם לתפילה</l>
+          <l>לוחש, זועק, זורם הבלוז בלי הפסקה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וג'יסס מנגן על סטראטו, שר וממוסמר על צלב</l>
+          <l>שר על מרטין לותר ואיך לאפריקה הוא שב</l>
+          <l>וכל הילדים בגטו שרים איתו עכשיו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

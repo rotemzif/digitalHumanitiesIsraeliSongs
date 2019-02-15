@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך זה קורה 4</title>
+        <singer classification="female singer">רומי הלחמי</singer>
+        <writer>חמוטל בן זאב</writer>
+        <composer>אבנר מיכאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך זה קורה</head>
+        <lg number="1" type="stanza">
+          <l>איך זה קורה ברגע</l>
+          <l>בבת אחת</l>
+          <l>איך בדרכי שלי</l>
+          <l>שונה בפנים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איך עם השנים </l>
+          <l>משהו בי נגמר </l>
+          <l>קול קורא בי </l>
+          <l>לכיוון אחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הנה אני, אני כבר קמה</l>
+          <l>כמו מפניך</l>
+          <l>חבר בי מחשבות</l>
+          <l>ללא מילים</l>
+          <l>אין תשובות במעשיך</l>
+          <l>אין מי שיעמיד פנים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה הזמן</l>
+          <l>זה הגבול</l>
+          <l>זה קרוב</l>
+          <l>זה בא ממול</l>
+          <l>אני הולכת, הולכת</l>
+          <l>מתרחקת ממך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>איך זה קורה ברגע</l>
+          <l>בבת אחת</l>
+          <l>גשם של כוונות</l>
+          <l>עלי ניתך</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>שם נולד מחר </l>
+          <l>וכאן נפל דבר</l>
+          <l>גם חלום עובר </l>
+          <l>למקום אחר</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>זה הזמן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

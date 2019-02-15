@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האש בדמי</title>
+        <singer classification="unknown">ירון כהן</singer>
+        <writer>אייבי קזס</writer>
+        <composer>אייבי קזס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האש בדמי</head>
+        <lg number="1" type="stanza">
+          <l>אף פעם לא אשכח את אותו היום</l>
+          <l>כשראיתי אותך לבושה אדום</l>
+          <l>איך החיוך שלך את לבבי כבש</l>
+          <l>נשבעתי בחיי שאני מאוהב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כשאת לצידי קרובה לליבי אין גבול לאושרי</l>
+          <l>האש בדמי לפגוש מבטך לשמוע צחוקך</l>
+          <l>לראות את יופייך הרי אני עבדך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היו ימים יפים היום ימים רעים</l>
+          <l>גם כשהיינו רבים נשארנו אוהבים</l>
+          <l>ואם פגעתי בך מבקש שתסלחי</l>
+          <l>אני אוהב אותך, את האש בדמי!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כשאת לצידי קרובה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

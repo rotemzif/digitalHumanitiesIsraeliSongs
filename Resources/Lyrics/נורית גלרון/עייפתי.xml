@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עייפתי 2</title>
+        <singer classification="female singer">נורית גלרון</singer>
+        <writer>נתן זך</writer>
+        <composer>אילן וירצברג</composer>
+        <album>ואז בא לנו</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עייפתי</head>
+        <lg number="1" type="stanza">
+          <l>הכוכב בשמיים רץ לו</l>
+          <l>וירח יקר הולך</l>
+          <l>קר לנו כאן בארץ</l>
+          <l>בלי לשמוע עוד את קולך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הענן הנודד רץ לו</l>
+          <l>ראי, כמה עננים!</l>
+          <l>ואדם שדבר לא אץ לו </l>
+          <l>מנסה שוב כוחו בשירים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כי אני כבר עייפתי</l>
+          <l>הו כמעט עייפתי מאוד</l>
+          <l>גלי לי את שמך הלילה</l>
+          <l>היי לי אשת סוד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הכוכב בשמיים לא רץ לו</l>
+          <l>הוא יגיע אל ממלכת היום</l>
+          <l>ואני לאן אגיע</l>
+          <l>שאין לי, עוד אין לי מקום</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הו גלי לי את שמך הלילה</l>
+          <l>אהובה זרועת כוכבים</l>
+          <l>כי אני כבר כמעט עייפתי</l>
+          <l>ואין לי כוכבים אחרים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי אני כבר עייפתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

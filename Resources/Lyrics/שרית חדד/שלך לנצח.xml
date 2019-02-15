@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלך לנצח</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>שמעון בוסקילה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלך לנצח</head>
+        <lg number="1" type="stanza">
+          <l>כל פעם שאתה נוגע אני נולדת מחדש</l>
+          <l>כמו במכחול אתה צובע את החיבור המקודש</l>
+          <l>אוהו...שלך לנצח</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אתה אוסף אותי אליך אני נופלת בכניעה</l>
+          <l>ושוב רואה בשתי עיניך את הסודות של הבריאה</l>
+          <l>אוהו...שלך לנצח</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בתוך החושך הגדול אתה האור של היקום</l>
+          <l>איתך כבר יש לי את הכל ובלעדיך אין לי כלום</l>
+          <l>אוהו...שלך לנצח</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל כך יפה אהבתנו כמעיין המתגבר</l>
+          <l>בכל יום שעובר עלינו היא חזקה הרבה יותר</l>
+          <l>אוהו...שלך לנצח</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בתוך החושך הגדול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

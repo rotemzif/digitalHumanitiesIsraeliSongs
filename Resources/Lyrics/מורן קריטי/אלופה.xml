@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלופה 2</title>
+        <singer classification="unknown">מורן קריטי</singer>
+        <writer>רמי לב</writer>
+        <composer>דורון אלימלך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלופה</head>
+        <lg number="1" type="stanza">
+          <l>הכל התחיל כשפגשתי בך</l>
+          <l>שרתי אהבה כל הלילה</l>
+          <l>ריח הבושם עטף אותך</l>
+          <l>ונידבק חזק אל חיי</l>
+          <l>את משגעת אני יודע</l>
+          <l>את זה כולם אמרו מזמן</l>
+          <l>שאת צוחקת זה בי נוגע</l>
+          <l>את החלום של כל אדם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלופה אלייך עף</l>
+          <l>מטריפה מזל שיש אותך</l>
+          <l>בשבילי את הכי מכולן</l>
+          <l>מכל הנשים בעולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את החלום שנותן תקווה</l>
+          <l>ללכת בדרך המלך</l>
+          <l>מרגיש איתך מזאת אהבה</l>
+          <l>את עושה לי אש בלב</l>
+          <l>את משגעת אני יודע</l>
+          <l>את זה כולם אמרו מזמן</l>
+          <l>שאת צוחקת זה בי נוגע</l>
+          <l>את החלום של כל אדם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלופה אלייך עף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם נגזר 2</title>
+        <singer classification="female singer">נורית גלרון</singer>
+        <writer>נתן זך</writer>
+        <composer>איה כורם</composer>
+        <album>ואז בא לנו</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם נגזר</head>
+        <lg number="1" type="stanza">
+          <l>אם נגזר על אחד מאתנו</l>
+          <l>לעזוב את השני</l>
+          <l>היי את זו שעוזבת</l>
+          <l>כדי שלא אעזוב אני</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את עוד פוחדת מחושך</l>
+          <l>אני כנראה לא פוחד</l>
+          <l>רק מי שמצפה לאושר</l>
+          <l>חושש להיות בודד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אל תדליקי את האור</l>
+          <l>ואני לא אביט בראי</l>
+          <l>הלילה לא שחור</l>
+          <l>ואת לא שייכת לי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם נגזר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם לא אתאמץ לשכוח</l>
+          <l>ואת לא תתאמצי לזכור</l>
+          <l>נוכל גם הלילה לשמוח</l>
+          <l>זה בזה , עור בעור</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אל תדליקי את האור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

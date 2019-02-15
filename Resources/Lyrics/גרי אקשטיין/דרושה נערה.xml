@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דרושה נערה</title>
+        <singer classification="male singer">גרי אקשטיין</singer>
+        <writer>אמיר ברונשטיין</writer>
+        <composer>דריו מלכי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דרושה נערה</head>
+        <lg number="1" type="stanza">
+          <l>דרושה נערה אחראית לטיפול</l>
+          <l>בילדה בת שנתיים</l>
+          <l>דרושה בחורה לשכן שממול</l>
+          <l>לשטיפת העיניים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>משקיע בלי הון גם ללא ניסיון</l>
+          <l>דרוש פה לעסק מכניס</l>
+          <l>בענף מכנסיים רצוי עם אופניים</l>
+          <l>נחוץ גם שידע קצת להדפיס</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>משרד שידוכים מחפש רווקה</l>
+          <l>לבחור מתפתח</l>
+          <l>חנות מחוכים עם סחורה מלאה</l>
+          <l>בתשלום דמי מפתח</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>דייר מבוגר גיל שישים כבר עבר</l>
+          <l>צריך בחורה לעיסוי</l>
+          <l>לא גדולה לא קטנה, לא רזה לא שמנה</l>
+          <l>ואולי גם כמו צ'ק ללא כיסוי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>משקיע בלי הון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

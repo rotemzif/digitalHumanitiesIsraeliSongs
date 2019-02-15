@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בחרתי בך 3</title>
+        <singer classification="male singer">עופר לוי</singer>
+        <writer>מוטי אוחיון</writer>
+        <composer>מוטי אוחיון</composer>
+        <album>בדרך שבחרתי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בחרתי בך</head>
+        <lg number="1" type="stanza">
+          <l>את השקט אני מוצא בך </l>
+          <l>תמיד איתך אני פורח </l>
+          <l>את לי שמש וגם יום </l>
+          <l>את לי החלום </l>
+          <l>וזה נכון שבך בחרתי </l>
+          <l>ומכולן אותך אהבתי </l>
+          <l>את יפה כמו הלבנה </l>
+          <l>את לי השלווה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בחרתי בך אישה </l>
+          <l>כי את נאמנה </l>
+          <l>יודעת לאהוב אותי וכך מאמינה </l>
+          <l>שתמיד יהיה רק טוב </l>
+          <l>רוצה איתך לגדול </l>
+          <l>יש בי את הכוח לתת לך את הכל בגדול </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך תמיד ליבי קורא לך </l>
+          <l>את יפה זה משמח </l>
+          <l>את הכל תמיד אתן לך להיות שלך </l>
+          <l>מודה אני לו שאותך מצאתי </l>
+          <l>את האישה אשר חלמתי </l>
+          <l>אני בטוח שזכיתי שבחרתי בך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בחרתי בך אישה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

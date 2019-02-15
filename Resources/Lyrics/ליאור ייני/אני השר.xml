@@ -1,0 +1,39 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני השר 2</title>
+        <singer classification="male singer">ליאור ייני</singer>
+        <writer>שלמה אבן גבירול</writer>
+        <composer>ציונה לירון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני השר</head>
+        <lg number="1" type="stanza">
+          <l>אני השר - והשיר לי לעבד</l>
+          <l>אני כינור לכל שרים ונוגנים,</l>
+          <l>ושירי כעטרה למלכים</l>
+          <l>ומיגבעות בראשי הסגנים.</l>
+          <l>והנני בשש עשרה שנותי</l>
+          <l>וליבי בן כלב בן השמונים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

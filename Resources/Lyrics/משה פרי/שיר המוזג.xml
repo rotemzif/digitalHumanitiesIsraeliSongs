@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר המוזג</title>
+        <singer classification="unknown">משה פרי</singer>
+        <writer>יעקב אורלנד</writer>
+        <composer>מיקי גבריאלוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר המוזג</head>
+        <lg number="1" type="stanza">
+          <l>זמר אדם הבקבוקים מלאים</l>
+          <l>זמר ושתה על חשבוני הנזק</l>
+          <l>את המוזג ברא האלוהים</l>
+          <l>כדי כדי שלא יחסר המזג</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אור הנר אור הנר ומרזח</l>
+          <l>כי נזמר שיר שמח</l>
+          <l>ונרים כוסית י"ש</l>
+          <l>לחיי כל ברנש</l>
+          <l>ונשיר אללי אללילה</l>
+          <l>למתים העבר ולשד המחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהב אדם אהב ללא בושה</l>
+          <l>חבק אותה רווה דודיה</l>
+          <l>כי אלוהים ברא את האישה</l>
+          <l>כדי שלא תוכל שוב בלעדייה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אור הנר אור...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בכה אדם בכה כי רע מאוד</l>
+          <l>בכה ואל תסתיר את יגוננו</l>
+          <l>כי אלוהים ברא את הדמעות</l>
+          <l>כדי שיפסיקו את עלבוננו</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אור הנר אור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

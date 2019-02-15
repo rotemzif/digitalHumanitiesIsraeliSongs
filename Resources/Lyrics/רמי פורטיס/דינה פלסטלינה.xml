@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דינה פלסטלינה</title>
+        <singer classification="male singer">רמי פורטיס</singer>
+        <writer>רמי פורטיס</writer>
+        <composer>אייל אבן צור</composer>
+        <album>חצי אוטומטי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דינה פלסטלינה</head>
+        <lg number="1" type="stanza">
+          <l>דינה פלסטלינה בת עשרים ושתיים</l>
+          <l>וגרה בתוך כלוב בטבע.</l>
+          <l>ראש כחול, תלתל מסתיר עיניים</l>
+          <l>אומרת שתמיד היא מתה</l>
+          <l>בזמן שהפרחים נובלים, בזמן ש...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אוהבת שאסור והתמימות זה רצח</l>
+          <l>ובשבילה עצוב זה טוב.</l>
+          <l>חיה כמו שעון שמצלצל לנצח</l>
+          <l>בתוך מסלול שאין לו סוף</l>
+          <l>בגלל שהחיים נושכים, בגלל ש...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אולי מעודף ביטחון היא עפה דרך החלון</l>
+          <l>פחד כבר הלך לישון</l>
+          <l>בורחת רק בשביל לזכור</l>
+          <l>אולי היא שוב תחזור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>דינה פלסטלינה בת עשרים ושתיים ילדה שהזדקנה פתאום</l>
+          <l>אוכלת את עצמה נועצת ציפורניים</l>
+          <l>רק שלא תפסיק לחלום</l>
+          <l>בגלל שהימים חולפים, בגלל ש...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אולי מעודף ביטחון היא עפה דרך החלון</l>
+          <l>פחד כבר הלך לישון</l>
+          <l>בורחת רק בשביל לזכור</l>
+          <l>אולי היא שוב תחזור</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

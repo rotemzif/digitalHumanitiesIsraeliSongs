@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלום לחייך</title>
+        <singer classification="unknown">יניב כהן</singer>
+        <writer>שלומית צברי</writer>
+        <composer>סגיב כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלום לחייך</head>
+        <lg number="1" type="stanza">
+          <l>חרטתי את שמך על השמיים,</l>
+          <l>מסרתי את גדולתך לעננים,</l>
+          <l>וכל דמעותי זולגות כמים,</l>
+          <l>נוחי ילדתי קרוב לאלוקים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רדפת את הצדק והתפארת,</l>
+          <l>וכמעט שריפאת את כל הפצעים,</l>
+          <l>בכל כוחותי אמשיך את הדרך,</l>
+          <l>נוחי נשמתי, בין כל הפרחים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא אוכל לתקן את העולם,</l>
+          <l>ורק בחלומות אראה פנייך,</l>
+          <l>הבית קודר וקול צללייך נדם,</l>
+          <l>ולא אמרתי שלום לך, לחייך....</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חתמת צוואה עוד בימייך,</l>
+          <l>ולנו היית לטעם החיים,</l>
+          <l>אהבה שתתן אור לכל מכאובייך,</l>
+          <l>נוחי עלמתי, עם כל המלאכים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא אוכל לתקן את העולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

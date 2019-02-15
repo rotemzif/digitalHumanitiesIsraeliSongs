@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sun Bird</title>
+        <singer classification="male singer">גבע אלון</singer>
+        <writer>גבע אלון</writer>
+        <composer>גבע אלון</composer>
+        <album>The Wall Of Sound</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Sun Bird</head>
+        <lg number="1" type="stanza">
+          <l>Come down Sun Bird don't hide </l>
+          <l>Behind dark feathers lay Your crystal eyes </l>
+          <l>And I want to see you smile </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Come down Sun Bird don't fly </l>
+          <l>Yes I'm as scared as you are But I can't lie </l>
+          <l>I want you to say your mine </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>I know a girl Her name is Bird </l>
+          <l>And I am hers It's been so long </l>
+          <l>But still I can't show her love </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>Won't you come stay with me </l>
+          <l>'Cause I need someone in My memories </l>
+          <l>'Cause mine are all just of me </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>I know a girl Her name is Bird </l>
+          <l>And I am hers It's been so long </l>
+          <l>But still I can't show her love</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

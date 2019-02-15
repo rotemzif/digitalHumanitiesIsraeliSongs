@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי עוד זוכר אותם</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>אבי קורן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי עוד זוכר אותם</head>
+        <lg number="1" type="stanza">
+          <l>אך גם הסוסים לא דוהרים</l>
+          <l>כבר כמו שאז הם דהרו</l>
+          <l>מי עוד זוכר אותם</l>
+          <l>אז כשהגברים היו גברים</l>
+          <l>אלף שנה מאז עברו מי עוד אוהב אותם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אך איזה  מילים יפות כל כך כמו ניל"י או פלמ"ח</l>
+          <l>אין כמותם</l>
+          <l>אך עם השינל והאקדח</l>
+          <l>ושיר יפה נשכח בפיה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>השירים שהיות שירים</l>
+          <l>לא מזכירים</l>
+          <l>לא שרים אותם דברים</l>
+          <l>לא זוכרים לא שרים</l>
+          <l>כמו דף מספר מקומט</l>
+          <l>שוב הם צפים</l>
+          <l> אותם שמות של גיבורי חידה</l>
+          <l>אך אלה גברים אחד אחד</l>
+          <l>ואין אחד שאת חרדתם ידע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אך איזה  מילים יפות כל כך כמו ניל"י או פלמ"ח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני עף 9</title>
+        <singer classification="male singer">יואב יצחק</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני עף</head>
+        <lg number="1" type="stanza">
+          <l>כמו פרפר היא מרחפת, מטריפה אותי</l>
+          <l>בגללה אני ממש יוצא מדעתי</l>
+          <l>היא רוקדת לפני, בצעדים קלים</l>
+          <l>ובשקט מעירה את השדים שלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היא אותי מדליקה </l>
+          <l>בקלות צעדיה</l>
+          <l>ואני עף איתה</l>
+          <l>אני עף עד אליה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בליבי לתעתע, מצליחה תמיד</l>
+          <l>ואת נשמתי רק היא יודעת להרקיד</l>
+          <l>נשיקות אלי שולחת, חיוך על הפנים</l>
+          <l>מעיפה אותי גבוה עד לעננים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היא אותי מדליקה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

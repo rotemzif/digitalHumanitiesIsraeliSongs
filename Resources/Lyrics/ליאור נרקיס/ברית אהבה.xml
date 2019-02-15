@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ברית אהבה</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>ליאור נרקיס</composer>
+        <album>ערב טוב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ברית אהבה</head>
+        <lg number="1" type="stanza">
+          <l>הולך ומביט באושר שלי </l>
+          <l>מלאך של תמימות טהורה לפני</l>
+          <l>עולם ומלואו נגלה למולי </l>
+          <l>זו את שתהיי לי הבית החם לחיי </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואני רואה את השקט בעינייך </l>
+          <l>ומבקש לנצח את ידך </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בואי חבקי אותי </l>
+          <l>עד שארגיש חזק את פעימות ליבך </l>
+          <l>את מתק מנגינת נשימתך </l>
+          <l>אני נולדתי לחיות לצידך </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את ואני זו ברית אהבה </l>
+          <l>חלקת אלוקים לשבועה חתומה </l>
+          <l>הלילה הזה נהיה לאחד </l>
+          <l>כמו שני לבבות פועמים באותה הנשמה </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואני רואה את עצמי בתוך עינייך </l>
+          <l>צוחק, בוכה, מאושר וקורא לך </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בואי חבקי אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

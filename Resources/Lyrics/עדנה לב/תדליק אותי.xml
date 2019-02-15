@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תדליק אותי</title>
+        <singer classification="female singer">עדנה לב</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>יאיר קלינגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תדליק אותי</head>
+        <lg number="1" type="stanza">
+          <l>קח אותי מונחת לשכמך, </l>
+          <l>העיר יפה בסוף הלילה כשוברים. </l>
+          <l>מחפשת "מוזיקה שרה לזמר לך </l>
+          <l>כשאומרים שחופים יפים". </l>
+          <l>באש הר-הראשונה </l>
+          <l>לא, אני לא ישנה. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תדליק אותי, </l>
+          <l>הלהט שבליבי הולך וגואה </l>
+          <l>ורק אתה יודע איך להדליק אותי. </l>
+          <l>תדליק אותי, </l>
+          <l>כמו באגדות הכי יפות, </l>
+          <l>עם כל הנסיכות העייפות. בוא תעיר אותי! </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קח אותי לארץ כל הפנאי, </l>
+          <l>סחוב אותי כמו בעריסה. </l>
+          <l>הם שומעים מה ש"לא הרגשתי אחרי" </l>
+          <l>כשהולכים בארזים. </l>
+          <l>זו טעות ש"לא בגב". </l>
+          <l>מי "נהיה לחגיגה"? </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תדליק אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

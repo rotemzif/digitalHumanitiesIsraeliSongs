@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ציפור פצועה</title>
+        <singer classification="unknown">רוני תורג מן</singer>
+        <writer>יעקב גלעד</writer>
+        <composer>רוני תורג'מן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ציפור פצועה</head>
+        <lg number="1" type="stanza">
+          <l>ברחוב צדדי שכוח עלים נופלים ברוח </l>
+          <l>אל מול חלון פתוח יושבת מחכה </l>
+          <l>שנים עברו עליה, העצב בעיניה </l>
+          <l>הוא לא חזר אליה והיא עוד מחכה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יושבת וחושבת, אף פעם לא עוזבת: </l>
+          <l>"אולי הוא בסוף יבוא?" </l>
+          <l>הולכת אל הדלת, חוזרת ושואלת: </l>
+          <l>"מתי הוא יבוא לפה?" </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אמרו לה כבר לא פעם: "חבל ואין כל טעם" </l>
+          <l>הוא לא יחזור אף פעם והיא עוד מחכה </l>
+          <l>טייס פרש כנפיים, ציפור שבשמים </l>
+          <l>הזמן עובר בינתיים והיא עוד מחכה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יושבת וחושבת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

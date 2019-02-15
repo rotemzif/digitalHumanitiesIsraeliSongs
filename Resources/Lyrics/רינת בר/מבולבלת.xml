@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מבולבלת</title>
+        <singer classification="female singer">רינת בר</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מבולבלת</head>
+        <lg number="1" type="stanza">
+          <l>אתה שולח לי מבטים וגם עושה לי עיניים</l>
+          <l>ומתנהג כמו צדיק תמים כדי לשלוח ידיים</l>
+          <l>אתה מבטיח שלעולם נחיה כמו זוג משמיים</l>
+          <l>אבל לחיות עם שחקן מושלם זה טיפשי בינתיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תמיד אמרתי עוד יום יומיים</l>
+          <l>אבל נשארתי כבר שנתיים</l>
+          <l>כי לצידך אני מבולבלת</l>
+          <l>איך זה קורה לי לא שואלת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כולם אומרים שזה עצוב אך יום אחד יגיע</l>
+          <l>שאחכה לך בסיבוב אבל אתה לא תופיע</l>
+          <l>אני יודעת שאין סיכוי ועל עצמי משקרת</l>
+          <l>אך מה עושים כשלב שבוי באהבה עיוורת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תמיד אמרתי עוד יום יומיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

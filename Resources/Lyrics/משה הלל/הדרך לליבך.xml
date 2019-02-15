@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הדרך לליבך</title>
+        <singer classification="male singer">משה הלל</singer>
+        <writer>משה הלל</writer>
+        <composer>משה הלל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הדרך לליבך</head>
+        <lg number="1" type="stanza">
+          <l>אלף דרכים, כבר פרצתי</l>
+          <l>רק אל ליבך, הטוב עדיין לא הגעתי,</l>
+          <l>אלף שיטות, כבר ניסיתי</l>
+          <l>רק את ליבך, לכבוש עדיין לא הצלחתי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אתמול לעת ערב</l>
+          <l>שוב דמותך הנאווה למולי</l>
+          <l>קולך הפרוע,</l>
+          <l>שוב עולה לו, מחלחל לו, לתוכי,</l>
+          <l>לה...לה...לה...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לאלף גבהים כבר טיפסתי,</l>
+          <l>רק מול ליבך, החם פשוט, כולי נמסתי,</l>
+          <l>באלף נשים, כבר נגעתי,</l>
+          <l>רק את גופף, בנשיקות עוד לא עטפתי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אתמול לעת ערב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

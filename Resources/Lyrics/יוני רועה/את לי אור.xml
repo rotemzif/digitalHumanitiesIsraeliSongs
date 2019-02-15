@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את לי אור</title>
+        <singer classification="male singer">יוני רועה</singer>
+        <writer>יוני רועה</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את לי אור</head>
+        <lg number="1" type="stanza">
+          <l>מן ההרים עולה השחר</l>
+          <l>יום חדש מאיר ובא</l>
+          <l>לזו אשר בחלוני</l>
+          <l>אשכים בזמר אהבה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יום של חג בשמי התכלת</l>
+          <l>ואיתו אור התפילה</l>
+          <l>לאיש עמל ואם דואגת</l>
+          <l>נשכים בזמר אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הו עד מה יפה את</l>
+          <l>כשושנה בין החוחים</l>
+          <l>בגני הינך פורחת</l>
+          <l>לך הנצו רימונים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את לי אור</l>
+          <l>את לי אור</l>
+          <l>שמש ותכול</l>
+          <l>שמש שמש</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ימים יפים נדע נבטיח</l>
+          <l>לילדינו החולמים</l>
+          <l>בשביל זהב יחדיו נשמיע</l>
+          <l>"הנה מה טוב ומה נעים"</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הו עד מה יפה את...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

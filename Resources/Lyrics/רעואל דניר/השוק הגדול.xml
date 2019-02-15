@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השוק הגדול</title>
+        <singer classification="unknown">רעואל דניר</singer>
+        <writer>רעואל דניר</writer>
+        <composer>רעואל דניר</composer>
+        <album>רעואל דניר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השוק הגדול</head>
+        <lg number="1" type="stanza">
+          <l>ממשיכים עוטפים מחשבות במילים</l>
+          <l>מזיעים שקרים קטנים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מוותרים מחליפים חלומות בצרכים</l>
+          <l>מרצים ומתרצים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רעבים לחלום לא נישאר בנו תום</l>
+          <l>דוהרים כל הזמן לאחור</l>
+          <l>המילים ננשפות מרעילות נשמות, כמה זבל אפשר לאכול</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בשוק הגדול יש הכל מהכל</l>
+          <l>בשוק הגדול רק לזלול ולזלול</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נכנעים כמו סוסים צייתנים לאדון</l>
+          <l>העיקר רק לא לבחור</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מקווים שבסוף זה לבד יסתדר</l>
+          <l>שהפצע יעבור</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>רעבים לחלום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

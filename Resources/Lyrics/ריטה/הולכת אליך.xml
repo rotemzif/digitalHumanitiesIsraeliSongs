@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הולכת אליך 2</title>
+        <singer classification="female singer">ריטה</singer>
+        <writer>מאיר אריאל</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הולכת אליך</head>
+        <lg number="1" type="stanza">
+          <l>ושוב הולכת אני</l>
+          <l>אחר הניחוח</l>
+          <l>מן התעוררות רגשית</l>
+          <l>מכה בי בכוח</l>
+          <l>שוב נפשי בי מתמלאת</l>
+          <l>ערגה ותוחלת</l>
+          <l>ושוב אותה תחושה מופלאת</l>
+          <l>גואה וגואלת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מתבשמת משתוממת</l>
+          <l>איך מתשוקה רדומה</l>
+          <l>כמו אור על תעלומה</l>
+          <l>הולכת אליך</l>
+          <l>נפשי הזהרי השמרי</l>
+          <l>אליך אליך</l>
+          <l>נמשכת אני</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ושוב הולכת אני</l>
+          <l>אל מתק הריח</l>
+          <l>היתה נפשי בי רדומה</l>
+          <l>סגורה אין פותח</l>
+          <l>מתוקה המחשבה</l>
+          <l>בדרך אליך</l>
+          <l>וכל אוצרות האהבה</l>
+          <l>בך ועליך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מתבשמת משתוממת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

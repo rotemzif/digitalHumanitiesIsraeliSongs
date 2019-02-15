@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני עוזב 5</title>
+        <singer classification="male singer">ליאור פרחי</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני עוזב</head>
+        <lg number="1" type="stanza">
+          <l>ברכבת של חצות, כבר סוגרים את הדלתות, אני הולך מכאן</l>
+          <l>הלילה, למקום אחר, רחוק ממך</l>
+          <l>שני כתמים של יין זול, נשארו עוד אתמול, כמו המילים שלך</l>
+          <l>לשכוח מנסה ולא יודע איך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פזמון</l>
+          <l>אני עוזב אבל אוהב עדיין את השקר המתוק</l>
+          <l>מהאמת אני בורח</l>
+          <l>אני עוזב אבל רוצה אלייך אל השקר המתוק</l>
+          <l>מהאמת אני בורח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זיכרונות על מסילה, דוהרים באפלה, כבר לא רואים כמעט</l>
+          <l>שמיים והזמן איתך, חוזר אליי</l>
+          <l>המילים המתוקות, השקרים והשתיקות הכול היה עטוף</l>
+          <l>בצבע, תעתוע לעיניי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פזמון</l>
+          <l>אני עוזב אבל אוהב עדיין את השקר המתוק</l>
+          <l>מהאמת אני בורח</l>
+          <l>אני עוזב אבל רוצה אלייך אל השקר המתוק</l>
+          <l>מהאמת אני בורח</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Be Bossa</title>
+        <singer classification="unknown">מיכל לוטן</singer>
+        <writer>מיכל לוטן</writer>
+        <composer>מיכל לוטן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Be Bossa</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>You </l>
+          <l>Have to be light </l>
+          <l>To win </l>
+          <l>Be bossa </l>
+          <l>Be soothing </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>To win </l>
+          <l>Be the sun </l>
+          <l>Be the wind be the wind </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>But don’t </l>
+          <l>Let them see </l>
+          <l>Your sweating </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>I’m opposite </l>
+          <l>I’m juicy </l>
+          <l>I’m citrus </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>Be bossa </l>
+          <l>Ba soothing </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>To win...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

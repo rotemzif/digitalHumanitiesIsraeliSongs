@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה לא נורא 2</title>
+        <singer classification="band">שלישיית התאומים</singer>
+        <writer>דוד אבידן</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה לא נורא</head>
+        <lg number="1" type="stanza">
+          <l>אם לילה אחד יספרו לך</l>
+          <l>שאין אהבה בעולם</l>
+          <l>אם בוקר אחד יבשרו לך</l>
+          <l>כולם בגדו כולם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אמרי שזה לא יכול להיות</l>
+          <l>אמרי שאת ממשיכה לחיות</l>
+          <l>אמרי שזה לא נורא</l>
+          <l>זה לא נורא זה לא זה לא נורא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם בוקר אחד יספרו לך</l>
+          <l>שכל העולם כבר נשמד</l>
+          <l>אם בוקר אחד יבשרו לך</l>
+          <l>מחר תמותי גם את</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אמרי שזה לא יכול להיות...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם בוקר אחד יתברר לך</l>
+          <l>שנשארת לבדך מכולם</l>
+          <l>תדעי שנלך אחריך</l>
+          <l>אפילו עד סוף העולם</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אמרי שזה לא יכול להיות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

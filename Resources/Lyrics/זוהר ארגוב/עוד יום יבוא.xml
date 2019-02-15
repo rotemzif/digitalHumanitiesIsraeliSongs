@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד יום יבוא 2</title>
+        <singer classification="male singer">זוהר ארגוב</singer>
+        <writer>דדי חובשי</writer>
+        <composer>קיימים 2 ביצועים נוספים לשיר זה</composer>
+        <album>אלינור</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד יום יבוא</head>
+        <lg number="1" type="stanza">
+          <l>Ego Pona Omekaimo Yatinkardia Mu</l>
+          <l>Ego Yasena Tragudo Para Kalao</l>
+          <l>Olizo Igiasena</l>
+          <l>Yirna Xana Semena</l>
+          <l>Ego Kane Nanvemboro</l>
+          <l>Ori Sasena Nevezu</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>והזמר יזמר שירי עצבת</l>
+          <l>שירי ארצו הקטנה הנאהבת</l>
+          <l>Ego Yasena Tragudo</l>
+          <l>Ino Travadia Kemezo</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד יום יבוא ונשתה יחדיו לחיים</l>
+          <l>בעיר ציון היפה ירושלים</l>
+          <l>Olizo Igiasena</l>
+          <l>Yirna Xana Semena</l>
+          <l>Ego Kane Nanvemboro</l>
+          <l>Ori Sasena Nevezo</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היה זה בערב, בערב סגריר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

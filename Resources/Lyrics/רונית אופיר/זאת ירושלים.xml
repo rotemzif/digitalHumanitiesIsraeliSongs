@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זאת ירושלים 2</title>
+        <singer classification="female singer">רונית אופיר</singer>
+        <writer>איתן פרץ</writer>
+        <composer>נחצ'ה היימן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זאת ירושלים</head>
+        <lg number="1" type="stanza">
+          <l>גגות של בניינים ואבן מסותתת</l>
+          <l>וברחובות המיית שלווה כמוסה.</l>
+          <l>ומשבים רעננים, צמרת מרטטת,</l>
+          <l>וצחוק בחצרות בינות חבלי כביסה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זאת ירושלים של אבני החושן</l>
+          <l>זאת ירושלים הבנויה לתלפיות.</l>
+          <l>זאת ירושלים של אבני החושן</l>
+          <l>זאת ירושלים הבנויה לתלפיות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מאה לה שערים, סביבה עצי הזית,</l>
+          <l>בסמטאות זרקה כבר השיבה.</l>
+          <l>ומתנגנים המזמורים מעבר הר הבית.</l>
+          <l>בדרך היורדת אל המצלבה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זאת ירושלים של אבני החושן...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וקול המואזין עולה מן הצריח,</l>
+          <l>מכנסיות עונים פעמונים.</l>
+          <l>ונער קט עם התפילין את תפילתו שוטח,</l>
+          <l>ומתמזגים מעל העיר הניגונים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זאת ירושלים של אבני החושן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

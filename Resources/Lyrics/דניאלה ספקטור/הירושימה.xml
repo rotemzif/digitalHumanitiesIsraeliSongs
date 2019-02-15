@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הירושימה</title>
+        <singer classification="unknown">דניאלה ספקטור</singer>
+        <writer>דניאלה ספקטור</writer>
+        <composer>דניאלה ספקטור</composer>
+        <album>דניאלה ספקטור</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הירושימה</head>
+        <lg number="1" type="stanza">
+          <l>אור לבן על הירושימה </l>
+          <l>ועל העולם </l>
+          <l>הראית איך הפציע </l>
+          <l>לובן פרח עץ הדובדבן </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את עצמנו מעצמנו </l>
+          <l>נצילנו בידינו </l>
+          <l>אור לבן על הירושימה </l>
+          <l>וגם על כולם </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>והרוח מתפרעת </l>
+          <l>בנפשנו הלבנה </l>
+          <l>על המים היא נוסעת </l>
+          <l>אי אפשר לנסוע חזרה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את עצמנו מעצמנו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

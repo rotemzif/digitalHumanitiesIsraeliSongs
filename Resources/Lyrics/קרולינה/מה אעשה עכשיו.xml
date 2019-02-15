@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה אעשה עכשיו</title>
+        <singer classification="unknown">קרולינה</singer>
+        <writer>קרולינה</writer>
+        <composer>קרולינה</composer>
+        <album>מה אעשה עכשיו</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה אעשה עכשיו</head>
+        <lg number="1" type="stanza">
+          <l>מה אעשה עכשיו</l>
+          <l>כשכל המנגינות עזבו לי את הכוכב</l>
+          <l>והן לא באו אלי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איך אהיה לבד</l>
+          <l>כשכלו הצלילים ואין לי כלי מיתר </l>
+          <l>נדמה שקצו חיי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה ארצה יחד</l>
+          <l>כל דקה פחד</l>
+          <l>אם יש יחד</l>
+          <l>למה? ככה?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל יום שעובר </l>
+          <l>אחכה לך יותר</l>
+          <l>אהבה אחת, תגלה, תגלה </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כל יום שעובר </l>
+          <l>אחכה לך יותר</l>
+          <l>אהבה אחת, תגלה, תגלה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אההה...</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>כל יום שעובר</l>
+          <l>אחכה לך יותר</l>
+          <l>אהבה אחת, תגלה, תגלה</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>כל יום שעובר</l>
+          <l>אחכה לך יותר</l>
+          <l>אהבה אחת, תגלה, תגלה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

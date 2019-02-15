@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין לי עוד מקום 3</title>
+        <singer classification="female singer">מאיה אברהם</singer>
+        <writer>יהודה מסס</writer>
+        <composer>רן אביב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין לי עוד מקום</head>
+        <lg number="1" type="stanza">
+          <l>אתה שותק אני שומעת</l>
+          <l>מילים שאמרנו מזמן</l>
+          <l>אתה בוהה אני נוגעת</l>
+          <l>בכל מקום שרק ניתן</l>
+          <l>בפנים צפוף בחוץ האופק</l>
+          <l>השקט בנינו עכור</l>
+          <l>לפי הלב לפי הדופק</l>
+          <l>כבר לא ברור אם יש חיבור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין לי עוד מקום לקחת</l>
+          <l>אזלו לי הכוחות לכאוב</l>
+          <l>אין איתך חלום כמו פעם</l>
+          <l>ולא רוצה יותר לחשוב</l>
+          <l>אין לי עוד מקום</l>
+          <l>אין לי עוד מקום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה דומם אני דומעת</l>
+          <l>תן לי סימן של רכות</l>
+          <l>אתה נשמע אני נפגעת</l>
+          <l>ביחד עם המון בדידות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין לי עוד מקום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

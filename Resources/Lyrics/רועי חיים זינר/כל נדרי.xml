@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל נדרי 2</title>
+        <singer classification="unknown">רועי חיים זינר</singer>
+        <writer>לאה לופנפלד</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל נדרי</head>
+        <lg number="1" type="stanza">
+          <l>כל נדרי, כל מילותי</l>
+          <l>נשאתי אותם בכל משעולי</l>
+          <l>נשאתי אותם צרורים הם איתי</l>
+          <l>לך הוא הצרור אהבתי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל אשר אמרתי וכל אשר אומר</l>
+          <l>האהבה היא נדר, נדר שהופר</l>
+          <l>כל אשר אמרתי וכל אשר אומר</l>
+          <l>האהבה היא נדר, נדר שהופר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל נדרי כל תפילותי</l>
+          <l>כאבתי אותך בכל שבועותי</l>
+          <l>יצרתי מילים כתובות בתוכי</l>
+          <l>שבועת אמונים אהבתי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל אשר אמרתי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כל נדרי, כל ייסורי</l>
+          <l>נשאתי אני את כל נעורי</l>
+          <l>זו את שהפרת את כל שבועותי</l>
+          <l>נשארתי אני וכל נדרי.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כל אשר אמרתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

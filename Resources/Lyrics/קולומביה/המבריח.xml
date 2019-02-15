@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המבריח</title>
+        <singer classification="band">קולומביה</singer>
+        <writer>רני משען</writer>
+        <composer>איתי דיילס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המבריח</head>
+        <lg number="1" type="stanza">
+          <l>זה אני או אתה שמחפש סיבה</l>
+          <l>זה הכל בשביל מה שלא נדע</l>
+          <l>זה שינוי בתפיסה והוא בוער בך</l>
+          <l>זה אצלי זה שלי</l>
+          <l>זה בגישה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זה מונית לבנה והיא תיקח אותך</l>
+          <l>היא תחזיר היא תעיר מה שבך</l>
+          <l>זה מהיר זה מתחיל</l>
+          <l>ואותך זה יעיר</l>
+          <l>זה אני או אתה</l>
+          <l>זה אני או אתה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם כל מה שבא לי לראות</l>
+          <l>איך בא לי מעליי</l>
+          <l>אם כל מה שבא לי לראות</l>
+          <l>איך בא לי מעליי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זה אני או אתה שמחפש סיבה</l>
+          <l>זה הכל בשביל מה שלא נדע</l>
+          <l>אל תדאג אל תפחד</l>
+          <l>כי אחר כך נצחק</l>
+          <l>זה אני או אתה</l>
+          <l>שמחפש סיבה מחפש סיבה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם כל מה שבא לי לראות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האחת 12</title>
+        <singer classification="unknown">רני שחר</singer>
+        <writer>רני שחר</writer>
+        <composer>רני שחר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האחת</head>
+        <lg number="1" type="stanza">
+          <l>כמו צל הספק מלווה את הלב </l>
+          <l>אני יודע לאהוב </l>
+          <l>אבל לא יודע להיות שלם </l>
+          <l>איך אדע שאת האחת </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הידיים הקטנות שלך, הפחדים הגדולים </l>
+          <l>איך יכול להיות שאת </l>
+          <l>אהבה שגדולה מהחיים </l>
+          <l>איך אדע שאת האחת </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ובלילה אני חוזר למיטה </l>
+          <l>את ישנה ואני נצמד אלייך </l>
+          <l>כל הרעש נמוג בנשימות שלך </l>
+          <l>אני מתמלא אהבה </l>
+          <l>וכשאני נרדם </l>
+          <l>את האחת </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אי אפשר כל החיים להצטער - </l>
+          <l>אם אני נותן לך הכל </l>
+          <l>תמיד חשבתי שיש בי יותר </l>
+          <l>איך אדע שאת האחת </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ובלילה אני חוזר למיטה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

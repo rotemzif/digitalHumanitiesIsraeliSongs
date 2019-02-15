@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מפלט אחרון</title>
+        <singer classification="male singer">דני סנדרסון</singer>
+        <writer>דני סנדרסון</writer>
+        <composer>דני סנדרסון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מפלט אחרון</head>
+        <lg number="1" type="stanza">
+          <l>עוד מעט הם במדרגות</l>
+          <l>אין דקה להתנצחויות</l>
+          <l>צריך לעוף כמו שבאנו</l>
+          <l>מהדלת האחורית</l>
+          <l>נשתחל לסמטה צדדית</l>
+          <l>גל הערפל יבלע אותנו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז תני את ידך</l>
+          <l>מכאן אין חזרה</l>
+          <l>הלילה נמלט אל תוך החשכה</l>
+          <l>תני את ידך</l>
+          <l>מכאן אין חזרה</l>
+          <l>הלילה נמלט לפני צאת הזריחה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תרימי ת'טלפון</l>
+          <l>קחי ת'כסף את הדרכון</l>
+          <l>תרמיל אחד יספיק לשנינו</l>
+          <l>אם לרגע קצת נשתהה</l>
+          <l>הרכבת לא תחכה</l>
+          <l>נאבד את כל מה שבינינו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז תני את ידך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הם החליטו לא לוותר</l>
+          <l>אז אנחנו לא נאחר</l>
+          <l>למפלט האחרון שלנו</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אז תני את ידך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

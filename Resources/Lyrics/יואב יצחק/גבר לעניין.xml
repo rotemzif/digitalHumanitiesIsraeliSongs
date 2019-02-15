@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גבר לעניין</title>
+        <singer classification="male singer">יואב יצחק</singer>
+        <writer>יואב יצחק</writer>
+        <composer>יואב יצחק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גבר לעניין</head>
+        <lg number="1" type="stanza">
+          <l>שלבי ידיך הי ילדונת</l>
+          <l>שלבי ידיך בחוזקה</l>
+          <l>תיפסי חזק פן יחמוק הוא בין ידיך</l>
+          <l>לא בקלות תמצאי הי ילדונת לך גבר</l>
+          <l>כי היום זה קשה כל אחת מחפשת.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גבר לעניין</l>
+          <l>גבר עם יומרות</l>
+          <l>גבר שלא סתם יאמר לך</l>
+          <l>אני אוהב אותך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גם אם כועסת את ילדונת</l>
+          <l>הביטי בו בשתי עינייך</l>
+          <l>חייכי אליו גם לשווא שום דימעה לא תעזור</l>
+          <l>לא בקלות תמצאי הי ילדונת גבר</l>
+          <l>כי היום זה קשה כל אחת לה חולמת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גבר לעניין...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

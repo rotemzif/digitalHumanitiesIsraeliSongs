@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תפסיק לחשוב 2</title>
+        <singer classification="unknown">שירן מועלם</singer>
+        <writer>אלון שר</writer>
+        <composer>אלון שר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תפסיק לחשוב</head>
+        <lg number="1" type="stanza">
+          <l>הפסקתי כבר מזמן לספור את הדקות שתהיה כבר פה איתי</l>
+          <l>קראתי רק בין השורות איך הצלחתי כך לחשוב שזה אמיתי</l>
+          <l>לא השארת לי ברירה וכמו כל בחורה נתתי לך יותר מדי זמן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תפסיק לחשוב יותר מדיי תתחיל לדבר</l>
+          <l>את המילים הנכונות פשוט לא אומר</l>
+          <l>זמן אני נתתי לך וזה לא עוזר</l>
+          <l>איך אתה מתחיל עם כל דבר שעובר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נסיתי לקבל תשובות מה עובר לך בראש כשאתה איתי</l>
+          <l>איך רצות המחשבות מסתכלת בתמונות זאת לא אני</l>
+          <l>לא השארת לי ברירה וכמו כל בחורה נתתי לך יותר מדי זמן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תפסיק לחשוב יותר מדיי תתחיל לדבר</l>
+          <l>את המילים הנכונות פשוט לא אומר</l>
+          <l>זמן אני נתתי לך וזה לא עוזר</l>
+          <l>איך אתה מתחיל עם כל דבר שעובר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

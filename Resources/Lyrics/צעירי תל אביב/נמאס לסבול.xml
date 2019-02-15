@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נמאס לסבול</title>
+        <singer classification="unknown">צעירי תל אביב</singer>
+        <writer>נירית ירון</writer>
+        <composer>אילן גלבוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נמאס לסבול</head>
+        <lg number="1" type="stanza">
+          <l>בואו נחליט שנמאס לסבול, ננגב דמעה נשכח את אתמול</l>
+          <l>מה שהיה שייך לעבר ויום חדש טרי יזרח לנו מחר.</l>
+          <l>באמת דבר פשוט, עניין של החלטה</l>
+          <l>את ואני והיא אתם וגם אתה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בוא נשנה זווית נכה את השיטה</l>
+          <l>זרענו ובכינו עכשיו נקצור את החיטה</l>
+          <l>בוא נחייך אפילו כשהכאב בועט</l>
+          <l>אם נעשה כאילו, אחר כך זה יקרה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כן זה תלוי רק בנו המצב הוא רק עכשיו</l>
+          <l>אפשר להילחם או לעמוד בצד</l>
+          <l>הבחירה קיימת, אני רוצה לבחור</l>
+          <l>ובצבעים חמים למחוק את השחור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא רוצה לברוח רוצה להישאר</l>
+          <l>מחר יעלה האור על יום חדש אחר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בוא נשנה זווית...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

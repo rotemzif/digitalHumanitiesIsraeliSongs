@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לאחוז בחלום</title>
+        <singer classification="female singer">ירדנה ארזי</singer>
+        <writer>רחל שפירא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לאחוז בחלום</head>
+        <lg number="1" type="stanza">
+          <l>לאחוז בחלום</l>
+          <l>וביקיצה להתוודע</l>
+          <l>לחשוב: אין נדירים כימי חיינו</l>
+          <l>להשאיר את השיר</l>
+          <l>כמו שהוא - מתגעגע</l>
+          <l>לחזור ולהדליק את האור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>החיים שכוונו</l>
+          <l>כאותם מיתרים</l>
+          <l>נמתחים בתוכנו</l>
+          <l>מסתבכים אל האחרים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לאחוז בחלום</l>
+          <l>וביקיצה להתוודע</l>
+          <l>לחזור</l>
+          <l>ולהדליק את האור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>להציל את הצליל</l>
+          <l>הכי שקט, הכי שכוח</l>
+          <l>הלא אין נדירים כימי חיינו</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>החיים שכוונו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

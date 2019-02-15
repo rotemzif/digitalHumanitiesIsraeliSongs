@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ימין ושמאל</title>
+        <singer classification="unknown">רוני שקלים</singer>
+        <writer>רוני שקלים</writer>
+        <composer>רוני שקלים</composer>
+        <album>ימין ושמאל</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ימין ושמאל</head>
+        <lg number="1" type="stanza">
+          <l>איך זה שתמיד את נעלמת וחוזרת</l>
+          <l>לא מחפשת תשובות</l>
+          <l>חשבתי שהכל כבר התבהר</l>
+          <l>ועכשיו צריך רק לעלות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ולמה את תמיד סגורה בתוך עצמך</l>
+          <l>רק מבקשת לחזות</l>
+          <l>מה יקרה בעוד שנים כשנתבגר</l>
+          <l>האם גם אז תמשיכי לקוות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ובינתיים נתנדנד ימין ושמאל</l>
+          <l>עד שתפקחי את העיניים</l>
+          <l>ועכשיו אנחנו נשארות תלויות</l>
+          <l>עד שתרצי לקפוץ למים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז מה עם חברים מהעבר שנטשת</l>
+          <l>ושכחת כבר מה נכון</l>
+          <l>רצית למצוא קצת שקט לעצמך</l>
+          <l>אבל את לא יודעת איך לחזור</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ובינתיים נתנדנד ימין ושמאל</l>
+          <l>עד שתפקחי את העיניים</l>
+          <l>ועכשיו אנחנו נשארות תלויות</l>
+          <l>עד שתרצי לקפוץ למים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

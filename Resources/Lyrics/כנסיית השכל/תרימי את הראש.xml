@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תרימי את הראש</title>
+        <singer classification="band">כנסיית השכל</singer>
+        <writer>רן אלמליח</writer>
+        <composer>רן אלמליח</composer>
+        <album>רוץ ילד</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תרימי את הראש</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>תרימי את הראש מעל המים</l>
+          <l>לאן את הולכת כשנופלים השמיים</l>
+          <l>זוכרת, רצנו בגשם, אוחזים ידיים</l>
+          <l>זוכר מבט פרוע בעיניים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לאן את הולכת כשיבש בעיניים</l>
+          <l>כשהלב מפסיק להרגיש</l>
+          <l>כשהיום מתחיל להחשיך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תרימי את הראש, תראי שמיים</l>
+          <l>לאן את הולכת כשעולים המים</l>
+          <l>זוכרת, שכבנו בשקט, אוחזים ידיים</l>
+          <l>זוכר מבט פרוע בעיניים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לאן את הולכת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

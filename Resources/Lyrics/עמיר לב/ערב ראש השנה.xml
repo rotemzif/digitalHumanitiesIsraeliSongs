@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ערב ראש השנה</title>
+        <singer classification="male singer">עמיר לב</singer>
+        <writer>עמיר לב</writer>
+        <composer>עמיר לב</composer>
+        <album>פעם בחיים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ערב ראש השנה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>הסוודר השחור תמיד עושה לך טוב</l>
+          <l>את מביאה את המים ואני בא מהרחוב</l>
+          <l>מישהו דופק בדלת הכלבים נובחים</l>
+          <l>אני משתעל בשקט את לא אוהבת אורחים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פגשתי את השכן זה שהילד שלו נהרג</l>
+          <l>הוא שאל אותי אם אנחנו עוד יחד</l>
+          <l>עוד מעט נצא, ירח מלא בלילה שחור</l>
+          <l>נלך, נקנה סיגריות ונחזור</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הסוודר השחור נפל מהשולחן</l>
+          <l>לידו שפוכה המאפרה מהעץ שאת אוהבת</l>
+          <l>ערב ראש השנה, ואת שותקת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני אקום, רק אם תרצי לשתות</l>
+          <l>את לא מסתכלת את מתביישת לראות</l>
+          <l>עכשיו נצא, ירח מלא בלילה שחור</l>
+          <l>נלך, נקנה סיגריות ונחזור</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הסוודר השחור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

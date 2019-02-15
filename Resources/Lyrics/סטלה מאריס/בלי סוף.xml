@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלי סוף</title>
+        <singer classification="band">סטלה מאריס</singer>
+        <writer>פבלו רוזנברג</writer>
+        <composer>ניק מילר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלי סוף</head>
+        <lg number="1" type="stanza">
+          <l>היא מציתה את הלילות</l>
+          <l>באהבה שלי שאלות</l>
+          <l>חזקה בשבילי היא מלאך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היא מפתה כמו רוח סתיו</l>
+          <l>ומגלה את סודותיו</l>
+          <l>של ליבי העולה על גדותיו.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בלי סוף, היא מה שחסר בי</l>
+          <l>בלי סוף, אני מאמין בה</l>
+          <l>עד סוף העולם</l>
+          <l>עד סוף העולם...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בחלומות הכי כמוסים</l>
+          <l>בעולמות הכי קסומים</l>
+          <l>היא שלי ותמיד תישאר.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בלי סוף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

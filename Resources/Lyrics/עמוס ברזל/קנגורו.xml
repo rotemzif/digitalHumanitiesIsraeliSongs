@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קנגורו</title>
+        <singer classification="male singer">עמוס ברזל</singer>
+        <writer>חדוה פרידמן</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קנגורו</head>
+        <lg number="1" type="stanza">
+          <l>באוסטרליה הרחוקה, </l>
+          <l>יש ים ויש מדבר. </l>
+          <l>וקנגורו מוזר </l>
+          <l>שלא לא כל כך מוכר. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לו רגליים חזקות, </l>
+          <l>שתי גדולות ושתי קטנות, </l>
+          <l>רק קופץ ומתרוצץ </l>
+          <l>ואוכל מפרי העץ. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>קנגורו, קנגורו, קופץ ומתרוצץ, </l>
+          <l>קנגורו, קנגורו, אוכל מפרי העץ. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>באוסטרליה הרחוקה </l>
+          <l>יש ים ויש מדבר. </l>
+          <l>וקנגורו מוזר </l>
+          <l>שלא לא כל כך מוכר. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>על הבטן יש לה כיס, </l>
+          <l>לשם את הגורים תכניס, </l>
+          <l>גור הקנגורו יונק </l>
+          <l>גור הקנגורו משחק. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>קנגורו, קנגורו, קופץ ומתרוצץ, </l>
+          <l>קנגורו, קנגורו, אוכל מפרי העץ.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

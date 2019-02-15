@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יפה לי את</title>
+        <singer classification="male singer">דקלון</singer>
+        <writer>שלמה מחדון</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יפה לי את</head>
+        <lg number="1" type="stanza">
+          <l>בפה מלא אני מודה</l>
+          <l>בך אני מאוהב</l>
+          <l>יפה כמוך איני מוצא</l>
+          <l>יש בך דבש וגם חלב</l>
+          <l>אויר הרים זך וצלול</l>
+          <l>ירוק וחום במידה</l>
+          <l>מי צריך בכלל את חו"ל</l>
+          <l>כל שארצה בך נמצא</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יפה את לי וגם לו</l>
+          <l>יפה לעולם כולו</l>
+          <l>יפו היא לי כאיסטנבול</l>
+          <l>לא צריך בכלל את חו"ל</l>
+          <l>מוונציה הצפון מפרץ אילת כהוואי</l>
+          <l>לחופי ים התיכון, ארצי שלי משאת חיי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את נקנית בייסורים דם ויזע ודמעות</l>
+          <l>עייף אני מנדודים אוהב אותך אני עד כלות</l>
+          <l>את תבל ומלואה כיסופי אבותי</l>
+          <l>מול יופייך נפשי גואה</l>
+          <l>בך נטעו שורשי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יפה את לי וגם לו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

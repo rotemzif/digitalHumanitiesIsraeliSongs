@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הזמן תם</title>
+        <singer classification="male singer">קובי רכט</singer>
+        <writer>קובי רכט</writer>
+        <composer>הילה רז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הזמן תם</head>
+        <lg number="1" type="stanza">
+          <l>בידיים ריקות, מדרכים רחוקות</l>
+          <l>עם מזוודה אחת מלאה חלומות</l>
+          <l>שבתי אלייך אהובתי</l>
+          <l>וכל מה שהיה ונשאר מאחור</l>
+          <l>לפעמים זה חוזר כמו צל שחור</l>
+          <l>שבתי אלייך אהובתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הזמן תם - את באה או נשארת?</l>
+          <l>הזמן תם - בגן החלומות</l>
+          <l>הזמן תם - והאדמה נשברת</l>
+          <l>וצריך לחיות כל זמן שהיא שלמה</l>
+          <l>רק ככה אני ואת נמצא נחמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דברים משתנים, דברים מתגלים</l>
+          <l>גבר לבדו נלחם בצללים</l>
+          <l>בואי אלי אהובתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הזמן תם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אין לה מקום, לאהבה</l>
+          <l>סביב סביב אין אוויר, אהבתי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הזמן תם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

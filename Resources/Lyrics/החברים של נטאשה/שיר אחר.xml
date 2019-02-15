@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר אחר 3</title>
+        <singer classification="band">החברים של נטאשה</singer>
+        <writer>נדב דפני</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר אחר</head>
+        <lg number="1" type="stanza">
+          <l>מאתמול בשלוש כשהייתי ער</l>
+          <l>עם שמיכה על הגב והראש בוער</l>
+          <l>מתעורר ונרדם ואז שוב מתעורר</l>
+          <l>מתכסה וחושב לי ומהרהר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עוד שיר אחר</l>
+          <l>עוד שיר אחר</l>
+          <l>עוד שיר אחר</l>
+          <l>עוד שיר אחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>המכונית מחליקה ברחובות צרים</l>
+          <l>לילה קר וחשוך האורות כבים</l>
+          <l>ואחרי הופעה מעשנים נחים</l>
+          <l>בין פירסומת ברדיו ושני גלים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עוד שיר אחר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הגיטרות צרחו התופים מכים</l>
+          <l>פילוסופיה זמנית בין שברי בקבוקים</l>
+          <l>מסתכלים ושרים העוצמים פוקחים</l>
+          <l>חלומות אפלים בצבעים ורודים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עוד שיר אחר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאושרת איתי</title>
+        <singer classification="male singer">פבלו רוזנברג</singer>
+        <writer>פבלו רוזנברג</writer>
+        <composer>אנטוניו קרמונה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאושרת איתי</head>
+        <lg number="1" type="stanza">
+          <l>אמרתי לך שככה אפשר</l>
+          <l>לחיות ולא לשכוח</l>
+          <l>לרקוד עקום ללכת ישר</l>
+          <l>מגובה רב לצנוח</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מלאך השקט בתוך הלב שלך גר</l>
+          <l>כלום לא לנצח חוץ מהאל שמעל</l>
+          <l>מה שיקרה יקרה הוא מה שיהיה</l>
+          <l>אני יודע שיש לי אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואם את מאושרת איתי</l>
+          <l>קבלי אותי הלילה</l>
+          <l>אהובה שלי</l>
+          <l>אור יזרח</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני עוצר ואת במקומי</l>
+          <l>אני זה את, את זה אני</l>
+          <l>הרבה פנים תמיד גוף אחד</l>
+          <l>את היסמין שבגני</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מלאך השקט בתוך הלב שלך גר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הזקיף</title>
+        <singer classification="band">תופעת דופלר</singer>
+        <writer>ברוך פרידלנד</writer>
+        <composer>ברוך פרידלנד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הזקיף</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>הזקיף שבמוחי מכה בי רעד</l>
+          <l>הנחשול שבליבי שוטף בינה</l>
+          <l>שוב אנחנו מתקרבים לנמל היעד</l>
+          <l>ובן רגע נשטפים בסערה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא הפחד הוא אשר ימנע ממני</l>
+          <l>השומרים הניצבים לי כחומה</l>
+          <l>כשהקול ישוב לקרוא, אומר "הנני"</l>
+          <l>וגופי ישוב לצעוד בעלטה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תביטי לאחור</l>
+          <l>לא תראי אותי בורח</l>
+          <l>לא אחמוק ממה שאין עוד לשנות</l>
+          <l>בליבך אמצא מסתור</l>
+          <l>בגופך אהיה אורח</l>
+          <l>וחופך יגאה בקצף התשוקות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הזקיף שבמוחי מכה בי רעד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

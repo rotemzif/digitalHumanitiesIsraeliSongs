@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלאגן 5</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>טל שגב</writer>
+        <composer>יעקב למאי</composer>
+        <album>זה ששומר עלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלאגן</head>
+        <lg number="1" type="stanza">
+          <l>יש בלאגן בסביבה</l>
+          <l>תרים ידיים חזק</l>
+          <l>היום אני מאושרת</l>
+          <l>יש בלאגן בסביבה</l>
+          <l>המסיבה מתחילה</l>
+          <l>אני כל כך מאוהבת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>המלך הגיע, כל הקהל יודע</l>
+          <l>הלילה מותר להשתחרר</l>
+          <l>ביחד לשמוח עד שמחר יגיע</l>
+          <l>יש אהבה בחינם</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הלילה, הלילה כולנו משפחה</l>
+          <l>הלילה הזה כולו שמחה</l>
+          <l>ידיים למעלה, אני כבר שיכורה</l>
+          <l>הלילה הזה כולו מזל טוב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש בלאגן בסביבה</l>
+          <l>ויש הרבה אהבה</l>
+          <l>כולם יפים כמו בסרט</l>
+          <l>אל השמיים קופצים</l>
+          <l>לגעת בעננים</l>
+          <l>ובעיניים יש שמש</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>האושר זורח, הלב שלי פורח</l>
+          <l>לצרוח, אני כולי שלך</l>
+          <l>ביחד לשמוח עד שמחר יגיע...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הלילה, הלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

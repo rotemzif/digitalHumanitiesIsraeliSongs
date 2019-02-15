@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני חי 4</title>
+        <singer classification="male singer">ליאור נרקיס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>מילים שלא אמרת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני חי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אני חי</l>
+          <l>כשאת מתקשרת אלי </l>
+          <l>כי את שינית את חיי </l>
+          <l>שינית את הכל</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם ליבי נעול אני נעול עלייך</l>
+          <l>אם תתני כיוון אגיע עד אלייך</l>
+          <l>מילים יפות מכל הלב את תלחשי</l>
+          <l>אני אלחש שיר אהבה אם תבקשי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני חי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איפה את עכשיו הלב שלי פתוח</l>
+          <l>את קולך אשמע נישא על גב הרוח</l>
+          <l>אהיה לרגע מאושר גם אם תאמרי </l>
+          <l>שאין לך זמן הזמן קצר וחד סטרי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני חי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

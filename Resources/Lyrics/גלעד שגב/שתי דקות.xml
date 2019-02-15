@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שתי דקות</title>
+        <singer classification="male singer">גלעד שגב</singer>
+        <writer>גלעד שגב</writer>
+        <composer>גלעד שגב</composer>
+        <album>נועדנו</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שתי דקות</head>
+        <lg number="1" type="stanza">
+          <l>שתי דקות לנסיעה, את מסיטה מבט לכיוון המראה</l>
+          <l>נופים של ארץ חדשה, נהג מונית ששר בשפה לא ברורה,</l>
+          <l>שתי דקות להגעה, ללב פתאום חודרת מחשבה אסורה,</l>
+          <l>ואת נמצאת רחוק עכשיו, פוחדת לעזוב, מחזיקה נשימה...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ילדה גדולה ואבודה של אהבה,</l>
+          <l>אני מכיר אותך כל כך בלי לדבר,</l>
+          <l>כל מה שתמיד ביקשת,</l>
+          <l>כל מה שתמיד חיפשת,</l>
+          <l>למצוא את האחד שיישאר,</l>
+          <l>בידי את יכולה להישבר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שתי דקות להמראה, אורזת ת'חיים שוב לתוך מזוודה,</l>
+          <l>מעיל ארוך עד הרצפה, איפור עדין ששמת לכסות אכזבה,</l>
+          <l>שתי דקות להגעה, ללב פתאום חודרת הרגשת חרטה,</l>
+          <l>ואת נמצאת רחוק עכשיו, פוחדת לעזוב את מסלול הנפילה...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ילדה גדולה ואבודה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

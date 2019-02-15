@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לבדה אל ביתה</title>
+        <singer classification="band">הגמלים</singer>
+        <writer>מעין אוחנה</writer>
+        <composer>דני גפני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לבדה אל ביתה</head>
+        <lg number="1" type="stanza">
+          <l>היא פסעה לבדה</l>
+          <l>בעולם בודדה,</l>
+          <l>ודמעות לא נותרו לה לבכות,</l>
+          <l>כי על הבמה</l>
+          <l>היא חשפה את עצמה,</l>
+          <l>ועכשיו על צדי מדרכות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ערמות של גברים</l>
+          <l>שחלמו על גופה</l>
+          <l>מעולם לא ביקשו את ידה</l>
+          <l>עטופים בבושה </l>
+          <l>הם חוזרים לאשה</l>
+          <l>והיא לבדה אל ביתה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא מכרה את גופה,</l>
+          <l>ונפשה עייפה,</l>
+          <l>מתנות לא יגישו לה עוד</l>
+          <l>כי חלום היא חלמה,</l>
+          <l>נשמתה נעלמה</l>
+          <l>ולכן לא תוסיף עוד לרקוד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ערמות של גברים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מקצוות כל העיר</l>
+          <l>אל החור שבקיר,</l>
+          <l>נהרו בהמון הגברים</l>
+          <l>כי בשטר לא גדול</l>
+          <l>הם ראו לה הכל</l>
+          <l>וכך הם עליה גומרים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ערמות של גברים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

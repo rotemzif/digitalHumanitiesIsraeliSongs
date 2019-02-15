@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>למות למענך</title>
+        <singer classification="male singer">רון שובל</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>למות למענך</head>
+        <lg number="1" type="stanza">
+          <l>אני רוצה לומר תודה</l>
+          <l>לאהבה שלא בגדה</l>
+          <l>לאהבה היחידה</l>
+          <l>אשר ידעתי ואדע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>האהבה הישנה</l>
+          <l>עוד כאן שנה אחר שנה</l>
+          <l>האהבה הראשונה</l>
+          <l>היא גם תהיה האחרונה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מוכן למות למענך</l>
+          <l>אני אבוד כשאת אינך</l>
+          <l>כן יש חיים שאת ישנך</l>
+          <l>והם ביני כאן ובינך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשקרוב היה הסוף</l>
+          <l>והכאב התחיל לשרוף</l>
+          <l>ידעת לשטוף ולעטוף</l>
+          <l>ולהחזיר אותי לחוף</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני יודע שאפשר</l>
+          <l>להיות לנצח מאושר</l>
+          <l>לכן איתך אני נשאר</l>
+          <l>כי רק איתך אני עוד שר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מוכן למות למענך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

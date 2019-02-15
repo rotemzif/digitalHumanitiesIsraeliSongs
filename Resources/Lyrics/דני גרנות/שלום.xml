@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלום 32</title>
+        <singer classification="male singer">דני גרנות</singer>
+        <writer>אורי אסף</writer>
+        <composer>יאיר קלינגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלום</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אחי, אחי, הוא לא בא עדיין </l>
+          <l>שלום לבן, שלום שחור, </l>
+          <l>שלום צהוב, שלום אדום </l>
+          <l>לכל העמים הפירוש הוא אחד: </l>
+          <l>שלום, שלום, שלום. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בתי, בתי, הוא לא בא עדיין </l>
+          <l>יהיה גיבור, יהיה אמיץ </l>
+          <l>יהיה יפה או סתם אדם </l>
+          <l>אך שיר שי כלולות רק אחד ויחיד: </l>
+          <l>שלום, שלום, שלום. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אמי, אמי, הוא לא בא עדיין </l>
+          <l>נולד חכם, נולד אובד, </l>
+          <l>נולד חזק, נולדו רבים </l>
+          <l>אך עוד לא נולד והכל מחכים </l>
+          <l>שלום, שלום, שלום. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אחי, אחי, הוא לא בא עדיין...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

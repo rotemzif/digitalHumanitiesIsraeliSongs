@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היום את צוחקת</title>
+        <singer classification="male singer">יהודה פוליקר</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>missing</composer>
+        <album>פחות אבל כואב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היום את צוחקת</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>והנה היום את צוחקת...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואסור לטפס על ענפים דקים</l>
+          <l>כי נופלים</l>
+          <l>ואסור לשקוע במסע הציפורים</l>
+          <l>לארצות רחוקות</l>
+          <l>כי שוכחים</l>
+          <l>ואסור לשגות בהרהורי שווא</l>
+          <l>כי לא חוזרים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>והנה היום את צוחקת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

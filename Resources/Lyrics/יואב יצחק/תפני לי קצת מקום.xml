@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תפני לי קצת מקום</title>
+        <singer classification="male singer">יואב יצחק</singer>
+        <writer>אופיר שמחי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תפני לי קצת מקום</head>
+        <lg number="1" type="stanza">
+          <l>בחלומות אני רואה</l>
+          <l>את המקום שאני רוצה</l>
+          <l>לחיות בו לעולם איתך</l>
+          <l>עם שני כבשים ותינוקות</l>
+          <l>ויין קצת לשתות</l>
+          <l>ומשהו לעשן - איתך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז תפני לי קצת מקום</l>
+          <l>ועכשיו נלך לישון</l>
+          <l>ובבוקר שנקום נצא לדרך</l>
+          <l>ואז אני אותך אקח</l>
+          <l>וביחד אז נברח</l>
+          <l>ותראי הכל יהיה בסדר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>במקום אנ אבנה</l>
+          <l>טירה יפה כמוך</l>
+          <l>ובה אני אגור איתך</l>
+          <l>מול הים נשכב סתם כך</l>
+          <l>ובהרים נמצא תשובה</l>
+          <l>ואממש את האהבה - איתך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז תפני לי קצת מקום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

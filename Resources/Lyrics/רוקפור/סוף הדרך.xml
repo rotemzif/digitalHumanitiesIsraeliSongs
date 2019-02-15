@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סוף הדרך 5</title>
+        <singer classification="band">רוקפור</singer>
+        <writer>ברוך בן יצחק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סוף הדרך</head>
+        <lg number="1" type="stanza">
+          <l>סוף הדרך מבטים של פחד</l>
+          <l>התחלפו בעצב שידעתי</l>
+          <l>ואני שותק יודע שהפעם</l>
+          <l>לא יהיה אפשר עוד להסתיר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כן הייתי שם בעולם הבא</l>
+          <l>מחשבות בחלום ואני שואל</l>
+          <l>אין תשובה אחת השעה קצרה</l>
+          <l>מחכה לסעודה אחרונה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>במקום אחר תתגלגל הרוח</l>
+          <l>בשדות הרגש שאיבדנו</l>
+          <l>לא יכול לצאת כמו במערבולת</l>
+          <l>מנסר העצב וממשיך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כן אני הייתי שר בעולם הבא</l>
+          <l>מחשבות בחלום ואני שואל</l>
+          <l>אין תשובה אחת השעה קצרה</l>
+          <l>מחכה לסעודה אחרונה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אין תשובה אחת השעה קצרה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

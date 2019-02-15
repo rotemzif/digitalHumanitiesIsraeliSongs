@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה אפשר 2</title>
+        <singer classification="male singer">גלעד שגב</singer>
+        <writer>גלעד שגב</writer>
+        <composer>גלעד שגב</composer>
+        <album>נועדנו</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה אפשר</head>
+        <lg number="1" type="stanza">
+          <l>בתוך קירות מבלי לראות, חולם בלי הפסקה,</l>
+          <l>לרוץ לתוך גלים גבוהים, חופים בלי השגחה,</l>
+          <l>כלוא בתוך תמונות מן העבר,</l>
+          <l>בתשלומים של אהבה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בתוך קירות מבלי לראות אני תמיד מוגן,</l>
+          <l>תלוי בין מגדלים גבוהים של כסף מזומן,</l>
+          <l>קשור בתוך מבוך להצלחה,</l>
+          <l>בחבלים של הוכחה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כמה, כמה אפשר?</l>
+          <l>לברוח לחיים שלך, בסוף הם משיגים אותך, </l>
+          <l>כמה, כמה אפשר?</l>
+          <l>החלטתי מהיום שאין מחר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בתוך קירות מבלי לראות הכל מרגיש מוכר,</l>
+          <l>רק אש בוערת מבפנים אוחזת בי מוזר,</l>
+          <l>שומר אותה בסוד שלא תיגע,</l>
+          <l>שלא תעיר את המשוגע.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כמה, כמה אפשר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

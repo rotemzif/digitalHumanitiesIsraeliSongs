@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בקרקס הזה</title>
+        <singer classification="female singer">מירי מסיקה</singer>
+        <writer>קרן פלס</writer>
+        <composer>קרן פלס</composer>
+        <album>מירי מסיקה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בקרקס הזה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>כמו שאתה במים אפורים</l>
+          <l>כמו נחיתה מתוך שמיים אחרים</l>
+          <l>פסנתר שהתפרק לא ינגן עוד</l>
+          <l>גם אם תחפשני שוב</l>
+          <l>לא אשלח בך כלבים</l>
+          <l>כי לי כבר לא חשוב</l>
+          <l>שונאים או אוהבים</l>
+          <l>ניתן שהדממה תקבע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מי המנצח בקרקס הזה?</l>
+          <l>בשתיקתך </l>
+          <l>משהו אוכל אותך</l>
+          <l>אולי רק הכבוד שלך זקוק לליטופים</l>
+          <l>ועוד מעמידים פנים </l>
+          <l>כאילו יש דברים גדולים בינינו</l>
+          <l>אבל בעיניך - זו אני רק חולמת עליך!</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כמו שאתה במים אפורים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

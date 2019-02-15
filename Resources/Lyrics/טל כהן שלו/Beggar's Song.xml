@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Beggar s Song</title>
+        <singer classification="unknown">טל כהן שלו 2</singer>
+        <writer>טל כהן שלו</writer>
+        <composer>טל כהן שלו</composer>
+        <album>Heartaches and Ashes</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Beggar's Song</head>
+        <lg number="1" type="stanza">
+          <l>Water to my lips I beg of you </l>
+          <l>Food and shelter and I'll sing to you </l>
+          <l>For a long time I've not spoken </l>
+          <l>My crown of thorns is aching </l>
+          <l>My violin is broken </l>
+          <l>My heart of stone is sinking </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>Brother, can you spare a dime </l>
+          <l>for a lonesome beggar out of rhymes </l>
+          <l>it's cold out and my time's at hand </l>
+          <l>I've lived a stranger in a strange land </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Spare me, warm my bones and tear these ragged clothes </l>
+          <l>I've roamed this wasteland since when god only knows </l>
+          <l>Some compassion's all I'm needing </l>
+          <l>I'm scorned and bruised and hated </l>
+          <l>On bended knee I'm pleading </l>
+          <l>My tired eyes are faded </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>Brother, can you spare a dime </l>
+          <l>for a lonesome beggar out of rhymes </l>
+          <l>it's cold out and my time's at hand </l>
+          <l>I've lived a stranger in a strange land</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

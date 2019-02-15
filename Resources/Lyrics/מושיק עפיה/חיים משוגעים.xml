@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חיים משוגעים 2</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>שי ראובני</composer>
+        <album>מבט שנוגע</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חיים משוגעים</head>
+        <lg number="1" type="stanza">
+          <l>מחכה לך שתבואי עכשיו אלי</l>
+          <l>אל החלומות אשא אותך בשתי ידי</l>
+          <l>מסתכל עלייך וקשה לי לדבר</l>
+          <l>את יפה יותר מכל דבר אחר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תני לי את ידך ושוב נמריא מכאן</l>
+          <l>תחבקי אותי חזק וכל הזמן</l>
+          <l>והלב שלי רוצה לומר תודה</l>
+          <l>על כל מה שלי נתת באהבה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יש לי אותך יש לך אותי</l>
+          <l>וביחד נעשה לנו חיים</l>
+          <l>יש לי אותך יש לך אותי</l>
+          <l>וביחד נעשה לנו חיים</l>
+          <l>משוגעים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשירד הלילה אחבק אותך</l>
+          <l>את כולי אתן ורק אהיה שלך</l>
+          <l>בליבי את אחת ויחידה</l>
+          <l>כל דקה שלי איתך זו חגיגה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יש לי אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

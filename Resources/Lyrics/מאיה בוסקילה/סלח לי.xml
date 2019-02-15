@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סלח לי</title>
+        <singer classification="female singer">מאיה בוסקילה</singer>
+        <writer>טל שגב</writer>
+        <composer>טל שגב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סלח לי</head>
+        <lg number="1" type="stanza">
+          <l>והבנתי שאין להבין את הכל, וצריך לא לשכוח</l>
+          <l>והבנתי שיש אהבה בכל יום שנותנת לי כוח</l>
+          <l>ורציתי דברים שאולי לא היו ובחרתי לברוח</l>
+          <l>לפעמים השתיקות חזקות אז באות מחשבות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סלח לי על כל הדברים שאמרתי</l>
+          <l>ברור שגם לא התכוונתי להיות לזרה</l>
+          <l>חזור והשאר לי ברירה</l>
+          <l>סלח לי על כל הרגעים שפגעתי בליבך</l>
+          <l>ליבי הסדוק מבקש אהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ונראה שהזמן הוא טיפות של ברכה, ואני מתרגשת</l>
+          <l>השולחן מחכה מסודר רק לך, עם כוכב בשלכת</l>
+          <l>לחבק לאהוב עד הסוף כי האושר כבר כאן</l>
+          <l>רק תבוא ולשנינו תתן לאהוב מחדש</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סלח לי על כל הדברים שאמרתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

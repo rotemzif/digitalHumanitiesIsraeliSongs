@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני שולח אותך</title>
+        <singer classification="unknown">חיים צינוביץ </singer>
+        <writer>חיים צינוביץ'</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני שולח אותך</head>
+        <lg number="1" type="stanza">
+          <l>אני שולח אותך לדרכך אהובתי</l>
+          <l>שולח אותך כי נגמר (ועוד אוהב אותך)</l>
+          <l>יעברו עוד שנים וניפגש (ועוד אוהב אותך)</l>
+          <l>יהיה זה וודאי יום מפואר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואז לפתע נעמוד ונחייך</l>
+          <l>ניתן ידיים בשתיקה</l>
+          <l>והעולם יהיה חופה למענך</l>
+          <l>בחתונה שלא הייתה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני שולח אותך לדרכך אהובתי</l>
+          <l>שולח אותך כי נגמר (כל כך אוהב אותך)</l>
+          <l>שמרי על עצמך קטנה שלי, מלווה אותך</l>
+          <l>עד ליום המפואר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואז לפתע נעמוד ונחייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

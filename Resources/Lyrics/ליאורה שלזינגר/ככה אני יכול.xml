@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ככה אני יכול</title>
+        <singer classification="unknown">ליאורה שלזינגר</singer>
+        <writer>טלי גורלי טוראל</writer>
+        <composer>טלי גורלי טוראל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ככה אני יכול</head>
+        <lg number="1" type="stanza">
+          <l>ככה אני יכול, </l>
+          <l>פשוט: כי אני גדול.</l>
+          <l>עכשיו כולנו יחד! </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ככה אני יכולה, </l>
+          <l>פשוט: כי אני גדולה.</l>
+          <l>עכשיו כולנו יחד!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

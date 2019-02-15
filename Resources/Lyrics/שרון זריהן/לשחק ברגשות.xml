@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לשחק ברגשות</title>
+        <singer classification="unknown">שרון זריהן</singer>
+        <writer>רונן דנוך</writer>
+        <composer>רונן דנוך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לשחק ברגשות</head>
+        <lg number="1" type="stanza">
+          <l>איך שאת רוקדת את כולם את משגעת</l>
+          <l>כמו נחש את מתפתלת ואני יוצא מדעת</l>
+          <l>רוצה להתקרב לדעת ללטף</l>
+          <l>אך לפתע מתחמקת ושוברת את הלב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מתי תפסיקי לשחק ברגשות שלי</l>
+          <l>החיים שלי קשים גם בלעדייך</l>
+          <l>את רומזת לי לגשת</l>
+          <l>גורמת לי לבוא</l>
+          <l>אך פתאום נוצץ השקר בעינייך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך שאת רוקדת מטריפה את החושים</l>
+          <l>את יודעת לשחק ברגשות של אנשים</l>
+          <l>כולם רוצים אלייך לגעת בגופך</l>
+          <l>אך אני היטב מכיר את האשליה בכישופך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מתי תפסיקי לשחק ברגשות שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

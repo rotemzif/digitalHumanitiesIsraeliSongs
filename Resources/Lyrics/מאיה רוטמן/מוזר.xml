@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מוזר 3</title>
+        <singer classification="female singer">מאיה רוטמן</singer>
+        <writer>מאיה רוטמן</writer>
+        <composer>מאיה רוטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מוזר</head>
+        <lg number="1" type="stanza">
+          <l>אדם לבד בעולם</l>
+          <l>רוצה להיות כמו כולם</l>
+          <l>הוא קצת שונה מהשאר</l>
+          <l>מרגיש מיותר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ובלילות, בלי שינה</l>
+          <l>יוצא לפאב בפינה</l>
+          <l>הוא משתכר כדי לשכוח</l>
+          <l>כדי לברוח</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מרגיש פגוע, מרגיש נסער</l>
+          <l>הוא לא בחר להיות מוזר</l>
+          <l>מרגיש פגוע, מרגיש נסער</l>
+          <l>הוא לא בחר להיות מוזר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אדם זועק לעזרה</l>
+          <l>ואין שומע קולו</l>
+          <l>רוצה לצאת לחופשי</l>
+          <l>אך שתי רגליו, הן כבולות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ובלילות, בלי שינה</l>
+          <l>עוצם עיניו בחוזקה</l>
+          <l>מזיל דמעה אחרונה</l>
+          <l>ומשחרר מועקה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מרגיש פגוע, מרגיש נסער...</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>מוזר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תהומות הנשמה</title>
+        <singer classification="female singer">מאיה אברהם</singer>
+        <writer>הנרי</writer>
+        <composer>הנרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תהומות הנשמה</head>
+        <lg number="1" type="stanza">
+          <l>רגע אחד לאן אתה בורח</l>
+          <l>לא הספקתי להגיד לך כלום</l>
+          <l>רגע אחד לאן אתה בורח</l>
+          <l>לא הספקתי לתת חיבוק אחרון</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא, לא תהיה כאן יותר גם אם אצרח</l>
+          <l>לא, לא תענה לי</l>
+          <l>אצלול לתהומות הנשמה לעמקי האדמה</l>
+          <l>להגיע עד כאב להגיע עד ללב זה הכי קשה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>טיבן של מילים שהן רק מילים</l>
+          <l>אני יודעת כמה כתבתי לך</l>
+          <l>את כל הקסמים לחשים וכישופים</l>
+          <l>טוויתי ועטפתי באור למענך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא, לא תהיה כאן יותר גם אם אצרח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

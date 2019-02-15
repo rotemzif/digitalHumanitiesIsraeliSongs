@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ציפור חד הורית</title>
+        <singer classification="female singer">חוה אלברשטיין</singer>
+        <writer>נדב לויתן</writer>
+        <composer>חוה אלברשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ציפור חד הורית</head>
+        <lg number="1" type="stanza">
+          <l>בראש עמוד על שנאי חלוד</l>
+          <l>מצאה ציפור תועה ועייפה</l>
+          <l>מנוח ממעופה.</l>
+          <l>מתחת לה העיר בשלה</l>
+          <l>בלי חסד, בלי ממשלה</l>
+          <l>חרשת עיוורת לגורלה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ציפור חד הורית כבר מבוגרת</l>
+          <l>בונה לה קן מטילה דוגרת</l>
+          <l>ציפור חד הורית כבר מבוגרת</l>
+          <l>בראש עמוד על שנאי חלוד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתחת לה העיר בשלה</l>
+          <l>בלי חסד בלי ממשלה</l>
+          <l>חרשת עיוורת לגורלה</l>
+          <l>מתחת לה העיר בשלה</l>
+          <l>ואין לה שאלה רק משאלה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שהגוזל מביצתה יבקע בריא</l>
+          <l>יגדל ויתחזק ולדרכו ימריא</l>
+          <l>שהגוזל מביצתה יבקע בריא</l>
+          <l>יגדל ויתחזק ולדרכו ימריא</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ציפור חד הורית...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>בראש עמוד על שנאי חלוד</l>
+          <l>מצאה ציפור תועה ועייפה</l>
+          <l>מנוח ממעופה</l>
+          <l>מתחת לה העיר בשלה</l>
+          <l>ואיו לה שאלה רק משאלה</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>שהגוזל מביצתה יבקע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

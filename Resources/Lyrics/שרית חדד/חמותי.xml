@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חמותי</title>
+        <singer classification="female singer">שרית חדד</singer>
+        <writer>דני שושן</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חמותי</head>
+        <lg number="1" type="stanza">
+          <l>חמותי אולי חושבת שאתה מת מרעב</l>
+          <l>ולך היא מבשלת מלב רחב</l>
+          <l>כל היום היא מצלצלת ושואלת לשלומך</l>
+          <l>היא לבטח שם חושבת איך עובר יומך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה יהיה הסוף איתה אה, אה</l>
+          <l>את הדעת מטריפה אה, אה</l>
+          <l>עד מתי אבין אותה אה, אה</l>
+          <l>ובא לי לחנוק אותה אה, אה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פעמיים בשבוע מבקרת בביתי</l>
+          <l>זה אצלה מנהג קבוע לבקר אותי</l>
+          <l>זה נכון היא לי עוזרת מבשלת בשבילך</l>
+          <l>ואבק היא מנערת, משולחנך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה יהיה הסוף איתה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>במקרר היא מחטטת החלב קצת לא טרי</l>
+          <l>ולפח מיד זורקת כי זה לא בריא</l>
+          <l>ממרקת מסדרת מיישרת ת'קמטים</l>
+          <l>ת'מיטה היא מסדרת והרהיטים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מה יהיה הסוף איתה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

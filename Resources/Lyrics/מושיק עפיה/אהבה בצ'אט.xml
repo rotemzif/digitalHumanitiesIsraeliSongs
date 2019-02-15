@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה בצ אט</title>
+        <singer classification="male singer">מושיק עפיה</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>אנדראס למברוב</composer>
+        <album>בשבילי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה בצ'אט</head>
+        <lg number="1" type="stanza">
+          <l>אני מת, יפה שלי, את קולך לשמוע</l>
+          <l>אולי תצאי מהמסך, חולם אותך לראות</l>
+          <l>מה יהיה, תגידי לי, הסבלנות נגמרת</l>
+          <l>פשוט נמאס לי לדמיין אותך בחלומות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פותח את הפייסבוק ומרחוק כותב לך</l>
+          <l>בין השורות מתוך הלב האהבה יוצאת</l>
+          <l>פותח את הפייסבוק, מהמציאות בורח</l>
+          <l>אני ואת באשליה של אהבה בצ'אט</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני אף פעם לא אשכח, הצצתי ונפגעתי</l>
+          <l>מבט אל התמונה שלך ותיכף התאהבתי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הלב אומר לי לך על זה, אם תרצה תגיע</l>
+          <l>אני רוצה, אבל את לא אומרת לי לאן</l>
+          <l>תגידי איפה ומתי, לי יש מה להציע</l>
+          <l>ואם תרצי להיפגש, תמיד אני מוכן</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>פותח את הפייסבוק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

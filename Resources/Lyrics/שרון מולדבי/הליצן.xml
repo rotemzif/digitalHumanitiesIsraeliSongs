@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הליצן 7</title>
+        <singer classification="unknown">שרון מולדבי</singer>
+        <writer>שרון מולדבי</writer>
+        <composer>שרון מולדבי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הליצן</head>
+        <lg number="1" type="stanza">
+          <l>ההצגה כבר נגמרה סגרו מזמן את הגן </l>
+          <l>אני עוד הולך עם התחפושת הילד השתקן </l>
+          <l>אפשר לנשום במסיכה אני רואה וגם נעלם </l>
+          <l>נדמה שאנשים נחמדים פתאום הילד של כולם </l>
+          <l>כל האימהות קוראות אלי מאותו החלון </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בוא הביתה בוא הביתה הליצן האחרון </l>
+          <l>בוא הביתה בוא הביתה הליצן רוצה לישון </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בניין גדול חלון קטן אני נשאר ברחוב </l>
+          <l>זה הפחד להוריד את התחפושת והפחד לעזוב </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בוא הביתה בוא הביתה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

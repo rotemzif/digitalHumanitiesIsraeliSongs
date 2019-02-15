@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תדעי שאני אוהב</title>
+        <singer classification="unknown">שרון זריהן</singer>
+        <writer>עוזי בוקובזה</writer>
+        <composer>עוזי בוקובזה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תדעי שאני אוהב</head>
+        <lg number="1" type="stanza">
+          <l>לילה של אהבה בלתי נשכח</l>
+          <l>נזכר בשעות היפות שלי איתך</l>
+          <l>אל מחוזות רחוקים דמיון מושלך</l>
+          <l>בחלומות את שלי ואני שלך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תדעי שאני אוהב, דעי זאת מכל הלב</l>
+          <l>תשוקתי אלייך עזה, משלבת ת'כאב</l>
+          <l>תדעי שאני אוהב, דעי זאת מכל הלב</l>
+          <l>נפשי אלייך יוצאת, מאוהב בך באמת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תשני את נפלאות האהבה</l>
+          <l>אל תהרסי לי ברגע את כל מה שנברא</l>
+          <l>אל תגרמי לי לפצע עמוק בתוך הלב</l>
+          <l>אל תשכחי כי לנצח אותך אני אוהב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תדעי שאני אוהב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

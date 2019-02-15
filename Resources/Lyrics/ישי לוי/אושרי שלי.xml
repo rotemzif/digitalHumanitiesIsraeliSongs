@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אושרי שלי</title>
+        <singer classification="male singer">ישי לוי</singer>
+        <writer>אביחי מליחי</writer>
+        <composer>אביחי מליחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אושרי שלי</head>
+        <lg number="1" type="stanza">
+          <l>בזכרוני יפה את</l>
+          <l>וזוהרת כל כולך</l>
+          <l>מחייכת לא יודעת </l>
+          <l>כה רחוקה מגורלך</l>
+          <l>ולך היתה כמו פרח</l>
+          <l>חברה אך גם אחות</l>
+          <l>שפניה כמו ירח</l>
+          <l>מאירה יקום לצחוק</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מלאכים בוכים בלילה </l>
+          <l>וביום דימעה ירדה</l>
+          <l>איך אושרי שלי למעלה</l>
+          <l>ונפשי כה בודדה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכשיו כשאת נפרדת</l>
+          <l>משאירה עולם אחר</l>
+          <l>לבדך אינך הולכת</l>
+          <l>כי איתך כבה הנר</l>
+          <l>אחות קטנה היתה לך</l>
+          <l>שאיתך עלתה אל על</l>
+          <l>איך ממך הלכה לה הלאה</l>
+          <l>מטיילת בשבילי הזמן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מלאכים בוכים בלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סתיו ישראלי</title>
+        <singer classification="female singer">גלי עטרי</singer>
+        <writer>יעקב גלעד</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סתיו ישראלי</head>
+        <lg number="1" type="stanza">
+          <l>עץ הצפצפה מקריח מול שלולית שקופה</l>
+          <l>סתיו ישראלי מול החלון שלי</l>
+          <l>גשם פתאומי מביא אותי אל תוך עצמי</l>
+          <l>אומרים שהשנה תהיה בצורת</l>
+          <l>אבל אני באתי מן הקיץ</l>
+          <l>כמו מתוך תבוסה באתי אל החורף</l>
+          <l>באתי בטיסה, הגעתי במנוסה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הוא שהבטיח לי חורף חם</l>
+          <l>לא יקיים לעולם</l>
+          <l>הוא שהבטיח לי חורף חם</l>
+          <l>לא יקיים לעולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רוח נכנסה לתוך בגדים על חוט כביסה</l>
+          <l>סתיו ישראלי במרפסות מולי</l>
+          <l>גשם לפרקים ניתז על פני שתילים רכים</l>
+          <l>גשמים פזורים יורדים בכל הארץ</l>
+          <l>אבל אני שוב מצאתי בית</l>
+          <l>עץ בתוך גינה, ארץ בשלכת</l>
+          <l>עיר כל כך קטנה וכלום לא השתנה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הוא שהבטיח לי חורף חם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>החלום שלי 2</title>
+        <singer classification="unknown">דורון מירן</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>החלום שלי</head>
+        <lg number="1" type="stanza">
+          <l>את עיניה לא שוכח</l>
+          <l>אך ממנה לא שומע</l>
+          <l>ואליה מתגעגע.</l>
+          <l>לא יודע איפה היא</l>
+          <l>ולאן הלכה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואת לא אתי</l>
+          <l>את החלום שלי.</l>
+          <l>עיני פוקח והוא בורח,</l>
+          <l>לא נשאר אתי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך אני חי בלעדיה?</l>
+          <l>איך אשכח את שתי ידיה</l>
+          <l>שליטפוני וחבקוני?</l>
+          <l>יום אחד היא בי בגדה</l>
+          <l>ואותי עזבה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואת לא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

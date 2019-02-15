@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הקרב עלייך</title>
+        <singer classification="unknown">גל יצחק</singer>
+        <writer>גל יצחק</writer>
+        <composer>שמעון דהאן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הקרב עלייך</head>
+        <lg number="1" type="stanza">
+          <l>שוב עוברת מחשבה</l>
+          <l>בי בוערת מכאיבה</l>
+          <l>מחכה שאת תביני</l>
+          <l>ונתחיל מהתחלה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שוב קורא לך אהובה</l>
+          <l>בואי חזרי נא חזרה</l>
+          <l>על כתפי ראשך הניחי</l>
+          <l>ותהי לי יחידה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מי זה שגנב לי את ליבך</l>
+          <l>מי זה שערב בחלונך</l>
+          <l>מי זה שכישף ובא אלייך</l>
+          <l>אני מוכן לצאת לקרב עלייך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שב עוברת מחשבה</l>
+          <l>בי בוערת מכאיבה</l>
+          <l>לא מבין איך זה קרה</l>
+          <l>אהבה שנגמרה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מי זה שגנב לי את ליבך</l>
+          <l>מי זה שערב בחלונך</l>
+          <l>מי זה שכישף ובא אלייך</l>
+          <l>אני מוכן לצאת לקרב עלייך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

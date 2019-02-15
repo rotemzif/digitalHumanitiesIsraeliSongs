@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוגד</title>
+        <singer classification="unknown">טל הראל</singer>
+        <writer>טל הראל</writer>
+        <composer>טל הראל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוגד</head>
+        <lg number="1" type="stanza">
+          <l>טיפסת לגבהים נשים קראו בחשיכה</l>
+          <l>נאמת בשקרים והאמת חטאה ביער</l>
+          <l>ירדת אל העיר היצרים חיכו בחוף</l>
+          <l>עצרת את הזמן אף פעם לא יהיה לו סוף</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בוגד בוגד בוגד בוגד</l>
+          <l>שאלוהים יסלח לך</l>
+          <l>בוגד בוגד בוגד שאלוהים ישכח לך</l>
+          <l>שאלוהים יסלח לך</l>
+          <l>בוגד, מתי? תגיד, מתי? </l>
+          <l>תסלח לעצמך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כתבת מסרים שירים חשפו מה שקרה</l>
+          <l>הדף נדף בשמים (והאמת ידע רק צער)</l>
+          <l>ירדת אל העיר היצרים פיתו ברחוב</l>
+          <l>עצרת את הזמן אף פעם לא יהיה לו סוף</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בוגד בוגד .....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

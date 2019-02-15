@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא אוותר לך</title>
+        <singer classification="male singer">יואב יצחק</singer>
+        <writer>אביחי מליחי</writer>
+        <composer>אביחי מליחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא אוותר לך</head>
+        <lg number="1" type="stanza">
+          <l>מאיר כוכב קלות</l>
+          <l>על גג ביתך</l>
+          <l>מאיר עלייך שם</l>
+          <l>את בחדרך</l>
+          <l>אם תשכחי אותי</l>
+          <l>כי אני אוהב</l>
+          <l>מחכה לך בחוץ</l>
+          <l>שוב אותך כואב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי את לי עולם אחר</l>
+          <l>הן את בכל חיי</l>
+          <l>גם אם תרצי</l>
+          <l>לא אוותר לך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את בשלך עיתים</l>
+          <l>כשאני אחר</l>
+          <l>על מחיר האושר</l>
+          <l>עוד נדבר</l>
+          <l>אם תקשרי אותי</l>
+          <l>אל נימי ליבך</l>
+          <l>אל תעצרי אותי</l>
+          <l>כשאני בודד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי את לי עולם אחר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

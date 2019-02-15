@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>החיים לקחו אותי רחוק</title>
+        <singer classification="male singer">שמעון בוסקילה</singer>
+        <writer>מיכאל וקנין</writer>
+        <composer>שמעון בוסקילה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>החיים לקחו אותי רחוק</head>
+        <lg number="1" type="stanza">
+          <l>הלב שלי אומר זה יגמר עצוב</l>
+          <l>אבל אני בסוף אליה עוד אשוב</l>
+          <l>אני תמיד חושב עליה ואוהב</l>
+          <l>ואני לא מגיע עם צער וכאב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>החיים לקחו אותי רחוק</l>
+          <l>אבל שמרתי לעצמי מעט מרחק</l>
+          <l>אהבה תפסה אותה קצר</l>
+          <l>ואלוהים אלוהים וזה בכל זאת מיוחד</l>
+          <l>אלוהים היא לא תשאיר אותי לבד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הפחד לי אומר זה יגמר עצוב</l>
+          <l>אבל אני בסוף אליה עוד אשוב</l>
+          <l>הלב שלי אומר שהיא כמו מלאך</l>
+          <l>איתה מעל פני חיוך גדוך יפרח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>החיים לקחו אותי רחוק...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אלוהים וזה בכל זאת מיוחד</l>
+          <l>אלוהים היא לא תשאיר אותי לבד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

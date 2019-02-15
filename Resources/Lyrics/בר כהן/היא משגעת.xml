@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היא משגעת</title>
+        <singer classification="male singer">בר כהן</singer>
+        <writer>עופר סופר</writer>
+        <composer>עופר סופר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היא משגעת</head>
+        <lg number="1" type="stanza">
+          <l>לשכונה שלי הגיעה בחורה פצצה</l>
+          <l>כולם עליה מביטים, שהיא ת'כביש חוצה</l>
+          <l>כל הנהגים עוצרים ולה מצפצפים</l>
+          <l>גם הרמזורים בכביש פתאום לא מתחלפים</l>
+          <l>היא משגעת את כולם, חבל לה על הזמן </l>
+          <l>בחורה יפה כמוה אין עוד בעולם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היא משגעת את כולם היא משגעת</l>
+          <l>מה היא עושה לליבי היא לא יודעת</l>
+          <l>היא משגעת את כולם היא משגעת</l>
+          <l>בגללה אני יוצא מדעת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בכל פעם שאני רואה אותה מולי </l>
+          <l>הלב שלי פועם חזק אני רועד כולי</l>
+          <l>יש בה קסם מיוחד שאין לאף אחת</l>
+          <l>היא יודעת להסעיר כל גבר במבט</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היא משגעת את כולם....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

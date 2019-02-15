@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הכלולות</title>
+        <singer classification="unknown">שחקני ההצגה עוץ לי גוץ לי</singer>
+        <writer>אברהם שלונסקי</writer>
+        <composer>דובי זלצר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הכלולות</head>
+        <lg number="1" type="stanza">
+          <l>קול ששון ארץ עוץ </l>
+          <l>קול שמחה ארץ עוץ </l>
+          <l>קול ששון ושמחה ארץ עוץ </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קול חתן ארץ עוץ </l>
+          <l>קול כלה ארץ עוץ </l>
+          <l>על חתן וכלה ארץ עוץ</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

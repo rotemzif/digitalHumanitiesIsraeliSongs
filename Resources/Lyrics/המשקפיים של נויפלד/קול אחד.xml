@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קול אחד</title>
+        <singer classification="unknown">המשקפיים של נויפלד</singer>
+        <writer>מאיר גולדברג</writer>
+        <composer>שמוליק נויפלד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קול אחד</head>
+        <lg number="1" type="stanza">
+          <l>כל אחד שומע את קולו</l>
+          <l>הקול שלא הכיר, והנה הוא שלו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גם אחד שנשמתו זועקת</l>
+          <l>מתחיל בשקט</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל אחד שומע את קולו</l>
+          <l>קורא בו אל אביו, ושר בשפת אמו</l>
+          <l>קול אחד לומד להיות בטוח</l>
+          <l>נישא ברוח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לפעמים הקול הזה שלנו</l>
+          <l>אומר ביחד, דיברתם די</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>קול אחד הוא כל קולות כולנו</l>
+          <l>ואין בו פחד, ואין אולי</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כל אחד שומע את קולו</l>
+          <l>צלול או מצטרד, הוא מהדהד אצלו</l>
+          <l>כל אחד מקשיב אולי יגיע</l>
+          <l>קול שירגיע</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>לפעמים הקול הזה שלנו</l>
+          <l>אומר ביחד, דיברתם די</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>קול אחד הוא כל קולות כולנו</l>
+          <l>ואין בו פחד, ואין אולי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דיונות</title>
+        <singer classification="female singer">מור שטייגל</singer>
+        <writer>תרצה אתר</writer>
+        <composer>מור שטייגל</composer>
+        <album>מחשבות יכולות לשנות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דיונות</head>
+        <lg number="1" type="stanza">
+          <l>מחשבות נודדות כדיונות שאהבת</l>
+          <l>מתנפלות כסופה מתוכי אל עיניך</l>
+          <l>(עיניך עצומות. כלואות.נרדמת.)</l>
+          <l>הרבה ניחושים </l>
+          <l>אני מנחשת </l>
+          <l>כל הימים עליך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זוכרת: עשב לח מרירות רוחות הלילה</l>
+          <l>יודעת: זה היה הכוח החזק בכולם</l>
+          <l>(צמתי הייתה חמה ועבותה בהמשך כל הלילה)</l>
+          <l>מבטי הסגיל מאהבה שהבינה פתאום עולם.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ועכשיו אני רק מנחשת</l>
+          <l>כבדה עלי שתיקתך עד מאוד</l>
+          <l>אני משקיפה אליך השקפה נואשת</l>
+          <l>רוצה להגיד מילים רבות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>השתיקה -  גם אותה רציתי לדבר</l>
+          <l>אך אני בחלון בלי לנוע</l>
+          <l>רציתי לספר לך על הראי שאני מציבה</l>
+          <l>ערב ערב אל ארץ הרוח</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לשיר לך שיר </l>
+          <l>רציתי לנבא נבואה</l>
+          <l>לבאר מחשבה רציתי</l>
+          <l>אך אתה השתיקה בעצמה. </l>
+          <l>אינך קם.פניך מוגפות מרוח, מאישה. </l>
+          <l>כולך רק ים.רק ים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ועכשיו אני רק מנחשת</l>
+          <l>כבדה עלי שתיקתך עד מאוד</l>
+          <l>אני משקיפה אליך השקפה נואשת</l>
+          <l>רוצה להגיד מילים רבות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

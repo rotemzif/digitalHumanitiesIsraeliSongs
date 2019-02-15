@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה יפה</title>
+        <singer classification="unknown">יוסי שועה</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה יפה</head>
+        <lg number="1" type="stanza">
+          <l>לא הבנתי מה קורה הגורל שוב משתנה</l>
+          <l>והלילה לא נגמר הנה עוד חלום נשבר</l>
+          <l>עם הצער משתלב ואני כאן מתמוטט</l>
+          <l>אז אני לוקח עט לך כותב את האמת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לך נתתי את חיי לך אתן גם את עיני</l>
+          <l>ואם תסתכלי עליי זועק לאלוהי</l>
+          <l>אהבה כל כך יפה איך לפתע נקטפה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא הכרתי את עצמי הכאב בנשמתי</l>
+          <l>מאחור השארת אותי</l>
+          <l>לא הבנתי מה קורה איך הכל מהר נגמר</l>
+          <l>פעם חם ופעם קר אלוהים אני נשבר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לך נתתי את חיי לך אתם גם את עיני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

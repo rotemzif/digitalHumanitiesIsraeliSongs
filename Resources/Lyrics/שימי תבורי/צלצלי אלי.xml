@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צלצלי אלי</title>
+        <singer classification="male singer">שימי תבורי</singer>
+        <writer>אליעוז רבין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צלצלי אלי</head>
+        <lg number="1" type="stanza">
+          <l>הנה אני כותב לך מכתב</l>
+          <l>ושם בתוכו אסימון</l>
+          <l>מקפלו בקפידה, נושק לקצותיו</l>
+          <l>כי יש לי לאמר לך המון</l>
+          <l>אני כאן רועד לא נרגע</l>
+          <l>ממתין לך בקצה החוגה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>צלצלי אלי, צלצלי אלי</l>
+          <l>כמו כוכב שאיבד את הצפון</l>
+          <l>צלצלי אלי, צלצלי אלי</l>
+          <l>מחכה לצלצול טלפון</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בחדר שבו חיכית לשובי</l>
+          <l>יושב כמו ממתין לתורי</l>
+          <l>אומר לעצמי שעוד כלום לא סופי</l>
+          <l>אם אתן לך רק זמן תתקשרי</l>
+          <l>נכון זה קשה יש מחסום</l>
+          <l>אבל מוכרחים לנסות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>צלצלי אלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

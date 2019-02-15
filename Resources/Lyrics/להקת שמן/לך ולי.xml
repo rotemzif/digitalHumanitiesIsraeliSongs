@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לך ולי</title>
+        <singer classification="unknown">להקת שמן</singer>
+        <writer>שחר ברגמן</writer>
+        <composer>נועם אברהמס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לך ולי</head>
+        <lg number="1" type="stanza">
+          <l>לך, לך ולי </l>
+          <l>יש משהו אישי </l>
+          <l>אני לא רוצה שתאבדי </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לך, לך ולי </l>
+          <l>יש משהו נשי </l>
+          <l>את מתפנקת בשבילי </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לך יש את הכול לתת לעולם ולי </l>
+          <l>לי יש את הכול לסדר </l>
+          <l>את העולם לנוחיותך ולכבודי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לך, לך ולי </l>
+          <l>יש משהו גברי </l>
+          <l>אנחנו קצת רבים ומתפייסים </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לך יש את הכול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

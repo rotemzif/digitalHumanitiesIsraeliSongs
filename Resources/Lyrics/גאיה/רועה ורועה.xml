@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רועה ורועה</title>
+        <singer classification="band">גאיה</singer>
+        <writer>מתתיהו שלם</writer>
+        <composer>מתתיהו שלם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רועה ורועה</head>
+        <lg number="1" type="stanza">
+          <l>אי שם הרחק לבין ההרים</l>
+          <l>רועה ורועה לבין עדרים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היא לו - הוא לה,</l>
+          <l>שתי עיניים - אהבה,</l>
+          <l>היא לו - הוא לה,</l>
+          <l>שתי עיניים - להבה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אי שם בחורש לבין השיחים</l>
+          <l>רועה ורועה ביניהם משיחים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היא לו - הוא לה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>על השוקת רועה ורועה</l>
+          <l>הוא בחליל והיא בשירה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>היא לו - הוא לה...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>בא הערב, עתה ליל</l>
+          <l>אל הבקעה יצאו לטייל</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>היא לו - הוא לה...</l>
+        </lg>
+        <lg number="9" type="stanza">
+          <l>שקע הירח עלה היום</l>
+          <l>פג הלייל תם היום</l>
+        </lg>
+        <lg Chorus="yes" number="10" type="stanza">
+          <l>היא לו - הוא לה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

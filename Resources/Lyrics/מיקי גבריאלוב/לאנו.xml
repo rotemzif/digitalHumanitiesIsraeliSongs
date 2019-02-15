@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לאנו</title>
+        <singer classification="male singer">מיקי גבריאלוב</singer>
+        <writer>מיכל גבריאלוב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לאנו</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>לאנו יצאה ביתה לאל לא ידעה</l>
+          <l>שתחכה אתה במיטתה הקרה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רק את איתי והרוח</l>
+          <l>מקטרת השלג לכלב אחד</l>
+          <l>נושאת בליבי משא שנתי לירח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לאנו חזרי לאנו חזרי תבואי</l>
+          <l>כשיצאה דלתה</l>
+          <l>באתי אליה למשוך אותה</l>
+          <l>נפתח חלומה</l>
+          <l>אש פרצה אכלה</l>
+          <l>מה רצתה לאן הלכה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לאנו יצאה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

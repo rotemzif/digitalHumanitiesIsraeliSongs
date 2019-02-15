@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חתול מיילל</title>
+        <singer classification="unknown">הדמעות</singer>
+        <writer>אפיק פלג</writer>
+        <composer>רובי אלסטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חתול מיילל</head>
+        <lg number="1" type="stanza">
+          <l>חתול מיילל</l>
+          <l>כל הלילות מטייל</l>
+          <l>עושה צרות, מכות מקבל</l>
+          <l>תמיד על ארבע רגליים נופל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כואב לו מרוב שטוב לו</l>
+          <l>קשה לו מרוב שכיף לו</l>
+          <l>כואב לו מרוב שטוב לו</l>
+          <l>קשה לו מרוב שכיף לו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חתול מסתנן</l>
+          <l>כל הימים מתפנן</l>
+          <l>שוכב על גג ורק מתלונן</l>
+          <l>שאין לו בית ואין לו שכן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כואב לו מרוב שטוב לו</l>
+          <l>קשה לו מרוב שכיף לו</l>
+          <l>כואב לו מרוב שטוב לו</l>
+          <l>קשה לו מרוב שכיף לו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

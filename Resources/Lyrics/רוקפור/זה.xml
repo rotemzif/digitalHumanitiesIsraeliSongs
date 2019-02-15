@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה 279</title>
+        <singer classification="band">רוקפור</singer>
+        <writer>ברוך בן יצחק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה</head>
+        <lg number="1" type="stanza">
+          <l>אני מרגיש את זה </l>
+          <l>אבל עדיין זה רחוק מכאן </l>
+          <l>בא כל כך חזק אני פוחד ממנו </l>
+          <l>כמו מהאמת. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני מרגיש את זה </l>
+          <l>אבל הפעם זה קרוב יותר </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא יכול לברוח והוא מתקרב </l>
+          <l>נכנס בי ולא יוצא </l>
+          <l>הוא יודע שאני כבר לא רוצה </l>
+          <l>אבל הוא כאן אני מרגיש את זה. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>וכל יום שזה עובר </l>
+          <l>מנסה למחוק את הכאב </l>
+          <l>והוא כל כך חזק אני פוחד ממנו... </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא יכול לברוח והוא מתקרב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

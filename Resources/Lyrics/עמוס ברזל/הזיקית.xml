@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הזיקית</title>
+        <singer classification="male singer">עמוס ברזל</singer>
+        <writer>חדוה פרידמן</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הזיקית</head>
+        <lg number="1" type="stanza">
+          <l>הזיקית האפרורית </l>
+          <l>עושה ממני צחוק </l>
+          <l>כשעברה ליד הדשא </l>
+          <l>הפך צבעה ירוק, הפך צבעה ירוק. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הזיקית הירוקה </l>
+          <l>נאלמה פתאום, </l>
+          <l>כי בשדה כלניות </l>
+          <l>הפך צבעה אדום, הפך צבעה אדום. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זיקית, זיקית עמדי לרגע, </l>
+          <l>אל תחליפי את הצבע. </l>
+          <l>זיקית, זיקית עמדי כעת, </l>
+          <l>נראה איזה צבע יש לך באמת. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הזיקית האדומה </l>
+          <l>ירדה לאדמה </l>
+          <l>ופתאום היא נעלמה </l>
+          <l>הפכה כולה חומה, הפכה כולה חומה. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>גם בחום אינה נשארת </l>
+          <l>ככה היא נזהרת, </l>
+          <l>את צבעה בוחרת </l>
+          <l>כך היא מסתתרת, כך היא מסתתרת. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זיקית, זיקית עמדי לרגע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אגדתי</title>
+        <singer classification="female singer">זהבה בן</singer>
+        <writer>יוני רועה</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אגדתי</head>
+        <lg number="1" type="stanza">
+          <l>רודפות אותי המחשבות</l>
+          <l>ולא מרפות השאלות</l>
+          <l>נטשו אותי על סף החיים</l>
+          <l>ברחוב אפל תינוק בן ימים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חלפו שנותי בשדות זרים</l>
+          <l>ולא פסקו געגועים</l>
+          <l>לראות אותך אמא קטנה</l>
+          <l>הלב בוער מיום שידעת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני קורא לך, הושבי קולך</l>
+          <l>ובתוכי, אני יודע </l>
+          <l>שלא בגללי או בגללך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רוחות של סתיו נושבות בגבי</l>
+          <l>מדבר יבש חונק את גרוני</l>
+          <l>עוד מחכה בעיקבות הזמן</l>
+          <l>שמאחד את קשר הדם</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני קורא לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

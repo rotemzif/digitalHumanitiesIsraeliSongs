@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את באה בחלום</title>
+        <singer classification="male singer">פיני חדד</singer>
+        <writer>דודו ברק</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את באה בחלום</head>
+        <lg number="1" type="stanza">
+          <l>את באה בחלום</l>
+          <l>ואת באה בדמיון,</l>
+          <l>את באה אלי מכול עבר.</l>
+          <l>את באה מקרבה</l>
+          <l>ואת באה ממרחק,</l>
+          <l>את באה אלי, שוד ושבר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את שם בזיכרון,</l>
+          <l>בערגה ובתשוקה</l>
+          <l>ואת לעולם געגוע.</l>
+          <l>צחה מחיוורון,</l>
+          <l>קטלנית ומתוקה,</l>
+          <l>ליבי מעונה וקרוע.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את באה לי בצחוק</l>
+          <l>ואת באה בכאב,</l>
+          <l>את באה אלי עד לבכי.</l>
+          <l>את כאן ואת אי שם,</l>
+          <l>את זורמת לי בדם,</l>
+          <l>חכי לי, חכי, אל תלכי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את שם בזיכרון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רגע לפני 12</title>
+        <singer classification="male singer">מאור כהן</singer>
+        <writer>דן תורן</writer>
+        <composer>מאור כהן</composer>
+        <album>דיסקגרפי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רגע לפני</head>
+        <lg number="1" type="stanza">
+          <l>רגע לפני שסוגרים האורות</l>
+          <l>יש לי מילים שתמיד חסרות</l>
+          <l>כמו נשימה לפני השתיקה</l>
+          <l>כמו נשיפה אחרי אהבה</l>
+          <l>רגע לפני שנחליף השלטון</l>
+          <l>שקט יצא לחלחל בהמון</l>
+          <l>אנשים לא זוכרים את מה שהיה</l>
+          <l>כי החדש משכיח כל רע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תנו לי דקה אחת לסלוח</l>
+          <l>תנו לי ניפחתם לי את המוח</l>
+          <l>תנו לי דקה אחת לשכוח</l>
+          <l>תנו לי אין לאן לברוח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רגע לפני שחוזרים לאחור</l>
+          <l>יש בי רצון להשיג את האור</l>
+          <l>לתת לגלים את האופק לשטוף</l>
+          <l>לתת לספינות לעזוב את החוף</l>
+          <l>רגע לפני שנותנים את הטון</l>
+          <l>אולי עוד אפשר למנוע אסון</l>
+          <l>האמת ניצחון הוא עוד מלחמה</l>
+          <l>ורק ההפסד יביא את סופה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תנו לי דקה אחת לסלוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

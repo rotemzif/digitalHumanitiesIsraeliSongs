@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חיה בסרט</title>
+        <singer classification="unknown">עידית הלוי</singer>
+        <writer>מירית שם אור</writer>
+        <composer>צביקה פיק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חיה בסרט</head>
+        <lg number="1" type="stanza">
+          <l>כוכבים בצבע כסף וירח מזהב</l>
+          <l>ואני על המרפסת מול הים המכושף</l>
+          <l>ובאוירת פנטזיה אני שותה את הקפה</l>
+          <l>מדליקה לי עוד סיגריה, יש ברדיו שיר יפה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואני חולמת יחד עם המנגינה </l>
+          <l>איך שהיא זורמת עמוק לתוך הנשמה</l>
+          <l>ואני חולמת יחד עם המנגינה</l>
+          <l>איך שהיא זורמת עמוק לתוך הנשמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בוא אלי אני חולמת שאתה קרוב כל כך</l>
+          <l>והמנגינה זורמת מלטפת ורכה</l>
+          <l>מסביב הכל רגוע רק אני על השעון</l>
+          <l>ומרוב הגעגוע מתחילה לבכות </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואני חולמת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כוכבים בצבע כסף וירח מזהב</l>
+          <l>זה שידור חוזר ברצף של ליבי המאוהב</l>
+          <l>אני חיה לי בסרט מול העיר הישנה</l>
+          <l>ואליך מתמכרת יחד עם המנגינה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואני חולמת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חוזרים לירקון</title>
+        <singer classification="male singer">יגאל בשן</singer>
+        <writer>יגאל בשן</writer>
+        <composer>יגאל בשן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חוזרים לירקון</head>
+        <lg number="1" type="stanza">
+          <l>חוזרים לירקון בית ספר תיכון</l>
+          <l>לאן ניסע בקיץ הבא</l>
+          <l>נואיבה חזרה, אילת רחוקה</l>
+          <l>המים כהים אנחנו שותקים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גלים גדולים שוטפים את העיניים</l>
+          <l>ירח תמהוני מסביר פנים</l>
+          <l>בתי מלון עולים על פני המים</l>
+          <l>ויפו מרחוק אוספת תיירים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שטים בירקון לים התיכון</l>
+          <l>סירה, דייגים ולילה אפור</l>
+          <l>דגים אלמונים חולפים ושותקים</l>
+          <l>משהו עצוב עובר שם בפנים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גלים גדולים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נואיבה חזרה, אילת רחוקה</l>
+          <l>לאן ניסע בקיץ הבא</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

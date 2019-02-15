@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאוהב בגשם</title>
+        <singer classification="male singer">עופר לוי</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>ג'אני בלפיורה</composer>
+        <album>אוהב לחיות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאוהב בגשם</head>
+        <lg number="1" type="stanza">
+          <l>את יופייך הזוהר אין מילים לתאר</l>
+          <l>הלב בוער איך אפשר לוותר</l>
+          <l>כל מילה היא תפילה אל נפשך היפה</l>
+          <l>את שיריי מקדיש לך מהנשמה</l>
+          <l>כשעברת ברחוב קראתי בשמך</l>
+          <l>הסתובבת לאחור המשכת בלכתך</l>
+          <l>שיערך השחור לגופך ג'ינס צמוד</l>
+          <l>ולידך מאושר בלעדייך אבוד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מול ביתך עומד בגשם נרטב</l>
+          <l>מחכה רק לך מאוהב</l>
+          <l>אין מילים בפי כדי לתאר</l>
+          <l>לפתע עברת עם אחר</l>
+          <l>או או זה את ליבי שובר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה אני ששלחתי לך פרח ורוד</l>
+          <l>בעינייך נזכר לא יכול לעבוד</l>
+          <l>מכתבים ששלחתי את לא התייחסת</l>
+          <l>דעי לך נסחפתי כשראיתי אותך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מול חלון ביתך עומד מחכה</l>
+          <l>הגשם מכה אותך לא רואה</l>
+          <l>כמה זמן יעבור עד שתביני אותי</l>
+          <l>השיר הזה מוקדש לך מנשמתי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מול ביתך עומד בגשם נרטב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

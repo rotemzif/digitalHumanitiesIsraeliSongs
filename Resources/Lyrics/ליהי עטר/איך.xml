@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך 89</title>
+        <singer classification="unknown">ליהי עטר</singer>
+        <writer>סהר חגי</writer>
+        <composer>ניצן קייקוב</composer>
+        <album>ליהי עטר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך</head>
+        <lg number="1" type="stanza">
+          <l>לא חוזרת לתקן </l>
+          <l>משאירה את מה שאין </l>
+          <l>אוספת רסיסים מהרצפה </l>
+          <l>כמה סיפורים סיפרתי לי בלי סוף </l>
+          <l>שילמתי לזרים כדי לחשוף </l>
+          <l>אוספת את עצמי מהרצפה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך הזמן משתק אותי </l>
+          <l>עוד יום מנתק אותי מהמציאות </l>
+          <l>אני לא מחוברת לכלום </l>
+          <l>כלום לא נוגע בי </l>
+          <l>לב מתרוקן </l>
+          <l>אני גונבת אוויר </l>
+          <l>רגע נושמת </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תמיד מסתכלת ולא רואה </l>
+          <l>עכשיו שותקת לא מגלה </l>
+          <l>סודות שאני שומרת ולא רוצה </l>
+          <l>כל יום ניראה לי כמו אתמול </l>
+          <l>תשובות באות ואין מה לשאול </l>
+          <l>מילים שאמרתי בלחש רודפות אחרי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך הזמן משתק אותי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>למה הכל מתרחק</l>
+          <l>כשאני נוגעת לרגע בשקט </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>איך הזמן משתק אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

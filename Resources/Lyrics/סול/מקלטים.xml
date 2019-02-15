@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מקלטים</title>
+        <singer classification="unknown">סול 8</singer>
+        <writer>סול</writer>
+        <composer>סול</composer>
+        <album>מגיעה משם</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מקלטים</head>
+        <lg number="1" type="stanza">
+          <l>מאוחר בלילה</l>
+          <l>נתת לרוח להיכנס</l>
+          <l>מצאת שוויתרת על הכול</l>
+          <l>שמכרת בזול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>העיר בנויה ממקלטים</l>
+          <l>שנמסים בכל פעם שקראת בשמי</l>
+          <l>הכול מתפורר</l>
+          <l>כל השקרים שלי מול האמת שלך</l>
+          <l>ממתי האמת שלך?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מעל חוטי חשמל</l>
+          <l>קשת בענן חוצה את הכביש</l>
+          <l>לאן אתה נוסע, מעבר להרים?</l>
+          <l>עוזב בלי להרגיש</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>העיר בנויה ממקלטים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מוקדם בבוקר</l>
+          <l>שמש חוצה עננים אפורים</l>
+          <l>בדיוק כשבאת מצאתי הגנה</l>
+          <l>במקלט של השכונה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

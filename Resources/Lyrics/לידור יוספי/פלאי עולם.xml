@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פלאי עולם</title>
+        <singer classification="male singer">לידור יוספי</singer>
+        <writer>אייל צברי</writer>
+        <composer>לידור יוספי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פלאי עולם</head>
+        <lg number="1" type="stanza">
+          <l>הדרך שלפני מאירה לי פנים</l>
+          <l>בין כל האנשים לבד עם החיים</l>
+          <l>החיים ממש קשים בהם יש רגעים</l>
+          <l>בהם האהבה עשתה הכל בנשיקה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הייתי פה, הייתי שם ראיתי כל פלאי עולם</l>
+          <l>ועכשיו מתגעגע לימים הלבנים כשהיינו ילדים</l>
+          <l>שום דבר אי אפשר לשכוח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הדרך שלפני מאירה לי פנים</l>
+          <l>בין כל האנשים לבד עם החיים</l>
+          <l>שנים של חיפושים אחרי כל השינויים</l>
+          <l>אנחנו שוב שבים להיות נאהבים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הייתי פה, הייתי שם ראיתי כל פלאי עולם</l>
+          <l>ועכשיו מתגעגע לימים הלבנים כשהיינו ילדים</l>
+          <l>שום דבר אי אפשר לשכוח</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

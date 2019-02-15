@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זוכר 4</title>
+        <singer classification="unknown">נתנאל 2</singer>
+        <writer>גיל סקופ</writer>
+        <composer>מישה קירקילן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זוכר</head>
+        <lg number="1" type="stanza">
+          <l>שעה, שאנחנו יושבים במיטה </l>
+          <l>ואז כל השברים שבצד </l>
+          <l>מתפזרים בשנייה בינתיים</l>
+          <l>את, שפותחת לי עוד מגירה </l>
+          <l>מתכרבלת בתוך השמיכה </l>
+          <l>יש לשקט הזה סיבה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זוכר, את הכל אני שומר </l>
+          <l>בלי הרגשה, שעלי זה מתגבר </l>
+          <l>כל יום אני זוכר, שהלב שלי אומר </l>
+          <l>אין מלבדך בעולם </l>
+          <l>את האור שבי נדם </l>
+          <l>את האור שבי נדם </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שוב, מנסים להשפיל עוד מבט </l>
+          <l>מרימים את עצמנו מעט </l>
+          <l>והלב לא בוער בינתיים </l>
+          <l>את, מליבך מתפרץ עוד משפט </l>
+          <l>שאותי הוא הופך למעט </l>
+          <l>מטורף מתגבר לאט </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זוכר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא נורמלי</title>
+        <singer classification="male singer">גרי אקשטיין</singer>
+        <writer>אהוד מנור</writer>
+        <composer>גרי אקשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא נורמלי</head>
+        <lg number="1" type="stanza">
+          <l>רק השד יודע מה בעצם בוער לי</l>
+          <l>יש לי זמן ולא רודפים אחרי</l>
+          <l>העולם ישן רק אני עדיין ער לי</l>
+          <l>אין לי שום הסבר מוצלח בחיי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אולי זה רגיל</l>
+          <l>כשאהבה נדלקת </l>
+          <l>אולי זה הגיל</l>
+          <l>שנותן לי שקט</l>
+          <l>פתאום מתעצב </l>
+          <l>אוי כמה רע ומר לי </l>
+          <l>פתאום מתלהב </l>
+          <l>אולי אני לא נורמלי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בספרים כתוב שזה עניין ביולוגי</l>
+          <l>ההורים אומרים שזה יעבור </l>
+          <l>כל גופי שדה קרב סערת גוג ומגוג בי</l>
+          <l>ואותי היא עלולה עוד לגמור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אולי זה רגיל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

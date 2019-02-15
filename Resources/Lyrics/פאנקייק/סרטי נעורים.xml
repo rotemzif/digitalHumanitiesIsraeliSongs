@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סרטי נעורים</title>
+        <singer classification="band">פאנקייק</singer>
+        <writer>יונתן גת</writer>
+        <composer>רועי דותן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סרטי נעורים</head>
+        <lg number="1" type="stanza">
+          <l>אני רוצה להיות כוכב</l>
+          <l>כמו בסרטי הנעורים עכשיו</l>
+          <l>עם עגיל בגבה ושיער מחומצן</l>
+          <l>ותהיה לי חברה בלונדינית</l>
+          <l>ומכונית פתוחה</l>
+          <l>אני כל כך ארצה לשכב איתך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וואו אני אלך לקולג'</l>
+          <l>וואו לעולם לא אלך לצבא</l>
+          <l>וואו ומסיבות בקוטג' עם סמים ואהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני רוצה להיות חרפק</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וואו אני אלך לקולג'</l>
+          <l>וואו לעולם לא אלך לצבא</l>
+          <l>וואו ומסיבות בקוטג' עם סמים ואהבה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וואו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

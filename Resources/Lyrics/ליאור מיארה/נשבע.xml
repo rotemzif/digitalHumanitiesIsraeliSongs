@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נשבע 18</title>
+        <singer classification="unknown">ליאור מיארה</singer>
+        <writer>ליאור מיארה</writer>
+        <composer>דורון רוקח</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נשבע</head>
+        <lg number="1" type="stanza">
+          <l>הביטי לשמיים הנה נופל כוכב</l>
+          <l>הסתכלי לי בעיניים כמה אני בך מאוהב</l>
+          <l>את כל היופי בעולם אני רואה פתאום</l>
+          <l>ועכשיו אני מרגיש כמו בחלום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל מול בורא עולם נשבע לך</l>
+          <l>שתמיד אהיה לצידך</l>
+          <l>את כל הטוב שביקום רואה בך</l>
+          <l>ולעולם לא תהיי לבדך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את כל שתבקשי אתן גם את חיי</l>
+          <l>רק לעולם אל תשכחי שאת מאור עיני</l>
+          <l>היום אני נשבע לאל וגם נשבע לך</l>
+          <l>שבטוב וברע אהיה שלך...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל מול בורא עולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

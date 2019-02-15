@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחר 29</title>
+        <singer classification="female singer">דנה עדיני</singer>
+        <writer>דנה עדיני</writer>
+        <composer>דנה עדיני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחר</head>
+        <lg number="1" type="stanza">
+          <l>כבר שמעתי שכל אהבה שנגמרה לי</l>
+          <l>היא התחלה של משהו מיותר</l>
+          <l>אך לא סיפרו לי שמאהבה שנגמרה לי</l>
+          <l>ישאר בי חלל שלא יסתיר שום דבר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בשביל מה זה טוב?</l>
+          <l>לאהוב קרוב מדי</l>
+          <l>אך לא אוותר</l>
+          <l>לא אתן לך לאהוב אחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>והנה מההתחלה הגיעה עוד אחת</l>
+          <l>ובדיוק כשנדמה שהיא טובה לי</l>
+          <l>נפרמה לה שוב ואת ליבי קרעה לאט</l>
+          <l>כאילו חיים משל עצמה גילתה לי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בשביל מה זה טוב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כי כמה זמן שלא ייקח,</l>
+          <l>אני לא אשתנה אף פעם</l>
+          <l>גם אם יותר את לא תהיי פה</l>
+          <l>לא ויתרתי ולא אוותר</l>
+          <l>לנצח אשאר כאן, </l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חורף 5</title>
+        <singer classification="male singer">גידי גוב</singer>
+        <writer>יואל לרנר</writer>
+        <composer>missing</composer>
+        <album>תנו לגדול בשקט</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חורף</head>
+        <lg number="1" type="stanza">
+          <l>נספר פה על הקיץ</l>
+          <l>שהולך ונעלם</l>
+          <l>מטריות ומגפיים</l>
+          <l>מוציאים מהמחסן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עכשיו - כבר לא</l>
+          <l>נלך לים</l>
+          <l>ונלבש כפפות</l>
+          <l>וסוודר חם</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כי חורף</l>
+          <l>השמש נעלמת בחורף</l>
+          <l>הגשם מטפטף על העורף</l>
+          <l>חורף - וקר</l>
+          <l>חורף - צריך ללבוש</l>
+          <l>מעיל כל החורף</l>
+          <l>וגשם מטפטף על העורף</l>
+          <l>חורף - וקר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל הקיץ - הסתובבנו</l>
+          <l>בין הרים ובין סלעים</l>
+          <l>וברכבת רצנו טסנו</l>
+          <l>הו מה טוב ומה נעים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עכשיו - רק בוץ</l>
+          <l>ושלוליות</l>
+          <l>אין ברירה</l>
+          <l>הקיץ עוד רחוק</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי חורף...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>נספר פה על הקיץ</l>
+          <l>שהולך ונעלם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

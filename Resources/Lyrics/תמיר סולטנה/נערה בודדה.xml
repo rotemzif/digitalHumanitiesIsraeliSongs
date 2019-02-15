@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נערה בודדה</title>
+        <singer classification="unknown">תמיר סולטנה</singer>
+        <writer>ירמי קדושי</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נערה בודדה</head>
+        <lg number="1" type="stanza">
+          <l>אני רואה אותך בוכה בכל פעם ליבי נקרע</l>
+          <l>בלב שלך יש דאגות ולך אבדו כל התקוות</l>
+          <l>מתוך הבית את מביטה גם לך יש לב ונשמה</l>
+          <l>כולם מכרו לך אשליות ולך נותרו רק זכרונות.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את בודדה כל החיים גם ההורים לא דואגים</l>
+          <l>את הכאב לא מבינים ורק אותך מאשימים.</l>
+          <l>את בודדה כל החיים גם ההורים לא דואגים</l>
+          <l>את הכאב לא מבינים ורק אותך מאשימים, ורק אותך מאשימים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את צועדת ללא תקווה מחפשת חום ואהבה</l>
+          <l>אין לך אור באפלה גם השמש אותך נטשה</l>
+          <l>המזל הרע שוב בך פגע ואת עצמך לא מבינה</l>
+          <l>כולם ממך מתרחקים ואת נותרת חסרת אונים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את בודדה כל החיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

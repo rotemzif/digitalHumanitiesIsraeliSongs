@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הפנימיה</title>
+        <singer classification="male singer">פיטר רוט</singer>
+        <writer>דן תורן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הפנימיה</head>
+        <lg number="1" type="stanza">
+          <l>אמא ואבא מפרקים ת'חבילה</l>
+          <l>שולחים אותנו ישר לפנימיה</l>
+          <l>אחי ואני רבים בנסיעה</l>
+          <l>לא מעכלים את מה שקרה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היועצת מציעה שניפרד</l>
+          <l>אח שלי דוקא לא מתנגד</l>
+          <l>שמים אותי לבד ושלא אנדנד</l>
+          <l>יש כאן פישפשים מתחיל לגרד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רק שהעיניים עצומות</l>
+          <l>אני מתחיל לחיות</l>
+          <l>ועד שאתעורר אני מישהו אחר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ההורים בשער מחכים לאישור</l>
+          <l>נוסעים העירה נדמה שחל שיפור</l>
+          <l>אמא דומעת נמרח לה האיפור</l>
+          <l>אחי ואני לא מבינים ת'סיפור</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עוצרים בגלידריה כמו שעוד היה רגיל</l>
+          <l>קצפת סוכריות עוגות ומילקשייק וניל</l>
+          <l>לפתע עוצרים אל מול ביניין גדול</l>
+          <l>אני רוצה לבכות אבל לא, לא יכול</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רק שהעיניים עצומות</l>
+          <l>אני מתחיל לחיות</l>
+          <l>ועד שאתעורר אני מישהו אחר</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אמא ואבא מתגרשים ברבני</l>
+          <l>עדים נוכחים זה אחי ואני</l>
+          <l>אנחנו מקשיבים בפה מלא עוגה</l>
+          <l>איך אבי קורא את סוף הפרשה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

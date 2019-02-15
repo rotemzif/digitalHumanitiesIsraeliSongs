@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תאמרי 2</title>
+        <singer classification="male singer">יואב יצחק</singer>
+        <writer>יואב יצחק</writer>
+        <composer>יואב יצחק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תאמרי</head>
+        <lg number="1" type="stanza">
+          <l>אם תרצי לעזוב רק תגידי</l>
+          <l>אם תרצי להרפות זאת אבין</l>
+          <l>אם תרצי לנתק את הקשר שהיה בינינו שנים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק אל תאמרי לי שלא אהבתי</l>
+          <l>שכאב לך נצבט לי הלב</l>
+          <l>במשפט אחרון בך נוגע</l>
+          <l>ואולי את רוצה לוותר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם תרצי לחזור רק תגידי</l>
+          <l>אם תרצי לשנות זאת אבין</l>
+          <l>אם תרצי לדבר יש עוד דרך</l>
+          <l>ושלחתי מזמן לך פרחים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק אל תאמרי לי שלא אהבתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

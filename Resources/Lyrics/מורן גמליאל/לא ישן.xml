@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא ישן</title>
+        <singer classification="male singer">מורן גמליאל</singer>
+        <writer>מורן גמליאל</writer>
+        <composer>דוד אפשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא ישן</head>
+        <lg number="1" type="stanza">
+          <l>אמצע יום, עטוף בכוכבים</l>
+          <l>השארתי מכתב</l>
+          <l>הזכרונות שלי כבר לא שווים</l>
+          <l>כבר לא מאוהב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמעט ולא ישן בלילה,</l>
+          <l>כמעט ולא רואה ת'בוקר</l>
+          <l>כמעט ומתעורר מתוך שינה</l>
+          <l>כבר לא חוזר לכתוב בלילה,</l>
+          <l>כבר לא שותה אל תוך הבוקר</l>
+          <l>אנ'לא לא ישן, לא ישן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>החלומות שלי לא נגמרים</l>
+          <l>סופו של היום</l>
+          <l>האנשים שלי לא נשארים</l>
+          <l>בלילה אדום אין לי מקום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמעט ולא ישן בלילה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את לא רואה</l>
+          <l>אני קפוא - בתוך שמיכה</l>
+          <l>את לא רואה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

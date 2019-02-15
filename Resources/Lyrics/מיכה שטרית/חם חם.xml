@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חם חם</title>
+        <singer classification="male singer">מיכה שטרית</singer>
+        <writer>מיכה שטרית</writer>
+        <composer>מיכה שטרית</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חם חם</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>חם, חם, זהו להט החמסינים</l>
+          <l>בואי נקפוץ אל מי הנחל הקרירים</l>
+          <l>בואי נצא אל השדות הנעלמים</l>
+          <l>שם ירח נצבט מבכי השועלים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חם, חם, ימי רעה, רעב ושפל</l>
+          <l>אין עבודה, זה הזמן הרחק לנדוד</l>
+          <l>אהובתי, המשיכי הלאה אל תחכי לי</l>
+          <l>לכי ומצאי לך עלם חמודות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>חם, חם</l>
+          <l>חם, חם</l>
+          <l>חם, חם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לך לך בארצך אולי תמצא את עצמך</l>
+          <l>שייך לנוף, לצידי הדרך</l>
+          <l>בכל מקום בו מונח ליבך שם ארצך ומולדתך</l>
+          <l>ואתה אחד מאבני בדרך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>חם, חם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

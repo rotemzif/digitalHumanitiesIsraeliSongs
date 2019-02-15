@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא ידעתי שתלך ממני</title>
+        <singer classification="female singer">חני דינור</singer>
+        <writer>אהוד מנור</writer>
+        <composer>מתי כספי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא ידעתי שתלך ממני</head>
+        <lg number="1" type="stanza">
+          <l>לא ידעתי שתלך ממני בלי לומר מילה, בלי להזהיר</l>
+          <l>לא חלמתי שפתאום יכני רעם שכזה ביום בהיר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואני תמימה תמיד חשבתי שמאושרים כמונו אין</l>
+          <l>ובדמיוני לראות אהבתי איך ביחד נזדקן</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>קול קורא הלילה אין עונה הלילה</l>
+          <l>ואת עצמי - איך אני שונאת</l>
+          <l>איך שאשתנה בשבילך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זה היה דבר כל כך בטוח כמו קפה בבוקר כמו שינה</l>
+          <l>לא הרגשתי שום דבר מתוח</l>
+          <l>לא פתחתי דרך הגנה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואולי הוא יחזור בערב רק הלך לקנות כמה דברים</l>
+          <l>ונלך לראות ביחד סרט או נחליט שנשארים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>קול קורא הלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>
